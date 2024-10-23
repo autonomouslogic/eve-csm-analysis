@@ -1,0 +1,61 @@
+plugins {
+	id "java"
+	id "idea"
+	id "application"
+	id "io.freefair.lombok" version "8.10.2"
+	id "com.diffplug.spotless" version "6.25.0"
+}
+
+group = "com.autonomouslogic.evecsmanalysis"
+version = "dev"
+
+java {
+	toolchain {
+		sourceCompatibility = JavaVersion.VERSION_21
+		targetCompatibility = JavaVersion.VERSION_21
+	}
+}
+
+ext {
+	mainClassName = "com.autonomouslogic.evecsmanalysis.Main"
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	testImplementation platform("org.junit:junit-bom:5.10.0")
+	testImplementation "org.junit.jupiter:junit-jupiter"
+}
+
+spotless {
+	java {
+		target "src/**/*.java"
+		palantirJavaFormat()
+		indentWithTabs()
+	}
+
+	groovyGradle {
+		indentWithTabs()
+	}
+}
+
+application {
+	mainClass = mainClassName
+	applicationDefaultJvmArgs = [
+			"-XX:+PrintCommandLineFlags"
+	]
+}
+
+test {
+	useJUnitPlatform()
+	testLogging {
+		events = [ "FAILED", "PASSED", "SKIPPED" ]
+		showExceptions = true
+		exceptionFormat = "FULL"
+		showExceptions = true
+		showCauses = true
+		showStackTraces = true
+	}
+}

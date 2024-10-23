@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+build/
+local.env
+node_modules/
+.kotlin/
