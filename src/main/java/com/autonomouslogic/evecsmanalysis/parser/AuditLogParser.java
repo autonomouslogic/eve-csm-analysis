@@ -14,20 +14,22 @@ import lombok.NonNull;
 import lombok.SneakyThrows;
 
 public class AuditLogParser extends AbstractParser {
+	private static final String name = "[a-zA-Z0-9 _-]+";
+	private static final String decimal = "\\d+(\\.\\d+)?";
+
 	private static final Pattern ROUND_HEADER =
 			Pattern.compile("Round (?<round>\\d+) beginning - (?<candidates>\\d+) candidates remain");
 	private static final Pattern ROUND_VOTES =
-			Pattern.compile("(?<votes>\\d+(\\.\\d+)?) votes, (?<quota>\\d+(\\.\\d+)?) quota");
-	private static final Pattern TALLEY =
-			Pattern.compile("  (?<votes>\\d+(\\.\\d+)?) \"(?<candidate>[a-zA-Z0-9 _-]+)\"");
-	private static final Pattern ELECTED = Pattern.compile("  Elected: \"(?<candidate>[a-zA-Z0-9 _-]+)\"");
-	private static final Pattern TRANSFER_FROM = Pattern.compile("  Transfer from \"(?<candidate>[a-zA-Z0-9 _-]+)\":");
-	private static final Pattern TRANSFER_VOTES = Pattern.compile(
-			"    Votes: (?<votes>\\d+(\\.\\d+)?), Factor: (?<factor>\\d+(\\.\\d+)?), Excess: (?<excess>\\d+(\\.\\d+)?)");
+			Pattern.compile("(?<votes>" + decimal + ") votes, (?<quota>" + decimal + ") quota");
+	private static final Pattern TALLEY = Pattern.compile("  (?<votes>" + decimal + ") \"(?<candidate>" + name + ")\"");
+	private static final Pattern ELECTED = Pattern.compile("  Elected: \"(?<candidate>" + name + ")\"");
+	private static final Pattern TRANSFER_FROM = Pattern.compile("  Transfer from \"(?<candidate>" + name + ")\":");
+	private static final Pattern TRANSFER_VOTES = Pattern.compile("    Votes: (?<votes>" + decimal
+			+ "), Factor: (?<factor>" + decimal + "), Excess: (?<excess>" + decimal + ")");
 	private static final Pattern TRANSFER_TO =
-			Pattern.compile("    (?<votes>\\d+(\\.\\d+)?) votes to \"?(?<candidate>[a-zA-Z0-9 _-]+)\"?");
+			Pattern.compile("    (?<votes>" + decimal + ") votes to \"?(?<candidate>" + name + ")\"?");
 	private static final Pattern ELIMINATION =
-			Pattern.compile("  Elimination: \"(?<candidate>[a-zA-Z0-9 _-]+)\" with (?<votes>\\d+(\\.\\d+)?) votes");
+			Pattern.compile("  Elimination: \"(?<candidate>" + name + ")\" with (?<votes>" + decimal + ") votes");
 
 	private AuditLog.AuditLogBuilder auditLog;
 

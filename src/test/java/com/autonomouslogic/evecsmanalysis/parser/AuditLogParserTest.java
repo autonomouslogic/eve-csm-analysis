@@ -2,11 +2,16 @@ package com.autonomouslogic.evecsmanalysis.parser;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import com.autonomouslogic.evecsmanalysis.Main;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
 import java.util.List;
+import java.util.stream.Stream;
 import lombok.SneakyThrows;
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.params.ParameterizedTest;
+import org.junit.jupiter.params.provider.Arguments;
+import org.junit.jupiter.params.provider.MethodSource;
 
 public class AuditLogParserTest {
 	@Test
@@ -64,5 +69,17 @@ public class AuditLogParserTest {
 						"Dark Shines",
 						"Luke Anninan"),
 				auditLog.getFinalResults());
+	}
+
+	@ParameterizedTest
+	@MethodSource("csmDirs")
+	public void shouldParseAllAuditLogsWithoutErroring(File dir) {
+		new AuditLogParser(new File(dir, "auditLog.txt")).parse();
+	}
+
+	public static Stream<Arguments> csmDirs() {
+		return Main.getAllCsmDirs()
+				.filter(d -> new File(d, "votes.blt").exists())
+				.map(d -> Arguments.of(d));
 	}
 }
