@@ -1,5 +1,6 @@
 package com.autonomouslogic.evecsmanalysis.models;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
 import java.util.List;
 import java.util.stream.Collectors;
 import lombok.Builder;
@@ -10,6 +11,7 @@ import lombok.extern.jackson.Jacksonized;
 @Value
 @Builder(toBuilder = true)
 @Jacksonized
+@JsonInclude(JsonInclude.Include.NON_NULL)
 public class Ballot {
 	@Singular
 	List<Integer> rankings;

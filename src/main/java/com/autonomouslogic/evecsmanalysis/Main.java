@@ -5,14 +5,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
 import java.util.Arrays;
 import java.util.stream.Stream;
-
 import lombok.SneakyThrows;
-import org.apache.commons.io.FileUtils;
-import org.apache.commons.io.filefilter.FalseFileFilter;
-import org.apache.commons.io.filefilter.FileFileFilter;
-import org.apache.commons.io.filefilter.IOFileFilter;
-import org.apache.commons.io.filefilter.PrefixFileFilter;
-import org.apache.commons.io.filefilter.TrueFileFilter;
 
 public class Main {
 	private static final ObjectMapper objectMapper = new ObjectMapper();
@@ -31,8 +24,8 @@ public class Main {
 
 	public static Stream<File> getAllCsmDirs() {
 		return Arrays.stream(new File(".").listFiles())
-			.filter(f -> f.isDirectory())
-			.filter(d -> d.getName().startsWith("csm"))
-			.sorted();
+				.filter(f -> f.isDirectory())
+				.filter(d -> d.getName().startsWith("csm"))
+				.sorted();
 	}
 }
