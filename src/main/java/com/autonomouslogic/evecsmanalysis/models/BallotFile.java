@@ -1,6 +1,7 @@
 package com.autonomouslogic.evecsmanalysis.models;
 
 import java.util.List;
+import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -23,10 +24,10 @@ public class BallotFile {
 	int seatCount;
 
 	@Singular
-	List<Votes> allVotes;
+	Map<Integer, String> candidateNames;
 
 	@Singular
-	List<String> candidateNames;
+	List<Votes> allVotes;
 
 	public String toString() {
 		return Stream.of(serHeader(), serWithdrawals(), serVotes(), Stream.of("0"), serCandidates(), serName())
@@ -48,7 +49,10 @@ public class BallotFile {
 	}
 
 	private Stream<String> serCandidates() {
-		return candidateNames.stream().map(c -> "\"" + c + "\"");
+		return candidateNames.keySet().stream()
+				.sorted()
+				.map(k -> candidateNames.get(k))
+				.map(c -> "\"" + c + "\"");
 	}
 
 	private Stream<String> serName() {
