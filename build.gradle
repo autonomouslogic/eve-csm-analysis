@@ -4,6 +4,7 @@ plugins {
 	id "application"
 	id "io.freefair.lombok" version "8.10.2"
 	id "com.diffplug.spotless" version "6.25.0"
+	id "org.javacc.javacc" version "3.0.2"
 }
 
 group = "com.autonomouslogic.evecsmanalysis"
@@ -25,8 +26,15 @@ repositories {
 }
 
 dependencies {
+	javacc "net.java.dev.javacc:javacc:7.0.13"
+
 	testImplementation platform("org.junit:junit-bom:5.10.0")
 	testImplementation "org.junit.jupiter:junit-jupiter"
+}
+
+compileJavacc {
+	inputDirectory = file("src/main/javacc")
+	outputDirectory = file(project.buildDir.absolutePath + "/generated/javacc")
 }
 
 spotless {
