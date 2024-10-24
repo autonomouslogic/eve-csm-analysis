@@ -1,7 +1,9 @@
 package com.autonomouslogic.evecsmanalysis.parser;
 
 import com.autonomouslogic.evecsmanalysis.models.AuditLog;
+import com.autonomouslogic.evecsmanalysis.models.Elimination;
 import com.autonomouslogic.evecsmanalysis.models.Round;
+import com.autonomouslogic.evecsmanalysis.models.VotesTransfer;
 import java.io.File;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -18,6 +20,13 @@ public class AuditLogParser extends AbstractParser {
 	private static final Pattern TALLEY =
 			Pattern.compile("  (?<votes>\\d+(\\.\\d+)?) \"(?<candidate>[a-zA-Z0-9 _-]+)\"");
 	private static final Pattern ELECTED = Pattern.compile("  Elected: \"(?<candidate>[a-zA-Z0-9 _-]+)\"");
+	private static final Pattern TRANSFER_FROM = Pattern.compile("  Transfer from \"(?<candidate>[a-zA-Z0-9 _-]+)\":");
+	private static final Pattern TRANSFER_VOTES = Pattern.compile(
+			"    Votes: (?<votes>\\d+(\\.\\d+)?), Factor: (?<factor>\\d+(\\.\\d+)?), Excess: (?<excess>\\d+(\\.\\d+)?)");
+	private static final Pattern TRANSFER_TO =
+			Pattern.compile("    (?<votes>\\d+(\\.\\d+)?) votes to \"?(?<candidate>[a-zA-Z0-9 _-]+)\"?");
+	private static final Pattern ELIMINATION =
+			Pattern.compile("  Elimination: \"(?<candidate>[a-zA-Z0-9 _-]+)\" with (?<votes>\\d+(\\.\\d+)?) votes");
 
 	private AuditLog.AuditLogBuilder auditLog;
 
@@ -41,7 +50,13 @@ public class AuditLogParser extends AbstractParser {
 	}
 
 	private void parseRounds() {
-		parseRound();
+		String line;
+		while ((line = lines.get(lineIndex)).startsWith("Round ")) {
+			parseRound();
+			if (lines.get(lineIndex).equals("")) {
+				lineIndex++;
+			}
+		}
 	}
 
 	private void parseRound() {
@@ -81,7 +96,10 @@ public class AuditLogParser extends AbstractParser {
 		var map = new LinkedHashMap<String, Double>();
 		String line;
 		while ((line = lines.get(lineIndex)).startsWith("  ")) {
-			var matcher = parseLine(line, TALLEY, "Invalid talley");
+			var matcher = TALLEY.matcher(line);
+			if (!matcher.matches()) {
+				break;
+			}
 			map.put(matcher.group("candidate"), Double.parseDouble(matcher.group("votes")));
 			lineIndex++;
 		}
@@ -96,6 +114,9 @@ public class AuditLogParser extends AbstractParser {
 		}
 		lineIndex++;
 		parseElectedCandidates(round);
+		parseTransfers(round);
+		parsePreEliminationTalley(round);
+		parseElimination(round);
 	}
 
 	private void parseElectedCandidates(Round.RoundBuilder round) {
@@ -105,5 +126,61 @@ public class AuditLogParser extends AbstractParser {
 			round.electedCandidate(matcher.group("candidate"));
 			lineIndex++;
 		}
+	}
+
+	private void parseTransfers(Round.RoundBuilder round) {
+		String line;
+		while ((line = lines.get(lineIndex)).startsWith("  Transfer from ")) {
+			var transfer = VotesTransfer.builder();
+			parseTransferFrom(transfer);
+			parseTransferVotes(transfer);
+			parseTransferLines(transfer);
+			round.votesTransfer(transfer.build());
+		}
+	}
+
+	private void parseTransferFrom(VotesTransfer.VotesTransferBuilder transfer) {
+		var matcher = parseLine(TRANSFER_FROM, "Invalid transfer from");
+		transfer.fromCandidate(matcher.group("candidate"));
+		lineIndex++;
+	}
+
+	private void parseTransferVotes(VotesTransfer.VotesTransferBuilder transfer) {
+		var matcher = parseLine(TRANSFER_VOTES, "Invalid transfer votes");
+		transfer.votes(Double.parseDouble(matcher.group("votes")));
+		transfer.factor(Double.parseDouble(matcher.group("factor")));
+		transfer.excess(Double.parseDouble(matcher.group("excess")));
+		lineIndex++;
+	}
+
+	private void parseTransferLines(VotesTransfer.VotesTransferBuilder transfer) {
+		while (true) {
+			var line = lines.get(lineIndex);
+			var matcher = TRANSFER_TO.matcher(line);
+			if (!matcher.matches()) {
+				break;
+			}
+			transfer.toCandidate(matcher.group("candidate"), Double.parseDouble(matcher.group("votes")));
+			lineIndex++;
+		}
+	}
+
+	@SneakyThrows
+	private void parsePreEliminationTalley(Round.RoundBuilder round) {
+		if (!lines.get(lineIndex).equals("  Pre-elimination tally:")) {
+			throw new IllegalArgumentException(
+					"Invalid pre-elimination talley on line " + (lineIndex + 1) + ": " + lines.get(lineIndex));
+		}
+		lineIndex++;
+		round.preEliminationTalley(parseTalley());
+	}
+
+	private void parseElimination(Round.RoundBuilder round) {
+		var matcher = parseLine(ELIMINATION, "Invalid elimination");
+		round.elimination(Elimination.builder()
+				.candidate(matcher.group("candidate"))
+				.votes(Double.parseDouble(matcher.group("votes")))
+				.build());
+		lineIndex++;
 	}
 }
