@@ -30,8 +30,9 @@ public class BallotFile {
 
 	public String toString() {
 		return Stream.of(serHeader(), serWithdrawals(), serVotes(), Stream.of("0"), serCandidates(), serName())
-				.flatMap(Function.identity())
-				.collect(Collectors.joining("\n"));
+						.flatMap(Function.identity())
+						.collect(Collectors.joining("\n"))
+				+ "\n";
 	}
 
 	private Stream<String> serHeader() {

@@ -22,7 +22,6 @@ public class BallotParserTest {
 		try (var in = new FileInputStream(file)) {
 			ballotContents = new String(in.readAllBytes());
 		}
-		assertEquals(
-				ballotContents.replace("\r\n", "\n").trim(), parsed.toString().trim());
+		assertEquals(ballotContents.replace("\r\n", "\n"), parsed.toString());
 	}
 }
