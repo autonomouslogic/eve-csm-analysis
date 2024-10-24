@@ -7,12 +7,14 @@ import java.util.stream.Stream;
 import lombok.Builder;
 import lombok.Singular;
 import lombok.Value;
+import lombok.extern.jackson.Jacksonized;
 
 /**
  * Root model for parsing <code>.blt</code> files.
  */
 @Value
 @Builder(toBuilder = true)
+@Jacksonized
 public class BallotFile {
 	int candidates;
 	int seats;

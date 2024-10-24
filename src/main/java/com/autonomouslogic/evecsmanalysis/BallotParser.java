@@ -20,7 +20,7 @@ import org.apache.commons.io.IOUtils;
 @RequiredArgsConstructor
 public class BallotParser {
 	private static final Pattern CANDIDATES = Pattern.compile("(?<candidates>\\d+) (?<seats>\\d+)");
-	private static final Pattern VOTES = Pattern.compile("(?<count>\\d+)((?: \\d+)+)");
+	private static final Pattern VOTES = Pattern.compile("(?<count>\\d+)(?<rankings>( \\d+)+)");
 
 	private final List<String> lines;
 	private int lineIndex;
@@ -74,7 +74,7 @@ public class BallotParser {
 		var votes = Votes.builder();
 		var ballot = Ballot.builder();
 		votes.count(Integer.parseInt(matcher.group("count")));
-		var rankings = Arrays.stream(matcher.group(2).split(" "))
+		var rankings = Arrays.stream(matcher.group("rankings").split(" "))
 				.filter(s -> !s.isBlank())
 				.map(Integer::parseInt)
 				.toList();

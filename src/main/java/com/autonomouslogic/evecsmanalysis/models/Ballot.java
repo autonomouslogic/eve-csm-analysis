@@ -5,9 +5,11 @@ import java.util.stream.Collectors;
 import lombok.Builder;
 import lombok.Singular;
 import lombok.Value;
+import lombok.extern.jackson.Jacksonized;
 
 @Value
 @Builder(toBuilder = true)
+@Jacksonized
 public class Ballot {
 	@Singular
 	List<Integer> rankings;

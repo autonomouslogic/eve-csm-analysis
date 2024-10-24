@@ -16,6 +16,7 @@ public class BallotParserTest {
 		var file = new File("csm18/votes.blt");
 		assertTrue(file.exists());
 		var parsed = new BallotParser(file).parse();
+		// System.out.println(new ObjectMapper().writerWithDefaultPrettyPrinter().writeValueAsString(parsed));
 		assertNotNull(parsed);
 		String ballotContents;
 		try (var in = new FileInputStream(file)) {
