@@ -46,9 +46,14 @@ public abstract class AbstractParser {
 	}
 
 	@SneakyThrows
-	protected Matcher parseLine(Pattern candidates, String error) {
+	protected Matcher parseLine(Pattern pattern, String error) {
 		var line = lines.get(lineIndex);
-		var matcher = candidates.matcher(line);
+		return parseLine(line, pattern, error);
+	}
+
+	@SneakyThrows
+	protected Matcher parseLine(String line, Pattern pattern, String error) {
+		var matcher = pattern.matcher(line);
 		if (!matcher.matches()) {
 			throw new IOException(error + " on line " + (lineIndex + 1) + ": " + line);
 		}

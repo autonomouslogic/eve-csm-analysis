@@ -19,8 +19,7 @@ public class Round {
 
 	double quota;
 
-	@Singular
-	Map<String, Double> initialTallies;
+	Map<String, Double> initialTalley;
 
 	@Singular
 	List<String> electedCandidates;
@@ -28,8 +27,7 @@ public class Round {
 	@Singular
 	List<VotesTransfer> votesTransfers;
 
-	@Singular
-	Map<String, Double> preEliminationTallies;
+	Map<String, Double> preEliminationTalley;
 
 	Elimination elimination;
 }
