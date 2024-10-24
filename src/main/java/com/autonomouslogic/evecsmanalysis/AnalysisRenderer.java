@@ -33,6 +33,7 @@ public class AnalysisRenderer {
 	private IContext createContext() {
 		var context = new Context(Locale.ENGLISH);
 		context.setVariable("csmNumber", csmNumber);
+		data.forEach(context::setVariable);
 		return context;
 	}
 
