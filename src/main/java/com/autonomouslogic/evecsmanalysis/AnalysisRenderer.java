@@ -17,8 +17,6 @@ import org.thymeleaf.templateresolver.ClassLoaderTemplateResolver;
 
 @RequiredArgsConstructor
 public class AnalysisRenderer {
-	private final int csmNumber;
-
 	@NonNull
 	private final AnalysisData data;
 
@@ -32,7 +30,6 @@ public class AnalysisRenderer {
 
 	private IContext createContext() {
 		var context = new Context(Locale.ENGLISH);
-		context.setVariable("csmNumber", csmNumber);
 		context.setVariable("data", data);
 		return context;
 	}

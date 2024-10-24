@@ -5,13 +5,14 @@ import com.autonomouslogic.evecsmanalysis.models.AuditLog;
 import com.autonomouslogic.evecsmanalysis.models.BallotFile;
 import com.autonomouslogic.evecsmanalysis.models.CandidateRound;
 import com.autonomouslogic.evecsmanalysis.models.Votes;
+import java.util.HashSet;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 
-import java.util.HashSet;
-
 @RequiredArgsConstructor
 public class AnalysisRunner {
+	private final int csmNumber;
+
 	@NonNull
 	private final BallotFile ballotFile;
 
@@ -20,6 +21,7 @@ public class AnalysisRunner {
 
 	public AnalysisData run() {
 		var data = AnalysisData.builder()
+				.csmNumber(csmNumber)
 				.candidateCount(ballotFile.getCandidateCount())
 				.totalVotes(totalVotes());
 		winnersAndEliminations(data);
@@ -42,10 +44,8 @@ public class AnalysisRunner {
 					throw new IllegalArgumentException();
 				}
 				if (!seenWinners.contains(elected)) {
-					data.winner(CandidateRound.builder()
-						.candidate(elected)
-						.round(r)
-						.build());
+					data.winner(
+							CandidateRound.builder().candidate(elected).round(r).build());
 					seenWinners.add(elected);
 				}
 			}
@@ -54,19 +54,14 @@ public class AnalysisRunner {
 				throw new IllegalArgumentException();
 			}
 			if (!seenEliminations.contains(eliminated)) {
-				data.elimination(CandidateRound.builder()
-					.candidate(eliminated)
-					.round(r)
-					.build());
+				data.elimination(
+						CandidateRound.builder().candidate(eliminated).round(r).build());
 				seenEliminations.add(eliminated);
 			}
 		}
 		for (var winner : auditLog.getFinalResults()) {
 			if (!seenWinners.contains(winner)) {
-				data.winner(CandidateRound.builder()
-					.candidate(winner)
-					.round(r)
-					.build());
+				data.winner(CandidateRound.builder().candidate(winner).round(r).build());
 			}
 		}
 	}
