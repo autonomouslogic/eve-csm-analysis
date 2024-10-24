@@ -5,6 +5,7 @@ import java.io.FileWriter;
 import java.nio.charset.StandardCharsets;
 import java.time.Duration;
 import java.util.Locale;
+import java.util.Map;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
 import org.thymeleaf.TemplateEngine;
@@ -16,7 +17,7 @@ import org.thymeleaf.templateresolver.ClassLoaderTemplateResolver;
 @RequiredArgsConstructor
 public class AnalysisRenderer {
 	private final int csmNumber;
-	private final File ballotFilePath;
+	private final Map<String, Object> data;
 
 	@SneakyThrows
 	public void render(File outputFile) {
