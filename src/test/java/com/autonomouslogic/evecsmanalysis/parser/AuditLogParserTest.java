@@ -37,6 +37,7 @@ public class AuditLogParserTest {
 		assertEquals(2301.830886, round1Transfers.get(0).getToCandidates().get("Angry Mustache"));
 		assertEquals(39.680463, round1Transfers.get(0).getToCandidates().get("Kontan Rekor"));
 		assertEquals(21.842457, round1Transfers.get(0).getToCandidates().get("Exhausted"));
+		assertEquals(0.364041, round1Transfers.get(0).getToCandidates().get("Dhuras"));
 		assertEquals("Alcoholic Satan", round1Transfers.get(1).getFromCandidate());
 
 		var preEliminationTallies = round1.getPreEliminationTalley();
@@ -44,6 +45,11 @@ public class AuditLogParserTest {
 		assertEquals(3326, preEliminationTallies.get("Angry Mustache"));
 
 		assertEquals(39, auditLog.getRounds().size());
+
+		assertEquals(32, auditLog.getRounds().get(31).getRoundNumber());
+		assertEquals(
+				List.of("Alcoholic Satan", "Kazanir", "Luke Anninan", "Angry Mustache"),
+				auditLog.getRounds().get(31).getElectedCandidates());
 
 		assertEquals(
 				List.of(

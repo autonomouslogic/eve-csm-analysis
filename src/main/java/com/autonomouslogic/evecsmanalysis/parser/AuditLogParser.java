@@ -5,6 +5,7 @@ import com.autonomouslogic.evecsmanalysis.models.Elimination;
 import com.autonomouslogic.evecsmanalysis.models.Round;
 import com.autonomouslogic.evecsmanalysis.models.VotesTransfer;
 import java.io.File;
+import java.io.IOException;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
@@ -46,6 +47,7 @@ public class AuditLogParser extends AbstractParser {
 		initParser();
 		auditLog = AuditLog.builder();
 		parseRounds();
+		parseFinalResult();
 		return auditLog.build();
 	}
 
@@ -136,6 +138,7 @@ public class AuditLogParser extends AbstractParser {
 			parseTransferVotes(transfer);
 			parseTransferLines(transfer);
 			round.votesTransfer(transfer.build());
+			parseElectedCandidates(round);
 		}
 	}
 
@@ -182,5 +185,21 @@ public class AuditLogParser extends AbstractParser {
 				.votes(Double.parseDouble(matcher.group("votes")))
 				.build());
 		lineIndex++;
+	}
+
+	@SneakyThrows
+	private void parseFinalResult() {
+		if (!lines.get(lineIndex).equals("Result:")) {
+			throw new IOException();
+		}
+		lineIndex++;
+		while (lineIndex < lines.size()) {
+			var line = lines.get(lineIndex);
+			if (!line.startsWith("\"") || !line.endsWith("\"")) {
+				break;
+			}
+			auditLog.finalResult(line.substring(1, line.length() - 1));
+			lineIndex++;
+		}
 	}
 }
