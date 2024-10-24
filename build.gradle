@@ -25,6 +25,10 @@ repositories {
 }
 
 dependencies {
+	implementation "com.autonomouslogic.commons:commons-java:1.9.1"
+	implementation "org.apache.commons:commons-lang3:3.17.0"
+	implementation "commons-io:commons-io:2.16.1"
+
 	testImplementation platform("org.junit:junit-bom:5.10.0")
 	testImplementation "org.junit.jupiter:junit-jupiter"
 }
