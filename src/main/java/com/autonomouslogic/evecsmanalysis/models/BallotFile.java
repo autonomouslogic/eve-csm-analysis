@@ -19,7 +19,6 @@ import lombok.extern.jackson.Jacksonized;
 @Value
 @Builder(toBuilder = true)
 @Jacksonized
-@JsonInclude(JsonInclude.Include.NON_NULL)
 public class BallotFile {
 	String name;
 

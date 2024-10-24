@@ -53,6 +53,7 @@
     "48" : "MILINT ARC Trooper",
     "49" : "Rico Shikkoken"
   },
+  "withdrawnCandidates" : [ ],
   "allVotes" : [ {
     "count" : 5666,
     "ballot" : {

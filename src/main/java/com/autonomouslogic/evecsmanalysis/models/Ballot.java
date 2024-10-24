@@ -11,7 +11,6 @@ import lombok.extern.jackson.Jacksonized;
 @Value
 @Builder(toBuilder = true)
 @Jacksonized
-@JsonInclude(JsonInclude.Include.NON_NULL)
 public class Ballot {
 	@Singular
 	List<Integer> rankings;

@@ -1,4 +1,7 @@
-.PHONY: test lint format clean
+.PHONY: analysis test lint format clean
+
+analysis:
+	./gradlew run --stacktrace
 
 test:
 	./gradlew test --stacktrace
