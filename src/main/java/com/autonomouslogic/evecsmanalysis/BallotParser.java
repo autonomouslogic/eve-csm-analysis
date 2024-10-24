@@ -44,6 +44,7 @@ public class BallotParser {
 		// parseWithdrawals();
 		parseVotes();
 		parseCandidates();
+		parseName();
 		return ballotFile.build();
 	}
 
@@ -93,6 +94,12 @@ public class BallotParser {
 			ballotFile.candidateName(line.substring(1, line.length() - 1));
 			lineIndex++;
 		}
+	}
+
+	@SneakyThrows
+	private void parseName() {
+		ballotFile.name(lines.get(lineIndex));
+		lineIndex++;
 	}
 
 	@SneakyThrows
