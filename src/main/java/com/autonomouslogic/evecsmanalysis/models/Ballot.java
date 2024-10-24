@@ -1,6 +1,5 @@
 package com.autonomouslogic.evecsmanalysis.models;
 
-import com.fasterxml.jackson.annotation.JsonInclude;
 import java.util.List;
 import java.util.stream.Collectors;
 import lombok.Builder;
