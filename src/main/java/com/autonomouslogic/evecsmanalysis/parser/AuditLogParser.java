@@ -14,7 +14,7 @@ import lombok.NonNull;
 import lombok.SneakyThrows;
 
 public class AuditLogParser extends AbstractParser {
-	private static final String name = "[a-zA-Z0-9 _-]+";
+	private static final String name = "[a-zA-Z0-9 '_-]+";
 	private static final String decimal = "\\d+(\\.\\d+)?";
 
 	private static final Pattern ROUND_HEADER =
