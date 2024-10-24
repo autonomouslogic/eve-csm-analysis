@@ -1,6 +1,8 @@
 package com.autonomouslogic.evecsmanalysis;
 
+import com.autonomouslogic.evecsmanalysis.models.AuditLog;
 import com.autonomouslogic.evecsmanalysis.models.BallotFile;
+import com.autonomouslogic.evecsmanalysis.parser.AuditLogParser;
 import com.autonomouslogic.evecsmanalysis.parser.BallotParser;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
@@ -25,15 +27,17 @@ public class Main {
 		if (csmNumber < 1) {
 			throw new IllegalArgumentException("Invalid CSM number: " + csmNumber + " on dir: " + csmDir);
 		}
-		var votesBlt = new File(csmDir, "votes.blt");
-		if (!votesBlt.exists()) {
-			throw new FileNotFoundException(votesBlt.toString());
-		}
+		var votesBlt = requiredFile(csmDir, "votes.blt");
 		var votesJson = new File(csmDir, "votes.json");
+		var auditLogTxt = requiredFile(csmDir, "auditLog.txt");
+		var auditLogJson = new File(csmDir, "auditLog.json");
 		var readme = new File(csmDir, "Readme.md");
 
 		var ballotFile = parseBallotFile(votesBlt);
 		objectMapper.writerWithDefaultPrettyPrinter().writeValue(votesJson, ballotFile);
+
+		var auditLog = parseAuditLog(auditLogTxt);
+		objectMapper.writerWithDefaultPrettyPrinter().writeValue(auditLogJson, auditLog);
 
 		var data = new AnalysisRunner(ballotFile).run();
 		new AnalysisRenderer(csmNumber, data).render(readme);
@@ -41,6 +45,18 @@ public class Main {
 
 	private static BallotFile parseBallotFile(File file) {
 		return new BallotParser(file).parse();
+	}
+
+	private static AuditLog parseAuditLog(File file) {
+		return new AuditLogParser(file).parse();
+	}
+
+	private static File requiredFile(File csmDir, String child) throws FileNotFoundException {
+		var file = new File(csmDir, child);
+		if (!file.exists()) {
+			throw new FileNotFoundException(file.toString());
+		}
+		return file;
 	}
 
 	public static Stream<File> getAllCsmDirs() {

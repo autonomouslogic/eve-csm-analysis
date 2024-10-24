@@ -11,8 +11,8 @@ import lombok.extern.jackson.Jacksonized;
 @Jacksonized
 public class AuditLog {
 	@Singular
-	List<String> finalResults;
+	List<Round> rounds;
 
 	@Singular
-	List<Round> rounds;
+	List<String> finalResults;
 }
