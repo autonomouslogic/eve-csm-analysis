@@ -1,14 +1,13 @@
 package com.autonomouslogic.evecsmanalysis;
 
-import lombok.SneakyThrows;
-import org.junit.jupiter.api.Test;
-
-import java.io.File;
-import java.io.FileInputStream;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertTrue;
+
+import java.io.File;
+import java.io.FileInputStream;
+import lombok.SneakyThrows;
+import org.junit.jupiter.api.Test;
 
 public class BallotParserTest {
 	@Test
