@@ -1,6 +1,7 @@
 package com.autonomouslogic.evecsmanalysis;
 
 import com.autonomouslogic.evecsmanalysis.models.BallotFile;
+import com.autonomouslogic.evecsmanalysis.parser.BallotParser;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
 import java.io.FileNotFoundException;

@@ -1,9 +1,10 @@
-package com.autonomouslogic.evecsmanalysis;
+package com.autonomouslogic.evecsmanalysis.parser;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
+import com.autonomouslogic.evecsmanalysis.Main;
 import java.io.File;
 import java.io.FileInputStream;
 import java.util.stream.Stream;

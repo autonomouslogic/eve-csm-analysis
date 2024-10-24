@@ -1,45 +1,39 @@
-package com.autonomouslogic.evecsmanalysis;
+package com.autonomouslogic.evecsmanalysis.parser;
 
 import com.autonomouslogic.evecsmanalysis.models.Ballot;
 import com.autonomouslogic.evecsmanalysis.models.BallotFile;
 import com.autonomouslogic.evecsmanalysis.models.Votes;
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.IOException;
-import java.io.StringReader;
-import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
 import java.util.List;
-import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import lombok.NonNull;
-import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
-import org.apache.commons.io.IOUtils;
 
-@RequiredArgsConstructor
-public class BallotParser {
+public class BallotParser extends AbstractParser {
 	private static final Pattern CANDIDATES = Pattern.compile("(?<candidates>\\d+) (?<seats>\\d+)");
 
 	// The standard defined "Each such list must end with a zero", but the EVE implementation does not do this.
 	private static final Pattern VOTES = Pattern.compile("(?<count>\\d+)(?<rankings>( \\d+)+)");
 
-	private final List<String> lines;
-	private int lineIndex;
 	private BallotFile.BallotFileBuilder ballotFile;
 
+	public BallotParser(List<String> lines) {
+		super(lines);
+	}
+
 	public BallotParser(@NonNull File file) {
-		this(readFile(file));
+		super(file);
 	}
 
 	public BallotParser(@NonNull String contents) {
-		this(readLines(contents));
+		super(contents);
 	}
 
 	@SneakyThrows
 	public BallotFile parse() {
-		lineIndex = 0;
+		initParser();
 		ballotFile = BallotFile.builder();
 		parseHeader();
 		parseWithdrawals();
@@ -108,29 +102,5 @@ public class BallotParser {
 	private void parseName() {
 		ballotFile.name(lines.get(lineIndex));
 		lineIndex++;
-	}
-
-	@SneakyThrows
-	private Matcher parseLine(Pattern candidates, String error) {
-		var line = lines.get(lineIndex);
-		var matcher = candidates.matcher(line);
-		if (!matcher.matches()) {
-			throw new IOException(error + " on line " + (lineIndex + 1) + ": " + line);
-		}
-		return matcher;
-	}
-
-	@SneakyThrows
-	private static String readFile(File file) {
-		try (var in = new FileInputStream(file)) {
-			return IOUtils.toString(in, StandardCharsets.UTF_8);
-		}
-	}
-
-	@SneakyThrows
-	private static List<String> readLines(String contents) {
-		try (var reader = new BufferedReader(new StringReader(contents))) {
-			return reader.lines().toList();
-		}
 	}
 }
