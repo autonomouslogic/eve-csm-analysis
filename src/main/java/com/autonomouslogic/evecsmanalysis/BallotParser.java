@@ -20,6 +20,8 @@ import org.apache.commons.io.IOUtils;
 @RequiredArgsConstructor
 public class BallotParser {
 	private static final Pattern CANDIDATES = Pattern.compile("(?<candidates>\\d+) (?<seats>\\d+)");
+
+	// The standard defined "Each such list must end with a zero", but the EVE implementation does not do this.
 	private static final Pattern VOTES = Pattern.compile("(?<count>\\d+)(?<rankings>( \\d+)+)");
 
 	private final List<String> lines;
@@ -38,17 +40,18 @@ public class BallotParser {
 	public BallotFile parse() {
 		lineIndex = 0;
 		ballotFile = BallotFile.builder();
-		parseCandidates();
+		parseHeader();
 		// parseWithdrawals();
 		parseVotes();
+		parseCandidates();
 		return ballotFile.build();
 	}
 
 	@SneakyThrows
-	private void parseCandidates() {
+	private void parseHeader() {
 		var matcher = parseLine(CANDIDATES, "Invalid candidates");
-		ballotFile.candidates(Integer.parseInt(matcher.group("candidates")));
-		ballotFile.seats(Integer.parseInt(matcher.group("seats")));
+		ballotFile.candidateCount(Integer.parseInt(matcher.group("candidates")));
+		ballotFile.seatCount(Integer.parseInt(matcher.group("seats")));
 		lineIndex++;
 	}
 
@@ -58,15 +61,10 @@ public class BallotParser {
 
 	@SneakyThrows
 	private void parseVotes() {
-		nextVotes();
-		while (true) {
-			try {
-				nextVotes();
-			} catch (IOException e) {
-				lineIndex--;
-				break;
-			}
-		}
+		do {
+			nextVotes();
+		} while (!lines.get(lineIndex).equals("0"));
+		lineIndex++;
 	}
 
 	private void nextVotes() throws IOException {
@@ -82,6 +80,19 @@ public class BallotParser {
 		votes.ballot(ballot.build());
 		ballotFile.allVote(votes.build());
 		lineIndex++;
+	}
+
+	@SneakyThrows
+	private void parseCandidates() {
+		var candidates = ballotFile.build().getCandidateCount();
+		for (int i = 0; i < candidates; i++) {
+			var line = lines.get(lineIndex);
+			if (!line.startsWith("\"") || !line.endsWith("\"")) {
+				throw new IOException("Invalid candidate on line " + (lineIndex + 1) + ": " + line);
+			}
+			ballotFile.candidateName(line.substring(1, line.length() - 1));
+			lineIndex++;
+		}
 	}
 
 	@SneakyThrows

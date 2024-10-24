@@ -16,20 +16,23 @@ import lombok.extern.jackson.Jacksonized;
 @Builder(toBuilder = true)
 @Jacksonized
 public class BallotFile {
-	int candidates;
-	int seats;
+	int candidateCount;
+	int seatCount;
 
 	@Singular
 	List<Votes> allVotes;
 
+	@Singular
+	List<String> candidateNames;
+
 	public String toString() {
-		return Stream.of(serCandidates(), serWithdrawals(), serVotes())
+		return Stream.of(serHeader(), serWithdrawals(), serVotes(), Stream.of("0"), setCandidates())
 				.flatMap(Function.identity())
 				.collect(Collectors.joining("\n"));
 	}
 
-	private Stream<String> serCandidates() {
-		return Stream.of("%d %d".formatted(candidates, seats));
+	private Stream<String> serHeader() {
+		return Stream.of("%d %d".formatted(candidateCount, seatCount));
 	}
 
 	private Stream<String> serWithdrawals() {
@@ -38,5 +41,9 @@ public class BallotFile {
 
 	private Stream<String> serVotes() {
 		return allVotes.stream().map(Votes::toString);
+	}
+
+	private Stream<String> setCandidates() {
+		return candidateNames.stream().map(c -> "\"" + c + "\"");
 	}
 }
