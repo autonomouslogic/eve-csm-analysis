@@ -13,6 +13,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
 import org.apache.commons.io.IOUtils;
@@ -28,11 +29,11 @@ public class BallotParser {
 	private int lineIndex;
 	private BallotFile.BallotFileBuilder ballotFile;
 
-	public BallotParser(File file) {
+	public BallotParser(@NonNull File file) {
 		this(readFile(file));
 	}
 
-	public BallotParser(String contents) {
+	public BallotParser(@NonNull String contents) {
 		this(readLines(contents));
 	}
 
@@ -91,7 +92,7 @@ public class BallotParser {
 			if (!line.startsWith("\"") || !line.endsWith("\"")) {
 				throw new IOException("Invalid candidate on line " + (lineIndex + 1) + ": " + line);
 			}
-			ballotFile.candidateName(line.substring(1, line.length() - 1));
+			ballotFile.candidateName(i + 1, line.substring(1, line.length() - 1));
 			lineIndex++;
 		}
 	}
