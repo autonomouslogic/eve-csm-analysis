@@ -39,7 +39,7 @@ public class Main {
 		var auditLog = parseAuditLog(auditLogTxt);
 		objectMapper.writerWithDefaultPrettyPrinter().writeValue(auditLogJson, auditLog);
 
-		var data = new AnalysisRunner(ballotFile).run();
+		var data = new AnalysisRunner(ballotFile, auditLog).run();
 		new AnalysisRenderer(csmNumber, data).render(readme);
 	}
 

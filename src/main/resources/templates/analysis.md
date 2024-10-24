@@ -1,4 +1,4 @@
 # CSM [(${csmNumber})]
 
-* Candidates: [(${candidateCount})]
-* Total votes: [(${totalVotes})]
+* Candidates: [(${data.candidateCount})]
+* Total votes: [(${data.totalVotes})]
