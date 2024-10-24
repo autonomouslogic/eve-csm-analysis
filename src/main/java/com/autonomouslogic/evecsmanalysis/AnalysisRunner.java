@@ -31,12 +31,16 @@ public class AnalysisRunner {
 	}
 
 	private void winnersAndEliminations(AnalysisData.AnalysisDataBuilder data) {
+		var finalResults = auditLog.getFinalResults();
 		var seenWinners = new HashSet<String>();
 		var seenEliminations = new HashSet<String>();
 		int r = -1;
 		for (var round : auditLog.getRounds()) {
 			r = round.getRoundNumber();
 			for (var elected : round.getElectedCandidates()) {
+				if (!finalResults.contains(elected)) {
+					throw new IllegalArgumentException();
+				}
 				if (!seenWinners.contains(elected)) {
 					data.winner(CandidateRound.builder()
 						.candidate(elected)
@@ -46,6 +50,9 @@ public class AnalysisRunner {
 				}
 			}
 			var eliminated = round.getElimination().getCandidate();
+			if (finalResults.contains(eliminated)) {
+				throw new IllegalArgumentException();
+			}
 			if (!seenEliminations.contains(eliminated)) {
 				data.elimination(CandidateRound.builder()
 					.candidate(eliminated)
