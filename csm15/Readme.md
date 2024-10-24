@@ -6,16 +6,16 @@
 ## Candidate list
 
 
-  * *Merkelchen* - elected in round 1
-  * *Gobbins* - elected in round 1
-  * *Vily* - elected in round 19
-  * *Maria Taylor* - elected in round 21
-  * *Innominate* - elected in round 29
-  * *Kenneth Feld* - elected in round 29
-  * *Mike Azariah* - elected in round 30
-  * *Brisc Rubal* - elected in round 30
-  * *Phantomite* - elected in round 30
-  * *Torvald Uruz* - elected in round 30
+  * **Merkelchen** - elected in round 1
+  * **Gobbins** - elected in round 1
+  * **Vily** - elected in round 19
+  * **Maria Taylor** - elected in round 21
+  * **Innominate** - elected in round 29
+  * **Kenneth Feld** - elected in round 29
+  * **Mike Azariah** - elected in round 30
+  * **Brisc Rubal** - elected in round 30
+  * **Phantomite** - elected in round 30
+  * **Torvald Uruz** - elected in round 30
 
 
   * Leehams DaWildabeast - eliminated in round 1

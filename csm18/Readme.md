@@ -6,16 +6,16 @@
 ## Candidate list
 
 
-  * *Kazanir* - elected in round 1
-  * *Alcoholic Satan* - elected in round 1
-  * *Luke Anninan* - elected in round 30
-  * *Angry Mustache* - elected in round 32
-  * *Storm Delay* - elected in round 33
-  * *Dark Shines* - elected in round 38
-  * *Mike Azariah* - elected in round 38
-  * *The Oz * - elected in round 38
-  * *Mark Resurrectus* - elected in round 39
-  * *Amelia Duskspace* - elected in round 39
+  * **Kazanir** - elected in round 1
+  * **Alcoholic Satan** - elected in round 1
+  * **Luke Anninan** - elected in round 30
+  * **Angry Mustache** - elected in round 32
+  * **Storm Delay** - elected in round 33
+  * **Dark Shines** - elected in round 38
+  * **Mike Azariah** - elected in round 38
+  * **The Oz ** - elected in round 38
+  * **Mark Resurrectus** - elected in round 39
+  * **Amelia Duskspace** - elected in round 39
 
 
   * William Chen - eliminated in round 1

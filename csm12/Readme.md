@@ -6,16 +6,16 @@
 ## Candidate list
 
 
-  * *Aryth* - elected in round 1
-  * *Innominate* - elected in round 32
-  * *Steve Ronuken* - elected in round 44
-  * *Suitonia* - elected in round 51
-  * *Jin'taan* - elected in round 51
-  * *The Judge* - elected in round 52
-  * *NoobMan* - elected in round 53
-  * *Yukiko Kami* - elected in round 54
-  * *rhiload Feron-drake* - elected in round 54
-  * *Vince Draken* - elected in round 54
+  * **Aryth** - elected in round 1
+  * **Innominate** - elected in round 32
+  * **Steve Ronuken** - elected in round 44
+  * **Suitonia** - elected in round 51
+  * **Jin'taan** - elected in round 51
+  * **The Judge** - elected in round 52
+  * **NoobMan** - elected in round 53
+  * **Yukiko Kami** - elected in round 54
+  * **rhiload Feron-drake** - elected in round 54
+  * **Vince Draken** - elected in round 54
 
 
   * boliano - eliminated in round 1

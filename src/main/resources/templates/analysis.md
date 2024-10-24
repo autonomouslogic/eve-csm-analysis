@@ -6,7 +6,7 @@
 ## Candidate list
 
 [# th:each="winner : ${data.winners}"]
-  * *[(${winner.candidate})]* - elected in round [(${winner.round})]
+  * **[(${winner.candidate})]** - elected in round [(${winner.round})]
 [/]
 [# th:each="eliminated : ${data.eliminations}"]
   * [(${eliminated.candidate})] - eliminated in round [(${eliminated.round})]

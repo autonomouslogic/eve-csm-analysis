@@ -6,16 +6,16 @@
 ## Candidate list
 
 
-  * *Aryth* - elected in round 1
-  * *Sort Dragon* - elected in round 1
-  * *Merkelchen* - elected in round 1
-  * *Jin'taan* - elected in round 23
-  * *Innominate* - elected in round 30
-  * *Killah Bee* - elected in round 31
-  * *Steve Ronuken* - elected in round 34
-  * *Brisc Rubal* - elected in round 35
-  * *Suitonia* - elected in round 36
-  * *The Judge* - elected in round 36
+  * **Aryth** - elected in round 1
+  * **Sort Dragon** - elected in round 1
+  * **Merkelchen** - elected in round 1
+  * **Jin'taan** - elected in round 23
+  * **Innominate** - elected in round 30
+  * **Killah Bee** - elected in round 31
+  * **Steve Ronuken** - elected in round 34
+  * **Brisc Rubal** - elected in round 35
+  * **Suitonia** - elected in round 36
+  * **The Judge** - elected in round 36
 
 
   * ZepWunderbar - eliminated in round 1

@@ -6,16 +6,16 @@
 ## Candidate list
 
 
-  * *Merkelchen* - elected in round 1
-  * *Gobbins* - elected in round 1
-  * *Innominate* - elected in round 1
-  * *Brisc Rubal* - elected in round 20
-  * *Kenneth Feld* - elected in round 26
-  * *I Beast* - elected in round 33
-  * *Suitonia* - elected in round 34
-  * *Vily* - elected in round 36
-  * *Mike Azariah* - elected in round 36
-  * *progodlegend* - elected in round 36
+  * **Merkelchen** - elected in round 1
+  * **Gobbins** - elected in round 1
+  * **Innominate** - elected in round 1
+  * **Brisc Rubal** - elected in round 20
+  * **Kenneth Feld** - elected in round 26
+  * **I Beast** - elected in round 33
+  * **Suitonia** - elected in round 34
+  * **Vily** - elected in round 36
+  * **Mike Azariah** - elected in round 36
+  * **progodlegend** - elected in round 36
 
 
   * TDor Clau - eliminated in round 1

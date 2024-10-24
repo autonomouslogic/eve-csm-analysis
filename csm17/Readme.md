@@ -6,16 +6,16 @@
 ## Candidate list
 
 
-  * *Kazanir* - elected in round 1
-  * *Luke Anninan* - elected in round 1
-  * *Angry Mustache* - elected in round 1
-  * *Kenneth Feld* - elected in round 1
-  * *Brisc Rubal* - elected in round 1
-  * *Storm Delay* - elected in round 28
-  * *Pandoralica* - elected in round 33
-  * *Arsia Elkin* - elected in round 34
-  * *Mark Resurrectus* - elected in round 34
-  * *Jinx De'Caire* - elected in round 34
+  * **Kazanir** - elected in round 1
+  * **Luke Anninan** - elected in round 1
+  * **Angry Mustache** - elected in round 1
+  * **Kenneth Feld** - elected in round 1
+  * **Brisc Rubal** - elected in round 1
+  * **Storm Delay** - elected in round 28
+  * **Pandoralica** - elected in round 33
+  * **Arsia Elkin** - elected in round 34
+  * **Mark Resurrectus** - elected in round 34
+  * **Jinx De'Caire** - elected in round 34
 
 
   * Redline XIII - eliminated in round 1

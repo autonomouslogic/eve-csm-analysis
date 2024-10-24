@@ -6,16 +6,16 @@
 ## Candidate list
 
 
-  * *Aryth* - elected in round 1
-  * *Gobbins* - elected in round 1
-  * *Olmeca Gold* - elected in round 1
-  * *Vily* - elected in round 1
-  * *Merkelchen* - elected in round 1
-  * *Killah Bee* - elected in round 1
-  * *Dunk Dinkle* - elected in round 34
-  * *ExookiZ* - elected in round 34
-  * *Steve Ronuken* - elected in round 34
-  * *Innominate* - elected in round 34
+  * **Aryth** - elected in round 1
+  * **Gobbins** - elected in round 1
+  * **Olmeca Gold** - elected in round 1
+  * **Vily** - elected in round 1
+  * **Merkelchen** - elected in round 1
+  * **Killah Bee** - elected in round 1
+  * **Dunk Dinkle** - elected in round 34
+  * **ExookiZ** - elected in round 34
+  * **Steve Ronuken** - elected in round 34
+  * **Innominate** - elected in round 34
 
 
   * Styxx - eliminated in round 1
