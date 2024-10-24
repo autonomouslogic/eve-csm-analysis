@@ -42,7 +42,7 @@ public class BallotParser {
 		lineIndex = 0;
 		ballotFile = BallotFile.builder();
 		parseHeader();
-		// parseWithdrawals();
+		parseWithdrawals();
 		parseVotes();
 		parseCandidates();
 		parseName();
@@ -58,7 +58,14 @@ public class BallotParser {
 	}
 
 	private void parseWithdrawals() {
-		// @todo
+		// @todo support multiple withdrawals
+		var line = lines.get(lineIndex);
+		if (!line.startsWith("-")) {
+			return;
+		}
+		var withdrawal = Integer.parseInt(line.substring(1));
+		ballotFile.withdrawnCandidate(withdrawal);
+		lineIndex++;
 	}
 
 	@SneakyThrows

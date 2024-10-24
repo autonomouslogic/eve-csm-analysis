@@ -1,10 +1,8 @@
 package com.autonomouslogic.evecsmanalysis;
 
 import com.autonomouslogic.evecsmanalysis.models.BallotFile;
-import java.util.LinkedHashMap;
-import java.util.Map;
-
 import com.autonomouslogic.evecsmanalysis.models.Votes;
+import java.util.Map;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 
@@ -15,9 +13,8 @@ public class AnalysisRunner {
 
 	public Map<String, Object> run() {
 		return Map.of(
-			"candidateCount", ballotFile.getCandidateCount(),
-			"totalVotes", totalVotes()
-		);
+				"candidateCount", ballotFile.getCandidateCount(),
+				"totalVotes", totalVotes());
 	}
 
 	private int totalVotes() {

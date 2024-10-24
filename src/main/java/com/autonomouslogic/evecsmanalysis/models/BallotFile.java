@@ -1,5 +1,7 @@
 package com.autonomouslogic.evecsmanalysis.models;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
+import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 import java.util.function.Function;
@@ -7,6 +9,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 import lombok.Builder;
 import lombok.Singular;
+import lombok.SneakyThrows;
 import lombok.Value;
 import lombok.extern.jackson.Jacksonized;
 
@@ -27,6 +30,9 @@ public class BallotFile {
 	Map<Integer, String> candidateNames;
 
 	@Singular
+	List<Integer> withdrawnCandidates;
+
+	@Singular
 	List<Votes> allVotes;
 
 	public String toString() {
@@ -40,8 +46,15 @@ public class BallotFile {
 		return Stream.of("%d %d".formatted(candidateCount, seatCount));
 	}
 
+	@SneakyThrows
 	private Stream<String> serWithdrawals() {
-		return Stream.of(); // @todo
+		if (withdrawnCandidates == null || withdrawnCandidates.isEmpty()) {
+			return Stream.of();
+		}
+		if (withdrawnCandidates.size() != 1) {
+			throw new IOException("Only 1 withdrawal supported");
+		}
+		return Stream.of("-" + withdrawnCandidates.getFirst());
 	}
 
 	private Stream<String> serVotes() {
