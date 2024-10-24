@@ -17,6 +17,7 @@ public class AuditLogParser extends AbstractParser {
 			Pattern.compile("(?<votes>\\d+(\\.\\d+)?) votes, (?<quota>\\d+(\\.\\d+)?) quota");
 	private static final Pattern TALLEY =
 			Pattern.compile("  (?<votes>\\d+(\\.\\d+)?) \"(?<candidate>[a-zA-Z0-9 _-]+)\"");
+	private static final Pattern ELECTED = Pattern.compile("  Elected: \"(?<candidate>[a-zA-Z0-9 _-]+)\"");
 
 	private AuditLog.AuditLogBuilder auditLog;
 
@@ -48,6 +49,7 @@ public class AuditLogParser extends AbstractParser {
 		parseRoundCandidates(round);
 		parseRoundVotes(round);
 		parseInitialTalley(round);
+		parseActions(round);
 		auditLog.round(round.build());
 	}
 
@@ -84,5 +86,24 @@ public class AuditLogParser extends AbstractParser {
 			lineIndex++;
 		}
 		return map;
+	}
+
+	@SneakyThrows
+	private void parseActions(Round.RoundBuilder round) {
+		if (!lines.get(lineIndex).equals("Actions:")) {
+			throw new IllegalArgumentException(
+					"Invalid actions on line" + (lineIndex + 1) + ": " + lines.get(lineIndex));
+		}
+		lineIndex++;
+		parseElectedCandidates(round);
+	}
+
+	private void parseElectedCandidates(Round.RoundBuilder round) {
+		String line;
+		while ((line = lines.get(lineIndex)).startsWith("  Elected: ")) {
+			var matcher = parseLine(line, ELECTED, "Invalid elected candidate");
+			round.electedCandidate(matcher.group("candidate"));
+			lineIndex++;
+		}
 	}
 }
