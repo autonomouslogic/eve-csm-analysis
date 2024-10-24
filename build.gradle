@@ -31,6 +31,7 @@ dependencies {
 	implementation "com.fasterxml.jackson.core:jackson-annotations:2.18.0"
 	implementation "com.fasterxml.jackson.core:jackson-core:2.18.0"
 	implementation "com.fasterxml.jackson.core:jackson-databind:2.18.0"
+	implementation "org.thymeleaf:thymeleaf:3.1.2.RELEASE"
 
 	testImplementation platform("org.junit:junit-bom:5.10.0")
 	testImplementation "org.junit.jupiter:junit-jupiter"
