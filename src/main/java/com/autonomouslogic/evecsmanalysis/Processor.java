@@ -48,7 +48,6 @@ public class Processor {
 
 		var csmAnalysis = new CsmAnalyser(csmConfig, ballotFile, auditLog).run();
 		objectMapper.writerWithDefaultPrettyPrinter().writeValue(csmConfig.getAnalysisJson(), csmAnalysis);
-		//		new AnalysisRenderer(data).render(readme);
 	}
 
 	private BallotFile parseBallotFile(File file) {

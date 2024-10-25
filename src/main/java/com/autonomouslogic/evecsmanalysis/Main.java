@@ -28,7 +28,7 @@ public class Main {
 				new Processor(csmConfigs, objectMapper).run();
 				break;
 			case "thymeleaf":
-				//				new Processor(objectMapper).run();
+				new AnalysisRenderer(csmConfigs, objectMapper).renderAll();
 				break;
 			default:
 				System.err.println("Unknown command: " + command);
