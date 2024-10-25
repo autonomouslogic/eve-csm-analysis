@@ -1,24 +1,22 @@
 # CSM 16
 
+* Elected: 10
 * Candidates: 46
 * Total votes: 38086
 * Least significant rank: 2
 
-## Candidate list
+## Candidates
 
-
-  * **Merkelchen** - elected in round 1
-  * **Gobbins** - elected in round 1
-  * **Innominate** - elected in round 1
-  * **Brisc Rubal** - elected in round 20
-  * **Kenneth Feld** - elected in round 26
-  * **I Beast** - elected in round 33
-  * **Suitonia** - elected in round 34
-  * **Vily** - elected in round 36
-  * **Mike Azariah** - elected in round 36
-  * **progodlegend** - elected in round 36
-
-
+  * <b>Merkelchen</b> - elected in round 1
+  * <b>Gobbins</b> - elected in round 1
+  * <b>Innominate</b> - elected in round 1
+  * <b>Brisc Rubal</b> - elected in round 20
+  * <b>Kenneth Feld</b> - elected in round 26
+  * <b>I Beast</b> - elected in round 33
+  * <b>Suitonia</b> - elected in round 34
+  * <b>Vily</b> - elected in round 36
+  * <b>Mike Azariah</b> - elected in round 36
+  * <b>progodlegend</b> - elected in round 36
   * TDor Clau - eliminated in round 1
   * knockerwrench Alduin - eliminated in round 2
   * hurleyalex hurley - eliminated in round 3

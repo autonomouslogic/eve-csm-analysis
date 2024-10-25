@@ -1,24 +1,22 @@
 # CSM 12
 
+* Elected: 10
 * Candidates: 64
 * Total votes: 31274
 * Least significant rank: 9
 
-## Candidate list
+## Candidates
 
-
-  * **Aryth** - elected in round 1
-  * **Innominate** - elected in round 32
-  * **Steve Ronuken** - elected in round 44
-  * **Suitonia** - elected in round 51
-  * **Jin'taan** - elected in round 51
-  * **The Judge** - elected in round 52
-  * **NoobMan** - elected in round 53
-  * **Yukiko Kami** - elected in round 54
-  * **rhiload Feron-drake** - elected in round 54
-  * **Vince Draken** - elected in round 54
-
-
+  * <b>Aryth</b> - elected in round 1
+  * <b>Innominate</b> - elected in round 32
+  * <b>Steve Ronuken</b> - elected in round 44
+  * <b>Suitonia</b> - elected in round 51
+  * <b>Jin'taan</b> - elected in round 51
+  * <b>The Judge</b> - elected in round 52
+  * <b>NoobMan</b> - elected in round 53
+  * <b>Yukiko Kami</b> - elected in round 54
+  * <b>rhiload Feron-drake</b> - elected in round 54
+  * <b>Vince Draken</b> - elected in round 54
   * boliano - eliminated in round 1
   * Vincent Eneticum - eliminated in round 2
   * JTClone Ares - eliminated in round 3
