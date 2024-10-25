@@ -1,11 +1,11 @@
 package com.autonomouslogic.evecsmanalysis;
 
-import com.autonomouslogic.evecsmanalysis.models.AnalysisData;
 import com.autonomouslogic.evecsmanalysis.models.AuditLog;
 import com.autonomouslogic.evecsmanalysis.models.BallotFile;
 import com.autonomouslogic.evecsmanalysis.models.CandidateRound;
+import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
+import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.autonomouslogic.evecsmanalysis.models.Votes;
-import java.io.File;
 import java.util.HashSet;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
@@ -13,10 +13,9 @@ import lombok.extern.log4j.Log4j2;
 
 @RequiredArgsConstructor
 @Log4j2
-public class AnalysisRunner {
-	private final File csmDir;
-
-	private final int csmNumber;
+public class CsmAnalyser {
+	@NonNull
+	private final CsmConfig csmConfig;
 
 	@NonNull
 	private final BallotFile ballotFile;
@@ -24,10 +23,10 @@ public class AnalysisRunner {
 	@NonNull
 	private final AuditLog auditLog;
 
-	public AnalysisData run() {
-		log.info("Running analysis for CSM: {}", csmNumber);
-		var data = AnalysisData.builder()
-				.csmNumber(csmNumber)
+	public CsmAnalysis run() {
+		log.info("Running analysis for CSM: {}", csmConfig.getCsmNumber());
+		var data = CsmAnalysis.builder()
+				.csmNumber(csmConfig.getCsmNumber())
 				.candidateCount(ballotFile.getCandidateCount())
 				.totalVotes(totalVotes())
 				.leastSignificantRank(findLeastSignificantRank());
@@ -40,7 +39,7 @@ public class AnalysisRunner {
 		return ballotFile.getAllVotes().stream().mapToInt(Votes::getCount).sum();
 	}
 
-	private void winnersAndEliminations(AnalysisData.AnalysisDataBuilder data) {
+	private void winnersAndEliminations(CsmAnalysis.CsmAnalysisBuilder data) {
 		log.info("Calculating winners and eliminations");
 		var finalResults = auditLog.getFinalResults();
 		var seenWinners = new HashSet<String>();
@@ -78,7 +77,7 @@ public class AnalysisRunner {
 	private int findLeastSignificantRank() {
 		log.info("Finding least significant rank");
 		var rank = new LeastSignificantRankRunner(
-						new File(csmDir, "WrightTalley.py"), ballotFile, auditLog.getFinalResults())
+						csmConfig.getTalleyScriptFile(), ballotFile, auditLog.getFinalResults())
 				.findLeastSignificantRank();
 		return rank;
 	}

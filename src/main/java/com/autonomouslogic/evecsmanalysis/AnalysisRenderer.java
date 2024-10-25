@@ -1,6 +1,6 @@
 package com.autonomouslogic.evecsmanalysis;
 
-import com.autonomouslogic.evecsmanalysis.models.AnalysisData;
+import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import java.io.File;
 import java.io.FileWriter;
 import java.nio.charset.StandardCharsets;
@@ -20,7 +20,7 @@ import org.thymeleaf.templateresolver.ClassLoaderTemplateResolver;
 @Log4j2
 public class AnalysisRenderer {
 	@NonNull
-	private final AnalysisData data;
+	private final CsmAnalysis data;
 
 	@SneakyThrows
 	public void render(File outputFile) {
