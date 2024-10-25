@@ -3,6 +3,8 @@ package com.autonomouslogic.evecsmanalysis;
 import com.autonomouslogic.evecsmanalysis.models.Ballot;
 import com.autonomouslogic.evecsmanalysis.models.BallotFile;
 import com.autonomouslogic.evecsmanalysis.parser.AuditLogParser;
+import com.autonomouslogic.evecsmanalysis.util.VirtualThreads;
+import io.reactivex.rxjava3.core.Flowable;
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
@@ -23,15 +25,29 @@ public class LeastSignificantRankRunner {
 
 	public int findLeastSignificantRank() {
 		var baseResultSet = new HashSet<>(baseResult);
-		for (int r = 10; r >= 1; r--) {
-			log.info("Simulating rank: {}", r);
-			var result = simulate(r);
-			if (!baseResultSet.equals(new HashSet<>(result))) {
-				log.info("Least significant rank found: {}", r);
-				return r;
-			}
+
+		var leastSignificantRank = Flowable.range(1, 10)
+				.parallel(10)
+				.runOn(VirtualThreads.SCHEDULER, 1)
+				.flatMapIterable(r -> {
+					log.info("Simulating rank: {}", r);
+					var result = simulate(r);
+					if (!baseResultSet.equals(new HashSet<>(result))) {
+						return List.of(r);
+					}
+					return List.of();
+				})
+				.sequential()
+				.blockingStream()
+				.mapToInt(i -> i)
+				.max();
+
+		if (leastSignificantRank.isEmpty()) {
+			throw new IllegalStateException("Least significant rank not found");
 		}
-		throw new IllegalStateException("Least significant rank not found");
+
+		log.info("Least significant rank found: {}", leastSignificantRank.getAsInt());
+		return leastSignificantRank.getAsInt();
 	}
 
 	@SneakyThrows
@@ -67,15 +83,19 @@ public class LeastSignificantRankRunner {
 	private void runTalley(File dir, File talleyScript) {
 		var out = new File(dir, talleyScript.getName() + ".out");
 		var err = new File(dir, talleyScript.getName() + ".err");
-		var process = new ProcessBuilder(
-						"docker",
-						"run",
-						"-v",
-						".:/data",
-						"python:2",
-						"bash",
-						"-c",
-						"cd /data && python " + talleyScript.getName())
+		var cmd = List.of(
+				"docker",
+				"run",
+				"-m",
+				"256m",
+				"-v",
+				".:/data",
+				"python:2",
+				"bash",
+				"-c",
+				"cd /data && python " + talleyScript.getName());
+		log.info("Running talley script: {}", String.join(" ", cmd));
+		var process = new ProcessBuilder(cmd)
 				.directory(dir)
 				.redirectOutput(out)
 				.redirectError(err)
