@@ -52,7 +52,8 @@ public class LeastSignificantRankRunner {
 
 	@SneakyThrows
 	private List<String> simulate(int rank) {
-		var dir = Files.createTempDirectory("least-significant-rank").toFile();
+		var dir = Files.createTempDirectory("least-significant-rank-").toFile();
+		log.info("Simulating rank: {} in dir: {}", rank, dir);
 		var talleyScript = new File(dir, baseTalleyScript.getName());
 		var ballotFile = new File(dir, "votes.blt");
 		var auditLogFile = new File(dir, "auditLog.txt");
