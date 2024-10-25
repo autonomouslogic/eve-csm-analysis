@@ -21,4 +21,6 @@ public class AnalysisData {
 
 	@Singular
 	List<CandidateRound> eliminations;
+
+	int leastSignificantRank;
 }

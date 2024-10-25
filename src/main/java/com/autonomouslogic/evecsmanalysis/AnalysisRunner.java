@@ -5,12 +5,17 @@ import com.autonomouslogic.evecsmanalysis.models.AuditLog;
 import com.autonomouslogic.evecsmanalysis.models.BallotFile;
 import com.autonomouslogic.evecsmanalysis.models.CandidateRound;
 import com.autonomouslogic.evecsmanalysis.models.Votes;
+import java.io.File;
 import java.util.HashSet;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
+import lombok.extern.log4j.Log4j2;
 
 @RequiredArgsConstructor
+@Log4j2
 public class AnalysisRunner {
+	private final File csmDir;
+
 	private final int csmNumber;
 
 	@NonNull
@@ -20,19 +25,23 @@ public class AnalysisRunner {
 	private final AuditLog auditLog;
 
 	public AnalysisData run() {
+		log.info("Running analysis for CSM: {}", csmNumber);
 		var data = AnalysisData.builder()
 				.csmNumber(csmNumber)
 				.candidateCount(ballotFile.getCandidateCount())
-				.totalVotes(totalVotes());
+				.totalVotes(totalVotes())
+				.leastSignificantRank(findLeastSignificantRank());
 		winnersAndEliminations(data);
 		return data.build();
 	}
 
 	private int totalVotes() {
+		log.info("Calculating total votes");
 		return ballotFile.getAllVotes().stream().mapToInt(Votes::getCount).sum();
 	}
 
 	private void winnersAndEliminations(AnalysisData.AnalysisDataBuilder data) {
+		log.info("Calculating winners and eliminations");
 		var finalResults = auditLog.getFinalResults();
 		var seenWinners = new HashSet<String>();
 		var seenEliminations = new HashSet<String>();
@@ -64,5 +73,13 @@ public class AnalysisRunner {
 				data.winner(CandidateRound.builder().candidate(winner).round(r).build());
 			}
 		}
+	}
+
+	private int findLeastSignificantRank() {
+		log.info("Finding least significant rank");
+		var rank = new LeastSignificantRankRunner(
+						new File(csmDir, "WrightTalley.py"), ballotFile, auditLog.getFinalResults())
+				.findLeastSignificantRank();
+		return rank;
 	}
 }

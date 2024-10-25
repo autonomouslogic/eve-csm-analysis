@@ -10,19 +10,25 @@ import java.io.FileNotFoundException;
 import java.util.Arrays;
 import java.util.stream.Stream;
 import lombok.SneakyThrows;
+import lombok.extern.log4j.Log4j2;
 
+@Log4j2
 public class Main {
 	private static final ObjectMapper objectMapper = new ObjectMapper();
 
 	@SneakyThrows
 	public static void main(String[] args) {
-		for (var csmDir : getAllCsmDirs().toList()) {
+		log.info("Starting analysis");
+		var dirs = getAllCsmDirs().toList();
+		log.info("Found {} CSM dirs: {}", dirs.size(), dirs);
+		for (var csmDir : dirs) {
 			processCsmDir(csmDir);
 		}
 	}
 
 	@SneakyThrows
 	private static void processCsmDir(File csmDir) {
+		log.info("Processing CSM dir: {}", csmDir);
 		var csmNumber = Integer.parseInt(csmDir.getName().substring(3));
 		if (csmNumber < 1) {
 			throw new IllegalArgumentException("Invalid CSM number: " + csmNumber + " on dir: " + csmDir);
@@ -39,15 +45,17 @@ public class Main {
 		var auditLog = parseAuditLog(auditLogTxt);
 		objectMapper.writerWithDefaultPrettyPrinter().writeValue(auditLogJson, auditLog);
 
-		var data = new AnalysisRunner(csmNumber, ballotFile, auditLog).run();
+		var data = new AnalysisRunner(csmDir, csmNumber, ballotFile, auditLog).run();
 		new AnalysisRenderer(data).render(readme);
 	}
 
 	private static BallotFile parseBallotFile(File file) {
+		log.info("Parsing ballot file: {}", file);
 		return new BallotParser(file).parse();
 	}
 
 	private static AuditLog parseAuditLog(File file) {
+		log.info("Parsing audit log: {}", file);
 		return new AuditLogParser(file).parse();
 	}
 
