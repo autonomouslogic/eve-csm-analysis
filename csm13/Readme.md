@@ -2,6 +2,7 @@
 
 * Candidates: 47
 * Total votes: 29416
+* Least significant rank: 3
 
 ## Candidate list
 

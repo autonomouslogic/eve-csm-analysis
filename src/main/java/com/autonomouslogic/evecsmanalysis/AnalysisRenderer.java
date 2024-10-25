@@ -9,6 +9,7 @@ import java.util.Locale;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
+import lombok.extern.log4j.Log4j2;
 import org.thymeleaf.TemplateEngine;
 import org.thymeleaf.context.Context;
 import org.thymeleaf.context.IContext;
@@ -16,12 +17,14 @@ import org.thymeleaf.templatemode.TemplateMode;
 import org.thymeleaf.templateresolver.ClassLoaderTemplateResolver;
 
 @RequiredArgsConstructor
+@Log4j2
 public class AnalysisRenderer {
 	@NonNull
 	private final AnalysisData data;
 
 	@SneakyThrows
 	public void render(File outputFile) {
+		log.info("Rendering analysis to: {}", outputFile);
 		var engine = createEngine();
 		try (var writer = new FileWriter(outputFile, StandardCharsets.UTF_8)) {
 			engine.process("analysis.md", createContext(), writer);

@@ -2,6 +2,7 @@
 
 * Candidates: [(${data.candidateCount})]
 * Total votes: [(${data.totalVotes})]
+* Least significant rank: [(${data.leastSignificantRank})]
 
 ## Candidate list
 
