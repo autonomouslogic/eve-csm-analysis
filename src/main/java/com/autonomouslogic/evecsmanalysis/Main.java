@@ -1,9 +1,5 @@
 package com.autonomouslogic.evecsmanalysis;
 
-import com.autonomouslogic.evecsmanalysis.models.AuditLog;
-import com.autonomouslogic.evecsmanalysis.models.BallotFile;
-import com.autonomouslogic.evecsmanalysis.parser.AuditLogParser;
-import com.autonomouslogic.evecsmanalysis.parser.BallotParser;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -18,48 +14,25 @@ public class Main {
 
 	@SneakyThrows
 	public static void main(String[] args) {
-		log.info("Starting analysis");
-		var dirs = getAllCsmDirs().toList();
-		log.info("Found {} CSM dirs: {}", dirs.size(), dirs);
-		for (var csmDir : dirs) {
-			processCsmDir(csmDir);
+		if (args.length != 1) {
+			System.err.println("Exactly one arg expected");
+			System.exit(1);
+		}
+		var command = args[0];
+		switch (command) {
+			case "process":
+				new Processer(objectMapper).run();
+				break;
+			case "thymeleaft":
+				new Processer(objectMapper).run();
+				break;
+			default:
+				System.err.println("Unknown command: " + command);
+				System.exit(1);
 		}
 	}
 
-	@SneakyThrows
-	private static void processCsmDir(File csmDir) {
-		log.info("Processing CSM dir: {}", csmDir);
-		var csmNumber = Integer.parseInt(csmDir.getName().substring(3));
-		if (csmNumber < 1) {
-			throw new IllegalArgumentException("Invalid CSM number: " + csmNumber + " on dir: " + csmDir);
-		}
-		var votesBlt = requiredFile(csmDir, "votes.blt");
-		var votesJson = new File(csmDir, "votes.json");
-		var auditLogTxt = requiredFile(csmDir, "auditLog.txt");
-		var auditLogJson = new File(csmDir, "auditLog.json");
-		var readme = new File(csmDir, "Readme.md");
-
-		var ballotFile = parseBallotFile(votesBlt);
-		objectMapper.writerWithDefaultPrettyPrinter().writeValue(votesJson, ballotFile);
-
-		var auditLog = parseAuditLog(auditLogTxt);
-		objectMapper.writerWithDefaultPrettyPrinter().writeValue(auditLogJson, auditLog);
-
-		var data = new AnalysisRunner(csmDir, csmNumber, ballotFile, auditLog).run();
-		new AnalysisRenderer(data).render(readme);
-	}
-
-	private static BallotFile parseBallotFile(File file) {
-		log.info("Parsing ballot file: {}", file);
-		return new BallotParser(file).parse();
-	}
-
-	private static AuditLog parseAuditLog(File file) {
-		log.info("Parsing audit log: {}", file);
-		return new AuditLogParser(file).parse();
-	}
-
-	private static File requiredFile(File csmDir, String child) throws FileNotFoundException {
+	public static File requiredFile(File csmDir, String child) throws FileNotFoundException {
 		var file = new File(csmDir, child);
 		if (!file.exists()) {
 			throw new FileNotFoundException(file.toString());

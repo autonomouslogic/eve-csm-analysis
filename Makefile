@@ -1,7 +1,10 @@
 .PHONY: analysis test lint format clean
 
-analysis:
-	./gradlew run --stacktrace
+process:
+	./gradlew csmProcess --stacktrace
+
+thymeleaf:
+	./gradlew csmThymelead --stacktrace
 
 test:
 	./gradlew test --stacktrace

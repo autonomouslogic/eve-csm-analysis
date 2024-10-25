@@ -73,3 +73,17 @@ test {
 		showStackTraces = true
 	}
 }
+
+task csmProcess(type: JavaExec) {
+	group "application"
+	args "process"
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = mainClassName
+}
+
+task csmThymeleaf(type: JavaExec) {
+	group "application"
+	args "thymeleaf"
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = mainClassName
+}
