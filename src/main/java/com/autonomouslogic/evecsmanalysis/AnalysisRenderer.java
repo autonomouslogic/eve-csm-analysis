@@ -1,11 +1,11 @@
 package com.autonomouslogic.evecsmanalysis;
 
+import com.autonomouslogic.evecsmanalysis.models.AnalysisData;
 import java.io.File;
 import java.io.FileWriter;
 import java.nio.charset.StandardCharsets;
 import java.time.Duration;
 import java.util.Locale;
-import java.util.Map;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
@@ -17,10 +17,8 @@ import org.thymeleaf.templateresolver.ClassLoaderTemplateResolver;
 
 @RequiredArgsConstructor
 public class AnalysisRenderer {
-	private final int csmNumber;
-
 	@NonNull
-	private final Map<String, Object> data;
+	private final AnalysisData data;
 
 	@SneakyThrows
 	public void render(File outputFile) {
@@ -32,8 +30,7 @@ public class AnalysisRenderer {
 
 	private IContext createContext() {
 		var context = new Context(Locale.ENGLISH);
-		context.setVariable("csmNumber", csmNumber);
-		data.forEach(context::setVariable);
+		context.setVariable("data", data);
 		return context;
 	}
 

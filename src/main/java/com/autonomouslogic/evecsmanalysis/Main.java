@@ -39,8 +39,8 @@ public class Main {
 		var auditLog = parseAuditLog(auditLogTxt);
 		objectMapper.writerWithDefaultPrettyPrinter().writeValue(auditLogJson, auditLog);
 
-		var data = new AnalysisRunner(ballotFile).run();
-		new AnalysisRenderer(csmNumber, data).render(readme);
+		var data = new AnalysisRunner(csmNumber, ballotFile, auditLog).run();
+		new AnalysisRenderer(data).render(readme);
 	}
 
 	private static BallotFile parseBallotFile(File file) {

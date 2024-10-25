@@ -1,4 +1,13 @@
-# CSM [(${csmNumber})]
+# CSM [(${data.csmNumber})]
 
-* Candidates: [(${candidateCount})]
-* Total votes: [(${totalVotes})]
+* Candidates: [(${data.candidateCount})]
+* Total votes: [(${data.totalVotes})]
+
+## Candidate list
+
+[# th:each="winner : ${data.winners}"]
+  * **[(${winner.candidate})]** - elected in round [(${winner.round})]
+[/]
+[# th:each="eliminated : ${data.eliminations}"]
+  * [(${eliminated.candidate})] - eliminated in round [(${eliminated.round})]
+[/]
