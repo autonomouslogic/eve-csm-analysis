@@ -14,14 +14,20 @@ jobs:
           distribution: temurin
           java-version: 21
           cache: gradle
+      - name: Java Test
+        run: make test
+
+  Python:
+    timeout-minutes: 30
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.12"
-
-      - name: Java Test
-        run: make test
 
       - name: Mkdocs build
         run: make mkdocs-build
