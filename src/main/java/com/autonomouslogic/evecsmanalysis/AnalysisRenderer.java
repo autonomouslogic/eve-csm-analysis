@@ -1,11 +1,15 @@
 package com.autonomouslogic.evecsmanalysis;
 
+import com.autonomouslogic.evecsmanalysis.csv.CsmCandidatesCsv;
+import com.autonomouslogic.evecsmanalysis.csv.CsmVotesCsv;
 import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import java.io.File;
 import java.io.FileWriter;
 import java.nio.charset.StandardCharsets;
 import java.time.Duration;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import lombok.NonNull;
@@ -27,26 +31,50 @@ public class AnalysisRenderer {
 	@NonNull
 	private final ObjectMapper objectMapper;
 
+	@SneakyThrows
 	public void renderAll() {
+		var allAnalysis = new ArrayList<CsmAnalysis>();
 		for (var csmConfig : csmConfigs) {
-			render(csmConfig);
+			var analysis = objectMapper.readValue(csmConfig.getAnalysisJson(), CsmAnalysis.class);
+			allAnalysis.add(analysis);
+			renderCsm(csmConfig, analysis);
 		}
+		renderIndex(allAnalysis);
 	}
 
 	@SneakyThrows
-	public void render(CsmConfig csmConfig) {
+	public void renderCsm(CsmConfig csmConfig, CsmAnalysis analysis) {
 		log.info("Rendering analysis for {} to {}", csmConfig.getCsmNumber(), csmConfig.getMarkdownFile());
 		var engine = createEngine();
 		try (var writer = new FileWriter(csmConfig.getMarkdownFile(), StandardCharsets.UTF_8)) {
-			engine.process("analysis.md", createContext(csmConfig), writer);
+			engine.process("csm.md", createCsmContext(analysis), writer);
 		}
 	}
 
 	@SneakyThrows
-	private IContext createContext(CsmConfig csmConfig) {
-		var analysis = objectMapper.readValue(csmConfig.getAnalysisJson(), CsmAnalysis.class);
+	private void renderIndex(List<CsmAnalysis> allAnalysis) {
+		new CsmVotesCsv(allAnalysis, new File("docs/data/csm-votes.csv")).write();
+		new CsmCandidatesCsv(allAnalysis, new File("docs/data/csm-candidates.csv")).write();
+
+		var indexFile = new File("docs/index.md");
+		log.info("Rendering index to {}", indexFile);
+		var engine = createEngine();
+		try (var writer = new FileWriter(indexFile, StandardCharsets.UTF_8)) {
+			engine.process("index.md", createIndexContext(), writer);
+		}
+	}
+
+	@SneakyThrows
+	private IContext createCsmContext(CsmAnalysis analysis) {
 		var context = new Context(Locale.ENGLISH);
 		context.setVariable("data", analysis);
+		return context;
+	}
+
+	@SneakyThrows
+	private IContext createIndexContext() {
+		var context = new Context(Locale.ENGLISH);
+		//		context.setVariable("data", analysis);
 		return context;
 	}
 
