@@ -1,24 +1,22 @@
 # CSM 15
 
+* Elected: 10
 * Candidates: 40
 * Total votes: 36120
 * Least significant rank: 4
 
-## Candidate list
+## Candidates
 
-
-  * **Merkelchen** - elected in round 1
-  * **Gobbins** - elected in round 1
-  * **Vily** - elected in round 19
-  * **Maria Taylor** - elected in round 21
-  * **Innominate** - elected in round 29
-  * **Kenneth Feld** - elected in round 29
-  * **Mike Azariah** - elected in round 30
-  * **Brisc Rubal** - elected in round 30
-  * **Phantomite** - elected in round 30
-  * **Torvald Uruz** - elected in round 30
-
-
+  * <b>Merkelchen</b> - elected in round 1
+  * <b>Gobbins</b> - elected in round 1
+  * <b>Vily</b> - elected in round 19
+  * <b>Maria Taylor</b> - elected in round 21
+  * <b>Innominate</b> - elected in round 29
+  * <b>Kenneth Feld</b> - elected in round 29
+  * <b>Mike Azariah</b> - elected in round 30
+  * <b>Brisc Rubal</b> - elected in round 30
+  * <b>Phantomite</b> - elected in round 30
+  * <b>Torvald Uruz</b> - elected in round 30
   * Leehams DaWildabeast - eliminated in round 1
   * Storm Delay - eliminated in round 2
   * Kalen Tsero - eliminated in round 3

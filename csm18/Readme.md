@@ -1,24 +1,22 @@
 # CSM 18
 
+* Elected: 10
 * Candidates: 49
 * Total votes: 47155
 * Least significant rank: 2
 
-## Candidate list
+## Candidates
 
-
-  * **Kazanir** - elected in round 1
-  * **Alcoholic Satan** - elected in round 1
-  * **Luke Anninan** - elected in round 30
-  * **Angry Mustache** - elected in round 32
-  * **Storm Delay** - elected in round 33
-  * **Dark Shines** - elected in round 38
-  * **Mike Azariah** - elected in round 38
-  * **The Oz ** - elected in round 38
-  * **Mark Resurrectus** - elected in round 39
-  * **Amelia Duskspace** - elected in round 39
-
-
+  * <b>Kazanir</b> - elected in round 1
+  * <b>Alcoholic Satan</b> - elected in round 1
+  * <b>Luke Anninan</b> - elected in round 30
+  * <b>Angry Mustache</b> - elected in round 32
+  * <b>Storm Delay</b> - elected in round 33
+  * <b>Dark Shines</b> - elected in round 38
+  * <b>Mike Azariah</b> - elected in round 38
+  * <b>The Oz </b> - elected in round 38
+  * <b>Mark Resurrectus</b> - elected in round 39
+  * <b>Amelia Duskspace</b> - elected in round 39
   * William Chen - eliminated in round 1
   * Melicien Tetro - eliminated in round 2
   * SeriesPro  - eliminated in round 3

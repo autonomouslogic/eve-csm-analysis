@@ -1,24 +1,22 @@
 # CSM 14
 
+* Elected: 10
 * Candidates: 44
 * Total votes: 32994
 * Least significant rank: 9
 
-## Candidate list
+## Candidates
 
-
-  * **Aryth** - elected in round 1
-  * **Gobbins** - elected in round 1
-  * **Olmeca Gold** - elected in round 1
-  * **Vily** - elected in round 1
-  * **Merkelchen** - elected in round 1
-  * **Killah Bee** - elected in round 1
-  * **Dunk Dinkle** - elected in round 34
-  * **ExookiZ** - elected in round 34
-  * **Steve Ronuken** - elected in round 34
-  * **Innominate** - elected in round 34
-
-
+  * <b>Aryth</b> - elected in round 1
+  * <b>Gobbins</b> - elected in round 1
+  * <b>Olmeca Gold</b> - elected in round 1
+  * <b>Vily</b> - elected in round 1
+  * <b>Merkelchen</b> - elected in round 1
+  * <b>Killah Bee</b> - elected in round 1
+  * <b>Dunk Dinkle</b> - elected in round 34
+  * <b>ExookiZ</b> - elected in round 34
+  * <b>Steve Ronuken</b> - elected in round 34
+  * <b>Innominate</b> - elected in round 34
   * Styxx - eliminated in round 1
   * Fiedan - eliminated in round 2
   * Zipp Adoudel - eliminated in round 3

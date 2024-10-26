@@ -9,7 +9,7 @@ import lombok.extern.jackson.Jacksonized;
 @Value
 @Builder(toBuilder = true)
 @Jacksonized
-public class AnalysisData {
+public class CsmAnalysis {
 	int csmNumber;
 
 	int candidateCount;

@@ -26,8 +26,8 @@ public class LeastSignificantRankRunner {
 	public int findLeastSignificantRank() {
 		var baseResultSet = new HashSet<>(baseResult);
 
-		var leastSignificantRank = Flowable.range(1, 10)
-				.parallel(10)
+		var leastSignificantRank = Flowable.range(2, 9)
+				.parallel(9)
 				.runOn(VirtualThreads.SCHEDULER, 1)
 				.flatMapIterable(r -> {
 					log.info("Simulating rank: {}", r);

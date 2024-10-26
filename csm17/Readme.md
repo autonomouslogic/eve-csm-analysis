@@ -1,24 +1,22 @@
 # CSM 17
 
+* Elected: 10
 * Candidates: 44
 * Total votes: 30814
 * Least significant rank: 5
 
-## Candidate list
+## Candidates
 
-
-  * **Kazanir** - elected in round 1
-  * **Luke Anninan** - elected in round 1
-  * **Angry Mustache** - elected in round 1
-  * **Kenneth Feld** - elected in round 1
-  * **Brisc Rubal** - elected in round 1
-  * **Storm Delay** - elected in round 28
-  * **Pandoralica** - elected in round 33
-  * **Arsia Elkin** - elected in round 34
-  * **Mark Resurrectus** - elected in round 34
-  * **Jinx De'Caire** - elected in round 34
-
-
+  * <b>Kazanir</b> - elected in round 1
+  * <b>Luke Anninan</b> - elected in round 1
+  * <b>Angry Mustache</b> - elected in round 1
+  * <b>Kenneth Feld</b> - elected in round 1
+  * <b>Brisc Rubal</b> - elected in round 1
+  * <b>Storm Delay</b> - elected in round 28
+  * <b>Pandoralica</b> - elected in round 33
+  * <b>Arsia Elkin</b> - elected in round 34
+  * <b>Mark Resurrectus</b> - elected in round 34
+  * <b>Jinx De'Caire</b> - elected in round 34
   * Redline XIII - eliminated in round 1
   * Mifune SwordGod - eliminated in round 2
   * Kane Carnifex - eliminated in round 3

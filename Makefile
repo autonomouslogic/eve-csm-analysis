@@ -1,8 +1,11 @@
 .PHONY: analysis test lint format clean
 SHELL := /bin/bash
 
-analysis:
-	./gradlew run --stacktrace
+process:
+	./gradlew csmProcess --stacktrace
+
+thymeleaf:
+	./gradlew csmThymelead --stacktrace
 
 test:
 	./gradlew test --stacktrace

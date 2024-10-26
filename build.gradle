@@ -38,6 +38,7 @@ dependencies {
 	runtimeOnly "org.slf4j:jul-to-slf4j:2.0.16"
 	runtimeOnly "org.apache.logging.log4j:log4j-core:2.24.1"
 	implementation "io.reactivex.rxjava3:rxjava:3.1.8"
+	implementation "com.google.guava:guava:33.3.1-jre"
 
 	testImplementation platform("org.junit:junit-bom:5.10.0")
 	testImplementation "org.junit.jupiter:junit-jupiter"
@@ -72,4 +73,18 @@ test {
 		showCauses = true
 		showStackTraces = true
 	}
+}
+
+task csmProcess(type: JavaExec) {
+	group "application"
+	args "process"
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = mainClassName
+}
+
+task csmThymeleaf(type: JavaExec) {
+	group "application"
+	args "thymeleaf"
+	classpath = sourceSets.main.runtimeClasspath
+	mainClass = mainClassName
 }
