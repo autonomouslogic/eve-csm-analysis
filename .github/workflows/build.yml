@@ -30,4 +30,4 @@ jobs:
           python-version: "3.12"
 
       - name: Mkdocs build
-        run: make mkdocs-build
+        run: make init mkdocs-build
