@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: EVE CSM Analysis
+theme:
+  name: material
+  palette:
+    scheme: slate
