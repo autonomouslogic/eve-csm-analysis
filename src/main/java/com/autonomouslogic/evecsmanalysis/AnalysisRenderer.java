@@ -51,7 +51,7 @@ public class AnalysisRenderer {
 		log.info("Rendering analysis for {} to {}", csmConfig.getCsmNumber(), csmConfig.getMarkdownFile());
 		var engine = createEngine();
 		try (var writer = new FileWriter(csmConfig.getMarkdownFile(), StandardCharsets.UTF_8)) {
-			engine.process("analysis.md", createCsmContext(analysis), writer);
+			engine.process("csm.md", createCsmContext(analysis), writer);
 		}
 	}
 
@@ -60,7 +60,7 @@ public class AnalysisRenderer {
 		new CsmVotesCsv(allAnalysis, new File("docs/data/csm-votes.csv")).write();
 		new CsmCandidatesCsv(allAnalysis, new File("docs/data/csm-candidates.csv")).write();
 
-		var indexFile = new File("docs/index2.md");
+		var indexFile = new File("docs/index.md");
 		log.info("Rendering index to {}", indexFile);
 		var engine = createEngine();
 		try (var writer = new FileWriter(indexFile, StandardCharsets.UTF_8)) {

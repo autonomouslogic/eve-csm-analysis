@@ -1,4 +1,4 @@
-# EVE Online CSM Election Analysis
+# Home
 
 This sit outlines analysies of the EVE Online CSM elections.
 Raw data for the elections can be found at [EVE Ref docs](https://docs.everef.net/datasets/csm.html).
@@ -7,3 +7,35 @@ Raw data for the elections can be found at [EVE Ref docs](https://docs.everef.ne
 * [Discord](https://everef.net/discord)
 * [Patreon](https://www.patreon.com/everef)
 * [GitHub](https://github.com/autonomouslogic/eve-csm-analysis/)
+
+## Votes
+```vegalite
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "data/csm-votes.csv"},
+  "mark": {
+    "type": "bar",
+    "point": true
+  },
+  "encoding": {
+    "x": {"field": "CSM", "type": "nominal"},
+    "y": {"field": "Votes", "type": "quantitative"}
+  }
+}
+```
+
+## Candidates
+```vegalite
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "data/csm-candidates.csv"},
+  "mark": {
+    "type": "bar",
+    "point": true
+  },
+  "encoding": {
+    "x": {"field": "CSM", "type": "nominal"},
+    "y": {"field": "Candidates", "type": "quantitative"}
+  }
+}
+```
