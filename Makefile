@@ -11,8 +11,11 @@ process:
 thymeleaf:
 	./gradlew csmThymelead --stacktrace
 
-serve:
+mkdocs-serve:
 	source .venv/bin/activate && mkdocs serve
+
+mkdocs-build:
+	source .venv/bin/activate && mkdocs build
 
 test:
 	./gradlew test --stacktrace
