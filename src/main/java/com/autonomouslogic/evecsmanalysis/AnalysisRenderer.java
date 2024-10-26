@@ -5,17 +5,13 @@ import com.autonomouslogic.evecsmanalysis.csv.CsmVotesCsv;
 import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.fasterxml.jackson.databind.ObjectMapper;
-
 import java.io.File;
 import java.io.FileWriter;
 import java.nio.charset.StandardCharsets;
 import java.time.Duration;
 import java.util.ArrayList;
-import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Locale;
-import java.util.Map;
-
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
@@ -78,7 +74,7 @@ public class AnalysisRenderer {
 	@SneakyThrows
 	private IContext createIndexContext() {
 		var context = new Context(Locale.ENGLISH);
-//		context.setVariable("data", analysis);
+		//		context.setVariable("data", analysis);
 		return context;
 	}
 
