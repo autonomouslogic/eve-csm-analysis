@@ -44,10 +44,15 @@ public class Main {
 		return file;
 	}
 
+	@SneakyThrows
 	private static List<CsmConfig> createCsmConfig() {
 		var buildDir = new File("build", "csm");
 		if (!buildDir.exists()) {
 			buildDir.mkdirs();
+		}
+		var docsDir = new File("docs");
+		if (!docsDir.exists()) {
+			throw new FileNotFoundException(docsDir.toString());
 		}
 		return getAllCsmDirs()
 				.map(csmDir -> {
@@ -60,7 +65,7 @@ public class Main {
 							.votesJson(new File(buildDir, csmDir.getName() + "-votes.json"))
 							.auditLogJson(new File(buildDir, csmDir.getName() + "-auditLog.json"))
 							.analysisJson(new File(buildDir, csmDir.getName() + "-analysis.json"))
-							.markdownFile(new File(csmDir, "Readme.md"))
+							.markdownFile(new File(docsDir, csmDir.getName() + ".md"))
 							.build();
 				})
 				.sorted(Ordering.natural().onResultOf(CsmConfig::getCsmNumber))
