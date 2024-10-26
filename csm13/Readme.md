@@ -1,24 +1,22 @@
 # CSM 13
 
+* Elected: 10
 * Candidates: 47
 * Total votes: 29416
 * Least significant rank: 3
 
-## Candidate list
+## Candidates
 
-
-  * **Aryth** - elected in round 1
-  * **Sort Dragon** - elected in round 1
-  * **Merkelchen** - elected in round 1
-  * **Jin'taan** - elected in round 23
-  * **Innominate** - elected in round 30
-  * **Killah Bee** - elected in round 31
-  * **Steve Ronuken** - elected in round 34
-  * **Brisc Rubal** - elected in round 35
-  * **Suitonia** - elected in round 36
-  * **The Judge** - elected in round 36
-
-
+  * <b>Aryth</b> - elected in round 1
+  * <b>Sort Dragon</b> - elected in round 1
+  * <b>Merkelchen</b> - elected in round 1
+  * <b>Jin'taan</b> - elected in round 23
+  * <b>Innominate</b> - elected in round 30
+  * <b>Killah Bee</b> - elected in round 31
+  * <b>Steve Ronuken</b> - elected in round 34
+  * <b>Brisc Rubal</b> - elected in round 35
+  * <b>Suitonia</b> - elected in round 36
+  * <b>The Judge</b> - elected in round 36
   * ZepWunderbar - eliminated in round 1
   * Cwittofur Cesaille - eliminated in round 2
   * Kalen Tsero - eliminated in round 3

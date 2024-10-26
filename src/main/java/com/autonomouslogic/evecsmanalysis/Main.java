@@ -1,13 +1,12 @@
 package com.autonomouslogic.evecsmanalysis;
 
-import com.autonomouslogic.evecsmanalysis.models.AuditLog;
-import com.autonomouslogic.evecsmanalysis.models.BallotFile;
-import com.autonomouslogic.evecsmanalysis.parser.AuditLogParser;
-import com.autonomouslogic.evecsmanalysis.parser.BallotParser;
+import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.google.common.collect.Ordering;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Arrays;
+import java.util.List;
 import java.util.stream.Stream;
 import lombok.SneakyThrows;
 import lombok.extern.log4j.Log4j2;
@@ -18,53 +17,54 @@ public class Main {
 
 	@SneakyThrows
 	public static void main(String[] args) {
-		log.info("Starting analysis");
-		var dirs = getAllCsmDirs().toList();
-		log.info("Found {} CSM dirs: {}", dirs.size(), dirs);
-		for (var csmDir : dirs) {
-			processCsmDir(csmDir);
+		if (args.length != 1) {
+			System.err.println("Exactly one arg expected");
+			System.exit(1);
+		}
+		var csmConfigs = createCsmConfig();
+		var command = args[0];
+		switch (command) {
+			case "process":
+				new Processor(csmConfigs, objectMapper).run();
+				break;
+			case "thymeleaf":
+				new AnalysisRenderer(csmConfigs, objectMapper).renderAll();
+				break;
+			default:
+				System.err.println("Unknown command: " + command);
+				System.exit(1);
 		}
 	}
 
-	@SneakyThrows
-	private static void processCsmDir(File csmDir) {
-		log.info("Processing CSM dir: {}", csmDir);
-		var csmNumber = Integer.parseInt(csmDir.getName().substring(3));
-		if (csmNumber < 1) {
-			throw new IllegalArgumentException("Invalid CSM number: " + csmNumber + " on dir: " + csmDir);
-		}
-		var votesBlt = requiredFile(csmDir, "votes.blt");
-		var votesJson = new File(csmDir, "votes.json");
-		var auditLogTxt = requiredFile(csmDir, "auditLog.txt");
-		var auditLogJson = new File(csmDir, "auditLog.json");
-		var readme = new File(csmDir, "Readme.md");
-
-		var ballotFile = parseBallotFile(votesBlt);
-		objectMapper.writerWithDefaultPrettyPrinter().writeValue(votesJson, ballotFile);
-
-		var auditLog = parseAuditLog(auditLogTxt);
-		objectMapper.writerWithDefaultPrettyPrinter().writeValue(auditLogJson, auditLog);
-
-		var data = new AnalysisRunner(csmDir, csmNumber, ballotFile, auditLog).run();
-		new AnalysisRenderer(data).render(readme);
-	}
-
-	private static BallotFile parseBallotFile(File file) {
-		log.info("Parsing ballot file: {}", file);
-		return new BallotParser(file).parse();
-	}
-
-	private static AuditLog parseAuditLog(File file) {
-		log.info("Parsing audit log: {}", file);
-		return new AuditLogParser(file).parse();
-	}
-
-	private static File requiredFile(File csmDir, String child) throws FileNotFoundException {
+	public static File requiredFile(File csmDir, String child) throws FileNotFoundException {
 		var file = new File(csmDir, child);
 		if (!file.exists()) {
 			throw new FileNotFoundException(file.toString());
 		}
 		return file;
+	}
+
+	private static List<CsmConfig> createCsmConfig() {
+		var buildDir = new File("build", "csm");
+		if (!buildDir.exists()) {
+			buildDir.mkdirs();
+		}
+		return getAllCsmDirs()
+				.map(csmDir -> {
+					return CsmConfig.builder()
+							.csmNumber(Integer.parseInt(csmDir.getName().substring(3)))
+							.csmDir(csmDir)
+							.talleyScriptFile(new File(csmDir, "WrightTalley.py"))
+							.votesBlt(new File(csmDir, "votes.blt"))
+							.auditLogTxt(new File(csmDir, "auditLog.txt"))
+							.votesJson(new File(buildDir, csmDir.getName() + "-votes.json"))
+							.auditLogJson(new File(buildDir, csmDir.getName() + "-auditLog.json"))
+							.analysisJson(new File(buildDir, csmDir.getName() + "-analysis.json"))
+							.markdownFile(new File(csmDir, "Readme.md"))
+							.build();
+				})
+				.sorted(Ordering.natural().onResultOf(CsmConfig::getCsmNumber))
+				.toList();
 	}
 
 	public static Stream<File> getAllCsmDirs() {
