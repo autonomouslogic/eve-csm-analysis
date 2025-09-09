@@ -3,7 +3,7 @@
 * Elected: [(${analysis.winners.size() + data.ccpPicks.size()})]
 * Candidates: [(${analysis.candidateCount})]
 * Total votes: [(${analysis.totalVotes})]
-* Least significant rank: [(${analysis.leastSignificantRank})]
+* [Least significant rank](/least-significant-rank): [(${analysis.leastSignificantRank})]
 
 [# th:if="${data.urls.size()} > 0"]
 ## Posts

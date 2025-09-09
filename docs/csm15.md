@@ -3,7 +3,7 @@
 * Elected: 10
 * Candidates: 40
 * Total votes: 36120
-* Least significant rank: 4
+* [Least significant rank](/least-significant-rank): 4
 
 
 ## Posts
