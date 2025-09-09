@@ -5,6 +5,13 @@
 * Total votes: 29416
 * Least significant rank: 3
 
+
+## Posts
+
+* [ Welcome CSM 13 ]( https://www.eveonline.com/news/view/welcome-csm-13 )
+
+
+
 ## Elected Candidates
 
 
@@ -18,6 +25,7 @@
 * Brisc Rubal - elected in round 35
 * Suitonia - elected in round 36
 * The Judge - elected in round 36
+
 
 
 ## Eliminated Candidates

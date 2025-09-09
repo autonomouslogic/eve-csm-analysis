@@ -11,6 +11,8 @@ public class CsmConfig {
 
 	File csmDir;
 
+	File csmData;
+
 	File talleyScriptFile;
 
 	File votesBlt;

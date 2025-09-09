@@ -5,6 +5,13 @@
 * Total votes: 31274
 * Least significant rank: 9
 
+
+## Posts
+
+* [ A closer look at the CSM 12 election results ]( https://www.eveonline.com/news/view/a-closer-look-at-the-csm-12-results )
+
+
+
 ## Elected Candidates
 
 
@@ -18,6 +25,7 @@
 * Yukiko Kami - elected in round 54
 * rhiload Feron-drake - elected in round 54
 * Vince Draken - elected in round 54
+
 
 
 ## Eliminated Candidates

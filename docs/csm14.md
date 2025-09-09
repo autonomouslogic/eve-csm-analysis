@@ -5,6 +5,13 @@
 * Total votes: 32994
 * Least significant rank: 9
 
+
+## Posts
+
+* [ CSM 14 has been elected! ]( https://www.eveonline.com/news/view/csm-14-has-been-elected )
+
+
+
 ## Elected Candidates
 
 
@@ -18,6 +25,7 @@
 * ExookiZ - elected in round 34
 * Steve Ronuken - elected in round 34
 * Innominate - elected in round 34
+
 
 
 ## Eliminated Candidates

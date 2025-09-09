@@ -5,6 +5,13 @@
 * Total votes: 36120
 * Least significant rank: 4
 
+
+## Posts
+
+* [ Meet the New Council ]( https://www.eveonline.com/news/view/meet-the-new-council )
+
+
+
 ## Elected Candidates
 
 
@@ -18,6 +25,7 @@
 * Brisc Rubal - elected in round 30
 * Phantomite - elected in round 30
 * Torvald Uruz - elected in round 30
+
 
 
 ## Eliminated Candidates

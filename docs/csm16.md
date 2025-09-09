@@ -5,6 +5,14 @@
 * Total votes: 38086
 * Least significant rank: 2
 
+
+## Posts
+
+* [ Welcome your new CSM ]( https://www.eveonline.com/news/view/welcome-your-new-csm )
+* [ CSM 16 - Meet Your Candidates! ]( https://www.eveonline.com/news/view/csm-16-meet-your-candidates )
+
+
+
 ## Elected Candidates
 
 
@@ -18,6 +26,7 @@
 * Vily - elected in round 36
 * Mike Azariah - elected in round 36
 * progodlegend - elected in round 36
+
 
 
 ## Eliminated Candidates
