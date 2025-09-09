@@ -9,7 +9,7 @@ process:
 	./gradlew csmProcess --stacktrace
 
 thymeleaf:
-	./gradlew csmThymelead --stacktrace
+	./gradlew csmThymeleaf --stacktrace
 
 mkdocs-serve:
 	source .venv/bin/activate && mkdocs serve
