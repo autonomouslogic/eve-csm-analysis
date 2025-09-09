@@ -14,56 +14,214 @@
 
 ## Elected Candidates
 
-
-* Aryth - elected in round 1
-* Sort Dragon - elected in round 1
-* Merkelchen - elected in round 1
-* Jin'taan - elected in round 23
-* Innominate - elected in round 30
-* Killah Bee - elected in round 31
-* Steve Ronuken - elected in round 34
-* Brisc Rubal - elected in round 35
-* Suitonia - elected in round 36
-* The Judge - elected in round 36
-
-
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+            <th>Election round</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr>
+            <td>Aryth</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Sort Dragon</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Merkelchen</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Jin'taan</td>
+            <td style="text-align: right">23</td>
+        </tr>
+        <tr>
+            <td>Innominate</td>
+            <td style="text-align: right">30</td>
+        </tr>
+        <tr>
+            <td>Killah Bee</td>
+            <td style="text-align: right">31</td>
+        </tr>
+        <tr>
+            <td>Steve Ronuken</td>
+            <td style="text-align: right">34</td>
+        </tr>
+        <tr>
+            <td>Brisc Rubal</td>
+            <td style="text-align: right">35</td>
+        </tr>
+        <tr>
+            <td>Suitonia</td>
+            <td style="text-align: right">36</td>
+        </tr>
+        <tr>
+            <td>The Judge</td>
+            <td style="text-align: right">36</td>
+        </tr>
+        
+        
+    </tbody>
+</table>
 
 ## Eliminated Candidates
-
-* ZepWunderbar - eliminated in round 1
-* Cwittofur Cesaille - eliminated in round 2
-* Kalen Tsero - eliminated in round 3
-* Solar Taranogas - eliminated in round 4
-* Parobro - eliminated in round 5
-* Cacique Yuhasz - eliminated in round 6
-* Vincent Eneticum - eliminated in round 7
-* The Ludocrat - eliminated in round 8
-* Kali Omega - eliminated in round 9
-* Eurzadahn - eliminated in round 10
-* Claevyan - eliminated in round 11
-* Chainsaw Plankton - eliminated in round 12
-* Syncopee Farnsworth - eliminated in round 13
-* Saint Michaels Soul - eliminated in round 14
-* Razorblade92 - eliminated in round 15
-* Carbon Alabel - eliminated in round 16
-* Malakai Asamov - eliminated in round 17
-* Xenuria - eliminated in round 18
-* aspecialpinecone - eliminated in round 19
-* commander aze - eliminated in round 20
-* Raphendyr Nardieu - eliminated in round 21
-* Jaha Preynar - eliminated in round 22
-* Bei ArtJay - eliminated in round 23
-* Winter duFallen - eliminated in round 24
-* Damian Blackie - eliminated in round 25
-* Arielle en Distel - eliminated in round 26
-* Afropty - eliminated in round 27
-* Sullen Decimus - eliminated in round 28
-* Mawderator - eliminated in round 29
-* Otto Bismarck - eliminated in round 30
-* bastet 666 - eliminated in round 31
-* Silver Suspiria - eliminated in round 32
-* Lorelei Ierendi - eliminated in round 33
-* Tifida - eliminated in round 34
-* ExookiZ - eliminated in round 35
-* Tikktokk Tokkzikk - eliminated in round 36
-
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+            <th>Elimination round</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr>
+            <td>ZepWunderbar</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Cwittofur Cesaille</td>
+            <td style="text-align: right">2</td>
+        </tr>
+        <tr>
+            <td>Kalen Tsero</td>
+            <td style="text-align: right">3</td>
+        </tr>
+        <tr>
+            <td>Solar Taranogas</td>
+            <td style="text-align: right">4</td>
+        </tr>
+        <tr>
+            <td>Parobro</td>
+            <td style="text-align: right">5</td>
+        </tr>
+        <tr>
+            <td>Cacique Yuhasz</td>
+            <td style="text-align: right">6</td>
+        </tr>
+        <tr>
+            <td>Vincent Eneticum</td>
+            <td style="text-align: right">7</td>
+        </tr>
+        <tr>
+            <td>The Ludocrat</td>
+            <td style="text-align: right">8</td>
+        </tr>
+        <tr>
+            <td>Kali Omega</td>
+            <td style="text-align: right">9</td>
+        </tr>
+        <tr>
+            <td>Eurzadahn</td>
+            <td style="text-align: right">10</td>
+        </tr>
+        <tr>
+            <td>Claevyan</td>
+            <td style="text-align: right">11</td>
+        </tr>
+        <tr>
+            <td>Chainsaw Plankton</td>
+            <td style="text-align: right">12</td>
+        </tr>
+        <tr>
+            <td>Syncopee Farnsworth</td>
+            <td style="text-align: right">13</td>
+        </tr>
+        <tr>
+            <td>Saint Michaels Soul</td>
+            <td style="text-align: right">14</td>
+        </tr>
+        <tr>
+            <td>Razorblade92</td>
+            <td style="text-align: right">15</td>
+        </tr>
+        <tr>
+            <td>Carbon Alabel</td>
+            <td style="text-align: right">16</td>
+        </tr>
+        <tr>
+            <td>Malakai Asamov</td>
+            <td style="text-align: right">17</td>
+        </tr>
+        <tr>
+            <td>Xenuria</td>
+            <td style="text-align: right">18</td>
+        </tr>
+        <tr>
+            <td>aspecialpinecone</td>
+            <td style="text-align: right">19</td>
+        </tr>
+        <tr>
+            <td>commander aze</td>
+            <td style="text-align: right">20</td>
+        </tr>
+        <tr>
+            <td>Raphendyr Nardieu</td>
+            <td style="text-align: right">21</td>
+        </tr>
+        <tr>
+            <td>Jaha Preynar</td>
+            <td style="text-align: right">22</td>
+        </tr>
+        <tr>
+            <td>Bei ArtJay</td>
+            <td style="text-align: right">23</td>
+        </tr>
+        <tr>
+            <td>Winter duFallen</td>
+            <td style="text-align: right">24</td>
+        </tr>
+        <tr>
+            <td>Damian Blackie</td>
+            <td style="text-align: right">25</td>
+        </tr>
+        <tr>
+            <td>Arielle en Distel</td>
+            <td style="text-align: right">26</td>
+        </tr>
+        <tr>
+            <td>Afropty</td>
+            <td style="text-align: right">27</td>
+        </tr>
+        <tr>
+            <td>Sullen Decimus</td>
+            <td style="text-align: right">28</td>
+        </tr>
+        <tr>
+            <td>Mawderator</td>
+            <td style="text-align: right">29</td>
+        </tr>
+        <tr>
+            <td>Otto Bismarck</td>
+            <td style="text-align: right">30</td>
+        </tr>
+        <tr>
+            <td>bastet 666</td>
+            <td style="text-align: right">31</td>
+        </tr>
+        <tr>
+            <td>Silver Suspiria</td>
+            <td style="text-align: right">32</td>
+        </tr>
+        <tr>
+            <td>Lorelei Ierendi</td>
+            <td style="text-align: right">33</td>
+        </tr>
+        <tr>
+            <td>Tifida</td>
+            <td style="text-align: right">34</td>
+        </tr>
+        <tr>
+            <td>ExookiZ</td>
+            <td style="text-align: right">35</td>
+        </tr>
+        <tr>
+            <td>Tikktokk Tokkzikk</td>
+            <td style="text-align: right">36</td>
+        </tr>
+        
+    </tbody>
+</table>

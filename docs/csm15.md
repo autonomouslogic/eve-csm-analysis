@@ -14,50 +14,190 @@
 
 ## Elected Candidates
 
-
-* Merkelchen - elected in round 1
-* Gobbins - elected in round 1
-* Vily - elected in round 19
-* Maria Taylor - elected in round 21
-* Innominate - elected in round 29
-* Kenneth Feld - elected in round 29
-* Mike Azariah - elected in round 30
-* Brisc Rubal - elected in round 30
-* Phantomite - elected in round 30
-* Torvald Uruz - elected in round 30
-
-
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+            <th>Election round</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr>
+            <td>Merkelchen</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Gobbins</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Vily</td>
+            <td style="text-align: right">19</td>
+        </tr>
+        <tr>
+            <td>Maria Taylor</td>
+            <td style="text-align: right">21</td>
+        </tr>
+        <tr>
+            <td>Innominate</td>
+            <td style="text-align: right">29</td>
+        </tr>
+        <tr>
+            <td>Kenneth Feld</td>
+            <td style="text-align: right">29</td>
+        </tr>
+        <tr>
+            <td>Mike Azariah</td>
+            <td style="text-align: right">30</td>
+        </tr>
+        <tr>
+            <td>Brisc Rubal</td>
+            <td style="text-align: right">30</td>
+        </tr>
+        <tr>
+            <td>Phantomite</td>
+            <td style="text-align: right">30</td>
+        </tr>
+        <tr>
+            <td>Torvald Uruz</td>
+            <td style="text-align: right">30</td>
+        </tr>
+        
+        
+    </tbody>
+</table>
 
 ## Eliminated Candidates
-
-* Leehams DaWildabeast - eliminated in round 1
-* Storm Delay - eliminated in round 2
-* Kalen Tsero - eliminated in round 3
-* Rheaha Preynar - eliminated in round 4
-* Dhuras - eliminated in round 5
-* boernl - eliminated in round 6
-* Styxx - eliminated in round 7
-* Murray Rothbardo - eliminated in round 8
-* Xenuria - eliminated in round 9
-* Prospektor Schipplock - eliminated in round 10
-* Komi Valentine - eliminated in round 11
-* UAxDEATH - eliminated in round 12
-* Pandora Singularity - eliminated in round 13
-* PJHustle - eliminated in round 14
-* Ironwulf - eliminated in round 15
-* January Valentine - eliminated in round 16
-* Darius Caliente - eliminated in round 17
-* Alexis Finch - eliminated in round 18
-* The Oz - eliminated in round 19
-* Steadyo - eliminated in round 20
-* Insidious Sainthood - eliminated in round 21
-* Meredith en Thielles - eliminated in round 22
-* Stitch Kaneland - eliminated in round 23
-* DutchGunner - eliminated in round 24
-* Jurius Doctor - eliminated in round 25
-* BlazingBunny - eliminated in round 26
-* ExookiZ - eliminated in round 27
-* Juvenius Drakonius - eliminated in round 28
-* Ikarus Cesaille - eliminated in round 29
-* Loroseco Kross - eliminated in round 30
-
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+            <th>Elimination round</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr>
+            <td>Leehams DaWildabeast</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Storm Delay</td>
+            <td style="text-align: right">2</td>
+        </tr>
+        <tr>
+            <td>Kalen Tsero</td>
+            <td style="text-align: right">3</td>
+        </tr>
+        <tr>
+            <td>Rheaha Preynar</td>
+            <td style="text-align: right">4</td>
+        </tr>
+        <tr>
+            <td>Dhuras</td>
+            <td style="text-align: right">5</td>
+        </tr>
+        <tr>
+            <td>boernl</td>
+            <td style="text-align: right">6</td>
+        </tr>
+        <tr>
+            <td>Styxx</td>
+            <td style="text-align: right">7</td>
+        </tr>
+        <tr>
+            <td>Murray Rothbardo</td>
+            <td style="text-align: right">8</td>
+        </tr>
+        <tr>
+            <td>Xenuria</td>
+            <td style="text-align: right">9</td>
+        </tr>
+        <tr>
+            <td>Prospektor Schipplock</td>
+            <td style="text-align: right">10</td>
+        </tr>
+        <tr>
+            <td>Komi Valentine</td>
+            <td style="text-align: right">11</td>
+        </tr>
+        <tr>
+            <td>UAxDEATH</td>
+            <td style="text-align: right">12</td>
+        </tr>
+        <tr>
+            <td>Pandora Singularity</td>
+            <td style="text-align: right">13</td>
+        </tr>
+        <tr>
+            <td>PJHustle</td>
+            <td style="text-align: right">14</td>
+        </tr>
+        <tr>
+            <td>Ironwulf</td>
+            <td style="text-align: right">15</td>
+        </tr>
+        <tr>
+            <td>January Valentine</td>
+            <td style="text-align: right">16</td>
+        </tr>
+        <tr>
+            <td>Darius Caliente</td>
+            <td style="text-align: right">17</td>
+        </tr>
+        <tr>
+            <td>Alexis Finch</td>
+            <td style="text-align: right">18</td>
+        </tr>
+        <tr>
+            <td>The Oz</td>
+            <td style="text-align: right">19</td>
+        </tr>
+        <tr>
+            <td>Steadyo</td>
+            <td style="text-align: right">20</td>
+        </tr>
+        <tr>
+            <td>Insidious Sainthood</td>
+            <td style="text-align: right">21</td>
+        </tr>
+        <tr>
+            <td>Meredith en Thielles</td>
+            <td style="text-align: right">22</td>
+        </tr>
+        <tr>
+            <td>Stitch Kaneland</td>
+            <td style="text-align: right">23</td>
+        </tr>
+        <tr>
+            <td>DutchGunner</td>
+            <td style="text-align: right">24</td>
+        </tr>
+        <tr>
+            <td>Jurius Doctor</td>
+            <td style="text-align: right">25</td>
+        </tr>
+        <tr>
+            <td>BlazingBunny</td>
+            <td style="text-align: right">26</td>
+        </tr>
+        <tr>
+            <td>ExookiZ</td>
+            <td style="text-align: right">27</td>
+        </tr>
+        <tr>
+            <td>Juvenius Drakonius</td>
+            <td style="text-align: right">28</td>
+        </tr>
+        <tr>
+            <td>Ikarus Cesaille</td>
+            <td style="text-align: right">29</td>
+        </tr>
+        <tr>
+            <td>Loroseco Kross</td>
+            <td style="text-align: right">30</td>
+        </tr>
+        
+    </tbody>
+</table>

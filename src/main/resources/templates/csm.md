@@ -14,16 +14,45 @@
 
 ## Elected Candidates
 
-[# th:each="winner : ${analysis.winners}"]
-* [(${winner.candidate})] - elected in round [(${winner.round})]
-[/]
-[# th:if="${data.ccpPicks.size()} > 0"]
-[# th:each="winner : ${data.ccpPicks}"]
-* [(${winner})] - selected by CCP 
-[/]
-[/]
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+            <th>Election round</th>
+        </tr>
+    </thead>
+    <tbody>
+        [# th:each="winner : ${analysis.winners}"]
+        <tr>
+            <td>[(${winner.candidate})]</td>
+            <td style="text-align: right">[(${winner.round})]</td>
+        </tr>
+        [/]
+        [# th:if="${data.ccpPicks.size()} > 0"]
+            [# th:each="winner : ${data.ccpPicks}"]
+            <tr>
+                <td>[(${winner})]</td>
+                <td style="text-align: right">selected by CCP</td>
+            </tr>
+            [/]
+        [/]
+    </tbody>
+</table>
 
 ## Eliminated Candidates
-[# th:each="eliminated : ${analysis.eliminations}"]
-* [(${eliminated.candidate})] - eliminated in round [(${eliminated.round})]
-[/]
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+            <th>Elimination round</th>
+        </tr>
+    </thead>
+    <tbody>
+        [# th:each="eliminated : ${analysis.eliminations}"]
+        <tr>
+            <td>[(${eliminated.candidate})]</td>
+            <td style="text-align: right">[(${eliminated.round})]</td>
+        </tr>
+        [/]
+    </tbody>
+</table>

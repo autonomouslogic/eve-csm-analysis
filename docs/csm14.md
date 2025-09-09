@@ -14,54 +14,206 @@
 
 ## Elected Candidates
 
-
-* Aryth - elected in round 1
-* Gobbins - elected in round 1
-* Olmeca Gold - elected in round 1
-* Vily - elected in round 1
-* Merkelchen - elected in round 1
-* Killah Bee - elected in round 1
-* Dunk Dinkle - elected in round 34
-* ExookiZ - elected in round 34
-* Steve Ronuken - elected in round 34
-* Innominate - elected in round 34
-
-
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+            <th>Election round</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr>
+            <td>Aryth</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Gobbins</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Olmeca Gold</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Vily</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Merkelchen</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Killah Bee</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Dunk Dinkle</td>
+            <td style="text-align: right">34</td>
+        </tr>
+        <tr>
+            <td>ExookiZ</td>
+            <td style="text-align: right">34</td>
+        </tr>
+        <tr>
+            <td>Steve Ronuken</td>
+            <td style="text-align: right">34</td>
+        </tr>
+        <tr>
+            <td>Innominate</td>
+            <td style="text-align: right">34</td>
+        </tr>
+        
+        
+    </tbody>
+</table>
 
 ## Eliminated Candidates
-
-* Styxx - eliminated in round 1
-* Fiedan - eliminated in round 2
-* Zipp Adoudel - eliminated in round 3
-* Cacique Yuhasz - eliminated in round 4
-* Darien Avan - eliminated in round 5
-* Aeryn-Sun - eliminated in round 6
-* Liz Lizardbreath - eliminated in round 7
-* Carbon Alabel - eliminated in round 8
-* Anveri Vestigo - eliminated in round 9
-* Mr Deathwhisper - eliminated in round 10
-* Arqui Nurbs - eliminated in round 11
-* Doris Andedarie - eliminated in round 12
-* Zap InSpace - eliminated in round 13
-* teddy Gbyc - eliminated in round 14
-*  Nahtor Raschura  - eliminated in round 15
-* Aegaeonos - eliminated in round 16
-* Crystalline Entity - eliminated in round 17
-* Blood Ruin - eliminated in round 18
-* Manic Velocity - eliminated in round 19
-* BlazingBunny - eliminated in round 20
-* Xenuria - eliminated in round 21
-* Compayn - eliminated in round 22
-* Lucrative Business Opportunity - eliminated in round 23
-* Insidious Sainthood - eliminated in round 24
-* Matthew Dust - eliminated in round 25
-* Jurius Doctor - eliminated in round 26
-* Lorelei Ierendi - eliminated in round 27
-* Arrowspeeed Bounty - eliminated in round 28
-* The Judge - eliminated in round 29
-* Mike Azariah - eliminated in round 30
-* Matterall - eliminated in round 31
-* Stitch Kaneland - eliminated in round 32
-* Cornak Firefist - eliminated in round 33
-* Sort Dragon - eliminated in round 34
-
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+            <th>Elimination round</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr>
+            <td>Styxx</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Fiedan</td>
+            <td style="text-align: right">2</td>
+        </tr>
+        <tr>
+            <td>Zipp Adoudel</td>
+            <td style="text-align: right">3</td>
+        </tr>
+        <tr>
+            <td>Cacique Yuhasz</td>
+            <td style="text-align: right">4</td>
+        </tr>
+        <tr>
+            <td>Darien Avan</td>
+            <td style="text-align: right">5</td>
+        </tr>
+        <tr>
+            <td>Aeryn-Sun</td>
+            <td style="text-align: right">6</td>
+        </tr>
+        <tr>
+            <td>Liz Lizardbreath</td>
+            <td style="text-align: right">7</td>
+        </tr>
+        <tr>
+            <td>Carbon Alabel</td>
+            <td style="text-align: right">8</td>
+        </tr>
+        <tr>
+            <td>Anveri Vestigo</td>
+            <td style="text-align: right">9</td>
+        </tr>
+        <tr>
+            <td>Mr Deathwhisper</td>
+            <td style="text-align: right">10</td>
+        </tr>
+        <tr>
+            <td>Arqui Nurbs</td>
+            <td style="text-align: right">11</td>
+        </tr>
+        <tr>
+            <td>Doris Andedarie</td>
+            <td style="text-align: right">12</td>
+        </tr>
+        <tr>
+            <td>Zap InSpace</td>
+            <td style="text-align: right">13</td>
+        </tr>
+        <tr>
+            <td>teddy Gbyc</td>
+            <td style="text-align: right">14</td>
+        </tr>
+        <tr>
+            <td> Nahtor Raschura </td>
+            <td style="text-align: right">15</td>
+        </tr>
+        <tr>
+            <td>Aegaeonos</td>
+            <td style="text-align: right">16</td>
+        </tr>
+        <tr>
+            <td>Crystalline Entity</td>
+            <td style="text-align: right">17</td>
+        </tr>
+        <tr>
+            <td>Blood Ruin</td>
+            <td style="text-align: right">18</td>
+        </tr>
+        <tr>
+            <td>Manic Velocity</td>
+            <td style="text-align: right">19</td>
+        </tr>
+        <tr>
+            <td>BlazingBunny</td>
+            <td style="text-align: right">20</td>
+        </tr>
+        <tr>
+            <td>Xenuria</td>
+            <td style="text-align: right">21</td>
+        </tr>
+        <tr>
+            <td>Compayn</td>
+            <td style="text-align: right">22</td>
+        </tr>
+        <tr>
+            <td>Lucrative Business Opportunity</td>
+            <td style="text-align: right">23</td>
+        </tr>
+        <tr>
+            <td>Insidious Sainthood</td>
+            <td style="text-align: right">24</td>
+        </tr>
+        <tr>
+            <td>Matthew Dust</td>
+            <td style="text-align: right">25</td>
+        </tr>
+        <tr>
+            <td>Jurius Doctor</td>
+            <td style="text-align: right">26</td>
+        </tr>
+        <tr>
+            <td>Lorelei Ierendi</td>
+            <td style="text-align: right">27</td>
+        </tr>
+        <tr>
+            <td>Arrowspeeed Bounty</td>
+            <td style="text-align: right">28</td>
+        </tr>
+        <tr>
+            <td>The Judge</td>
+            <td style="text-align: right">29</td>
+        </tr>
+        <tr>
+            <td>Mike Azariah</td>
+            <td style="text-align: right">30</td>
+        </tr>
+        <tr>
+            <td>Matterall</td>
+            <td style="text-align: right">31</td>
+        </tr>
+        <tr>
+            <td>Stitch Kaneland</td>
+            <td style="text-align: right">32</td>
+        </tr>
+        <tr>
+            <td>Cornak Firefist</td>
+            <td style="text-align: right">33</td>
+        </tr>
+        <tr>
+            <td>Sort Dragon</td>
+            <td style="text-align: right">34</td>
+        </tr>
+        
+    </tbody>
+</table>

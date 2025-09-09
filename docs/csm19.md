@@ -15,62 +15,229 @@
 
 ## Elected Candidates
 
-
-* Kazanir - elected in round 1
-* Luke Anninan - elected in round 1
-* Zintage Enaka - elected in round 1
-* Ariel Rin - elected in round 33
-* Dujek Oneye - elected in round 33
-* Storm Delay - elected in round 36
-* The Oz - elected in round 36
-* Kenneth Feld - elected in round 37
-* Seddow - elected in round 37
-* Mick Fightmaster - elected in round 37
-
-
-
-* Drake Iddon - selected by CCP 
-* youngpuke2 - selected by CCP 
-
-
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+            <th>Election round</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr>
+            <td>Kazanir</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Luke Anninan</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Zintage Enaka</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Ariel Rin</td>
+            <td style="text-align: right">33</td>
+        </tr>
+        <tr>
+            <td>Dujek Oneye</td>
+            <td style="text-align: right">33</td>
+        </tr>
+        <tr>
+            <td>Storm Delay</td>
+            <td style="text-align: right">36</td>
+        </tr>
+        <tr>
+            <td>The Oz</td>
+            <td style="text-align: right">36</td>
+        </tr>
+        <tr>
+            <td>Kenneth Feld</td>
+            <td style="text-align: right">37</td>
+        </tr>
+        <tr>
+            <td>Seddow</td>
+            <td style="text-align: right">37</td>
+        </tr>
+        <tr>
+            <td>Mick Fightmaster</td>
+            <td style="text-align: right">37</td>
+        </tr>
+        
+        
+            
+            <tr>
+                <td>Drake Iddon</td>
+                <td style="text-align: right">selected by CCP</td>
+            </tr>
+            <tr>
+                <td>youngpuke2</td>
+                <td style="text-align: right">selected by CCP</td>
+            </tr>
+            
+        
+    </tbody>
+</table>
 
 ## Eliminated Candidates
-
-* AtheistOfFail - eliminated in round 1
-* Redus Taw - eliminated in round 2
-* Aerodinamica Attiva - eliminated in round 3
-* Colby Bosh'tet - eliminated in round 4
-* commander Shepard Brotherhood - eliminated in round 5
-* Styxx - eliminated in round 6
-* Mcopiate - eliminated in round 7
-* Frippyy - eliminated in round 8
-* Grima The Mad - eliminated in round 9
-* Aqustin Agustus - eliminated in round 10
-* NeoShocker - eliminated in round 11
-* MILINT ARC Trooper - eliminated in round 12
-* Hexator Gaming - eliminated in round 13
-* Bexey Songweaver - eliminated in round 14
-* SKALE Organa - eliminated in round 15
-* Prospektor Schipplock - eliminated in round 16
-* Frozen Fallout - eliminated in round 17
-* Viciate - eliminated in round 18
-* Switch 4 - eliminated in round 19
-* Aurous Victoirespere - eliminated in round 20
-* Komo Sunder - eliminated in round 21
-* steven mardis - eliminated in round 22
-* SeriesPro - eliminated in round 23
-* Creatnos - eliminated in round 24
-* Gideon Zendikar - eliminated in round 25
-* Ankh Lai - eliminated in round 26
-* DutchGunner - eliminated in round 27
-* Drake Iddon - eliminated in round 28
-* Gustav Mannfred - eliminated in round 29
-* Rots Mijnwerker - eliminated in round 30
-* Machagon - eliminated in round 31
-* Kshal Aideron - eliminated in round 32
-* youngpuke2 - eliminated in round 33
-* Phantomite - eliminated in round 34
-* Mike Azariah - eliminated in round 35
-* Dalros - eliminated in round 36
-* Itaer - eliminated in round 37
-
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+            <th>Elimination round</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr>
+            <td>AtheistOfFail</td>
+            <td style="text-align: right">1</td>
+        </tr>
+        <tr>
+            <td>Redus Taw</td>
+            <td style="text-align: right">2</td>
+        </tr>
+        <tr>
+            <td>Aerodinamica Attiva</td>
+            <td style="text-align: right">3</td>
+        </tr>
+        <tr>
+            <td>Colby Bosh'tet</td>
+            <td style="text-align: right">4</td>
+        </tr>
+        <tr>
+            <td>commander Shepard Brotherhood</td>
+            <td style="text-align: right">5</td>
+        </tr>
+        <tr>
+            <td>Styxx</td>
+            <td style="text-align: right">6</td>
+        </tr>
+        <tr>
+            <td>Mcopiate</td>
+            <td style="text-align: right">7</td>
+        </tr>
+        <tr>
+            <td>Frippyy</td>
+            <td style="text-align: right">8</td>
+        </tr>
+        <tr>
+            <td>Grima The Mad</td>
+            <td style="text-align: right">9</td>
+        </tr>
+        <tr>
+            <td>Aqustin Agustus</td>
+            <td style="text-align: right">10</td>
+        </tr>
+        <tr>
+            <td>NeoShocker</td>
+            <td style="text-align: right">11</td>
+        </tr>
+        <tr>
+            <td>MILINT ARC Trooper</td>
+            <td style="text-align: right">12</td>
+        </tr>
+        <tr>
+            <td>Hexator Gaming</td>
+            <td style="text-align: right">13</td>
+        </tr>
+        <tr>
+            <td>Bexey Songweaver</td>
+            <td style="text-align: right">14</td>
+        </tr>
+        <tr>
+            <td>SKALE Organa</td>
+            <td style="text-align: right">15</td>
+        </tr>
+        <tr>
+            <td>Prospektor Schipplock</td>
+            <td style="text-align: right">16</td>
+        </tr>
+        <tr>
+            <td>Frozen Fallout</td>
+            <td style="text-align: right">17</td>
+        </tr>
+        <tr>
+            <td>Viciate</td>
+            <td style="text-align: right">18</td>
+        </tr>
+        <tr>
+            <td>Switch 4</td>
+            <td style="text-align: right">19</td>
+        </tr>
+        <tr>
+            <td>Aurous Victoirespere</td>
+            <td style="text-align: right">20</td>
+        </tr>
+        <tr>
+            <td>Komo Sunder</td>
+            <td style="text-align: right">21</td>
+        </tr>
+        <tr>
+            <td>steven mardis</td>
+            <td style="text-align: right">22</td>
+        </tr>
+        <tr>
+            <td>SeriesPro</td>
+            <td style="text-align: right">23</td>
+        </tr>
+        <tr>
+            <td>Creatnos</td>
+            <td style="text-align: right">24</td>
+        </tr>
+        <tr>
+            <td>Gideon Zendikar</td>
+            <td style="text-align: right">25</td>
+        </tr>
+        <tr>
+            <td>Ankh Lai</td>
+            <td style="text-align: right">26</td>
+        </tr>
+        <tr>
+            <td>DutchGunner</td>
+            <td style="text-align: right">27</td>
+        </tr>
+        <tr>
+            <td>Drake Iddon</td>
+            <td style="text-align: right">28</td>
+        </tr>
+        <tr>
+            <td>Gustav Mannfred</td>
+            <td style="text-align: right">29</td>
+        </tr>
+        <tr>
+            <td>Rots Mijnwerker</td>
+            <td style="text-align: right">30</td>
+        </tr>
+        <tr>
+            <td>Machagon</td>
+            <td style="text-align: right">31</td>
+        </tr>
+        <tr>
+            <td>Kshal Aideron</td>
+            <td style="text-align: right">32</td>
+        </tr>
+        <tr>
+            <td>youngpuke2</td>
+            <td style="text-align: right">33</td>
+        </tr>
+        <tr>
+            <td>Phantomite</td>
+            <td style="text-align: right">34</td>
+        </tr>
+        <tr>
+            <td>Mike Azariah</td>
+            <td style="text-align: right">35</td>
+        </tr>
+        <tr>
+            <td>Dalros</td>
+            <td style="text-align: right">36</td>
+        </tr>
+        <tr>
+            <td>Itaer</td>
+            <td style="text-align: right">37</td>
+        </tr>
+        
+    </tbody>
+</table>
