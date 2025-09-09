@@ -5,6 +5,13 @@
 * Total votes: 30814
 * Least significant rank: 5
 
+
+## Posts
+
+* [ Welcome to CSM17! ]( https://www.eveonline.com/news/view/welcome-to-csm17 )
+
+
+
 ## Elected Candidates
 
 
@@ -18,6 +25,7 @@
 * Arsia Elkin - elected in round 34
 * Mark Resurrectus - elected in round 34
 * Jinx De'Caire - elected in round 34
+
 
 
 ## Eliminated Candidates

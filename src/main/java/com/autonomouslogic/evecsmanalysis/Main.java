@@ -59,6 +59,7 @@ public class Main {
 					return CsmConfig.builder()
 							.csmNumber(Integer.parseInt(csmDir.getName().substring(3)))
 							.csmDir(csmDir)
+							.csmData(new File(csmDir, "csm.json"))
 							.talleyScriptFile(new File(csmDir, "WrightTalley.py"))
 							.votesBlt(new File(csmDir, "votes.blt"))
 							.auditLogTxt(new File(csmDir, "auditLog.txt"))

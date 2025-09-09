@@ -1,9 +1,16 @@
 # CSM 18
 
-* Elected: 10
+* Elected: 12
 * Candidates: 49
 * Total votes: 47155
 * Least significant rank: 2
+
+
+## Posts
+
+* [ Introducing CSM 18! ]( https://forums.eveonline.com/t/introducing-csm-18/421392 )
+
+
 
 ## Elected Candidates
 
@@ -18,6 +25,12 @@
 * The Oz  - elected in round 38
 * Mark Resurrectus - elected in round 39
 * Amelia Duskspace - elected in round 39
+
+
+
+* Kshal Aideron - selected by CCP 
+* Stitch Kaneland - selected by CCP 
+
 
 
 ## Eliminated Candidates

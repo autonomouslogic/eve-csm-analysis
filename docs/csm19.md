@@ -1,9 +1,17 @@
 # CSM 19
 
-* Elected: 10
+* Elected: 12
 * Candidates: 47
 * Total votes: 35701
 * Least significant rank: 5
+
+
+## Posts
+
+* [ CSM 19 Candidate Announcements ]( https://www.eveonline.com/news/view/csm-19-candidate-announcements )
+* [ Introducing CSM 19! ]( https://forums.eveonline.com/t/introducing-csm-19/465931 )
+
+
 
 ## Elected Candidates
 
@@ -18,6 +26,12 @@
 * Kenneth Feld - elected in round 37
 * Seddow - elected in round 37
 * Mick Fightmaster - elected in round 37
+
+
+
+* Drake Iddon - selected by CCP 
+* youngpuke2 - selected by CCP 
+
 
 
 ## Eliminated Candidates

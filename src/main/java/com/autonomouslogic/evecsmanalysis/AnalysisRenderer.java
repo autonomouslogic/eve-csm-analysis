@@ -4,6 +4,7 @@ import com.autonomouslogic.evecsmanalysis.csv.CsmCandidatesCsv;
 import com.autonomouslogic.evecsmanalysis.csv.CsmVotesCsv;
 import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
+import com.autonomouslogic.evecsmanalysis.models.CsmData;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
 import java.io.FileWriter;
@@ -36,18 +37,19 @@ public class AnalysisRenderer {
 		var allAnalysis = new ArrayList<CsmAnalysis>();
 		for (var csmConfig : csmConfigs) {
 			var analysis = objectMapper.readValue(csmConfig.getAnalysisJson(), CsmAnalysis.class);
+			var data = objectMapper.readValue(csmConfig.getCsmData(), CsmData.class);
 			allAnalysis.add(analysis);
-			renderCsm(csmConfig, analysis);
+			renderCsm(csmConfig, data, analysis);
 		}
 		renderIndex(allAnalysis);
 	}
 
 	@SneakyThrows
-	public void renderCsm(CsmConfig csmConfig, CsmAnalysis analysis) {
+	public void renderCsm(CsmConfig csmConfig, CsmData data, CsmAnalysis analysis) {
 		log.info("Rendering analysis for {} to {}", csmConfig.getCsmNumber(), csmConfig.getMarkdownFile());
 		var engine = createEngine();
 		try (var writer = new FileWriter(csmConfig.getMarkdownFile(), StandardCharsets.UTF_8)) {
-			engine.process("csm.md", createCsmContext(analysis), writer);
+			engine.process("csm.md", createCsmContext(data, analysis), writer);
 		}
 	}
 
@@ -65,9 +67,10 @@ public class AnalysisRenderer {
 	}
 
 	@SneakyThrows
-	private IContext createCsmContext(CsmAnalysis analysis) {
+	private IContext createCsmContext(CsmData data, CsmAnalysis analysis) {
 		var context = new Context(Locale.ENGLISH);
-		context.setVariable("data", analysis);
+		context.setVariable("data", data);
+		context.setVariable("analysis", analysis);
 		return context;
 	}
 

@@ -1,9 +1,9 @@
 # EVE CSM Analysis
 
-* `make process` - process all the voting data
-* `make thymeleaf` - renders the generated Markdown files
+* `make process` - process all the voting data and stores the result in the `build/` directory
+* `make thymeleaf` - renders the generated Markdown files into the `docs/`, which are committed
 * `make mkdocs-serve` - run locally
-* `make mkdocs-build` - build for deploy
+* `make mkdocs-build` - build for deployment
 
 ## References
 * [Council of Stellar Management](https://docs.everef.net/datasets/csm.html) - docs.everef.net
