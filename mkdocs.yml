@@ -3,10 +3,21 @@ site_name: EVE CSM Analysis
 theme:
   name: material
   palette:
-    scheme: slate
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 plugins:
   - charts
+  - search
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/vega@5
