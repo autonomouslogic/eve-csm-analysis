@@ -1,5 +1,8 @@
 # Alumni
 
+* p = CCP pick
+* e = Elected
+
 <table>
     <thead>
         <tr>
