@@ -23,6 +23,7 @@ Raw data for the elections can be found at [EVE Ref docs](https://docs.everef.ne
   }
 }
 ```
+[Source data](data/csm-votes.csv)
 
 ## Candidates
 ```vegalite
@@ -39,3 +40,4 @@ Raw data for the elections can be found at [EVE Ref docs](https://docs.everef.ne
   }
 }
 ```
+[Source data](data/csm-candidates.csv)
