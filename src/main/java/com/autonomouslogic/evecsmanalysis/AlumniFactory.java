@@ -20,7 +20,6 @@ public class AlumniFactory {
 		var alumni = new Alumni();
 		var csmNumbers = csms.stream().map(CsmData::getCsmNumber).toList();
 		populateElections(alumni);
-		fillInElections(alumni, csmNumbers);
 		sortAlumni(alumni);
 		return alumni;
 	}
@@ -28,18 +27,11 @@ public class AlumniFactory {
 	private void populateElections(Alumni alumni) {
 		for (CsmData csm : csms) {
 			Optional.ofNullable(csm.getCcpPicks())
-					.ifPresent(p -> p.forEach(c -> addCandidate(c, alumni, csm.getCsmNumber(), "p")));
+					.ifPresent(p -> p.forEach(c -> addCandidate(c, alumni, csm.getCsmNumber(), "picked")));
 			Optional.ofNullable(csm.getAnalysis().getWinners())
-					.ifPresent(r ->
-							r.forEach(c -> addCandidate(c.getCandidate().trim(), alumni, csm.getCsmNumber(), "e")));
+					.ifPresent(r -> r.forEach(
+							c -> addCandidate(c.getCandidate().trim(), alumni, csm.getCsmNumber(), "elected")));
 		}
-	}
-
-	private void fillInElections(Alumni alumni, List<Integer> csmNumbers) {
-		alumni.getAlumni().forEach((name, alumnus) -> {
-			var elections = alumnus.getElections();
-			csmNumbers.forEach(n -> elections.putIfAbsent(n, ""));
-		});
 	}
 
 	private void addCandidate(String name, Alumni alumni, int csmNumber, String type) {

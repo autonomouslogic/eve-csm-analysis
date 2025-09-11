@@ -3,612 +3,320 @@
     "Ariel Rin" : {
       "name" : "Ariel Rin",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "e",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "19" : "elected"
       }
     },
     "Drake Iddon" : {
       "name" : "Drake Iddon",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "p",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "19" : "picked"
       }
     },
     "Dujek Oneye" : {
       "name" : "Dujek Oneye",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "e",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "19" : "elected"
       }
     },
     "Kazanir" : {
       "name" : "Kazanir",
       "elections" : {
-        "16" : "",
-        "17" : "e",
-        "18" : "e",
-        "19" : "e",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "17" : "elected",
+        "18" : "elected",
+        "19" : "elected"
       }
     },
     "Kenneth Feld" : {
       "name" : "Kenneth Feld",
       "elections" : {
-        "16" : "e",
-        "17" : "e",
-        "18" : "",
-        "19" : "e",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : "e"
+        "16" : "elected",
+        "17" : "elected",
+        "19" : "elected",
+        "15" : "elected"
       }
     },
     "Luke Anninan" : {
       "name" : "Luke Anninan",
       "elections" : {
-        "16" : "",
-        "17" : "e",
-        "18" : "e",
-        "19" : "e",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "17" : "elected",
+        "18" : "elected",
+        "19" : "elected"
       }
     },
     "Mick Fightmaster" : {
       "name" : "Mick Fightmaster",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "e",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "19" : "elected"
       }
     },
     "Seddow" : {
       "name" : "Seddow",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "e",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "19" : "elected"
       }
     },
     "Storm Delay" : {
       "name" : "Storm Delay",
       "elections" : {
-        "16" : "",
-        "17" : "e",
-        "18" : "e",
-        "19" : "e",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "17" : "elected",
+        "18" : "elected",
+        "19" : "elected"
       }
     },
     "The Oz" : {
       "name" : "The Oz",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "e",
-        "19" : "e",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "18" : "elected",
+        "19" : "elected"
       }
     },
     "Zintage Enaka" : {
       "name" : "Zintage Enaka",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "e",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "19" : "elected"
       }
     },
     "youngpuke2" : {
       "name" : "youngpuke2",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "p",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "19" : "picked"
       }
     },
     "Alcoholic Satan" : {
       "name" : "Alcoholic Satan",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "e",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "18" : "elected"
       }
     },
     "Amelia Duskspace" : {
       "name" : "Amelia Duskspace",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "e",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "18" : "elected"
       }
     },
     "Angry Mustache" : {
       "name" : "Angry Mustache",
       "elections" : {
-        "16" : "",
-        "17" : "e",
-        "18" : "e",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "17" : "elected",
+        "18" : "elected"
       }
     },
     "Dark Shines" : {
       "name" : "Dark Shines",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "e",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "18" : "elected"
       }
     },
     "Kshal Aideron" : {
       "name" : "Kshal Aideron",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "p",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "18" : "picked"
       }
     },
     "Mark Resurrectus" : {
       "name" : "Mark Resurrectus",
       "elections" : {
-        "16" : "",
-        "17" : "e",
-        "18" : "e",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "17" : "elected",
+        "18" : "elected"
       }
     },
     "Mike Azariah" : {
       "name" : "Mike Azariah",
       "elections" : {
-        "16" : "e",
-        "17" : "",
-        "18" : "e",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : "e"
+        "16" : "elected",
+        "18" : "elected",
+        "15" : "elected"
       }
     },
     "Stitch Kaneland" : {
       "name" : "Stitch Kaneland",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "p",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "18" : "picked"
       }
     },
     "Arsia Elkin" : {
       "name" : "Arsia Elkin",
       "elections" : {
-        "16" : "",
-        "17" : "e",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "17" : "elected"
       }
     },
     "Brisc Rubal" : {
       "name" : "Brisc Rubal",
       "elections" : {
-        "16" : "e",
-        "17" : "e",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "e",
-        "14" : "",
-        "15" : "e"
+        "16" : "elected",
+        "17" : "elected",
+        "13" : "elected",
+        "15" : "elected"
       }
     },
     "Jinx De'Caire" : {
       "name" : "Jinx De'Caire",
       "elections" : {
-        "16" : "",
-        "17" : "e",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "17" : "elected"
       }
     },
     "Pandoralica" : {
       "name" : "Pandoralica",
       "elections" : {
-        "16" : "",
-        "17" : "e",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "17" : "elected"
       }
     },
     "Gobbins" : {
       "name" : "Gobbins",
       "elections" : {
-        "16" : "e",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "e",
-        "15" : "e"
+        "16" : "elected",
+        "14" : "elected",
+        "15" : "elected"
       }
     },
     "I Beast" : {
       "name" : "I Beast",
       "elections" : {
-        "16" : "e",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "16" : "elected"
       }
     },
     "Innominate" : {
       "name" : "Innominate",
       "elections" : {
-        "16" : "e",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "e",
-        "13" : "e",
-        "14" : "e",
-        "15" : "e"
+        "16" : "elected",
+        "12" : "elected",
+        "13" : "elected",
+        "14" : "elected",
+        "15" : "elected"
       }
     },
     "Merkelchen" : {
       "name" : "Merkelchen",
       "elections" : {
-        "16" : "e",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "e",
-        "14" : "e",
-        "15" : "e"
+        "16" : "elected",
+        "13" : "elected",
+        "14" : "elected",
+        "15" : "elected"
       }
     },
     "Suitonia" : {
       "name" : "Suitonia",
       "elections" : {
-        "16" : "e",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "e",
-        "13" : "e",
-        "14" : "",
-        "15" : ""
+        "16" : "elected",
+        "12" : "elected",
+        "13" : "elected"
       }
     },
     "Vily" : {
       "name" : "Vily",
       "elections" : {
-        "16" : "e",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "e",
-        "15" : "e"
+        "16" : "elected",
+        "14" : "elected",
+        "15" : "elected"
       }
     },
     "progodlegend" : {
       "name" : "progodlegend",
       "elections" : {
-        "16" : "e",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "16" : "elected"
       }
     },
     "Maria Taylor" : {
       "name" : "Maria Taylor",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : "e"
+        "15" : "elected"
       }
     },
     "Phantomite" : {
       "name" : "Phantomite",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : "e"
+        "15" : "elected"
       }
     },
     "Torvald Uruz" : {
       "name" : "Torvald Uruz",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "",
-        "15" : "e"
+        "15" : "elected"
       }
     },
     "Aryth" : {
       "name" : "Aryth",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "e",
-        "13" : "e",
-        "14" : "e",
-        "15" : ""
+        "12" : "elected",
+        "13" : "elected",
+        "14" : "elected"
       }
     },
     "Dunk Dinkle" : {
       "name" : "Dunk Dinkle",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "e",
-        "15" : ""
+        "14" : "elected"
       }
     },
     "ExookiZ" : {
       "name" : "ExookiZ",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "e",
-        "15" : ""
+        "14" : "elected"
       }
     },
     "Killah Bee" : {
       "name" : "Killah Bee",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "e",
-        "14" : "e",
-        "15" : ""
+        "13" : "elected",
+        "14" : "elected"
       }
     },
     "Olmeca Gold" : {
       "name" : "Olmeca Gold",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "",
-        "14" : "e",
-        "15" : ""
+        "14" : "elected"
       }
     },
     "Steve Ronuken" : {
       "name" : "Steve Ronuken",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "e",
-        "13" : "e",
-        "14" : "e",
-        "15" : ""
+        "12" : "elected",
+        "13" : "elected",
+        "14" : "elected"
       }
     },
     "Jin'taan" : {
       "name" : "Jin'taan",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "e",
-        "13" : "e",
-        "14" : "",
-        "15" : ""
+        "12" : "elected",
+        "13" : "elected"
       }
     },
     "Sort Dragon" : {
       "name" : "Sort Dragon",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "",
-        "13" : "e",
-        "14" : "",
-        "15" : ""
+        "13" : "elected"
       }
     },
     "The Judge" : {
       "name" : "The Judge",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "e",
-        "13" : "e",
-        "14" : "",
-        "15" : ""
+        "12" : "elected",
+        "13" : "elected"
       }
     },
     "NoobMan" : {
       "name" : "NoobMan",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "e",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "12" : "elected"
       }
     },
     "Vince Draken" : {
       "name" : "Vince Draken",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "e",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "12" : "elected"
       }
     },
     "Yukiko Kami" : {
       "name" : "Yukiko Kami",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "e",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "12" : "elected"
       }
     },
     "rhiload Feron-drake" : {
       "name" : "rhiload Feron-drake",
       "elections" : {
-        "16" : "",
-        "17" : "",
-        "18" : "",
-        "19" : "",
-        "12" : "e",
-        "13" : "",
-        "14" : "",
-        "15" : ""
+        "12" : "elected"
       }
     }
   }

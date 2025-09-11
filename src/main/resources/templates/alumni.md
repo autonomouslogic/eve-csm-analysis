@@ -1,7 +1,7 @@
 # Alumni
 
-* p = CCP pick
-* e = Elected
+* &#x1F7E2; = Elected
+* &#x1F535; = CCP pick
 
 [View JSON](/data/alumni.json)
 
@@ -19,7 +19,16 @@
         <tr>
             <td>[(${alumnus.key})]</td>
             [# th:each="csm : ${csmNumbers}"]
-                <td>[( ${ alumnus.value.elections.get(csm) } )]</td>
+                <td>
+                    [# th:if="${ alumnus.value.elections.containsKey(csm) }"]
+                        [# th:if="${ alumnus.value.elections.get(csm) } == 'elected'"]
+                            &#x1F7E2;
+                        [/]
+                        [# th:if="${ alumnus.value.elections.get(csm) } == 'picked'"]
+                           &#x1F535;
+                        [/]
+                    [/]
+                </td>
             [/]
         </tr>
         [/]
