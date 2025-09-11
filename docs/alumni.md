@@ -3,6 +3,8 @@
 * p = CCP pick
 * e = Elected
 
+[View JSON](/data/alumni.json)
+
 <table>
     <thead>
         <tr>
@@ -142,7 +144,7 @@
             <td>The Oz</td>
             
                 <td>e</td>
-                <td></td>
+                <td>e</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -273,19 +275,6 @@
             
                 <td></td>
                 <td>p</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-            
-        </tr>
-        <tr>
-            <td>The Oz </td>
-            
-                <td></td>
-                <td>e</td>
                 <td></td>
                 <td></td>
                 <td></td>

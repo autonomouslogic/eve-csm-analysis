@@ -1,6 +1,6 @@
 # Home
 
-This sit outlines analysies of the EVE Online CSM elections.
+This site outlines analysies of the EVE Online CSM elections.
 Raw data for the elections can be found at [EVE Ref docs](https://docs.everef.net/datasets/csm.html).
 
 * [EVE Ref](https://everef.net/)

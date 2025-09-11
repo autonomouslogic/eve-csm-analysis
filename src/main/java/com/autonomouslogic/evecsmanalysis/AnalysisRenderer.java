@@ -91,6 +91,7 @@ public class AnalysisRenderer {
 		try (var writer = new FileWriter(file, StandardCharsets.UTF_8)) {
 			engine.process("alumni.md", createAlukniContext(alumni, csmNumbers), writer);
 		}
+		objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File("docs/data/alumni.json"), alumni);
 	}
 
 	@SneakyThrows

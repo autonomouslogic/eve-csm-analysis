@@ -3,6 +3,8 @@
 * p = CCP pick
 * e = Elected
 
+[View JSON](/data/alumni.json)
+
 <table>
     <thead>
         <tr>

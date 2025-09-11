@@ -30,7 +30,8 @@ public class AlumniFactory {
 			Optional.ofNullable(csm.getCcpPicks())
 					.ifPresent(p -> p.forEach(c -> addCandidate(c, alumni, csm.getCsmNumber(), "p")));
 			Optional.ofNullable(csm.getAnalysis().getWinners())
-					.ifPresent(r -> r.forEach(c -> addCandidate(c.getCandidate(), alumni, csm.getCsmNumber(), "e")));
+					.ifPresent(r ->
+							r.forEach(c -> addCandidate(c.getCandidate().trim(), alumni, csm.getCsmNumber(), "e")));
 		}
 	}
 
