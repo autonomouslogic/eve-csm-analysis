@@ -1,9 +1,78 @@
 {
   "alumni" : {
+    "Angry Mustache" : {
+      "name" : "Angry Mustache",
+      "elections" : {
+        "17" : "elected",
+        "18" : "elected",
+        "20" : "elected"
+      }
+    },
     "Ariel Rin" : {
       "name" : "Ariel Rin",
       "elections" : {
-        "19" : "elected"
+        "19" : "elected",
+        "20" : "elected"
+      }
+    },
+    "Arrowspeeed Bounty" : {
+      "name" : "Arrowspeeed Bounty",
+      "elections" : {
+        "20" : "elected"
+      }
+    },
+    "Itaer" : {
+      "name" : "Itaer",
+      "elections" : {
+        "20" : "elected"
+      }
+    },
+    "Kshal Aideron" : {
+      "name" : "Kshal Aideron",
+      "elections" : {
+        "18" : "picked",
+        "20" : "elected"
+      }
+    },
+    "Machiavelian" : {
+      "name" : "Machiavelian",
+      "elections" : {
+        "20" : "elected"
+      }
+    },
+    "Mick Fightmaster" : {
+      "name" : "Mick Fightmaster",
+      "elections" : {
+        "19" : "elected",
+        "20" : "picked"
+      }
+    },
+    "The Oz" : {
+      "name" : "The Oz",
+      "elections" : {
+        "18" : "elected",
+        "19" : "elected",
+        "20" : "elected"
+      }
+    },
+    "Zintage Enaka" : {
+      "name" : "Zintage Enaka",
+      "elections" : {
+        "19" : "elected",
+        "20" : "elected"
+      }
+    },
+    "hyprviper1" : {
+      "name" : "hyprviper1",
+      "elections" : {
+        "20" : "elected"
+      }
+    },
+    "youngpuke2" : {
+      "name" : "youngpuke2",
+      "elections" : {
+        "19" : "picked",
+        "20" : "elected"
       }
     },
     "Drake Iddon" : {
@@ -43,12 +112,6 @@
         "19" : "elected"
       }
     },
-    "Mick Fightmaster" : {
-      "name" : "Mick Fightmaster",
-      "elections" : {
-        "19" : "elected"
-      }
-    },
     "Seddow" : {
       "name" : "Seddow",
       "elections" : {
@@ -63,25 +126,6 @@
         "19" : "elected"
       }
     },
-    "The Oz" : {
-      "name" : "The Oz",
-      "elections" : {
-        "18" : "elected",
-        "19" : "elected"
-      }
-    },
-    "Zintage Enaka" : {
-      "name" : "Zintage Enaka",
-      "elections" : {
-        "19" : "elected"
-      }
-    },
-    "youngpuke2" : {
-      "name" : "youngpuke2",
-      "elections" : {
-        "19" : "picked"
-      }
-    },
     "Alcoholic Satan" : {
       "name" : "Alcoholic Satan",
       "elections" : {
@@ -94,23 +138,10 @@
         "18" : "elected"
       }
     },
-    "Angry Mustache" : {
-      "name" : "Angry Mustache",
-      "elections" : {
-        "17" : "elected",
-        "18" : "elected"
-      }
-    },
     "Dark Shines" : {
       "name" : "Dark Shines",
       "elections" : {
         "18" : "elected"
-      }
-    },
-    "Kshal Aideron" : {
-      "name" : "Kshal Aideron",
-      "elections" : {
-        "18" : "picked"
       }
     },
     "Mark Resurrectus" : {
