@@ -10,6 +10,7 @@
         <tr>
             <th>Alumnus</th>
             
+                <th style="min-width: 0;">20</th>
                 <th style="min-width: 0;">19</th>
                 <th style="min-width: 0;">18</th>
                 <th style="min-width: 0;">17</th>
@@ -24,8 +25,63 @@
     <tbody>
         
         <tr>
+            <td>Angry Mustache</td>
+            
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                    
+                </td>
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+            
+        </tr>
+        <tr>
             <td>Ariel Rin</td>
             
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                    
+                </td>
                 <td>
                     
                         
@@ -58,8 +114,374 @@
             
         </tr>
         <tr>
+            <td>Arrowspeeed Bounty</td>
+            
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+            
+        </tr>
+        <tr>
+            <td>Itaer</td>
+            
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+            
+        </tr>
+        <tr>
+            <td>Kshal Aideron</td>
+            
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                        
+                        
+                           &#x1F535;
+                        
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+            
+        </tr>
+        <tr>
+            <td>Machiavelian</td>
+            
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+            
+        </tr>
+        <tr>
+            <td>Mick Fightmaster</td>
+            
+                <td>
+                    
+                        
+                        
+                           &#x1F535;
+                        
+                    
+                </td>
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+            
+        </tr>
+        <tr>
+            <td>The Oz</td>
+            
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                    
+                </td>
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                    
+                </td>
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+            
+        </tr>
+        <tr>
+            <td>Zintage Enaka</td>
+            
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                    
+                </td>
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+            
+        </tr>
+        <tr>
+            <td>hyprviper1</td>
+            
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+            
+        </tr>
+        <tr>
+            <td>youngpuke2</td>
+            
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                    
+                </td>
+                <td>
+                    
+                        
+                        
+                           &#x1F535;
+                        
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+            
+        </tr>
+        <tr>
             <td>Drake Iddon</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                         
@@ -96,6 +518,9 @@
             
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -128,6 +553,9 @@
         <tr>
             <td>Kazanir</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                         
@@ -172,6 +600,9 @@
         <tr>
             <td>Kenneth Feld</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                         
@@ -223,11 +654,6 @@
             
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                    
                 </td>
                 <td>
                     
@@ -247,36 +673,10 @@
                 </td>
                 <td>
                     
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-            
-        </tr>
-        <tr>
-            <td>Mick Fightmaster</td>
-            
-                <td>
-                    
                         
                             &#x1F7E2;
                         
                         
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
                     
                 </td>
                 <td>
@@ -299,6 +699,9 @@
         <tr>
             <td>Seddow</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                         
@@ -335,11 +738,6 @@
             
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                    
                 </td>
                 <td>
                     
@@ -359,109 +757,10 @@
                 </td>
                 <td>
                     
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-            
-        </tr>
-        <tr>
-            <td>The Oz</td>
-            
-                <td>
-                    
                         
                             &#x1F7E2;
                         
                         
-                    
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-            
-        </tr>
-        <tr>
-            <td>Zintage Enaka</td>
-            
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-            
-        </tr>
-        <tr>
-            <td>youngpuke2</td>
-            
-                <td>
-                    
-                        
-                        
-                           &#x1F535;
-                        
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
                     
                 </td>
                 <td>
@@ -484,6 +783,9 @@
         <tr>
             <td>Alcoholic Satan</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                 </td>
@@ -523,37 +825,6 @@
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-            
-        </tr>
-        <tr>
-            <td>Angry Mustache</td>
-            
-                <td>
-                    
                 </td>
                 <td>
                     
@@ -564,11 +835,6 @@
                     
                 </td>
                 <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
                     
                 </td>
                 <td>
@@ -596,6 +862,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -623,42 +892,11 @@
             
         </tr>
         <tr>
-            <td>Kshal Aideron</td>
-            
-                <td>
-                    
-                </td>
-                <td>
-                    
-                        
-                        
-                           &#x1F535;
-                        
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-            
-        </tr>
-        <tr>
             <td>Mark Resurrectus</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                 </td>
@@ -698,6 +936,9 @@
         <tr>
             <td>Mike Azariah</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                 </td>
@@ -747,6 +988,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                         
                            &#x1F535;
@@ -784,6 +1028,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -810,6 +1057,9 @@
         <tr>
             <td>Brisc Rubal</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                 </td>
@@ -867,6 +1117,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -901,6 +1154,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -927,6 +1183,9 @@
         <tr>
             <td>Gobbins</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                 </td>
@@ -982,6 +1241,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -1005,6 +1267,9 @@
         <tr>
             <td>Innominate</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                 </td>
@@ -1070,6 +1335,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -1108,6 +1376,9 @@
         <tr>
             <td>Suitonia</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                 </td>
@@ -1163,6 +1434,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -1196,6 +1470,9 @@
         <tr>
             <td>progodlegend</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                 </td>
@@ -1244,6 +1521,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -1264,6 +1544,9 @@
         <tr>
             <td>Phantomite</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                 </td>
@@ -1312,6 +1595,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -1332,6 +1618,9 @@
         <tr>
             <td>Aryth</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                 </td>
@@ -1393,6 +1682,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -1427,6 +1719,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -1444,6 +1739,9 @@
         <tr>
             <td>Killah Bee</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                 </td>
@@ -1500,6 +1798,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -1517,6 +1818,9 @@
         <tr>
             <td>Steve Ronuken</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                 </td>
@@ -1581,6 +1885,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -1620,6 +1927,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -1634,6 +1944,9 @@
         <tr>
             <td>The Judge</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                 </td>
@@ -1696,6 +2009,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -1707,6 +2023,9 @@
         <tr>
             <td>Vince Draken</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                 </td>
@@ -1764,6 +2083,9 @@
                 </td>
                 <td>
                     
+                </td>
+                <td>
+                    
                         
                             &#x1F7E2;
                         
@@ -1775,6 +2097,9 @@
         <tr>
             <td>rhiload Feron-drake</td>
             
+                <td>
+                    
+                </td>
                 <td>
                     
                 </td>
