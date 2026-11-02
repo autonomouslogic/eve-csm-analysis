@@ -236,7 +236,10 @@ Number of ballots placing each candidate at each rank.
 ```vegalite
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "data": {"url": "data/csm16-rank-distribution.csv"},
+  "data": {
+    "url": "data/csm16-rank-distribution.csv",
+    "format": {"type": "csv", "parse": {"Order": "number", "Rank": "number", "Votes": "number"}}
+  },
   "height": {"step": 18},
   "mark": {"type": "rect", "tooltip": true},
   "encoding": {

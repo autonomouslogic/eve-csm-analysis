@@ -26,7 +26,8 @@ public class CsmRankDistributionCsv {
 				var quoted = "\"" + label.replace("\"", "\"\"") + "\"";
 				for (int rank = 0; rank < row.getRankVotes().size(); rank++) {
 					writer.write("%s,%d,%d,%d\n"
-							.formatted(quoted, i + 1, rank + 1, row.getRankVotes().get(rank)));
+							.formatted(
+									quoted, i + 1, rank + 1, row.getRankVotes().get(rank)));
 				}
 			}
 		}

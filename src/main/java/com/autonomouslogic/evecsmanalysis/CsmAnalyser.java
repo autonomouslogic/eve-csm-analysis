@@ -7,15 +7,12 @@ import com.autonomouslogic.evecsmanalysis.models.CandidateRound;
 import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.autonomouslogic.evecsmanalysis.models.Votes;
-
+import com.google.common.collect.Ordering;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
-
-import com.google.common.collect.Ordering;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
@@ -38,7 +35,7 @@ public class CsmAnalyser {
 				.csmNumber(csmConfig.getCsmNumber())
 				.candidateCount(ballotFile.getCandidateCount())
 				.totalVotes(totalVotes())
-				.leastSignificantRank(1)
+				.leastSignificantRank(findLeastSignificantRank())
 				.withdrawnCandidates(withdrawnCandidates(ballotFile))
 				.rankDistribution(rankDistribution(ballotFile));
 		winnersAndEliminations(data);
@@ -88,15 +85,15 @@ public class CsmAnalyser {
 				.map(entry -> CandidateRankDistribution.builder()
 						.candidate(candidateName(ballotFile, entry.getKey()))
 						.rankVotes(Arrays.stream(entry.getValue()).boxed().toList())
-						.build()).toList();
-		distributions = distributions.stream()
-				.sorted(rankDistributionOrdering())
+						.build())
 				.toList();
+		distributions =
+				distributions.stream().sorted(rankDistributionOrdering()).toList();
 		return distributions;
 	}
 
 	private static Ordering<CandidateRankDistribution> rankDistributionOrdering() {
-//		return Ordering.natural().onResultOf(c -> c.getRankVotes().getFirst());
+		//		return Ordering.natural().onResultOf(c -> c.getRankVotes().getFirst());
 		List<Ordering<CandidateRankDistribution>> list = new ArrayList<>();
 		for (int i = 0; i < 10; i++) {
 			final int fi = i;

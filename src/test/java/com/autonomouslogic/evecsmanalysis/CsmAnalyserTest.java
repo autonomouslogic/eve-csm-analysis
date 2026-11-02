@@ -74,8 +74,7 @@ public class CsmAnalyserTest {
 				distribution);
 	}
 
-	private static CandidateRankDistribution row(
-			String candidate, boolean withdrawn, List<Integer> rankVotes) {
+	private static CandidateRankDistribution row(String candidate, boolean withdrawn, List<Integer> rankVotes) {
 		return CandidateRankDistribution.builder()
 				.candidate(candidate)
 				.withdrawn(withdrawn)

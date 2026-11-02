@@ -56,8 +56,7 @@ public class AnalysisRenderer {
 	@SneakyThrows
 	public void renderCsm(CsmConfig csmConfig, CsmData data) {
 		log.info("Rendering analysis for {} to {}", csmConfig.getCsmNumber(), csmConfig.getMarkdownFile());
-		var rankDistributionFile =
-				new File("docs/data/csm%d-rank-distribution.csv".formatted(data.getCsmNumber()));
+		var rankDistributionFile = new File("docs/data/csm%d-rank-distribution.csv".formatted(data.getCsmNumber()));
 		new CsmRankDistributionCsv(data.getAnalysis(), rankDistributionFile).write();
 		var engine = createEngine();
 		try (var writer = new FileWriter(csmConfig.getMarkdownFile(), StandardCharsets.UTF_8)) {
