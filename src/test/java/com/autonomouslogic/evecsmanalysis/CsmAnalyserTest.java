@@ -53,8 +53,8 @@ public class CsmAnalyserTest {
 	}
 
 	@Test
-	public void shouldOrderByTotalVotesAcrossRanks() {
-		var ballotFile = new BallotParser("4 1\n"
+	public void shouldOrderByVotesPerRankThenName() {
+		var ballotFile = new BallotParser("5 1\n"
 						+ "3 2\n"
 						+ "4 3 1\n"
 						+ "0\n"
@@ -62,22 +62,23 @@ public class CsmAnalyserTest {
 						+ "\"Bob\"\n"
 						+ "\"Carol\"\n"
 						+ "\"Dave\"\n"
+						+ "\"Erin\"\n"
 						+ "CSM test\n")
 				.parse();
 		var distribution = CsmAnalyser.rankDistribution(ballotFile);
 		assertEquals(
 				List.of(
 						row("Carol", false, List.of(4, 0)),
-						row("Alice", false, List.of(0, 4)),
 						row("Bob", false, List.of(3, 0)),
-						row("Dave", false, List.of(0, 0))),
+						row("Alice", false, List.of(0, 4)),
+						row("Dave", false, List.of(0, 0)),
+						row("Erin", false, List.of(0, 0))),
 				distribution);
 	}
 
 	private static CandidateRankDistribution row(String candidate, boolean withdrawn, List<Integer> rankVotes) {
 		return CandidateRankDistribution.builder()
 				.candidate(candidate)
-				.withdrawn(withdrawn)
 				.rankVotes(rankVotes)
 				.build();
 	}

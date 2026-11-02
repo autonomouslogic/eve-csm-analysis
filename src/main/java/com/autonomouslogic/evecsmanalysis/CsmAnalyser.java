@@ -7,9 +7,8 @@ import com.autonomouslogic.evecsmanalysis.models.CandidateRound;
 import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.autonomouslogic.evecsmanalysis.models.Votes;
-import com.google.common.collect.Ordering;
-import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
@@ -62,7 +61,7 @@ public class CsmAnalyser {
 
 	/**
 	 * Counts, per candidate, how many ballots place them at each rank. Withdrawn candidates are included.
-	 * Sorted by total votes across all ranks descending, then by rank 1 votes, rank 2 and so on, then by name.
+	 * Sorted by votes at rank 1, then rank 2, and so on, then by name.
 	 */
 	static List<CandidateRankDistribution> rankDistribution(BallotFile ballotFile) {
 		log.info("Calculating rank distribution");
@@ -81,32 +80,25 @@ public class CsmAnalyser {
 				ranks[i] += votes.getCount();
 			}
 		}
-		var distributions = counts.entrySet().stream()
+		return counts.entrySet().stream()
 				.map(entry -> CandidateRankDistribution.builder()
 						.candidate(candidateName(ballotFile, entry.getKey()))
 						.rankVotes(Arrays.stream(entry.getValue()).boxed().toList())
 						.build())
+				.sorted(rankDistributionOrdering())
 				.toList();
-		distributions =
-				distributions.stream().sorted(rankDistributionOrdering()).toList();
-		return distributions;
 	}
 
-	private static Ordering<CandidateRankDistribution> rankDistributionOrdering() {
-		//		return Ordering.natural().onResultOf(c -> c.getRankVotes().getFirst());
-		List<Ordering<CandidateRankDistribution>> list = new ArrayList<>();
-		for (int i = 0; i < 10; i++) {
-			final int fi = i;
-			list.add(Ordering.natural().onResultOf(c -> c.getRankVotes().get(fi)));
-		}
-		return Ordering.compound(list).reverse();
-	}
-
-	/**
-	 * Votes for a candidate summed across all ranks.
-	 */
-	private static int ballotsListing(CandidateRankDistribution distribution) {
-		return distribution.getRankVotes().stream().mapToInt(Integer::intValue).sum();
+	private static Comparator<CandidateRankDistribution> rankDistributionOrdering() {
+		return (a, b) -> {
+			for (int i = 0; i < a.getRankVotes().size(); i++) {
+				int c = Integer.compare(b.getRankVotes().get(i), a.getRankVotes().get(i));
+				if (c != 0) {
+					return c;
+				}
+			}
+			return a.getCandidate().compareTo(b.getCandidate());
+		};
 	}
 
 	private static String candidateName(BallotFile ballotFile, int id) {
