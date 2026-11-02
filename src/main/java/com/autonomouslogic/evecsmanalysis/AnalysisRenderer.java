@@ -1,6 +1,7 @@
 package com.autonomouslogic.evecsmanalysis;
 
 import com.autonomouslogic.evecsmanalysis.csv.CsmCandidatesCsv;
+import com.autonomouslogic.evecsmanalysis.csv.CsmRankDistributionCsv;
 import com.autonomouslogic.evecsmanalysis.csv.CsmVotesCsv;
 import com.autonomouslogic.evecsmanalysis.models.Alumni;
 import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
@@ -55,6 +56,8 @@ public class AnalysisRenderer {
 	@SneakyThrows
 	public void renderCsm(CsmConfig csmConfig, CsmData data) {
 		log.info("Rendering analysis for {} to {}", csmConfig.getCsmNumber(), csmConfig.getMarkdownFile());
+		var rankDistributionFile = new File("docs/data/csm%d-rank-distribution.csv".formatted(data.getCsmNumber()));
+		new CsmRankDistributionCsv(data.getAnalysis(), rankDistributionFile).write();
 		var engine = createEngine();
 		try (var writer = new FileWriter(csmConfig.getMarkdownFile(), StandardCharsets.UTF_8)) {
 			engine.process("csm.md", createCsmContext(data, data.getAnalysis()), writer);

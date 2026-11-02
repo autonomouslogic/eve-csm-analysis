@@ -23,4 +23,8 @@ public class CsmAnalysis {
 	List<CandidateRound> eliminations;
 
 	int leastSignificantRank;
+
+	List<String> withdrawnCandidates;
+
+	List<CandidateRankDistribution> rankDistribution;
 }
