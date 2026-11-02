@@ -39,7 +39,8 @@ build/csm/                Intermediate JSON (gitignored)
 2. `make thymeleaf` (`./gradlew csmThymeleaf`) — read the analysis JSON plus `csm.json`, render:
    - `docs/csmNN.md`
    - `docs/index.md`, `docs/alumni.md`
-   - `docs/data/csm-votes.csv`, `docs/data/csm-candidates.csv`, `docs/data/alumni.json`
+   - `docs/data/csm-votes.csv`, `docs/data/csm-candidates.csv`, `docs/data/alumni.json`, and per election
+     `docs/data/csmNN-rank-distribution.csv` (heatmap source on `docs/csmNN.md`)
 3. `make mkdocs-serve` / `make mkdocs-build` — needs `make init` first (creates `.venv`).
 
 Generated files under `docs/` are committed. Never hand-edit them; change the template or Java code and re-run

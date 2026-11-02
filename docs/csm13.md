@@ -3,7 +3,7 @@
 * Elected: 10
 * Candidates: 47
 * Total votes: 29416
-* [Least significant rank](/least-significant-rank): 3
+* [Least significant rank](/least-significant-rank): 1
 
 
 ## Posts
@@ -67,6 +67,25 @@
         
     </tbody>
 </table>
+
+
+## Withdrawn Candidates
+
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr>
+            <td>Creecher Virpio</td>
+        </tr>
+        
+    </tbody>
+</table>
+
 
 ## Eliminated Candidates
 <table>
@@ -225,3 +244,43 @@
         
     </tbody>
 </table>
+
+## Vote Distribution
+
+Number of ballots placing each candidate at each rank.
+
+```vegalite
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "data/csm13-rank-distribution.csv"},
+  "height": {"step": 18},
+  "mark": {"type": "rect", "tooltip": true},
+  "encoding": {
+    "x": {
+      "field": "Rank",
+      "type": "ordinal",
+      "title": "Rank",
+      "sort": {"op": "min", "field": "Rank", "order": "ascending"}
+    },
+    "y": {
+      "field": "Candidate",
+      "type": "nominal",
+      "title": null,
+      "sort": {"op": "min", "field": "Order", "order": "ascending"}
+    },
+    "color": {
+      "field": "Votes",
+      "type": "quantitative",
+      "title": "Ballots",
+      "scale": {"scheme": "blues"}
+    },
+    "tooltip": [
+      {"field": "Candidate", "type": "nominal"},
+      {"field": "Rank", "type": "ordinal"},
+      {"field": "Votes", "type": "quantitative"}
+    ]
+  }
+}
+```
+
+[Source data](data/csm13-rank-distribution.csv)
