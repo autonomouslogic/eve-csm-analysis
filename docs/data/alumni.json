@@ -55,6 +55,12 @@
         "20" : "elected"
       }
     },
+    "Val Auroris" : {
+      "name" : "Val Auroris",
+      "elections" : {
+        "20" : "picked"
+      }
+    },
     "Zintage Enaka" : {
       "name" : "Zintage Enaka",
       "elections" : {

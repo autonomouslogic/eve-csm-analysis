@@ -356,6 +356,43 @@
             
         </tr>
         <tr>
+            <td>Val Auroris</td>
+            
+                <td>
+                    
+                        
+                        
+                           &#x1F535;
+                        
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+                <td>
+                    
+                </td>
+            
+        </tr>
+        <tr>
             <td>Zintage Enaka</td>
             
                 <td>

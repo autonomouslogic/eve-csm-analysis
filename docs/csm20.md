@@ -72,7 +72,7 @@
                 <td style="text-align: right">selected by CCP</td>
             </tr>
             <tr>
-                <td>youngpuke2</td>
+                <td>Val Auroris</td>
                 <td style="text-align: right">selected by CCP</td>
             </tr>
             
