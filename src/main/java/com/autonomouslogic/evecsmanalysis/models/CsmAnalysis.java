@@ -32,4 +32,31 @@ public class CsmAnalysis {
 	List<String> withdrawnCandidates;
 
 	List<CandidateRankDistribution> rankDistribution;
+
+	/**
+	 * Same order as {@link #rankDistribution}.
+	 */
+	List<CandidateStatistics> candidateStatistics;
+
+	/**
+	 * Number of candidates flagged as elected in {@link #candidateStatistics}. They come first in
+	 * {@link #rankDistribution} order.
+	 */
+	int electedCount;
+
+	/**
+	 * Jaccard index for each pair of candidates, indexed as [row][column] in the same order as {@link #rankDistribution}.
+	 * Null where the pair has no ballots at all.
+	 */
+	List<List<Double>> jaccardIndex;
+
+	/**
+	 * Most common ballot compositions, most votes first.
+	 */
+	List<PopularBallot> popularBallots;
+
+	/**
+	 * Ballots per ballot size. Index is the number of ranks a ballot defines.
+	 */
+	List<Integer> ballotSizes;
 }

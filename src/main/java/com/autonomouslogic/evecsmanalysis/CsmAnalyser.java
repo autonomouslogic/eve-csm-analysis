@@ -4,8 +4,10 @@ import com.autonomouslogic.evecsmanalysis.models.AuditLog;
 import com.autonomouslogic.evecsmanalysis.models.BallotFile;
 import com.autonomouslogic.evecsmanalysis.models.CandidateRankDistribution;
 import com.autonomouslogic.evecsmanalysis.models.CandidateRound;
+import com.autonomouslogic.evecsmanalysis.models.CandidateStatistics;
 import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
+import com.autonomouslogic.evecsmanalysis.models.PopularBallot;
 import com.autonomouslogic.evecsmanalysis.models.Round;
 import com.autonomouslogic.evecsmanalysis.models.Votes;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -30,6 +32,11 @@ import lombok.extern.log4j.Log4j2;
 public class CsmAnalyser {
 	private static final ObjectMapper objectMapper = new ObjectMapper();
 
+	/**
+	 * Number of ballot compositions listed in {@link CsmAnalysis#getPopularBallots()}.
+	 */
+	static final int POPULAR_BALLOT_COUNT = 6;
+
 	@NonNull
 	private final CsmConfig csmConfig;
 
@@ -41,15 +48,25 @@ public class CsmAnalyser {
 
 	public CsmAnalysis run() {
 		log.info("Running analysis for CSM: {}", csmConfig.getCsmNumber());
+		var totalVotes = totalVotes();
+		var rankDistribution = rankDistribution(ballotFile, electionOrder(auditLog));
+		var candidateStatistics = candidateStatistics(rankDistribution, auditLog.getFinalResults());
 		var data = CsmAnalysis.builder()
 				.csmNumber(csmConfig.getCsmNumber())
 				.candidateCount(ballotFile.getCandidateCount())
-				.totalVotes(totalVotes())
+				.totalVotes(totalVotes)
 				.ballotsWithoutWinner(ballotsWithoutWinner(ballotFile, auditLog.getFinalResults()))
 				//				.leastSignificantRank(1)
 				.leastSignificantRank(findLeastSignificantRank())
 				.withdrawnCandidates(withdrawnCandidates(ballotFile))
-				.rankDistribution(rankDistribution(ballotFile, electionOrder(auditLog)));
+				.rankDistribution(rankDistribution)
+				.candidateStatistics(candidateStatistics)
+				.electedCount((int) candidateStatistics.stream()
+						.filter(CandidateStatistics::isElected)
+						.count())
+				.jaccardIndex(jaccardIndex(ballotFile, rankDistribution))
+				.ballotSizes(ballotSizes(ballotFile))
+				.popularBallots(popularBallots(ballotFile, POPULAR_BALLOT_COUNT));
 		winnersAndEliminations(data);
 		return data.build();
 	}
@@ -86,6 +103,49 @@ public class CsmAnalyser {
 				.mapToInt(votes -> votes.getBallot().getRankings().size())
 				.max()
 				.orElse(0);
+	}
+
+	/**
+	 * Ballots per ballot size, where size is the number of ranks a ballot defines. Index is the size, so index 0 is
+	 * ballots defining no ranks. Weighted by {@link Votes#getCount()}.
+	 */
+	static List<Integer> ballotSizes(BallotFile ballotFile) {
+		log.info("Calculating ballot sizes");
+		var counts = new int[rankCount(ballotFile) + 1];
+		for (var votes : ballotFile.getAllVotes()) {
+			counts[votes.getBallot().getRankings().size()] += votes.getCount();
+		}
+		return Arrays.stream(counts).boxed().toList();
+	}
+
+	/**
+	 * The most common ballot compositions, i.e. the exact candidate ranking, most votes first. Ties are ordered by
+	 * candidate names. Ballots ranking no candidates are skipped.
+	 */
+	static List<PopularBallot> popularBallots(BallotFile ballotFile, int limit) {
+		log.info("Calculating popular ballots");
+		var counts = new HashMap<List<String>, Integer>();
+		for (var votes : ballotFile.getAllVotes()) {
+			var names = votes.getBallot().getRankings().stream()
+					.map(id -> candidateName(ballotFile, id))
+					.toList();
+			if (!names.isEmpty()) {
+				counts.merge(names, votes.getCount(), Integer::sum);
+			}
+		}
+		return counts.entrySet().stream()
+				.sorted((a, b) -> {
+					int byCount = Integer.compare(b.getValue(), a.getValue());
+					return byCount != 0
+							? byCount
+							: String.join("\u0000", a.getKey()).compareTo(String.join("\u0000", b.getKey()));
+				})
+				.limit(limit)
+				.map(entry -> PopularBallot.builder()
+						.candidates(entry.getKey())
+						.ballots(entry.getValue())
+						.build())
+				.toList();
 	}
 
 	static List<String> withdrawnCandidates(BallotFile ballotFile) {
@@ -140,6 +200,102 @@ public class CsmAnalyser {
 						.build())
 				.sorted(rankDistributionOrdering(order))
 				.toList();
+	}
+
+	/**
+	 * Ballot statistics per candidate, in the same order as the given rank distribution. Ballot counts are weighted by
+	 * {@link Votes#getCount()}, so the rank counts from {@link #rankDistribution} are used directly. Candidates in the
+	 * elected list are flagged as elected.
+	 */
+	static List<CandidateStatistics> candidateStatistics(
+			List<CandidateRankDistribution> distribution, List<String> elected) {
+		return distribution.stream()
+				.map(d -> candidateStatistic(d, elected.contains(d.getCandidate())))
+				.toList();
+	}
+
+	/**
+	 * Jaccard index between every pair of candidates. A candidate's set is the ballots ranking them at any position,
+	 * weighted by {@link Votes#getCount()}. The index is the ballots ranking both candidates divided by the ballots
+	 * ranking either. Rows and columns are in the same order as the given rank distribution. A pair with no ballots
+	 * between them is null, which only happens when neither candidate appears on any ballot.
+	 */
+	static List<List<Double>> jaccardIndex(BallotFile ballotFile, List<CandidateRankDistribution> distribution) {
+		log.info("Calculating Jaccard index");
+		var idByName = new HashMap<String, Integer>();
+		for (var entry : ballotFile.getCandidateNames().entrySet()) {
+			idByName.put(entry.getValue(), entry.getKey());
+		}
+		var positionById = new HashMap<Integer, Integer>();
+		for (int i = 0; i < distribution.size(); i++) {
+			positionById.put(idByName.get(distribution.get(i).getCandidate()), i);
+		}
+		var size = distribution.size();
+		var ballots = new long[size];
+		var both = new long[size][size];
+		for (var votes : ballotFile.getAllVotes()) {
+			var present = new HashSet<Integer>();
+			for (var id : votes.getBallot().getRankings()) {
+				present.add(positionById.get(id));
+			}
+			for (int a : present) {
+				ballots[a] += votes.getCount();
+				for (int b : present) {
+					both[a][b] += votes.getCount();
+				}
+			}
+		}
+		var index = new ArrayList<List<Double>>(size);
+		for (int a = 0; a < size; a++) {
+			var row = new ArrayList<Double>(size);
+			for (int b = 0; b < size; b++) {
+				var union = ballots[a] + ballots[b] - both[a][b];
+				row.add(union == 0 ? null : (double) both[a][b] / union);
+			}
+			index.add(row);
+		}
+		return index;
+	}
+
+	private static CandidateStatistics candidateStatistic(CandidateRankDistribution distribution, boolean elected) {
+		var rankVotes = distribution.getRankVotes();
+		long ballots = 0;
+		double rankSum = 0;
+		for (int rank = 0; rank < rankVotes.size(); rank++) {
+			ballots += rankVotes.get(rank);
+			rankSum += (double) (rank + 1) * rankVotes.get(rank);
+		}
+		var builder = CandidateStatistics.builder()
+				.candidate(distribution.getCandidate())
+				.elected(elected)
+				.ballots((int) ballots)
+				.firstChoiceBallots(rankVotes.isEmpty() ? 0 : rankVotes.getFirst());
+		if (ballots > 0) {
+			builder.meanRank(rankSum / ballots).medianRank(median(rankVotes, ballots));
+		}
+		return builder.build();
+	}
+
+	/**
+	 * Median of the rank values, where each rank {@code r} occurs {@code rankVotes[r - 1]} times. Averages the two middle
+	 * values when the count is even.
+	 */
+	static double median(List<Integer> rankVotes, long count) {
+		return (rankAt(rankVotes, (count + 1) / 2) + rankAt(rankVotes, count / 2 + 1)) / 2.0;
+	}
+
+	/**
+	 * Rank at the given 1-based position when all ballots are sorted by rank.
+	 */
+	private static int rankAt(List<Integer> rankVotes, long position) {
+		long seen = 0;
+		for (int rank = 0; rank < rankVotes.size(); rank++) {
+			seen += rankVotes.get(rank);
+			if (seen >= position) {
+				return rank + 1;
+			}
+		}
+		throw new IllegalArgumentException("Position out of range: " + position);
 	}
 
 	private static Comparator<CandidateRankDistribution> rankDistributionOrdering(List<String> order) {

@@ -1,0 +1,1937 @@
+Candidate,Order,Other,OtherOrder,Jaccard
+"Kazanir",1,"Kazanir",1,1.0
+"Kazanir",1,"Luke Anninan",2,0.005497741998821913
+"Kazanir",1,"Angry Mustache",3,0.5405186385737439
+"Kazanir",1,"Kenneth Feld",4,0.017517046790500822
+"Kazanir",1,"Brisc Rubal",5,0.5461307036603711
+"Kazanir",1,"Storm Delay",6,0.009117701234113096
+"Kazanir",1,"Pandoralica",7,0.39725027375593136
+"Kazanir",1,"Arsia Elkin",8,0.022185037244953038
+"Kazanir",1,"Mark Resurrectus",9,0.01274867629671516
+"Kazanir",1,"Jinx De'Caire",10,0.40123012497546295
+"Kazanir",1,"Ithica Hawk",11,0.4341709915323682
+"Kazanir",1,"Torvald Uruz",12,0.017153259119232656
+"Kazanir",1,"Steve Ronuken",13,0.028318436220867094
+"Kazanir",1,"Alasker",14,0.6421503621340406
+"Kazanir",1,"Hy Wanto Destroyer",15,0.01434493291153049
+"Kazanir",1,"Stitch Kaneland",16,0.010079092881640652
+"Kazanir",1,"Phantomite",17,0.017475870137467094
+"Kazanir",1,"Kshal Aideron",18,0.01337601463358866
+"Kazanir",1,"Benjamin Rushing",19,0.03680835905960579
+"Kazanir",1,"DutchGunner",20,0.011791714494417196
+"Kazanir",1,"Drake Iddon",21,0.009745042492917848
+"Kazanir",1,"Moce",22,0.011932302447339584
+"Kazanir",1,"keacte",23,0.011574990106846062
+"Kazanir",1,"Shui Jing Jing",24,0.01869047619047619
+"Kazanir",1,"Baldin Tarmain",25,0.019612238036534797
+"Kazanir",1,"Nala Queen",26,0.009968847352024923
+"Kazanir",1,"Cael Caderu",27,0.7121266642677222
+"Kazanir",1,"White 0rchid",28,0.012072661626988604
+"Kazanir",1,"hyprviper1",29,0.46099086790824767
+"Kazanir",1,"Scott Renton",30,0.012415595730777608
+"Kazanir",1,"Gideon Zendikar",31,0.013865646665072914
+"Kazanir",1,"Aliventi",32,0.011441647597254004
+"Kazanir",1,"KaeL EaglesEye",33,0.006439001954697022
+"Kazanir",1,"Trottel Elf",34,0.009813307802776448
+"Kazanir",1,"Agondray",35,0.011173901875160545
+"Kazanir",1,"Scrapyard Attendant",36,0.00885851683118198
+"Kazanir",1,"Styxx",37,0.0179700086751766
+"Kazanir",1,"TheSupremeMagus",38,0.008700037826251419
+"Kazanir",1,"Furnok Dorn",39,0.020588235294117647
+"Kazanir",1,"Winzentowitsch Madeveda",40,0.009093826896330374
+"Kazanir",1,"Sarin Blackfist",41,0.8030797337857236
+"Kazanir",1,"Kane Carnifex",42,0.00858034321372855
+"Kazanir",1,"Mifune SwordGod",43,0.020311263518860458
+"Kazanir",1,"Redline XIII",44,0.011973959544292026
+"Luke Anninan",2,"Kazanir",1,0.005497741998821913
+"Luke Anninan",2,"Luke Anninan",2,1.0
+"Luke Anninan",2,"Angry Mustache",3,0.15876969416126044
+"Luke Anninan",2,"Kenneth Feld",4,0.3486333161423414
+"Luke Anninan",2,"Brisc Rubal",5,0.11183347590533219
+"Luke Anninan",2,"Storm Delay",6,0.05629695095006628
+"Luke Anninan",2,"Pandoralica",7,0.27455986383702996
+"Luke Anninan",2,"Arsia Elkin",8,0.4563787812362999
+"Luke Anninan",2,"Mark Resurrectus",9,0.3550710403980881
+"Luke Anninan",2,"Jinx De'Caire",10,0.33004926108374383
+"Luke Anninan",2,"Ithica Hawk",11,0.08906822457669077
+"Luke Anninan",2,"Torvald Uruz",12,0.07269711837468039
+"Luke Anninan",2,"Steve Ronuken",13,0.0519449715370019
+"Luke Anninan",2,"Alasker",14,0.036002181950421236
+"Luke Anninan",2,"Hy Wanto Destroyer",15,0.5329003990298099
+"Luke Anninan",2,"Stitch Kaneland",16,0.18606796862986313
+"Luke Anninan",2,"Phantomite",17,0.02221308103661045
+"Luke Anninan",2,"Kshal Aideron",18,0.013257965056526207
+"Luke Anninan",2,"Benjamin Rushing",19,0.011858941017372308
+"Luke Anninan",2,"DutchGunner",20,0.012788935202728306
+"Luke Anninan",2,"Drake Iddon",21,0.011745480543356144
+"Luke Anninan",2,"Moce",22,0.01020408163265306
+"Luke Anninan",2,"keacte",23,0.012178619756427604
+"Luke Anninan",2,"Shui Jing Jing",24,0.023355474608956504
+"Luke Anninan",2,"Baldin Tarmain",25,0.010007004903432403
+"Luke Anninan",2,"Nala Queen",26,0.010437486120364202
+"Luke Anninan",2,"Cael Caderu",27,0.004407314826996448
+"Luke Anninan",2,"White 0rchid",28,0.015282730514518594
+"Luke Anninan",2,"hyprviper1",29,0.2531161806208843
+"Luke Anninan",2,"Scott Renton",30,0.05397378123719787
+"Luke Anninan",2,"Gideon Zendikar",31,0.012932877297990595
+"Luke Anninan",2,"Aliventi",32,0.011298158400180771
+"Luke Anninan",2,"KaeL EaglesEye",33,0.02073298429319372
+"Luke Anninan",2,"Trottel Elf",34,0.013102781656105681
+"Luke Anninan",2,"Agondray",35,0.007956353716753808
+"Luke Anninan",2,"Scrapyard Attendant",36,0.01013856032443393
+"Luke Anninan",2,"Styxx",37,0.013537310147479638
+"Luke Anninan",2,"TheSupremeMagus",38,0.007617340651954744
+"Luke Anninan",2,"Furnok Dorn",39,0.008178525528683258
+"Luke Anninan",2,"Winzentowitsch Madeveda",40,0.006855928930088837
+"Luke Anninan",2,"Sarin Blackfist",41,0.005225653206650831
+"Luke Anninan",2,"Kane Carnifex",42,0.007945647167204053
+"Luke Anninan",2,"Mifune SwordGod",43,0.005643860861552638
+"Luke Anninan",2,"Redline XIII",44,0.021913190054782976
+"Angry Mustache",3,"Kazanir",1,0.5405186385737439
+"Angry Mustache",3,"Luke Anninan",2,0.15876969416126044
+"Angry Mustache",3,"Angry Mustache",3,1.0
+"Angry Mustache",3,"Kenneth Feld",4,0.05905055962948669
+"Angry Mustache",3,"Brisc Rubal",5,0.6462512448427942
+"Angry Mustache",3,"Storm Delay",6,0.02970493101854908
+"Angry Mustache",3,"Pandoralica",7,0.5401349919116416
+"Angry Mustache",3,"Arsia Elkin",8,0.1763620035920974
+"Angry Mustache",3,"Mark Resurrectus",9,0.17208339351918725
+"Angry Mustache",3,"Jinx De'Caire",10,0.5326745485559673
+"Angry Mustache",3,"Ithica Hawk",11,0.43929954537800975
+"Angry Mustache",3,"Torvald Uruz",12,0.1143405220019764
+"Angry Mustache",3,"Steve Ronuken",13,0.08471973381110827
+"Angry Mustache",3,"Alasker",14,0.44308377400500976
+"Angry Mustache",3,"Hy Wanto Destroyer",15,0.15261382799325462
+"Angry Mustache",3,"Stitch Kaneland",16,0.19072293669621676
+"Angry Mustache",3,"Phantomite",17,0.07043147208121828
+"Angry Mustache",3,"Kshal Aideron",18,0.03740686688685767
+"Angry Mustache",3,"Benjamin Rushing",19,0.03266157053509382
+"Angry Mustache",3,"DutchGunner",20,0.041249092229484384
+"Angry Mustache",3,"Drake Iddon",21,0.022482082233119576
+"Angry Mustache",3,"Moce",22,0.017277939213068406
+"Angry Mustache",3,"keacte",23,0.03914167889844132
+"Angry Mustache",3,"Shui Jing Jing",24,0.0257227230338825
+"Angry Mustache",3,"Baldin Tarmain",25,0.032461677186654644
+"Angry Mustache",3,"Nala Queen",26,0.011666666666666667
+"Angry Mustache",3,"Cael Caderu",27,0.47103196204992615
+"Angry Mustache",3,"White 0rchid",28,0.02476850109162087
+"Angry Mustache",3,"hyprviper1",29,0.5250198570293884
+"Angry Mustache",3,"Scott Renton",30,0.026664702416028287
+"Angry Mustache",3,"Gideon Zendikar",31,0.022915042868277474
+"Angry Mustache",3,"Aliventi",32,0.01221275911939579
+"Angry Mustache",3,"KaeL EaglesEye",33,0.018631178707224333
+"Angry Mustache",3,"Trottel Elf",34,0.016870092513410557
+"Angry Mustache",3,"Agondray",35,0.01393502390018634
+"Angry Mustache",3,"Scrapyard Attendant",36,0.016356457980823462
+"Angry Mustache",3,"Styxx",37,0.022508550067605184
+"Angry Mustache",3,"TheSupremeMagus",38,0.016319639842431063
+"Angry Mustache",3,"Furnok Dorn",39,0.015972854423570305
+"Angry Mustache",3,"Winzentowitsch Madeveda",40,0.02430858806404658
+"Angry Mustache",3,"Sarin Blackfist",41,0.5161396303901438
+"Angry Mustache",3,"Kane Carnifex",42,0.009443178117876913
+"Angry Mustache",3,"Mifune SwordGod",43,0.0208659793814433
+"Angry Mustache",3,"Redline XIII",44,0.02158438576349024
+"Kenneth Feld",4,"Kazanir",1,0.017517046790500822
+"Kenneth Feld",4,"Luke Anninan",2,0.3486333161423414
+"Kenneth Feld",4,"Angry Mustache",3,0.05905055962948669
+"Kenneth Feld",4,"Kenneth Feld",4,1.0
+"Kenneth Feld",4,"Brisc Rubal",5,0.05102440937163023
+"Kenneth Feld",4,"Storm Delay",6,0.2988505747126437
+"Kenneth Feld",4,"Pandoralica",7,0.17558983666061706
+"Kenneth Feld",4,"Arsia Elkin",8,0.3636873597606582
+"Kenneth Feld",4,"Mark Resurrectus",9,0.36132988637046837
+"Kenneth Feld",4,"Jinx De'Caire",10,0.18797249183046383
+"Kenneth Feld",4,"Ithica Hawk",11,0.14236641221374047
+"Kenneth Feld",4,"Torvald Uruz",12,0.2323645598194131
+"Kenneth Feld",4,"Steve Ronuken",13,0.1562428928815101
+"Kenneth Feld",4,"Alasker",14,0.04477611940298507
+"Kenneth Feld",4,"Hy Wanto Destroyer",15,0.5466752836421083
+"Kenneth Feld",4,"Stitch Kaneland",16,0.06739985254362252
+"Kenneth Feld",4,"Phantomite",17,0.25498808814770696
+"Kenneth Feld",4,"Kshal Aideron",18,0.040726375176304654
+"Kenneth Feld",4,"Benjamin Rushing",19,0.02673702726473175
+"Kenneth Feld",4,"DutchGunner",20,0.04862263524726187
+"Kenneth Feld",4,"Drake Iddon",21,0.019788350683988643
+"Kenneth Feld",4,"Moce",22,0.03590168461750898
+"Kenneth Feld",4,"keacte",23,0.06875
+"Kenneth Feld",4,"Shui Jing Jing",24,0.03800324968405849
+"Kenneth Feld",4,"Baldin Tarmain",25,0.047229712098808385
+"Kenneth Feld",4,"Nala Queen",26,0.025910104011887074
+"Kenneth Feld",4,"Cael Caderu",27,0.013242304749573304
+"Kenneth Feld",4,"White 0rchid",28,0.05518646470015059
+"Kenneth Feld",4,"hyprviper1",29,0.2412615401035274
+"Kenneth Feld",4,"Scott Renton",30,0.05920027696036005
+"Kenneth Feld",4,"Gideon Zendikar",31,0.026599568655643422
+"Kenneth Feld",4,"Aliventi",32,0.014994877526310887
+"Kenneth Feld",4,"KaeL EaglesEye",33,0.0962692163479565
+"Kenneth Feld",4,"Trottel Elf",34,0.030517069636874037
+"Kenneth Feld",4,"Agondray",35,0.015683696468820434
+"Kenneth Feld",4,"Scrapyard Attendant",36,0.016958628401043608
+"Kenneth Feld",4,"Styxx",37,0.026310947562097516
+"Kenneth Feld",4,"TheSupremeMagus",38,0.014745432625428916
+"Kenneth Feld",4,"Furnok Dorn",39,0.007910035261602973
+"Kenneth Feld",4,"Winzentowitsch Madeveda",40,0.022644628099173555
+"Kenneth Feld",4,"Sarin Blackfist",41,0.008788298320592308
+"Kenneth Feld",4,"Kane Carnifex",42,0.013257575757575758
+"Kenneth Feld",4,"Mifune SwordGod",43,0.012900777841016885
+"Kenneth Feld",4,"Redline XIII",44,0.09742768303024592
+"Brisc Rubal",5,"Kazanir",1,0.5461307036603711
+"Brisc Rubal",5,"Luke Anninan",2,0.11183347590533219
+"Brisc Rubal",5,"Angry Mustache",3,0.6462512448427942
+"Brisc Rubal",5,"Kenneth Feld",4,0.05102440937163023
+"Brisc Rubal",5,"Brisc Rubal",5,1.0
+"Brisc Rubal",5,"Storm Delay",6,0.030596912990028684
+"Brisc Rubal",5,"Pandoralica",7,0.5244979467851718
+"Brisc Rubal",5,"Arsia Elkin",8,0.1428146827165998
+"Brisc Rubal",5,"Mark Resurrectus",9,0.1377154040765669
+"Brisc Rubal",5,"Jinx De'Caire",10,0.48933193424274224
+"Brisc Rubal",5,"Ithica Hawk",11,0.40536762650265584
+"Brisc Rubal",5,"Torvald Uruz",12,0.08500494214779929
+"Brisc Rubal",5,"Steve Ronuken",13,0.07253277672689322
+"Brisc Rubal",5,"Alasker",14,0.47338139975238513
+"Brisc Rubal",5,"Hy Wanto Destroyer",15,0.12736831663525444
+"Brisc Rubal",5,"Stitch Kaneland",16,0.1539035305818001
+"Brisc Rubal",5,"Phantomite",17,0.07575847886988138
+"Brisc Rubal",5,"Kshal Aideron",18,0.02266110630262019
+"Brisc Rubal",5,"Benjamin Rushing",19,0.03641343752517522
+"Brisc Rubal",5,"DutchGunner",20,0.03394392523364486
+"Brisc Rubal",5,"Drake Iddon",21,0.02757208129825114
+"Brisc Rubal",5,"Moce",22,0.016417544719431514
+"Brisc Rubal",5,"keacte",23,0.030281285878300805
+"Brisc Rubal",5,"Shui Jing Jing",24,0.019522776572668113
+"Brisc Rubal",5,"Baldin Tarmain",25,0.020989273863724053
+"Brisc Rubal",5,"Nala Queen",26,0.014591278394959377
+"Brisc Rubal",5,"Cael Caderu",27,0.4888781040200599
+"Brisc Rubal",5,"White 0rchid",28,0.0271223641922082
+"Brisc Rubal",5,"hyprviper1",29,0.533651132158314
+"Brisc Rubal",5,"Scott Renton",30,0.02417632702867602
+"Brisc Rubal",5,"Gideon Zendikar",31,0.02344637351938991
+"Brisc Rubal",5,"Aliventi",32,0.013072990865666639
+"Brisc Rubal",5,"KaeL EaglesEye",33,0.020754119138149556
+"Brisc Rubal",5,"Trottel Elf",34,0.027126399215622193
+"Brisc Rubal",5,"Agondray",35,0.011457455770850885
+"Brisc Rubal",5,"Scrapyard Attendant",36,0.013734193116154425
+"Brisc Rubal",5,"Styxx",37,0.01982324275212687
+"Brisc Rubal",5,"TheSupremeMagus",38,0.011673476194446761
+"Brisc Rubal",5,"Furnok Dorn",39,0.01439655172413793
+"Brisc Rubal",5,"Winzentowitsch Madeveda",40,0.02176860500150648
+"Brisc Rubal",5,"Sarin Blackfist",41,0.5314392969883116
+"Brisc Rubal",5,"Kane Carnifex",42,0.010108732585796806
+"Brisc Rubal",5,"Mifune SwordGod",43,0.022836952774905207
+"Brisc Rubal",5,"Redline XIII",44,0.02449924188013726
+"Storm Delay",6,"Kazanir",1,0.009117701234113096
+"Storm Delay",6,"Luke Anninan",2,0.05629695095006628
+"Storm Delay",6,"Angry Mustache",3,0.02970493101854908
+"Storm Delay",6,"Kenneth Feld",4,0.2988505747126437
+"Storm Delay",6,"Brisc Rubal",5,0.030596912990028684
+"Storm Delay",6,"Storm Delay",6,1.0
+"Storm Delay",6,"Pandoralica",7,0.030454713103957004
+"Storm Delay",6,"Arsia Elkin",8,0.06619969784370279
+"Storm Delay",6,"Mark Resurrectus",9,0.1949823943661972
+"Storm Delay",6,"Jinx De'Caire",10,0.039551937178820946
+"Storm Delay",6,"Ithica Hawk",11,0.05096188314016011
+"Storm Delay",6,"Torvald Uruz",12,0.27400870960348384
+"Storm Delay",6,"Steve Ronuken",13,0.10204334365325077
+"Storm Delay",6,"Alasker",14,0.050074490978314845
+"Storm Delay",6,"Hy Wanto Destroyer",15,0.23835929217972765
+"Storm Delay",6,"Stitch Kaneland",16,0.029329348029142537
+"Storm Delay",6,"Phantomite",17,0.3045206159960258
+"Storm Delay",6,"Kshal Aideron",18,0.021352313167259787
+"Storm Delay",6,"Benjamin Rushing",19,0.03501264345458082
+"Storm Delay",6,"DutchGunner",20,0.035761371127224786
+"Storm Delay",6,"Drake Iddon",21,0.02535421327367636
+"Storm Delay",6,"Moce",22,0.049025904517233994
+"Storm Delay",6,"keacte",23,0.027907678382863177
+"Storm Delay",6,"Shui Jing Jing",24,0.04998979800040808
+"Storm Delay",6,"Baldin Tarmain",25,0.022473930240920533
+"Storm Delay",6,"Nala Queen",26,0.06007226738934056
+"Storm Delay",6,"Cael Caderu",27,0.0067655236329935125
+"Storm Delay",6,"White 0rchid",28,0.04120621839295748
+"Storm Delay",6,"hyprviper1",29,0.10916486255986355
+"Storm Delay",6,"Scott Renton",30,0.09529127117066816
+"Storm Delay",6,"Gideon Zendikar",31,0.02964467005076142
+"Storm Delay",6,"Aliventi",32,0.025959367945823927
+"Storm Delay",6,"KaeL EaglesEye",33,0.18711111111111112
+"Storm Delay",6,"Trottel Elf",34,0.052334100900146535
+"Storm Delay",6,"Agondray",35,0.018256503879507075
+"Storm Delay",6,"Scrapyard Attendant",36,0.034005894355021535
+"Storm Delay",6,"Styxx",37,0.03848648648648648
+"Storm Delay",6,"TheSupremeMagus",38,0.028923766816143497
+"Storm Delay",6,"Furnok Dorn",39,0.018326501085121776
+"Storm Delay",6,"Winzentowitsch Madeveda",40,0.02659846547314578
+"Storm Delay",6,"Sarin Blackfist",41,0.008235636081775022
+"Storm Delay",6,"Kane Carnifex",42,0.029606821411653245
+"Storm Delay",6,"Mifune SwordGod",43,0.022458628841607566
+"Storm Delay",6,"Redline XIII",44,0.1574114560559685
+"Pandoralica",7,"Kazanir",1,0.39725027375593136
+"Pandoralica",7,"Luke Anninan",2,0.27455986383702996
+"Pandoralica",7,"Angry Mustache",3,0.5401349919116416
+"Pandoralica",7,"Kenneth Feld",4,0.17558983666061706
+"Pandoralica",7,"Brisc Rubal",5,0.5244979467851718
+"Pandoralica",7,"Storm Delay",6,0.030454713103957004
+"Pandoralica",7,"Pandoralica",7,1.0
+"Pandoralica",7,"Arsia Elkin",8,0.3148546053573987
+"Pandoralica",7,"Mark Resurrectus",9,0.33407183935137175
+"Pandoralica",7,"Jinx De'Caire",10,0.6733567486201706
+"Pandoralica",7,"Ithica Hawk",11,0.4566479677197126
+"Pandoralica",7,"Torvald Uruz",12,0.11815896345000967
+"Pandoralica",7,"Steve Ronuken",13,0.08313908313908314
+"Pandoralica",7,"Alasker",14,0.388464133123454
+"Pandoralica",7,"Hy Wanto Destroyer",15,0.3007939544671896
+"Pandoralica",7,"Stitch Kaneland",16,0.22401147959183673
+"Pandoralica",7,"Phantomite",17,0.11886895592108533
+"Pandoralica",7,"Kshal Aideron",18,0.01718213058419244
+"Pandoralica",7,"Benjamin Rushing",19,0.027385892116182572
+"Pandoralica",7,"DutchGunner",20,0.027403414195867025
+"Pandoralica",7,"Drake Iddon",21,0.031211353866085624
+"Pandoralica",7,"Moce",22,0.010335762934639742
+"Pandoralica",7,"keacte",23,0.0363906628495926
+"Pandoralica",7,"Shui Jing Jing",24,0.019732540861812777
+"Pandoralica",7,"Baldin Tarmain",25,0.01976375684240853
+"Pandoralica",7,"Nala Queen",26,0.01537806953561877
+"Pandoralica",7,"Cael Caderu",27,0.3733189241114313
+"Pandoralica",7,"White 0rchid",28,0.04149377593360996
+"Pandoralica",7,"hyprviper1",29,0.602637996009754
+"Pandoralica",7,"Scott Renton",30,0.015260679639189879
+"Pandoralica",7,"Gideon Zendikar",31,0.02885020779377221
+"Pandoralica",7,"Aliventi",32,0.011238700219887612
+"Pandoralica",7,"KaeL EaglesEye",33,0.02190683705317708
+"Pandoralica",7,"Trottel Elf",34,0.02818176332146521
+"Pandoralica",7,"Agondray",35,0.006845547338182263
+"Pandoralica",7,"Scrapyard Attendant",36,0.010857630840551422
+"Pandoralica",7,"Styxx",37,0.01411338962605549
+"Pandoralica",7,"TheSupremeMagus",38,0.006976038823172581
+"Pandoralica",7,"Furnok Dorn",39,0.011338151009220036
+"Pandoralica",7,"Winzentowitsch Madeveda",40,0.04593967517401392
+"Pandoralica",7,"Sarin Blackfist",41,0.38257061798445785
+"Pandoralica",7,"Kane Carnifex",42,0.010751359367276322
+"Pandoralica",7,"Mifune SwordGod",43,0.012582904605467056
+"Pandoralica",7,"Redline XIII",44,0.027185849112601652
+"Arsia Elkin",8,"Kazanir",1,0.022185037244953038
+"Arsia Elkin",8,"Luke Anninan",2,0.4563787812362999
+"Arsia Elkin",8,"Angry Mustache",3,0.1763620035920974
+"Arsia Elkin",8,"Kenneth Feld",4,0.3636873597606582
+"Arsia Elkin",8,"Brisc Rubal",5,0.1428146827165998
+"Arsia Elkin",8,"Storm Delay",6,0.06619969784370279
+"Arsia Elkin",8,"Pandoralica",7,0.3148546053573987
+"Arsia Elkin",8,"Arsia Elkin",8,1.0
+"Arsia Elkin",8,"Mark Resurrectus",9,0.49602416322505083
+"Arsia Elkin",8,"Jinx De'Caire",10,0.33765765765765765
+"Arsia Elkin",8,"Ithica Hawk",11,0.23489641184140628
+"Arsia Elkin",8,"Torvald Uruz",12,0.24321333246533428
+"Arsia Elkin",8,"Steve Ronuken",13,0.18200280112044817
+"Arsia Elkin",8,"Alasker",14,0.06448622199330414
+"Arsia Elkin",8,"Hy Wanto Destroyer",15,0.4602874432677761
+"Arsia Elkin",8,"Stitch Kaneland",16,0.3423767132965946
+"Arsia Elkin",8,"Phantomite",17,0.1480745341614907
+"Arsia Elkin",8,"Kshal Aideron",18,0.0653501467205964
+"Arsia Elkin",8,"Benjamin Rushing",19,0.04076682316118936
+"Arsia Elkin",8,"DutchGunner",20,0.10401671697237055
+"Arsia Elkin",8,"Drake Iddon",21,0.05559906029757244
+"Arsia Elkin",8,"Moce",22,0.020763987953716912
+"Arsia Elkin",8,"keacte",23,0.14354177939244028
+"Arsia Elkin",8,"Shui Jing Jing",24,0.040259946108733555
+"Arsia Elkin",8,"Baldin Tarmain",25,0.07817923635216156
+"Arsia Elkin",8,"Nala Queen",26,0.01595190380761523
+"Arsia Elkin",8,"Cael Caderu",27,0.026418999891055672
+"Arsia Elkin",8,"White 0rchid",28,0.0627992778083052
+"Arsia Elkin",8,"hyprviper1",29,0.23705139675912118
+"Arsia Elkin",8,"Scott Renton",30,0.11356517548791262
+"Arsia Elkin",8,"Gideon Zendikar",31,0.04483227924105356
+"Arsia Elkin",8,"Aliventi",32,0.01466299416720674
+"Arsia Elkin",8,"KaeL EaglesEye",33,0.032713178294573646
+"Arsia Elkin",8,"Trottel Elf",34,0.024092591134556335
+"Arsia Elkin",8,"Agondray",35,0.01891736958480059
+"Arsia Elkin",8,"Scrapyard Attendant",36,0.016700445885691122
+"Arsia Elkin",8,"Styxx",37,0.022149368303214456
+"Arsia Elkin",8,"TheSupremeMagus",38,0.014692823121013967
+"Arsia Elkin",8,"Furnok Dorn",39,0.007679603633360859
+"Arsia Elkin",8,"Winzentowitsch Madeveda",40,0.07427299930944525
+"Arsia Elkin",8,"Sarin Blackfist",41,0.00983138353380568
+"Arsia Elkin",8,"Kane Carnifex",42,0.011487650775416428
+"Arsia Elkin",8,"Mifune SwordGod",43,0.008854636385996557
+"Arsia Elkin",8,"Redline XIII",44,0.044128057893494846
+"Mark Resurrectus",9,"Kazanir",1,0.01274867629671516
+"Mark Resurrectus",9,"Luke Anninan",2,0.3550710403980881
+"Mark Resurrectus",9,"Angry Mustache",3,0.17208339351918725
+"Mark Resurrectus",9,"Kenneth Feld",4,0.36132988637046837
+"Mark Resurrectus",9,"Brisc Rubal",5,0.1377154040765669
+"Mark Resurrectus",9,"Storm Delay",6,0.1949823943661972
+"Mark Resurrectus",9,"Pandoralica",7,0.33407183935137175
+"Mark Resurrectus",9,"Arsia Elkin",8,0.49602416322505083
+"Mark Resurrectus",9,"Mark Resurrectus",9,1.0
+"Mark Resurrectus",9,"Jinx De'Caire",10,0.3256021409455843
+"Mark Resurrectus",9,"Ithica Hawk",11,0.19677346057714157
+"Mark Resurrectus",9,"Torvald Uruz",12,0.35108843537414963
+"Mark Resurrectus",9,"Steve Ronuken",13,0.1834585457472498
+"Mark Resurrectus",9,"Alasker",14,0.07321348089538784
+"Mark Resurrectus",9,"Hy Wanto Destroyer",15,0.48467551805434916
+"Mark Resurrectus",9,"Stitch Kaneland",16,0.4056899004267425
+"Mark Resurrectus",9,"Phantomite",17,0.34394637620444074
+"Mark Resurrectus",9,"Kshal Aideron",18,0.047053617523416184
+"Mark Resurrectus",9,"Benjamin Rushing",19,0.0354093050647821
+"Mark Resurrectus",9,"DutchGunner",20,0.07572829432395677
+"Mark Resurrectus",9,"Drake Iddon",21,0.06592830951133727
+"Mark Resurrectus",9,"Moce",22,0.018057006416952695
+"Mark Resurrectus",9,"keacte",23,0.13223200640419183
+"Mark Resurrectus",9,"Shui Jing Jing",24,0.021624007060900265
+"Mark Resurrectus",9,"Baldin Tarmain",25,0.0633704222238597
+"Mark Resurrectus",9,"Nala Queen",26,0.011516748212269477
+"Mark Resurrectus",9,"Cael Caderu",27,0.03450641059462882
+"Mark Resurrectus",9,"White 0rchid",28,0.047992379835873386
+"Mark Resurrectus",9,"hyprviper1",29,0.3145595244196177
+"Mark Resurrectus",9,"Scott Renton",30,0.09712014399280036
+"Mark Resurrectus",9,"Gideon Zendikar",31,0.042248208223311955
+"Mark Resurrectus",9,"Aliventi",32,0.01566799143992663
+"Mark Resurrectus",9,"KaeL EaglesEye",33,0.0598946576373213
+"Mark Resurrectus",9,"Trottel Elf",34,0.026996793198597956
+"Mark Resurrectus",9,"Agondray",35,0.012574758472626898
+"Mark Resurrectus",9,"Scrapyard Attendant",36,0.016036655211912942
+"Mark Resurrectus",9,"Styxx",37,0.019337848006019565
+"Mark Resurrectus",9,"TheSupremeMagus",38,0.023882660113653816
+"Mark Resurrectus",9,"Furnok Dorn",39,0.006129733085040347
+"Mark Resurrectus",9,"Winzentowitsch Madeveda",40,0.13411168292495584
+"Mark Resurrectus",9,"Sarin Blackfist",41,0.007311556467308401
+"Mark Resurrectus",9,"Kane Carnifex",42,0.012764969828253134
+"Mark Resurrectus",9,"Mifune SwordGod",43,0.010203292880884285
+"Mark Resurrectus",9,"Redline XIII",44,0.05509207065013153
+"Jinx De'Caire",10,"Kazanir",1,0.40123012497546295
+"Jinx De'Caire",10,"Luke Anninan",2,0.33004926108374383
+"Jinx De'Caire",10,"Angry Mustache",3,0.5326745485559673
+"Jinx De'Caire",10,"Kenneth Feld",4,0.18797249183046383
+"Jinx De'Caire",10,"Brisc Rubal",5,0.48933193424274224
+"Jinx De'Caire",10,"Storm Delay",6,0.039551937178820946
+"Jinx De'Caire",10,"Pandoralica",7,0.6733567486201706
+"Jinx De'Caire",10,"Arsia Elkin",8,0.33765765765765765
+"Jinx De'Caire",10,"Mark Resurrectus",9,0.3256021409455843
+"Jinx De'Caire",10,"Jinx De'Caire",10,1.0
+"Jinx De'Caire",10,"Ithica Hawk",11,0.40223966405039246
+"Jinx De'Caire",10,"Torvald Uruz",12,0.09434440781131119
+"Jinx De'Caire",10,"Steve Ronuken",13,0.07205361098803721
+"Jinx De'Caire",10,"Alasker",14,0.41941616582852936
+"Jinx De'Caire",10,"Hy Wanto Destroyer",15,0.29123867069486403
+"Jinx De'Caire",10,"Stitch Kaneland",16,0.1813431604422199
+"Jinx De'Caire",10,"Phantomite",17,0.06481763689931931
+"Jinx De'Caire",10,"Kshal Aideron",18,0.030438443106016448
+"Jinx De'Caire",10,"Benjamin Rushing",19,0.027813965607087026
+"Jinx De'Caire",10,"DutchGunner",20,0.02128827619860925
+"Jinx De'Caire",10,"Drake Iddon",21,0.02498554820476588
+"Jinx De'Caire",10,"Moce",22,0.013997094942559091
+"Jinx De'Caire",10,"keacte",23,0.04901305800182205
+"Jinx De'Caire",10,"Shui Jing Jing",24,0.02341444218534794
+"Jinx De'Caire",10,"Baldin Tarmain",25,0.021512179689971527
+"Jinx De'Caire",10,"Nala Queen",26,0.011077005204857868
+"Jinx De'Caire",10,"Cael Caderu",27,0.39007693310731517
+"Jinx De'Caire",10,"White 0rchid",28,0.038379254457050246
+"Jinx De'Caire",10,"hyprviper1",29,0.6271256986562017
+"Jinx De'Caire",10,"Scott Renton",30,0.036006339144215534
+"Jinx De'Caire",10,"Gideon Zendikar",31,0.01889639787415524
+"Jinx De'Caire",10,"Aliventi",32,0.010847594663791942
+"Jinx De'Caire",10,"KaeL EaglesEye",33,0.020869677586095498
+"Jinx De'Caire",10,"Trottel Elf",34,0.013482557759015643
+"Jinx De'Caire",10,"Agondray",35,0.0076315256297697035
+"Jinx De'Caire",10,"Scrapyard Attendant",36,0.010903950999528842
+"Jinx De'Caire",10,"Styxx",37,0.015099108686976188
+"Jinx De'Caire",10,"TheSupremeMagus",38,0.00797159699892819
+"Jinx De'Caire",10,"Furnok Dorn",39,0.010114214944268611
+"Jinx De'Caire",10,"Winzentowitsch Madeveda",40,0.014654270057262483
+"Jinx De'Caire",10,"Sarin Blackfist",41,0.4086827358044697
+"Jinx De'Caire",10,"Kane Carnifex",42,0.00899611531384175
+"Jinx De'Caire",10,"Mifune SwordGod",43,0.00832139690334902
+"Jinx De'Caire",10,"Redline XIII",44,0.020405519207099824
+"Ithica Hawk",11,"Kazanir",1,0.4341709915323682
+"Ithica Hawk",11,"Luke Anninan",2,0.08906822457669077
+"Ithica Hawk",11,"Angry Mustache",3,0.43929954537800975
+"Ithica Hawk",11,"Kenneth Feld",4,0.14236641221374047
+"Ithica Hawk",11,"Brisc Rubal",5,0.40536762650265584
+"Ithica Hawk",11,"Storm Delay",6,0.05096188314016011
+"Ithica Hawk",11,"Pandoralica",7,0.4566479677197126
+"Ithica Hawk",11,"Arsia Elkin",8,0.23489641184140628
+"Ithica Hawk",11,"Mark Resurrectus",9,0.19677346057714157
+"Ithica Hawk",11,"Jinx De'Caire",10,0.40223966405039246
+"Ithica Hawk",11,"Ithica Hawk",11,1.0
+"Ithica Hawk",11,"Torvald Uruz",12,0.19802989130434784
+"Ithica Hawk",11,"Steve Ronuken",13,0.13777777777777778
+"Ithica Hawk",11,"Alasker",14,0.43700613186674253
+"Ithica Hawk",11,"Hy Wanto Destroyer",15,0.15664252315027047
+"Ithica Hawk",11,"Stitch Kaneland",16,0.23853480714957667
+"Ithica Hawk",11,"Phantomite",17,0.18458523087565573
+"Ithica Hawk",11,"Kshal Aideron",18,0.018466189130577643
+"Ithica Hawk",11,"Benjamin Rushing",19,0.029754724567752314
+"Ithica Hawk",11,"DutchGunner",20,0.07441279031515231
+"Ithica Hawk",11,"Drake Iddon",21,0.06458019449390494
+"Ithica Hawk",11,"Moce",22,0.011232153731646256
+"Ithica Hawk",11,"keacte",23,0.09559396932674812
+"Ithica Hawk",11,"Shui Jing Jing",24,0.01165423548215237
+"Ithica Hawk",11,"Baldin Tarmain",25,0.06412337662337662
+"Ithica Hawk",11,"Nala Queen",26,0.009036763195728076
+"Ithica Hawk",11,"Cael Caderu",27,0.4523478744095582
+"Ithica Hawk",11,"White 0rchid",28,0.05418186731522767
+"Ithica Hawk",11,"hyprviper1",29,0.33956262425447314
+"Ithica Hawk",11,"Scott Renton",30,0.06249583138798106
+"Ithica Hawk",11,"Gideon Zendikar",31,0.035839100938806275
+"Ithica Hawk",11,"Aliventi",32,0.012842762929538355
+"Ithica Hawk",11,"KaeL EaglesEye",33,0.03546433378196501
+"Ithica Hawk",11,"Trottel Elf",34,0.02412176394645648
+"Ithica Hawk",11,"Agondray",35,0.0065917291146267
+"Ithica Hawk",11,"Scrapyard Attendant",36,0.014869371873262923
+"Ithica Hawk",11,"Styxx",37,0.013515358361774744
+"Ithica Hawk",11,"TheSupremeMagus",38,0.010147028370262995
+"Ithica Hawk",11,"Furnok Dorn",39,0.00948068487335503
+"Ithica Hawk",11,"Winzentowitsch Madeveda",40,0.10237409084671333
+"Ithica Hawk",11,"Sarin Blackfist",41,0.42784332891154087
+"Ithica Hawk",11,"Kane Carnifex",42,0.011384399156711173
+"Ithica Hawk",11,"Mifune SwordGod",43,0.010548523206751054
+"Ithica Hawk",11,"Redline XIII",44,0.045460741548527805
+"Torvald Uruz",12,"Kazanir",1,0.017153259119232656
+"Torvald Uruz",12,"Luke Anninan",2,0.07269711837468039
+"Torvald Uruz",12,"Angry Mustache",3,0.1143405220019764
+"Torvald Uruz",12,"Kenneth Feld",4,0.2323645598194131
+"Torvald Uruz",12,"Brisc Rubal",5,0.08500494214779929
+"Torvald Uruz",12,"Storm Delay",6,0.27400870960348384
+"Torvald Uruz",12,"Pandoralica",7,0.11815896345000967
+"Torvald Uruz",12,"Arsia Elkin",8,0.24321333246533428
+"Torvald Uruz",12,"Mark Resurrectus",9,0.35108843537414963
+"Torvald Uruz",12,"Jinx De'Caire",10,0.09434440781131119
+"Torvald Uruz",12,"Ithica Hawk",11,0.19802989130434784
+"Torvald Uruz",12,"Torvald Uruz",12,1.0
+"Torvald Uruz",12,"Steve Ronuken",13,0.19834710743801653
+"Torvald Uruz",12,"Alasker",14,0.04788913954237834
+"Torvald Uruz",12,"Hy Wanto Destroyer",15,0.22956407735168796
+"Torvald Uruz",12,"Stitch Kaneland",16,0.2536300369447547
+"Torvald Uruz",12,"Phantomite",17,0.3707635372029607
+"Torvald Uruz",12,"Kshal Aideron",18,0.08552869000360881
+"Torvald Uruz",12,"Benjamin Rushing",19,0.04870857412430711
+"Torvald Uruz",12,"DutchGunner",20,0.15558682143275882
+"Torvald Uruz",12,"Drake Iddon",21,0.07769989307354164
+"Torvald Uruz",12,"Moce",22,0.03304878048780488
+"Torvald Uruz",12,"keacte",23,0.17904178019981834
+"Torvald Uruz",12,"Shui Jing Jing",24,0.03588829471182412
+"Torvald Uruz",12,"Baldin Tarmain",25,0.09835093130857753
+"Torvald Uruz",12,"Nala Queen",26,0.024290494485066302
+"Torvald Uruz",12,"Cael Caderu",27,0.03129465561589025
+"Torvald Uruz",12,"White 0rchid",28,0.05512539003813706
+"Torvald Uruz",12,"hyprviper1",29,0.11681937172774869
+"Torvald Uruz",12,"Scott Renton",30,0.1173342786246012
+"Torvald Uruz",12,"Gideon Zendikar",31,0.05236239649293716
+"Torvald Uruz",12,"Aliventi",32,0.025265285497726123
+"Torvald Uruz",12,"KaeL EaglesEye",33,0.10927193528313628
+"Torvald Uruz",12,"Trottel Elf",34,0.047259439707673566
+"Torvald Uruz",12,"Agondray",35,0.024225423944919035
+"Torvald Uruz",12,"Scrapyard Attendant",36,0.027935785614966503
+"Torvald Uruz",12,"Styxx",37,0.035617116002968095
+"Torvald Uruz",12,"TheSupremeMagus",38,0.02939321306925697
+"Torvald Uruz",12,"Furnok Dorn",39,0.011682242990654205
+"Torvald Uruz",12,"Winzentowitsch Madeveda",40,0.12516129032258064
+"Torvald Uruz",12,"Sarin Blackfist",41,0.012752699079776829
+"Torvald Uruz",12,"Kane Carnifex",42,0.020755446693309268
+"Torvald Uruz",12,"Mifune SwordGod",43,0.022003624126326688
+"Torvald Uruz",12,"Redline XIII",44,0.1013790532985464
+"Steve Ronuken",13,"Kazanir",1,0.028318436220867094
+"Steve Ronuken",13,"Luke Anninan",2,0.0519449715370019
+"Steve Ronuken",13,"Angry Mustache",3,0.08471973381110827
+"Steve Ronuken",13,"Kenneth Feld",4,0.1562428928815101
+"Steve Ronuken",13,"Brisc Rubal",5,0.07253277672689322
+"Steve Ronuken",13,"Storm Delay",6,0.10204334365325077
+"Steve Ronuken",13,"Pandoralica",7,0.08313908313908314
+"Steve Ronuken",13,"Arsia Elkin",8,0.18200280112044817
+"Steve Ronuken",13,"Mark Resurrectus",9,0.1834585457472498
+"Steve Ronuken",13,"Jinx De'Caire",10,0.07205361098803721
+"Steve Ronuken",13,"Ithica Hawk",11,0.13777777777777778
+"Steve Ronuken",13,"Torvald Uruz",12,0.19834710743801653
+"Steve Ronuken",13,"Steve Ronuken",13,1.0
+"Steve Ronuken",13,"Alasker",14,0.0740514075887393
+"Steve Ronuken",13,"Hy Wanto Destroyer",15,0.08098039215686274
+"Steve Ronuken",13,"Stitch Kaneland",16,0.19812142926309673
+"Steve Ronuken",13,"Phantomite",17,0.2500790722192936
+"Steve Ronuken",13,"Kshal Aideron",18,0.09862792574656981
+"Steve Ronuken",13,"Benjamin Rushing",19,0.051023622047244095
+"Steve Ronuken",13,"DutchGunner",20,0.14136282127913927
+"Steve Ronuken",13,"Drake Iddon",21,0.12602694709168583
+"Steve Ronuken",13,"Moce",22,0.050041981528127624
+"Steve Ronuken",13,"keacte",23,0.12975515285655
+"Steve Ronuken",13,"Shui Jing Jing",24,0.08624435901721544
+"Steve Ronuken",13,"Baldin Tarmain",25,0.10518053375196232
+"Steve Ronuken",13,"Nala Queen",26,0.027178528962119926
+"Steve Ronuken",13,"Cael Caderu",27,0.05192456729527254
+"Steve Ronuken",13,"White 0rchid",28,0.07096374341493647
+"Steve Ronuken",13,"hyprviper1",29,0.04104903078677309
+"Steve Ronuken",13,"Scott Renton",30,0.12496114392290954
+"Steve Ronuken",13,"Gideon Zendikar",31,0.06675523082032547
+"Steve Ronuken",13,"Aliventi",32,0.032563025210084036
+"Steve Ronuken",13,"KaeL EaglesEye",33,0.05950308593131825
+"Steve Ronuken",13,"Trottel Elf",34,0.03739837398373984
+"Steve Ronuken",13,"Agondray",35,0.04963898916967509
+"Steve Ronuken",13,"Scrapyard Attendant",36,0.027449617790132035
+"Steve Ronuken",13,"Styxx",37,0.049616368286445015
+"Steve Ronuken",13,"TheSupremeMagus",38,0.04154250657318142
+"Steve Ronuken",13,"Furnok Dorn",39,0.010877447425670777
+"Steve Ronuken",13,"Winzentowitsch Madeveda",40,0.14806165343297525
+"Steve Ronuken",13,"Sarin Blackfist",41,0.014844221972900664
+"Steve Ronuken",13,"Kane Carnifex",42,0.019495617957431585
+"Steve Ronuken",13,"Mifune SwordGod",43,0.019572634225175075
+"Steve Ronuken",13,"Redline XIII",44,0.06624959897337183
+"Alasker",14,"Kazanir",1,0.6421503621340406
+"Alasker",14,"Luke Anninan",2,0.036002181950421236
+"Alasker",14,"Angry Mustache",3,0.44308377400500976
+"Alasker",14,"Kenneth Feld",4,0.04477611940298507
+"Alasker",14,"Brisc Rubal",5,0.47338139975238513
+"Alasker",14,"Storm Delay",6,0.050074490978314845
+"Alasker",14,"Pandoralica",7,0.388464133123454
+"Alasker",14,"Arsia Elkin",8,0.06448622199330414
+"Alasker",14,"Mark Resurrectus",9,0.07321348089538784
+"Alasker",14,"Jinx De'Caire",10,0.41941616582852936
+"Alasker",14,"Ithica Hawk",11,0.43700613186674253
+"Alasker",14,"Torvald Uruz",12,0.04788913954237834
+"Alasker",14,"Steve Ronuken",13,0.0740514075887393
+"Alasker",14,"Alasker",14,1.0
+"Alasker",14,"Hy Wanto Destroyer",15,0.04826981589397143
+"Alasker",14,"Stitch Kaneland",16,0.05517106294071559
+"Alasker",14,"Phantomite",17,0.061901852983099165
+"Alasker",14,"Kshal Aideron",18,0.03740697218958088
+"Alasker",14,"Benjamin Rushing",19,0.059443037974683546
+"Alasker",14,"DutchGunner",20,0.01999642920906981
+"Alasker",14,"Drake Iddon",21,0.0457985257985258
+"Alasker",14,"Moce",22,0.01681012658227848
+"Alasker",14,"keacte",23,0.03452751817237799
+"Alasker",14,"Shui Jing Jing",24,0.03522189795712992
+"Alasker",14,"Baldin Tarmain",25,0.019201807228915662
+"Alasker",14,"Nala Queen",26,0.020016594067620824
+"Alasker",14,"Cael Caderu",27,0.6389144905273938
+"Alasker",14,"White 0rchid",28,0.02460978645982955
+"Alasker",14,"hyprviper1",29,0.41587464680195224
+"Alasker",14,"Scott Renton",30,0.05039535105268172
+"Alasker",14,"Gideon Zendikar",31,0.020281746428214606
+"Alasker",14,"Aliventi",32,0.017864649012189995
+"Alasker",14,"KaeL EaglesEye",33,0.013731747413209554
+"Alasker",14,"Trottel Elf",34,0.023658512030605053
+"Alasker",14,"Agondray",35,0.015545685279187817
+"Alasker",14,"Scrapyard Attendant",36,0.015278359146086228
+"Alasker",14,"Styxx",37,0.018226500102396067
+"Alasker",14,"TheSupremeMagus",38,0.015445627217699855
+"Alasker",14,"Furnok Dorn",39,0.013529602770862648
+"Alasker",14,"Winzentowitsch Madeveda",40,0.03822900195330667
+"Alasker",14,"Sarin Blackfist",41,0.6514765243254727
+"Alasker",14,"Kane Carnifex",42,0.01454234388366125
+"Alasker",14,"Mifune SwordGod",43,0.013164936315958472
+"Alasker",14,"Redline XIII",44,0.013697299397707403
+"Hy Wanto Destroyer",15,"Kazanir",1,0.01434493291153049
+"Hy Wanto Destroyer",15,"Luke Anninan",2,0.5329003990298099
+"Hy Wanto Destroyer",15,"Angry Mustache",3,0.15261382799325462
+"Hy Wanto Destroyer",15,"Kenneth Feld",4,0.5466752836421083
+"Hy Wanto Destroyer",15,"Brisc Rubal",5,0.12736831663525444
+"Hy Wanto Destroyer",15,"Storm Delay",6,0.23835929217972765
+"Hy Wanto Destroyer",15,"Pandoralica",7,0.3007939544671896
+"Hy Wanto Destroyer",15,"Arsia Elkin",8,0.4602874432677761
+"Hy Wanto Destroyer",15,"Mark Resurrectus",9,0.48467551805434916
+"Hy Wanto Destroyer",15,"Jinx De'Caire",10,0.29123867069486403
+"Hy Wanto Destroyer",15,"Ithica Hawk",11,0.15664252315027047
+"Hy Wanto Destroyer",15,"Torvald Uruz",12,0.22956407735168796
+"Hy Wanto Destroyer",15,"Steve Ronuken",13,0.08098039215686274
+"Hy Wanto Destroyer",15,"Alasker",14,0.04826981589397143
+"Hy Wanto Destroyer",15,"Hy Wanto Destroyer",15,1.0
+"Hy Wanto Destroyer",15,"Stitch Kaneland",16,0.2062055591467356
+"Hy Wanto Destroyer",15,"Phantomite",17,0.2017485759703272
+"Hy Wanto Destroyer",15,"Kshal Aideron",18,0.012919696735262262
+"Hy Wanto Destroyer",15,"Benjamin Rushing",19,0.021838536739198992
+"Hy Wanto Destroyer",15,"DutchGunner",20,0.021044141369702302
+"Hy Wanto Destroyer",15,"Drake Iddon",21,0.02320510823859212
+"Hy Wanto Destroyer",15,"Moce",22,0.010231209216144364
+"Hy Wanto Destroyer",15,"keacte",23,0.01989839119390347
+"Hy Wanto Destroyer",15,"Shui Jing Jing",24,0.013073449013548847
+"Hy Wanto Destroyer",15,"Baldin Tarmain",25,0.013460076045627377
+"Hy Wanto Destroyer",15,"Nala Queen",26,0.011646981627296589
+"Hy Wanto Destroyer",15,"Cael Caderu",27,0.01436324762896771
+"Hy Wanto Destroyer",15,"White 0rchid",28,0.025643018105524905
+"Hy Wanto Destroyer",15,"hyprviper1",29,0.3114114755849984
+"Hy Wanto Destroyer",15,"Scott Renton",30,0.037511506597115676
+"Hy Wanto Destroyer",15,"Gideon Zendikar",31,0.023512360093405266
+"Hy Wanto Destroyer",15,"Aliventi",32,0.008942618199884077
+"Hy Wanto Destroyer",15,"KaeL EaglesEye",33,0.07707624657761553
+"Hy Wanto Destroyer",15,"Trottel Elf",34,0.05893663267012205
+"Hy Wanto Destroyer",15,"Agondray",35,0.006570739416119105
+"Hy Wanto Destroyer",15,"Scrapyard Attendant",36,0.013035536366655597
+"Hy Wanto Destroyer",15,"Styxx",37,0.013108614232209739
+"Hy Wanto Destroyer",15,"TheSupremeMagus",38,0.008826926249793763
+"Hy Wanto Destroyer",15,"Furnok Dorn",39,0.006106352302603681
+"Hy Wanto Destroyer",15,"Winzentowitsch Madeveda",40,0.015536723163841809
+"Hy Wanto Destroyer",15,"Sarin Blackfist",41,0.0064696040156162855
+"Hy Wanto Destroyer",15,"Kane Carnifex",42,0.011475824824909291
+"Hy Wanto Destroyer",15,"Mifune SwordGod",43,0.009023444088379153
+"Hy Wanto Destroyer",15,"Redline XIII",44,0.07675657675657675
+"Stitch Kaneland",16,"Kazanir",1,0.010079092881640652
+"Stitch Kaneland",16,"Luke Anninan",2,0.18606796862986313
+"Stitch Kaneland",16,"Angry Mustache",3,0.19072293669621676
+"Stitch Kaneland",16,"Kenneth Feld",4,0.06739985254362252
+"Stitch Kaneland",16,"Brisc Rubal",5,0.1539035305818001
+"Stitch Kaneland",16,"Storm Delay",6,0.029329348029142537
+"Stitch Kaneland",16,"Pandoralica",7,0.22401147959183673
+"Stitch Kaneland",16,"Arsia Elkin",8,0.3423767132965946
+"Stitch Kaneland",16,"Mark Resurrectus",9,0.4056899004267425
+"Stitch Kaneland",16,"Jinx De'Caire",10,0.1813431604422199
+"Stitch Kaneland",16,"Ithica Hawk",11,0.23853480714957667
+"Stitch Kaneland",16,"Torvald Uruz",12,0.2536300369447547
+"Stitch Kaneland",16,"Steve Ronuken",13,0.19812142926309673
+"Stitch Kaneland",16,"Alasker",14,0.05517106294071559
+"Stitch Kaneland",16,"Hy Wanto Destroyer",15,0.2062055591467356
+"Stitch Kaneland",16,"Stitch Kaneland",16,1.0
+"Stitch Kaneland",16,"Phantomite",17,0.24803571428571428
+"Stitch Kaneland",16,"Kshal Aideron",18,0.02988001845869866
+"Stitch Kaneland",16,"Benjamin Rushing",19,0.019119351100811123
+"Stitch Kaneland",16,"DutchGunner",20,0.11556927297668039
+"Stitch Kaneland",16,"Drake Iddon",21,0.10913360524039056
+"Stitch Kaneland",16,"Moce",22,0.019106729950103443
+"Stitch Kaneland",16,"keacte",23,0.17322385676816057
+"Stitch Kaneland",16,"Shui Jing Jing",24,0.019153464175928114
+"Stitch Kaneland",16,"Baldin Tarmain",25,0.09163489037178266
+"Stitch Kaneland",16,"Nala Queen",26,0.010265924551638838
+"Stitch Kaneland",16,"Cael Caderu",27,0.05582148906399587
+"Stitch Kaneland",16,"White 0rchid",28,0.08153735632183907
+"Stitch Kaneland",16,"hyprviper1",29,0.10406283856988083
+"Stitch Kaneland",16,"Scott Renton",30,0.09718640093786636
+"Stitch Kaneland",16,"Gideon Zendikar",31,0.06639211281667291
+"Stitch Kaneland",16,"Aliventi",32,0.021658810039495477
+"Stitch Kaneland",16,"KaeL EaglesEye",33,0.016956973122620834
+"Stitch Kaneland",16,"Trottel Elf",34,0.030049678904640737
+"Stitch Kaneland",16,"Agondray",35,0.018480492813141684
+"Stitch Kaneland",16,"Scrapyard Attendant",36,0.021744659206510683
+"Stitch Kaneland",16,"Styxx",37,0.02122146822948797
+"Stitch Kaneland",16,"TheSupremeMagus",38,0.022833946467081062
+"Stitch Kaneland",16,"Furnok Dorn",39,0.006670154329060947
+"Stitch Kaneland",16,"Winzentowitsch Madeveda",40,0.188360450563204
+"Stitch Kaneland",16,"Sarin Blackfist",41,0.006453484156333841
+"Stitch Kaneland",16,"Kane Carnifex",42,0.013345426276237367
+"Stitch Kaneland",16,"Mifune SwordGod",43,0.008926261319534282
+"Stitch Kaneland",16,"Redline XIII",44,0.024059799112356926
+"Phantomite",17,"Kazanir",1,0.017475870137467094
+"Phantomite",17,"Luke Anninan",2,0.02221308103661045
+"Phantomite",17,"Angry Mustache",3,0.07043147208121828
+"Phantomite",17,"Kenneth Feld",4,0.25498808814770696
+"Phantomite",17,"Brisc Rubal",5,0.07575847886988138
+"Phantomite",17,"Storm Delay",6,0.3045206159960258
+"Phantomite",17,"Pandoralica",7,0.11886895592108533
+"Phantomite",17,"Arsia Elkin",8,0.1480745341614907
+"Phantomite",17,"Mark Resurrectus",9,0.34394637620444074
+"Phantomite",17,"Jinx De'Caire",10,0.06481763689931931
+"Phantomite",17,"Ithica Hawk",11,0.18458523087565573
+"Phantomite",17,"Torvald Uruz",12,0.3707635372029607
+"Phantomite",17,"Steve Ronuken",13,0.2500790722192936
+"Phantomite",17,"Alasker",14,0.061901852983099165
+"Phantomite",17,"Hy Wanto Destroyer",15,0.2017485759703272
+"Phantomite",17,"Stitch Kaneland",16,0.24803571428571428
+"Phantomite",17,"Phantomite",17,1.0
+"Phantomite",17,"Kshal Aideron",18,0.05852001006795872
+"Phantomite",17,"Benjamin Rushing",19,0.03358302122347066
+"Phantomite",17,"DutchGunner",20,0.07414294015107496
+"Phantomite",17,"Drake Iddon",21,0.12264401380408814
+"Phantomite",17,"Moce",22,0.024644673360281654
+"Phantomite",17,"keacte",23,0.1343006384213581
+"Phantomite",17,"Shui Jing Jing",24,0.028818077948457536
+"Phantomite",17,"Baldin Tarmain",25,0.060085836909871244
+"Phantomite",17,"Nala Queen",26,0.02231128924515698
+"Phantomite",17,"Cael Caderu",27,0.05254740689970299
+"Phantomite",17,"White 0rchid",28,0.09726874516877093
+"Phantomite",17,"hyprviper1",29,0.11745513866231648
+"Phantomite",17,"Scott Renton",30,0.035965323336457355
+"Phantomite",17,"Gideon Zendikar",31,0.07096171802054155
+"Phantomite",17,"Aliventi",32,0.03318645001377031
+"Phantomite",17,"KaeL EaglesEye",33,0.10932905640203154
+"Phantomite",17,"Trottel Elf",34,0.07195596724392536
+"Phantomite",17,"Agondray",35,0.02443738782272539
+"Phantomite",17,"Scrapyard Attendant",36,0.033397471137987904
+"Phantomite",17,"Styxx",37,0.03136212624584717
+"Phantomite",17,"TheSupremeMagus",38,0.021797996209044136
+"Phantomite",17,"Furnok Dorn",39,0.01041226959335866
+"Phantomite",17,"Winzentowitsch Madeveda",40,0.11332920024798512
+"Phantomite",17,"Sarin Blackfist",41,0.010281221651043242
+"Phantomite",17,"Kane Carnifex",42,0.026704146170063246
+"Phantomite",17,"Mifune SwordGod",43,0.01803187028235952
+"Phantomite",17,"Redline XIII",44,0.10100066711140761
+"Kshal Aideron",18,"Kazanir",1,0.01337601463358866
+"Kshal Aideron",18,"Luke Anninan",2,0.013257965056526207
+"Kshal Aideron",18,"Angry Mustache",3,0.03740686688685767
+"Kshal Aideron",18,"Kenneth Feld",4,0.040726375176304654
+"Kshal Aideron",18,"Brisc Rubal",5,0.02266110630262019
+"Kshal Aideron",18,"Storm Delay",6,0.021352313167259787
+"Kshal Aideron",18,"Pandoralica",7,0.01718213058419244
+"Kshal Aideron",18,"Arsia Elkin",8,0.0653501467205964
+"Kshal Aideron",18,"Mark Resurrectus",9,0.047053617523416184
+"Kshal Aideron",18,"Jinx De'Caire",10,0.030438443106016448
+"Kshal Aideron",18,"Ithica Hawk",11,0.018466189130577643
+"Kshal Aideron",18,"Torvald Uruz",12,0.08552869000360881
+"Kshal Aideron",18,"Steve Ronuken",13,0.09862792574656981
+"Kshal Aideron",18,"Alasker",14,0.03740697218958088
+"Kshal Aideron",18,"Hy Wanto Destroyer",15,0.012919696735262262
+"Kshal Aideron",18,"Stitch Kaneland",16,0.02988001845869866
+"Kshal Aideron",18,"Phantomite",17,0.05852001006795872
+"Kshal Aideron",18,"Kshal Aideron",18,1.0
+"Kshal Aideron",18,"Benjamin Rushing",19,0.11541119557705598
+"Kshal Aideron",18,"DutchGunner",20,0.11016949152542373
+"Kshal Aideron",18,"Drake Iddon",21,0.04253365973072215
+"Kshal Aideron",18,"Moce",22,0.07055682684973302
+"Kshal Aideron",18,"keacte",23,0.19247284667845416
+"Kshal Aideron",18,"Shui Jing Jing",24,0.14344569288389514
+"Kshal Aideron",18,"Baldin Tarmain",25,0.06741906741906742
+"Kshal Aideron",18,"Nala Queen",26,0.05090909090909091
+"Kshal Aideron",18,"Cael Caderu",27,0.013872832369942197
+"Kshal Aideron",18,"White 0rchid",28,0.08448060075093868
+"Kshal Aideron",18,"hyprviper1",29,0.03377529658060014
+"Kshal Aideron",18,"Scott Renton",30,0.06278026905829596
+"Kshal Aideron",18,"Gideon Zendikar",31,0.0460133473832104
+"Kshal Aideron",18,"Aliventi",32,0.04562899786780384
+"Kshal Aideron",18,"KaeL EaglesEye",33,0.04368776100224864
+"Kshal Aideron",18,"Trottel Elf",34,0.035285815102328866
+"Kshal Aideron",18,"Agondray",35,0.06280843427545985
+"Kshal Aideron",18,"Scrapyard Attendant",36,0.04531977975434138
+"Kshal Aideron",18,"Styxx",37,0.08356657337065174
+"Kshal Aideron",18,"TheSupremeMagus",38,0.04522613065326633
+"Kshal Aideron",18,"Furnok Dorn",39,0.023546371936568958
+"Kshal Aideron",18,"Winzentowitsch Madeveda",40,0.04052980132450331
+"Kshal Aideron",18,"Sarin Blackfist",41,0.011806231742940603
+"Kshal Aideron",18,"Kane Carnifex",42,0.03679852805887764
+"Kshal Aideron",18,"Mifune SwordGod",43,0.02244617498854787
+"Kshal Aideron",18,"Redline XIII",44,0.03258064516129032
+"Benjamin Rushing",19,"Kazanir",1,0.03680835905960579
+"Benjamin Rushing",19,"Luke Anninan",2,0.011858941017372308
+"Benjamin Rushing",19,"Angry Mustache",3,0.03266157053509382
+"Benjamin Rushing",19,"Kenneth Feld",4,0.02673702726473175
+"Benjamin Rushing",19,"Brisc Rubal",5,0.03641343752517522
+"Benjamin Rushing",19,"Storm Delay",6,0.03501264345458082
+"Benjamin Rushing",19,"Pandoralica",7,0.027385892116182572
+"Benjamin Rushing",19,"Arsia Elkin",8,0.04076682316118936
+"Benjamin Rushing",19,"Mark Resurrectus",9,0.0354093050647821
+"Benjamin Rushing",19,"Jinx De'Caire",10,0.027813965607087026
+"Benjamin Rushing",19,"Ithica Hawk",11,0.029754724567752314
+"Benjamin Rushing",19,"Torvald Uruz",12,0.04870857412430711
+"Benjamin Rushing",19,"Steve Ronuken",13,0.051023622047244095
+"Benjamin Rushing",19,"Alasker",14,0.059443037974683546
+"Benjamin Rushing",19,"Hy Wanto Destroyer",15,0.021838536739198992
+"Benjamin Rushing",19,"Stitch Kaneland",16,0.019119351100811123
+"Benjamin Rushing",19,"Phantomite",17,0.03358302122347066
+"Benjamin Rushing",19,"Kshal Aideron",18,0.11541119557705598
+"Benjamin Rushing",19,"Benjamin Rushing",19,1.0
+"Benjamin Rushing",19,"DutchGunner",20,0.052358735095904614
+"Benjamin Rushing",19,"Drake Iddon",21,0.03279722485020498
+"Benjamin Rushing",19,"Moce",22,0.05066771406127259
+"Benjamin Rushing",19,"keacte",23,0.07748297722470063
+"Benjamin Rushing",19,"Shui Jing Jing",24,0.06372906045156591
+"Benjamin Rushing",19,"Baldin Tarmain",25,0.06884841000308738
+"Benjamin Rushing",19,"Nala Queen",26,0.056934931506849314
+"Benjamin Rushing",19,"Cael Caderu",27,0.024916943521594685
+"Benjamin Rushing",19,"White 0rchid",28,0.051735015772870666
+"Benjamin Rushing",19,"hyprviper1",29,0.028727578475336323
+"Benjamin Rushing",19,"Scott Renton",30,0.03389830508474576
+"Benjamin Rushing",19,"Gideon Zendikar",31,0.06154419992540097
+"Benjamin Rushing",19,"Aliventi",32,0.04129263913824058
+"Benjamin Rushing",19,"KaeL EaglesEye",33,0.047379032258064516
+"Benjamin Rushing",19,"Trottel Elf",34,0.048652694610778445
+"Benjamin Rushing",19,"Agondray",35,0.04191895668374476
+"Benjamin Rushing",19,"Scrapyard Attendant",36,0.05510388437217705
+"Benjamin Rushing",19,"Styxx",37,0.05310457516339869
+"Benjamin Rushing",19,"TheSupremeMagus",38,0.04601769911504425
+"Benjamin Rushing",19,"Furnok Dorn",39,0.04279749478079332
+"Benjamin Rushing",19,"Winzentowitsch Madeveda",40,0.04515418502202643
+"Benjamin Rushing",19,"Sarin Blackfist",41,0.02944507361268403
+"Benjamin Rushing",19,"Kane Carnifex",42,0.046351084812623275
+"Benjamin Rushing",19,"Mifune SwordGod",43,0.03346456692913386
+"Benjamin Rushing",19,"Redline XIII",44,0.044232732221844165
+"DutchGunner",20,"Kazanir",1,0.011791714494417196
+"DutchGunner",20,"Luke Anninan",2,0.012788935202728306
+"DutchGunner",20,"Angry Mustache",3,0.041249092229484384
+"DutchGunner",20,"Kenneth Feld",4,0.04862263524726187
+"DutchGunner",20,"Brisc Rubal",5,0.03394392523364486
+"DutchGunner",20,"Storm Delay",6,0.035761371127224786
+"DutchGunner",20,"Pandoralica",7,0.027403414195867025
+"DutchGunner",20,"Arsia Elkin",8,0.10401671697237055
+"DutchGunner",20,"Mark Resurrectus",9,0.07572829432395677
+"DutchGunner",20,"Jinx De'Caire",10,0.02128827619860925
+"DutchGunner",20,"Ithica Hawk",11,0.07441279031515231
+"DutchGunner",20,"Torvald Uruz",12,0.15558682143275882
+"DutchGunner",20,"Steve Ronuken",13,0.14136282127913927
+"DutchGunner",20,"Alasker",14,0.01999642920906981
+"DutchGunner",20,"Hy Wanto Destroyer",15,0.021044141369702302
+"DutchGunner",20,"Stitch Kaneland",16,0.11556927297668039
+"DutchGunner",20,"Phantomite",17,0.07414294015107496
+"DutchGunner",20,"Kshal Aideron",18,0.11016949152542373
+"DutchGunner",20,"Benjamin Rushing",19,0.052358735095904614
+"DutchGunner",20,"DutchGunner",20,1.0
+"DutchGunner",20,"Drake Iddon",21,0.0677581863979849
+"DutchGunner",20,"Moce",22,0.07662721893491124
+"DutchGunner",20,"keacte",23,0.20586319218241042
+"DutchGunner",20,"Shui Jing Jing",24,0.10620728929384966
+"DutchGunner",20,"Baldin Tarmain",25,0.20468154599891128
+"DutchGunner",20,"Nala Queen",26,0.0501682471703885
+"DutchGunner",20,"Cael Caderu",27,0.02159804234493031
+"DutchGunner",20,"White 0rchid",28,0.08975659229208925
+"DutchGunner",20,"hyprviper1",29,0.013867288750648004
+"DutchGunner",20,"Scott Renton",30,0.2063657709366032
+"DutchGunner",20,"Gideon Zendikar",31,0.045841339555311555
+"DutchGunner",20,"Aliventi",32,0.045859872611464965
+"DutchGunner",20,"KaeL EaglesEye",33,0.05180412371134021
+"DutchGunner",20,"Trottel Elf",34,0.045240077713016934
+"DutchGunner",20,"Agondray",35,0.05504284772577456
+"DutchGunner",20,"Scrapyard Attendant",36,0.053976365378473334
+"DutchGunner",20,"Styxx",37,0.08517156862745098
+"DutchGunner",20,"TheSupremeMagus",38,0.05083675402589201
+"DutchGunner",20,"Furnok Dorn",39,0.02243700379703141
+"DutchGunner",20,"Winzentowitsch Madeveda",40,0.19808708784293985
+"DutchGunner",20,"Sarin Blackfist",41,0.01318413472191447
+"DutchGunner",20,"Kane Carnifex",42,0.036614040980853205
+"DutchGunner",20,"Mifune SwordGod",43,0.025435073627844713
+"DutchGunner",20,"Redline XIII",44,0.04050567595459236
+"Drake Iddon",21,"Kazanir",1,0.009745042492917848
+"Drake Iddon",21,"Luke Anninan",2,0.011745480543356144
+"Drake Iddon",21,"Angry Mustache",3,0.022482082233119576
+"Drake Iddon",21,"Kenneth Feld",4,0.019788350683988643
+"Drake Iddon",21,"Brisc Rubal",5,0.02757208129825114
+"Drake Iddon",21,"Storm Delay",6,0.02535421327367636
+"Drake Iddon",21,"Pandoralica",7,0.031211353866085624
+"Drake Iddon",21,"Arsia Elkin",8,0.05559906029757244
+"Drake Iddon",21,"Mark Resurrectus",9,0.06592830951133727
+"Drake Iddon",21,"Jinx De'Caire",10,0.02498554820476588
+"Drake Iddon",21,"Ithica Hawk",11,0.06458019449390494
+"Drake Iddon",21,"Torvald Uruz",12,0.07769989307354164
+"Drake Iddon",21,"Steve Ronuken",13,0.12602694709168583
+"Drake Iddon",21,"Alasker",14,0.0457985257985258
+"Drake Iddon",21,"Hy Wanto Destroyer",15,0.02320510823859212
+"Drake Iddon",21,"Stitch Kaneland",16,0.10913360524039056
+"Drake Iddon",21,"Phantomite",17,0.12264401380408814
+"Drake Iddon",21,"Kshal Aideron",18,0.04253365973072215
+"Drake Iddon",21,"Benjamin Rushing",19,0.03279722485020498
+"Drake Iddon",21,"DutchGunner",20,0.0677581863979849
+"Drake Iddon",21,"Drake Iddon",21,1.0
+"Drake Iddon",21,"Moce",22,0.040846097738876735
+"Drake Iddon",21,"keacte",23,0.08166969147005444
+"Drake Iddon",21,"Shui Jing Jing",24,0.04659014179608373
+"Drake Iddon",21,"Baldin Tarmain",25,0.06337616822429906
+"Drake Iddon",21,"Nala Queen",26,0.03316426063207179
+"Drake Iddon",21,"Cael Caderu",27,0.04516358463726885
+"Drake Iddon",21,"White 0rchid",28,0.08059058751153492
+"Drake Iddon",21,"hyprviper1",29,0.01122754491017964
+"Drake Iddon",21,"Scott Renton",30,0.04491017964071856
+"Drake Iddon",21,"Gideon Zendikar",31,0.06028741675429373
+"Drake Iddon",21,"Aliventi",32,0.05621301775147929
+"Drake Iddon",21,"KaeL EaglesEye",33,0.030644152595372107
+"Drake Iddon",21,"Trottel Elf",34,0.05372923294450336
+"Drake Iddon",21,"Agondray",35,0.052723311546840956
+"Drake Iddon",21,"Scrapyard Attendant",36,0.0549496644295302
+"Drake Iddon",21,"Styxx",37,0.04789053591790194
+"Drake Iddon",21,"TheSupremeMagus",38,0.03965658217497956
+"Drake Iddon",21,"Furnok Dorn",39,0.019672131147540985
+"Drake Iddon",21,"Winzentowitsch Madeveda",40,0.09715705216671267
+"Drake Iddon",21,"Sarin Blackfist",41,0.008687258687258687
+"Drake Iddon",21,"Kane Carnifex",42,0.032764811490125674
+"Drake Iddon",21,"Mifune SwordGod",43,0.021515015688032272
+"Drake Iddon",21,"Redline XIII",44,0.028173472617917063
+"Moce",22,"Kazanir",1,0.011932302447339584
+"Moce",22,"Luke Anninan",2,0.01020408163265306
+"Moce",22,"Angry Mustache",3,0.017277939213068406
+"Moce",22,"Kenneth Feld",4,0.03590168461750898
+"Moce",22,"Brisc Rubal",5,0.016417544719431514
+"Moce",22,"Storm Delay",6,0.049025904517233994
+"Moce",22,"Pandoralica",7,0.010335762934639742
+"Moce",22,"Arsia Elkin",8,0.020763987953716912
+"Moce",22,"Mark Resurrectus",9,0.018057006416952695
+"Moce",22,"Jinx De'Caire",10,0.013997094942559091
+"Moce",22,"Ithica Hawk",11,0.011232153731646256
+"Moce",22,"Torvald Uruz",12,0.03304878048780488
+"Moce",22,"Steve Ronuken",13,0.050041981528127624
+"Moce",22,"Alasker",14,0.01681012658227848
+"Moce",22,"Hy Wanto Destroyer",15,0.010231209216144364
+"Moce",22,"Stitch Kaneland",16,0.019106729950103443
+"Moce",22,"Phantomite",17,0.024644673360281654
+"Moce",22,"Kshal Aideron",18,0.07055682684973302
+"Moce",22,"Benjamin Rushing",19,0.05066771406127259
+"Moce",22,"DutchGunner",20,0.07662721893491124
+"Moce",22,"Drake Iddon",21,0.040846097738876735
+"Moce",22,"Moce",22,1.0
+"Moce",22,"keacte",23,0.0538558786346397
+"Moce",22,"Shui Jing Jing",24,0.0702054794520548
+"Moce",22,"Baldin Tarmain",25,0.06626928471248247
+"Moce",22,"Nala Queen",26,0.12157721796276014
+"Moce",22,"Cael Caderu",27,0.010452533202164289
+"Moce",22,"White 0rchid",28,0.05773420479302832
+"Moce",22,"hyprviper1",29,0.010630004960668982
+"Moce",22,"Scott Renton",30,0.047203362431296476
+"Moce",22,"Gideon Zendikar",31,0.03632478632478633
+"Moce",22,"Aliventi",32,0.06565656565656566
+"Moce",22,"KaeL EaglesEye",33,0.04821150855365474
+"Moce",22,"Trottel Elf",34,0.029844290657439446
+"Moce",22,"Agondray",35,0.06635349383440986
+"Moce",22,"Scrapyard Attendant",36,0.050466264399341744
+"Moce",22,"Styxx",37,0.08664987405541562
+"Moce",22,"TheSupremeMagus",38,0.06875687568756876
+"Moce",22,"Furnok Dorn",39,0.03206806282722513
+"Moce",22,"Winzentowitsch Madeveda",40,0.033690658499234305
+"Moce",22,"Sarin Blackfist",41,0.010153605831814632
+"Moce",22,"Kane Carnifex",42,0.03719512195121951
+"Moce",22,"Mifune SwordGod",43,0.0383426097711812
+"Moce",22,"Redline XIII",44,0.05037683458944863
+"keacte",23,"Kazanir",1,0.011574990106846062
+"keacte",23,"Luke Anninan",2,0.012178619756427604
+"keacte",23,"Angry Mustache",3,0.03914167889844132
+"keacte",23,"Kenneth Feld",4,0.06875
+"keacte",23,"Brisc Rubal",5,0.030281285878300805
+"keacte",23,"Storm Delay",6,0.027907678382863177
+"keacte",23,"Pandoralica",7,0.0363906628495926
+"keacte",23,"Arsia Elkin",8,0.14354177939244028
+"keacte",23,"Mark Resurrectus",9,0.13223200640419183
+"keacte",23,"Jinx De'Caire",10,0.04901305800182205
+"keacte",23,"Ithica Hawk",11,0.09559396932674812
+"keacte",23,"Torvald Uruz",12,0.17904178019981834
+"keacte",23,"Steve Ronuken",13,0.12975515285655
+"keacte",23,"Alasker",14,0.03452751817237799
+"keacte",23,"Hy Wanto Destroyer",15,0.01989839119390347
+"keacte",23,"Stitch Kaneland",16,0.17322385676816057
+"keacte",23,"Phantomite",17,0.1343006384213581
+"keacte",23,"Kshal Aideron",18,0.19247284667845416
+"keacte",23,"Benjamin Rushing",19,0.07748297722470063
+"keacte",23,"DutchGunner",20,0.20586319218241042
+"keacte",23,"Drake Iddon",21,0.08166969147005444
+"keacte",23,"Moce",22,0.0538558786346397
+"keacte",23,"keacte",23,1.0
+"keacte",23,"Shui Jing Jing",24,0.05346062052505966
+"keacte",23,"Baldin Tarmain",25,0.19340077071290945
+"keacte",23,"Nala Queen",26,0.022979602375419572
+"keacte",23,"Cael Caderu",27,0.024678871245069282
+"keacte",23,"White 0rchid",28,0.1397874852420307
+"keacte",23,"hyprviper1",29,0.03235894817462344
+"keacte",23,"Scott Renton",30,0.18160972254070168
+"keacte",23,"Gideon Zendikar",31,0.09543044685685433
+"keacte",23,"Aliventi",32,0.05799112097669257
+"keacte",23,"KaeL EaglesEye",33,0.04180790960451977
+"keacte",23,"Trottel Elf",34,0.02824994014843189
+"keacte",23,"Agondray",35,0.04481792717086835
+"keacte",23,"Scrapyard Attendant",36,0.051923076923076926
+"keacte",23,"Styxx",37,0.04304381245196003
+"keacte",23,"TheSupremeMagus",38,0.04923830250272035
+"keacte",23,"Furnok Dorn",39,0.01837806301050175
+"keacte",23,"Winzentowitsch Madeveda",40,0.16780746301611835
+"keacte",23,"Sarin Blackfist",41,0.01171303074670571
+"keacte",23,"Kane Carnifex",42,0.02465986394557823
+"keacte",23,"Mifune SwordGod",43,0.016982734220209454
+"keacte",23,"Redline XIII",44,0.027708943455733274
+"Shui Jing Jing",24,"Kazanir",1,0.01869047619047619
+"Shui Jing Jing",24,"Luke Anninan",2,0.023355474608956504
+"Shui Jing Jing",24,"Angry Mustache",3,0.0257227230338825
+"Shui Jing Jing",24,"Kenneth Feld",4,0.03800324968405849
+"Shui Jing Jing",24,"Brisc Rubal",5,0.019522776572668113
+"Shui Jing Jing",24,"Storm Delay",6,0.04998979800040808
+"Shui Jing Jing",24,"Pandoralica",7,0.019732540861812777
+"Shui Jing Jing",24,"Arsia Elkin",8,0.040259946108733555
+"Shui Jing Jing",24,"Mark Resurrectus",9,0.021624007060900265
+"Shui Jing Jing",24,"Jinx De'Caire",10,0.02341444218534794
+"Shui Jing Jing",24,"Ithica Hawk",11,0.01165423548215237
+"Shui Jing Jing",24,"Torvald Uruz",12,0.03588829471182412
+"Shui Jing Jing",24,"Steve Ronuken",13,0.08624435901721544
+"Shui Jing Jing",24,"Alasker",14,0.03522189795712992
+"Shui Jing Jing",24,"Hy Wanto Destroyer",15,0.013073449013548847
+"Shui Jing Jing",24,"Stitch Kaneland",16,0.019153464175928114
+"Shui Jing Jing",24,"Phantomite",17,0.028818077948457536
+"Shui Jing Jing",24,"Kshal Aideron",18,0.14344569288389514
+"Shui Jing Jing",24,"Benjamin Rushing",19,0.06372906045156591
+"Shui Jing Jing",24,"DutchGunner",20,0.10620728929384966
+"Shui Jing Jing",24,"Drake Iddon",21,0.04659014179608373
+"Shui Jing Jing",24,"Moce",22,0.0702054794520548
+"Shui Jing Jing",24,"keacte",23,0.05346062052505966
+"Shui Jing Jing",24,"Shui Jing Jing",24,1.0
+"Shui Jing Jing",24,"Baldin Tarmain",25,0.09457209457209458
+"Shui Jing Jing",24,"Nala Queen",26,0.1039461020211742
+"Shui Jing Jing",24,"Cael Caderu",27,0.010748835542816195
+"Shui Jing Jing",24,"White 0rchid",28,0.10261780104712041
+"Shui Jing Jing",24,"hyprviper1",29,0.012210438180295841
+"Shui Jing Jing",24,"Scott Renton",30,0.0866853757405675
+"Shui Jing Jing",24,"Gideon Zendikar",31,0.042951971885982036
+"Shui Jing Jing",24,"Aliventi",32,0.06293359762140734
+"Shui Jing Jing",24,"KaeL EaglesEye",33,0.04141592920353982
+"Shui Jing Jing",24,"Trottel Elf",34,0.06098546042003231
+"Shui Jing Jing",24,"Agondray",35,0.10622317596566523
+"Shui Jing Jing",24,"Scrapyard Attendant",36,0.061394891944990176
+"Shui Jing Jing",24,"Styxx",37,0.12184873949579832
+"Shui Jing Jing",24,"TheSupremeMagus",38,0.06520681265206812
+"Shui Jing Jing",24,"Furnok Dorn",39,0.038154897494305236
+"Shui Jing Jing",24,"Winzentowitsch Madeveda",40,0.057843996494303246
+"Shui Jing Jing",24,"Sarin Blackfist",41,0.016764033528067056
+"Shui Jing Jing",24,"Kane Carnifex",42,0.06978021978021978
+"Shui Jing Jing",24,"Mifune SwordGod",43,0.04279523293607801
+"Shui Jing Jing",24,"Redline XIII",44,0.03468001430103682
+"Baldin Tarmain",25,"Kazanir",1,0.019612238036534797
+"Baldin Tarmain",25,"Luke Anninan",2,0.010007004903432403
+"Baldin Tarmain",25,"Angry Mustache",3,0.032461677186654644
+"Baldin Tarmain",25,"Kenneth Feld",4,0.047229712098808385
+"Baldin Tarmain",25,"Brisc Rubal",5,0.020989273863724053
+"Baldin Tarmain",25,"Storm Delay",6,0.022473930240920533
+"Baldin Tarmain",25,"Pandoralica",7,0.01976375684240853
+"Baldin Tarmain",25,"Arsia Elkin",8,0.07817923635216156
+"Baldin Tarmain",25,"Mark Resurrectus",9,0.0633704222238597
+"Baldin Tarmain",25,"Jinx De'Caire",10,0.021512179689971527
+"Baldin Tarmain",25,"Ithica Hawk",11,0.06412337662337662
+"Baldin Tarmain",25,"Torvald Uruz",12,0.09835093130857753
+"Baldin Tarmain",25,"Steve Ronuken",13,0.10518053375196232
+"Baldin Tarmain",25,"Alasker",14,0.019201807228915662
+"Baldin Tarmain",25,"Hy Wanto Destroyer",15,0.013460076045627377
+"Baldin Tarmain",25,"Stitch Kaneland",16,0.09163489037178266
+"Baldin Tarmain",25,"Phantomite",17,0.060085836909871244
+"Baldin Tarmain",25,"Kshal Aideron",18,0.06741906741906742
+"Baldin Tarmain",25,"Benjamin Rushing",19,0.06884841000308738
+"Baldin Tarmain",25,"DutchGunner",20,0.20468154599891128
+"Baldin Tarmain",25,"Drake Iddon",21,0.06337616822429906
+"Baldin Tarmain",25,"Moce",22,0.06626928471248247
+"Baldin Tarmain",25,"keacte",23,0.19340077071290945
+"Baldin Tarmain",25,"Shui Jing Jing",24,0.09457209457209458
+"Baldin Tarmain",25,"Baldin Tarmain",25,1.0
+"Baldin Tarmain",25,"Nala Queen",26,0.026801883375588555
+"Baldin Tarmain",25,"Cael Caderu",27,0.014878268710550046
+"Baldin Tarmain",25,"White 0rchid",28,0.059868232598109423
+"Baldin Tarmain",25,"hyprviper1",29,0.01847715736040609
+"Baldin Tarmain",25,"Scott Renton",30,0.19395017793594305
+"Baldin Tarmain",25,"Gideon Zendikar",31,0.048645119164218084
+"Baldin Tarmain",25,"Aliventi",32,0.06334125098970704
+"Baldin Tarmain",25,"KaeL EaglesEye",33,0.032
+"Baldin Tarmain",25,"Trottel Elf",34,0.04658077304261645
+"Baldin Tarmain",25,"Agondray",35,0.05813008130081301
+"Baldin Tarmain",25,"Scrapyard Attendant",36,0.03247993886129155
+"Baldin Tarmain",25,"Styxx",37,0.06512301013024602
+"Baldin Tarmain",25,"TheSupremeMagus",38,0.05324074074074074
+"Baldin Tarmain",25,"Furnok Dorn",39,0.017649591046061126
+"Baldin Tarmain",25,"Winzentowitsch Madeveda",40,0.16811675554308167
+"Baldin Tarmain",25,"Sarin Blackfist",41,0.013999288171787876
+"Baldin Tarmain",25,"Kane Carnifex",42,0.023447141094199916
+"Baldin Tarmain",25,"Mifune SwordGod",43,0.02921535893155259
+"Baldin Tarmain",25,"Redline XIII",44,0.029985007496251874
+"Nala Queen",26,"Kazanir",1,0.009968847352024923
+"Nala Queen",26,"Luke Anninan",2,0.010437486120364202
+"Nala Queen",26,"Angry Mustache",3,0.011666666666666667
+"Nala Queen",26,"Kenneth Feld",4,0.025910104011887074
+"Nala Queen",26,"Brisc Rubal",5,0.014591278394959377
+"Nala Queen",26,"Storm Delay",6,0.06007226738934056
+"Nala Queen",26,"Pandoralica",7,0.01537806953561877
+"Nala Queen",26,"Arsia Elkin",8,0.01595190380761523
+"Nala Queen",26,"Mark Resurrectus",9,0.011516748212269477
+"Nala Queen",26,"Jinx De'Caire",10,0.011077005204857868
+"Nala Queen",26,"Ithica Hawk",11,0.009036763195728076
+"Nala Queen",26,"Torvald Uruz",12,0.024290494485066302
+"Nala Queen",26,"Steve Ronuken",13,0.027178528962119926
+"Nala Queen",26,"Alasker",14,0.020016594067620824
+"Nala Queen",26,"Hy Wanto Destroyer",15,0.011646981627296589
+"Nala Queen",26,"Stitch Kaneland",16,0.010265924551638838
+"Nala Queen",26,"Phantomite",17,0.02231128924515698
+"Nala Queen",26,"Kshal Aideron",18,0.05090909090909091
+"Nala Queen",26,"Benjamin Rushing",19,0.056934931506849314
+"Nala Queen",26,"DutchGunner",20,0.0501682471703885
+"Nala Queen",26,"Drake Iddon",21,0.03316426063207179
+"Nala Queen",26,"Moce",22,0.12157721796276014
+"Nala Queen",26,"keacte",23,0.022979602375419572
+"Nala Queen",26,"Shui Jing Jing",24,0.1039461020211742
+"Nala Queen",26,"Baldin Tarmain",25,0.026801883375588555
+"Nala Queen",26,"Nala Queen",26,1.0
+"Nala Queen",26,"Cael Caderu",27,0.007166205682675383
+"Nala Queen",26,"White 0rchid",28,0.06658786446020488
+"Nala Queen",26,"hyprviper1",29,0.00926324859974149
+"Nala Queen",26,"Scott Renton",30,0.028833107191316147
+"Nala Queen",26,"Gideon Zendikar",31,0.06121472979435677
+"Nala Queen",26,"Aliventi",32,0.053515868077162417
+"Nala Queen",26,"KaeL EaglesEye",33,0.049747048903878585
+"Nala Queen",26,"Trottel Elf",34,0.07619990103908957
+"Nala Queen",26,"Agondray",35,0.050913838120104436
+"Nala Queen",26,"Scrapyard Attendant",36,0.066126013724267
+"Nala Queen",26,"Styxx",37,0.0790929203539823
+"Nala Queen",26,"TheSupremeMagus",38,0.04828002414001207
+"Nala Queen",26,"Furnok Dorn",39,0.0481651376146789
+"Nala Queen",26,"Winzentowitsch Madeveda",40,0.045874587458745876
+"Nala Queen",26,"Sarin Blackfist",41,0.010028078620136383
+"Nala Queen",26,"Kane Carnifex",42,0.10822831727205337
+"Nala Queen",26,"Mifune SwordGod",43,0.0454222853087296
+"Nala Queen",26,"Redline XIII",44,0.04582441113490364
+"Cael Caderu",27,"Kazanir",1,0.7121266642677222
+"Cael Caderu",27,"Luke Anninan",2,0.004407314826996448
+"Cael Caderu",27,"Angry Mustache",3,0.47103196204992615
+"Cael Caderu",27,"Kenneth Feld",4,0.013242304749573304
+"Cael Caderu",27,"Brisc Rubal",5,0.4888781040200599
+"Cael Caderu",27,"Storm Delay",6,0.0067655236329935125
+"Cael Caderu",27,"Pandoralica",7,0.3733189241114313
+"Cael Caderu",27,"Arsia Elkin",8,0.026418999891055672
+"Cael Caderu",27,"Mark Resurrectus",9,0.03450641059462882
+"Cael Caderu",27,"Jinx De'Caire",10,0.39007693310731517
+"Cael Caderu",27,"Ithica Hawk",11,0.4523478744095582
+"Cael Caderu",27,"Torvald Uruz",12,0.03129465561589025
+"Cael Caderu",27,"Steve Ronuken",13,0.05192456729527254
+"Cael Caderu",27,"Alasker",14,0.6389144905273938
+"Cael Caderu",27,"Hy Wanto Destroyer",15,0.01436324762896771
+"Cael Caderu",27,"Stitch Kaneland",16,0.05582148906399587
+"Cael Caderu",27,"Phantomite",17,0.05254740689970299
+"Cael Caderu",27,"Kshal Aideron",18,0.013872832369942197
+"Cael Caderu",27,"Benjamin Rushing",19,0.024916943521594685
+"Cael Caderu",27,"DutchGunner",20,0.02159804234493031
+"Cael Caderu",27,"Drake Iddon",21,0.04516358463726885
+"Cael Caderu",27,"Moce",22,0.010452533202164289
+"Cael Caderu",27,"keacte",23,0.024678871245069282
+"Cael Caderu",27,"Shui Jing Jing",24,0.010748835542816195
+"Cael Caderu",27,"Baldin Tarmain",25,0.014878268710550046
+"Cael Caderu",27,"Nala Queen",26,0.007166205682675383
+"Cael Caderu",27,"Cael Caderu",27,1.0
+"Cael Caderu",27,"White 0rchid",28,0.01987820291853384
+"Cael Caderu",27,"hyprviper1",29,0.4178351093662367
+"Cael Caderu",27,"Scott Renton",30,0.015785406777790043
+"Cael Caderu",27,"Gideon Zendikar",31,0.018331916960058273
+"Cael Caderu",27,"Aliventi",32,0.01852571576629097
+"Cael Caderu",27,"KaeL EaglesEye",33,0.007563416336979288
+"Cael Caderu",27,"Trottel Elf",34,0.01102629346904156
+"Cael Caderu",27,"Agondray",35,0.01394681960375391
+"Cael Caderu",27,"Scrapyard Attendant",36,0.011296534017971758
+"Cael Caderu",27,"Styxx",37,0.010704505850136919
+"Cael Caderu",27,"TheSupremeMagus",38,0.013459812844507115
+"Cael Caderu",27,"Furnok Dorn",39,0.007348029392117568
+"Cael Caderu",27,"Winzentowitsch Madeveda",40,0.034566807001994236
+"Cael Caderu",27,"Sarin Blackfist",41,0.7562068082928077
+"Cael Caderu",27,"Kane Carnifex",42,0.009217803529101922
+"Cael Caderu",27,"Mifune SwordGod",43,0.007913479293062516
+"Cael Caderu",27,"Redline XIII",44,0.008195761620419155
+"White 0rchid",28,"Kazanir",1,0.012072661626988604
+"White 0rchid",28,"Luke Anninan",2,0.015282730514518594
+"White 0rchid",28,"Angry Mustache",3,0.02476850109162087
+"White 0rchid",28,"Kenneth Feld",4,0.05518646470015059
+"White 0rchid",28,"Brisc Rubal",5,0.0271223641922082
+"White 0rchid",28,"Storm Delay",6,0.04120621839295748
+"White 0rchid",28,"Pandoralica",7,0.04149377593360996
+"White 0rchid",28,"Arsia Elkin",8,0.0627992778083052
+"White 0rchid",28,"Mark Resurrectus",9,0.047992379835873386
+"White 0rchid",28,"Jinx De'Caire",10,0.038379254457050246
+"White 0rchid",28,"Ithica Hawk",11,0.05418186731522767
+"White 0rchid",28,"Torvald Uruz",12,0.05512539003813706
+"White 0rchid",28,"Steve Ronuken",13,0.07096374341493647
+"White 0rchid",28,"Alasker",14,0.02460978645982955
+"White 0rchid",28,"Hy Wanto Destroyer",15,0.025643018105524905
+"White 0rchid",28,"Stitch Kaneland",16,0.08153735632183907
+"White 0rchid",28,"Phantomite",17,0.09726874516877093
+"White 0rchid",28,"Kshal Aideron",18,0.08448060075093868
+"White 0rchid",28,"Benjamin Rushing",19,0.051735015772870666
+"White 0rchid",28,"DutchGunner",20,0.08975659229208925
+"White 0rchid",28,"Drake Iddon",21,0.08059058751153492
+"White 0rchid",28,"Moce",22,0.05773420479302832
+"White 0rchid",28,"keacte",23,0.1397874852420307
+"White 0rchid",28,"Shui Jing Jing",24,0.10261780104712041
+"White 0rchid",28,"Baldin Tarmain",25,0.059868232598109423
+"White 0rchid",28,"Nala Queen",26,0.06658786446020488
+"White 0rchid",28,"Cael Caderu",27,0.01987820291853384
+"White 0rchid",28,"White 0rchid",28,1.0
+"White 0rchid",28,"hyprviper1",29,0.01269259485508722
+"White 0rchid",28,"Scott Renton",30,0.056941431670282
+"White 0rchid",28,"Gideon Zendikar",31,0.059065934065934064
+"White 0rchid",28,"Aliventi",32,0.06361746361746362
+"White 0rchid",28,"KaeL EaglesEye",33,0.04974968710888611
+"White 0rchid",28,"Trottel Elf",34,0.06405320266013301
+"White 0rchid",28,"Agondray",35,0.05184870378240544
+"White 0rchid",28,"Scrapyard Attendant",36,0.0920661858294442
+"White 0rchid",28,"Styxx",37,0.0776884806735553
+"White 0rchid",28,"TheSupremeMagus",38,0.05686433793663688
+"White 0rchid",28,"Furnok Dorn",39,0.029465930018416207
+"White 0rchid",28,"Winzentowitsch Madeveda",40,0.04183884297520661
+"White 0rchid",28,"Sarin Blackfist",41,0.012872954764196342
+"White 0rchid",28,"Kane Carnifex",42,0.060674157303370786
+"White 0rchid",28,"Mifune SwordGod",43,0.030409872190392245
+"White 0rchid",28,"Redline XIII",44,0.039610185476265325
+"hyprviper1",29,"Kazanir",1,0.46099086790824767
+"hyprviper1",29,"Luke Anninan",2,0.2531161806208843
+"hyprviper1",29,"Angry Mustache",3,0.5250198570293884
+"hyprviper1",29,"Kenneth Feld",4,0.2412615401035274
+"hyprviper1",29,"Brisc Rubal",5,0.533651132158314
+"hyprviper1",29,"Storm Delay",6,0.10916486255986355
+"hyprviper1",29,"Pandoralica",7,0.602637996009754
+"hyprviper1",29,"Arsia Elkin",8,0.23705139675912118
+"hyprviper1",29,"Mark Resurrectus",9,0.3145595244196177
+"hyprviper1",29,"Jinx De'Caire",10,0.6271256986562017
+"hyprviper1",29,"Ithica Hawk",11,0.33956262425447314
+"hyprviper1",29,"Torvald Uruz",12,0.11681937172774869
+"hyprviper1",29,"Steve Ronuken",13,0.04104903078677309
+"hyprviper1",29,"Alasker",14,0.41587464680195224
+"hyprviper1",29,"Hy Wanto Destroyer",15,0.3114114755849984
+"hyprviper1",29,"Stitch Kaneland",16,0.10406283856988083
+"hyprviper1",29,"Phantomite",17,0.11745513866231648
+"hyprviper1",29,"Kshal Aideron",18,0.03377529658060014
+"hyprviper1",29,"Benjamin Rushing",19,0.028727578475336323
+"hyprviper1",29,"DutchGunner",20,0.013867288750648004
+"hyprviper1",29,"Drake Iddon",21,0.01122754491017964
+"hyprviper1",29,"Moce",22,0.010630004960668982
+"hyprviper1",29,"keacte",23,0.03235894817462344
+"hyprviper1",29,"Shui Jing Jing",24,0.012210438180295841
+"hyprviper1",29,"Baldin Tarmain",25,0.01847715736040609
+"hyprviper1",29,"Nala Queen",26,0.00926324859974149
+"hyprviper1",29,"Cael Caderu",27,0.4178351093662367
+"hyprviper1",29,"White 0rchid",28,0.01269259485508722
+"hyprviper1",29,"hyprviper1",29,1.0
+"hyprviper1",29,"Scott Renton",30,0.010337972166998012
+"hyprviper1",29,"Gideon Zendikar",31,0.011706975113915177
+"hyprviper1",29,"Aliventi",32,0.007608144337366857
+"hyprviper1",29,"KaeL EaglesEye",33,0.043580097948754344
+"hyprviper1",29,"Trottel Elf",34,0.01266891891891892
+"hyprviper1",29,"Agondray",35,0.006993516427478691
+"hyprviper1",29,"Scrapyard Attendant",36,0.01052478768962764
+"hyprviper1",29,"Styxx",37,0.014758561398481158
+"hyprviper1",29,"TheSupremeMagus",38,0.006856730422230242
+"hyprviper1",29,"Furnok Dorn",39,0.012597838240775252
+"hyprviper1",29,"Winzentowitsch Madeveda",40,0.00812688425743872
+"hyprviper1",29,"Sarin Blackfist",41,0.45720604496866935
+"hyprviper1",29,"Kane Carnifex",42,0.008015295242297228
+"hyprviper1",29,"Mifune SwordGod",43,0.014378891194782093
+"hyprviper1",29,"Redline XIII",44,0.037669050485024426
+"Scott Renton",30,"Kazanir",1,0.012415595730777608
+"Scott Renton",30,"Luke Anninan",2,0.05397378123719787
+"Scott Renton",30,"Angry Mustache",3,0.026664702416028287
+"Scott Renton",30,"Kenneth Feld",4,0.05920027696036005
+"Scott Renton",30,"Brisc Rubal",5,0.02417632702867602
+"Scott Renton",30,"Storm Delay",6,0.09529127117066816
+"Scott Renton",30,"Pandoralica",7,0.015260679639189879
+"Scott Renton",30,"Arsia Elkin",8,0.11356517548791262
+"Scott Renton",30,"Mark Resurrectus",9,0.09712014399280036
+"Scott Renton",30,"Jinx De'Caire",10,0.036006339144215534
+"Scott Renton",30,"Ithica Hawk",11,0.06249583138798106
+"Scott Renton",30,"Torvald Uruz",12,0.1173342786246012
+"Scott Renton",30,"Steve Ronuken",13,0.12496114392290954
+"Scott Renton",30,"Alasker",14,0.05039535105268172
+"Scott Renton",30,"Hy Wanto Destroyer",15,0.037511506597115676
+"Scott Renton",30,"Stitch Kaneland",16,0.09718640093786636
+"Scott Renton",30,"Phantomite",17,0.035965323336457355
+"Scott Renton",30,"Kshal Aideron",18,0.06278026905829596
+"Scott Renton",30,"Benjamin Rushing",19,0.03389830508474576
+"Scott Renton",30,"DutchGunner",20,0.2063657709366032
+"Scott Renton",30,"Drake Iddon",21,0.04491017964071856
+"Scott Renton",30,"Moce",22,0.047203362431296476
+"Scott Renton",30,"keacte",23,0.18160972254070168
+"Scott Renton",30,"Shui Jing Jing",24,0.0866853757405675
+"Scott Renton",30,"Baldin Tarmain",25,0.19395017793594305
+"Scott Renton",30,"Nala Queen",26,0.028833107191316147
+"Scott Renton",30,"Cael Caderu",27,0.015785406777790043
+"Scott Renton",30,"White 0rchid",28,0.056941431670282
+"Scott Renton",30,"hyprviper1",29,0.010337972166998012
+"Scott Renton",30,"Scott Renton",30,1.0
+"Scott Renton",30,"Gideon Zendikar",31,0.0345873786407767
+"Scott Renton",30,"Aliventi",32,0.0415312387143373
+"Scott Renton",30,"KaeL EaglesEye",33,0.02878703186137507
+"Scott Renton",30,"Trottel Elf",34,0.027158986878242294
+"Scott Renton",30,"Agondray",35,0.04671150971599402
+"Scott Renton",30,"Scrapyard Attendant",36,0.036084315827081104
+"Scott Renton",30,"Styxx",37,0.056134453781512605
+"Scott Renton",30,"TheSupremeMagus",38,0.08565072302558398
+"Scott Renton",30,"Furnok Dorn",39,0.02031063321385902
+"Scott Renton",30,"Winzentowitsch Madeveda",40,0.20876074299972275
+"Scott Renton",30,"Sarin Blackfist",41,0.013443040908564144
+"Scott Renton",30,"Kane Carnifex",42,0.02440884820747521
+"Scott Renton",30,"Mifune SwordGod",43,0.028174450019297567
+"Scott Renton",30,"Redline XIII",44,0.02888700084961767
+"Gideon Zendikar",31,"Kazanir",1,0.013865646665072914
+"Gideon Zendikar",31,"Luke Anninan",2,0.012932877297990595
+"Gideon Zendikar",31,"Angry Mustache",3,0.022915042868277474
+"Gideon Zendikar",31,"Kenneth Feld",4,0.026599568655643422
+"Gideon Zendikar",31,"Brisc Rubal",5,0.02344637351938991
+"Gideon Zendikar",31,"Storm Delay",6,0.02964467005076142
+"Gideon Zendikar",31,"Pandoralica",7,0.02885020779377221
+"Gideon Zendikar",31,"Arsia Elkin",8,0.04483227924105356
+"Gideon Zendikar",31,"Mark Resurrectus",9,0.042248208223311955
+"Gideon Zendikar",31,"Jinx De'Caire",10,0.01889639787415524
+"Gideon Zendikar",31,"Ithica Hawk",11,0.035839100938806275
+"Gideon Zendikar",31,"Torvald Uruz",12,0.05236239649293716
+"Gideon Zendikar",31,"Steve Ronuken",13,0.06675523082032547
+"Gideon Zendikar",31,"Alasker",14,0.020281746428214606
+"Gideon Zendikar",31,"Hy Wanto Destroyer",15,0.023512360093405266
+"Gideon Zendikar",31,"Stitch Kaneland",16,0.06639211281667291
+"Gideon Zendikar",31,"Phantomite",17,0.07096171802054155
+"Gideon Zendikar",31,"Kshal Aideron",18,0.0460133473832104
+"Gideon Zendikar",31,"Benjamin Rushing",19,0.06154419992540097
+"Gideon Zendikar",31,"DutchGunner",20,0.045841339555311555
+"Gideon Zendikar",31,"Drake Iddon",21,0.06028741675429373
+"Gideon Zendikar",31,"Moce",22,0.03632478632478633
+"Gideon Zendikar",31,"keacte",23,0.09543044685685433
+"Gideon Zendikar",31,"Shui Jing Jing",24,0.042951971885982036
+"Gideon Zendikar",31,"Baldin Tarmain",25,0.048645119164218084
+"Gideon Zendikar",31,"Nala Queen",26,0.06121472979435677
+"Gideon Zendikar",31,"Cael Caderu",27,0.018331916960058273
+"Gideon Zendikar",31,"White 0rchid",28,0.059065934065934064
+"Gideon Zendikar",31,"hyprviper1",29,0.011706975113915177
+"Gideon Zendikar",31,"Scott Renton",30,0.0345873786407767
+"Gideon Zendikar",31,"Gideon Zendikar",31,1.0
+"Gideon Zendikar",31,"Aliventi",32,0.0502283105022831
+"Gideon Zendikar",31,"KaeL EaglesEye",33,0.03614022406938923
+"Gideon Zendikar",31,"Trottel Elf",34,0.051070840197693576
+"Gideon Zendikar",31,"Agondray",35,0.031136481577581733
+"Gideon Zendikar",31,"Scrapyard Attendant",36,0.05247225025227043
+"Gideon Zendikar",31,"Styxx",37,0.05339366515837104
+"Gideon Zendikar",31,"TheSupremeMagus",38,0.051218299353555444
+"Gideon Zendikar",31,"Furnok Dorn",39,0.02823529411764706
+"Gideon Zendikar",31,"Winzentowitsch Madeveda",40,0.05253784505788068
+"Gideon Zendikar",31,"Sarin Blackfist",41,0.006089052391221616
+"Gideon Zendikar",31,"Kane Carnifex",42,0.06424104604889141
+"Gideon Zendikar",31,"Mifune SwordGod",43,0.03179029559397657
+"Gideon Zendikar",31,"Redline XIII",44,0.03297911322828875
+"Aliventi",32,"Kazanir",1,0.011441647597254004
+"Aliventi",32,"Luke Anninan",2,0.011298158400180771
+"Aliventi",32,"Angry Mustache",3,0.01221275911939579
+"Aliventi",32,"Kenneth Feld",4,0.014994877526310887
+"Aliventi",32,"Brisc Rubal",5,0.013072990865666639
+"Aliventi",32,"Storm Delay",6,0.025959367945823927
+"Aliventi",32,"Pandoralica",7,0.011238700219887612
+"Aliventi",32,"Arsia Elkin",8,0.01466299416720674
+"Aliventi",32,"Mark Resurrectus",9,0.01566799143992663
+"Aliventi",32,"Jinx De'Caire",10,0.010847594663791942
+"Aliventi",32,"Ithica Hawk",11,0.012842762929538355
+"Aliventi",32,"Torvald Uruz",12,0.025265285497726123
+"Aliventi",32,"Steve Ronuken",13,0.032563025210084036
+"Aliventi",32,"Alasker",14,0.017864649012189995
+"Aliventi",32,"Hy Wanto Destroyer",15,0.008942618199884077
+"Aliventi",32,"Stitch Kaneland",16,0.021658810039495477
+"Aliventi",32,"Phantomite",17,0.03318645001377031
+"Aliventi",32,"Kshal Aideron",18,0.04562899786780384
+"Aliventi",32,"Benjamin Rushing",19,0.04129263913824058
+"Aliventi",32,"DutchGunner",20,0.045859872611464965
+"Aliventi",32,"Drake Iddon",21,0.05621301775147929
+"Aliventi",32,"Moce",22,0.06565656565656566
+"Aliventi",32,"keacte",23,0.05799112097669257
+"Aliventi",32,"Shui Jing Jing",24,0.06293359762140734
+"Aliventi",32,"Baldin Tarmain",25,0.06334125098970704
+"Aliventi",32,"Nala Queen",26,0.053515868077162417
+"Aliventi",32,"Cael Caderu",27,0.01852571576629097
+"Aliventi",32,"White 0rchid",28,0.06361746361746362
+"Aliventi",32,"hyprviper1",29,0.007608144337366857
+"Aliventi",32,"Scott Renton",30,0.0415312387143373
+"Aliventi",32,"Gideon Zendikar",31,0.0502283105022831
+"Aliventi",32,"Aliventi",32,1.0
+"Aliventi",32,"KaeL EaglesEye",33,0.028107158541941152
+"Aliventi",32,"Trottel Elf",34,0.04004106776180698
+"Aliventi",32,"Agondray",35,0.07982261640798226
+"Aliventi",32,"Scrapyard Attendant",36,0.06703146374829001
+"Aliventi",32,"Styxx",37,0.0829326923076923
+"Aliventi",32,"TheSupremeMagus",38,0.06864064602960969
+"Aliventi",32,"Furnok Dorn",39,0.045337895637296836
+"Aliventi",32,"Winzentowitsch Madeveda",40,0.03036506311838963
+"Aliventi",32,"Sarin Blackfist",41,0.010094120856636203
+"Aliventi",32,"Kane Carnifex",42,0.04665629860031104
+"Aliventi",32,"Mifune SwordGod",43,0.045813586097946286
+"Aliventi",32,"Redline XIII",44,0.0370872908186341
+"KaeL EaglesEye",33,"Kazanir",1,0.006439001954697022
+"KaeL EaglesEye",33,"Luke Anninan",2,0.02073298429319372
+"KaeL EaglesEye",33,"Angry Mustache",3,0.018631178707224333
+"KaeL EaglesEye",33,"Kenneth Feld",4,0.0962692163479565
+"KaeL EaglesEye",33,"Brisc Rubal",5,0.020754119138149556
+"KaeL EaglesEye",33,"Storm Delay",6,0.18711111111111112
+"KaeL EaglesEye",33,"Pandoralica",7,0.02190683705317708
+"KaeL EaglesEye",33,"Arsia Elkin",8,0.032713178294573646
+"KaeL EaglesEye",33,"Mark Resurrectus",9,0.0598946576373213
+"KaeL EaglesEye",33,"Jinx De'Caire",10,0.020869677586095498
+"KaeL EaglesEye",33,"Ithica Hawk",11,0.03546433378196501
+"KaeL EaglesEye",33,"Torvald Uruz",12,0.10927193528313628
+"KaeL EaglesEye",33,"Steve Ronuken",13,0.05950308593131825
+"KaeL EaglesEye",33,"Alasker",14,0.013731747413209554
+"KaeL EaglesEye",33,"Hy Wanto Destroyer",15,0.07707624657761553
+"KaeL EaglesEye",33,"Stitch Kaneland",16,0.016956973122620834
+"KaeL EaglesEye",33,"Phantomite",17,0.10932905640203154
+"KaeL EaglesEye",33,"Kshal Aideron",18,0.04368776100224864
+"KaeL EaglesEye",33,"Benjamin Rushing",19,0.047379032258064516
+"KaeL EaglesEye",33,"DutchGunner",20,0.05180412371134021
+"KaeL EaglesEye",33,"Drake Iddon",21,0.030644152595372107
+"KaeL EaglesEye",33,"Moce",22,0.04821150855365474
+"KaeL EaglesEye",33,"keacte",23,0.04180790960451977
+"KaeL EaglesEye",33,"Shui Jing Jing",24,0.04141592920353982
+"KaeL EaglesEye",33,"Baldin Tarmain",25,0.032
+"KaeL EaglesEye",33,"Nala Queen",26,0.049747048903878585
+"KaeL EaglesEye",33,"Cael Caderu",27,0.007563416336979288
+"KaeL EaglesEye",33,"White 0rchid",28,0.04974968710888611
+"KaeL EaglesEye",33,"hyprviper1",29,0.043580097948754344
+"KaeL EaglesEye",33,"Scott Renton",30,0.02878703186137507
+"KaeL EaglesEye",33,"Gideon Zendikar",31,0.03614022406938923
+"KaeL EaglesEye",33,"Aliventi",32,0.028107158541941152
+"KaeL EaglesEye",33,"KaeL EaglesEye",33,1.0
+"KaeL EaglesEye",33,"Trottel Elf",34,0.04400887573964497
+"KaeL EaglesEye",33,"Agondray",35,0.028233151183970857
+"KaeL EaglesEye",33,"Scrapyard Attendant",36,0.042459088898717384
+"KaeL EaglesEye",33,"Styxx",37,0.0350457984866587
+"KaeL EaglesEye",33,"TheSupremeMagus",38,0.033810143042912875
+"KaeL EaglesEye",33,"Furnok Dorn",39,0.030627871362940276
+"KaeL EaglesEye",33,"Winzentowitsch Madeveda",40,0.021954484605087015
+"KaeL EaglesEye",33,"Sarin Blackfist",41,0.009601181683899557
+"KaeL EaglesEye",33,"Kane Carnifex",42,0.04282238442822384
+"KaeL EaglesEye",33,"Mifune SwordGod",43,0.039196472317491425
+"KaeL EaglesEye",33,"Redline XIII",44,0.2170145726664041
+"Trottel Elf",34,"Kazanir",1,0.009813307802776448
+"Trottel Elf",34,"Luke Anninan",2,0.013102781656105681
+"Trottel Elf",34,"Angry Mustache",3,0.016870092513410557
+"Trottel Elf",34,"Kenneth Feld",4,0.030517069636874037
+"Trottel Elf",34,"Brisc Rubal",5,0.027126399215622193
+"Trottel Elf",34,"Storm Delay",6,0.052334100900146535
+"Trottel Elf",34,"Pandoralica",7,0.02818176332146521
+"Trottel Elf",34,"Arsia Elkin",8,0.024092591134556335
+"Trottel Elf",34,"Mark Resurrectus",9,0.026996793198597956
+"Trottel Elf",34,"Jinx De'Caire",10,0.013482557759015643
+"Trottel Elf",34,"Ithica Hawk",11,0.02412176394645648
+"Trottel Elf",34,"Torvald Uruz",12,0.047259439707673566
+"Trottel Elf",34,"Steve Ronuken",13,0.03739837398373984
+"Trottel Elf",34,"Alasker",14,0.023658512030605053
+"Trottel Elf",34,"Hy Wanto Destroyer",15,0.05893663267012205
+"Trottel Elf",34,"Stitch Kaneland",16,0.030049678904640737
+"Trottel Elf",34,"Phantomite",17,0.07195596724392536
+"Trottel Elf",34,"Kshal Aideron",18,0.035285815102328866
+"Trottel Elf",34,"Benjamin Rushing",19,0.048652694610778445
+"Trottel Elf",34,"DutchGunner",20,0.045240077713016934
+"Trottel Elf",34,"Drake Iddon",21,0.05372923294450336
+"Trottel Elf",34,"Moce",22,0.029844290657439446
+"Trottel Elf",34,"keacte",23,0.02824994014843189
+"Trottel Elf",34,"Shui Jing Jing",24,0.06098546042003231
+"Trottel Elf",34,"Baldin Tarmain",25,0.04658077304261645
+"Trottel Elf",34,"Nala Queen",26,0.07619990103908957
+"Trottel Elf",34,"Cael Caderu",27,0.01102629346904156
+"Trottel Elf",34,"White 0rchid",28,0.06405320266013301
+"Trottel Elf",34,"hyprviper1",29,0.01266891891891892
+"Trottel Elf",34,"Scott Renton",30,0.027158986878242294
+"Trottel Elf",34,"Gideon Zendikar",31,0.051070840197693576
+"Trottel Elf",34,"Aliventi",32,0.04004106776180698
+"Trottel Elf",34,"KaeL EaglesEye",33,0.04400887573964497
+"Trottel Elf",34,"Trottel Elf",34,1.0
+"Trottel Elf",34,"Agondray",35,0.0368196371398079
+"Trottel Elf",34,"Scrapyard Attendant",36,0.05529715762273902
+"Trottel Elf",34,"Styxx",37,0.05301982480405717
+"Trottel Elf",34,"TheSupremeMagus",38,0.03655483224837256
+"Trottel Elf",34,"Furnok Dorn",39,0.029607250755287008
+"Trottel Elf",34,"Winzentowitsch Madeveda",40,0.04443781688040561
+"Trottel Elf",34,"Sarin Blackfist",41,0.009342206296391093
+"Trottel Elf",34,"Kane Carnifex",42,0.059710144927536235
+"Trottel Elf",34,"Mifune SwordGod",43,0.03495702005730659
+"Trottel Elf",34,"Redline XIII",44,0.06362591031046377
+"Agondray",35,"Kazanir",1,0.011173901875160545
+"Agondray",35,"Luke Anninan",2,0.007956353716753808
+"Agondray",35,"Angry Mustache",3,0.01393502390018634
+"Agondray",35,"Kenneth Feld",4,0.015683696468820434
+"Agondray",35,"Brisc Rubal",5,0.011457455770850885
+"Agondray",35,"Storm Delay",6,0.018256503879507075
+"Agondray",35,"Pandoralica",7,0.006845547338182263
+"Agondray",35,"Arsia Elkin",8,0.01891736958480059
+"Agondray",35,"Mark Resurrectus",9,0.012574758472626898
+"Agondray",35,"Jinx De'Caire",10,0.0076315256297697035
+"Agondray",35,"Ithica Hawk",11,0.0065917291146267
+"Agondray",35,"Torvald Uruz",12,0.024225423944919035
+"Agondray",35,"Steve Ronuken",13,0.04963898916967509
+"Agondray",35,"Alasker",14,0.015545685279187817
+"Agondray",35,"Hy Wanto Destroyer",15,0.006570739416119105
+"Agondray",35,"Stitch Kaneland",16,0.018480492813141684
+"Agondray",35,"Phantomite",17,0.02443738782272539
+"Agondray",35,"Kshal Aideron",18,0.06280843427545985
+"Agondray",35,"Benjamin Rushing",19,0.04191895668374476
+"Agondray",35,"DutchGunner",20,0.05504284772577456
+"Agondray",35,"Drake Iddon",21,0.052723311546840956
+"Agondray",35,"Moce",22,0.06635349383440986
+"Agondray",35,"keacte",23,0.04481792717086835
+"Agondray",35,"Shui Jing Jing",24,0.10622317596566523
+"Agondray",35,"Baldin Tarmain",25,0.05813008130081301
+"Agondray",35,"Nala Queen",26,0.050913838120104436
+"Agondray",35,"Cael Caderu",27,0.01394681960375391
+"Agondray",35,"White 0rchid",28,0.05184870378240544
+"Agondray",35,"hyprviper1",29,0.006993516427478691
+"Agondray",35,"Scott Renton",30,0.04671150971599402
+"Agondray",35,"Gideon Zendikar",31,0.031136481577581733
+"Agondray",35,"Aliventi",32,0.07982261640798226
+"Agondray",35,"KaeL EaglesEye",33,0.028233151183970857
+"Agondray",35,"Trottel Elf",34,0.0368196371398079
+"Agondray",35,"Agondray",35,1.0
+"Agondray",35,"Scrapyard Attendant",36,0.04014084507042254
+"Agondray",35,"Styxx",37,0.09004438807863031
+"Agondray",35,"TheSupremeMagus",38,0.05539971949509116
+"Agondray",35,"Furnok Dorn",39,0.044954128440366975
+"Agondray",35,"Winzentowitsch Madeveda",40,0.027641707487753672
+"Agondray",35,"Sarin Blackfist",41,0.007429829389102917
+"Agondray",35,"Kane Carnifex",42,0.0463960231980116
+"Agondray",35,"Mifune SwordGod",43,0.03936348408710218
+"Agondray",35,"Redline XIII",44,0.027429102742910275
+"Scrapyard Attendant",36,"Kazanir",1,0.00885851683118198
+"Scrapyard Attendant",36,"Luke Anninan",2,0.01013856032443393
+"Scrapyard Attendant",36,"Angry Mustache",3,0.016356457980823462
+"Scrapyard Attendant",36,"Kenneth Feld",4,0.016958628401043608
+"Scrapyard Attendant",36,"Brisc Rubal",5,0.013734193116154425
+"Scrapyard Attendant",36,"Storm Delay",6,0.034005894355021535
+"Scrapyard Attendant",36,"Pandoralica",7,0.010857630840551422
+"Scrapyard Attendant",36,"Arsia Elkin",8,0.016700445885691122
+"Scrapyard Attendant",36,"Mark Resurrectus",9,0.016036655211912942
+"Scrapyard Attendant",36,"Jinx De'Caire",10,0.010903950999528842
+"Scrapyard Attendant",36,"Ithica Hawk",11,0.014869371873262923
+"Scrapyard Attendant",36,"Torvald Uruz",12,0.027935785614966503
+"Scrapyard Attendant",36,"Steve Ronuken",13,0.027449617790132035
+"Scrapyard Attendant",36,"Alasker",14,0.015278359146086228
+"Scrapyard Attendant",36,"Hy Wanto Destroyer",15,0.013035536366655597
+"Scrapyard Attendant",36,"Stitch Kaneland",16,0.021744659206510683
+"Scrapyard Attendant",36,"Phantomite",17,0.033397471137987904
+"Scrapyard Attendant",36,"Kshal Aideron",18,0.04531977975434138
+"Scrapyard Attendant",36,"Benjamin Rushing",19,0.05510388437217705
+"Scrapyard Attendant",36,"DutchGunner",20,0.053976365378473334
+"Scrapyard Attendant",36,"Drake Iddon",21,0.0549496644295302
+"Scrapyard Attendant",36,"Moce",22,0.050466264399341744
+"Scrapyard Attendant",36,"keacte",23,0.051923076923076926
+"Scrapyard Attendant",36,"Shui Jing Jing",24,0.061394891944990176
+"Scrapyard Attendant",36,"Baldin Tarmain",25,0.03247993886129155
+"Scrapyard Attendant",36,"Nala Queen",26,0.066126013724267
+"Scrapyard Attendant",36,"Cael Caderu",27,0.011296534017971758
+"Scrapyard Attendant",36,"White 0rchid",28,0.0920661858294442
+"Scrapyard Attendant",36,"hyprviper1",29,0.01052478768962764
+"Scrapyard Attendant",36,"Scott Renton",30,0.036084315827081104
+"Scrapyard Attendant",36,"Gideon Zendikar",31,0.05247225025227043
+"Scrapyard Attendant",36,"Aliventi",32,0.06703146374829001
+"Scrapyard Attendant",36,"KaeL EaglesEye",33,0.042459088898717384
+"Scrapyard Attendant",36,"Trottel Elf",34,0.05529715762273902
+"Scrapyard Attendant",36,"Agondray",35,0.04014084507042254
+"Scrapyard Attendant",36,"Scrapyard Attendant",36,1.0
+"Scrapyard Attendant",36,"Styxx",37,0.07256637168141593
+"Scrapyard Attendant",36,"TheSupremeMagus",38,0.06578073089700996
+"Scrapyard Attendant",36,"Furnok Dorn",39,0.03946263643996641
+"Scrapyard Attendant",36,"Winzentowitsch Madeveda",40,0.029501525940996948
+"Scrapyard Attendant",36,"Sarin Blackfist",41,0.010897697861326794
+"Scrapyard Attendant",36,"Kane Carnifex",42,0.05909797822706065
+"Scrapyard Attendant",36,"Mifune SwordGod",43,0.04769351055512119
+"Scrapyard Attendant",36,"Redline XIII",44,0.04432383536861149
+"Styxx",37,"Kazanir",1,0.0179700086751766
+"Styxx",37,"Luke Anninan",2,0.013537310147479638
+"Styxx",37,"Angry Mustache",3,0.022508550067605184
+"Styxx",37,"Kenneth Feld",4,0.026310947562097516
+"Styxx",37,"Brisc Rubal",5,0.01982324275212687
+"Styxx",37,"Storm Delay",6,0.03848648648648648
+"Styxx",37,"Pandoralica",7,0.01411338962605549
+"Styxx",37,"Arsia Elkin",8,0.022149368303214456
+"Styxx",37,"Mark Resurrectus",9,0.019337848006019565
+"Styxx",37,"Jinx De'Caire",10,0.015099108686976188
+"Styxx",37,"Ithica Hawk",11,0.013515358361774744
+"Styxx",37,"Torvald Uruz",12,0.035617116002968095
+"Styxx",37,"Steve Ronuken",13,0.049616368286445015
+"Styxx",37,"Alasker",14,0.018226500102396067
+"Styxx",37,"Hy Wanto Destroyer",15,0.013108614232209739
+"Styxx",37,"Stitch Kaneland",16,0.02122146822948797
+"Styxx",37,"Phantomite",17,0.03136212624584717
+"Styxx",37,"Kshal Aideron",18,0.08356657337065174
+"Styxx",37,"Benjamin Rushing",19,0.05310457516339869
+"Styxx",37,"DutchGunner",20,0.08517156862745098
+"Styxx",37,"Drake Iddon",21,0.04789053591790194
+"Styxx",37,"Moce",22,0.08664987405541562
+"Styxx",37,"keacte",23,0.04304381245196003
+"Styxx",37,"Shui Jing Jing",24,0.12184873949579832
+"Styxx",37,"Baldin Tarmain",25,0.06512301013024602
+"Styxx",37,"Nala Queen",26,0.0790929203539823
+"Styxx",37,"Cael Caderu",27,0.010704505850136919
+"Styxx",37,"White 0rchid",28,0.0776884806735553
+"Styxx",37,"hyprviper1",29,0.014758561398481158
+"Styxx",37,"Scott Renton",30,0.056134453781512605
+"Styxx",37,"Gideon Zendikar",31,0.05339366515837104
+"Styxx",37,"Aliventi",32,0.0829326923076923
+"Styxx",37,"KaeL EaglesEye",33,0.0350457984866587
+"Styxx",37,"Trottel Elf",34,0.05301982480405717
+"Styxx",37,"Agondray",35,0.09004438807863031
+"Styxx",37,"Scrapyard Attendant",36,0.07256637168141593
+"Styxx",37,"Styxx",37,1.0
+"Styxx",37,"TheSupremeMagus",38,0.06214039125431531
+"Styxx",37,"Furnok Dorn",39,0.03714085494043448
+"Styxx",37,"Winzentowitsch Madeveda",40,0.03832752613240418
+"Styxx",37,"Sarin Blackfist",41,0.012552854122621564
+"Styxx",37,"Kane Carnifex",42,0.06578073089700996
+"Styxx",37,"Mifune SwordGod",43,0.062458025520483546
+"Styxx",37,"Redline XIII",44,0.05456800330715172
+"TheSupremeMagus",38,"Kazanir",1,0.008700037826251419
+"TheSupremeMagus",38,"Luke Anninan",2,0.007617340651954744
+"TheSupremeMagus",38,"Angry Mustache",3,0.016319639842431063
+"TheSupremeMagus",38,"Kenneth Feld",4,0.014745432625428916
+"TheSupremeMagus",38,"Brisc Rubal",5,0.011673476194446761
+"TheSupremeMagus",38,"Storm Delay",6,0.028923766816143497
+"TheSupremeMagus",38,"Pandoralica",7,0.006976038823172581
+"TheSupremeMagus",38,"Arsia Elkin",8,0.014692823121013967
+"TheSupremeMagus",38,"Mark Resurrectus",9,0.023882660113653816
+"TheSupremeMagus",38,"Jinx De'Caire",10,0.00797159699892819
+"TheSupremeMagus",38,"Ithica Hawk",11,0.010147028370262995
+"TheSupremeMagus",38,"Torvald Uruz",12,0.02939321306925697
+"TheSupremeMagus",38,"Steve Ronuken",13,0.04154250657318142
+"TheSupremeMagus",38,"Alasker",14,0.015445627217699855
+"TheSupremeMagus",38,"Hy Wanto Destroyer",15,0.008826926249793763
+"TheSupremeMagus",38,"Stitch Kaneland",16,0.022833946467081062
+"TheSupremeMagus",38,"Phantomite",17,0.021797996209044136
+"TheSupremeMagus",38,"Kshal Aideron",18,0.04522613065326633
+"TheSupremeMagus",38,"Benjamin Rushing",19,0.04601769911504425
+"TheSupremeMagus",38,"DutchGunner",20,0.05083675402589201
+"TheSupremeMagus",38,"Drake Iddon",21,0.03965658217497956
+"TheSupremeMagus",38,"Moce",22,0.06875687568756876
+"TheSupremeMagus",38,"keacte",23,0.04923830250272035
+"TheSupremeMagus",38,"Shui Jing Jing",24,0.06520681265206812
+"TheSupremeMagus",38,"Baldin Tarmain",25,0.05324074074074074
+"TheSupremeMagus",38,"Nala Queen",26,0.04828002414001207
+"TheSupremeMagus",38,"Cael Caderu",27,0.013459812844507115
+"TheSupremeMagus",38,"White 0rchid",28,0.05686433793663688
+"TheSupremeMagus",38,"hyprviper1",29,0.006856730422230242
+"TheSupremeMagus",38,"Scott Renton",30,0.08565072302558398
+"TheSupremeMagus",38,"Gideon Zendikar",31,0.051218299353555444
+"TheSupremeMagus",38,"Aliventi",32,0.06864064602960969
+"TheSupremeMagus",38,"KaeL EaglesEye",33,0.033810143042912875
+"TheSupremeMagus",38,"Trottel Elf",34,0.03655483224837256
+"TheSupremeMagus",38,"Agondray",35,0.05539971949509116
+"TheSupremeMagus",38,"Scrapyard Attendant",36,0.06578073089700996
+"TheSupremeMagus",38,"Styxx",37,0.06214039125431531
+"TheSupremeMagus",38,"TheSupremeMagus",38,1.0
+"TheSupremeMagus",38,"Furnok Dorn",39,0.03855619360131255
+"TheSupremeMagus",38,"Winzentowitsch Madeveda",40,0.06834030683403068
+"TheSupremeMagus",38,"Sarin Blackfist",41,0.009760065067100447
+"TheSupremeMagus",38,"Kane Carnifex",42,0.04354354354354354
+"TheSupremeMagus",38,"Mifune SwordGod",43,0.03636363636363636
+"TheSupremeMagus",38,"Redline XIII",44,0.03912850155624722
+"Furnok Dorn",39,"Kazanir",1,0.020588235294117647
+"Furnok Dorn",39,"Luke Anninan",2,0.008178525528683258
+"Furnok Dorn",39,"Angry Mustache",3,0.015972854423570305
+"Furnok Dorn",39,"Kenneth Feld",4,0.007910035261602973
+"Furnok Dorn",39,"Brisc Rubal",5,0.01439655172413793
+"Furnok Dorn",39,"Storm Delay",6,0.018326501085121776
+"Furnok Dorn",39,"Pandoralica",7,0.011338151009220036
+"Furnok Dorn",39,"Arsia Elkin",8,0.007679603633360859
+"Furnok Dorn",39,"Mark Resurrectus",9,0.006129733085040347
+"Furnok Dorn",39,"Jinx De'Caire",10,0.010114214944268611
+"Furnok Dorn",39,"Ithica Hawk",11,0.00948068487335503
+"Furnok Dorn",39,"Torvald Uruz",12,0.011682242990654205
+"Furnok Dorn",39,"Steve Ronuken",13,0.010877447425670777
+"Furnok Dorn",39,"Alasker",14,0.013529602770862648
+"Furnok Dorn",39,"Hy Wanto Destroyer",15,0.006106352302603681
+"Furnok Dorn",39,"Stitch Kaneland",16,0.006670154329060947
+"Furnok Dorn",39,"Phantomite",17,0.01041226959335866
+"Furnok Dorn",39,"Kshal Aideron",18,0.023546371936568958
+"Furnok Dorn",39,"Benjamin Rushing",19,0.04279749478079332
+"Furnok Dorn",39,"DutchGunner",20,0.02243700379703141
+"Furnok Dorn",39,"Drake Iddon",21,0.019672131147540985
+"Furnok Dorn",39,"Moce",22,0.03206806282722513
+"Furnok Dorn",39,"keacte",23,0.01837806301050175
+"Furnok Dorn",39,"Shui Jing Jing",24,0.038154897494305236
+"Furnok Dorn",39,"Baldin Tarmain",25,0.017649591046061126
+"Furnok Dorn",39,"Nala Queen",26,0.0481651376146789
+"Furnok Dorn",39,"Cael Caderu",27,0.007348029392117568
+"Furnok Dorn",39,"White 0rchid",28,0.029465930018416207
+"Furnok Dorn",39,"hyprviper1",29,0.012597838240775252
+"Furnok Dorn",39,"Scott Renton",30,0.02031063321385902
+"Furnok Dorn",39,"Gideon Zendikar",31,0.02823529411764706
+"Furnok Dorn",39,"Aliventi",32,0.045337895637296836
+"Furnok Dorn",39,"KaeL EaglesEye",33,0.030627871362940276
+"Furnok Dorn",39,"Trottel Elf",34,0.029607250755287008
+"Furnok Dorn",39,"Agondray",35,0.044954128440366975
+"Furnok Dorn",39,"Scrapyard Attendant",36,0.03946263643996641
+"Furnok Dorn",39,"Styxx",37,0.03714085494043448
+"Furnok Dorn",39,"TheSupremeMagus",38,0.03855619360131255
+"Furnok Dorn",39,"Furnok Dorn",39,1.0
+"Furnok Dorn",39,"Winzentowitsch Madeveda",40,0.014285714285714285
+"Furnok Dorn",39,"Sarin Blackfist",41,0.018550474547023296
+"Furnok Dorn",39,"Kane Carnifex",42,0.053497942386831275
+"Furnok Dorn",39,"Mifune SwordGod",43,0.06937033084311633
+"Furnok Dorn",39,"Redline XIII",44,0.022833419823559936
+"Winzentowitsch Madeveda",40,"Kazanir",1,0.009093826896330374
+"Winzentowitsch Madeveda",40,"Luke Anninan",2,0.006855928930088837
+"Winzentowitsch Madeveda",40,"Angry Mustache",3,0.02430858806404658
+"Winzentowitsch Madeveda",40,"Kenneth Feld",4,0.022644628099173555
+"Winzentowitsch Madeveda",40,"Brisc Rubal",5,0.02176860500150648
+"Winzentowitsch Madeveda",40,"Storm Delay",6,0.02659846547314578
+"Winzentowitsch Madeveda",40,"Pandoralica",7,0.04593967517401392
+"Winzentowitsch Madeveda",40,"Arsia Elkin",8,0.07427299930944525
+"Winzentowitsch Madeveda",40,"Mark Resurrectus",9,0.13411168292495584
+"Winzentowitsch Madeveda",40,"Jinx De'Caire",10,0.014654270057262483
+"Winzentowitsch Madeveda",40,"Ithica Hawk",11,0.10237409084671333
+"Winzentowitsch Madeveda",40,"Torvald Uruz",12,0.12516129032258064
+"Winzentowitsch Madeveda",40,"Steve Ronuken",13,0.14806165343297525
+"Winzentowitsch Madeveda",40,"Alasker",14,0.03822900195330667
+"Winzentowitsch Madeveda",40,"Hy Wanto Destroyer",15,0.015536723163841809
+"Winzentowitsch Madeveda",40,"Stitch Kaneland",16,0.188360450563204
+"Winzentowitsch Madeveda",40,"Phantomite",17,0.11332920024798512
+"Winzentowitsch Madeveda",40,"Kshal Aideron",18,0.04052980132450331
+"Winzentowitsch Madeveda",40,"Benjamin Rushing",19,0.04515418502202643
+"Winzentowitsch Madeveda",40,"DutchGunner",20,0.19808708784293985
+"Winzentowitsch Madeveda",40,"Drake Iddon",21,0.09715705216671267
+"Winzentowitsch Madeveda",40,"Moce",22,0.033690658499234305
+"Winzentowitsch Madeveda",40,"keacte",23,0.16780746301611835
+"Winzentowitsch Madeveda",40,"Shui Jing Jing",24,0.057843996494303246
+"Winzentowitsch Madeveda",40,"Baldin Tarmain",25,0.16811675554308167
+"Winzentowitsch Madeveda",40,"Nala Queen",26,0.045874587458745876
+"Winzentowitsch Madeveda",40,"Cael Caderu",27,0.034566807001994236
+"Winzentowitsch Madeveda",40,"White 0rchid",28,0.04183884297520661
+"Winzentowitsch Madeveda",40,"hyprviper1",29,0.00812688425743872
+"Winzentowitsch Madeveda",40,"Scott Renton",30,0.20876074299972275
+"Winzentowitsch Madeveda",40,"Gideon Zendikar",31,0.05253784505788068
+"Winzentowitsch Madeveda",40,"Aliventi",32,0.03036506311838963
+"Winzentowitsch Madeveda",40,"KaeL EaglesEye",33,0.021954484605087015
+"Winzentowitsch Madeveda",40,"Trottel Elf",34,0.04443781688040561
+"Winzentowitsch Madeveda",40,"Agondray",35,0.027641707487753672
+"Winzentowitsch Madeveda",40,"Scrapyard Attendant",36,0.029501525940996948
+"Winzentowitsch Madeveda",40,"Styxx",37,0.03832752613240418
+"Winzentowitsch Madeveda",40,"TheSupremeMagus",38,0.06834030683403068
+"Winzentowitsch Madeveda",40,"Furnok Dorn",39,0.014285714285714285
+"Winzentowitsch Madeveda",40,"Winzentowitsch Madeveda",40,1.0
+"Winzentowitsch Madeveda",40,"Sarin Blackfist",41,0.006345609065155807
+"Winzentowitsch Madeveda",40,"Kane Carnifex",42,0.033321127792017576
+"Winzentowitsch Madeveda",40,"Mifune SwordGod",43,0.02376599634369287
+"Winzentowitsch Madeveda",40,"Redline XIII",44,0.028657205240174673
+"Sarin Blackfist",41,"Kazanir",1,0.8030797337857236
+"Sarin Blackfist",41,"Luke Anninan",2,0.005225653206650831
+"Sarin Blackfist",41,"Angry Mustache",3,0.5161396303901438
+"Sarin Blackfist",41,"Kenneth Feld",4,0.008788298320592308
+"Sarin Blackfist",41,"Brisc Rubal",5,0.5314392969883116
+"Sarin Blackfist",41,"Storm Delay",6,0.008235636081775022
+"Sarin Blackfist",41,"Pandoralica",7,0.38257061798445785
+"Sarin Blackfist",41,"Arsia Elkin",8,0.00983138353380568
+"Sarin Blackfist",41,"Mark Resurrectus",9,0.007311556467308401
+"Sarin Blackfist",41,"Jinx De'Caire",10,0.4086827358044697
+"Sarin Blackfist",41,"Ithica Hawk",11,0.42784332891154087
+"Sarin Blackfist",41,"Torvald Uruz",12,0.012752699079776829
+"Sarin Blackfist",41,"Steve Ronuken",13,0.014844221972900664
+"Sarin Blackfist",41,"Alasker",14,0.6514765243254727
+"Sarin Blackfist",41,"Hy Wanto Destroyer",15,0.0064696040156162855
+"Sarin Blackfist",41,"Stitch Kaneland",16,0.006453484156333841
+"Sarin Blackfist",41,"Phantomite",17,0.010281221651043242
+"Sarin Blackfist",41,"Kshal Aideron",18,0.011806231742940603
+"Sarin Blackfist",41,"Benjamin Rushing",19,0.02944507361268403
+"Sarin Blackfist",41,"DutchGunner",20,0.01318413472191447
+"Sarin Blackfist",41,"Drake Iddon",21,0.008687258687258687
+"Sarin Blackfist",41,"Moce",22,0.010153605831814632
+"Sarin Blackfist",41,"keacte",23,0.01171303074670571
+"Sarin Blackfist",41,"Shui Jing Jing",24,0.016764033528067056
+"Sarin Blackfist",41,"Baldin Tarmain",25,0.013999288171787876
+"Sarin Blackfist",41,"Nala Queen",26,0.010028078620136383
+"Sarin Blackfist",41,"Cael Caderu",27,0.7562068082928077
+"Sarin Blackfist",41,"White 0rchid",28,0.012872954764196342
+"Sarin Blackfist",41,"hyprviper1",29,0.45720604496866935
+"Sarin Blackfist",41,"Scott Renton",30,0.013443040908564144
+"Sarin Blackfist",41,"Gideon Zendikar",31,0.006089052391221616
+"Sarin Blackfist",41,"Aliventi",32,0.010094120856636203
+"Sarin Blackfist",41,"KaeL EaglesEye",33,0.009601181683899557
+"Sarin Blackfist",41,"Trottel Elf",34,0.009342206296391093
+"Sarin Blackfist",41,"Agondray",35,0.007429829389102917
+"Sarin Blackfist",41,"Scrapyard Attendant",36,0.010897697861326794
+"Sarin Blackfist",41,"Styxx",37,0.012552854122621564
+"Sarin Blackfist",41,"TheSupremeMagus",38,0.009760065067100447
+"Sarin Blackfist",41,"Furnok Dorn",39,0.018550474547023296
+"Sarin Blackfist",41,"Winzentowitsch Madeveda",40,0.006345609065155807
+"Sarin Blackfist",41,"Sarin Blackfist",41,1.0
+"Sarin Blackfist",41,"Kane Carnifex",42,0.008395130824122009
+"Sarin Blackfist",41,"Mifune SwordGod",43,0.019148936170212766
+"Sarin Blackfist",41,"Redline XIII",44,0.010158572844400396
+"Kane Carnifex",42,"Kazanir",1,0.00858034321372855
+"Kane Carnifex",42,"Luke Anninan",2,0.007945647167204053
+"Kane Carnifex",42,"Angry Mustache",3,0.009443178117876913
+"Kane Carnifex",42,"Kenneth Feld",4,0.013257575757575758
+"Kane Carnifex",42,"Brisc Rubal",5,0.010108732585796806
+"Kane Carnifex",42,"Storm Delay",6,0.029606821411653245
+"Kane Carnifex",42,"Pandoralica",7,0.010751359367276322
+"Kane Carnifex",42,"Arsia Elkin",8,0.011487650775416428
+"Kane Carnifex",42,"Mark Resurrectus",9,0.012764969828253134
+"Kane Carnifex",42,"Jinx De'Caire",10,0.00899611531384175
+"Kane Carnifex",42,"Ithica Hawk",11,0.011384399156711173
+"Kane Carnifex",42,"Torvald Uruz",12,0.020755446693309268
+"Kane Carnifex",42,"Steve Ronuken",13,0.019495617957431585
+"Kane Carnifex",42,"Alasker",14,0.01454234388366125
+"Kane Carnifex",42,"Hy Wanto Destroyer",15,0.011475824824909291
+"Kane Carnifex",42,"Stitch Kaneland",16,0.013345426276237367
+"Kane Carnifex",42,"Phantomite",17,0.026704146170063246
+"Kane Carnifex",42,"Kshal Aideron",18,0.03679852805887764
+"Kane Carnifex",42,"Benjamin Rushing",19,0.046351084812623275
+"Kane Carnifex",42,"DutchGunner",20,0.036614040980853205
+"Kane Carnifex",42,"Drake Iddon",21,0.032764811490125674
+"Kane Carnifex",42,"Moce",22,0.03719512195121951
+"Kane Carnifex",42,"keacte",23,0.02465986394557823
+"Kane Carnifex",42,"Shui Jing Jing",24,0.06978021978021978
+"Kane Carnifex",42,"Baldin Tarmain",25,0.023447141094199916
+"Kane Carnifex",42,"Nala Queen",26,0.10822831727205337
+"Kane Carnifex",42,"Cael Caderu",27,0.009217803529101922
+"Kane Carnifex",42,"White 0rchid",28,0.060674157303370786
+"Kane Carnifex",42,"hyprviper1",29,0.008015295242297228
+"Kane Carnifex",42,"Scott Renton",30,0.02440884820747521
+"Kane Carnifex",42,"Gideon Zendikar",31,0.06424104604889141
+"Kane Carnifex",42,"Aliventi",32,0.04665629860031104
+"Kane Carnifex",42,"KaeL EaglesEye",33,0.04282238442822384
+"Kane Carnifex",42,"Trottel Elf",34,0.059710144927536235
+"Kane Carnifex",42,"Agondray",35,0.0463960231980116
+"Kane Carnifex",42,"Scrapyard Attendant",36,0.05909797822706065
+"Kane Carnifex",42,"Styxx",37,0.06578073089700996
+"Kane Carnifex",42,"TheSupremeMagus",38,0.04354354354354354
+"Kane Carnifex",42,"Furnok Dorn",39,0.053497942386831275
+"Kane Carnifex",42,"Winzentowitsch Madeveda",40,0.033321127792017576
+"Kane Carnifex",42,"Sarin Blackfist",41,0.008395130824122009
+"Kane Carnifex",42,"Kane Carnifex",42,1.0
+"Kane Carnifex",42,"Mifune SwordGod",43,0.0683111954459203
+"Kane Carnifex",42,"Redline XIII",44,0.02847324496809033
+"Mifune SwordGod",43,"Kazanir",1,0.020311263518860458
+"Mifune SwordGod",43,"Luke Anninan",2,0.005643860861552638
+"Mifune SwordGod",43,"Angry Mustache",3,0.0208659793814433
+"Mifune SwordGod",43,"Kenneth Feld",4,0.012900777841016885
+"Mifune SwordGod",43,"Brisc Rubal",5,0.022836952774905207
+"Mifune SwordGod",43,"Storm Delay",6,0.022458628841607566
+"Mifune SwordGod",43,"Pandoralica",7,0.012582904605467056
+"Mifune SwordGod",43,"Arsia Elkin",8,0.008854636385996557
+"Mifune SwordGod",43,"Mark Resurrectus",9,0.010203292880884285
+"Mifune SwordGod",43,"Jinx De'Caire",10,0.00832139690334902
+"Mifune SwordGod",43,"Ithica Hawk",11,0.010548523206751054
+"Mifune SwordGod",43,"Torvald Uruz",12,0.022003624126326688
+"Mifune SwordGod",43,"Steve Ronuken",13,0.019572634225175075
+"Mifune SwordGod",43,"Alasker",14,0.013164936315958472
+"Mifune SwordGod",43,"Hy Wanto Destroyer",15,0.009023444088379153
+"Mifune SwordGod",43,"Stitch Kaneland",16,0.008926261319534282
+"Mifune SwordGod",43,"Phantomite",17,0.01803187028235952
+"Mifune SwordGod",43,"Kshal Aideron",18,0.02244617498854787
+"Mifune SwordGod",43,"Benjamin Rushing",19,0.03346456692913386
+"Mifune SwordGod",43,"DutchGunner",20,0.025435073627844713
+"Mifune SwordGod",43,"Drake Iddon",21,0.021515015688032272
+"Mifune SwordGod",43,"Moce",22,0.0383426097711812
+"Mifune SwordGod",43,"keacte",23,0.016982734220209454
+"Mifune SwordGod",43,"Shui Jing Jing",24,0.04279523293607801
+"Mifune SwordGod",43,"Baldin Tarmain",25,0.02921535893155259
+"Mifune SwordGod",43,"Nala Queen",26,0.0454222853087296
+"Mifune SwordGod",43,"Cael Caderu",27,0.007913479293062516
+"Mifune SwordGod",43,"White 0rchid",28,0.030409872190392245
+"Mifune SwordGod",43,"hyprviper1",29,0.014378891194782093
+"Mifune SwordGod",43,"Scott Renton",30,0.028174450019297567
+"Mifune SwordGod",43,"Gideon Zendikar",31,0.03179029559397657
+"Mifune SwordGod",43,"Aliventi",32,0.045813586097946286
+"Mifune SwordGod",43,"KaeL EaglesEye",33,0.039196472317491425
+"Mifune SwordGod",43,"Trottel Elf",34,0.03495702005730659
+"Mifune SwordGod",43,"Agondray",35,0.03936348408710218
+"Mifune SwordGod",43,"Scrapyard Attendant",36,0.04769351055512119
+"Mifune SwordGod",43,"Styxx",37,0.062458025520483546
+"Mifune SwordGod",43,"TheSupremeMagus",38,0.03636363636363636
+"Mifune SwordGod",43,"Furnok Dorn",39,0.06937033084311633
+"Mifune SwordGod",43,"Winzentowitsch Madeveda",40,0.02376599634369287
+"Mifune SwordGod",43,"Sarin Blackfist",41,0.019148936170212766
+"Mifune SwordGod",43,"Kane Carnifex",42,0.0683111954459203
+"Mifune SwordGod",43,"Mifune SwordGod",43,1.0
+"Mifune SwordGod",43,"Redline XIII",44,0.042232277526395176
+"Redline XIII",44,"Kazanir",1,0.011973959544292026
+"Redline XIII",44,"Luke Anninan",2,0.021913190054782976
+"Redline XIII",44,"Angry Mustache",3,0.02158438576349024
+"Redline XIII",44,"Kenneth Feld",4,0.09742768303024592
+"Redline XIII",44,"Brisc Rubal",5,0.02449924188013726
+"Redline XIII",44,"Storm Delay",6,0.1574114560559685
+"Redline XIII",44,"Pandoralica",7,0.027185849112601652
+"Redline XIII",44,"Arsia Elkin",8,0.044128057893494846
+"Redline XIII",44,"Mark Resurrectus",9,0.05509207065013153
+"Redline XIII",44,"Jinx De'Caire",10,0.020405519207099824
+"Redline XIII",44,"Ithica Hawk",11,0.045460741548527805
+"Redline XIII",44,"Torvald Uruz",12,0.1013790532985464
+"Redline XIII",44,"Steve Ronuken",13,0.06624959897337183
+"Redline XIII",44,"Alasker",14,0.013697299397707403
+"Redline XIII",44,"Hy Wanto Destroyer",15,0.07675657675657675
+"Redline XIII",44,"Stitch Kaneland",16,0.024059799112356926
+"Redline XIII",44,"Phantomite",17,0.10100066711140761
+"Redline XIII",44,"Kshal Aideron",18,0.03258064516129032
+"Redline XIII",44,"Benjamin Rushing",19,0.044232732221844165
+"Redline XIII",44,"DutchGunner",20,0.04050567595459236
+"Redline XIII",44,"Drake Iddon",21,0.028173472617917063
+"Redline XIII",44,"Moce",22,0.05037683458944863
+"Redline XIII",44,"keacte",23,0.027708943455733274
+"Redline XIII",44,"Shui Jing Jing",24,0.03468001430103682
+"Redline XIII",44,"Baldin Tarmain",25,0.029985007496251874
+"Redline XIII",44,"Nala Queen",26,0.04582441113490364
+"Redline XIII",44,"Cael Caderu",27,0.008195761620419155
+"Redline XIII",44,"White 0rchid",28,0.039610185476265325
+"Redline XIII",44,"hyprviper1",29,0.037669050485024426
+"Redline XIII",44,"Scott Renton",30,0.02888700084961767
+"Redline XIII",44,"Gideon Zendikar",31,0.03297911322828875
+"Redline XIII",44,"Aliventi",32,0.0370872908186341
+"Redline XIII",44,"KaeL EaglesEye",33,0.2170145726664041
+"Redline XIII",44,"Trottel Elf",34,0.06362591031046377
+"Redline XIII",44,"Agondray",35,0.027429102742910275
+"Redline XIII",44,"Scrapyard Attendant",36,0.04432383536861149
+"Redline XIII",44,"Styxx",37,0.05456800330715172
+"Redline XIII",44,"TheSupremeMagus",38,0.03912850155624722
+"Redline XIII",44,"Furnok Dorn",39,0.022833419823559936
+"Redline XIII",44,"Winzentowitsch Madeveda",40,0.028657205240174673
+"Redline XIII",44,"Sarin Blackfist",41,0.010158572844400396
+"Redline XIII",44,"Kane Carnifex",42,0.02847324496809033
+"Redline XIII",44,"Mifune SwordGod",43,0.042232277526395176
+"Redline XIII",44,"Redline XIII",44,1.0
