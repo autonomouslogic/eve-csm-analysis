@@ -1,10 +1,11 @@
 # CSM [(${analysis.csmNumber})]
 
+* Method: [Wright single transferable vote](https://en.wikipedia.org/wiki/Wright_system)
 * Elected: [(${analysis.winners.size() + data.ccpPicks.size()})]
 * Candidates: [(${analysis.candidateCount})]
 * Total votes: [(${#numbers.formatInteger(analysis.totalVotes, 1, 'COMMA')})]
-* [Ballots without a winner](/ballots-without-a-winner): [(${#numbers.formatInteger(analysis.ballotsWithoutWinner, 1, 'COMMA')})] ([(${#numbers.formatPercent(1.0 * analysis.ballotsWithoutWinner / analysis.totalVotes, 1, 1)})])
-* [Least significant rank](/least-significant-rank): [(${analysis.leastSignificantRank})]
+* [Ballots without a winner](/glossary#ballots-without-a-winner): [(${#numbers.formatInteger(analysis.ballotsWithoutWinner, 1, 'COMMA')})] ([(${#numbers.formatPercent(1.0 * analysis.ballotsWithoutWinner / analysis.totalVotes, 1, 1)})])
+* [Least significant rank](/glossary#least-significant-rank): [(${analysis.leastSignificantRank})]
 
 [# th:if="${data.urls.size()} > 0"]
 ## Posts
@@ -20,7 +21,7 @@
         <tr>
             <th>Candidate</th>
             <th>Election round</th>
-            <th><a href="/votes-at-election">Votes at election</a></th>
+            <th><a href="/glossary#votes-at-election">Votes at election</a></th>
         </tr>
     </thead>
     <tbody>
@@ -86,18 +87,18 @@
 
 ## Candidate Statistics
 
-See [candidate statistics](/candidate-statistics) for how each column is calculated.
+See [candidate statistics](/glossary#candidate-statistics) for how each column is calculated.
 
 <table>
     <thead>
         <tr>
             <th>Candidate</th>
-            <th><a href="/candidate-statistics#ballots">Ballots</a></th>
-            <th><a href="/candidate-statistics#ballots">Ballots %</a></th>
-            <th><a href="/candidate-statistics#first-choice">First choice</a></th>
-            <th><a href="/candidate-statistics#first-choice">First choice %</a></th>
-            <th><a href="/candidate-statistics#mean-rank">Mean rank</a></th>
-            <th><a href="/candidate-statistics#median-rank">Median rank</a></th>
+            <th><a href="/glossary#ballots">Ballots</a></th>
+            <th><a href="/glossary#ballots">Ballots %</a></th>
+            <th><a href="/glossary#first-choice">First choice</a></th>
+            <th><a href="/glossary#first-choice">First choice %</a></th>
+            <th><a href="/glossary#mean-rank">Mean rank</a></th>
+            <th><a href="/glossary#median-rank">Median rank</a></th>
         </tr>
     </thead>
     <tbody>
@@ -211,7 +212,7 @@ Number of ballots placing each candidate at each rank.
 
 ## Candidate Overlap
 
-How often pairs of candidates appear on the same ballots. Each cell is the [Jaccard index](/jaccard-index)
+How often pairs of candidates appear on the same ballots. Each cell is the [Jaccard index](/glossary#jaccard-index)
 for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same ballots). Candidates are in the same order as the vote distribution. The red box encloses the elected candidates.
 
 ```vegalite

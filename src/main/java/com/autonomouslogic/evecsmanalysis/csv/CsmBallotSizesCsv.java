@@ -20,7 +20,8 @@ public class CsmBallotSizesCsv {
 		try (var writer = new FileWriter(file, StandardCharsets.UTF_8)) {
 			writer.write("Ranks,Ballots\n");
 			var sizes = analysis.getBallotSizes();
-			for (int ranks = 0; ranks < sizes.size(); ranks++) {
+			// Index 0 is ballots defining no ranks, which are not shown.
+			for (int ranks = 1; ranks < sizes.size(); ranks++) {
 				writer.write("%d,%d\n".formatted(ranks, sizes.get(ranks)));
 			}
 		}
