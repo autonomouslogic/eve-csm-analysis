@@ -27,42 +27,42 @@
         <tr>
             <td>Kazanir</td>
             <td style="text-align: right">1</td>
-            <td style="text-align: right">6,741</td>
+            <td style="text-align: right">6,741.0</td>
         </tr>
         <tr>
             <td>Alcoholic Satan</td>
             <td style="text-align: right">1</td>
-            <td style="text-align: right">6,501</td>
+            <td style="text-align: right">6,501.0</td>
         </tr>
         <tr>
             <td>Luke Anninan</td>
             <td style="text-align: right">30</td>
-            <td style="text-align: right">4,169</td>
+            <td style="text-align: right">4,169.0</td>
         </tr>
         <tr>
             <td>Angry Mustache</td>
             <td style="text-align: right">32</td>
-            <td style="text-align: right">4,136</td>
+            <td style="text-align: right">4,136.4</td>
         </tr>
         <tr>
             <td>Storm Delay</td>
             <td style="text-align: right">33</td>
-            <td style="text-align: right">4,108</td>
+            <td style="text-align: right">4,108.3</td>
         </tr>
         <tr>
             <td>Dark Shines</td>
             <td style="text-align: right">38</td>
-            <td style="text-align: right">3,968</td>
+            <td style="text-align: right">3,968.0</td>
         </tr>
         <tr>
             <td>Mike Azariah</td>
             <td style="text-align: right">38</td>
-            <td style="text-align: right">4,237</td>
+            <td style="text-align: right">4,237.4</td>
         </tr>
         <tr>
             <td>The Oz </td>
             <td style="text-align: right">38</td>
-            <td style="text-align: right">3,973</td>
+            <td style="text-align: right">3,973.1</td>
         </tr>
         <tr>
             <td>Mark Resurrectus</td>
@@ -100,6 +100,7 @@
         <tr>
             <th>Candidate</th>
             <th>Elimination round</th>
+            <th>Votes at elimination</th>
         </tr>
     </thead>
     <tbody>
@@ -107,158 +108,197 @@
         <tr>
             <td>Dujek Oneye</td>
             <td style="text-align: right">39</td>
+            <td style="text-align: right">2,916.3</td>
         </tr>
         <tr>
             <td>Torvald Uruz</td>
             <td style="text-align: right">38</td>
+            <td style="text-align: right">2,220.8</td>
         </tr>
         <tr>
             <td>Arhont Sibirskii</td>
             <td style="text-align: right">37</td>
+            <td style="text-align: right">1,941.6</td>
         </tr>
         <tr>
             <td>Phantomite </td>
             <td style="text-align: right">36</td>
+            <td style="text-align: right">1,821.8</td>
         </tr>
         <tr>
             <td>Pandoralica </td>
             <td style="text-align: right">35</td>
+            <td style="text-align: right">1,706.0</td>
         </tr>
         <tr>
             <td>White 0rchid</td>
             <td style="text-align: right">34</td>
+            <td style="text-align: right">1,311.8</td>
         </tr>
         <tr>
             <td>Stitch Kaneland</td>
             <td style="text-align: right">33</td>
+            <td style="text-align: right">1,080.5</td>
         </tr>
         <tr>
             <td>Kelmac</td>
             <td style="text-align: right">32</td>
+            <td style="text-align: right">1,052.4</td>
         </tr>
         <tr>
             <td>Kshal Aideron</td>
             <td style="text-align: right">31</td>
+            <td style="text-align: right">1,022.7</td>
         </tr>
         <tr>
             <td>DutchGunner</td>
             <td style="text-align: right">30</td>
+            <td style="text-align: right">913.5</td>
         </tr>
         <tr>
             <td>Velonad Tyldamere</td>
             <td style="text-align: right">29</td>
+            <td style="text-align: right">802.4</td>
         </tr>
         <tr>
             <td>Larkness</td>
             <td style="text-align: right">28</td>
+            <td style="text-align: right">691.9</td>
         </tr>
         <tr>
             <td>Nuke Michael</td>
             <td style="text-align: right">27</td>
+            <td style="text-align: right">659.9</td>
         </tr>
         <tr>
             <td>Lee Adoulin</td>
             <td style="text-align: right">26</td>
+            <td style="text-align: right">620.4</td>
         </tr>
         <tr>
             <td>RGC Godfather </td>
             <td style="text-align: right">25</td>
+            <td style="text-align: right">570.0</td>
         </tr>
         <tr>
             <td>Drake Iddon</td>
             <td style="text-align: right">24</td>
+            <td style="text-align: right">550.0</td>
         </tr>
         <tr>
             <td>Rots Mijnwerker</td>
             <td style="text-align: right">23</td>
+            <td style="text-align: right">537.9</td>
         </tr>
         <tr>
             <td>Gustav Mannfred</td>
             <td style="text-align: right">22</td>
+            <td style="text-align: right">476.0</td>
         </tr>
         <tr>
             <td>MILINT ARC Trooper</td>
             <td style="text-align: right">21</td>
+            <td style="text-align: right">457.4</td>
         </tr>
         <tr>
             <td>Gideon Zendikar</td>
             <td style="text-align: right">20</td>
+            <td style="text-align: right">437.1</td>
         </tr>
         <tr>
             <td>Twan Molenaar</td>
             <td style="text-align: right">19</td>
+            <td style="text-align: right">390.0</td>
         </tr>
         <tr>
             <td>Gabriell Bemenacth</td>
             <td style="text-align: right">18</td>
+            <td style="text-align: right">360.8</td>
         </tr>
         <tr>
             <td>Gornilo STrubanov</td>
             <td style="text-align: right">17</td>
+            <td style="text-align: right">347.6</td>
         </tr>
         <tr>
             <td>Nala Queen</td>
             <td style="text-align: right">16</td>
+            <td style="text-align: right">341.8</td>
         </tr>
         <tr>
             <td>Yondu Quill</td>
             <td style="text-align: right">15</td>
+            <td style="text-align: right">334.1</td>
         </tr>
         <tr>
             <td>Rico Shikkoken</td>
             <td style="text-align: right">14</td>
+            <td style="text-align: right">325.8</td>
         </tr>
         <tr>
             <td>Lady Death Strike</td>
             <td style="text-align: right">13</td>
+            <td style="text-align: right">311.7</td>
         </tr>
         <tr>
             <td>Cael Caderu</td>
             <td style="text-align: right">12</td>
+            <td style="text-align: right">300.9</td>
         </tr>
         <tr>
             <td>Kontan Rekor</td>
             <td style="text-align: right">11</td>
+            <td style="text-align: right">300.3</td>
         </tr>
         <tr>
             <td>Kilyavi Alaailaa</td>
             <td style="text-align: right">10</td>
+            <td style="text-align: right">291.2</td>
         </tr>
         <tr>
             <td>Corporal Fillip</td>
             <td style="text-align: right">9</td>
+            <td style="text-align: right">284.2</td>
         </tr>
         <tr>
             <td>Dario Kaelenter</td>
             <td style="text-align: right">8</td>
+            <td style="text-align: right">266.9</td>
         </tr>
         <tr>
             <td>Styxx </td>
             <td style="text-align: right">7</td>
+            <td style="text-align: right">254.3</td>
         </tr>
         <tr>
             <td>Sol Weintroub </td>
             <td style="text-align: right">6</td>
+            <td style="text-align: right">235.5</td>
         </tr>
         <tr>
             <td>Grima The Mad</td>
             <td style="text-align: right">5</td>
+            <td style="text-align: right">190.2</td>
         </tr>
         <tr>
             <td>Dhuras</td>
             <td style="text-align: right">4</td>
+            <td style="text-align: right">182.7</td>
         </tr>
         <tr>
             <td>SeriesPro </td>
             <td style="text-align: right">3</td>
+            <td style="text-align: right">164.1</td>
         </tr>
         <tr>
             <td>Melicien Tetro</td>
             <td style="text-align: right">2</td>
+            <td style="text-align: right">139.9</td>
         </tr>
         <tr>
             <td>William Chen</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">110.1</td>
         </tr>
         
     </tbody>

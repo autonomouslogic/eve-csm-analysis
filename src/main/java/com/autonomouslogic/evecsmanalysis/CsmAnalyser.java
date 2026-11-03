@@ -38,9 +38,9 @@ public class CsmAnalyser {
 				.csmNumber(csmConfig.getCsmNumber())
 				.candidateCount(ballotFile.getCandidateCount())
 				.totalVotes(totalVotes())
-				//				.leastSignificantRank(1)
+				.leastSignificantRank(1)
 				.leastSignificantRank(findLeastSignificantRank())
-				.withdrawnCandidates(withdrawnCandidates(ballotFile))
+				//				.withdrawnCandidates(withdrawnCandidates(ballotFile))
 				.rankDistribution(rankDistribution(ballotFile, electionOrder(auditLog)));
 		winnersAndEliminations(data);
 		return data.build();
@@ -157,8 +157,11 @@ public class CsmAnalyser {
 				throw new IllegalArgumentException();
 			}
 			if (!seenEliminations.contains(eliminated)) {
-				eliminations.add(
-						CandidateRound.builder().candidate(eliminated).round(r).build());
+				eliminations.add(CandidateRound.builder()
+						.candidate(eliminated)
+						.round(r)
+						.votes(round.getElimination().getVotes())
+						.build());
 				seenEliminations.add(eliminated);
 			}
 		}

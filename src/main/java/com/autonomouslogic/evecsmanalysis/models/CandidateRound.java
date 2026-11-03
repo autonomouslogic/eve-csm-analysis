@@ -12,7 +12,8 @@ public class CandidateRound {
 	int round;
 
 	/**
-	 * Votes the candidate held at the start of {@link #round}. Only set for winners elected in the audit log.
+	 * Votes held in {@link #round}: at election for winners, at elimination for eliminated candidates. Null for
+	 * winners declared in the final result without an election in a round.
 	 */
 	Double votes;
 }

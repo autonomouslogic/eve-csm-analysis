@@ -162,6 +162,7 @@ public class CsmAnalyserTest {
 		new CsmAnalyser(csmConfig, ballotFile, auditLog).winnersAndEliminations(data);
 		var winners = data.build().getWinners();
 		assertEquals(40.0, winners.get(1).getVotes());
+		assertEquals(40.0, data.build().getEliminations().get(0).getVotes());
 	}
 
 	private static Elimination elimination(String candidate) {

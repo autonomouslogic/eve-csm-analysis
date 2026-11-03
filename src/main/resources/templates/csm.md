@@ -27,7 +27,7 @@
         <tr>
             <td>[(${winner.candidate})]</td>
             <td style="text-align: right">[(${winner.round})]</td>
-            <td style="text-align: right">[(${winner.votes != null} ? ${#numbers.formatInteger(winner.votes, 1, 'COMMA')} : '')]</td>
+            <td style="text-align: right">[(${winner.votes != null} ? ${#numbers.formatDecimal(winner.votes, 1, 'COMMA', 1, 'POINT')} : '')]</td>
         </tr>
         [/]
         [# th:if="${data.ccpPicks.size()} > 0"]
@@ -67,6 +67,7 @@
         <tr>
             <th>Candidate</th>
             <th>Elimination round</th>
+            <th>Votes at elimination</th>
         </tr>
     </thead>
     <tbody>
@@ -74,6 +75,7 @@
         <tr>
             <td>[(${eliminated.candidate})]</td>
             <td style="text-align: right">[(${eliminated.round})]</td>
+            <td style="text-align: right">[(${#numbers.formatDecimal(eliminated.votes, 1, 'COMMA', 1, 'POINT')})]</td>
         </tr>
         [/]
     </tbody>
