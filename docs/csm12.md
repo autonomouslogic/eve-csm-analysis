@@ -434,32 +434,53 @@ Number of ballots placing each candidate at each rank.
     "format": {"type": "csv", "parse": {"Order": "number", "Rank": "number", "Votes": "number"}}
   },
   "height": {"step": 18},
-  "mark": {"type": "rect", "tooltip": true},
   "encoding": {
-    "x": {
-      "field": "Rank",
-      "type": "ordinal",
-      "title": "Rank",
-      "sort": {"op": "min", "field": "Rank", "order": "ascending"}
-    },
     "y": {
       "field": "Candidate",
       "type": "nominal",
       "title": null,
       "sort": {"op": "min", "field": "Order", "order": "ascending"}
+    }
+  },
+  "layer": [
+    {
+      "mark": {"type": "rect", "tooltip": true},
+      "encoding": {
+        "x": {
+          "field": "Rank",
+          "type": "ordinal",
+          "title": "Rank",
+          "sort": {"op": "min", "field": "Rank", "order": "ascending"}
+        },
+        "color": {
+          "field": "Votes",
+          "type": "quantitative",
+          "title": "Ballots",
+          "scale": {"scheme": "blues"}
+        },
+        "tooltip": [
+          {"field": "Candidate", "type": "nominal"},
+          {"field": "Rank", "type": "ordinal"},
+          {"field": "Votes", "type": "quantitative"}
+        ]
+      }
     },
-    "color": {
-      "field": "Votes",
-      "type": "quantitative",
-      "title": "Ballots",
-      "scale": {"scheme": "blues"}
-    },
-    "tooltip": [
-      {"field": "Candidate", "type": "nominal"},
-      {"field": "Rank", "type": "ordinal"},
-      {"field": "Votes", "type": "quantitative"}
-    ]
-  }
+    {
+      "mark": {"type": "rule", "color": "#d62728", "strokeWidth": 2},
+      "encoding": {
+        "y": {
+          "field": "Candidate",
+          "type": "nominal",
+          "bandPosition": 1,
+          "sort": {"op": "min", "field": "Order", "order": "ascending"}
+        },
+        "opacity": {
+          "condition": {"test": "datum.Rank == 1 && datum.Order == 10", "value": 1},
+          "value": 0
+        }
+      }
+    }
+  ]
 }
 ```
 
