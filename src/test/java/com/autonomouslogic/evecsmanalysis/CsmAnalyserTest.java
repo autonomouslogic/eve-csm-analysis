@@ -4,12 +4,15 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import com.autonomouslogic.evecsmanalysis.models.AuditLog;
 import com.autonomouslogic.evecsmanalysis.models.CandidateRankDistribution;
+import com.autonomouslogic.evecsmanalysis.models.CandidateStatistics;
 import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.autonomouslogic.evecsmanalysis.models.Elimination;
+import com.autonomouslogic.evecsmanalysis.models.PopularBallot;
 import com.autonomouslogic.evecsmanalysis.models.Round;
 import com.autonomouslogic.evecsmanalysis.parser.AuditLogParser;
 import com.autonomouslogic.evecsmanalysis.parser.BallotParser;
+import java.util.Arrays;
 import java.util.List;
 import org.junit.jupiter.api.Test;
 
@@ -132,6 +135,37 @@ public class CsmAnalyserTest {
 	}
 
 	@Test
+	public void shouldCalculateJaccardIndexWeightedByVotesInGivenOrder() {
+		var ballotFile = new BallotParser("3 3\n"
+						+ "2 1 2\n"
+						+ "1 2 3\n"
+						+ "1 3\n"
+						+ "0\n"
+						+ "\"Alice\"\n"
+						+ "\"Bob\"\n"
+						+ "\"Carol\"\n"
+						+ "CSM test\n")
+				.parse();
+		var distribution = CsmAnalyser.rankDistribution(ballotFile, List.of("Carol", "Alice", "Bob"));
+		var index = CsmAnalyser.jaccardIndex(ballotFile, distribution);
+		// Alice on 2 ballots, Bob on 3, Carol on 2. Alice and Bob share 2 ballots (union 3), Bob and Carol share 1
+		// (union 4),
+		// Alice and Carol share none.
+		assertEquals(
+				List.of(List.of(1.0, 0.0, 1.0 / 4), List.of(0.0, 1.0, 2.0 / 3), List.of(1.0 / 4, 2.0 / 3, 1.0)), index);
+	}
+
+	@Test
+	public void shouldReturnNullJaccardIndexWhenNeitherCandidateIsOnAnyBallot() {
+		var ballotFile =
+				new BallotParser("2 1\n" + "1 1\n" + "0\n" + "\"Alice\"\n" + "\"Bob\"\n" + "CSM test\n").parse();
+		var distribution = CsmAnalyser.rankDistribution(ballotFile, List.of("Alice"));
+		assertEquals(
+				List.of(Arrays.asList(1.0, 0.0), Arrays.asList(0.0, null)),
+				CsmAnalyser.jaccardIndex(ballotFile, distribution));
+	}
+
+	@Test
 	public void shouldIncludeTransfersReceivedBeforeElectionInVotesAtElection() {
 		var ballotFile = new BallotParser(
 						"3 2\n" + "1 1 2\n" + "0\n" + "\"Zintage\"\n" + "\"hyprviper1\"\n" + "\"Bob\"\n" + "CSM test\n")
@@ -214,6 +248,86 @@ public class CsmAnalyserTest {
 						+ "CSM test\n")
 				.parse();
 		assertEquals(14, CsmAnalyser.ballotsWithoutWinner(ballotFile, List.of("Alice")));
+	}
+
+	@Test
+	public void shouldCalculateBallotsFirstChoiceMeanAndMedianRank() {
+		var distribution = List.of(
+				row("Alice", false, List.of(2, 1, 1)),
+				row("Bob", false, List.of(0, 0, 0)),
+				row("Carol", false, List.of(0, 3, 0)));
+		var stats = CsmAnalyser.candidateStatistics(distribution, List.of("Alice"));
+		assertEquals(
+				List.of(
+						CandidateStatistics.builder()
+								.candidate("Alice")
+								.elected(true)
+								.ballots(4)
+								.firstChoiceBallots(2)
+								.meanRank(1.75)
+								.medianRank(1.5)
+								.build(),
+						CandidateStatistics.builder()
+								.candidate("Bob")
+								.ballots(0)
+								.firstChoiceBallots(0)
+								.build(),
+						CandidateStatistics.builder()
+								.candidate("Carol")
+								.ballots(3)
+								.firstChoiceBallots(0)
+								.meanRank(2.0)
+								.medianRank(2.0)
+								.build()),
+				stats);
+	}
+
+	@Test
+	public void shouldUseOddCountMiddleValueForMedian() {
+		assertEquals(2.0, CsmAnalyser.median(List.of(1, 1, 1), 3));
+		assertEquals(2.5, CsmAnalyser.median(List.of(1, 1, 1, 1), 4));
+		assertEquals(3.0, CsmAnalyser.median(List.of(0, 0, 5), 5));
+	}
+
+	@Test
+	public void shouldFindMostPopularBallotCompositions() {
+		var ballotFile = new BallotParser("3 1\n"
+						+ "3 1 2\n"
+						+ "2 2 1\n"
+						+ "3 1 2\n"
+						+ "1 3\n"
+						+ "0\n"
+						+ "\"Alice\"\n"
+						+ "\"Bob\"\n"
+						+ "\"Carol\"\n"
+						+ "CSM test\n")
+				.parse();
+		assertEquals(
+				List.of(
+						PopularBallot.builder()
+								.candidates(List.of("Alice", "Bob"))
+								.ballots(6)
+								.build(),
+						PopularBallot.builder()
+								.candidates(List.of("Bob", "Alice"))
+								.ballots(2)
+								.build()),
+				CsmAnalyser.popularBallots(ballotFile, 2));
+	}
+
+	@Test
+	public void shouldCountBallotsPerNumberOfRanks() {
+		var ballotFile = new BallotParser("3 1\n"
+						+ "1 1 2\n"
+						+ "2 2 1 3\n"
+						+ "1 3\n"
+						+ "0\n"
+						+ "\"Alice\"\n"
+						+ "\"Bob\"\n"
+						+ "\"Carol\"\n"
+						+ "CSM test\n")
+				.parse();
+		assertEquals(List.of(0, 1, 1, 2), CsmAnalyser.ballotSizes(ballotFile));
 	}
 
 	private static Elimination elimination(String candidate) {

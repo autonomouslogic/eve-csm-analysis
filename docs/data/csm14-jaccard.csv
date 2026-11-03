@@ -1,0 +1,1937 @@
+Candidate,Order,Other,OtherOrder,Jaccard
+"Aryth",1,"Aryth",1,1.0
+"Aryth",1,"Gobbins",2,0.0671789667004978
+"Aryth",1,"Olmeca Gold",3,0.07197659921358013
+"Aryth",1,"Vily",4,0.42851752275836047
+"Aryth",1,"Merkelchen",5,0.7900743558706553
+"Aryth",1,"Killah Bee",6,0.4221243547852441
+"Aryth",1,"Dunk Dinkle",7,0.37550483704329857
+"Aryth",1,"ExookiZ",8,0.020428194589289
+"Aryth",1,"Steve Ronuken",9,0.4576290543627227
+"Aryth",1,"Innominate",10,0.651831731438919
+"Aryth",1,"Sort Dragon",11,0.651771489264851
+"Aryth",1,"Cornak Firefist",12,0.019954564990483207
+"Aryth",1,"Stitch Kaneland",13,0.010874802119898134
+"Aryth",1,"Matterall",14,0.0839153708896253
+"Aryth",1,"Mike Azariah",15,0.021499815293683045
+"Aryth",1,"The Judge",16,0.6413043478260869
+"Aryth",1,"Arrowspeeed Bounty",17,0.07297817715019256
+"Aryth",1,"Lorelei Ierendi",18,0.00903954802259887
+"Aryth",1,"Jurius Doctor",19,0.018283881315156375
+"Aryth",1,"Matthew Dust",20,0.011465757669662225
+"Aryth",1,"Insidious Sainthood",21,0.006006006006006006
+"Aryth",1,"Lucrative Business Opportunity",22,0.003503124408256012
+"Aryth",1,"Compayn",23,0.006022563406565443
+"Aryth",1,"Xenuria",24,0.6560419071295392
+"Aryth",1,"BlazingBunny",25,0.007537499057812618
+"Aryth",1,"Manic Velocity",26,0.0186536901865369
+"Aryth",1,"Blood Ruin",27,0.01135593220338983
+"Aryth",1,"Crystalline Entity",28,0.004525740147086555
+"Aryth",1,"Aegaeonos",29,0.0033006166941718057
+"Aryth",1," Nahtor Raschura ",30,0.004061110036743376
+"Aryth",1,"teddy Gbyc",31,0.005086747206830775
+"Aryth",1,"Zap InSpace",32,0.005135867027733682
+"Aryth",1,"Doris Andedarie",33,0.005617442635437494
+"Aryth",1,"Arqui Nurbs",34,0.0035983550376970526
+"Aryth",1,"Mr Deathwhisper",35,0.004612045577862181
+"Aryth",1,"Anveri Vestigo",36,0.00549551199853453
+"Aryth",1,"Carbon Alabel",37,0.005117231112765166
+"Aryth",1,"Liz Lizardbreath",38,0.010314685314685315
+"Aryth",1,"Aeryn-Sun",39,0.009659143679762236
+"Aryth",1,"Darien Avan",40,0.004866180048661801
+"Aryth",1,"Cacique Yuhasz",41,0.005933617652512517
+"Aryth",1,"Zipp Adoudel",42,0.007540326429321371
+"Aryth",1,"Fiedan",43,0.004374702805515929
+"Aryth",1,"Styxx",44,0.008580417580322242
+"Gobbins",2,"Aryth",1,0.0671789667004978
+"Gobbins",2,"Gobbins",2,1.0
+"Gobbins",2,"Olmeca Gold",3,0.41118800461361016
+"Gobbins",2,"Vily",4,0.3765400628770499
+"Gobbins",2,"Merkelchen",5,0.07252303064485806
+"Gobbins",2,"Killah Bee",6,0.44424476592685774
+"Gobbins",2,"Dunk Dinkle",7,0.30203150912106136
+"Gobbins",2,"ExookiZ",8,0.10914576431613819
+"Gobbins",2,"Steve Ronuken",9,0.15464305108818246
+"Gobbins",2,"Innominate",10,0.1604672057502246
+"Gobbins",2,"Sort Dragon",11,0.10429476214691877
+"Gobbins",2,"Cornak Firefist",12,0.2719554438633431
+"Gobbins",2,"Stitch Kaneland",13,0.09132242140815797
+"Gobbins",2,"Matterall",14,0.580634255189668
+"Gobbins",2,"Mike Azariah",15,0.0934220454077783
+"Gobbins",2,"The Judge",16,0.021705567160112616
+"Gobbins",2,"Arrowspeeed Bounty",17,0.4322001673131037
+"Gobbins",2,"Lorelei Ierendi",18,0.01666790132602415
+"Gobbins",2,"Jurius Doctor",19,0.07527584204413473
+"Gobbins",2,"Matthew Dust",20,0.0999057492931197
+"Gobbins",2,"Insidious Sainthood",21,0.03022182521959208
+"Gobbins",2,"Lucrative Business Opportunity",22,0.0064914502849905
+"Gobbins",2,"Compayn",23,0.014298156481347074
+"Gobbins",2,"Xenuria",24,0.020090382159347678
+"Gobbins",2,"BlazingBunny",25,0.21646892433409287
+"Gobbins",2,"Manic Velocity",26,0.10654997568937973
+"Gobbins",2,"Blood Ruin",27,0.022712382616291767
+"Gobbins",2,"Crystalline Entity",28,0.009965989084869098
+"Gobbins",2,"Aegaeonos",29,0.10316435259928963
+"Gobbins",2," Nahtor Raschura ",30,0.00458125703263141
+"Gobbins",2,"teddy Gbyc",31,0.020914020139426802
+"Gobbins",2,"Zap InSpace",32,0.009246924222239637
+"Gobbins",2,"Doris Andedarie",33,0.004118811881188119
+"Gobbins",2,"Arqui Nurbs",34,0.1277012150371035
+"Gobbins",2,"Mr Deathwhisper",35,0.041916167664670656
+"Gobbins",2,"Anveri Vestigo",36,0.026982508432033887
+"Gobbins",2,"Carbon Alabel",37,0.02328897338403042
+"Gobbins",2,"Liz Lizardbreath",38,0.05583011583011583
+"Gobbins",2,"Aeryn-Sun",39,0.01850980392156863
+"Gobbins",2,"Darien Avan",40,0.004359761020507024
+"Gobbins",2,"Cacique Yuhasz",41,0.04086384071933205
+"Gobbins",2,"Zipp Adoudel",42,0.008998248128682912
+"Gobbins",2,"Fiedan",43,0.004915173616616458
+"Gobbins",2,"Styxx",44,0.011393514460999123
+"Olmeca Gold",3,"Aryth",1,0.07197659921358013
+"Olmeca Gold",3,"Gobbins",2,0.41118800461361016
+"Olmeca Gold",3,"Olmeca Gold",3,1.0
+"Olmeca Gold",3,"Vily",4,0.2178531494595602
+"Olmeca Gold",3,"Merkelchen",5,0.06394839898640867
+"Olmeca Gold",3,"Killah Bee",6,0.2762774584678372
+"Olmeca Gold",3,"Dunk Dinkle",7,0.23030020583323624
+"Olmeca Gold",3,"ExookiZ",8,0.1929637526652452
+"Olmeca Gold",3,"Steve Ronuken",9,0.15351239669421488
+"Olmeca Gold",3,"Innominate",10,0.06790476969647385
+"Olmeca Gold",3,"Sort Dragon",11,0.08088399767369034
+"Olmeca Gold",3,"Cornak Firefist",12,0.08988184008259723
+"Olmeca Gold",3,"Stitch Kaneland",13,0.24797193597895198
+"Olmeca Gold",3,"Matterall",14,0.37547981854135165
+"Olmeca Gold",3,"Mike Azariah",15,0.10894542470250308
+"Olmeca Gold",3,"The Judge",16,0.029472922882198715
+"Olmeca Gold",3,"Arrowspeeed Bounty",17,0.33983169705469846
+"Olmeca Gold",3,"Lorelei Ierendi",18,0.05042773525438991
+"Olmeca Gold",3,"Jurius Doctor",19,0.08711629917855598
+"Olmeca Gold",3,"Matthew Dust",20,0.11179095882522315
+"Olmeca Gold",3,"Insidious Sainthood",21,0.09165442029545982
+"Olmeca Gold",3,"Lucrative Business Opportunity",22,0.014291292463881297
+"Olmeca Gold",3,"Compayn",23,0.0805338591036627
+"Olmeca Gold",3,"Xenuria",24,0.034769351824530344
+"Olmeca Gold",3,"BlazingBunny",25,0.11271186440677966
+"Olmeca Gold",3,"Manic Velocity",26,0.09827177228058286
+"Olmeca Gold",3,"Blood Ruin",27,0.09244146136831669
+"Olmeca Gold",3,"Crystalline Entity",28,0.02749330392311328
+"Olmeca Gold",3,"Aegaeonos",29,0.09660163624921334
+"Olmeca Gold",3," Nahtor Raschura ",30,0.008925750394944709
+"Olmeca Gold",3,"teddy Gbyc",31,0.053068252974326866
+"Olmeca Gold",3,"Zap InSpace",32,0.031526939063602856
+"Olmeca Gold",3,"Doris Andedarie",33,0.023147416653499762
+"Olmeca Gold",3,"Arqui Nurbs",34,0.11424508177293198
+"Olmeca Gold",3,"Mr Deathwhisper",35,0.04095010411043418
+"Olmeca Gold",3,"Anveri Vestigo",36,0.058353127474267616
+"Olmeca Gold",3,"Carbon Alabel",37,0.03426107408859271
+"Olmeca Gold",3,"Liz Lizardbreath",38,0.03695167286245353
+"Olmeca Gold",3,"Aeryn-Sun",39,0.013296652911508482
+"Olmeca Gold",3,"Darien Avan",40,0.008087535680304472
+"Olmeca Gold",3,"Cacique Yuhasz",41,0.039575971731448764
+"Olmeca Gold",3,"Zipp Adoudel",42,0.012118842845973418
+"Olmeca Gold",3,"Fiedan",43,0.024120205614867538
+"Olmeca Gold",3,"Styxx",44,0.016380594090445958
+"Vily",4,"Aryth",1,0.42851752275836047
+"Vily",4,"Gobbins",2,0.3765400628770499
+"Vily",4,"Olmeca Gold",3,0.2178531494595602
+"Vily",4,"Vily",4,1.0
+"Vily",4,"Merkelchen",5,0.45686780934491666
+"Vily",4,"Killah Bee",6,0.7198448555110392
+"Vily",4,"Dunk Dinkle",7,0.6840270396666809
+"Vily",4,"ExookiZ",8,0.10381260493877718
+"Vily",4,"Steve Ronuken",9,0.4613126783530371
+"Vily",4,"Innominate",10,0.5786373544826307
+"Vily",4,"Sort Dragon",11,0.46773382117539447
+"Vily",4,"Cornak Firefist",12,0.27307965020089814
+"Vily",4,"Stitch Kaneland",13,0.0253392923039075
+"Vily",4,"Matterall",14,0.3684461391801716
+"Vily",4,"Mike Azariah",15,0.06963763621865864
+"Vily",4,"The Judge",16,0.4014148790506618
+"Vily",4,"Arrowspeeed Bounty",17,0.24726668819486092
+"Vily",4,"Lorelei Ierendi",18,0.016313667330954258
+"Vily",4,"Jurius Doctor",19,0.050474625775830596
+"Vily",4,"Matthew Dust",20,0.047217991219424785
+"Vily",4,"Insidious Sainthood",21,0.0077714285714285715
+"Vily",4,"Lucrative Business Opportunity",22,0.004899841475716962
+"Vily",4,"Compayn",23,0.008090173620579948
+"Vily",4,"Xenuria",24,0.35935813822549617
+"Vily",4,"BlazingBunny",25,0.099930345948456
+"Vily",4,"Manic Velocity",26,0.10199981736827687
+"Vily",4,"Blood Ruin",27,0.013434127237123731
+"Vily",4,"Crystalline Entity",28,0.004213348654601168
+"Vily",4,"Aegaeonos",29,0.036147432253174155
+"Vily",4," Nahtor Raschura ",30,0.003684312584836145
+"Vily",4,"teddy Gbyc",31,0.0058322750576172335
+"Vily",4,"Zap InSpace",32,0.00721349066067931
+"Vily",4,"Doris Andedarie",33,0.005973600539551017
+"Vily",4,"Arqui Nurbs",34,0.03801761907005229
+"Vily",4,"Mr Deathwhisper",35,0.024624653342258773
+"Vily",4,"Anveri Vestigo",36,0.005761239138647525
+"Vily",4,"Carbon Alabel",37,0.007632495348948147
+"Vily",4,"Liz Lizardbreath",38,0.03741286926833894
+"Vily",4,"Aeryn-Sun",39,0.030039371992417244
+"Vily",4,"Darien Avan",40,0.005748526331173576
+"Vily",4,"Cacique Yuhasz",41,0.017201614453200075
+"Vily",4,"Zipp Adoudel",42,0.006702994647248879
+"Vily",4,"Fiedan",43,0.004473734847027131
+"Vily",4,"Styxx",44,0.006889574099055695
+"Merkelchen",5,"Aryth",1,0.7900743558706553
+"Merkelchen",5,"Gobbins",2,0.07252303064485806
+"Merkelchen",5,"Olmeca Gold",3,0.06394839898640867
+"Merkelchen",5,"Vily",4,0.45686780934491666
+"Merkelchen",5,"Merkelchen",5,1.0
+"Merkelchen",5,"Killah Bee",6,0.46087740955274903
+"Merkelchen",5,"Dunk Dinkle",7,0.41328187508824776
+"Merkelchen",5,"ExookiZ",8,0.06114470710402541
+"Merkelchen",5,"Steve Ronuken",9,0.4476904420681292
+"Merkelchen",5,"Innominate",10,0.7155384075762891
+"Merkelchen",5,"Sort Dragon",11,0.7113966395499126
+"Merkelchen",5,"Cornak Firefist",12,0.025292518614820944
+"Merkelchen",5,"Stitch Kaneland",13,0.01001833420639078
+"Merkelchen",5,"Matterall",14,0.08289441299532366
+"Merkelchen",5,"Mike Azariah",15,0.014064893468876202
+"Merkelchen",5,"The Judge",16,0.6764285714285714
+"Merkelchen",5,"Arrowspeeed Bounty",17,0.11476561502107549
+"Merkelchen",5,"Lorelei Ierendi",18,0.009814345301382187
+"Merkelchen",5,"Jurius Doctor",19,0.03218867634631636
+"Merkelchen",5,"Matthew Dust",20,0.007449605609114811
+"Merkelchen",5,"Insidious Sainthood",21,0.005242781093724795
+"Merkelchen",5,"Lucrative Business Opportunity",22,0.0076437649986667855
+"Merkelchen",5,"Compayn",23,0.004064716665338328
+"Merkelchen",5,"Xenuria",24,0.6139503912102547
+"Merkelchen",5,"BlazingBunny",25,0.005991013479780329
+"Merkelchen",5,"Manic Velocity",26,0.06249087458023069
+"Merkelchen",5,"Blood Ruin",27,0.008595988538681949
+"Merkelchen",5,"Crystalline Entity",28,0.0035236081747709656
+"Merkelchen",5,"Aegaeonos",29,0.003183673469387755
+"Merkelchen",5," Nahtor Raschura ",30,0.004878930249367546
+"Merkelchen",5,"teddy Gbyc",31,0.003400493071495367
+"Merkelchen",5,"Zap InSpace",32,0.005419580419580419
+"Merkelchen",5,"Doris Andedarie",33,0.00524864335913175
+"Merkelchen",5,"Arqui Nurbs",34,0.003061060093442887
+"Merkelchen",5,"Mr Deathwhisper",35,0.004153246312934396
+"Merkelchen",5,"Anveri Vestigo",36,0.003597738564330992
+"Merkelchen",5,"Carbon Alabel",37,0.004788438098554762
+"Merkelchen",5,"Liz Lizardbreath",38,0.006713607335844114
+"Merkelchen",5,"Aeryn-Sun",39,0.006328016643550624
+"Merkelchen",5,"Darien Avan",40,0.0036287761952281594
+"Merkelchen",5,"Cacique Yuhasz",41,0.005815467407343113
+"Merkelchen",5,"Zipp Adoudel",42,0.007403443047007403
+"Merkelchen",5,"Fiedan",43,0.002484251619199716
+"Merkelchen",5,"Styxx",44,0.009725196288365453
+"Killah Bee",6,"Aryth",1,0.4221243547852441
+"Killah Bee",6,"Gobbins",2,0.44424476592685774
+"Killah Bee",6,"Olmeca Gold",3,0.2762774584678372
+"Killah Bee",6,"Vily",4,0.7198448555110392
+"Killah Bee",6,"Merkelchen",5,0.46087740955274903
+"Killah Bee",6,"Killah Bee",6,1.0
+"Killah Bee",6,"Dunk Dinkle",7,0.6269119470855725
+"Killah Bee",6,"ExookiZ",8,0.08329952122048202
+"Killah Bee",6,"Steve Ronuken",9,0.4689421767303644
+"Killah Bee",6,"Innominate",10,0.5078557400464203
+"Killah Bee",6,"Sort Dragon",11,0.48230747741875407
+"Killah Bee",6,"Cornak Firefist",12,0.2114895549500454
+"Killah Bee",6,"Stitch Kaneland",13,0.048458149779735685
+"Killah Bee",6,"Matterall",14,0.42410328681183795
+"Killah Bee",6,"Mike Azariah",15,0.04054878048780488
+"Killah Bee",6,"The Judge",16,0.3855394275833826
+"Killah Bee",6,"Arrowspeeed Bounty",17,0.2679670485749456
+"Killah Bee",6,"Lorelei Ierendi",18,0.017272129916455457
+"Killah Bee",6,"Jurius Doctor",19,0.05058383717173582
+"Killah Bee",6,"Matthew Dust",20,0.030852913638592893
+"Killah Bee",6,"Insidious Sainthood",21,0.013676963155935988
+"Killah Bee",6,"Lucrative Business Opportunity",22,0.005302846022865483
+"Killah Bee",6,"Compayn",23,0.013685329881178048
+"Killah Bee",6,"Xenuria",24,0.3553426467811969
+"Killah Bee",6,"BlazingBunny",25,0.12941630115197378
+"Killah Bee",6,"Manic Velocity",26,0.07137729923732615
+"Killah Bee",6,"Blood Ruin",27,0.018330787390640188
+"Killah Bee",6,"Crystalline Entity",28,0.006509594364828759
+"Killah Bee",6,"Aegaeonos",29,0.05867371926731316
+"Killah Bee",6," Nahtor Raschura ",30,0.0074887914470118735
+"Killah Bee",6,"teddy Gbyc",31,0.01255510829978915
+"Killah Bee",6,"Zap InSpace",32,0.008717129158797037
+"Killah Bee",6,"Doris Andedarie",33,0.0044312426957537985
+"Killah Bee",6,"Arqui Nurbs",34,0.07328011038833038
+"Killah Bee",6,"Mr Deathwhisper",35,0.030565560206366204
+"Killah Bee",6,"Anveri Vestigo",36,0.018735476374903175
+"Killah Bee",6,"Carbon Alabel",37,0.015622718645057673
+"Killah Bee",6,"Liz Lizardbreath",38,0.00820627593602835
+"Killah Bee",6,"Aeryn-Sun",39,0.016903050320575094
+"Killah Bee",6,"Darien Avan",40,0.0055232271427162445
+"Killah Bee",6,"Cacique Yuhasz",41,0.02801671172278201
+"Killah Bee",6,"Zipp Adoudel",42,0.006589866250122035
+"Killah Bee",6,"Fiedan",43,0.003991433021806853
+"Killah Bee",6,"Styxx",44,0.009980430528375734
+"Dunk Dinkle",7,"Aryth",1,0.37550483704329857
+"Dunk Dinkle",7,"Gobbins",2,0.30203150912106136
+"Dunk Dinkle",7,"Olmeca Gold",3,0.23030020583323624
+"Dunk Dinkle",7,"Vily",4,0.6840270396666809
+"Dunk Dinkle",7,"Merkelchen",5,0.41328187508824776
+"Dunk Dinkle",7,"Killah Bee",6,0.6269119470855725
+"Dunk Dinkle",7,"Dunk Dinkle",7,1.0
+"Dunk Dinkle",7,"ExookiZ",8,0.15486942207589982
+"Dunk Dinkle",7,"Steve Ronuken",9,0.5447010327556403
+"Dunk Dinkle",7,"Innominate",10,0.5326560905464329
+"Dunk Dinkle",7,"Sort Dragon",11,0.42917547568710357
+"Dunk Dinkle",7,"Cornak Firefist",12,0.17055558062914655
+"Dunk Dinkle",7,"Stitch Kaneland",13,0.07067689289217872
+"Dunk Dinkle",7,"Matterall",14,0.3117039070206287
+"Dunk Dinkle",7,"Mike Azariah",15,0.10739057641712509
+"Dunk Dinkle",7,"The Judge",16,0.42591792656587474
+"Dunk Dinkle",7,"Arrowspeeed Bounty",17,0.23399516656399563
+"Dunk Dinkle",7,"Lorelei Ierendi",18,0.022668425423811617
+"Dunk Dinkle",7,"Jurius Doctor",19,0.07283090563647879
+"Dunk Dinkle",7,"Matthew Dust",20,0.07302104808937047
+"Dunk Dinkle",7,"Insidious Sainthood",21,0.019223319775324425
+"Dunk Dinkle",7,"Lucrative Business Opportunity",22,0.011422479439537008
+"Dunk Dinkle",7,"Compayn",23,0.015434761767807496
+"Dunk Dinkle",7,"Xenuria",24,0.38666666666666666
+"Dunk Dinkle",7,"BlazingBunny",25,0.047164151552909685
+"Dunk Dinkle",7,"Manic Velocity",26,0.13348028410482488
+"Dunk Dinkle",7,"Blood Ruin",27,0.03169133705411308
+"Dunk Dinkle",7,"Crystalline Entity",28,0.007057163020465773
+"Dunk Dinkle",7,"Aegaeonos",29,0.053654350898445384
+"Dunk Dinkle",7," Nahtor Raschura ",30,0.0044340247693797465
+"Dunk Dinkle",7,"teddy Gbyc",31,0.018126435633676222
+"Dunk Dinkle",7,"Zap InSpace",32,0.011582233860408903
+"Dunk Dinkle",7,"Doris Andedarie",33,0.005257304620361945
+"Dunk Dinkle",7,"Arqui Nurbs",34,0.06591680599888534
+"Dunk Dinkle",7,"Mr Deathwhisper",35,0.010484150140942585
+"Dunk Dinkle",7,"Anveri Vestigo",36,0.01953497715060513
+"Dunk Dinkle",7,"Carbon Alabel",37,0.01950157025630635
+"Dunk Dinkle",7,"Liz Lizardbreath",38,0.049821527323915336
+"Dunk Dinkle",7,"Aeryn-Sun",39,0.026220844555109507
+"Dunk Dinkle",7,"Darien Avan",40,0.003934191702432046
+"Dunk Dinkle",7,"Cacique Yuhasz",41,0.03133786616226164
+"Dunk Dinkle",7,"Zipp Adoudel",42,0.020586272395913548
+"Dunk Dinkle",7,"Fiedan",43,0.005460888911361683
+"Dunk Dinkle",7,"Styxx",44,0.011999796613616718
+"ExookiZ",8,"Aryth",1,0.020428194589289
+"ExookiZ",8,"Gobbins",2,0.10914576431613819
+"ExookiZ",8,"Olmeca Gold",3,0.1929637526652452
+"ExookiZ",8,"Vily",4,0.10381260493877718
+"ExookiZ",8,"Merkelchen",5,0.06114470710402541
+"ExookiZ",8,"Killah Bee",6,0.08329952122048202
+"ExookiZ",8,"Dunk Dinkle",7,0.15486942207589982
+"ExookiZ",8,"ExookiZ",8,1.0
+"ExookiZ",8,"Steve Ronuken",9,0.13710421149707963
+"ExookiZ",8,"Innominate",10,0.1026070964950238
+"ExookiZ",8,"Sort Dragon",11,0.06929544795592925
+"ExookiZ",8,"Cornak Firefist",12,0.06993232355784725
+"ExookiZ",8,"Stitch Kaneland",13,0.27084499160604364
+"ExookiZ",8,"Matterall",14,0.09865800600526993
+"ExookiZ",8,"Mike Azariah",15,0.23415265200517466
+"ExookiZ",8,"The Judge",16,0.07773494280477786
+"ExookiZ",8,"Arrowspeeed Bounty",17,0.13134984363113852
+"ExookiZ",8,"Lorelei Ierendi",18,0.04891648713724496
+"ExookiZ",8,"Jurius Doctor",19,0.1307497283592901
+"ExookiZ",8,"Matthew Dust",20,0.22855337965887557
+"ExookiZ",8,"Insidious Sainthood",21,0.11018518518518519
+"ExookiZ",8,"Lucrative Business Opportunity",22,0.021650499086180233
+"ExookiZ",8,"Compayn",23,0.21153572950703226
+"ExookiZ",8,"Xenuria",24,0.037940379403794036
+"ExookiZ",8,"BlazingBunny",25,0.06449559775114035
+"ExookiZ",8,"Manic Velocity",26,0.30187507761082827
+"ExookiZ",8,"Blood Ruin",27,0.15030756886868146
+"ExookiZ",8,"Crystalline Entity",28,0.0337427643653819
+"ExookiZ",8,"Aegaeonos",29,0.019727047146401985
+"ExookiZ",8," Nahtor Raschura ",30,0.0072846736180545634
+"ExookiZ",8,"teddy Gbyc",31,0.09953078344945258
+"ExookiZ",8,"Zap InSpace",32,0.03929520346804643
+"ExookiZ",8,"Doris Andedarie",33,0.03715392339693014
+"ExookiZ",8,"Arqui Nurbs",34,0.01921206225680934
+"ExookiZ",8,"Mr Deathwhisper",35,0.0285676497817749
+"ExookiZ",8,"Anveri Vestigo",36,0.06371730662214803
+"ExookiZ",8,"Carbon Alabel",37,0.015219459165647507
+"ExookiZ",8,"Liz Lizardbreath",38,0.13134369412735525
+"ExookiZ",8,"Aeryn-Sun",39,0.015080113100848256
+"ExookiZ",8,"Darien Avan",40,0.008217993079584774
+"ExookiZ",8,"Cacique Yuhasz",41,0.007774798927613941
+"ExookiZ",8,"Zipp Adoudel",42,0.05799648506151142
+"ExookiZ",8,"Fiedan",43,0.0527158875782729
+"ExookiZ",8,"Styxx",44,0.03160142348754449
+"Steve Ronuken",9,"Aryth",1,0.4576290543627227
+"Steve Ronuken",9,"Gobbins",2,0.15464305108818246
+"Steve Ronuken",9,"Olmeca Gold",3,0.15351239669421488
+"Steve Ronuken",9,"Vily",4,0.4613126783530371
+"Steve Ronuken",9,"Merkelchen",5,0.4476904420681292
+"Steve Ronuken",9,"Killah Bee",6,0.4689421767303644
+"Steve Ronuken",9,"Dunk Dinkle",7,0.5447010327556403
+"Steve Ronuken",9,"ExookiZ",8,0.13710421149707963
+"Steve Ronuken",9,"Steve Ronuken",9,1.0
+"Steve Ronuken",9,"Innominate",10,0.5179654689687354
+"Steve Ronuken",9,"Sort Dragon",11,0.4400421496311907
+"Steve Ronuken",9,"Cornak Firefist",12,0.17961268354969143
+"Steve Ronuken",9,"Stitch Kaneland",13,0.10295799967314921
+"Steve Ronuken",9,"Matterall",14,0.17821999648567916
+"Steve Ronuken",9,"Mike Azariah",15,0.13694211483197466
+"Steve Ronuken",9,"The Judge",16,0.4597164397434455
+"Steve Ronuken",9,"Arrowspeeed Bounty",17,0.03292066583205824
+"Steve Ronuken",9,"Lorelei Ierendi",18,0.05785582255083179
+"Steve Ronuken",9,"Jurius Doctor",19,0.11376807173793692
+"Steve Ronuken",9,"Matthew Dust",20,0.09229595728451563
+"Steve Ronuken",9,"Insidious Sainthood",21,0.05744524654349688
+"Steve Ronuken",9,"Lucrative Business Opportunity",22,0.012024801152376778
+"Steve Ronuken",9,"Compayn",23,0.04105659475288352
+"Steve Ronuken",9,"Xenuria",24,0.4830331985789538
+"Steve Ronuken",9,"BlazingBunny",25,0.059267965077233045
+"Steve Ronuken",9,"Manic Velocity",26,0.09345372460496613
+"Steve Ronuken",9,"Blood Ruin",27,0.039206368064631104
+"Steve Ronuken",9,"Crystalline Entity",28,0.015596617601002193
+"Steve Ronuken",9,"Aegaeonos",29,0.019543585771316214
+"Steve Ronuken",9," Nahtor Raschura ",30,0.008794685226194242
+"Steve Ronuken",9,"teddy Gbyc",31,0.026234567901234566
+"Steve Ronuken",9,"Zap InSpace",32,0.019612742036227357
+"Steve Ronuken",9,"Doris Andedarie",33,0.014026039373545506
+"Steve Ronuken",9,"Arqui Nurbs",34,0.03079126387397064
+"Steve Ronuken",9,"Mr Deathwhisper",35,0.02408306198931007
+"Steve Ronuken",9,"Anveri Vestigo",36,0.02294798045401126
+"Steve Ronuken",9,"Carbon Alabel",37,0.030934979838709676
+"Steve Ronuken",9,"Liz Lizardbreath",38,0.035446406968303895
+"Steve Ronuken",9,"Aeryn-Sun",39,0.030027582748244734
+"Steve Ronuken",9,"Darien Avan",40,0.007420091324200913
+"Steve Ronuken",9,"Cacique Yuhasz",41,0.012650416538105523
+"Steve Ronuken",9,"Zipp Adoudel",42,0.007501875468867217
+"Steve Ronuken",9,"Fiedan",43,0.015624015624015624
+"Steve Ronuken",9,"Styxx",44,0.009697197197197197
+"Innominate",10,"Aryth",1,0.651831731438919
+"Innominate",10,"Gobbins",2,0.1604672057502246
+"Innominate",10,"Olmeca Gold",3,0.06790476969647385
+"Innominate",10,"Vily",4,0.5786373544826307
+"Innominate",10,"Merkelchen",5,0.7155384075762891
+"Innominate",10,"Killah Bee",6,0.5078557400464203
+"Innominate",10,"Dunk Dinkle",7,0.5326560905464329
+"Innominate",10,"ExookiZ",8,0.1026070964950238
+"Innominate",10,"Steve Ronuken",9,0.5179654689687354
+"Innominate",10,"Innominate",10,1.0
+"Innominate",10,"Sort Dragon",11,0.6591692127673405
+"Innominate",10,"Cornak Firefist",12,0.127082526152654
+"Innominate",10,"Stitch Kaneland",13,0.01302126256799077
+"Innominate",10,"Matterall",14,0.14918447048012864
+"Innominate",10,"Mike Azariah",15,0.0613489523579494
+"Innominate",10,"The Judge",16,0.6134768366869443
+"Innominate",10,"Arrowspeeed Bounty",17,0.13977057578794966
+"Innominate",10,"Lorelei Ierendi",18,0.007741766172418318
+"Innominate",10,"Jurius Doctor",19,0.052736
+"Innominate",10,"Matthew Dust",20,0.05089726755455512
+"Innominate",10,"Insidious Sainthood",21,0.009392121054004696
+"Innominate",10,"Lucrative Business Opportunity",22,0.0096390628298037
+"Innominate",10,"Compayn",23,0.003406607533101941
+"Innominate",10,"Xenuria",24,0.505982791072869
+"Innominate",10,"BlazingBunny",25,0.005167351732237228
+"Innominate",10,"Manic Velocity",26,0.10442600276625173
+"Innominate",10,"Blood Ruin",27,0.0066101912463098446
+"Innominate",10,"Crystalline Entity",28,0.0031337047353760445
+"Innominate",10,"Aegaeonos",29,0.0020299914871324733
+"Innominate",10," Nahtor Raschura ",30,0.004405599374689121
+"Innominate",10,"teddy Gbyc",31,0.0032502708559046588
+"Innominate",10,"Zap InSpace",32,0.003873020264195311
+"Innominate",10,"Doris Andedarie",33,0.00294303132226193
+"Innominate",10,"Arqui Nurbs",34,0.003373775384415753
+"Innominate",10,"Mr Deathwhisper",35,0.003986217147490034
+"Innominate",10,"Anveri Vestigo",36,0.0025866176570689538
+"Innominate",10,"Carbon Alabel",37,0.004416839199447895
+"Innominate",10,"Liz Lizardbreath",38,0.043914081145584725
+"Innominate",10,"Aeryn-Sun",39,0.019025716077775454
+"Innominate",10,"Darien Avan",40,0.0036363636363636364
+"Innominate",10,"Cacique Yuhasz",41,0.00961139538099848
+"Innominate",10,"Zipp Adoudel",42,0.004705056179775281
+"Innominate",10,"Fiedan",43,0.0020303857732969265
+"Innominate",10,"Styxx",44,0.010364520905309173
+"Sort Dragon",11,"Aryth",1,0.651771489264851
+"Sort Dragon",11,"Gobbins",2,0.10429476214691877
+"Sort Dragon",11,"Olmeca Gold",3,0.08088399767369034
+"Sort Dragon",11,"Vily",4,0.46773382117539447
+"Sort Dragon",11,"Merkelchen",5,0.7113966395499126
+"Sort Dragon",11,"Killah Bee",6,0.48230747741875407
+"Sort Dragon",11,"Dunk Dinkle",7,0.42917547568710357
+"Sort Dragon",11,"ExookiZ",8,0.06929544795592925
+"Sort Dragon",11,"Steve Ronuken",9,0.4400421496311907
+"Sort Dragon",11,"Innominate",10,0.6591692127673405
+"Sort Dragon",11,"Sort Dragon",11,1.0
+"Sort Dragon",11,"Cornak Firefist",12,0.040212357392974137
+"Sort Dragon",11,"Stitch Kaneland",13,0.012275210212974896
+"Sort Dragon",11,"Matterall",14,0.10178639663737103
+"Sort Dragon",11,"Mike Azariah",15,0.03127061617627656
+"Sort Dragon",11,"The Judge",16,0.6507476009819236
+"Sort Dragon",11,"Arrowspeeed Bounty",17,0.13248960626069944
+"Sort Dragon",11,"Lorelei Ierendi",18,0.01452015427663919
+"Sort Dragon",11,"Jurius Doctor",19,0.03777904979965655
+"Sort Dragon",11,"Matthew Dust",20,0.012949836423118866
+"Sort Dragon",11,"Insidious Sainthood",21,0.007445461990916537
+"Sort Dragon",11,"Lucrative Business Opportunity",22,0.010508308895405669
+"Sort Dragon",11,"Compayn",23,0.007000221059612409
+"Sort Dragon",11,"Xenuria",24,0.554086903676694
+"Sort Dragon",11,"BlazingBunny",25,0.015391822257913404
+"Sort Dragon",11,"Manic Velocity",26,0.07146776406035665
+"Sort Dragon",11,"Blood Ruin",27,0.00918105031215571
+"Sort Dragon",11,"Crystalline Entity",28,0.006055712555510699
+"Sort Dragon",11,"Aegaeonos",29,0.006025457558183325
+"Sort Dragon",11," Nahtor Raschura ",30,0.0073547640690852
+"Sort Dragon",11,"teddy Gbyc",31,0.004761904761904762
+"Sort Dragon",11,"Zap InSpace",32,0.005760921747479597
+"Sort Dragon",11,"Doris Andedarie",33,0.005201560468140442
+"Sort Dragon",11,"Arqui Nurbs",34,0.005653079440642666
+"Sort Dragon",11,"Mr Deathwhisper",35,0.01024718397997497
+"Sort Dragon",11,"Anveri Vestigo",36,0.005426661423515533
+"Sort Dragon",11,"Carbon Alabel",37,0.007350003994567388
+"Sort Dragon",11,"Liz Lizardbreath",38,0.009823182711198428
+"Sort Dragon",11,"Aeryn-Sun",39,0.008512330946698489
+"Sort Dragon",11,"Darien Avan",40,0.00455448824113945
+"Sort Dragon",11,"Cacique Yuhasz",41,0.0074828848909409326
+"Sort Dragon",11,"Zipp Adoudel",42,0.003572008442929047
+"Sort Dragon",11,"Fiedan",43,0.004467186484730344
+"Sort Dragon",11,"Styxx",44,0.013668358160091668
+"Cornak Firefist",12,"Aryth",1,0.019954564990483207
+"Cornak Firefist",12,"Gobbins",2,0.2719554438633431
+"Cornak Firefist",12,"Olmeca Gold",3,0.08988184008259723
+"Cornak Firefist",12,"Vily",4,0.27307965020089814
+"Cornak Firefist",12,"Merkelchen",5,0.025292518614820944
+"Cornak Firefist",12,"Killah Bee",6,0.2114895549500454
+"Cornak Firefist",12,"Dunk Dinkle",7,0.17055558062914655
+"Cornak Firefist",12,"ExookiZ",8,0.06993232355784725
+"Cornak Firefist",12,"Steve Ronuken",9,0.17961268354969143
+"Cornak Firefist",12,"Innominate",10,0.127082526152654
+"Cornak Firefist",12,"Sort Dragon",11,0.040212357392974137
+"Cornak Firefist",12,"Cornak Firefist",12,1.0
+"Cornak Firefist",12,"Stitch Kaneland",13,0.057774873996639914
+"Cornak Firefist",12,"Matterall",14,0.3016646071091081
+"Cornak Firefist",12,"Mike Azariah",15,0.07372090638777812
+"Cornak Firefist",12,"The Judge",16,0.025531402420665983
+"Cornak Firefist",12,"Arrowspeeed Bounty",17,0.014423441888711759
+"Cornak Firefist",12,"Lorelei Ierendi",18,0.02994385527136619
+"Cornak Firefist",12,"Jurius Doctor",19,0.12822989616034774
+"Cornak Firefist",12,"Matthew Dust",20,0.057093048594465026
+"Cornak Firefist",12,"Insidious Sainthood",21,0.03460635273760969
+"Cornak Firefist",12,"Lucrative Business Opportunity",22,0.0076495132127955496
+"Cornak Firefist",12,"Compayn",23,0.017829364604523154
+"Cornak Firefist",12,"Xenuria",24,0.02492295323596409
+"Cornak Firefist",12,"BlazingBunny",25,0.2564939139164262
+"Cornak Firefist",12,"Manic Velocity",26,0.06094716560186594
+"Cornak Firefist",12,"Blood Ruin",27,0.024967148488830485
+"Cornak Firefist",12,"Crystalline Entity",28,0.015157836184119037
+"Cornak Firefist",12,"Aegaeonos",29,0.01135101789019124
+"Cornak Firefist",12," Nahtor Raschura ",30,0.010057471264367816
+"Cornak Firefist",12,"teddy Gbyc",31,0.011942257217847769
+"Cornak Firefist",12,"Zap InSpace",32,0.013818579833082502
+"Cornak Firefist",12,"Doris Andedarie",33,0.007689081504263945
+"Cornak Firefist",12,"Arqui Nurbs",34,0.010882708585247884
+"Cornak Firefist",12,"Mr Deathwhisper",35,0.0700979715744446
+"Cornak Firefist",12,"Anveri Vestigo",36,0.013156146179401994
+"Cornak Firefist",12,"Carbon Alabel",37,0.011405295315682282
+"Cornak Firefist",12,"Liz Lizardbreath",38,0.02332543345391044
+"Cornak Firefist",12,"Aeryn-Sun",39,0.06973103742706703
+"Cornak Firefist",12,"Darien Avan",40,0.008827785817655571
+"Cornak Firefist",12,"Cacique Yuhasz",41,0.038802660753880266
+"Cornak Firefist",12,"Zipp Adoudel",42,0.01565364546608377
+"Cornak Firefist",12,"Fiedan",43,0.007690156599552573
+"Cornak Firefist",12,"Styxx",44,0.011479770404591909
+"Stitch Kaneland",13,"Aryth",1,0.010874802119898134
+"Stitch Kaneland",13,"Gobbins",2,0.09132242140815797
+"Stitch Kaneland",13,"Olmeca Gold",3,0.24797193597895198
+"Stitch Kaneland",13,"Vily",4,0.0253392923039075
+"Stitch Kaneland",13,"Merkelchen",5,0.01001833420639078
+"Stitch Kaneland",13,"Killah Bee",6,0.048458149779735685
+"Stitch Kaneland",13,"Dunk Dinkle",7,0.07067689289217872
+"Stitch Kaneland",13,"ExookiZ",8,0.27084499160604364
+"Stitch Kaneland",13,"Steve Ronuken",9,0.10295799967314921
+"Stitch Kaneland",13,"Innominate",10,0.01302126256799077
+"Stitch Kaneland",13,"Sort Dragon",11,0.012275210212974896
+"Stitch Kaneland",13,"Cornak Firefist",12,0.057774873996639914
+"Stitch Kaneland",13,"Stitch Kaneland",13,1.0
+"Stitch Kaneland",13,"Matterall",14,0.08308484684196259
+"Stitch Kaneland",13,"Mike Azariah",15,0.11231129619989588
+"Stitch Kaneland",13,"The Judge",16,0.02880882653408704
+"Stitch Kaneland",13,"Arrowspeeed Bounty",17,0.05215711526078558
+"Stitch Kaneland",13,"Lorelei Ierendi",18,0.052019278710320756
+"Stitch Kaneland",13,"Jurius Doctor",19,0.11129418813660875
+"Stitch Kaneland",13,"Matthew Dust",20,0.18696581196581197
+"Stitch Kaneland",13,"Insidious Sainthood",21,0.22524234936323892
+"Stitch Kaneland",13,"Lucrative Business Opportunity",22,0.015267175572519083
+"Stitch Kaneland",13,"Compayn",23,0.16087493385076734
+"Stitch Kaneland",13,"Xenuria",24,0.026796683046683048
+"Stitch Kaneland",13,"BlazingBunny",25,0.08695067867222148
+"Stitch Kaneland",13,"Manic Velocity",26,0.09857161240509586
+"Stitch Kaneland",13,"Blood Ruin",27,0.23906162725749394
+"Stitch Kaneland",13,"Crystalline Entity",28,0.052270947533281126
+"Stitch Kaneland",13,"Aegaeonos",29,0.06377204884667571
+"Stitch Kaneland",13," Nahtor Raschura ",30,0.010290916287354047
+"Stitch Kaneland",13,"teddy Gbyc",31,0.11634188693806675
+"Stitch Kaneland",13,"Zap InSpace",32,0.05359200922013062
+"Stitch Kaneland",13,"Doris Andedarie",33,0.030427150380339378
+"Stitch Kaneland",13,"Arqui Nurbs",34,0.048728813559322036
+"Stitch Kaneland",13,"Mr Deathwhisper",35,0.044802867383512544
+"Stitch Kaneland",13,"Anveri Vestigo",36,0.12008647798742138
+"Stitch Kaneland",13,"Carbon Alabel",37,0.02220577350111029
+"Stitch Kaneland",13,"Liz Lizardbreath",38,0.03905345027304319
+"Stitch Kaneland",13,"Aeryn-Sun",39,0.016542446827849482
+"Stitch Kaneland",13,"Darien Avan",40,0.009603841536614645
+"Stitch Kaneland",13,"Cacique Yuhasz",41,0.08048875096974399
+"Stitch Kaneland",13,"Zipp Adoudel",42,0.0667070952092177
+"Stitch Kaneland",13,"Fiedan",43,0.04594059405940594
+"Stitch Kaneland",13,"Styxx",44,0.022573798958132357
+"Matterall",14,"Aryth",1,0.0839153708896253
+"Matterall",14,"Gobbins",2,0.580634255189668
+"Matterall",14,"Olmeca Gold",3,0.37547981854135165
+"Matterall",14,"Vily",4,0.3684461391801716
+"Matterall",14,"Merkelchen",5,0.08289441299532366
+"Matterall",14,"Killah Bee",6,0.42410328681183795
+"Matterall",14,"Dunk Dinkle",7,0.3117039070206287
+"Matterall",14,"ExookiZ",8,0.09865800600526993
+"Matterall",14,"Steve Ronuken",9,0.17821999648567916
+"Matterall",14,"Innominate",10,0.14918447048012864
+"Matterall",14,"Sort Dragon",11,0.10178639663737103
+"Matterall",14,"Cornak Firefist",12,0.3016646071091081
+"Matterall",14,"Stitch Kaneland",13,0.08308484684196259
+"Matterall",14,"Matterall",14,1.0
+"Matterall",14,"Mike Azariah",15,0.0864348325908895
+"Matterall",14,"The Judge",16,0.030565194657032845
+"Matterall",14,"Arrowspeeed Bounty",17,0.3332346410066617
+"Matterall",14,"Lorelei Ierendi",18,0.029848363926576218
+"Matterall",14,"Jurius Doctor",19,0.098696608040201
+"Matterall",14,"Matthew Dust",20,0.053361714621256606
+"Matterall",14,"Insidious Sainthood",21,0.023987416437278804
+"Matterall",14,"Lucrative Business Opportunity",22,0.007368510205810113
+"Matterall",14,"Compayn",23,0.02000465224470807
+"Matterall",14,"Xenuria",24,0.031439060964889604
+"Matterall",14,"BlazingBunny",25,0.19465493359406827
+"Matterall",14,"Manic Velocity",26,0.08478104809763101
+"Matterall",14,"Blood Ruin",27,0.03928038337654176
+"Matterall",14,"Crystalline Entity",28,0.010229962800135273
+"Matterall",14,"Aegaeonos",29,0.09039979628214923
+"Matterall",14," Nahtor Raschura ",30,0.00447234884320977
+"Matterall",14,"teddy Gbyc",31,0.024875621890547265
+"Matterall",14,"Zap InSpace",32,0.014725681588690677
+"Matterall",14,"Doris Andedarie",33,0.007391673746813934
+"Matterall",14,"Arqui Nurbs",34,0.10583134988099285
+"Matterall",14,"Mr Deathwhisper",35,0.04816630049011323
+"Matterall",14,"Anveri Vestigo",36,0.0305651188177009
+"Matterall",14,"Carbon Alabel",37,0.025514961430872257
+"Matterall",14,"Liz Lizardbreath",38,0.031209884467265726
+"Matterall",14,"Aeryn-Sun",39,0.03049296967643571
+"Matterall",14,"Darien Avan",40,0.011138183083884442
+"Matterall",14,"Cacique Yuhasz",41,0.045270677338841554
+"Matterall",14,"Zipp Adoudel",42,0.030342549121891844
+"Matterall",14,"Fiedan",43,0.010397136526333731
+"Matterall",14,"Styxx",44,0.014091724314629772
+"Mike Azariah",15,"Aryth",1,0.021499815293683045
+"Mike Azariah",15,"Gobbins",2,0.0934220454077783
+"Mike Azariah",15,"Olmeca Gold",3,0.10894542470250308
+"Mike Azariah",15,"Vily",4,0.06963763621865864
+"Mike Azariah",15,"Merkelchen",5,0.014064893468876202
+"Mike Azariah",15,"Killah Bee",6,0.04054878048780488
+"Mike Azariah",15,"Dunk Dinkle",7,0.10739057641712509
+"Mike Azariah",15,"ExookiZ",8,0.23415265200517466
+"Mike Azariah",15,"Steve Ronuken",9,0.13694211483197466
+"Mike Azariah",15,"Innominate",10,0.0613489523579494
+"Mike Azariah",15,"Sort Dragon",11,0.03127061617627656
+"Mike Azariah",15,"Cornak Firefist",12,0.07372090638777812
+"Mike Azariah",15,"Stitch Kaneland",13,0.11231129619989588
+"Mike Azariah",15,"Matterall",14,0.0864348325908895
+"Mike Azariah",15,"Mike Azariah",15,1.0
+"Mike Azariah",15,"The Judge",16,0.03411978221415608
+"Mike Azariah",15,"Arrowspeeed Bounty",17,0.0852657500513031
+"Mike Azariah",15,"Lorelei Ierendi",18,0.1589319771137953
+"Mike Azariah",15,"Jurius Doctor",19,0.13893713094824592
+"Mike Azariah",15,"Matthew Dust",20,0.24098331239906692
+"Mike Azariah",15,"Insidious Sainthood",21,0.10769535898452995
+"Mike Azariah",15,"Lucrative Business Opportunity",22,0.024821880027579867
+"Mike Azariah",15,"Compayn",23,0.05554530356154272
+"Mike Azariah",15,"Xenuria",24,0.04084518758838699
+"Mike Azariah",15,"BlazingBunny",25,0.04481711724736157
+"Mike Azariah",15,"Manic Velocity",26,0.26666666666666666
+"Mike Azariah",15,"Blood Ruin",27,0.06979320531757754
+"Mike Azariah",15,"Crystalline Entity",28,0.03603396832683039
+"Mike Azariah",15,"Aegaeonos",29,0.025004735745406327
+"Mike Azariah",15," Nahtor Raschura ",30,0.016040220253770648
+"Mike Azariah",15,"teddy Gbyc",31,0.03771597134428993
+"Mike Azariah",15,"Zap InSpace",32,0.04971623155505108
+"Mike Azariah",15,"Doris Andedarie",33,0.043909348441926344
+"Mike Azariah",15,"Arqui Nurbs",34,0.014192139737991267
+"Mike Azariah",15,"Mr Deathwhisper",35,0.03715299519933208
+"Mike Azariah",15,"Anveri Vestigo",36,0.036862408915559364
+"Mike Azariah",15,"Carbon Alabel",37,0.035761883607285654
+"Mike Azariah",15,"Liz Lizardbreath",38,0.24408725602755454
+"Mike Azariah",15,"Aeryn-Sun",39,0.0375
+"Mike Azariah",15,"Darien Avan",40,0.015037593984962405
+"Mike Azariah",15,"Cacique Yuhasz",41,0.013993541442411194
+"Mike Azariah",15,"Zipp Adoudel",42,0.04126385286489036
+"Mike Azariah",15,"Fiedan",43,0.036333802156586964
+"Mike Azariah",15,"Styxx",44,0.027070800555298473
+"The Judge",16,"Aryth",1,0.6413043478260869
+"The Judge",16,"Gobbins",2,0.021705567160112616
+"The Judge",16,"Olmeca Gold",3,0.029472922882198715
+"The Judge",16,"Vily",4,0.4014148790506618
+"The Judge",16,"Merkelchen",5,0.6764285714285714
+"The Judge",16,"Killah Bee",6,0.3855394275833826
+"The Judge",16,"Dunk Dinkle",7,0.42591792656587474
+"The Judge",16,"ExookiZ",8,0.07773494280477786
+"The Judge",16,"Steve Ronuken",9,0.4597164397434455
+"The Judge",16,"Innominate",10,0.6134768366869443
+"The Judge",16,"Sort Dragon",11,0.6507476009819236
+"The Judge",16,"Cornak Firefist",12,0.025531402420665983
+"The Judge",16,"Stitch Kaneland",13,0.02880882653408704
+"The Judge",16,"Matterall",14,0.030565194657032845
+"The Judge",16,"Mike Azariah",15,0.03411978221415608
+"The Judge",16,"The Judge",16,1.0
+"The Judge",16,"Arrowspeeed Bounty",17,0.045069219979264497
+"The Judge",16,"Lorelei Ierendi",18,0.01768339114984347
+"The Judge",16,"Jurius Doctor",19,0.036425410872313525
+"The Judge",16,"Matthew Dust",20,0.028704481258111307
+"The Judge",16,"Insidious Sainthood",21,0.017937971500419113
+"The Judge",16,"Lucrative Business Opportunity",22,0.016795865633074936
+"The Judge",16,"Compayn",23,0.008542094455852156
+"The Judge",16,"Xenuria",24,0.6423527385463313
+"The Judge",16,"BlazingBunny",25,0.011074440777411074
+"The Judge",16,"Manic Velocity",26,0.07539472690186598
+"The Judge",16,"Blood Ruin",27,0.016289592760180997
+"The Judge",16,"Crystalline Entity",28,0.008378107640469902
+"The Judge",16,"Aegaeonos",29,0.00672834314550042
+"The Judge",16," Nahtor Raschura ",30,0.007366654233494965
+"The Judge",16,"teddy Gbyc",31,0.007898894154818325
+"The Judge",16,"Zap InSpace",32,0.012402679703059931
+"The Judge",16,"Doris Andedarie",33,0.010583471378612186
+"The Judge",16,"Arqui Nurbs",34,0.002975944449036951
+"The Judge",16,"Mr Deathwhisper",35,0.009722343873171587
+"The Judge",16,"Anveri Vestigo",36,0.006002294995145202
+"The Judge",16,"Carbon Alabel",37,0.008719101123595505
+"The Judge",16,"Liz Lizardbreath",38,0.014913990339801711
+"The Judge",16,"Aeryn-Sun",39,0.014193316564858068
+"The Judge",16,"Darien Avan",40,0.008636875704093128
+"The Judge",16,"Cacique Yuhasz",41,0.004546264931360314
+"The Judge",16,"Zipp Adoudel",42,0.00623452828458788
+"The Judge",16,"Fiedan",43,0.006047278724573941
+"The Judge",16,"Styxx",44,0.02012800296818477
+"Arrowspeeed Bounty",17,"Aryth",1,0.07297817715019256
+"Arrowspeeed Bounty",17,"Gobbins",2,0.4322001673131037
+"Arrowspeeed Bounty",17,"Olmeca Gold",3,0.33983169705469846
+"Arrowspeeed Bounty",17,"Vily",4,0.24726668819486092
+"Arrowspeeed Bounty",17,"Merkelchen",5,0.11476561502107549
+"Arrowspeeed Bounty",17,"Killah Bee",6,0.2679670485749456
+"Arrowspeeed Bounty",17,"Dunk Dinkle",7,0.23399516656399563
+"Arrowspeeed Bounty",17,"ExookiZ",8,0.13134984363113852
+"Arrowspeeed Bounty",17,"Steve Ronuken",9,0.03292066583205824
+"Arrowspeeed Bounty",17,"Innominate",10,0.13977057578794966
+"Arrowspeeed Bounty",17,"Sort Dragon",11,0.13248960626069944
+"Arrowspeeed Bounty",17,"Cornak Firefist",12,0.014423441888711759
+"Arrowspeeed Bounty",17,"Stitch Kaneland",13,0.05215711526078558
+"Arrowspeeed Bounty",17,"Matterall",14,0.3332346410066617
+"Arrowspeeed Bounty",17,"Mike Azariah",15,0.0852657500513031
+"Arrowspeeed Bounty",17,"The Judge",16,0.045069219979264497
+"Arrowspeeed Bounty",17,"Arrowspeeed Bounty",17,1.0
+"Arrowspeeed Bounty",17,"Lorelei Ierendi",18,0.016907918744678264
+"Arrowspeeed Bounty",17,"Jurius Doctor",19,0.017115177610333692
+"Arrowspeeed Bounty",17,"Matthew Dust",20,0.07864056313242411
+"Arrowspeeed Bounty",17,"Insidious Sainthood",21,0.011093880472384588
+"Arrowspeeed Bounty",17,"Lucrative Business Opportunity",22,0.005196936542669584
+"Arrowspeeed Bounty",17,"Compayn",23,0.004432520704537502
+"Arrowspeeed Bounty",17,"Xenuria",24,0.00778591991625229
+"Arrowspeeed Bounty",17,"BlazingBunny",25,0.030241319621219835
+"Arrowspeeed Bounty",17,"Manic Velocity",26,0.16672187258474108
+"Arrowspeeed Bounty",17,"Blood Ruin",27,0.008476544356711566
+"Arrowspeeed Bounty",17,"Crystalline Entity",28,0.007894378657955628
+"Arrowspeeed Bounty",17,"Aegaeonos",29,0.14827109266943292
+"Arrowspeeed Bounty",17," Nahtor Raschura ",30,0.0060631697687535254
+"Arrowspeeed Bounty",17,"teddy Gbyc",31,0.025721784776902887
+"Arrowspeeed Bounty",17,"Zap InSpace",32,0.007642799678197908
+"Arrowspeeed Bounty",17,"Doris Andedarie",33,0.006607019958706125
+"Arrowspeeed Bounty",17,"Arqui Nurbs",34,0.14129702035863556
+"Arrowspeeed Bounty",17,"Mr Deathwhisper",35,0.008597459258308739
+"Arrowspeeed Bounty",17,"Anveri Vestigo",36,0.0348105502744678
+"Arrowspeeed Bounty",17,"Carbon Alabel",37,0.006663113006396588
+"Arrowspeeed Bounty",17,"Liz Lizardbreath",38,0.08161936995574069
+"Arrowspeeed Bounty",17,"Aeryn-Sun",39,0.009402728115481393
+"Arrowspeeed Bounty",17,"Darien Avan",40,0.004542873367404884
+"Arrowspeeed Bounty",17,"Cacique Yuhasz",41,0.05364568893817577
+"Arrowspeeed Bounty",17,"Zipp Adoudel",42,0.0028822399121603073
+"Arrowspeeed Bounty",17,"Fiedan",43,0.003293084522502744
+"Arrowspeeed Bounty",17,"Styxx",44,0.012570797071418704
+"Lorelei Ierendi",18,"Aryth",1,0.00903954802259887
+"Lorelei Ierendi",18,"Gobbins",2,0.01666790132602415
+"Lorelei Ierendi",18,"Olmeca Gold",3,0.05042773525438991
+"Lorelei Ierendi",18,"Vily",4,0.016313667330954258
+"Lorelei Ierendi",18,"Merkelchen",5,0.009814345301382187
+"Lorelei Ierendi",18,"Killah Bee",6,0.017272129916455457
+"Lorelei Ierendi",18,"Dunk Dinkle",7,0.022668425423811617
+"Lorelei Ierendi",18,"ExookiZ",8,0.04891648713724496
+"Lorelei Ierendi",18,"Steve Ronuken",9,0.05785582255083179
+"Lorelei Ierendi",18,"Innominate",10,0.007741766172418318
+"Lorelei Ierendi",18,"Sort Dragon",11,0.01452015427663919
+"Lorelei Ierendi",18,"Cornak Firefist",12,0.02994385527136619
+"Lorelei Ierendi",18,"Stitch Kaneland",13,0.052019278710320756
+"Lorelei Ierendi",18,"Matterall",14,0.029848363926576218
+"Lorelei Ierendi",18,"Mike Azariah",15,0.1589319771137953
+"Lorelei Ierendi",18,"The Judge",16,0.01768339114984347
+"Lorelei Ierendi",18,"Arrowspeeed Bounty",17,0.016907918744678264
+"Lorelei Ierendi",18,"Lorelei Ierendi",18,1.0
+"Lorelei Ierendi",18,"Jurius Doctor",19,0.08633633633633633
+"Lorelei Ierendi",18,"Matthew Dust",20,0.07799954117916953
+"Lorelei Ierendi",18,"Insidious Sainthood",21,0.059786028949024544
+"Lorelei Ierendi",18,"Lucrative Business Opportunity",22,0.04668534080298786
+"Lorelei Ierendi",18,"Compayn",23,0.056393244873341374
+"Lorelei Ierendi",18,"Xenuria",24,0.019206019206019206
+"Lorelei Ierendi",18,"BlazingBunny",25,0.02811409809152473
+"Lorelei Ierendi",18,"Manic Velocity",26,0.05876648564778898
+"Lorelei Ierendi",18,"Blood Ruin",27,0.049281314168377825
+"Lorelei Ierendi",18,"Crystalline Entity",28,0.06096997690531178
+"Lorelei Ierendi",18,"Aegaeonos",29,0.039375203384315
+"Lorelei Ierendi",18," Nahtor Raschura ",30,0.09037116729424421
+"Lorelei Ierendi",18,"teddy Gbyc",31,0.036753445635528334
+"Lorelei Ierendi",18,"Zap InSpace",32,0.11797491871806781
+"Lorelei Ierendi",18,"Doris Andedarie",33,0.08035276825085742
+"Lorelei Ierendi",18,"Arqui Nurbs",34,0.016964556195092396
+"Lorelei Ierendi",18,"Mr Deathwhisper",35,0.08261211644374508
+"Lorelei Ierendi",18,"Anveri Vestigo",36,0.032296179598267034
+"Lorelei Ierendi",18,"Carbon Alabel",37,0.07045951859956236
+"Lorelei Ierendi",18,"Liz Lizardbreath",38,0.13550904576090814
+"Lorelei Ierendi",18,"Aeryn-Sun",39,0.08175559380378658
+"Lorelei Ierendi",18,"Darien Avan",40,0.0586336740182894
+"Lorelei Ierendi",18,"Cacique Yuhasz",41,0.04222408026755853
+"Lorelei Ierendi",18,"Zipp Adoudel",42,0.0270901447921532
+"Lorelei Ierendi",18,"Fiedan",43,0.04703087885985748
+"Lorelei Ierendi",18,"Styxx",44,0.048113207547169815
+"Jurius Doctor",19,"Aryth",1,0.018283881315156375
+"Jurius Doctor",19,"Gobbins",2,0.07527584204413473
+"Jurius Doctor",19,"Olmeca Gold",3,0.08711629917855598
+"Jurius Doctor",19,"Vily",4,0.050474625775830596
+"Jurius Doctor",19,"Merkelchen",5,0.03218867634631636
+"Jurius Doctor",19,"Killah Bee",6,0.05058383717173582
+"Jurius Doctor",19,"Dunk Dinkle",7,0.07283090563647879
+"Jurius Doctor",19,"ExookiZ",8,0.1307497283592901
+"Jurius Doctor",19,"Steve Ronuken",9,0.11376807173793692
+"Jurius Doctor",19,"Innominate",10,0.052736
+"Jurius Doctor",19,"Sort Dragon",11,0.03777904979965655
+"Jurius Doctor",19,"Cornak Firefist",12,0.12822989616034774
+"Jurius Doctor",19,"Stitch Kaneland",13,0.11129418813660875
+"Jurius Doctor",19,"Matterall",14,0.098696608040201
+"Jurius Doctor",19,"Mike Azariah",15,0.13893713094824592
+"Jurius Doctor",19,"The Judge",16,0.036425410872313525
+"Jurius Doctor",19,"Arrowspeeed Bounty",17,0.017115177610333692
+"Jurius Doctor",19,"Lorelei Ierendi",18,0.08633633633633633
+"Jurius Doctor",19,"Jurius Doctor",19,1.0
+"Jurius Doctor",19,"Matthew Dust",20,0.14049261083743841
+"Jurius Doctor",19,"Insidious Sainthood",21,0.13669982147411375
+"Jurius Doctor",19,"Lucrative Business Opportunity",22,0.04715498270983967
+"Jurius Doctor",19,"Compayn",23,0.04912040210189628
+"Jurius Doctor",19,"Xenuria",24,0.03143970281779469
+"Jurius Doctor",19,"BlazingBunny",25,0.06943713834823777
+"Jurius Doctor",19,"Manic Velocity",26,0.11531255322772951
+"Jurius Doctor",19,"Blood Ruin",27,0.061419472247497726
+"Jurius Doctor",19,"Crystalline Entity",28,0.03294691885295912
+"Jurius Doctor",19,"Aegaeonos",29,0.03529127386995407
+"Jurius Doctor",19," Nahtor Raschura ",30,0.014322916666666666
+"Jurius Doctor",19,"teddy Gbyc",31,0.030113944655453067
+"Jurius Doctor",19,"Zap InSpace",32,0.055236945366737095
+"Jurius Doctor",19,"Doris Andedarie",33,0.044057052297939776
+"Jurius Doctor",19,"Arqui Nurbs",34,0.015532206486980357
+"Jurius Doctor",19,"Mr Deathwhisper",35,0.031140939597315436
+"Jurius Doctor",19,"Anveri Vestigo",36,0.02627939142461964
+"Jurius Doctor",19,"Carbon Alabel",37,0.03181552831290134
+"Jurius Doctor",19,"Liz Lizardbreath",38,0.08224016145307769
+"Jurius Doctor",19,"Aeryn-Sun",39,0.05105017502917153
+"Jurius Doctor",19,"Darien Avan",40,0.022750083640013383
+"Jurius Doctor",19,"Cacique Yuhasz",41,0.015306122448979591
+"Jurius Doctor",19,"Zipp Adoudel",42,0.02334267040149393
+"Jurius Doctor",19,"Fiedan",43,0.03553459119496855
+"Jurius Doctor",19,"Styxx",44,0.05681455473986594
+"Matthew Dust",20,"Aryth",1,0.011465757669662225
+"Matthew Dust",20,"Gobbins",2,0.0999057492931197
+"Matthew Dust",20,"Olmeca Gold",3,0.11179095882522315
+"Matthew Dust",20,"Vily",4,0.047217991219424785
+"Matthew Dust",20,"Merkelchen",5,0.007449605609114811
+"Matthew Dust",20,"Killah Bee",6,0.030852913638592893
+"Matthew Dust",20,"Dunk Dinkle",7,0.07302104808937047
+"Matthew Dust",20,"ExookiZ",8,0.22855337965887557
+"Matthew Dust",20,"Steve Ronuken",9,0.09229595728451563
+"Matthew Dust",20,"Innominate",10,0.05089726755455512
+"Matthew Dust",20,"Sort Dragon",11,0.012949836423118866
+"Matthew Dust",20,"Cornak Firefist",12,0.057093048594465026
+"Matthew Dust",20,"Stitch Kaneland",13,0.18696581196581197
+"Matthew Dust",20,"Matterall",14,0.053361714621256606
+"Matthew Dust",20,"Mike Azariah",15,0.24098331239906692
+"Matthew Dust",20,"The Judge",16,0.028704481258111307
+"Matthew Dust",20,"Arrowspeeed Bounty",17,0.07864056313242411
+"Matthew Dust",20,"Lorelei Ierendi",18,0.07799954117916953
+"Matthew Dust",20,"Jurius Doctor",19,0.14049261083743841
+"Matthew Dust",20,"Matthew Dust",20,1.0
+"Matthew Dust",20,"Insidious Sainthood",21,0.18217530076110974
+"Matthew Dust",20,"Lucrative Business Opportunity",22,0.02245011086474501
+"Matthew Dust",20,"Compayn",23,0.0661210424294637
+"Matthew Dust",20,"Xenuria",24,0.018651860848442788
+"Matthew Dust",20,"BlazingBunny",25,0.11945214979195562
+"Matthew Dust",20,"Manic Velocity",26,0.21157894736842106
+"Matthew Dust",20,"Blood Ruin",27,0.07603341186549582
+"Matthew Dust",20,"Crystalline Entity",28,0.07216494845360824
+"Matthew Dust",20,"Aegaeonos",29,0.018209741114523913
+"Matthew Dust",20," Nahtor Raschura ",30,0.01936619718309859
+"Matthew Dust",20,"teddy Gbyc",31,0.04607250755287009
+"Matthew Dust",20,"Zap InSpace",32,0.04642954113494434
+"Matthew Dust",20,"Doris Andedarie",33,0.05184331797235023
+"Matthew Dust",20,"Arqui Nurbs",34,0.06448038998448925
+"Matthew Dust",20,"Mr Deathwhisper",35,0.03296432964329643
+"Matthew Dust",20,"Anveri Vestigo",36,0.03881511746680286
+"Matthew Dust",20,"Carbon Alabel",37,0.10158460667798529
+"Matthew Dust",20,"Liz Lizardbreath",38,0.22412430866473532
+"Matthew Dust",20,"Aeryn-Sun",39,0.021929824561403508
+"Matthew Dust",20,"Darien Avan",40,0.014557338086749852
+"Matthew Dust",20,"Cacique Yuhasz",41,0.016774193548387096
+"Matthew Dust",20,"Zipp Adoudel",42,0.013904338153503892
+"Matthew Dust",20,"Fiedan",43,0.04463519313304721
+"Matthew Dust",20,"Styxx",44,0.026580861779518745
+"Insidious Sainthood",21,"Aryth",1,0.006006006006006006
+"Insidious Sainthood",21,"Gobbins",2,0.03022182521959208
+"Insidious Sainthood",21,"Olmeca Gold",3,0.09165442029545982
+"Insidious Sainthood",21,"Vily",4,0.0077714285714285715
+"Insidious Sainthood",21,"Merkelchen",5,0.005242781093724795
+"Insidious Sainthood",21,"Killah Bee",6,0.013676963155935988
+"Insidious Sainthood",21,"Dunk Dinkle",7,0.019223319775324425
+"Insidious Sainthood",21,"ExookiZ",8,0.11018518518518519
+"Insidious Sainthood",21,"Steve Ronuken",9,0.05744524654349688
+"Insidious Sainthood",21,"Innominate",10,0.009392121054004696
+"Insidious Sainthood",21,"Sort Dragon",11,0.007445461990916537
+"Insidious Sainthood",21,"Cornak Firefist",12,0.03460635273760969
+"Insidious Sainthood",21,"Stitch Kaneland",13,0.22524234936323892
+"Insidious Sainthood",21,"Matterall",14,0.023987416437278804
+"Insidious Sainthood",21,"Mike Azariah",15,0.10769535898452995
+"Insidious Sainthood",21,"The Judge",16,0.017937971500419113
+"Insidious Sainthood",21,"Arrowspeeed Bounty",17,0.011093880472384588
+"Insidious Sainthood",21,"Lorelei Ierendi",18,0.059786028949024544
+"Insidious Sainthood",21,"Jurius Doctor",19,0.13669982147411375
+"Insidious Sainthood",21,"Matthew Dust",20,0.18217530076110974
+"Insidious Sainthood",21,"Insidious Sainthood",21,1.0
+"Insidious Sainthood",21,"Lucrative Business Opportunity",22,0.02432667245873154
+"Insidious Sainthood",21,"Compayn",23,0.08320862017360071
+"Insidious Sainthood",21,"Xenuria",24,0.01640144488919262
+"Insidious Sainthood",21,"BlazingBunny",25,0.07779646761984861
+"Insidious Sainthood",21,"Manic Velocity",26,0.10352335708630245
+"Insidious Sainthood",21,"Blood Ruin",27,0.15986180904522612
+"Insidious Sainthood",21,"Crystalline Entity",28,0.06065934065934066
+"Insidious Sainthood",21,"Aegaeonos",29,0.019402525408068985
+"Insidious Sainthood",21," Nahtor Raschura ",30,0.017568850902184234
+"Insidious Sainthood",21,"teddy Gbyc",31,0.07132018209408195
+"Insidious Sainthood",21,"Zap InSpace",32,0.03741776315789474
+"Insidious Sainthood",21,"Doris Andedarie",33,0.050226244343891405
+"Insidious Sainthood",21,"Arqui Nurbs",34,0.01106259097525473
+"Insidious Sainthood",21,"Mr Deathwhisper",35,0.056353591160221
+"Insidious Sainthood",21,"Anveri Vestigo",36,0.06498054474708172
+"Insidious Sainthood",21,"Carbon Alabel",37,0.026442307692307692
+"Insidious Sainthood",21,"Liz Lizardbreath",38,0.05872965209064794
+"Insidious Sainthood",21,"Aeryn-Sun",39,0.02096273291925466
+"Insidious Sainthood",21,"Darien Avan",40,0.017578125
+"Insidious Sainthood",21,"Cacique Yuhasz",41,0.01241753977493209
+"Insidious Sainthood",21,"Zipp Adoudel",42,0.020273248126928163
+"Insidious Sainthood",21,"Fiedan",43,0.03942652329749104
+"Insidious Sainthood",21,"Styxx",44,0.040498442367601244
+"Lucrative Business Opportunity",22,"Aryth",1,0.003503124408256012
+"Lucrative Business Opportunity",22,"Gobbins",2,0.0064914502849905
+"Lucrative Business Opportunity",22,"Olmeca Gold",3,0.014291292463881297
+"Lucrative Business Opportunity",22,"Vily",4,0.004899841475716962
+"Lucrative Business Opportunity",22,"Merkelchen",5,0.0076437649986667855
+"Lucrative Business Opportunity",22,"Killah Bee",6,0.005302846022865483
+"Lucrative Business Opportunity",22,"Dunk Dinkle",7,0.011422479439537008
+"Lucrative Business Opportunity",22,"ExookiZ",8,0.021650499086180233
+"Lucrative Business Opportunity",22,"Steve Ronuken",9,0.012024801152376778
+"Lucrative Business Opportunity",22,"Innominate",10,0.0096390628298037
+"Lucrative Business Opportunity",22,"Sort Dragon",11,0.010508308895405669
+"Lucrative Business Opportunity",22,"Cornak Firefist",12,0.0076495132127955496
+"Lucrative Business Opportunity",22,"Stitch Kaneland",13,0.015267175572519083
+"Lucrative Business Opportunity",22,"Matterall",14,0.007368510205810113
+"Lucrative Business Opportunity",22,"Mike Azariah",15,0.024821880027579867
+"Lucrative Business Opportunity",22,"The Judge",16,0.016795865633074936
+"Lucrative Business Opportunity",22,"Arrowspeeed Bounty",17,0.005196936542669584
+"Lucrative Business Opportunity",22,"Lorelei Ierendi",18,0.04668534080298786
+"Lucrative Business Opportunity",22,"Jurius Doctor",19,0.04715498270983967
+"Lucrative Business Opportunity",22,"Matthew Dust",20,0.02245011086474501
+"Lucrative Business Opportunity",22,"Insidious Sainthood",21,0.02432667245873154
+"Lucrative Business Opportunity",22,"Lucrative Business Opportunity",22,1.0
+"Lucrative Business Opportunity",22,"Compayn",23,0.019215044971381847
+"Lucrative Business Opportunity",22,"Xenuria",24,0.013535640213950442
+"Lucrative Business Opportunity",22,"BlazingBunny",25,0.012145748987854251
+"Lucrative Business Opportunity",22,"Manic Velocity",26,0.018310826276035707
+"Lucrative Business Opportunity",22,"Blood Ruin",27,0.01743955608402695
+"Lucrative Business Opportunity",22,"Crystalline Entity",28,0.05061224489795919
+"Lucrative Business Opportunity",22,"Aegaeonos",29,0.014398513701811427
+"Lucrative Business Opportunity",22," Nahtor Raschura ",30,0.03248730964467005
+"Lucrative Business Opportunity",22,"teddy Gbyc",31,0.025981873111782478
+"Lucrative Business Opportunity",22,"Zap InSpace",32,0.03635014836795252
+"Lucrative Business Opportunity",22,"Doris Andedarie",33,0.03732638888888889
+"Lucrative Business Opportunity",22,"Arqui Nurbs",34,0.012510785159620362
+"Lucrative Business Opportunity",22,"Mr Deathwhisper",35,0.023501762632197415
+"Lucrative Business Opportunity",22,"Anveri Vestigo",36,0.017045454545454544
+"Lucrative Business Opportunity",22,"Carbon Alabel",37,0.16747967479674797
+"Lucrative Business Opportunity",22,"Liz Lizardbreath",38,0.03154425612052731
+"Lucrative Business Opportunity",22,"Aeryn-Sun",39,0.0273224043715847
+"Lucrative Business Opportunity",22,"Darien Avan",40,0.032327586206896554
+"Lucrative Business Opportunity",22,"Cacique Yuhasz",41,0.017844886753603295
+"Lucrative Business Opportunity",22,"Zipp Adoudel",42,0.02235597592433362
+"Lucrative Business Opportunity",22,"Fiedan",43,0.0213857998289136
+"Lucrative Business Opportunity",22,"Styxx",44,0.10181818181818182
+"Compayn",23,"Aryth",1,0.006022563406565443
+"Compayn",23,"Gobbins",2,0.014298156481347074
+"Compayn",23,"Olmeca Gold",3,0.0805338591036627
+"Compayn",23,"Vily",4,0.008090173620579948
+"Compayn",23,"Merkelchen",5,0.004064716665338328
+"Compayn",23,"Killah Bee",6,0.013685329881178048
+"Compayn",23,"Dunk Dinkle",7,0.015434761767807496
+"Compayn",23,"ExookiZ",8,0.21153572950703226
+"Compayn",23,"Steve Ronuken",9,0.04105659475288352
+"Compayn",23,"Innominate",10,0.003406607533101941
+"Compayn",23,"Sort Dragon",11,0.007000221059612409
+"Compayn",23,"Cornak Firefist",12,0.017829364604523154
+"Compayn",23,"Stitch Kaneland",13,0.16087493385076734
+"Compayn",23,"Matterall",14,0.02000465224470807
+"Compayn",23,"Mike Azariah",15,0.05554530356154272
+"Compayn",23,"The Judge",16,0.008542094455852156
+"Compayn",23,"Arrowspeeed Bounty",17,0.004432520704537502
+"Compayn",23,"Lorelei Ierendi",18,0.056393244873341374
+"Compayn",23,"Jurius Doctor",19,0.04912040210189628
+"Compayn",23,"Matthew Dust",20,0.0661210424294637
+"Compayn",23,"Insidious Sainthood",21,0.08320862017360071
+"Compayn",23,"Lucrative Business Opportunity",22,0.019215044971381847
+"Compayn",23,"Compayn",23,1.0
+"Compayn",23,"Xenuria",24,0.016481927710843374
+"Compayn",23,"BlazingBunny",25,0.02894582436925484
+"Compayn",23,"Manic Velocity",26,0.035733720297478684
+"Compayn",23,"Blood Ruin",27,0.16885496183206106
+"Compayn",23,"Crystalline Entity",28,0.05245766212308963
+"Compayn",23,"Aegaeonos",29,0.02013621557595499
+"Compayn",23," Nahtor Raschura ",30,0.013796172674677348
+"Compayn",23,"teddy Gbyc",31,0.21121571837904216
+"Compayn",23,"Zap InSpace",32,0.08092720618137454
+"Compayn",23,"Doris Andedarie",33,0.05227077977720651
+"Compayn",23,"Arqui Nurbs",34,0.015194147439504783
+"Compayn",23,"Mr Deathwhisper",35,0.05590717299578059
+"Compayn",23,"Anveri Vestigo",36,0.1365255243371587
+"Compayn",23,"Carbon Alabel",37,0.027820121951219513
+"Compayn",23,"Liz Lizardbreath",38,0.03291442250149611
+"Compayn",23,"Aeryn-Sun",39,0.01579720793534166
+"Compayn",23,"Darien Avan",40,0.024942263279445726
+"Compayn",23,"Cacique Yuhasz",41,0.01105379513633014
+"Compayn",23,"Zipp Adoudel",42,0.0212588578574406
+"Compayn",23,"Fiedan",43,0.12925482980680772
+"Compayn",23,"Styxx",44,0.03343083994985374
+"Xenuria",24,"Aryth",1,0.6560419071295392
+"Xenuria",24,"Gobbins",2,0.020090382159347678
+"Xenuria",24,"Olmeca Gold",3,0.034769351824530344
+"Xenuria",24,"Vily",4,0.35935813822549617
+"Xenuria",24,"Merkelchen",5,0.6139503912102547
+"Xenuria",24,"Killah Bee",6,0.3553426467811969
+"Xenuria",24,"Dunk Dinkle",7,0.38666666666666666
+"Xenuria",24,"ExookiZ",8,0.037940379403794036
+"Xenuria",24,"Steve Ronuken",9,0.4830331985789538
+"Xenuria",24,"Innominate",10,0.505982791072869
+"Xenuria",24,"Sort Dragon",11,0.554086903676694
+"Xenuria",24,"Cornak Firefist",12,0.02492295323596409
+"Xenuria",24,"Stitch Kaneland",13,0.026796683046683048
+"Xenuria",24,"Matterall",14,0.031439060964889604
+"Xenuria",24,"Mike Azariah",15,0.04084518758838699
+"Xenuria",24,"The Judge",16,0.6423527385463313
+"Xenuria",24,"Arrowspeeed Bounty",17,0.00778591991625229
+"Xenuria",24,"Lorelei Ierendi",18,0.019206019206019206
+"Xenuria",24,"Jurius Doctor",19,0.03143970281779469
+"Xenuria",24,"Matthew Dust",20,0.018651860848442788
+"Xenuria",24,"Insidious Sainthood",21,0.01640144488919262
+"Xenuria",24,"Lucrative Business Opportunity",22,0.013535640213950442
+"Xenuria",24,"Compayn",23,0.016481927710843374
+"Xenuria",24,"Xenuria",24,1.0
+"Xenuria",24,"BlazingBunny",25,0.01115771812080537
+"Xenuria",24,"Manic Velocity",26,0.03450558543649152
+"Xenuria",24,"Blood Ruin",27,0.020761245674740483
+"Xenuria",24,"Crystalline Entity",28,0.009293278582234709
+"Xenuria",24,"Aegaeonos",29,0.006291162882138995
+"Xenuria",24," Nahtor Raschura ",30,0.004986149584487534
+"Xenuria",24,"teddy Gbyc",31,0.00983844241922121
+"Xenuria",24,"Zap InSpace",32,0.011127755189385833
+"Xenuria",24,"Doris Andedarie",33,0.005545286506469501
+"Xenuria",24,"Arqui Nurbs",34,0.00667892749975801
+"Xenuria",24,"Mr Deathwhisper",35,0.008857760840457307
+"Xenuria",24,"Anveri Vestigo",36,0.008768267223382045
+"Xenuria",24,"Carbon Alabel",37,0.009897828863346106
+"Xenuria",24,"Liz Lizardbreath",38,0.016169030850114077
+"Xenuria",24,"Aeryn-Sun",39,0.013790177150737245
+"Xenuria",24,"Darien Avan",40,0.004570791527313266
+"Xenuria",24,"Cacique Yuhasz",41,0.00590717299578059
+"Xenuria",24,"Zipp Adoudel",42,0.007082924703062003
+"Xenuria",24,"Fiedan",43,0.006530967671710025
+"Xenuria",24,"Styxx",44,0.016344888108819657
+"BlazingBunny",25,"Aryth",1,0.007537499057812618
+"BlazingBunny",25,"Gobbins",2,0.21646892433409287
+"BlazingBunny",25,"Olmeca Gold",3,0.11271186440677966
+"BlazingBunny",25,"Vily",4,0.099930345948456
+"BlazingBunny",25,"Merkelchen",5,0.005991013479780329
+"BlazingBunny",25,"Killah Bee",6,0.12941630115197378
+"BlazingBunny",25,"Dunk Dinkle",7,0.047164151552909685
+"BlazingBunny",25,"ExookiZ",8,0.06449559775114035
+"BlazingBunny",25,"Steve Ronuken",9,0.059267965077233045
+"BlazingBunny",25,"Innominate",10,0.005167351732237228
+"BlazingBunny",25,"Sort Dragon",11,0.015391822257913404
+"BlazingBunny",25,"Cornak Firefist",12,0.2564939139164262
+"BlazingBunny",25,"Stitch Kaneland",13,0.08695067867222148
+"BlazingBunny",25,"Matterall",14,0.19465493359406827
+"BlazingBunny",25,"Mike Azariah",15,0.04481711724736157
+"BlazingBunny",25,"The Judge",16,0.011074440777411074
+"BlazingBunny",25,"Arrowspeeed Bounty",17,0.030241319621219835
+"BlazingBunny",25,"Lorelei Ierendi",18,0.02811409809152473
+"BlazingBunny",25,"Jurius Doctor",19,0.06943713834823777
+"BlazingBunny",25,"Matthew Dust",20,0.11945214979195562
+"BlazingBunny",25,"Insidious Sainthood",21,0.07779646761984861
+"BlazingBunny",25,"Lucrative Business Opportunity",22,0.012145748987854251
+"BlazingBunny",25,"Compayn",23,0.02894582436925484
+"BlazingBunny",25,"Xenuria",24,0.01115771812080537
+"BlazingBunny",25,"BlazingBunny",25,1.0
+"BlazingBunny",25,"Manic Velocity",26,0.06586914783636096
+"BlazingBunny",25,"Blood Ruin",27,0.0419921875
+"BlazingBunny",25,"Crystalline Entity",28,0.032331975560081466
+"BlazingBunny",25,"Aegaeonos",29,0.0520501380922031
+"BlazingBunny",25," Nahtor Raschura ",30,0.008257858284496537
+"BlazingBunny",25,"teddy Gbyc",31,0.019169329073482427
+"BlazingBunny",25,"Zap InSpace",32,0.030175612169181302
+"BlazingBunny",25,"Doris Andedarie",33,0.010711553175210406
+"BlazingBunny",25,"Arqui Nurbs",34,0.09929078014184398
+"BlazingBunny",25,"Mr Deathwhisper",35,0.12272840428180234
+"BlazingBunny",25,"Anveri Vestigo",36,0.016009280742459397
+"BlazingBunny",25,"Carbon Alabel",37,0.06917599186164802
+"BlazingBunny",25,"Liz Lizardbreath",38,0.029051670471052084
+"BlazingBunny",25,"Aeryn-Sun",39,0.015209125475285171
+"BlazingBunny",25,"Darien Avan",40,0.010577705451586655
+"BlazingBunny",25,"Cacique Yuhasz",41,0.008540925266903915
+"BlazingBunny",25,"Zipp Adoudel",42,0.020634511220015476
+"BlazingBunny",25,"Fiedan",43,0.01278118609406953
+"BlazingBunny",25,"Styxx",44,0.030821030821030822
+"Manic Velocity",26,"Aryth",1,0.0186536901865369
+"Manic Velocity",26,"Gobbins",2,0.10654997568937973
+"Manic Velocity",26,"Olmeca Gold",3,0.09827177228058286
+"Manic Velocity",26,"Vily",4,0.10199981736827687
+"Manic Velocity",26,"Merkelchen",5,0.06249087458023069
+"Manic Velocity",26,"Killah Bee",6,0.07137729923732615
+"Manic Velocity",26,"Dunk Dinkle",7,0.13348028410482488
+"Manic Velocity",26,"ExookiZ",8,0.30187507761082827
+"Manic Velocity",26,"Steve Ronuken",9,0.09345372460496613
+"Manic Velocity",26,"Innominate",10,0.10442600276625173
+"Manic Velocity",26,"Sort Dragon",11,0.07146776406035665
+"Manic Velocity",26,"Cornak Firefist",12,0.06094716560186594
+"Manic Velocity",26,"Stitch Kaneland",13,0.09857161240509586
+"Manic Velocity",26,"Matterall",14,0.08478104809763101
+"Manic Velocity",26,"Mike Azariah",15,0.26666666666666666
+"Manic Velocity",26,"The Judge",16,0.07539472690186598
+"Manic Velocity",26,"Arrowspeeed Bounty",17,0.16672187258474108
+"Manic Velocity",26,"Lorelei Ierendi",18,0.05876648564778898
+"Manic Velocity",26,"Jurius Doctor",19,0.11531255322772951
+"Manic Velocity",26,"Matthew Dust",20,0.21157894736842106
+"Manic Velocity",26,"Insidious Sainthood",21,0.10352335708630245
+"Manic Velocity",26,"Lucrative Business Opportunity",22,0.018310826276035707
+"Manic Velocity",26,"Compayn",23,0.035733720297478684
+"Manic Velocity",26,"Xenuria",24,0.03450558543649152
+"Manic Velocity",26,"BlazingBunny",25,0.06586914783636096
+"Manic Velocity",26,"Manic Velocity",26,1.0
+"Manic Velocity",26,"Blood Ruin",27,0.04310189359783589
+"Manic Velocity",26,"Crystalline Entity",28,0.029721079103795154
+"Manic Velocity",26,"Aegaeonos",29,0.015416431660086483
+"Manic Velocity",26," Nahtor Raschura ",30,0.009778201764846173
+"Manic Velocity",26,"teddy Gbyc",31,0.02502606882168926
+"Manic Velocity",26,"Zap InSpace",32,0.03732014388489208
+"Manic Velocity",26,"Doris Andedarie",33,0.01776239907727797
+"Manic Velocity",26,"Arqui Nurbs",34,0.016812865497076022
+"Manic Velocity",26,"Mr Deathwhisper",35,0.03788195897865215
+"Manic Velocity",26,"Anveri Vestigo",36,0.023966065747613997
+"Manic Velocity",26,"Carbon Alabel",37,0.026472534745201854
+"Manic Velocity",26,"Liz Lizardbreath",38,0.21364452423698385
+"Manic Velocity",26,"Aeryn-Sun",39,0.02786849553668626
+"Manic Velocity",26,"Darien Avan",40,0.01705237515225335
+"Manic Velocity",26,"Cacique Yuhasz",41,0.005562687205819427
+"Manic Velocity",26,"Zipp Adoudel",42,0.01637831603229527
+"Manic Velocity",26,"Fiedan",43,0.032779208616249125
+"Manic Velocity",26,"Styxx",44,0.017225539733578318
+"Blood Ruin",27,"Aryth",1,0.01135593220338983
+"Blood Ruin",27,"Gobbins",2,0.022712382616291767
+"Blood Ruin",27,"Olmeca Gold",3,0.09244146136831669
+"Blood Ruin",27,"Vily",4,0.013434127237123731
+"Blood Ruin",27,"Merkelchen",5,0.008595988538681949
+"Blood Ruin",27,"Killah Bee",6,0.018330787390640188
+"Blood Ruin",27,"Dunk Dinkle",7,0.03169133705411308
+"Blood Ruin",27,"ExookiZ",8,0.15030756886868146
+"Blood Ruin",27,"Steve Ronuken",9,0.039206368064631104
+"Blood Ruin",27,"Innominate",10,0.0066101912463098446
+"Blood Ruin",27,"Sort Dragon",11,0.00918105031215571
+"Blood Ruin",27,"Cornak Firefist",12,0.024967148488830485
+"Blood Ruin",27,"Stitch Kaneland",13,0.23906162725749394
+"Blood Ruin",27,"Matterall",14,0.03928038337654176
+"Blood Ruin",27,"Mike Azariah",15,0.06979320531757754
+"Blood Ruin",27,"The Judge",16,0.016289592760180997
+"Blood Ruin",27,"Arrowspeeed Bounty",17,0.008476544356711566
+"Blood Ruin",27,"Lorelei Ierendi",18,0.049281314168377825
+"Blood Ruin",27,"Jurius Doctor",19,0.061419472247497726
+"Blood Ruin",27,"Matthew Dust",20,0.07603341186549582
+"Blood Ruin",27,"Insidious Sainthood",21,0.15986180904522612
+"Blood Ruin",27,"Lucrative Business Opportunity",22,0.01743955608402695
+"Blood Ruin",27,"Compayn",23,0.16885496183206106
+"Blood Ruin",27,"Xenuria",24,0.020761245674740483
+"Blood Ruin",27,"BlazingBunny",25,0.0419921875
+"Blood Ruin",27,"Manic Velocity",26,0.04310189359783589
+"Blood Ruin",27,"Blood Ruin",27,1.0
+"Blood Ruin",27,"Crystalline Entity",28,0.06067961165048544
+"Blood Ruin",27,"Aegaeonos",29,0.02356020942408377
+"Blood Ruin",27," Nahtor Raschura ",30,0.0199479618386817
+"Blood Ruin",27,"teddy Gbyc",31,0.0724893917963225
+"Blood Ruin",27,"Zap InSpace",32,0.07389937106918239
+"Blood Ruin",27,"Doris Andedarie",33,0.04416013206768469
+"Blood Ruin",27,"Arqui Nurbs",34,0.01572413793103448
+"Blood Ruin",27,"Mr Deathwhisper",35,0.05160628844839371
+"Blood Ruin",27,"Anveri Vestigo",36,0.09151537606520933
+"Blood Ruin",27,"Carbon Alabel",37,0.03164556962025317
+"Blood Ruin",27,"Liz Lizardbreath",38,0.03432091522440599
+"Blood Ruin",27,"Aeryn-Sun",39,0.019755747126436782
+"Blood Ruin",27,"Darien Avan",40,0.020926090828138913
+"Blood Ruin",27,"Cacique Yuhasz",41,0.018063583815028903
+"Blood Ruin",27,"Zipp Adoudel",42,0.13285457809694792
+"Blood Ruin",27,"Fiedan",43,0.10581547879317883
+"Blood Ruin",27,"Styxx",44,0.04129190515126738
+"Crystalline Entity",28,"Aryth",1,0.004525740147086555
+"Crystalline Entity",28,"Gobbins",2,0.009965989084869098
+"Crystalline Entity",28,"Olmeca Gold",3,0.02749330392311328
+"Crystalline Entity",28,"Vily",4,0.004213348654601168
+"Crystalline Entity",28,"Merkelchen",5,0.0035236081747709656
+"Crystalline Entity",28,"Killah Bee",6,0.006509594364828759
+"Crystalline Entity",28,"Dunk Dinkle",7,0.007057163020465773
+"Crystalline Entity",28,"ExookiZ",8,0.0337427643653819
+"Crystalline Entity",28,"Steve Ronuken",9,0.015596617601002193
+"Crystalline Entity",28,"Innominate",10,0.0031337047353760445
+"Crystalline Entity",28,"Sort Dragon",11,0.006055712555510699
+"Crystalline Entity",28,"Cornak Firefist",12,0.015157836184119037
+"Crystalline Entity",28,"Stitch Kaneland",13,0.052270947533281126
+"Crystalline Entity",28,"Matterall",14,0.010229962800135273
+"Crystalline Entity",28,"Mike Azariah",15,0.03603396832683039
+"Crystalline Entity",28,"The Judge",16,0.008378107640469902
+"Crystalline Entity",28,"Arrowspeeed Bounty",17,0.007894378657955628
+"Crystalline Entity",28,"Lorelei Ierendi",18,0.06096997690531178
+"Crystalline Entity",28,"Jurius Doctor",19,0.03294691885295912
+"Crystalline Entity",28,"Matthew Dust",20,0.07216494845360824
+"Crystalline Entity",28,"Insidious Sainthood",21,0.06065934065934066
+"Crystalline Entity",28,"Lucrative Business Opportunity",22,0.05061224489795919
+"Crystalline Entity",28,"Compayn",23,0.05245766212308963
+"Crystalline Entity",28,"Xenuria",24,0.009293278582234709
+"Crystalline Entity",28,"BlazingBunny",25,0.032331975560081466
+"Crystalline Entity",28,"Manic Velocity",26,0.029721079103795154
+"Crystalline Entity",28,"Blood Ruin",27,0.06067961165048544
+"Crystalline Entity",28,"Crystalline Entity",28,1.0
+"Crystalline Entity",28,"Aegaeonos",29,0.0242451967063129
+"Crystalline Entity",28," Nahtor Raschura ",30,0.03076923076923077
+"Crystalline Entity",28,"teddy Gbyc",31,0.03727810650887574
+"Crystalline Entity",28,"Zap InSpace",32,0.07396449704142012
+"Crystalline Entity",28,"Doris Andedarie",33,0.05218855218855219
+"Crystalline Entity",28,"Arqui Nurbs",34,0.014358108108108109
+"Crystalline Entity",28,"Mr Deathwhisper",35,0.041135573580533026
+"Crystalline Entity",28,"Anveri Vestigo",36,0.028395061728395062
+"Crystalline Entity",28,"Carbon Alabel",37,0.03254847645429363
+"Crystalline Entity",28,"Liz Lizardbreath",38,0.03741339491916859
+"Crystalline Entity",28,"Aeryn-Sun",39,0.01962066710268149
+"Crystalline Entity",28,"Darien Avan",40,0.0326197757390418
+"Crystalline Entity",28,"Cacique Yuhasz",41,0.011176857330703484
+"Crystalline Entity",28,"Zipp Adoudel",42,0.029801324503311258
+"Crystalline Entity",28,"Fiedan",43,0.06207482993197279
+"Crystalline Entity",28,"Styxx",44,0.04365733113673806
+"Aegaeonos",29,"Aryth",1,0.0033006166941718057
+"Aegaeonos",29,"Gobbins",2,0.10316435259928963
+"Aegaeonos",29,"Olmeca Gold",3,0.09660163624921334
+"Aegaeonos",29,"Vily",4,0.036147432253174155
+"Aegaeonos",29,"Merkelchen",5,0.003183673469387755
+"Aegaeonos",29,"Killah Bee",6,0.05867371926731316
+"Aegaeonos",29,"Dunk Dinkle",7,0.053654350898445384
+"Aegaeonos",29,"ExookiZ",8,0.019727047146401985
+"Aegaeonos",29,"Steve Ronuken",9,0.019543585771316214
+"Aegaeonos",29,"Innominate",10,0.0020299914871324733
+"Aegaeonos",29,"Sort Dragon",11,0.006025457558183325
+"Aegaeonos",29,"Cornak Firefist",12,0.01135101789019124
+"Aegaeonos",29,"Stitch Kaneland",13,0.06377204884667571
+"Aegaeonos",29,"Matterall",14,0.09039979628214923
+"Aegaeonos",29,"Mike Azariah",15,0.025004735745406327
+"Aegaeonos",29,"The Judge",16,0.00672834314550042
+"Aegaeonos",29,"Arrowspeeed Bounty",17,0.14827109266943292
+"Aegaeonos",29,"Lorelei Ierendi",18,0.039375203384315
+"Aegaeonos",29,"Jurius Doctor",19,0.03529127386995407
+"Aegaeonos",29,"Matthew Dust",20,0.018209741114523913
+"Aegaeonos",29,"Insidious Sainthood",21,0.019402525408068985
+"Aegaeonos",29,"Lucrative Business Opportunity",22,0.014398513701811427
+"Aegaeonos",29,"Compayn",23,0.02013621557595499
+"Aegaeonos",29,"Xenuria",24,0.006291162882138995
+"Aegaeonos",29,"BlazingBunny",25,0.0520501380922031
+"Aegaeonos",29,"Manic Velocity",26,0.015416431660086483
+"Aegaeonos",29,"Blood Ruin",27,0.02356020942408377
+"Aegaeonos",29,"Crystalline Entity",28,0.0242451967063129
+"Aegaeonos",29,"Aegaeonos",29,1.0
+"Aegaeonos",29," Nahtor Raschura ",30,0.02232606438213915
+"Aegaeonos",29,"teddy Gbyc",31,0.012223071046600458
+"Aegaeonos",29,"Zap InSpace",32,0.044
+"Aegaeonos",29,"Doris Andedarie",33,0.018984337921214997
+"Aegaeonos",29,"Arqui Nurbs",34,0.3426943426943427
+"Aegaeonos",29,"Mr Deathwhisper",35,0.04621359223300971
+"Aegaeonos",29,"Anveri Vestigo",36,0.11048526863084922
+"Aegaeonos",29,"Carbon Alabel",37,0.017902813299232736
+"Aegaeonos",29,"Liz Lizardbreath",38,0.022113821138211382
+"Aegaeonos",29,"Aeryn-Sun",39,0.01739850869925435
+"Aegaeonos",29,"Darien Avan",40,0.01703940362087327
+"Aegaeonos",29,"Cacique Yuhasz",41,0.10230873698506111
+"Aegaeonos",29,"Zipp Adoudel",42,0.012293144208037825
+"Aegaeonos",29,"Fiedan",43,0.012741859367626238
+"Aegaeonos",29,"Styxx",44,0.027540360873694207
+" Nahtor Raschura ",30,"Aryth",1,0.004061110036743376
+" Nahtor Raschura ",30,"Gobbins",2,0.00458125703263141
+" Nahtor Raschura ",30,"Olmeca Gold",3,0.008925750394944709
+" Nahtor Raschura ",30,"Vily",4,0.003684312584836145
+" Nahtor Raschura ",30,"Merkelchen",5,0.004878930249367546
+" Nahtor Raschura ",30,"Killah Bee",6,0.0074887914470118735
+" Nahtor Raschura ",30,"Dunk Dinkle",7,0.0044340247693797465
+" Nahtor Raschura ",30,"ExookiZ",8,0.0072846736180545634
+" Nahtor Raschura ",30,"Steve Ronuken",9,0.008794685226194242
+" Nahtor Raschura ",30,"Innominate",10,0.004405599374689121
+" Nahtor Raschura ",30,"Sort Dragon",11,0.0073547640690852
+" Nahtor Raschura ",30,"Cornak Firefist",12,0.010057471264367816
+" Nahtor Raschura ",30,"Stitch Kaneland",13,0.010290916287354047
+" Nahtor Raschura ",30,"Matterall",14,0.00447234884320977
+" Nahtor Raschura ",30,"Mike Azariah",15,0.016040220253770648
+" Nahtor Raschura ",30,"The Judge",16,0.007366654233494965
+" Nahtor Raschura ",30,"Arrowspeeed Bounty",17,0.0060631697687535254
+" Nahtor Raschura ",30,"Lorelei Ierendi",18,0.09037116729424421
+" Nahtor Raschura ",30,"Jurius Doctor",19,0.014322916666666666
+" Nahtor Raschura ",30,"Matthew Dust",20,0.01936619718309859
+" Nahtor Raschura ",30,"Insidious Sainthood",21,0.017568850902184234
+" Nahtor Raschura ",30,"Lucrative Business Opportunity",22,0.03248730964467005
+" Nahtor Raschura ",30,"Compayn",23,0.013796172674677348
+" Nahtor Raschura ",30,"Xenuria",24,0.004986149584487534
+" Nahtor Raschura ",30,"BlazingBunny",25,0.008257858284496537
+" Nahtor Raschura ",30,"Manic Velocity",26,0.009778201764846173
+" Nahtor Raschura ",30,"Blood Ruin",27,0.0199479618386817
+" Nahtor Raschura ",30,"Crystalline Entity",28,0.03076923076923077
+" Nahtor Raschura ",30,"Aegaeonos",29,0.02232606438213915
+" Nahtor Raschura ",30," Nahtor Raschura ",30,1.0
+" Nahtor Raschura ",30,"teddy Gbyc",31,0.018543956043956044
+" Nahtor Raschura ",30,"Zap InSpace",32,0.044169611307420496
+" Nahtor Raschura ",30,"Doris Andedarie",33,0.0425531914893617
+" Nahtor Raschura ",30,"Arqui Nurbs",34,0.014272121788772598
+" Nahtor Raschura ",30,"Mr Deathwhisper",35,0.049484536082474224
+" Nahtor Raschura ",30,"Anveri Vestigo",36,0.024963289280469897
+" Nahtor Raschura ",30,"Carbon Alabel",37,0.03474576271186441
+" Nahtor Raschura ",30,"Liz Lizardbreath",38,0.018031942297784646
+" Nahtor Raschura ",30,"Aeryn-Sun",39,0.01977848101265823
+" Nahtor Raschura ",30,"Darien Avan",40,0.04943502824858757
+" Nahtor Raschura ",30,"Cacique Yuhasz",41,0.01929260450160772
+" Nahtor Raschura ",30,"Zipp Adoudel",42,0.016701461377870562
+" Nahtor Raschura ",30,"Fiedan",43,0.040382571732199786
+" Nahtor Raschura ",30,"Styxx",44,0.029958677685950414
+"teddy Gbyc",31,"Aryth",1,0.005086747206830775
+"teddy Gbyc",31,"Gobbins",2,0.020914020139426802
+"teddy Gbyc",31,"Olmeca Gold",3,0.053068252974326866
+"teddy Gbyc",31,"Vily",4,0.0058322750576172335
+"teddy Gbyc",31,"Merkelchen",5,0.003400493071495367
+"teddy Gbyc",31,"Killah Bee",6,0.01255510829978915
+"teddy Gbyc",31,"Dunk Dinkle",7,0.018126435633676222
+"teddy Gbyc",31,"ExookiZ",8,0.09953078344945258
+"teddy Gbyc",31,"Steve Ronuken",9,0.026234567901234566
+"teddy Gbyc",31,"Innominate",10,0.0032502708559046588
+"teddy Gbyc",31,"Sort Dragon",11,0.004761904761904762
+"teddy Gbyc",31,"Cornak Firefist",12,0.011942257217847769
+"teddy Gbyc",31,"Stitch Kaneland",13,0.11634188693806675
+"teddy Gbyc",31,"Matterall",14,0.024875621890547265
+"teddy Gbyc",31,"Mike Azariah",15,0.03771597134428993
+"teddy Gbyc",31,"The Judge",16,0.007898894154818325
+"teddy Gbyc",31,"Arrowspeeed Bounty",17,0.025721784776902887
+"teddy Gbyc",31,"Lorelei Ierendi",18,0.036753445635528334
+"teddy Gbyc",31,"Jurius Doctor",19,0.030113944655453067
+"teddy Gbyc",31,"Matthew Dust",20,0.04607250755287009
+"teddy Gbyc",31,"Insidious Sainthood",21,0.07132018209408195
+"teddy Gbyc",31,"Lucrative Business Opportunity",22,0.025981873111782478
+"teddy Gbyc",31,"Compayn",23,0.21121571837904216
+"teddy Gbyc",31,"Xenuria",24,0.00983844241922121
+"teddy Gbyc",31,"BlazingBunny",25,0.019169329073482427
+"teddy Gbyc",31,"Manic Velocity",26,0.02502606882168926
+"teddy Gbyc",31,"Blood Ruin",27,0.0724893917963225
+"teddy Gbyc",31,"Crystalline Entity",28,0.03727810650887574
+"teddy Gbyc",31,"Aegaeonos",29,0.012223071046600458
+"teddy Gbyc",31," Nahtor Raschura ",30,0.018543956043956044
+"teddy Gbyc",31,"teddy Gbyc",31,1.0
+"teddy Gbyc",31,"Zap InSpace",32,0.05612244897959184
+"teddy Gbyc",31,"Doris Andedarie",33,0.08279009126466753
+"teddy Gbyc",31,"Arqui Nurbs",34,0.07202743902439024
+"teddy Gbyc",31,"Mr Deathwhisper",35,0.05393794749403341
+"teddy Gbyc",31,"Anveri Vestigo",36,0.10596379126730564
+"teddy Gbyc",31,"Carbon Alabel",37,0.02644360496492175
+"teddy Gbyc",31,"Liz Lizardbreath",38,0.03304821150855365
+"teddy Gbyc",31,"Aeryn-Sun",39,0.013374485596707819
+"teddy Gbyc",31,"Darien Avan",40,0.01496792587312901
+"teddy Gbyc",31,"Cacique Yuhasz",41,0.10299943406904358
+"teddy Gbyc",31,"Zipp Adoudel",42,0.01596071209330878
+"teddy Gbyc",31,"Fiedan",43,0.09138724523339908
+"teddy Gbyc",31,"Styxx",44,0.02254722730042657
+"Zap InSpace",32,"Aryth",1,0.005135867027733682
+"Zap InSpace",32,"Gobbins",2,0.009246924222239637
+"Zap InSpace",32,"Olmeca Gold",3,0.031526939063602856
+"Zap InSpace",32,"Vily",4,0.00721349066067931
+"Zap InSpace",32,"Merkelchen",5,0.005419580419580419
+"Zap InSpace",32,"Killah Bee",6,0.008717129158797037
+"Zap InSpace",32,"Dunk Dinkle",7,0.011582233860408903
+"Zap InSpace",32,"ExookiZ",8,0.03929520346804643
+"Zap InSpace",32,"Steve Ronuken",9,0.019612742036227357
+"Zap InSpace",32,"Innominate",10,0.003873020264195311
+"Zap InSpace",32,"Sort Dragon",11,0.005760921747479597
+"Zap InSpace",32,"Cornak Firefist",12,0.013818579833082502
+"Zap InSpace",32,"Stitch Kaneland",13,0.05359200922013062
+"Zap InSpace",32,"Matterall",14,0.014725681588690677
+"Zap InSpace",32,"Mike Azariah",15,0.04971623155505108
+"Zap InSpace",32,"The Judge",16,0.012402679703059931
+"Zap InSpace",32,"Arrowspeeed Bounty",17,0.007642799678197908
+"Zap InSpace",32,"Lorelei Ierendi",18,0.11797491871806781
+"Zap InSpace",32,"Jurius Doctor",19,0.055236945366737095
+"Zap InSpace",32,"Matthew Dust",20,0.04642954113494434
+"Zap InSpace",32,"Insidious Sainthood",21,0.03741776315789474
+"Zap InSpace",32,"Lucrative Business Opportunity",22,0.03635014836795252
+"Zap InSpace",32,"Compayn",23,0.08092720618137454
+"Zap InSpace",32,"Xenuria",24,0.011127755189385833
+"Zap InSpace",32,"BlazingBunny",25,0.030175612169181302
+"Zap InSpace",32,"Manic Velocity",26,0.03732014388489208
+"Zap InSpace",32,"Blood Ruin",27,0.07389937106918239
+"Zap InSpace",32,"Crystalline Entity",28,0.07396449704142012
+"Zap InSpace",32,"Aegaeonos",29,0.044
+"Zap InSpace",32," Nahtor Raschura ",30,0.044169611307420496
+"Zap InSpace",32,"teddy Gbyc",31,0.05612244897959184
+"Zap InSpace",32,"Zap InSpace",32,1.0
+"Zap InSpace",32,"Doris Andedarie",33,0.0625
+"Zap InSpace",32,"Arqui Nurbs",34,0.01659247268312424
+"Zap InSpace",32,"Mr Deathwhisper",35,0.06121313299944352
+"Zap InSpace",32,"Anveri Vestigo",36,0.059033989266547404
+"Zap InSpace",32,"Carbon Alabel",37,0.046405228758169936
+"Zap InSpace",32,"Liz Lizardbreath",38,0.0650994575045208
+"Zap InSpace",32,"Aeryn-Sun",39,0.043125
+"Zap InSpace",32,"Darien Avan",40,0.058435438265786996
+"Zap InSpace",32,"Cacique Yuhasz",41,0.02360248447204969
+"Zap InSpace",32,"Zipp Adoudel",42,0.029657794676806085
+"Zap InSpace",32,"Fiedan",43,0.07942811755361398
+"Zap InSpace",32,"Styxx",44,0.0851063829787234
+"Doris Andedarie",33,"Aryth",1,0.005617442635437494
+"Doris Andedarie",33,"Gobbins",2,0.004118811881188119
+"Doris Andedarie",33,"Olmeca Gold",3,0.023147416653499762
+"Doris Andedarie",33,"Vily",4,0.005973600539551017
+"Doris Andedarie",33,"Merkelchen",5,0.00524864335913175
+"Doris Andedarie",33,"Killah Bee",6,0.0044312426957537985
+"Doris Andedarie",33,"Dunk Dinkle",7,0.005257304620361945
+"Doris Andedarie",33,"ExookiZ",8,0.03715392339693014
+"Doris Andedarie",33,"Steve Ronuken",9,0.014026039373545506
+"Doris Andedarie",33,"Innominate",10,0.00294303132226193
+"Doris Andedarie",33,"Sort Dragon",11,0.005201560468140442
+"Doris Andedarie",33,"Cornak Firefist",12,0.007689081504263945
+"Doris Andedarie",33,"Stitch Kaneland",13,0.030427150380339378
+"Doris Andedarie",33,"Matterall",14,0.007391673746813934
+"Doris Andedarie",33,"Mike Azariah",15,0.043909348441926344
+"Doris Andedarie",33,"The Judge",16,0.010583471378612186
+"Doris Andedarie",33,"Arrowspeeed Bounty",17,0.006607019958706125
+"Doris Andedarie",33,"Lorelei Ierendi",18,0.08035276825085742
+"Doris Andedarie",33,"Jurius Doctor",19,0.044057052297939776
+"Doris Andedarie",33,"Matthew Dust",20,0.05184331797235023
+"Doris Andedarie",33,"Insidious Sainthood",21,0.050226244343891405
+"Doris Andedarie",33,"Lucrative Business Opportunity",22,0.03732638888888889
+"Doris Andedarie",33,"Compayn",23,0.05227077977720651
+"Doris Andedarie",33,"Xenuria",24,0.005545286506469501
+"Doris Andedarie",33,"BlazingBunny",25,0.010711553175210406
+"Doris Andedarie",33,"Manic Velocity",26,0.01776239907727797
+"Doris Andedarie",33,"Blood Ruin",27,0.04416013206768469
+"Doris Andedarie",33,"Crystalline Entity",28,0.05218855218855219
+"Doris Andedarie",33,"Aegaeonos",29,0.018984337921214997
+"Doris Andedarie",33," Nahtor Raschura ",30,0.0425531914893617
+"Doris Andedarie",33,"teddy Gbyc",31,0.08279009126466753
+"Doris Andedarie",33,"Zap InSpace",32,0.0625
+"Doris Andedarie",33,"Doris Andedarie",33,1.0
+"Doris Andedarie",33,"Arqui Nurbs",34,0.012713722051731697
+"Doris Andedarie",33,"Mr Deathwhisper",35,0.040268456375838924
+"Doris Andedarie",33,"Anveri Vestigo",36,0.06279540850776502
+"Doris Andedarie",33,"Carbon Alabel",37,0.030950626381724394
+"Doris Andedarie",33,"Liz Lizardbreath",38,0.04563106796116505
+"Doris Andedarie",33,"Aeryn-Sun",39,0.04042553191489362
+"Doris Andedarie",33,"Darien Avan",40,0.05862068965517241
+"Doris Andedarie",33,"Cacique Yuhasz",41,0.04782608695652174
+"Doris Andedarie",33,"Zipp Adoudel",42,0.01856763925729443
+"Doris Andedarie",33,"Fiedan",43,0.08536585365853659
+"Doris Andedarie",33,"Styxx",44,0.0528673835125448
+"Arqui Nurbs",34,"Aryth",1,0.0035983550376970526
+"Arqui Nurbs",34,"Gobbins",2,0.1277012150371035
+"Arqui Nurbs",34,"Olmeca Gold",3,0.11424508177293198
+"Arqui Nurbs",34,"Vily",4,0.03801761907005229
+"Arqui Nurbs",34,"Merkelchen",5,0.003061060093442887
+"Arqui Nurbs",34,"Killah Bee",6,0.07328011038833038
+"Arqui Nurbs",34,"Dunk Dinkle",7,0.06591680599888534
+"Arqui Nurbs",34,"ExookiZ",8,0.01921206225680934
+"Arqui Nurbs",34,"Steve Ronuken",9,0.03079126387397064
+"Arqui Nurbs",34,"Innominate",10,0.003373775384415753
+"Arqui Nurbs",34,"Sort Dragon",11,0.005653079440642666
+"Arqui Nurbs",34,"Cornak Firefist",12,0.010882708585247884
+"Arqui Nurbs",34,"Stitch Kaneland",13,0.048728813559322036
+"Arqui Nurbs",34,"Matterall",14,0.10583134988099285
+"Arqui Nurbs",34,"Mike Azariah",15,0.014192139737991267
+"Arqui Nurbs",34,"The Judge",16,0.002975944449036951
+"Arqui Nurbs",34,"Arrowspeeed Bounty",17,0.14129702035863556
+"Arqui Nurbs",34,"Lorelei Ierendi",18,0.016964556195092396
+"Arqui Nurbs",34,"Jurius Doctor",19,0.015532206486980357
+"Arqui Nurbs",34,"Matthew Dust",20,0.06448038998448925
+"Arqui Nurbs",34,"Insidious Sainthood",21,0.01106259097525473
+"Arqui Nurbs",34,"Lucrative Business Opportunity",22,0.012510785159620362
+"Arqui Nurbs",34,"Compayn",23,0.015194147439504783
+"Arqui Nurbs",34,"Xenuria",24,0.00667892749975801
+"Arqui Nurbs",34,"BlazingBunny",25,0.09929078014184398
+"Arqui Nurbs",34,"Manic Velocity",26,0.016812865497076022
+"Arqui Nurbs",34,"Blood Ruin",27,0.01572413793103448
+"Arqui Nurbs",34,"Crystalline Entity",28,0.014358108108108109
+"Arqui Nurbs",34,"Aegaeonos",29,0.3426943426943427
+"Arqui Nurbs",34," Nahtor Raschura ",30,0.014272121788772598
+"Arqui Nurbs",34,"teddy Gbyc",31,0.07202743902439024
+"Arqui Nurbs",34,"Zap InSpace",32,0.01659247268312424
+"Arqui Nurbs",34,"Doris Andedarie",33,0.012713722051731697
+"Arqui Nurbs",34,"Arqui Nurbs",34,1.0
+"Arqui Nurbs",34,"Mr Deathwhisper",35,0.021451555237754737
+"Arqui Nurbs",34,"Anveri Vestigo",36,0.013006317354143442
+"Arqui Nurbs",34,"Carbon Alabel",37,0.11300174520069808
+"Arqui Nurbs",34,"Liz Lizardbreath",38,0.01566820276497696
+"Arqui Nurbs",34,"Aeryn-Sun",39,0.010416666666666666
+"Arqui Nurbs",34,"Darien Avan",40,0.012701514411333659
+"Arqui Nurbs",34,"Cacique Yuhasz",41,0.08385481852315395
+"Arqui Nurbs",34,"Zipp Adoudel",42,0.00611353711790393
+"Arqui Nurbs",34,"Fiedan",43,0.006977758395115569
+"Arqui Nurbs",34,"Styxx",44,0.017045454545454544
+"Mr Deathwhisper",35,"Aryth",1,0.004612045577862181
+"Mr Deathwhisper",35,"Gobbins",2,0.041916167664670656
+"Mr Deathwhisper",35,"Olmeca Gold",3,0.04095010411043418
+"Mr Deathwhisper",35,"Vily",4,0.024624653342258773
+"Mr Deathwhisper",35,"Merkelchen",5,0.004153246312934396
+"Mr Deathwhisper",35,"Killah Bee",6,0.030565560206366204
+"Mr Deathwhisper",35,"Dunk Dinkle",7,0.010484150140942585
+"Mr Deathwhisper",35,"ExookiZ",8,0.0285676497817749
+"Mr Deathwhisper",35,"Steve Ronuken",9,0.02408306198931007
+"Mr Deathwhisper",35,"Innominate",10,0.003986217147490034
+"Mr Deathwhisper",35,"Sort Dragon",11,0.01024718397997497
+"Mr Deathwhisper",35,"Cornak Firefist",12,0.0700979715744446
+"Mr Deathwhisper",35,"Stitch Kaneland",13,0.044802867383512544
+"Mr Deathwhisper",35,"Matterall",14,0.04816630049011323
+"Mr Deathwhisper",35,"Mike Azariah",15,0.03715299519933208
+"Mr Deathwhisper",35,"The Judge",16,0.009722343873171587
+"Mr Deathwhisper",35,"Arrowspeeed Bounty",17,0.008597459258308739
+"Mr Deathwhisper",35,"Lorelei Ierendi",18,0.08261211644374508
+"Mr Deathwhisper",35,"Jurius Doctor",19,0.031140939597315436
+"Mr Deathwhisper",35,"Matthew Dust",20,0.03296432964329643
+"Mr Deathwhisper",35,"Insidious Sainthood",21,0.056353591160221
+"Mr Deathwhisper",35,"Lucrative Business Opportunity",22,0.023501762632197415
+"Mr Deathwhisper",35,"Compayn",23,0.05590717299578059
+"Mr Deathwhisper",35,"Xenuria",24,0.008857760840457307
+"Mr Deathwhisper",35,"BlazingBunny",25,0.12272840428180234
+"Mr Deathwhisper",35,"Manic Velocity",26,0.03788195897865215
+"Mr Deathwhisper",35,"Blood Ruin",27,0.05160628844839371
+"Mr Deathwhisper",35,"Crystalline Entity",28,0.041135573580533026
+"Mr Deathwhisper",35,"Aegaeonos",29,0.04621359223300971
+"Mr Deathwhisper",35," Nahtor Raschura ",30,0.049484536082474224
+"Mr Deathwhisper",35,"teddy Gbyc",31,0.05393794749403341
+"Mr Deathwhisper",35,"Zap InSpace",32,0.06121313299944352
+"Mr Deathwhisper",35,"Doris Andedarie",33,0.040268456375838924
+"Mr Deathwhisper",35,"Arqui Nurbs",34,0.021451555237754737
+"Mr Deathwhisper",35,"Mr Deathwhisper",35,1.0
+"Mr Deathwhisper",35,"Anveri Vestigo",36,0.05574912891986063
+"Mr Deathwhisper",35,"Carbon Alabel",37,0.040641711229946524
+"Mr Deathwhisper",35,"Liz Lizardbreath",38,0.03288718929254302
+"Mr Deathwhisper",35,"Aeryn-Sun",39,0.038679731820526045
+"Mr Deathwhisper",35,"Darien Avan",40,0.04113475177304964
+"Mr Deathwhisper",35,"Cacique Yuhasz",41,0.021527421834956432
+"Mr Deathwhisper",35,"Zipp Adoudel",42,0.02164762477450391
+"Mr Deathwhisper",35,"Fiedan",43,0.027124773960216998
+"Mr Deathwhisper",35,"Styxx",44,0.05128205128205128
+"Anveri Vestigo",36,"Aryth",1,0.00549551199853453
+"Anveri Vestigo",36,"Gobbins",2,0.026982508432033887
+"Anveri Vestigo",36,"Olmeca Gold",3,0.058353127474267616
+"Anveri Vestigo",36,"Vily",4,0.005761239138647525
+"Anveri Vestigo",36,"Merkelchen",5,0.003597738564330992
+"Anveri Vestigo",36,"Killah Bee",6,0.018735476374903175
+"Anveri Vestigo",36,"Dunk Dinkle",7,0.01953497715060513
+"Anveri Vestigo",36,"ExookiZ",8,0.06371730662214803
+"Anveri Vestigo",36,"Steve Ronuken",9,0.02294798045401126
+"Anveri Vestigo",36,"Innominate",10,0.0025866176570689538
+"Anveri Vestigo",36,"Sort Dragon",11,0.005426661423515533
+"Anveri Vestigo",36,"Cornak Firefist",12,0.013156146179401994
+"Anveri Vestigo",36,"Stitch Kaneland",13,0.12008647798742138
+"Anveri Vestigo",36,"Matterall",14,0.0305651188177009
+"Anveri Vestigo",36,"Mike Azariah",15,0.036862408915559364
+"Anveri Vestigo",36,"The Judge",16,0.006002294995145202
+"Anveri Vestigo",36,"Arrowspeeed Bounty",17,0.0348105502744678
+"Anveri Vestigo",36,"Lorelei Ierendi",18,0.032296179598267034
+"Anveri Vestigo",36,"Jurius Doctor",19,0.02627939142461964
+"Anveri Vestigo",36,"Matthew Dust",20,0.03881511746680286
+"Anveri Vestigo",36,"Insidious Sainthood",21,0.06498054474708172
+"Anveri Vestigo",36,"Lucrative Business Opportunity",22,0.017045454545454544
+"Anveri Vestigo",36,"Compayn",23,0.1365255243371587
+"Anveri Vestigo",36,"Xenuria",24,0.008768267223382045
+"Anveri Vestigo",36,"BlazingBunny",25,0.016009280742459397
+"Anveri Vestigo",36,"Manic Velocity",26,0.023966065747613997
+"Anveri Vestigo",36,"Blood Ruin",27,0.09151537606520933
+"Anveri Vestigo",36,"Crystalline Entity",28,0.028395061728395062
+"Anveri Vestigo",36,"Aegaeonos",29,0.11048526863084922
+"Anveri Vestigo",36," Nahtor Raschura ",30,0.024963289280469897
+"Anveri Vestigo",36,"teddy Gbyc",31,0.10596379126730564
+"Anveri Vestigo",36,"Zap InSpace",32,0.059033989266547404
+"Anveri Vestigo",36,"Doris Andedarie",33,0.06279540850776502
+"Anveri Vestigo",36,"Arqui Nurbs",34,0.013006317354143442
+"Anveri Vestigo",36,"Mr Deathwhisper",35,0.05574912891986063
+"Anveri Vestigo",36,"Anveri Vestigo",36,1.0
+"Anveri Vestigo",36,"Carbon Alabel",37,0.022535211267605635
+"Anveri Vestigo",36,"Liz Lizardbreath",38,0.030473135525260625
+"Anveri Vestigo",36,"Aeryn-Sun",39,0.01728795245813074
+"Anveri Vestigo",36,"Darien Avan",40,0.027671022290545733
+"Anveri Vestigo",36,"Cacique Yuhasz",41,0.13398294762484775
+"Anveri Vestigo",36,"Zipp Adoudel",42,0.02216427640156454
+"Anveri Vestigo",36,"Fiedan",43,0.06934058463630184
+"Anveri Vestigo",36,"Styxx",44,0.023809523809523808
+"Carbon Alabel",37,"Aryth",1,0.005117231112765166
+"Carbon Alabel",37,"Gobbins",2,0.02328897338403042
+"Carbon Alabel",37,"Olmeca Gold",3,0.03426107408859271
+"Carbon Alabel",37,"Vily",4,0.007632495348948147
+"Carbon Alabel",37,"Merkelchen",5,0.004788438098554762
+"Carbon Alabel",37,"Killah Bee",6,0.015622718645057673
+"Carbon Alabel",37,"Dunk Dinkle",7,0.01950157025630635
+"Carbon Alabel",37,"ExookiZ",8,0.015219459165647507
+"Carbon Alabel",37,"Steve Ronuken",9,0.030934979838709676
+"Carbon Alabel",37,"Innominate",10,0.004416839199447895
+"Carbon Alabel",37,"Sort Dragon",11,0.007350003994567388
+"Carbon Alabel",37,"Cornak Firefist",12,0.011405295315682282
+"Carbon Alabel",37,"Stitch Kaneland",13,0.02220577350111029
+"Carbon Alabel",37,"Matterall",14,0.025514961430872257
+"Carbon Alabel",37,"Mike Azariah",15,0.035761883607285654
+"Carbon Alabel",37,"The Judge",16,0.008719101123595505
+"Carbon Alabel",37,"Arrowspeeed Bounty",17,0.006663113006396588
+"Carbon Alabel",37,"Lorelei Ierendi",18,0.07045951859956236
+"Carbon Alabel",37,"Jurius Doctor",19,0.03181552831290134
+"Carbon Alabel",37,"Matthew Dust",20,0.10158460667798529
+"Carbon Alabel",37,"Insidious Sainthood",21,0.026442307692307692
+"Carbon Alabel",37,"Lucrative Business Opportunity",22,0.16747967479674797
+"Carbon Alabel",37,"Compayn",23,0.027820121951219513
+"Carbon Alabel",37,"Xenuria",24,0.009897828863346106
+"Carbon Alabel",37,"BlazingBunny",25,0.06917599186164802
+"Carbon Alabel",37,"Manic Velocity",26,0.026472534745201854
+"Carbon Alabel",37,"Blood Ruin",27,0.03164556962025317
+"Carbon Alabel",37,"Crystalline Entity",28,0.03254847645429363
+"Carbon Alabel",37,"Aegaeonos",29,0.017902813299232736
+"Carbon Alabel",37," Nahtor Raschura ",30,0.03474576271186441
+"Carbon Alabel",37,"teddy Gbyc",31,0.02644360496492175
+"Carbon Alabel",37,"Zap InSpace",32,0.046405228758169936
+"Carbon Alabel",37,"Doris Andedarie",33,0.030950626381724394
+"Carbon Alabel",37,"Arqui Nurbs",34,0.11300174520069808
+"Carbon Alabel",37,"Mr Deathwhisper",35,0.040641711229946524
+"Carbon Alabel",37,"Anveri Vestigo",36,0.022535211267605635
+"Carbon Alabel",37,"Carbon Alabel",37,1.0
+"Carbon Alabel",37,"Liz Lizardbreath",38,0.032772746873652434
+"Carbon Alabel",37,"Aeryn-Sun",39,0.03766707168894289
+"Carbon Alabel",37,"Darien Avan",40,0.04684684684684685
+"Carbon Alabel",37,"Cacique Yuhasz",41,0.02553191489361702
+"Carbon Alabel",37,"Zipp Adoudel",42,0.02351212343864805
+"Carbon Alabel",37,"Fiedan",43,0.041728763040238454
+"Carbon Alabel",37,"Styxx",44,0.031318281136198105
+"Liz Lizardbreath",38,"Aryth",1,0.010314685314685315
+"Liz Lizardbreath",38,"Gobbins",2,0.05583011583011583
+"Liz Lizardbreath",38,"Olmeca Gold",3,0.03695167286245353
+"Liz Lizardbreath",38,"Vily",4,0.03741286926833894
+"Liz Lizardbreath",38,"Merkelchen",5,0.006713607335844114
+"Liz Lizardbreath",38,"Killah Bee",6,0.00820627593602835
+"Liz Lizardbreath",38,"Dunk Dinkle",7,0.049821527323915336
+"Liz Lizardbreath",38,"ExookiZ",8,0.13134369412735525
+"Liz Lizardbreath",38,"Steve Ronuken",9,0.035446406968303895
+"Liz Lizardbreath",38,"Innominate",10,0.043914081145584725
+"Liz Lizardbreath",38,"Sort Dragon",11,0.009823182711198428
+"Liz Lizardbreath",38,"Cornak Firefist",12,0.02332543345391044
+"Liz Lizardbreath",38,"Stitch Kaneland",13,0.03905345027304319
+"Liz Lizardbreath",38,"Matterall",14,0.031209884467265726
+"Liz Lizardbreath",38,"Mike Azariah",15,0.24408725602755454
+"Liz Lizardbreath",38,"The Judge",16,0.014913990339801711
+"Liz Lizardbreath",38,"Arrowspeeed Bounty",17,0.08161936995574069
+"Liz Lizardbreath",38,"Lorelei Ierendi",18,0.13550904576090814
+"Liz Lizardbreath",38,"Jurius Doctor",19,0.08224016145307769
+"Liz Lizardbreath",38,"Matthew Dust",20,0.22412430866473532
+"Liz Lizardbreath",38,"Insidious Sainthood",21,0.05872965209064794
+"Liz Lizardbreath",38,"Lucrative Business Opportunity",22,0.03154425612052731
+"Liz Lizardbreath",38,"Compayn",23,0.03291442250149611
+"Liz Lizardbreath",38,"Xenuria",24,0.016169030850114077
+"Liz Lizardbreath",38,"BlazingBunny",25,0.029051670471052084
+"Liz Lizardbreath",38,"Manic Velocity",26,0.21364452423698385
+"Liz Lizardbreath",38,"Blood Ruin",27,0.03432091522440599
+"Liz Lizardbreath",38,"Crystalline Entity",28,0.03741339491916859
+"Liz Lizardbreath",38,"Aegaeonos",29,0.022113821138211382
+"Liz Lizardbreath",38," Nahtor Raschura ",30,0.018031942297784646
+"Liz Lizardbreath",38,"teddy Gbyc",31,0.03304821150855365
+"Liz Lizardbreath",38,"Zap InSpace",32,0.0650994575045208
+"Liz Lizardbreath",38,"Doris Andedarie",33,0.04563106796116505
+"Liz Lizardbreath",38,"Arqui Nurbs",34,0.01566820276497696
+"Liz Lizardbreath",38,"Mr Deathwhisper",35,0.03288718929254302
+"Liz Lizardbreath",38,"Anveri Vestigo",36,0.030473135525260625
+"Liz Lizardbreath",38,"Carbon Alabel",37,0.032772746873652434
+"Liz Lizardbreath",38,"Liz Lizardbreath",38,1.0
+"Liz Lizardbreath",38,"Aeryn-Sun",39,0.044529262086514
+"Liz Lizardbreath",38,"Darien Avan",40,0.031754574811625406
+"Liz Lizardbreath",38,"Cacique Yuhasz",41,0.01834862385321101
+"Liz Lizardbreath",38,"Zipp Adoudel",42,0.01752723827569872
+"Liz Lizardbreath",38,"Fiedan",43,0.03162434115955918
+"Liz Lizardbreath",38,"Styxx",44,0.03479504289799809
+"Aeryn-Sun",39,"Aryth",1,0.009659143679762236
+"Aeryn-Sun",39,"Gobbins",2,0.01850980392156863
+"Aeryn-Sun",39,"Olmeca Gold",3,0.013296652911508482
+"Aeryn-Sun",39,"Vily",4,0.030039371992417244
+"Aeryn-Sun",39,"Merkelchen",5,0.006328016643550624
+"Aeryn-Sun",39,"Killah Bee",6,0.016903050320575094
+"Aeryn-Sun",39,"Dunk Dinkle",7,0.026220844555109507
+"Aeryn-Sun",39,"ExookiZ",8,0.015080113100848256
+"Aeryn-Sun",39,"Steve Ronuken",9,0.030027582748244734
+"Aeryn-Sun",39,"Innominate",10,0.019025716077775454
+"Aeryn-Sun",39,"Sort Dragon",11,0.008512330946698489
+"Aeryn-Sun",39,"Cornak Firefist",12,0.06973103742706703
+"Aeryn-Sun",39,"Stitch Kaneland",13,0.016542446827849482
+"Aeryn-Sun",39,"Matterall",14,0.03049296967643571
+"Aeryn-Sun",39,"Mike Azariah",15,0.0375
+"Aeryn-Sun",39,"The Judge",16,0.014193316564858068
+"Aeryn-Sun",39,"Arrowspeeed Bounty",17,0.009402728115481393
+"Aeryn-Sun",39,"Lorelei Ierendi",18,0.08175559380378658
+"Aeryn-Sun",39,"Jurius Doctor",19,0.05105017502917153
+"Aeryn-Sun",39,"Matthew Dust",20,0.021929824561403508
+"Aeryn-Sun",39,"Insidious Sainthood",21,0.02096273291925466
+"Aeryn-Sun",39,"Lucrative Business Opportunity",22,0.0273224043715847
+"Aeryn-Sun",39,"Compayn",23,0.01579720793534166
+"Aeryn-Sun",39,"Xenuria",24,0.013790177150737245
+"Aeryn-Sun",39,"BlazingBunny",25,0.015209125475285171
+"Aeryn-Sun",39,"Manic Velocity",26,0.02786849553668626
+"Aeryn-Sun",39,"Blood Ruin",27,0.019755747126436782
+"Aeryn-Sun",39,"Crystalline Entity",28,0.01962066710268149
+"Aeryn-Sun",39,"Aegaeonos",29,0.01739850869925435
+"Aeryn-Sun",39," Nahtor Raschura ",30,0.01977848101265823
+"Aeryn-Sun",39,"teddy Gbyc",31,0.013374485596707819
+"Aeryn-Sun",39,"Zap InSpace",32,0.043125
+"Aeryn-Sun",39,"Doris Andedarie",33,0.04042553191489362
+"Aeryn-Sun",39,"Arqui Nurbs",34,0.010416666666666666
+"Aeryn-Sun",39,"Mr Deathwhisper",35,0.038679731820526045
+"Aeryn-Sun",39,"Anveri Vestigo",36,0.01728795245813074
+"Aeryn-Sun",39,"Carbon Alabel",37,0.03766707168894289
+"Aeryn-Sun",39,"Liz Lizardbreath",38,0.044529262086514
+"Aeryn-Sun",39,"Aeryn-Sun",39,1.0
+"Aeryn-Sun",39,"Darien Avan",40,0.04149026248941575
+"Aeryn-Sun",39,"Cacique Yuhasz",41,0.07536764705882353
+"Aeryn-Sun",39,"Zipp Adoudel",42,0.014583333333333334
+"Aeryn-Sun",39,"Fiedan",43,0.023743016759776536
+"Aeryn-Sun",39,"Styxx",44,0.033426183844011144
+"Darien Avan",40,"Aryth",1,0.004866180048661801
+"Darien Avan",40,"Gobbins",2,0.004359761020507024
+"Darien Avan",40,"Olmeca Gold",3,0.008087535680304472
+"Darien Avan",40,"Vily",4,0.005748526331173576
+"Darien Avan",40,"Merkelchen",5,0.0036287761952281594
+"Darien Avan",40,"Killah Bee",6,0.0055232271427162445
+"Darien Avan",40,"Dunk Dinkle",7,0.003934191702432046
+"Darien Avan",40,"ExookiZ",8,0.008217993079584774
+"Darien Avan",40,"Steve Ronuken",9,0.007420091324200913
+"Darien Avan",40,"Innominate",10,0.0036363636363636364
+"Darien Avan",40,"Sort Dragon",11,0.00455448824113945
+"Darien Avan",40,"Cornak Firefist",12,0.008827785817655571
+"Darien Avan",40,"Stitch Kaneland",13,0.009603841536614645
+"Darien Avan",40,"Matterall",14,0.011138183083884442
+"Darien Avan",40,"Mike Azariah",15,0.015037593984962405
+"Darien Avan",40,"The Judge",16,0.008636875704093128
+"Darien Avan",40,"Arrowspeeed Bounty",17,0.004542873367404884
+"Darien Avan",40,"Lorelei Ierendi",18,0.0586336740182894
+"Darien Avan",40,"Jurius Doctor",19,0.022750083640013383
+"Darien Avan",40,"Matthew Dust",20,0.014557338086749852
+"Darien Avan",40,"Insidious Sainthood",21,0.017578125
+"Darien Avan",40,"Lucrative Business Opportunity",22,0.032327586206896554
+"Darien Avan",40,"Compayn",23,0.024942263279445726
+"Darien Avan",40,"Xenuria",24,0.004570791527313266
+"Darien Avan",40,"BlazingBunny",25,0.010577705451586655
+"Darien Avan",40,"Manic Velocity",26,0.01705237515225335
+"Darien Avan",40,"Blood Ruin",27,0.020926090828138913
+"Darien Avan",40,"Crystalline Entity",28,0.0326197757390418
+"Darien Avan",40,"Aegaeonos",29,0.01703940362087327
+"Darien Avan",40," Nahtor Raschura ",30,0.04943502824858757
+"Darien Avan",40,"teddy Gbyc",31,0.01496792587312901
+"Darien Avan",40,"Zap InSpace",32,0.058435438265786996
+"Darien Avan",40,"Doris Andedarie",33,0.05862068965517241
+"Darien Avan",40,"Arqui Nurbs",34,0.012701514411333659
+"Darien Avan",40,"Mr Deathwhisper",35,0.04113475177304964
+"Darien Avan",40,"Anveri Vestigo",36,0.027671022290545733
+"Darien Avan",40,"Carbon Alabel",37,0.04684684684684685
+"Darien Avan",40,"Liz Lizardbreath",38,0.031754574811625406
+"Darien Avan",40,"Aeryn-Sun",39,0.04149026248941575
+"Darien Avan",40,"Darien Avan",40,1.0
+"Darien Avan",40,"Cacique Yuhasz",41,0.02806122448979592
+"Darien Avan",40,"Zipp Adoudel",42,0.012168141592920354
+"Darien Avan",40,"Fiedan",43,0.04308390022675737
+"Darien Avan",40,"Styxx",44,0.049217002237136466
+"Cacique Yuhasz",41,"Aryth",1,0.005933617652512517
+"Cacique Yuhasz",41,"Gobbins",2,0.04086384071933205
+"Cacique Yuhasz",41,"Olmeca Gold",3,0.039575971731448764
+"Cacique Yuhasz",41,"Vily",4,0.017201614453200075
+"Cacique Yuhasz",41,"Merkelchen",5,0.005815467407343113
+"Cacique Yuhasz",41,"Killah Bee",6,0.02801671172278201
+"Cacique Yuhasz",41,"Dunk Dinkle",7,0.03133786616226164
+"Cacique Yuhasz",41,"ExookiZ",8,0.007774798927613941
+"Cacique Yuhasz",41,"Steve Ronuken",9,0.012650416538105523
+"Cacique Yuhasz",41,"Innominate",10,0.00961139538099848
+"Cacique Yuhasz",41,"Sort Dragon",11,0.0074828848909409326
+"Cacique Yuhasz",41,"Cornak Firefist",12,0.038802660753880266
+"Cacique Yuhasz",41,"Stitch Kaneland",13,0.08048875096974399
+"Cacique Yuhasz",41,"Matterall",14,0.045270677338841554
+"Cacique Yuhasz",41,"Mike Azariah",15,0.013993541442411194
+"Cacique Yuhasz",41,"The Judge",16,0.004546264931360314
+"Cacique Yuhasz",41,"Arrowspeeed Bounty",17,0.05364568893817577
+"Cacique Yuhasz",41,"Lorelei Ierendi",18,0.04222408026755853
+"Cacique Yuhasz",41,"Jurius Doctor",19,0.015306122448979591
+"Cacique Yuhasz",41,"Matthew Dust",20,0.016774193548387096
+"Cacique Yuhasz",41,"Insidious Sainthood",21,0.01241753977493209
+"Cacique Yuhasz",41,"Lucrative Business Opportunity",22,0.017844886753603295
+"Cacique Yuhasz",41,"Compayn",23,0.01105379513633014
+"Cacique Yuhasz",41,"Xenuria",24,0.00590717299578059
+"Cacique Yuhasz",41,"BlazingBunny",25,0.008540925266903915
+"Cacique Yuhasz",41,"Manic Velocity",26,0.005562687205819427
+"Cacique Yuhasz",41,"Blood Ruin",27,0.018063583815028903
+"Cacique Yuhasz",41,"Crystalline Entity",28,0.011176857330703484
+"Cacique Yuhasz",41,"Aegaeonos",29,0.10230873698506111
+"Cacique Yuhasz",41," Nahtor Raschura ",30,0.01929260450160772
+"Cacique Yuhasz",41,"teddy Gbyc",31,0.10299943406904358
+"Cacique Yuhasz",41,"Zap InSpace",32,0.02360248447204969
+"Cacique Yuhasz",41,"Doris Andedarie",33,0.04782608695652174
+"Cacique Yuhasz",41,"Arqui Nurbs",34,0.08385481852315395
+"Cacique Yuhasz",41,"Mr Deathwhisper",35,0.021527421834956432
+"Cacique Yuhasz",41,"Anveri Vestigo",36,0.13398294762484775
+"Cacique Yuhasz",41,"Carbon Alabel",37,0.02553191489361702
+"Cacique Yuhasz",41,"Liz Lizardbreath",38,0.01834862385321101
+"Cacique Yuhasz",41,"Aeryn-Sun",39,0.07536764705882353
+"Cacique Yuhasz",41,"Darien Avan",40,0.02806122448979592
+"Cacique Yuhasz",41,"Cacique Yuhasz",41,1.0
+"Cacique Yuhasz",41,"Zipp Adoudel",42,0.02127659574468085
+"Cacique Yuhasz",41,"Fiedan",43,0.01332398316970547
+"Cacique Yuhasz",41,"Styxx",44,0.01245674740484429
+"Zipp Adoudel",42,"Aryth",1,0.007540326429321371
+"Zipp Adoudel",42,"Gobbins",2,0.008998248128682912
+"Zipp Adoudel",42,"Olmeca Gold",3,0.012118842845973418
+"Zipp Adoudel",42,"Vily",4,0.006702994647248879
+"Zipp Adoudel",42,"Merkelchen",5,0.007403443047007403
+"Zipp Adoudel",42,"Killah Bee",6,0.006589866250122035
+"Zipp Adoudel",42,"Dunk Dinkle",7,0.020586272395913548
+"Zipp Adoudel",42,"ExookiZ",8,0.05799648506151142
+"Zipp Adoudel",42,"Steve Ronuken",9,0.007501875468867217
+"Zipp Adoudel",42,"Innominate",10,0.004705056179775281
+"Zipp Adoudel",42,"Sort Dragon",11,0.003572008442929047
+"Zipp Adoudel",42,"Cornak Firefist",12,0.01565364546608377
+"Zipp Adoudel",42,"Stitch Kaneland",13,0.0667070952092177
+"Zipp Adoudel",42,"Matterall",14,0.030342549121891844
+"Zipp Adoudel",42,"Mike Azariah",15,0.04126385286489036
+"Zipp Adoudel",42,"The Judge",16,0.00623452828458788
+"Zipp Adoudel",42,"Arrowspeeed Bounty",17,0.0028822399121603073
+"Zipp Adoudel",42,"Lorelei Ierendi",18,0.0270901447921532
+"Zipp Adoudel",42,"Jurius Doctor",19,0.02334267040149393
+"Zipp Adoudel",42,"Matthew Dust",20,0.013904338153503892
+"Zipp Adoudel",42,"Insidious Sainthood",21,0.020273248126928163
+"Zipp Adoudel",42,"Lucrative Business Opportunity",22,0.02235597592433362
+"Zipp Adoudel",42,"Compayn",23,0.0212588578574406
+"Zipp Adoudel",42,"Xenuria",24,0.007082924703062003
+"Zipp Adoudel",42,"BlazingBunny",25,0.020634511220015476
+"Zipp Adoudel",42,"Manic Velocity",26,0.01637831603229527
+"Zipp Adoudel",42,"Blood Ruin",27,0.13285457809694792
+"Zipp Adoudel",42,"Crystalline Entity",28,0.029801324503311258
+"Zipp Adoudel",42,"Aegaeonos",29,0.012293144208037825
+"Zipp Adoudel",42," Nahtor Raschura ",30,0.016701461377870562
+"Zipp Adoudel",42,"teddy Gbyc",31,0.01596071209330878
+"Zipp Adoudel",42,"Zap InSpace",32,0.029657794676806085
+"Zipp Adoudel",42,"Doris Andedarie",33,0.01856763925729443
+"Zipp Adoudel",42,"Arqui Nurbs",34,0.00611353711790393
+"Zipp Adoudel",42,"Mr Deathwhisper",35,0.02164762477450391
+"Zipp Adoudel",42,"Anveri Vestigo",36,0.02216427640156454
+"Zipp Adoudel",42,"Carbon Alabel",37,0.02351212343864805
+"Zipp Adoudel",42,"Liz Lizardbreath",38,0.01752723827569872
+"Zipp Adoudel",42,"Aeryn-Sun",39,0.014583333333333334
+"Zipp Adoudel",42,"Darien Avan",40,0.012168141592920354
+"Zipp Adoudel",42,"Cacique Yuhasz",41,0.02127659574468085
+"Zipp Adoudel",42,"Zipp Adoudel",42,1.0
+"Zipp Adoudel",42,"Fiedan",43,0.02311111111111111
+"Zipp Adoudel",42,"Styxx",44,0.02096069868995633
+"Fiedan",43,"Aryth",1,0.004374702805515929
+"Fiedan",43,"Gobbins",2,0.004915173616616458
+"Fiedan",43,"Olmeca Gold",3,0.024120205614867538
+"Fiedan",43,"Vily",4,0.004473734847027131
+"Fiedan",43,"Merkelchen",5,0.002484251619199716
+"Fiedan",43,"Killah Bee",6,0.003991433021806853
+"Fiedan",43,"Dunk Dinkle",7,0.005460888911361683
+"Fiedan",43,"ExookiZ",8,0.0527158875782729
+"Fiedan",43,"Steve Ronuken",9,0.015624015624015624
+"Fiedan",43,"Innominate",10,0.0020303857732969265
+"Fiedan",43,"Sort Dragon",11,0.004467186484730344
+"Fiedan",43,"Cornak Firefist",12,0.007690156599552573
+"Fiedan",43,"Stitch Kaneland",13,0.04594059405940594
+"Fiedan",43,"Matterall",14,0.010397136526333731
+"Fiedan",43,"Mike Azariah",15,0.036333802156586964
+"Fiedan",43,"The Judge",16,0.006047278724573941
+"Fiedan",43,"Arrowspeeed Bounty",17,0.003293084522502744
+"Fiedan",43,"Lorelei Ierendi",18,0.04703087885985748
+"Fiedan",43,"Jurius Doctor",19,0.03553459119496855
+"Fiedan",43,"Matthew Dust",20,0.04463519313304721
+"Fiedan",43,"Insidious Sainthood",21,0.03942652329749104
+"Fiedan",43,"Lucrative Business Opportunity",22,0.0213857998289136
+"Fiedan",43,"Compayn",23,0.12925482980680772
+"Fiedan",43,"Xenuria",24,0.006530967671710025
+"Fiedan",43,"BlazingBunny",25,0.01278118609406953
+"Fiedan",43,"Manic Velocity",26,0.032779208616249125
+"Fiedan",43,"Blood Ruin",27,0.10581547879317883
+"Fiedan",43,"Crystalline Entity",28,0.06207482993197279
+"Fiedan",43,"Aegaeonos",29,0.012741859367626238
+"Fiedan",43," Nahtor Raschura ",30,0.040382571732199786
+"Fiedan",43,"teddy Gbyc",31,0.09138724523339908
+"Fiedan",43,"Zap InSpace",32,0.07942811755361398
+"Fiedan",43,"Doris Andedarie",33,0.08536585365853659
+"Fiedan",43,"Arqui Nurbs",34,0.006977758395115569
+"Fiedan",43,"Mr Deathwhisper",35,0.027124773960216998
+"Fiedan",43,"Anveri Vestigo",36,0.06934058463630184
+"Fiedan",43,"Carbon Alabel",37,0.041728763040238454
+"Fiedan",43,"Liz Lizardbreath",38,0.03162434115955918
+"Fiedan",43,"Aeryn-Sun",39,0.023743016759776536
+"Fiedan",43,"Darien Avan",40,0.04308390022675737
+"Fiedan",43,"Cacique Yuhasz",41,0.01332398316970547
+"Fiedan",43,"Zipp Adoudel",42,0.02311111111111111
+"Fiedan",43,"Fiedan",43,1.0
+"Fiedan",43,"Styxx",44,0.043555555555555556
+"Styxx",44,"Aryth",1,0.008580417580322242
+"Styxx",44,"Gobbins",2,0.011393514460999123
+"Styxx",44,"Olmeca Gold",3,0.016380594090445958
+"Styxx",44,"Vily",4,0.006889574099055695
+"Styxx",44,"Merkelchen",5,0.009725196288365453
+"Styxx",44,"Killah Bee",6,0.009980430528375734
+"Styxx",44,"Dunk Dinkle",7,0.011999796613616718
+"Styxx",44,"ExookiZ",8,0.03160142348754449
+"Styxx",44,"Steve Ronuken",9,0.009697197197197197
+"Styxx",44,"Innominate",10,0.010364520905309173
+"Styxx",44,"Sort Dragon",11,0.013668358160091668
+"Styxx",44,"Cornak Firefist",12,0.011479770404591909
+"Styxx",44,"Stitch Kaneland",13,0.022573798958132357
+"Styxx",44,"Matterall",14,0.014091724314629772
+"Styxx",44,"Mike Azariah",15,0.027070800555298473
+"Styxx",44,"The Judge",16,0.02012800296818477
+"Styxx",44,"Arrowspeeed Bounty",17,0.012570797071418704
+"Styxx",44,"Lorelei Ierendi",18,0.048113207547169815
+"Styxx",44,"Jurius Doctor",19,0.05681455473986594
+"Styxx",44,"Matthew Dust",20,0.026580861779518745
+"Styxx",44,"Insidious Sainthood",21,0.040498442367601244
+"Styxx",44,"Lucrative Business Opportunity",22,0.10181818181818182
+"Styxx",44,"Compayn",23,0.03343083994985374
+"Styxx",44,"Xenuria",24,0.016344888108819657
+"Styxx",44,"BlazingBunny",25,0.030821030821030822
+"Styxx",44,"Manic Velocity",26,0.017225539733578318
+"Styxx",44,"Blood Ruin",27,0.04129190515126738
+"Styxx",44,"Crystalline Entity",28,0.04365733113673806
+"Styxx",44,"Aegaeonos",29,0.027540360873694207
+"Styxx",44," Nahtor Raschura ",30,0.029958677685950414
+"Styxx",44,"teddy Gbyc",31,0.02254722730042657
+"Styxx",44,"Zap InSpace",32,0.0851063829787234
+"Styxx",44,"Doris Andedarie",33,0.0528673835125448
+"Styxx",44,"Arqui Nurbs",34,0.017045454545454544
+"Styxx",44,"Mr Deathwhisper",35,0.05128205128205128
+"Styxx",44,"Anveri Vestigo",36,0.023809523809523808
+"Styxx",44,"Carbon Alabel",37,0.031318281136198105
+"Styxx",44,"Liz Lizardbreath",38,0.03479504289799809
+"Styxx",44,"Aeryn-Sun",39,0.033426183844011144
+"Styxx",44,"Darien Avan",40,0.049217002237136466
+"Styxx",44,"Cacique Yuhasz",41,0.01245674740484429
+"Styxx",44,"Zipp Adoudel",42,0.02096069868995633
+"Styxx",44,"Fiedan",43,0.043555555555555556
+"Styxx",44,"Styxx",44,1.0

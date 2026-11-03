@@ -1,0 +1,1601 @@
+Candidate,Order,Other,OtherOrder,Jaccard
+"Merkelchen",1,"Merkelchen",1,1.0
+"Merkelchen",1,"Gobbins",2,0.3398097668483935
+"Merkelchen",1,"Vily",3,0.4518831609932825
+"Merkelchen",1,"Maria Taylor",4,0.02753220510229856
+"Merkelchen",1,"Innominate",5,0.7759647188533627
+"Merkelchen",1,"Kenneth Feld",6,0.018734643734643733
+"Merkelchen",1,"Mike Azariah",7,0.07138427616619582
+"Merkelchen",1,"Brisc Rubal",8,0.579534026148173
+"Merkelchen",1,"Phantomite",9,0.051796955932743645
+"Merkelchen",1,"Torvald Uruz",10,0.47510389712224577
+"Merkelchen",1,"Loroseco Kross",11,0.01913844556896328
+"Merkelchen",1,"Ikarus Cesaille",12,0.017146356399265157
+"Merkelchen",1,"Juvenius Drakonius",13,0.03754168651738923
+"Merkelchen",1,"ExookiZ",14,0.4266527578563046
+"Merkelchen",1,"BlazingBunny",15,0.03381671580720862
+"Merkelchen",1,"Jurius Doctor",16,0.047267238639974576
+"Merkelchen",1,"DutchGunner",17,0.01919133929303699
+"Merkelchen",1,"Stitch Kaneland",18,0.025857940941739824
+"Merkelchen",1,"Meredith en Thielles",19,0.02331352936752651
+"Merkelchen",1,"Insidious Sainthood",20,0.03169624432521667
+"Merkelchen",1,"Steadyo",21,0.015984955336154207
+"Merkelchen",1,"The Oz",22,0.025699700756908996
+"Merkelchen",1,"Alexis Finch",23,0.023048452220726785
+"Merkelchen",1,"Darius Caliente",24,0.023413258110014105
+"Merkelchen",1,"January Valentine",25,0.5677367432710364
+"Merkelchen",1,"Ironwulf",26,0.023466447097571015
+"Merkelchen",1,"PJHustle",27,0.08082233195606167
+"Merkelchen",1,"Pandora Singularity",28,0.049416660474102696
+"Merkelchen",1,"UAxDEATH",29,0.5916773641420625
+"Merkelchen",1,"Komi Valentine",30,0.023862263391059204
+"Merkelchen",1,"Prospektor Schipplock",31,0.04036736437419906
+"Merkelchen",1,"Xenuria",32,0.5587285044293903
+"Merkelchen",1,"Murray Rothbardo",33,0.011152013858813339
+"Merkelchen",1,"Styxx",34,0.021487603305785124
+"Merkelchen",1,"boernl",35,0.013216978734220114
+"Merkelchen",1,"Dhuras",36,0.011098314312637421
+"Merkelchen",1,"Rheaha Preynar",37,0.022329892563724456
+"Merkelchen",1,"Kalen Tsero",38,0.01975732846558574
+"Merkelchen",1,"Storm Delay",39,0.010766149223835753
+"Merkelchen",1,"Leehams DaWildabeast",40,0.010388486094578509
+"Gobbins",2,"Merkelchen",1,0.3398097668483935
+"Gobbins",2,"Gobbins",2,1.0
+"Gobbins",2,"Vily",3,0.3204603967893382
+"Gobbins",2,"Maria Taylor",4,0.3642941176470588
+"Gobbins",2,"Innominate",5,0.33975216708359995
+"Gobbins",2,"Kenneth Feld",6,0.4148308655350909
+"Gobbins",2,"Mike Azariah",7,0.050049067713444556
+"Gobbins",2,"Brisc Rubal",8,0.306958815175492
+"Gobbins",2,"Phantomite",9,0.032695170148334445
+"Gobbins",2,"Torvald Uruz",10,0.3058459352481478
+"Gobbins",2,"Loroseco Kross",11,0.10887887103096824
+"Gobbins",2,"Ikarus Cesaille",12,0.02599845115610134
+"Gobbins",2,"Juvenius Drakonius",13,0.016552511415525113
+"Gobbins",2,"ExookiZ",14,0.4432529939369645
+"Gobbins",2,"BlazingBunny",15,0.3128166022114494
+"Gobbins",2,"Jurius Doctor",16,0.036609260596060636
+"Gobbins",2,"DutchGunner",17,0.02997072132020229
+"Gobbins",2,"Stitch Kaneland",18,0.035882661079099
+"Gobbins",2,"Meredith en Thielles",19,0.2213231794383627
+"Gobbins",2,"Insidious Sainthood",20,0.026752669979909063
+"Gobbins",2,"Steadyo",21,0.41523846203222287
+"Gobbins",2,"The Oz",22,0.029085872576177285
+"Gobbins",2,"Alexis Finch",23,0.02901051496360205
+"Gobbins",2,"Darius Caliente",24,0.03056086126063553
+"Gobbins",2,"January Valentine",25,0.31178584839869106
+"Gobbins",2,"Ironwulf",26,0.03387294972484907
+"Gobbins",2,"PJHustle",27,0.02402506963788301
+"Gobbins",2,"Pandora Singularity",28,0.18887005649717514
+"Gobbins",2,"UAxDEATH",29,0.34659336586571127
+"Gobbins",2,"Komi Valentine",30,0.015207318522038731
+"Gobbins",2,"Prospektor Schipplock",31,0.012640534791856579
+"Gobbins",2,"Xenuria",32,0.33347555772278437
+"Gobbins",2,"Murray Rothbardo",33,0.012327231976092642
+"Gobbins",2,"Styxx",34,0.025689528923602635
+"Gobbins",2,"boernl",35,0.18310565233738563
+"Gobbins",2,"Dhuras",36,0.012396946564885497
+"Gobbins",2,"Rheaha Preynar",37,0.017190750030588522
+"Gobbins",2,"Kalen Tsero",38,0.018992055610724926
+"Gobbins",2,"Storm Delay",39,0.22400154350762108
+"Gobbins",2,"Leehams DaWildabeast",40,0.043919352767432904
+"Vily",3,"Merkelchen",1,0.4518831609932825
+"Vily",3,"Gobbins",2,0.3204603967893382
+"Vily",3,"Vily",3,1.0
+"Vily",3,"Maria Taylor",4,0.027429300446523495
+"Vily",3,"Innominate",5,0.4715503340244183
+"Vily",3,"Kenneth Feld",6,0.03390008948781387
+"Vily",3,"Mike Azariah",7,0.08326055312954876
+"Vily",3,"Brisc Rubal",8,0.4448842271917673
+"Vily",3,"Phantomite",9,0.04453155121449685
+"Vily",3,"Torvald Uruz",10,0.4032340862422998
+"Vily",3,"Loroseco Kross",11,0.16372093023255813
+"Vily",3,"Ikarus Cesaille",12,0.02484818873455713
+"Vily",3,"Juvenius Drakonius",13,0.03135862732046446
+"Vily",3,"ExookiZ",14,0.3760414942338465
+"Vily",3,"BlazingBunny",15,0.15527773020494376
+"Vily",3,"Jurius Doctor",16,0.05860495436766623
+"Vily",3,"DutchGunner",17,0.036484134422278755
+"Vily",3,"Stitch Kaneland",18,0.056581219285429675
+"Vily",3,"Meredith en Thielles",19,0.02781889958055761
+"Vily",3,"Insidious Sainthood",20,0.05564981336952833
+"Vily",3,"Steadyo",21,0.017116965933881522
+"Vily",3,"The Oz",22,0.06555595798623687
+"Vily",3,"Alexis Finch",23,0.2490151017728168
+"Vily",3,"Darius Caliente",24,0.0343548267418565
+"Vily",3,"January Valentine",25,0.42487369368122363
+"Vily",3,"Ironwulf",26,0.26097223353147136
+"Vily",3,"PJHustle",27,0.030894673847995213
+"Vily",3,"Pandora Singularity",28,0.04987165383204987
+"Vily",3,"UAxDEATH",29,0.489246865398987
+"Vily",3,"Komi Valentine",30,0.03175222343579342
+"Vily",3,"Prospektor Schipplock",31,0.031015870458390396
+"Vily",3,"Xenuria",32,0.4539877300613497
+"Vily",3,"Murray Rothbardo",33,0.02058460271716756
+"Vily",3,"Styxx",34,0.02795425667090216
+"Vily",3,"boernl",35,0.020040760869565216
+"Vily",3,"Dhuras",36,0.017691322446365672
+"Vily",3,"Rheaha Preynar",37,0.02604920405209841
+"Vily",3,"Kalen Tsero",38,0.015122109008571891
+"Vily",3,"Storm Delay",39,0.0159421260633666
+"Vily",3,"Leehams DaWildabeast",40,0.013991163475699559
+"Maria Taylor",4,"Merkelchen",1,0.02753220510229856
+"Maria Taylor",4,"Gobbins",2,0.3642941176470588
+"Maria Taylor",4,"Vily",3,0.027429300446523495
+"Maria Taylor",4,"Maria Taylor",4,1.0
+"Maria Taylor",4,"Innominate",5,0.020215378802191573
+"Maria Taylor",4,"Kenneth Feld",6,0.5246845858475041
+"Maria Taylor",4,"Mike Azariah",7,0.054188852193839725
+"Maria Taylor",4,"Brisc Rubal",8,0.01882833934047017
+"Maria Taylor",4,"Phantomite",9,0.02863555452364368
+"Maria Taylor",4,"Torvald Uruz",10,0.025718936516549103
+"Maria Taylor",4,"Loroseco Kross",11,0.14466821211243117
+"Maria Taylor",4,"Ikarus Cesaille",12,0.052447238437359676
+"Maria Taylor",4,"Juvenius Drakonius",13,0.030015945971297253
+"Maria Taylor",4,"ExookiZ",14,0.16437049597286987
+"Maria Taylor",4,"BlazingBunny",15,0.32127285244396847
+"Maria Taylor",4,"Jurius Doctor",16,0.046594134342478714
+"Maria Taylor",4,"DutchGunner",17,0.053610503282275714
+"Maria Taylor",4,"Stitch Kaneland",18,0.04344321753848634
+"Maria Taylor",4,"Meredith en Thielles",19,0.37900140930138915
+"Maria Taylor",4,"Insidious Sainthood",20,0.02599413298565841
+"Maria Taylor",4,"Steadyo",21,0.5914461988915612
+"Maria Taylor",4,"The Oz",22,0.05601006922592826
+"Maria Taylor",4,"Alexis Finch",23,0.03452933727311102
+"Maria Taylor",4,"Darius Caliente",24,0.029257314328582147
+"Maria Taylor",4,"January Valentine",25,0.04025498760476921
+"Maria Taylor",4,"Ironwulf",26,0.035817685499214165
+"Maria Taylor",4,"PJHustle",27,0.03413001912045889
+"Maria Taylor",4,"Pandora Singularity",28,0.3083578792341679
+"Maria Taylor",4,"UAxDEATH",29,0.015809472112905416
+"Maria Taylor",4,"Komi Valentine",30,0.0560930424042816
+"Maria Taylor",4,"Prospektor Schipplock",31,0.05345474022495983
+"Maria Taylor",4,"Xenuria",32,0.021241940956905327
+"Maria Taylor",4,"Murray Rothbardo",33,0.014849887011729259
+"Maria Taylor",4,"Styxx",34,0.04787904241915162
+"Maria Taylor",4,"boernl",35,0.2981794678444468
+"Maria Taylor",4,"Dhuras",36,0.01902372739625797
+"Maria Taylor",4,"Rheaha Preynar",37,0.05832793259883344
+"Maria Taylor",4,"Kalen Tsero",38,0.032407407407407406
+"Maria Taylor",4,"Storm Delay",39,0.3488449209682768
+"Maria Taylor",4,"Leehams DaWildabeast",40,0.046155553089981136
+"Innominate",5,"Merkelchen",1,0.7759647188533627
+"Innominate",5,"Gobbins",2,0.33975216708359995
+"Innominate",5,"Vily",3,0.4715503340244183
+"Innominate",5,"Maria Taylor",4,0.020215378802191573
+"Innominate",5,"Innominate",5,1.0
+"Innominate",5,"Kenneth Feld",6,0.013440530256536149
+"Innominate",5,"Mike Azariah",7,0.06495561824812496
+"Innominate",5,"Brisc Rubal",8,0.5859942557864504
+"Innominate",5,"Phantomite",9,0.051927237759435856
+"Innominate",5,"Torvald Uruz",10,0.47617172115005907
+"Innominate",5,"Loroseco Kross",11,0.0192282622865337
+"Innominate",5,"Ikarus Cesaille",12,0.01671799384073911
+"Innominate",5,"Juvenius Drakonius",13,0.03939656000768713
+"Innominate",5,"ExookiZ",14,0.4269824653232138
+"Innominate",5,"BlazingBunny",15,0.03215492277992278
+"Innominate",5,"Jurius Doctor",16,0.04753914988814318
+"Innominate",5,"DutchGunner",17,0.019473553923591055
+"Innominate",5,"Stitch Kaneland",18,0.023624569552334426
+"Innominate",5,"Meredith en Thielles",19,0.01461769115442279
+"Innominate",5,"Insidious Sainthood",20,0.03171440431714404
+"Innominate",5,"Steadyo",21,0.01060616231455998
+"Innominate",5,"The Oz",22,0.02287379669698843
+"Innominate",5,"Alexis Finch",23,0.026490066225165563
+"Innominate",5,"Darius Caliente",24,0.0282453637660485
+"Innominate",5,"January Valentine",25,0.5636754433100484
+"Innominate",5,"Ironwulf",26,0.02871888787147257
+"Innominate",5,"PJHustle",27,0.0826219512195122
+"Innominate",5,"Pandora Singularity",28,0.05062439243251327
+"Innominate",5,"UAxDEATH",29,0.6026626258253057
+"Innominate",5,"Komi Valentine",30,0.02010507173166296
+"Innominate",5,"Prospektor Schipplock",31,0.037219779041081195
+"Innominate",5,"Xenuria",32,0.5723642510035918
+"Innominate",5,"Murray Rothbardo",33,0.010357610117749673
+"Innominate",5,"Styxx",34,0.021861336664584636
+"Innominate",5,"boernl",35,0.01114324600204151
+"Innominate",5,"Dhuras",36,0.01514509637788604
+"Innominate",5,"Rheaha Preynar",37,0.01463928383359663
+"Innominate",5,"Kalen Tsero",38,0.011266094420600859
+"Innominate",5,"Storm Delay",39,0.008967482400268187
+"Innominate",5,"Leehams DaWildabeast",40,0.009369212332498093
+"Kenneth Feld",6,"Merkelchen",1,0.018734643734643733
+"Kenneth Feld",6,"Gobbins",2,0.4148308655350909
+"Kenneth Feld",6,"Vily",3,0.03390008948781387
+"Kenneth Feld",6,"Maria Taylor",4,0.5246845858475041
+"Kenneth Feld",6,"Innominate",5,0.013440530256536149
+"Kenneth Feld",6,"Kenneth Feld",6,1.0
+"Kenneth Feld",6,"Mike Azariah",7,0.08834163312640698
+"Kenneth Feld",6,"Brisc Rubal",8,0.029683906509065626
+"Kenneth Feld",6,"Phantomite",9,0.04581795817958179
+"Kenneth Feld",6,"Torvald Uruz",10,0.03517560870502047
+"Kenneth Feld",6,"Loroseco Kross",11,0.14210787440640726
+"Kenneth Feld",6,"Ikarus Cesaille",12,0.03278969957081545
+"Kenneth Feld",6,"Juvenius Drakonius",13,0.016195789094835343
+"Kenneth Feld",6,"ExookiZ",14,0.19854799677332616
+"Kenneth Feld",6,"BlazingBunny",15,0.42316096139839765
+"Kenneth Feld",6,"Jurius Doctor",16,0.04748689485044712
+"Kenneth Feld",6,"DutchGunner",17,0.039954615446956804
+"Kenneth Feld",6,"Stitch Kaneland",18,0.07630489487783099
+"Kenneth Feld",6,"Meredith en Thielles",19,0.36276988912662905
+"Kenneth Feld",6,"Insidious Sainthood",20,0.061358776114492516
+"Kenneth Feld",6,"Steadyo",21,0.5879766895000511
+"Kenneth Feld",6,"The Oz",22,0.05660212038903005
+"Kenneth Feld",6,"Alexis Finch",23,0.05171980918905348
+"Kenneth Feld",6,"Darius Caliente",24,0.03587814277849147
+"Kenneth Feld",6,"January Valentine",25,0.031810860561435804
+"Kenneth Feld",6,"Ironwulf",26,0.04784064005224916
+"Kenneth Feld",6,"PJHustle",27,0.029697474326949764
+"Kenneth Feld",6,"Pandora Singularity",28,0.31680565627266133
+"Kenneth Feld",6,"UAxDEATH",29,0.013460645845766195
+"Kenneth Feld",6,"Komi Valentine",30,0.019475510991129964
+"Kenneth Feld",6,"Prospektor Schipplock",31,0.020209129298210334
+"Kenneth Feld",6,"Xenuria",32,0.013459127795737942
+"Kenneth Feld",6,"Murray Rothbardo",33,0.01839464882943144
+"Kenneth Feld",6,"Styxx",34,0.0331225534477567
+"Kenneth Feld",6,"boernl",35,0.29452413359857604
+"Kenneth Feld",6,"Dhuras",36,0.01626098373901626
+"Kenneth Feld",6,"Rheaha Preynar",37,0.025144479367332453
+"Kenneth Feld",6,"Kalen Tsero",38,0.0318882867861609
+"Kenneth Feld",6,"Storm Delay",39,0.33504
+"Kenneth Feld",6,"Leehams DaWildabeast",40,0.06621429353179381
+"Mike Azariah",7,"Merkelchen",1,0.07138427616619582
+"Mike Azariah",7,"Gobbins",2,0.050049067713444556
+"Mike Azariah",7,"Vily",3,0.08326055312954876
+"Mike Azariah",7,"Maria Taylor",4,0.054188852193839725
+"Mike Azariah",7,"Innominate",5,0.06495561824812496
+"Mike Azariah",7,"Kenneth Feld",6,0.08834163312640698
+"Mike Azariah",7,"Mike Azariah",7,1.0
+"Mike Azariah",7,"Brisc Rubal",8,0.14085300933174671
+"Mike Azariah",7,"Phantomite",9,0.1760082343033592
+"Mike Azariah",7,"Torvald Uruz",10,0.15230067182152365
+"Mike Azariah",7,"Loroseco Kross",11,0.12825501346902124
+"Mike Azariah",7,"Ikarus Cesaille",12,0.2096809680968097
+"Mike Azariah",7,"Juvenius Drakonius",13,0.06157508020283556
+"Mike Azariah",7,"ExookiZ",14,0.13726854329444504
+"Mike Azariah",7,"BlazingBunny",15,0.0783163930153766
+"Mike Azariah",7,"Jurius Doctor",16,0.28003263308178666
+"Mike Azariah",7,"DutchGunner",17,0.1604525332021643
+"Mike Azariah",7,"Stitch Kaneland",18,0.2080450681952955
+"Mike Azariah",7,"Meredith en Thielles",19,0.08422459893048129
+"Mike Azariah",7,"Insidious Sainthood",20,0.23073732241003836
+"Mike Azariah",7,"Steadyo",21,0.03646503646503647
+"Mike Azariah",7,"The Oz",22,0.18705578289898772
+"Mike Azariah",7,"Alexis Finch",23,0.09071131290200529
+"Mike Azariah",7,"Darius Caliente",24,0.14226827094474154
+"Mike Azariah",7,"January Valentine",25,0.1448990651673215
+"Mike Azariah",7,"Ironwulf",26,0.08776620263667373
+"Mike Azariah",7,"PJHustle",27,0.09372629754036191
+"Mike Azariah",7,"Pandora Singularity",28,0.1495398773006135
+"Mike Azariah",7,"UAxDEATH",29,0.02717900656044986
+"Mike Azariah",7,"Komi Valentine",30,0.0876952902269358
+"Mike Azariah",7,"Prospektor Schipplock",31,0.04676011029411765
+"Mike Azariah",7,"Xenuria",32,0.04891264552976496
+"Mike Azariah",7,"Murray Rothbardo",33,0.06428746027866047
+"Mike Azariah",7,"Styxx",34,0.07564489890773879
+"Mike Azariah",7,"boernl",35,0.031318281136198105
+"Mike Azariah",7,"Dhuras",36,0.0713353115727003
+"Mike Azariah",7,"Rheaha Preynar",37,0.08061443200762086
+"Mike Azariah",7,"Kalen Tsero",38,0.07819530584944667
+"Mike Azariah",7,"Storm Delay",39,0.02600768612029672
+"Mike Azariah",7,"Leehams DaWildabeast",40,0.028956388133790333
+"Brisc Rubal",8,"Merkelchen",1,0.579534026148173
+"Brisc Rubal",8,"Gobbins",2,0.306958815175492
+"Brisc Rubal",8,"Vily",3,0.4448842271917673
+"Brisc Rubal",8,"Maria Taylor",4,0.01882833934047017
+"Brisc Rubal",8,"Innominate",5,0.5859942557864504
+"Brisc Rubal",8,"Kenneth Feld",6,0.029683906509065626
+"Brisc Rubal",8,"Mike Azariah",7,0.14085300933174671
+"Brisc Rubal",8,"Brisc Rubal",8,1.0
+"Brisc Rubal",8,"Phantomite",9,0.08865102236860162
+"Brisc Rubal",8,"Torvald Uruz",10,0.46444398990932023
+"Brisc Rubal",8,"Loroseco Kross",11,0.06688341848583372
+"Brisc Rubal",8,"Ikarus Cesaille",12,0.03512202186979506
+"Brisc Rubal",8,"Juvenius Drakonius",13,0.03861477168250076
+"Brisc Rubal",8,"ExookiZ",14,0.48422007255139055
+"Brisc Rubal",8,"BlazingBunny",15,0.06412180999356637
+"Brisc Rubal",8,"Jurius Doctor",16,0.08785175017158545
+"Brisc Rubal",8,"DutchGunner",17,0.04841286379106759
+"Brisc Rubal",8,"Stitch Kaneland",18,0.06945497140494729
+"Brisc Rubal",8,"Meredith en Thielles",19,0.026168106437984742
+"Brisc Rubal",8,"Insidious Sainthood",20,0.09037313969372349
+"Brisc Rubal",8,"Steadyo",21,0.01977190669952433
+"Brisc Rubal",8,"The Oz",22,0.05231831875964435
+"Brisc Rubal",8,"Alexis Finch",23,0.045621209984487376
+"Brisc Rubal",8,"Darius Caliente",24,0.05627874347182166
+"Brisc Rubal",8,"January Valentine",25,0.5262959044884389
+"Brisc Rubal",8,"Ironwulf",26,0.04491971207087486
+"Brisc Rubal",8,"PJHustle",27,0.11739674593241552
+"Brisc Rubal",8,"Pandora Singularity",28,0.07877658549122919
+"Brisc Rubal",8,"UAxDEATH",29,0.4766874263591988
+"Brisc Rubal",8,"Komi Valentine",30,0.02622321714102974
+"Brisc Rubal",8,"Prospektor Schipplock",31,0.03176186912779579
+"Brisc Rubal",8,"Xenuria",32,0.4784395973154362
+"Brisc Rubal",8,"Murray Rothbardo",33,0.028615490061686087
+"Brisc Rubal",8,"Styxx",34,0.02447980416156671
+"Brisc Rubal",8,"boernl",35,0.01887843956809474
+"Brisc Rubal",8,"Dhuras",36,0.027171195199199867
+"Brisc Rubal",8,"Rheaha Preynar",37,0.016179369250985544
+"Brisc Rubal",8,"Kalen Tsero",38,0.0195289581761797
+"Brisc Rubal",8,"Storm Delay",39,0.011222115779389627
+"Brisc Rubal",8,"Leehams DaWildabeast",40,0.012312362961713612
+"Phantomite",9,"Merkelchen",1,0.051796955932743645
+"Phantomite",9,"Gobbins",2,0.032695170148334445
+"Phantomite",9,"Vily",3,0.04453155121449685
+"Phantomite",9,"Maria Taylor",4,0.02863555452364368
+"Phantomite",9,"Innominate",5,0.051927237759435856
+"Phantomite",9,"Kenneth Feld",6,0.04581795817958179
+"Phantomite",9,"Mike Azariah",7,0.1760082343033592
+"Phantomite",9,"Brisc Rubal",8,0.08865102236860162
+"Phantomite",9,"Phantomite",9,1.0
+"Phantomite",9,"Torvald Uruz",10,0.13378213850891643
+"Phantomite",9,"Loroseco Kross",11,0.20120800302000755
+"Phantomite",9,"Ikarus Cesaille",12,0.08919123204837491
+"Phantomite",9,"Juvenius Drakonius",13,0.049502322495023225
+"Phantomite",9,"ExookiZ",14,0.1086280720276849
+"Phantomite",9,"BlazingBunny",15,0.05780691299165673
+"Phantomite",9,"Jurius Doctor",16,0.13721993088841825
+"Phantomite",9,"DutchGunner",17,0.08375401560348784
+"Phantomite",9,"Stitch Kaneland",18,0.30181962025316456
+"Phantomite",9,"Meredith en Thielles",19,0.0314502038439138
+"Phantomite",9,"Insidious Sainthood",20,0.23948430785258498
+"Phantomite",9,"Steadyo",21,0.021187153186480578
+"Phantomite",9,"The Oz",22,0.10189302502858595
+"Phantomite",9,"Alexis Finch",23,0.03308202993136041
+"Phantomite",9,"Darius Caliente",24,0.1315864833906071
+"Phantomite",9,"January Valentine",25,0.09127043647817609
+"Phantomite",9,"Ironwulf",26,0.052461572733348186
+"Phantomite",9,"PJHustle",27,0.1
+"Phantomite",9,"Pandora Singularity",28,0.08280688113519293
+"Phantomite",9,"UAxDEATH",29,0.02427685950413223
+"Phantomite",9,"Komi Valentine",30,0.055041831792162044
+"Phantomite",9,"Prospektor Schipplock",31,0.033634000917290935
+"Phantomite",9,"Xenuria",32,0.03554133517813905
+"Phantomite",9,"Murray Rothbardo",33,0.08516811742618194
+"Phantomite",9,"Styxx",34,0.05049429657794677
+"Phantomite",9,"boernl",35,0.022900763358778626
+"Phantomite",9,"Dhuras",36,0.0762534257617282
+"Phantomite",9,"Rheaha Preynar",37,0.04620410703173616
+"Phantomite",9,"Kalen Tsero",38,0.06175655857911031
+"Phantomite",9,"Storm Delay",39,0.025036488155383407
+"Phantomite",9,"Leehams DaWildabeast",40,0.03148328464784161
+"Torvald Uruz",10,"Merkelchen",1,0.47510389712224577
+"Torvald Uruz",10,"Gobbins",2,0.3058459352481478
+"Torvald Uruz",10,"Vily",3,0.4032340862422998
+"Torvald Uruz",10,"Maria Taylor",4,0.025718936516549103
+"Torvald Uruz",10,"Innominate",5,0.47617172115005907
+"Torvald Uruz",10,"Kenneth Feld",6,0.03517560870502047
+"Torvald Uruz",10,"Mike Azariah",7,0.15230067182152365
+"Torvald Uruz",10,"Brisc Rubal",8,0.46444398990932023
+"Torvald Uruz",10,"Phantomite",9,0.13378213850891643
+"Torvald Uruz",10,"Torvald Uruz",10,1.0
+"Torvald Uruz",10,"Loroseco Kross",11,0.08008951180731405
+"Torvald Uruz",10,"Ikarus Cesaille",12,0.05912500928470623
+"Torvald Uruz",10,"Juvenius Drakonius",13,0.04087759815242494
+"Torvald Uruz",10,"ExookiZ",14,0.42151348216874457
+"Torvald Uruz",10,"BlazingBunny",15,0.043998313837074504
+"Torvald Uruz",10,"Jurius Doctor",16,0.10648569229692857
+"Torvald Uruz",10,"DutchGunner",17,0.07671957671957672
+"Torvald Uruz",10,"Stitch Kaneland",18,0.11755791296817493
+"Torvald Uruz",10,"Meredith en Thielles",19,0.036311423101467774
+"Torvald Uruz",10,"Insidious Sainthood",20,0.1230609366881912
+"Torvald Uruz",10,"Steadyo",21,0.019109376793297373
+"Torvald Uruz",10,"The Oz",22,0.08498519024834815
+"Torvald Uruz",10,"Alexis Finch",23,0.03752016270425696
+"Torvald Uruz",10,"Darius Caliente",24,0.06141039736139469
+"Torvald Uruz",10,"January Valentine",25,0.5068001793453893
+"Torvald Uruz",10,"Ironwulf",26,0.03768515328970031
+"Torvald Uruz",10,"PJHustle",27,0.053889853242859394
+"Torvald Uruz",10,"Pandora Singularity",28,0.07342388518708355
+"Torvald Uruz",10,"UAxDEATH",29,0.4743622126799697
+"Torvald Uruz",10,"Komi Valentine",30,0.03946406820950061
+"Torvald Uruz",10,"Prospektor Schipplock",31,0.022222222222222223
+"Torvald Uruz",10,"Xenuria",32,0.4643243693281159
+"Torvald Uruz",10,"Murray Rothbardo",33,0.023074950858900947
+"Torvald Uruz",10,"Styxx",34,0.04229104229104229
+"Torvald Uruz",10,"boernl",35,0.019565369296345468
+"Torvald Uruz",10,"Dhuras",36,0.03959055917435073
+"Torvald Uruz",10,"Rheaha Preynar",37,0.029367595528116134
+"Torvald Uruz",10,"Kalen Tsero",38,0.0376422277354778
+"Torvald Uruz",10,"Storm Delay",39,0.015498002479680396
+"Torvald Uruz",10,"Leehams DaWildabeast",40,0.019245507962190243
+"Loroseco Kross",11,"Merkelchen",1,0.01913844556896328
+"Loroseco Kross",11,"Gobbins",2,0.10887887103096824
+"Loroseco Kross",11,"Vily",3,0.16372093023255813
+"Loroseco Kross",11,"Maria Taylor",4,0.14466821211243117
+"Loroseco Kross",11,"Innominate",5,0.0192282622865337
+"Loroseco Kross",11,"Kenneth Feld",6,0.14210787440640726
+"Loroseco Kross",11,"Mike Azariah",7,0.12825501346902124
+"Loroseco Kross",11,"Brisc Rubal",8,0.06688341848583372
+"Loroseco Kross",11,"Phantomite",9,0.20120800302000755
+"Loroseco Kross",11,"Torvald Uruz",10,0.08008951180731405
+"Loroseco Kross",11,"Loroseco Kross",11,1.0
+"Loroseco Kross",11,"Ikarus Cesaille",12,0.06653919694072657
+"Loroseco Kross",11,"Juvenius Drakonius",13,0.03723616089207487
+"Loroseco Kross",11,"ExookiZ",14,0.07842248413417952
+"Loroseco Kross",11,"BlazingBunny",15,0.18292510264760017
+"Loroseco Kross",11,"Jurius Doctor",16,0.09870354364736388
+"Loroseco Kross",11,"DutchGunner",17,0.06464826357969725
+"Loroseco Kross",11,"Stitch Kaneland",18,0.2064497272018706
+"Loroseco Kross",11,"Meredith en Thielles",19,0.026169830481993596
+"Loroseco Kross",11,"Insidious Sainthood",20,0.14716261325703386
+"Loroseco Kross",11,"Steadyo",21,0.1386838629477119
+"Loroseco Kross",11,"The Oz",22,0.07964858080710562
+"Loroseco Kross",11,"Alexis Finch",23,0.22380404061551346
+"Loroseco Kross",11,"Darius Caliente",24,0.10132205182443152
+"Loroseco Kross",11,"January Valentine",25,0.05510204081632653
+"Loroseco Kross",11,"Ironwulf",26,0.24832985386221296
+"Loroseco Kross",11,"PJHustle",27,0.029518072289156625
+"Loroseco Kross",11,"Pandora Singularity",28,0.03888888888888889
+"Loroseco Kross",11,"UAxDEATH",29,0.025261509997865226
+"Loroseco Kross",11,"Komi Valentine",30,0.038774635818337615
+"Loroseco Kross",11,"Prospektor Schipplock",31,0.020024205083067445
+"Loroseco Kross",11,"Xenuria",32,0.03612303290414878
+"Loroseco Kross",11,"Murray Rothbardo",33,0.06753340556157457
+"Loroseco Kross",11,"Styxx",34,0.03837247767118756
+"Loroseco Kross",11,"boernl",35,0.018710649995566198
+"Loroseco Kross",11,"Dhuras",36,0.06393328700486449
+"Loroseco Kross",11,"Rheaha Preynar",37,0.03577837595334231
+"Loroseco Kross",11,"Kalen Tsero",38,0.050634384821324645
+"Loroseco Kross",11,"Storm Delay",39,0.016238868517548456
+"Loroseco Kross",11,"Leehams DaWildabeast",40,0.02746552323560088
+"Ikarus Cesaille",12,"Merkelchen",1,0.017146356399265157
+"Ikarus Cesaille",12,"Gobbins",2,0.02599845115610134
+"Ikarus Cesaille",12,"Vily",3,0.02484818873455713
+"Ikarus Cesaille",12,"Maria Taylor",4,0.052447238437359676
+"Ikarus Cesaille",12,"Innominate",5,0.01671799384073911
+"Ikarus Cesaille",12,"Kenneth Feld",6,0.03278969957081545
+"Ikarus Cesaille",12,"Mike Azariah",7,0.2096809680968097
+"Ikarus Cesaille",12,"Brisc Rubal",8,0.03512202186979506
+"Ikarus Cesaille",12,"Phantomite",9,0.08919123204837491
+"Ikarus Cesaille",12,"Torvald Uruz",10,0.05912500928470623
+"Ikarus Cesaille",12,"Loroseco Kross",11,0.06653919694072657
+"Ikarus Cesaille",12,"Ikarus Cesaille",12,1.0
+"Ikarus Cesaille",12,"Juvenius Drakonius",13,0.06541113166302337
+"Ikarus Cesaille",12,"ExookiZ",14,0.03407327843418069
+"Ikarus Cesaille",12,"BlazingBunny",15,0.030857142857142857
+"Ikarus Cesaille",12,"Jurius Doctor",16,0.24855324074074073
+"Ikarus Cesaille",12,"DutchGunner",17,0.14965688421667397
+"Ikarus Cesaille",12,"Stitch Kaneland",18,0.08029672045809474
+"Ikarus Cesaille",12,"Meredith en Thielles",19,0.06305036984853822
+"Ikarus Cesaille",12,"Insidious Sainthood",20,0.09118374073056852
+"Ikarus Cesaille",12,"Steadyo",21,0.03312164142647777
+"Ikarus Cesaille",12,"The Oz",22,0.13670561869697453
+"Ikarus Cesaille",12,"Alexis Finch",23,0.06048780487804878
+"Ikarus Cesaille",12,"Darius Caliente",24,0.09722703639514732
+"Ikarus Cesaille",12,"January Valentine",25,0.059856279601502534
+"Ikarus Cesaille",12,"Ironwulf",26,0.03794966398735011
+"Ikarus Cesaille",12,"PJHustle",27,0.05162719372976657
+"Ikarus Cesaille",12,"Pandora Singularity",28,0.04419467481449149
+"Ikarus Cesaille",12,"UAxDEATH",29,0.018142378229146126
+"Ikarus Cesaille",12,"Komi Valentine",30,0.10204081632653061
+"Ikarus Cesaille",12,"Prospektor Schipplock",31,0.05984477124183007
+"Ikarus Cesaille",12,"Xenuria",32,0.019402253797158257
+"Ikarus Cesaille",12,"Murray Rothbardo",33,0.028362698753760206
+"Ikarus Cesaille",12,"Styxx",34,0.08966503267973856
+"Ikarus Cesaille",12,"boernl",35,0.037545530961053515
+"Ikarus Cesaille",12,"Dhuras",36,0.05892116182572614
+"Ikarus Cesaille",12,"Rheaha Preynar",37,0.08507054116656138
+"Ikarus Cesaille",12,"Kalen Tsero",38,0.05731394354148845
+"Ikarus Cesaille",12,"Storm Delay",39,0.025647984801194193
+"Ikarus Cesaille",12,"Leehams DaWildabeast",40,0.06311111111111112
+"Juvenius Drakonius",13,"Merkelchen",1,0.03754168651738923
+"Juvenius Drakonius",13,"Gobbins",2,0.016552511415525113
+"Juvenius Drakonius",13,"Vily",3,0.03135862732046446
+"Juvenius Drakonius",13,"Maria Taylor",4,0.030015945971297253
+"Juvenius Drakonius",13,"Innominate",5,0.03939656000768713
+"Juvenius Drakonius",13,"Kenneth Feld",6,0.016195789094835343
+"Juvenius Drakonius",13,"Mike Azariah",7,0.06157508020283556
+"Juvenius Drakonius",13,"Brisc Rubal",8,0.03861477168250076
+"Juvenius Drakonius",13,"Phantomite",9,0.049502322495023225
+"Juvenius Drakonius",13,"Torvald Uruz",10,0.04087759815242494
+"Juvenius Drakonius",13,"Loroseco Kross",11,0.03723616089207487
+"Juvenius Drakonius",13,"Ikarus Cesaille",12,0.06541113166302337
+"Juvenius Drakonius",13,"Juvenius Drakonius",13,1.0
+"Juvenius Drakonius",13,"ExookiZ",14,0.025972419763774658
+"Juvenius Drakonius",13,"BlazingBunny",15,0.018502655473702244
+"Juvenius Drakonius",13,"Jurius Doctor",16,0.07932166301969365
+"Juvenius Drakonius",13,"DutchGunner",17,0.24233983286908078
+"Juvenius Drakonius",13,"Stitch Kaneland",18,0.027023356871265617
+"Juvenius Drakonius",13,"Meredith en Thielles",19,0.03729574653860546
+"Juvenius Drakonius",13,"Insidious Sainthood",20,0.05026956141629025
+"Juvenius Drakonius",13,"Steadyo",21,0.014125167543045675
+"Juvenius Drakonius",13,"The Oz",22,0.09423903697334479
+"Juvenius Drakonius",13,"Alexis Finch",23,0.03416616496086695
+"Juvenius Drakonius",13,"Darius Caliente",24,0.043664862847546185
+"Juvenius Drakonius",13,"January Valentine",25,0.03931057904567838
+"Juvenius Drakonius",13,"Ironwulf",26,0.030010099552734093
+"Juvenius Drakonius",13,"PJHustle",27,0.061328125
+"Juvenius Drakonius",13,"Pandora Singularity",28,0.042990433447502065
+"Juvenius Drakonius",13,"UAxDEATH",29,0.024030759371996155
+"Juvenius Drakonius",13,"Komi Valentine",30,0.06506550218340611
+"Juvenius Drakonius",13,"Prospektor Schipplock",31,0.08879647749510763
+"Juvenius Drakonius",13,"Xenuria",32,0.025573005093378606
+"Juvenius Drakonius",13,"Murray Rothbardo",33,0.027932960893854747
+"Juvenius Drakonius",13,"Styxx",34,0.05484167049105094
+"Juvenius Drakonius",13,"boernl",35,0.030125135176888616
+"Juvenius Drakonius",13,"Dhuras",36,0.04750479846449136
+"Juvenius Drakonius",13,"Rheaha Preynar",37,0.0648818137964303
+"Juvenius Drakonius",13,"Kalen Tsero",38,0.02811048643363481
+"Juvenius Drakonius",13,"Storm Delay",39,0.020041878552198623
+"Juvenius Drakonius",13,"Leehams DaWildabeast",40,0.03876765083440308
+"ExookiZ",14,"Merkelchen",1,0.4266527578563046
+"ExookiZ",14,"Gobbins",2,0.4432529939369645
+"ExookiZ",14,"Vily",3,0.3760414942338465
+"ExookiZ",14,"Maria Taylor",4,0.16437049597286987
+"ExookiZ",14,"Innominate",5,0.4269824653232138
+"ExookiZ",14,"Kenneth Feld",6,0.19854799677332616
+"ExookiZ",14,"Mike Azariah",7,0.13726854329444504
+"ExookiZ",14,"Brisc Rubal",8,0.48422007255139055
+"ExookiZ",14,"Phantomite",9,0.1086280720276849
+"ExookiZ",14,"Torvald Uruz",10,0.42151348216874457
+"ExookiZ",14,"Loroseco Kross",11,0.07842248413417952
+"ExookiZ",14,"Ikarus Cesaille",12,0.03407327843418069
+"ExookiZ",14,"Juvenius Drakonius",13,0.025972419763774658
+"ExookiZ",14,"ExookiZ",14,1.0
+"ExookiZ",14,"BlazingBunny",15,0.20051413881748073
+"ExookiZ",14,"Jurius Doctor",16,0.07680465275401985
+"ExookiZ",14,"DutchGunner",17,0.04393642750201543
+"ExookiZ",14,"Stitch Kaneland",18,0.11668772943371246
+"ExookiZ",14,"Meredith en Thielles",19,0.1903705073669934
+"ExookiZ",14,"Insidious Sainthood",20,0.09433621933621934
+"ExookiZ",14,"Steadyo",21,0.17604878324205298
+"ExookiZ",14,"The Oz",22,0.052516676773802305
+"ExookiZ",14,"Alexis Finch",23,0.051318267419962336
+"ExookiZ",14,"Darius Caliente",24,0.06089292567481131
+"ExookiZ",14,"January Valentine",25,0.4274129139276279
+"ExookiZ",14,"Ironwulf",26,0.05228947826591608
+"ExookiZ",14,"PJHustle",27,0.08536504790221341
+"ExookiZ",14,"Pandora Singularity",28,0.2540485829959514
+"ExookiZ",14,"UAxDEATH",29,0.3803487592219987
+"ExookiZ",14,"Komi Valentine",30,0.02195750160978751
+"ExookiZ",14,"Prospektor Schipplock",31,0.017257278355947835
+"ExookiZ",14,"Xenuria",32,0.36980306345733044
+"ExookiZ",14,"Murray Rothbardo",33,0.02682960131075915
+"ExookiZ",14,"Styxx",34,0.02042152114151067
+"ExookiZ",14,"boernl",35,0.18157489797283735
+"ExookiZ",14,"Dhuras",36,0.036229928484684926
+"ExookiZ",14,"Rheaha Preynar",37,0.014886049268871031
+"ExookiZ",14,"Kalen Tsero",38,0.029812317907717326
+"ExookiZ",14,"Storm Delay",39,0.1978347118552888
+"ExookiZ",14,"Leehams DaWildabeast",40,0.01862638851259821
+"BlazingBunny",15,"Merkelchen",1,0.03381671580720862
+"BlazingBunny",15,"Gobbins",2,0.3128166022114494
+"BlazingBunny",15,"Vily",3,0.15527773020494376
+"BlazingBunny",15,"Maria Taylor",4,0.32127285244396847
+"BlazingBunny",15,"Innominate",5,0.03215492277992278
+"BlazingBunny",15,"Kenneth Feld",6,0.42316096139839765
+"BlazingBunny",15,"Mike Azariah",7,0.0783163930153766
+"BlazingBunny",15,"Brisc Rubal",8,0.06412180999356637
+"BlazingBunny",15,"Phantomite",9,0.05780691299165673
+"BlazingBunny",15,"Torvald Uruz",10,0.043998313837074504
+"BlazingBunny",15,"Loroseco Kross",11,0.18292510264760017
+"BlazingBunny",15,"Ikarus Cesaille",12,0.030857142857142857
+"BlazingBunny",15,"Juvenius Drakonius",13,0.018502655473702244
+"BlazingBunny",15,"ExookiZ",14,0.20051413881748073
+"BlazingBunny",15,"BlazingBunny",15,1.0
+"BlazingBunny",15,"Jurius Doctor",16,0.060485981308411214
+"BlazingBunny",15,"DutchGunner",17,0.03603117043438006
+"BlazingBunny",15,"Stitch Kaneland",18,0.06691821962113045
+"BlazingBunny",15,"Meredith en Thielles",19,0.33834173156207054
+"BlazingBunny",15,"Insidious Sainthood",20,0.06492072256843101
+"BlazingBunny",15,"Steadyo",21,0.3597504426270972
+"BlazingBunny",15,"The Oz",22,0.0384015754492492
+"BlazingBunny",15,"Alexis Finch",23,0.21072479764532745
+"BlazingBunny",15,"Darius Caliente",24,0.06994958588404754
+"BlazingBunny",15,"January Valentine",25,0.03826330532212885
+"BlazingBunny",15,"Ironwulf",26,0.22747212575397552
+"BlazingBunny",15,"PJHustle",27,0.052792242772490575
+"BlazingBunny",15,"Pandora Singularity",28,0.28542286442838927
+"BlazingBunny",15,"UAxDEATH",29,0.02729978004916548
+"BlazingBunny",15,"Komi Valentine",30,0.02037087786608203
+"BlazingBunny",15,"Prospektor Schipplock",31,0.021974885844748857
+"BlazingBunny",15,"Xenuria",32,0.029882535174906414
+"BlazingBunny",15,"Murray Rothbardo",33,0.034103410341034104
+"BlazingBunny",15,"Styxx",34,0.036948862013141605
+"BlazingBunny",15,"boernl",35,0.28012643224022127
+"BlazingBunny",15,"Dhuras",36,0.02797067901234568
+"BlazingBunny",15,"Rheaha Preynar",37,0.028629070996253243
+"BlazingBunny",15,"Kalen Tsero",38,0.025696140693698095
+"BlazingBunny",15,"Storm Delay",39,0.3245782402262855
+"BlazingBunny",15,"Leehams DaWildabeast",40,0.06919019547005895
+"Jurius Doctor",16,"Merkelchen",1,0.047267238639974576
+"Jurius Doctor",16,"Gobbins",2,0.036609260596060636
+"Jurius Doctor",16,"Vily",3,0.05860495436766623
+"Jurius Doctor",16,"Maria Taylor",4,0.046594134342478714
+"Jurius Doctor",16,"Innominate",5,0.04753914988814318
+"Jurius Doctor",16,"Kenneth Feld",6,0.04748689485044712
+"Jurius Doctor",16,"Mike Azariah",7,0.28003263308178666
+"Jurius Doctor",16,"Brisc Rubal",8,0.08785175017158545
+"Jurius Doctor",16,"Phantomite",9,0.13721993088841825
+"Jurius Doctor",16,"Torvald Uruz",10,0.10648569229692857
+"Jurius Doctor",16,"Loroseco Kross",11,0.09870354364736388
+"Jurius Doctor",16,"Ikarus Cesaille",12,0.24855324074074073
+"Jurius Doctor",16,"Juvenius Drakonius",13,0.07932166301969365
+"Jurius Doctor",16,"ExookiZ",14,0.07680465275401985
+"Jurius Doctor",16,"BlazingBunny",15,0.060485981308411214
+"Jurius Doctor",16,"Jurius Doctor",16,1.0
+"Jurius Doctor",16,"DutchGunner",17,0.14289177069446127
+"Jurius Doctor",16,"Stitch Kaneland",18,0.11656094245582238
+"Jurius Doctor",16,"Meredith en Thielles",19,0.07366929771301356
+"Jurius Doctor",16,"Insidious Sainthood",20,0.17221811004194423
+"Jurius Doctor",16,"Steadyo",21,0.026313562907183348
+"Jurius Doctor",16,"The Oz",22,0.15104374418295438
+"Jurius Doctor",16,"Alexis Finch",23,0.055267702936096716
+"Jurius Doctor",16,"Darius Caliente",24,0.1729625223081499
+"Jurius Doctor",16,"January Valentine",25,0.11319598682698935
+"Jurius Doctor",16,"Ironwulf",26,0.06359228774382682
+"Jurius Doctor",16,"PJHustle",27,0.08023483365949119
+"Jurius Doctor",16,"Pandora Singularity",28,0.08441368554440004
+"Jurius Doctor",16,"UAxDEATH",29,0.025902262130892764
+"Jurius Doctor",16,"Komi Valentine",30,0.08158648770924445
+"Jurius Doctor",16,"Prospektor Schipplock",31,0.0638801261829653
+"Jurius Doctor",16,"Xenuria",32,0.03299645849529239
+"Jurius Doctor",16,"Murray Rothbardo",33,0.06409395973154362
+"Jurius Doctor",16,"Styxx",34,0.08931394245969017
+"Jurius Doctor",16,"boernl",35,0.036069364161849714
+"Jurius Doctor",16,"Dhuras",36,0.0637278390033541
+"Jurius Doctor",16,"Rheaha Preynar",37,0.0953469387755102
+"Jurius Doctor",16,"Kalen Tsero",38,0.06487549148099607
+"Jurius Doctor",16,"Storm Delay",39,0.026582563640459564
+"Jurius Doctor",16,"Leehams DaWildabeast",40,0.04430901004776808
+"DutchGunner",17,"Merkelchen",1,0.01919133929303699
+"DutchGunner",17,"Gobbins",2,0.02997072132020229
+"DutchGunner",17,"Vily",3,0.036484134422278755
+"DutchGunner",17,"Maria Taylor",4,0.053610503282275714
+"DutchGunner",17,"Innominate",5,0.019473553923591055
+"DutchGunner",17,"Kenneth Feld",6,0.039954615446956804
+"DutchGunner",17,"Mike Azariah",7,0.1604525332021643
+"DutchGunner",17,"Brisc Rubal",8,0.04841286379106759
+"DutchGunner",17,"Phantomite",9,0.08375401560348784
+"DutchGunner",17,"Torvald Uruz",10,0.07671957671957672
+"DutchGunner",17,"Loroseco Kross",11,0.06464826357969725
+"DutchGunner",17,"Ikarus Cesaille",12,0.14965688421667397
+"DutchGunner",17,"Juvenius Drakonius",13,0.24233983286908078
+"DutchGunner",17,"ExookiZ",14,0.04393642750201543
+"DutchGunner",17,"BlazingBunny",15,0.03603117043438006
+"DutchGunner",17,"Jurius Doctor",16,0.14289177069446127
+"DutchGunner",17,"DutchGunner",17,1.0
+"DutchGunner",17,"Stitch Kaneland",18,0.08902716285748474
+"DutchGunner",17,"Meredith en Thielles",19,0.07693989071038251
+"DutchGunner",17,"Insidious Sainthood",20,0.11870043489383474
+"DutchGunner",17,"Steadyo",21,0.03072043497961033
+"DutchGunner",17,"The Oz",22,0.16740543735224586
+"DutchGunner",17,"Alexis Finch",23,0.06026982726011852
+"DutchGunner",17,"Darius Caliente",24,0.07784159613059251
+"DutchGunner",17,"January Valentine",25,0.07187864644107352
+"DutchGunner",17,"Ironwulf",26,0.04341029341029341
+"DutchGunner",17,"PJHustle",27,0.047475961538461536
+"DutchGunner",17,"Pandora Singularity",28,0.05665953327218995
+"DutchGunner",17,"UAxDEATH",29,0.019611436950146627
+"DutchGunner",17,"Komi Valentine",30,0.13156966490299823
+"DutchGunner",17,"Prospektor Schipplock",31,0.064900426742532
+"DutchGunner",17,"Xenuria",32,0.023198465613298018
+"DutchGunner",17,"Murray Rothbardo",33,0.037518573551263
+"DutchGunner",17,"Styxx",34,0.0748072880168185
+"DutchGunner",17,"boernl",35,0.047619047619047616
+"DutchGunner",17,"Dhuras",36,0.06455102776776055
+"DutchGunner",17,"Rheaha Preynar",37,0.08000725689404935
+"DutchGunner",17,"Kalen Tsero",38,0.06232661364897355
+"DutchGunner",17,"Storm Delay",39,0.02426470588235294
+"DutchGunner",17,"Leehams DaWildabeast",40,0.05160075329566855
+"Stitch Kaneland",18,"Merkelchen",1,0.025857940941739824
+"Stitch Kaneland",18,"Gobbins",2,0.035882661079099
+"Stitch Kaneland",18,"Vily",3,0.056581219285429675
+"Stitch Kaneland",18,"Maria Taylor",4,0.04344321753848634
+"Stitch Kaneland",18,"Innominate",5,0.023624569552334426
+"Stitch Kaneland",18,"Kenneth Feld",6,0.07630489487783099
+"Stitch Kaneland",18,"Mike Azariah",7,0.2080450681952955
+"Stitch Kaneland",18,"Brisc Rubal",8,0.06945497140494729
+"Stitch Kaneland",18,"Phantomite",9,0.30181962025316456
+"Stitch Kaneland",18,"Torvald Uruz",10,0.11755791296817493
+"Stitch Kaneland",18,"Loroseco Kross",11,0.2064497272018706
+"Stitch Kaneland",18,"Ikarus Cesaille",12,0.08029672045809474
+"Stitch Kaneland",18,"Juvenius Drakonius",13,0.027023356871265617
+"Stitch Kaneland",18,"ExookiZ",14,0.11668772943371246
+"Stitch Kaneland",18,"BlazingBunny",15,0.06691821962113045
+"Stitch Kaneland",18,"Jurius Doctor",16,0.11656094245582238
+"Stitch Kaneland",18,"DutchGunner",17,0.08902716285748474
+"Stitch Kaneland",18,"Stitch Kaneland",18,1.0
+"Stitch Kaneland",18,"Meredith en Thielles",19,0.03461809399215055
+"Stitch Kaneland",18,"Insidious Sainthood",20,0.27455884396276226
+"Stitch Kaneland",18,"Steadyo",21,0.030295093417146847
+"Stitch Kaneland",18,"The Oz",22,0.11785234899328859
+"Stitch Kaneland",18,"Alexis Finch",23,0.06960416414477666
+"Stitch Kaneland",18,"Darius Caliente",24,0.1549511002444988
+"Stitch Kaneland",18,"January Valentine",25,0.06555655565556556
+"Stitch Kaneland",18,"Ironwulf",26,0.08821420033468802
+"Stitch Kaneland",18,"PJHustle",27,0.05911823647294589
+"Stitch Kaneland",18,"Pandora Singularity",28,0.08841617098497832
+"Stitch Kaneland",18,"UAxDEATH",29,0.015291326127076193
+"Stitch Kaneland",18,"Komi Valentine",30,0.061753297129557794
+"Stitch Kaneland",18,"Prospektor Schipplock",31,0.021818760949195732
+"Stitch Kaneland",18,"Xenuria",32,0.036726689249420574
+"Stitch Kaneland",18,"Murray Rothbardo",33,0.11579142698088699
+"Stitch Kaneland",18,"Styxx",34,0.07591408427611084
+"Stitch Kaneland",18,"boernl",35,0.019364742000236156
+"Stitch Kaneland",18,"Dhuras",36,0.09476050492823794
+"Stitch Kaneland",18,"Rheaha Preynar",37,0.06015287470920572
+"Stitch Kaneland",18,"Kalen Tsero",38,0.08244167689878969
+"Stitch Kaneland",18,"Storm Delay",39,0.02174924401023494
+"Stitch Kaneland",18,"Leehams DaWildabeast",40,0.029104605375791816
+"Meredith en Thielles",19,"Merkelchen",1,0.02331352936752651
+"Meredith en Thielles",19,"Gobbins",2,0.2213231794383627
+"Meredith en Thielles",19,"Vily",3,0.02781889958055761
+"Meredith en Thielles",19,"Maria Taylor",4,0.37900140930138915
+"Meredith en Thielles",19,"Innominate",5,0.01461769115442279
+"Meredith en Thielles",19,"Kenneth Feld",6,0.36276988912662905
+"Meredith en Thielles",19,"Mike Azariah",7,0.08422459893048129
+"Meredith en Thielles",19,"Brisc Rubal",8,0.026168106437984742
+"Meredith en Thielles",19,"Phantomite",9,0.0314502038439138
+"Meredith en Thielles",19,"Torvald Uruz",10,0.036311423101467774
+"Meredith en Thielles",19,"Loroseco Kross",11,0.026169830481993596
+"Meredith en Thielles",19,"Ikarus Cesaille",12,0.06305036984853822
+"Meredith en Thielles",19,"Juvenius Drakonius",13,0.03729574653860546
+"Meredith en Thielles",19,"ExookiZ",14,0.1903705073669934
+"Meredith en Thielles",19,"BlazingBunny",15,0.33834173156207054
+"Meredith en Thielles",19,"Jurius Doctor",16,0.07366929771301356
+"Meredith en Thielles",19,"DutchGunner",17,0.07693989071038251
+"Meredith en Thielles",19,"Stitch Kaneland",18,0.03461809399215055
+"Meredith en Thielles",19,"Meredith en Thielles",19,1.0
+"Meredith en Thielles",19,"Insidious Sainthood",20,0.0428661483504938
+"Meredith en Thielles",19,"Steadyo",21,0.39334073251942286
+"Meredith en Thielles",19,"The Oz",22,0.07125162203609768
+"Meredith en Thielles",19,"Alexis Finch",23,0.05004380201489268
+"Meredith en Thielles",19,"Darius Caliente",24,0.04646184840090657
+"Meredith en Thielles",19,"January Valentine",25,0.058669497523000706
+"Meredith en Thielles",19,"Ironwulf",26,0.040646114864864864
+"Meredith en Thielles",19,"PJHustle",27,0.05255003227888961
+"Meredith en Thielles",19,"Pandora Singularity",28,0.4191447530105677
+"Meredith en Thielles",19,"UAxDEATH",29,0.013506835776643057
+"Meredith en Thielles",19,"Komi Valentine",30,0.0763780643332861
+"Meredith en Thielles",19,"Prospektor Schipplock",31,0.08227657004830918
+"Meredith en Thielles",19,"Xenuria",32,0.023557612828566707
+"Meredith en Thielles",19,"Murray Rothbardo",33,0.016984818878701336
+"Meredith en Thielles",19,"Styxx",34,0.07038337723148962
+"Meredith en Thielles",19,"boernl",35,0.42514424536896445
+"Meredith en Thielles",19,"Dhuras",36,0.03295421405657626
+"Meredith en Thielles",19,"Rheaha Preynar",37,0.08585781701933323
+"Meredith en Thielles",19,"Kalen Tsero",38,0.044343891402714934
+"Meredith en Thielles",19,"Storm Delay",39,0.46019595835884874
+"Meredith en Thielles",19,"Leehams DaWildabeast",40,0.09538461538461539
+"Insidious Sainthood",20,"Merkelchen",1,0.03169624432521667
+"Insidious Sainthood",20,"Gobbins",2,0.026752669979909063
+"Insidious Sainthood",20,"Vily",3,0.05564981336952833
+"Insidious Sainthood",20,"Maria Taylor",4,0.02599413298565841
+"Insidious Sainthood",20,"Innominate",5,0.03171440431714404
+"Insidious Sainthood",20,"Kenneth Feld",6,0.061358776114492516
+"Insidious Sainthood",20,"Mike Azariah",7,0.23073732241003836
+"Insidious Sainthood",20,"Brisc Rubal",8,0.09037313969372349
+"Insidious Sainthood",20,"Phantomite",9,0.23948430785258498
+"Insidious Sainthood",20,"Torvald Uruz",10,0.1230609366881912
+"Insidious Sainthood",20,"Loroseco Kross",11,0.14716261325703386
+"Insidious Sainthood",20,"Ikarus Cesaille",12,0.09118374073056852
+"Insidious Sainthood",20,"Juvenius Drakonius",13,0.05026956141629025
+"Insidious Sainthood",20,"ExookiZ",14,0.09433621933621934
+"Insidious Sainthood",20,"BlazingBunny",15,0.06492072256843101
+"Insidious Sainthood",20,"Jurius Doctor",16,0.17221811004194423
+"Insidious Sainthood",20,"DutchGunner",17,0.11870043489383474
+"Insidious Sainthood",20,"Stitch Kaneland",18,0.27455884396276226
+"Insidious Sainthood",20,"Meredith en Thielles",19,0.0428661483504938
+"Insidious Sainthood",20,"Insidious Sainthood",20,1.0
+"Insidious Sainthood",20,"Steadyo",21,0.015526572619998225
+"Insidious Sainthood",20,"The Oz",22,0.16207549919836758
+"Insidious Sainthood",20,"Alexis Finch",23,0.07368021268515001
+"Insidious Sainthood",20,"Darius Caliente",24,0.1589702333065165
+"Insidious Sainthood",20,"January Valentine",25,0.09928571428571428
+"Insidious Sainthood",20,"Ironwulf",26,0.07945712523133867
+"Insidious Sainthood",20,"PJHustle",27,0.061003163126976956
+"Insidious Sainthood",20,"Pandora Singularity",28,0.1075633817757505
+"Insidious Sainthood",20,"UAxDEATH",29,0.019390077378243057
+"Insidious Sainthood",20,"Komi Valentine",30,0.07399437179274955
+"Insidious Sainthood",20,"Prospektor Schipplock",31,0.03589130063237053
+"Insidious Sainthood",20,"Xenuria",32,0.03878754376266814
+"Insidious Sainthood",20,"Murray Rothbardo",33,0.08912415784408084
+"Insidious Sainthood",20,"Styxx",34,0.06667812338889843
+"Insidious Sainthood",20,"boernl",35,0.027047146401985113
+"Insidious Sainthood",20,"Dhuras",36,0.09631260319207485
+"Insidious Sainthood",20,"Rheaha Preynar",37,0.05572104433152269
+"Insidious Sainthood",20,"Kalen Tsero",38,0.07963616112864302
+"Insidious Sainthood",20,"Storm Delay",39,0.017624336069531628
+"Insidious Sainthood",20,"Leehams DaWildabeast",40,0.031740240788033565
+"Steadyo",21,"Merkelchen",1,0.015984955336154207
+"Steadyo",21,"Gobbins",2,0.41523846203222287
+"Steadyo",21,"Vily",3,0.017116965933881522
+"Steadyo",21,"Maria Taylor",4,0.5914461988915612
+"Steadyo",21,"Innominate",5,0.01060616231455998
+"Steadyo",21,"Kenneth Feld",6,0.5879766895000511
+"Steadyo",21,"Mike Azariah",7,0.03646503646503647
+"Steadyo",21,"Brisc Rubal",8,0.01977190669952433
+"Steadyo",21,"Phantomite",9,0.021187153186480578
+"Steadyo",21,"Torvald Uruz",10,0.019109376793297373
+"Steadyo",21,"Loroseco Kross",11,0.1386838629477119
+"Steadyo",21,"Ikarus Cesaille",12,0.03312164142647777
+"Steadyo",21,"Juvenius Drakonius",13,0.014125167543045675
+"Steadyo",21,"ExookiZ",14,0.17604878324205298
+"Steadyo",21,"BlazingBunny",15,0.3597504426270972
+"Steadyo",21,"Jurius Doctor",16,0.026313562907183348
+"Steadyo",21,"DutchGunner",17,0.03072043497961033
+"Steadyo",21,"Stitch Kaneland",18,0.030295093417146847
+"Steadyo",21,"Meredith en Thielles",19,0.39334073251942286
+"Steadyo",21,"Insidious Sainthood",20,0.015526572619998225
+"Steadyo",21,"Steadyo",21,1.0
+"Steadyo",21,"The Oz",22,0.0258370427714341
+"Steadyo",21,"Alexis Finch",23,0.023399355135882084
+"Steadyo",21,"Darius Caliente",24,0.02630754776072659
+"Steadyo",21,"January Valentine",25,0.014466880078798325
+"Steadyo",21,"Ironwulf",26,0.023387604569578124
+"Steadyo",21,"PJHustle",27,0.031240004264847
+"Steadyo",21,"Pandora Singularity",28,0.3074229691876751
+"Steadyo",21,"UAxDEATH",29,0.010672514619883042
+"Steadyo",21,"Komi Valentine",30,0.017524277263087397
+"Steadyo",21,"Prospektor Schipplock",31,0.016851960210649504
+"Steadyo",21,"Xenuria",32,0.011347930457554375
+"Steadyo",21,"Murray Rothbardo",33,0.011351153423654338
+"Steadyo",21,"Styxx",34,0.03418003043427367
+"Steadyo",21,"boernl",35,0.34194659776055125
+"Steadyo",21,"Dhuras",36,0.01164021164021164
+"Steadyo",21,"Rheaha Preynar",37,0.024023668639053253
+"Steadyo",21,"Kalen Tsero",38,0.027125653813404694
+"Steadyo",21,"Storm Delay",39,0.4316416364577939
+"Steadyo",21,"Leehams DaWildabeast",40,0.07612366848532086
+"The Oz",22,"Merkelchen",1,0.025699700756908996
+"The Oz",22,"Gobbins",2,0.029085872576177285
+"The Oz",22,"Vily",3,0.06555595798623687
+"The Oz",22,"Maria Taylor",4,0.05601006922592826
+"The Oz",22,"Innominate",5,0.02287379669698843
+"The Oz",22,"Kenneth Feld",6,0.05660212038903005
+"The Oz",22,"Mike Azariah",7,0.18705578289898772
+"The Oz",22,"Brisc Rubal",8,0.05231831875964435
+"The Oz",22,"Phantomite",9,0.10189302502858595
+"The Oz",22,"Torvald Uruz",10,0.08498519024834815
+"The Oz",22,"Loroseco Kross",11,0.07964858080710562
+"The Oz",22,"Ikarus Cesaille",12,0.13670561869697453
+"The Oz",22,"Juvenius Drakonius",13,0.09423903697334479
+"The Oz",22,"ExookiZ",14,0.052516676773802305
+"The Oz",22,"BlazingBunny",15,0.0384015754492492
+"The Oz",22,"Jurius Doctor",16,0.15104374418295438
+"The Oz",22,"DutchGunner",17,0.16740543735224586
+"The Oz",22,"Stitch Kaneland",18,0.11785234899328859
+"The Oz",22,"Meredith en Thielles",19,0.07125162203609768
+"The Oz",22,"Insidious Sainthood",20,0.16207549919836758
+"The Oz",22,"Steadyo",21,0.0258370427714341
+"The Oz",22,"The Oz",22,1.0
+"The Oz",22,"Alexis Finch",23,0.09949604031677466
+"The Oz",22,"Darius Caliente",24,0.05878434637801832
+"The Oz",22,"January Valentine",25,0.08338192419825073
+"The Oz",22,"Ironwulf",26,0.09671153045650062
+"The Oz",22,"PJHustle",27,0.07490896479972256
+"The Oz",22,"Pandora Singularity",28,0.10248161764705882
+"The Oz",22,"UAxDEATH",29,0.026675922253074177
+"The Oz",22,"Komi Valentine",30,0.16135007203128215
+"The Oz",22,"Prospektor Schipplock",31,0.11049606131573345
+"The Oz",22,"Xenuria",32,0.02931017467679858
+"The Oz",22,"Murray Rothbardo",33,0.03750808363871524
+"The Oz",22,"Styxx",34,0.14109384975526706
+"The Oz",22,"boernl",35,0.046164672765657985
+"The Oz",22,"Dhuras",36,0.07771476580550304
+"The Oz",22,"Rheaha Preynar",37,0.0962962962962963
+"The Oz",22,"Kalen Tsero",38,0.06811345079501505
+"The Oz",22,"Storm Delay",39,0.03591914777383229
+"The Oz",22,"Leehams DaWildabeast",40,0.04428044280442804
+"Alexis Finch",23,"Merkelchen",1,0.023048452220726785
+"Alexis Finch",23,"Gobbins",2,0.02901051496360205
+"Alexis Finch",23,"Vily",3,0.2490151017728168
+"Alexis Finch",23,"Maria Taylor",4,0.03452933727311102
+"Alexis Finch",23,"Innominate",5,0.026490066225165563
+"Alexis Finch",23,"Kenneth Feld",6,0.05171980918905348
+"Alexis Finch",23,"Mike Azariah",7,0.09071131290200529
+"Alexis Finch",23,"Brisc Rubal",8,0.045621209984487376
+"Alexis Finch",23,"Phantomite",9,0.03308202993136041
+"Alexis Finch",23,"Torvald Uruz",10,0.03752016270425696
+"Alexis Finch",23,"Loroseco Kross",11,0.22380404061551346
+"Alexis Finch",23,"Ikarus Cesaille",12,0.06048780487804878
+"Alexis Finch",23,"Juvenius Drakonius",13,0.03416616496086695
+"Alexis Finch",23,"ExookiZ",14,0.051318267419962336
+"Alexis Finch",23,"BlazingBunny",15,0.21072479764532745
+"Alexis Finch",23,"Jurius Doctor",16,0.055267702936096716
+"Alexis Finch",23,"DutchGunner",17,0.06026982726011852
+"Alexis Finch",23,"Stitch Kaneland",18,0.06960416414477666
+"Alexis Finch",23,"Meredith en Thielles",19,0.05004380201489268
+"Alexis Finch",23,"Insidious Sainthood",20,0.07368021268515001
+"Alexis Finch",23,"Steadyo",21,0.023399355135882084
+"Alexis Finch",23,"The Oz",22,0.09949604031677466
+"Alexis Finch",23,"Alexis Finch",23,1.0
+"Alexis Finch",23,"Darius Caliente",24,0.03497135966234549
+"Alexis Finch",23,"January Valentine",25,0.03945850319206215
+"Alexis Finch",23,"Ironwulf",26,0.49839686498040614
+"Alexis Finch",23,"PJHustle",27,0.03375462392108508
+"Alexis Finch",23,"Pandora Singularity",28,0.062460567823343846
+"Alexis Finch",23,"UAxDEATH",29,0.034972365161044405
+"Alexis Finch",23,"Komi Valentine",30,0.047335263068278566
+"Alexis Finch",23,"Prospektor Schipplock",31,0.046435100548446066
+"Alexis Finch",23,"Xenuria",32,0.025117150890346766
+"Alexis Finch",23,"Murray Rothbardo",33,0.0312015503875969
+"Alexis Finch",23,"Styxx",34,0.050465282748747314
+"Alexis Finch",23,"boernl",35,0.024777390631049168
+"Alexis Finch",23,"Dhuras",36,0.0342993396918562
+"Alexis Finch",23,"Rheaha Preynar",37,0.051386321626617375
+"Alexis Finch",23,"Kalen Tsero",38,0.02641438741101536
+"Alexis Finch",23,"Storm Delay",39,0.017859388756131304
+"Alexis Finch",23,"Leehams DaWildabeast",40,0.04994078168180024
+"Darius Caliente",24,"Merkelchen",1,0.023413258110014105
+"Darius Caliente",24,"Gobbins",2,0.03056086126063553
+"Darius Caliente",24,"Vily",3,0.0343548267418565
+"Darius Caliente",24,"Maria Taylor",4,0.029257314328582147
+"Darius Caliente",24,"Innominate",5,0.0282453637660485
+"Darius Caliente",24,"Kenneth Feld",6,0.03587814277849147
+"Darius Caliente",24,"Mike Azariah",7,0.14226827094474154
+"Darius Caliente",24,"Brisc Rubal",8,0.05627874347182166
+"Darius Caliente",24,"Phantomite",9,0.1315864833906071
+"Darius Caliente",24,"Torvald Uruz",10,0.06141039736139469
+"Darius Caliente",24,"Loroseco Kross",11,0.10132205182443152
+"Darius Caliente",24,"Ikarus Cesaille",12,0.09722703639514732
+"Darius Caliente",24,"Juvenius Drakonius",13,0.043664862847546185
+"Darius Caliente",24,"ExookiZ",14,0.06089292567481131
+"Darius Caliente",24,"BlazingBunny",15,0.06994958588404754
+"Darius Caliente",24,"Jurius Doctor",16,0.1729625223081499
+"Darius Caliente",24,"DutchGunner",17,0.07784159613059251
+"Darius Caliente",24,"Stitch Kaneland",18,0.1549511002444988
+"Darius Caliente",24,"Meredith en Thielles",19,0.04646184840090657
+"Darius Caliente",24,"Insidious Sainthood",20,0.1589702333065165
+"Darius Caliente",24,"Steadyo",21,0.02630754776072659
+"Darius Caliente",24,"The Oz",22,0.05878434637801832
+"Darius Caliente",24,"Alexis Finch",23,0.03497135966234549
+"Darius Caliente",24,"Darius Caliente",24,1.0
+"Darius Caliente",24,"January Valentine",25,0.04625908507909363
+"Darius Caliente",24,"Ironwulf",26,0.045427901524032824
+"Darius Caliente",24,"PJHustle",27,0.07356140003954914
+"Darius Caliente",24,"Pandora Singularity",28,0.04709930003559141
+"Darius Caliente",24,"UAxDEATH",29,0.01827648496440336
+"Darius Caliente",24,"Komi Valentine",30,0.04908503767491927
+"Darius Caliente",24,"Prospektor Schipplock",31,0.03684701492537314
+"Darius Caliente",24,"Xenuria",32,0.033486680218251845
+"Darius Caliente",24,"Murray Rothbardo",33,0.17494914269107817
+"Darius Caliente",24,"Styxx",34,0.04197867029725437
+"Darius Caliente",24,"boernl",35,0.024131570857669843
+"Darius Caliente",24,"Dhuras",36,0.11193268740438551
+"Darius Caliente",24,"Rheaha Preynar",37,0.0562874251497006
+"Darius Caliente",24,"Kalen Tsero",38,0.05526249686008541
+"Darius Caliente",24,"Storm Delay",39,0.03792263173926287
+"Darius Caliente",24,"Leehams DaWildabeast",40,0.043916300697494186
+"January Valentine",25,"Merkelchen",1,0.5677367432710364
+"January Valentine",25,"Gobbins",2,0.31178584839869106
+"January Valentine",25,"Vily",3,0.42487369368122363
+"January Valentine",25,"Maria Taylor",4,0.04025498760476921
+"January Valentine",25,"Innominate",5,0.5636754433100484
+"January Valentine",25,"Kenneth Feld",6,0.031810860561435804
+"January Valentine",25,"Mike Azariah",7,0.1448990651673215
+"January Valentine",25,"Brisc Rubal",8,0.5262959044884389
+"January Valentine",25,"Phantomite",9,0.09127043647817609
+"January Valentine",25,"Torvald Uruz",10,0.5068001793453893
+"January Valentine",25,"Loroseco Kross",11,0.05510204081632653
+"January Valentine",25,"Ikarus Cesaille",12,0.059856279601502534
+"January Valentine",25,"Juvenius Drakonius",13,0.03931057904567838
+"January Valentine",25,"ExookiZ",14,0.4274129139276279
+"January Valentine",25,"BlazingBunny",15,0.03826330532212885
+"January Valentine",25,"Jurius Doctor",16,0.11319598682698935
+"January Valentine",25,"DutchGunner",17,0.07187864644107352
+"January Valentine",25,"Stitch Kaneland",18,0.06555655565556556
+"January Valentine",25,"Meredith en Thielles",19,0.058669497523000706
+"January Valentine",25,"Insidious Sainthood",20,0.09928571428571428
+"January Valentine",25,"Steadyo",21,0.014466880078798325
+"January Valentine",25,"The Oz",22,0.08338192419825073
+"January Valentine",25,"Alexis Finch",23,0.03945850319206215
+"January Valentine",25,"Darius Caliente",24,0.04625908507909363
+"January Valentine",25,"January Valentine",25,1.0
+"January Valentine",25,"Ironwulf",26,0.03066108285970685
+"January Valentine",25,"PJHustle",27,0.08023255813953488
+"January Valentine",25,"Pandora Singularity",28,0.09651360544217687
+"January Valentine",25,"UAxDEATH",29,0.5201835721644656
+"January Valentine",25,"Komi Valentine",30,0.061941192736657755
+"January Valentine",25,"Prospektor Schipplock",31,0.04699886749716874
+"January Valentine",25,"Xenuria",32,0.5063735451690375
+"January Valentine",25,"Murray Rothbardo",33,0.026204645805336917
+"January Valentine",25,"Styxx",34,0.038145377297497
+"January Valentine",25,"boernl",35,0.022978788810328925
+"January Valentine",25,"Dhuras",36,0.03157796101949026
+"January Valentine",25,"Rheaha Preynar",37,0.047357454063269556
+"January Valentine",25,"Kalen Tsero",38,0.033041325461816796
+"January Valentine",25,"Storm Delay",39,0.01492649830380701
+"January Valentine",25,"Leehams DaWildabeast",40,0.017224971450323562
+"Ironwulf",26,"Merkelchen",1,0.023466447097571015
+"Ironwulf",26,"Gobbins",2,0.03387294972484907
+"Ironwulf",26,"Vily",3,0.26097223353147136
+"Ironwulf",26,"Maria Taylor",4,0.035817685499214165
+"Ironwulf",26,"Innominate",5,0.02871888787147257
+"Ironwulf",26,"Kenneth Feld",6,0.04784064005224916
+"Ironwulf",26,"Mike Azariah",7,0.08776620263667373
+"Ironwulf",26,"Brisc Rubal",8,0.04491971207087486
+"Ironwulf",26,"Phantomite",9,0.052461572733348186
+"Ironwulf",26,"Torvald Uruz",10,0.03768515328970031
+"Ironwulf",26,"Loroseco Kross",11,0.24832985386221296
+"Ironwulf",26,"Ikarus Cesaille",12,0.03794966398735011
+"Ironwulf",26,"Juvenius Drakonius",13,0.030010099552734093
+"Ironwulf",26,"ExookiZ",14,0.05228947826591608
+"Ironwulf",26,"BlazingBunny",15,0.22747212575397552
+"Ironwulf",26,"Jurius Doctor",16,0.06359228774382682
+"Ironwulf",26,"DutchGunner",17,0.04341029341029341
+"Ironwulf",26,"Stitch Kaneland",18,0.08821420033468802
+"Ironwulf",26,"Meredith en Thielles",19,0.040646114864864864
+"Ironwulf",26,"Insidious Sainthood",20,0.07945712523133867
+"Ironwulf",26,"Steadyo",21,0.023387604569578124
+"Ironwulf",26,"The Oz",22,0.09671153045650062
+"Ironwulf",26,"Alexis Finch",23,0.49839686498040614
+"Ironwulf",26,"Darius Caliente",24,0.045427901524032824
+"Ironwulf",26,"January Valentine",25,0.03066108285970685
+"Ironwulf",26,"Ironwulf",26,1.0
+"Ironwulf",26,"PJHustle",27,0.0514018691588785
+"Ironwulf",26,"Pandora Singularity",28,0.058151397673944095
+"Ironwulf",26,"UAxDEATH",29,0.033909327387588256
+"Ironwulf",26,"Komi Valentine",30,0.04018797601685302
+"Ironwulf",26,"Prospektor Schipplock",31,0.0399166955918084
+"Ironwulf",26,"Xenuria",32,0.02920646583394563
+"Ironwulf",26,"Murray Rothbardo",33,0.042529378847229994
+"Ironwulf",26,"Styxx",34,0.07027027027027027
+"Ironwulf",26,"boernl",35,0.023438474005734945
+"Ironwulf",26,"Dhuras",36,0.032150969771099075
+"Ironwulf",26,"Rheaha Preynar",37,0.03618649965205289
+"Ironwulf",26,"Kalen Tsero",38,0.03177737881508079
+"Ironwulf",26,"Storm Delay",39,0.020380766414449598
+"Ironwulf",26,"Leehams DaWildabeast",40,0.026078971533516987
+"PJHustle",27,"Merkelchen",1,0.08082233195606167
+"PJHustle",27,"Gobbins",2,0.02402506963788301
+"PJHustle",27,"Vily",3,0.030894673847995213
+"PJHustle",27,"Maria Taylor",4,0.03413001912045889
+"PJHustle",27,"Innominate",5,0.0826219512195122
+"PJHustle",27,"Kenneth Feld",6,0.029697474326949764
+"PJHustle",27,"Mike Azariah",7,0.09372629754036191
+"PJHustle",27,"Brisc Rubal",8,0.11739674593241552
+"PJHustle",27,"Phantomite",9,0.1
+"PJHustle",27,"Torvald Uruz",10,0.053889853242859394
+"PJHustle",27,"Loroseco Kross",11,0.029518072289156625
+"PJHustle",27,"Ikarus Cesaille",12,0.05162719372976657
+"PJHustle",27,"Juvenius Drakonius",13,0.061328125
+"PJHustle",27,"ExookiZ",14,0.08536504790221341
+"PJHustle",27,"BlazingBunny",15,0.052792242772490575
+"PJHustle",27,"Jurius Doctor",16,0.08023483365949119
+"PJHustle",27,"DutchGunner",17,0.047475961538461536
+"PJHustle",27,"Stitch Kaneland",18,0.05911823647294589
+"PJHustle",27,"Meredith en Thielles",19,0.05255003227888961
+"PJHustle",27,"Insidious Sainthood",20,0.061003163126976956
+"PJHustle",27,"Steadyo",21,0.031240004264847
+"PJHustle",27,"The Oz",22,0.07490896479972256
+"PJHustle",27,"Alexis Finch",23,0.03375462392108508
+"PJHustle",27,"Darius Caliente",24,0.07356140003954914
+"PJHustle",27,"January Valentine",25,0.08023255813953488
+"PJHustle",27,"Ironwulf",26,0.0514018691588785
+"PJHustle",27,"PJHustle",27,1.0
+"PJHustle",27,"Pandora Singularity",28,0.07811916905087697
+"PJHustle",27,"UAxDEATH",29,0.01793043853964139
+"PJHustle",27,"Komi Valentine",30,0.047788397421649254
+"PJHustle",27,"Prospektor Schipplock",31,0.07443609022556391
+"PJHustle",27,"Xenuria",32,0.01625842336078725
+"PJHustle",27,"Murray Rothbardo",33,0.03407880724174654
+"PJHustle",27,"Styxx",34,0.0945679012345679
+"PJHustle",27,"boernl",35,0.032053316407489686
+"PJHustle",27,"Dhuras",36,0.04319761668321748
+"PJHustle",27,"Rheaha Preynar",37,0.050927070457354756
+"PJHustle",27,"Kalen Tsero",38,0.030596634370219276
+"PJHustle",27,"Storm Delay",39,0.026052104208416832
+"PJHustle",27,"Leehams DaWildabeast",40,0.028616852146263912
+"Pandora Singularity",28,"Merkelchen",1,0.049416660474102696
+"Pandora Singularity",28,"Gobbins",2,0.18887005649717514
+"Pandora Singularity",28,"Vily",3,0.04987165383204987
+"Pandora Singularity",28,"Maria Taylor",4,0.3083578792341679
+"Pandora Singularity",28,"Innominate",5,0.05062439243251327
+"Pandora Singularity",28,"Kenneth Feld",6,0.31680565627266133
+"Pandora Singularity",28,"Mike Azariah",7,0.1495398773006135
+"Pandora Singularity",28,"Brisc Rubal",8,0.07877658549122919
+"Pandora Singularity",28,"Phantomite",9,0.08280688113519293
+"Pandora Singularity",28,"Torvald Uruz",10,0.07342388518708355
+"Pandora Singularity",28,"Loroseco Kross",11,0.03888888888888889
+"Pandora Singularity",28,"Ikarus Cesaille",12,0.04419467481449149
+"Pandora Singularity",28,"Juvenius Drakonius",13,0.042990433447502065
+"Pandora Singularity",28,"ExookiZ",14,0.2540485829959514
+"Pandora Singularity",28,"BlazingBunny",15,0.28542286442838927
+"Pandora Singularity",28,"Jurius Doctor",16,0.08441368554440004
+"Pandora Singularity",28,"DutchGunner",17,0.05665953327218995
+"Pandora Singularity",28,"Stitch Kaneland",18,0.08841617098497832
+"Pandora Singularity",28,"Meredith en Thielles",19,0.4191447530105677
+"Pandora Singularity",28,"Insidious Sainthood",20,0.1075633817757505
+"Pandora Singularity",28,"Steadyo",21,0.3074229691876751
+"Pandora Singularity",28,"The Oz",22,0.10248161764705882
+"Pandora Singularity",28,"Alexis Finch",23,0.062460567823343846
+"Pandora Singularity",28,"Darius Caliente",24,0.04709930003559141
+"Pandora Singularity",28,"January Valentine",25,0.09651360544217687
+"Pandora Singularity",28,"Ironwulf",26,0.058151397673944095
+"Pandora Singularity",28,"PJHustle",27,0.07811916905087697
+"Pandora Singularity",28,"Pandora Singularity",28,1.0
+"Pandora Singularity",28,"UAxDEATH",29,0.016007607575877644
+"Pandora Singularity",28,"Komi Valentine",30,0.0714663143989432
+"Pandora Singularity",28,"Prospektor Schipplock",31,0.06132596685082873
+"Pandora Singularity",28,"Xenuria",32,0.02781098095465774
+"Pandora Singularity",28,"Murray Rothbardo",33,0.019890741000140075
+"Pandora Singularity",28,"Styxx",34,0.04525430516619944
+"Pandora Singularity",28,"boernl",35,0.38708321658727934
+"Pandora Singularity",28,"Dhuras",36,0.03387755102040816
+"Pandora Singularity",28,"Rheaha Preynar",37,0.06325594327818712
+"Pandora Singularity",28,"Kalen Tsero",38,0.03867634738899749
+"Pandora Singularity",28,"Storm Delay",39,0.4165140200084543
+"Pandora Singularity",28,"Leehams DaWildabeast",40,0.035861676391063045
+"UAxDEATH",29,"Merkelchen",1,0.5916773641420625
+"UAxDEATH",29,"Gobbins",2,0.34659336586571127
+"UAxDEATH",29,"Vily",3,0.489246865398987
+"UAxDEATH",29,"Maria Taylor",4,0.015809472112905416
+"UAxDEATH",29,"Innominate",5,0.6026626258253057
+"UAxDEATH",29,"Kenneth Feld",6,0.013460645845766195
+"UAxDEATH",29,"Mike Azariah",7,0.02717900656044986
+"UAxDEATH",29,"Brisc Rubal",8,0.4766874263591988
+"UAxDEATH",29,"Phantomite",9,0.02427685950413223
+"UAxDEATH",29,"Torvald Uruz",10,0.4743622126799697
+"UAxDEATH",29,"Loroseco Kross",11,0.025261509997865226
+"UAxDEATH",29,"Ikarus Cesaille",12,0.018142378229146126
+"UAxDEATH",29,"Juvenius Drakonius",13,0.024030759371996155
+"UAxDEATH",29,"ExookiZ",14,0.3803487592219987
+"UAxDEATH",29,"BlazingBunny",15,0.02729978004916548
+"UAxDEATH",29,"Jurius Doctor",16,0.025902262130892764
+"UAxDEATH",29,"DutchGunner",17,0.019611436950146627
+"UAxDEATH",29,"Stitch Kaneland",18,0.015291326127076193
+"UAxDEATH",29,"Meredith en Thielles",19,0.013506835776643057
+"UAxDEATH",29,"Insidious Sainthood",20,0.019390077378243057
+"UAxDEATH",29,"Steadyo",21,0.010672514619883042
+"UAxDEATH",29,"The Oz",22,0.026675922253074177
+"UAxDEATH",29,"Alexis Finch",23,0.034972365161044405
+"UAxDEATH",29,"Darius Caliente",24,0.01827648496440336
+"UAxDEATH",29,"January Valentine",25,0.5201835721644656
+"UAxDEATH",29,"Ironwulf",26,0.033909327387588256
+"UAxDEATH",29,"PJHustle",27,0.01793043853964139
+"UAxDEATH",29,"Pandora Singularity",28,0.016007607575877644
+"UAxDEATH",29,"UAxDEATH",29,1.0
+"UAxDEATH",29,"Komi Valentine",30,0.018490869415412885
+"UAxDEATH",29,"Prospektor Schipplock",31,0.019813942249607346
+"UAxDEATH",29,"Xenuria",32,0.6363091671659676
+"UAxDEATH",29,"Murray Rothbardo",33,0.01056072416394267
+"UAxDEATH",29,"Styxx",34,0.02201856700785527
+"UAxDEATH",29,"boernl",35,0.012444191127576708
+"UAxDEATH",29,"Dhuras",36,0.019397340490423326
+"UAxDEATH",29,"Rheaha Preynar",37,0.010823812387251955
+"UAxDEATH",29,"Kalen Tsero",38,0.008118081180811807
+"UAxDEATH",29,"Storm Delay",39,0.011036288814066592
+"UAxDEATH",29,"Leehams DaWildabeast",40,0.014262274391013505
+"Komi Valentine",30,"Merkelchen",1,0.023862263391059204
+"Komi Valentine",30,"Gobbins",2,0.015207318522038731
+"Komi Valentine",30,"Vily",3,0.03175222343579342
+"Komi Valentine",30,"Maria Taylor",4,0.0560930424042816
+"Komi Valentine",30,"Innominate",5,0.02010507173166296
+"Komi Valentine",30,"Kenneth Feld",6,0.019475510991129964
+"Komi Valentine",30,"Mike Azariah",7,0.0876952902269358
+"Komi Valentine",30,"Brisc Rubal",8,0.02622321714102974
+"Komi Valentine",30,"Phantomite",9,0.055041831792162044
+"Komi Valentine",30,"Torvald Uruz",10,0.03946406820950061
+"Komi Valentine",30,"Loroseco Kross",11,0.038774635818337615
+"Komi Valentine",30,"Ikarus Cesaille",12,0.10204081632653061
+"Komi Valentine",30,"Juvenius Drakonius",13,0.06506550218340611
+"Komi Valentine",30,"ExookiZ",14,0.02195750160978751
+"Komi Valentine",30,"BlazingBunny",15,0.02037087786608203
+"Komi Valentine",30,"Jurius Doctor",16,0.08158648770924445
+"Komi Valentine",30,"DutchGunner",17,0.13156966490299823
+"Komi Valentine",30,"Stitch Kaneland",18,0.061753297129557794
+"Komi Valentine",30,"Meredith en Thielles",19,0.0763780643332861
+"Komi Valentine",30,"Insidious Sainthood",20,0.07399437179274955
+"Komi Valentine",30,"Steadyo",21,0.017524277263087397
+"Komi Valentine",30,"The Oz",22,0.16135007203128215
+"Komi Valentine",30,"Alexis Finch",23,0.047335263068278566
+"Komi Valentine",30,"Darius Caliente",24,0.04908503767491927
+"Komi Valentine",30,"January Valentine",25,0.061941192736657755
+"Komi Valentine",30,"Ironwulf",26,0.04018797601685302
+"Komi Valentine",30,"PJHustle",27,0.047788397421649254
+"Komi Valentine",30,"Pandora Singularity",28,0.0714663143989432
+"Komi Valentine",30,"UAxDEATH",29,0.018490869415412885
+"Komi Valentine",30,"Komi Valentine",30,1.0
+"Komi Valentine",30,"Prospektor Schipplock",31,0.17808651720871488
+"Komi Valentine",30,"Xenuria",32,0.028160919540229885
+"Komi Valentine",30,"Murray Rothbardo",33,0.03161810291382517
+"Komi Valentine",30,"Styxx",34,0.11057003723861358
+"Komi Valentine",30,"boernl",35,0.036778804253093954
+"Komi Valentine",30,"Dhuras",36,0.055282199710564396
+"Komi Valentine",30,"Rheaha Preynar",37,0.13378336913163547
+"Komi Valentine",30,"Kalen Tsero",38,0.07625810435319542
+"Komi Valentine",30,"Storm Delay",39,0.025554808338937456
+"Komi Valentine",30,"Leehams DaWildabeast",40,0.037429819089207735
+"Prospektor Schipplock",31,"Merkelchen",1,0.04036736437419906
+"Prospektor Schipplock",31,"Gobbins",2,0.012640534791856579
+"Prospektor Schipplock",31,"Vily",3,0.031015870458390396
+"Prospektor Schipplock",31,"Maria Taylor",4,0.05345474022495983
+"Prospektor Schipplock",31,"Innominate",5,0.037219779041081195
+"Prospektor Schipplock",31,"Kenneth Feld",6,0.020209129298210334
+"Prospektor Schipplock",31,"Mike Azariah",7,0.04676011029411765
+"Prospektor Schipplock",31,"Brisc Rubal",8,0.03176186912779579
+"Prospektor Schipplock",31,"Phantomite",9,0.033634000917290935
+"Prospektor Schipplock",31,"Torvald Uruz",10,0.022222222222222223
+"Prospektor Schipplock",31,"Loroseco Kross",11,0.020024205083067445
+"Prospektor Schipplock",31,"Ikarus Cesaille",12,0.05984477124183007
+"Prospektor Schipplock",31,"Juvenius Drakonius",13,0.08879647749510763
+"Prospektor Schipplock",31,"ExookiZ",14,0.017257278355947835
+"Prospektor Schipplock",31,"BlazingBunny",15,0.021974885844748857
+"Prospektor Schipplock",31,"Jurius Doctor",16,0.0638801261829653
+"Prospektor Schipplock",31,"DutchGunner",17,0.064900426742532
+"Prospektor Schipplock",31,"Stitch Kaneland",18,0.021818760949195732
+"Prospektor Schipplock",31,"Meredith en Thielles",19,0.08227657004830918
+"Prospektor Schipplock",31,"Insidious Sainthood",20,0.03589130063237053
+"Prospektor Schipplock",31,"Steadyo",21,0.016851960210649504
+"Prospektor Schipplock",31,"The Oz",22,0.11049606131573345
+"Prospektor Schipplock",31,"Alexis Finch",23,0.046435100548446066
+"Prospektor Schipplock",31,"Darius Caliente",24,0.03684701492537314
+"Prospektor Schipplock",31,"January Valentine",25,0.04699886749716874
+"Prospektor Schipplock",31,"Ironwulf",26,0.0399166955918084
+"Prospektor Schipplock",31,"PJHustle",27,0.07443609022556391
+"Prospektor Schipplock",31,"Pandora Singularity",28,0.06132596685082873
+"Prospektor Schipplock",31,"UAxDEATH",29,0.019813942249607346
+"Prospektor Schipplock",31,"Komi Valentine",30,0.17808651720871488
+"Prospektor Schipplock",31,"Prospektor Schipplock",31,1.0
+"Prospektor Schipplock",31,"Xenuria",32,0.028495532480077277
+"Prospektor Schipplock",31,"Murray Rothbardo",33,0.02908832919474991
+"Prospektor Schipplock",31,"Styxx",34,0.0893590148405431
+"Prospektor Schipplock",31,"boernl",35,0.04425950444486476
+"Prospektor Schipplock",31,"Dhuras",36,0.04682926829268293
+"Prospektor Schipplock",31,"Rheaha Preynar",37,0.11345826235093696
+"Prospektor Schipplock",31,"Kalen Tsero",38,0.04438374871969956
+"Prospektor Schipplock",31,"Storm Delay",39,0.030704941860465115
+"Prospektor Schipplock",31,"Leehams DaWildabeast",40,0.040186580552565486
+"Xenuria",32,"Merkelchen",1,0.5587285044293903
+"Xenuria",32,"Gobbins",2,0.33347555772278437
+"Xenuria",32,"Vily",3,0.4539877300613497
+"Xenuria",32,"Maria Taylor",4,0.021241940956905327
+"Xenuria",32,"Innominate",5,0.5723642510035918
+"Xenuria",32,"Kenneth Feld",6,0.013459127795737942
+"Xenuria",32,"Mike Azariah",7,0.04891264552976496
+"Xenuria",32,"Brisc Rubal",8,0.4784395973154362
+"Xenuria",32,"Phantomite",9,0.03554133517813905
+"Xenuria",32,"Torvald Uruz",10,0.4643243693281159
+"Xenuria",32,"Loroseco Kross",11,0.03612303290414878
+"Xenuria",32,"Ikarus Cesaille",12,0.019402253797158257
+"Xenuria",32,"Juvenius Drakonius",13,0.025573005093378606
+"Xenuria",32,"ExookiZ",14,0.36980306345733044
+"Xenuria",32,"BlazingBunny",15,0.029882535174906414
+"Xenuria",32,"Jurius Doctor",16,0.03299645849529239
+"Xenuria",32,"DutchGunner",17,0.023198465613298018
+"Xenuria",32,"Stitch Kaneland",18,0.036726689249420574
+"Xenuria",32,"Meredith en Thielles",19,0.023557612828566707
+"Xenuria",32,"Insidious Sainthood",20,0.03878754376266814
+"Xenuria",32,"Steadyo",21,0.011347930457554375
+"Xenuria",32,"The Oz",22,0.02931017467679858
+"Xenuria",32,"Alexis Finch",23,0.025117150890346766
+"Xenuria",32,"Darius Caliente",24,0.033486680218251845
+"Xenuria",32,"January Valentine",25,0.5063735451690375
+"Xenuria",32,"Ironwulf",26,0.02920646583394563
+"Xenuria",32,"PJHustle",27,0.01625842336078725
+"Xenuria",32,"Pandora Singularity",28,0.02781098095465774
+"Xenuria",32,"UAxDEATH",29,0.6363091671659676
+"Xenuria",32,"Komi Valentine",30,0.028160919540229885
+"Xenuria",32,"Prospektor Schipplock",31,0.028495532480077277
+"Xenuria",32,"Xenuria",32,1.0
+"Xenuria",32,"Murray Rothbardo",33,0.023329129886506934
+"Xenuria",32,"Styxx",34,0.02581103480937722
+"Xenuria",32,"boernl",35,0.011590652091971354
+"Xenuria",32,"Dhuras",36,0.031055141215307495
+"Xenuria",32,"Rheaha Preynar",37,0.02316043425814234
+"Xenuria",32,"Kalen Tsero",38,0.020727945712523135
+"Xenuria",32,"Storm Delay",39,0.011520951407600111
+"Xenuria",32,"Leehams DaWildabeast",40,0.016411926835379603
+"Murray Rothbardo",33,"Merkelchen",1,0.011152013858813339
+"Murray Rothbardo",33,"Gobbins",2,0.012327231976092642
+"Murray Rothbardo",33,"Vily",3,0.02058460271716756
+"Murray Rothbardo",33,"Maria Taylor",4,0.014849887011729259
+"Murray Rothbardo",33,"Innominate",5,0.010357610117749673
+"Murray Rothbardo",33,"Kenneth Feld",6,0.01839464882943144
+"Murray Rothbardo",33,"Mike Azariah",7,0.06428746027866047
+"Murray Rothbardo",33,"Brisc Rubal",8,0.028615490061686087
+"Murray Rothbardo",33,"Phantomite",9,0.08516811742618194
+"Murray Rothbardo",33,"Torvald Uruz",10,0.023074950858900947
+"Murray Rothbardo",33,"Loroseco Kross",11,0.06753340556157457
+"Murray Rothbardo",33,"Ikarus Cesaille",12,0.028362698753760206
+"Murray Rothbardo",33,"Juvenius Drakonius",13,0.027932960893854747
+"Murray Rothbardo",33,"ExookiZ",14,0.02682960131075915
+"Murray Rothbardo",33,"BlazingBunny",15,0.034103410341034104
+"Murray Rothbardo",33,"Jurius Doctor",16,0.06409395973154362
+"Murray Rothbardo",33,"DutchGunner",17,0.037518573551263
+"Murray Rothbardo",33,"Stitch Kaneland",18,0.11579142698088699
+"Murray Rothbardo",33,"Meredith en Thielles",19,0.016984818878701336
+"Murray Rothbardo",33,"Insidious Sainthood",20,0.08912415784408084
+"Murray Rothbardo",33,"Steadyo",21,0.011351153423654338
+"Murray Rothbardo",33,"The Oz",22,0.03750808363871524
+"Murray Rothbardo",33,"Alexis Finch",23,0.0312015503875969
+"Murray Rothbardo",33,"Darius Caliente",24,0.17494914269107817
+"Murray Rothbardo",33,"January Valentine",25,0.026204645805336917
+"Murray Rothbardo",33,"Ironwulf",26,0.042529378847229994
+"Murray Rothbardo",33,"PJHustle",27,0.03407880724174654
+"Murray Rothbardo",33,"Pandora Singularity",28,0.019890741000140075
+"Murray Rothbardo",33,"UAxDEATH",29,0.01056072416394267
+"Murray Rothbardo",33,"Komi Valentine",30,0.03161810291382517
+"Murray Rothbardo",33,"Prospektor Schipplock",31,0.02908832919474991
+"Murray Rothbardo",33,"Xenuria",32,0.023329129886506934
+"Murray Rothbardo",33,"Murray Rothbardo",33,1.0
+"Murray Rothbardo",33,"Styxx",34,0.03851397409679618
+"Murray Rothbardo",33,"boernl",35,0.019115890083632018
+"Murray Rothbardo",33,"Dhuras",36,0.11480601741884403
+"Murray Rothbardo",33,"Rheaha Preynar",37,0.0479151426481346
+"Murray Rothbardo",33,"Kalen Tsero",38,0.04690579424517146
+"Murray Rothbardo",33,"Storm Delay",39,0.01619745468569225
+"Murray Rothbardo",33,"Leehams DaWildabeast",40,0.03783783783783784
+"Styxx",34,"Merkelchen",1,0.021487603305785124
+"Styxx",34,"Gobbins",2,0.025689528923602635
+"Styxx",34,"Vily",3,0.02795425667090216
+"Styxx",34,"Maria Taylor",4,0.04787904241915162
+"Styxx",34,"Innominate",5,0.021861336664584636
+"Styxx",34,"Kenneth Feld",6,0.0331225534477567
+"Styxx",34,"Mike Azariah",7,0.07564489890773879
+"Styxx",34,"Brisc Rubal",8,0.02447980416156671
+"Styxx",34,"Phantomite",9,0.05049429657794677
+"Styxx",34,"Torvald Uruz",10,0.04229104229104229
+"Styxx",34,"Loroseco Kross",11,0.03837247767118756
+"Styxx",34,"Ikarus Cesaille",12,0.08966503267973856
+"Styxx",34,"Juvenius Drakonius",13,0.05484167049105094
+"Styxx",34,"ExookiZ",14,0.02042152114151067
+"Styxx",34,"BlazingBunny",15,0.036948862013141605
+"Styxx",34,"Jurius Doctor",16,0.08931394245969017
+"Styxx",34,"DutchGunner",17,0.0748072880168185
+"Styxx",34,"Stitch Kaneland",18,0.07591408427611084
+"Styxx",34,"Meredith en Thielles",19,0.07038337723148962
+"Styxx",34,"Insidious Sainthood",20,0.06667812338889843
+"Styxx",34,"Steadyo",21,0.03418003043427367
+"Styxx",34,"The Oz",22,0.14109384975526706
+"Styxx",34,"Alexis Finch",23,0.050465282748747314
+"Styxx",34,"Darius Caliente",24,0.04197867029725437
+"Styxx",34,"January Valentine",25,0.038145377297497
+"Styxx",34,"Ironwulf",26,0.07027027027027027
+"Styxx",34,"PJHustle",27,0.0945679012345679
+"Styxx",34,"Pandora Singularity",28,0.04525430516619944
+"Styxx",34,"UAxDEATH",29,0.02201856700785527
+"Styxx",34,"Komi Valentine",30,0.11057003723861358
+"Styxx",34,"Prospektor Schipplock",31,0.0893590148405431
+"Styxx",34,"Xenuria",32,0.02581103480937722
+"Styxx",34,"Murray Rothbardo",33,0.03851397409679618
+"Styxx",34,"Styxx",34,1.0
+"Styxx",34,"boernl",35,0.03450164293537788
+"Styxx",34,"Dhuras",36,0.08758888170652876
+"Styxx",34,"Rheaha Preynar",37,0.12155059132720106
+"Styxx",34,"Kalen Tsero",38,0.07550335570469799
+"Styxx",34,"Storm Delay",39,0.025193798449612403
+"Styxx",34,"Leehams DaWildabeast",40,0.05036219385995171
+"boernl",35,"Merkelchen",1,0.013216978734220114
+"boernl",35,"Gobbins",2,0.18310565233738563
+"boernl",35,"Vily",3,0.020040760869565216
+"boernl",35,"Maria Taylor",4,0.2981794678444468
+"boernl",35,"Innominate",5,0.01114324600204151
+"boernl",35,"Kenneth Feld",6,0.29452413359857604
+"boernl",35,"Mike Azariah",7,0.031318281136198105
+"boernl",35,"Brisc Rubal",8,0.01887843956809474
+"boernl",35,"Phantomite",9,0.022900763358778626
+"boernl",35,"Torvald Uruz",10,0.019565369296345468
+"boernl",35,"Loroseco Kross",11,0.018710649995566198
+"boernl",35,"Ikarus Cesaille",12,0.037545530961053515
+"boernl",35,"Juvenius Drakonius",13,0.030125135176888616
+"boernl",35,"ExookiZ",14,0.18157489797283735
+"boernl",35,"BlazingBunny",15,0.28012643224022127
+"boernl",35,"Jurius Doctor",16,0.036069364161849714
+"boernl",35,"DutchGunner",17,0.047619047619047616
+"boernl",35,"Stitch Kaneland",18,0.019364742000236156
+"boernl",35,"Meredith en Thielles",19,0.42514424536896445
+"boernl",35,"Insidious Sainthood",20,0.027047146401985113
+"boernl",35,"Steadyo",21,0.34194659776055125
+"boernl",35,"The Oz",22,0.046164672765657985
+"boernl",35,"Alexis Finch",23,0.024777390631049168
+"boernl",35,"Darius Caliente",24,0.024131570857669843
+"boernl",35,"January Valentine",25,0.022978788810328925
+"boernl",35,"Ironwulf",26,0.023438474005734945
+"boernl",35,"PJHustle",27,0.032053316407489686
+"boernl",35,"Pandora Singularity",28,0.38708321658727934
+"boernl",35,"UAxDEATH",29,0.012444191127576708
+"boernl",35,"Komi Valentine",30,0.036778804253093954
+"boernl",35,"Prospektor Schipplock",31,0.04425950444486476
+"boernl",35,"Xenuria",32,0.011590652091971354
+"boernl",35,"Murray Rothbardo",33,0.019115890083632018
+"boernl",35,"Styxx",34,0.03450164293537788
+"boernl",35,"boernl",35,1.0
+"boernl",35,"Dhuras",36,0.03052132701421801
+"boernl",35,"Rheaha Preynar",37,0.029660221513046744
+"boernl",35,"Kalen Tsero",38,0.028861154446177848
+"boernl",35,"Storm Delay",39,0.5329318049349135
+"boernl",35,"Leehams DaWildabeast",40,0.04131894972521881
+"Dhuras",36,"Merkelchen",1,0.011098314312637421
+"Dhuras",36,"Gobbins",2,0.012396946564885497
+"Dhuras",36,"Vily",3,0.017691322446365672
+"Dhuras",36,"Maria Taylor",4,0.01902372739625797
+"Dhuras",36,"Innominate",5,0.01514509637788604
+"Dhuras",36,"Kenneth Feld",6,0.01626098373901626
+"Dhuras",36,"Mike Azariah",7,0.0713353115727003
+"Dhuras",36,"Brisc Rubal",8,0.027171195199199867
+"Dhuras",36,"Phantomite",9,0.0762534257617282
+"Dhuras",36,"Torvald Uruz",10,0.03959055917435073
+"Dhuras",36,"Loroseco Kross",11,0.06393328700486449
+"Dhuras",36,"Ikarus Cesaille",12,0.05892116182572614
+"Dhuras",36,"Juvenius Drakonius",13,0.04750479846449136
+"Dhuras",36,"ExookiZ",14,0.036229928484684926
+"Dhuras",36,"BlazingBunny",15,0.02797067901234568
+"Dhuras",36,"Jurius Doctor",16,0.0637278390033541
+"Dhuras",36,"DutchGunner",17,0.06455102776776055
+"Dhuras",36,"Stitch Kaneland",18,0.09476050492823794
+"Dhuras",36,"Meredith en Thielles",19,0.03295421405657626
+"Dhuras",36,"Insidious Sainthood",20,0.09631260319207485
+"Dhuras",36,"Steadyo",21,0.01164021164021164
+"Dhuras",36,"The Oz",22,0.07771476580550304
+"Dhuras",36,"Alexis Finch",23,0.0342993396918562
+"Dhuras",36,"Darius Caliente",24,0.11193268740438551
+"Dhuras",36,"January Valentine",25,0.03157796101949026
+"Dhuras",36,"Ironwulf",26,0.032150969771099075
+"Dhuras",36,"PJHustle",27,0.04319761668321748
+"Dhuras",36,"Pandora Singularity",28,0.03387755102040816
+"Dhuras",36,"UAxDEATH",29,0.019397340490423326
+"Dhuras",36,"Komi Valentine",30,0.055282199710564396
+"Dhuras",36,"Prospektor Schipplock",31,0.04682926829268293
+"Dhuras",36,"Xenuria",32,0.031055141215307495
+"Dhuras",36,"Murray Rothbardo",33,0.11480601741884403
+"Dhuras",36,"Styxx",34,0.08758888170652876
+"Dhuras",36,"boernl",35,0.03052132701421801
+"Dhuras",36,"Dhuras",36,1.0
+"Dhuras",36,"Rheaha Preynar",37,0.06383689839572193
+"Dhuras",36,"Kalen Tsero",38,0.11302395209580839
+"Dhuras",36,"Storm Delay",39,0.021198830409356724
+"Dhuras",36,"Leehams DaWildabeast",40,0.059887005649717516
+"Rheaha Preynar",37,"Merkelchen",1,0.022329892563724456
+"Rheaha Preynar",37,"Gobbins",2,0.017190750030588522
+"Rheaha Preynar",37,"Vily",3,0.02604920405209841
+"Rheaha Preynar",37,"Maria Taylor",4,0.05832793259883344
+"Rheaha Preynar",37,"Innominate",5,0.01463928383359663
+"Rheaha Preynar",37,"Kenneth Feld",6,0.025144479367332453
+"Rheaha Preynar",37,"Mike Azariah",7,0.08061443200762086
+"Rheaha Preynar",37,"Brisc Rubal",8,0.016179369250985544
+"Rheaha Preynar",37,"Phantomite",9,0.04620410703173616
+"Rheaha Preynar",37,"Torvald Uruz",10,0.029367595528116134
+"Rheaha Preynar",37,"Loroseco Kross",11,0.03577837595334231
+"Rheaha Preynar",37,"Ikarus Cesaille",12,0.08507054116656138
+"Rheaha Preynar",37,"Juvenius Drakonius",13,0.0648818137964303
+"Rheaha Preynar",37,"ExookiZ",14,0.014886049268871031
+"Rheaha Preynar",37,"BlazingBunny",15,0.028629070996253243
+"Rheaha Preynar",37,"Jurius Doctor",16,0.0953469387755102
+"Rheaha Preynar",37,"DutchGunner",17,0.08000725689404935
+"Rheaha Preynar",37,"Stitch Kaneland",18,0.06015287470920572
+"Rheaha Preynar",37,"Meredith en Thielles",19,0.08585781701933323
+"Rheaha Preynar",37,"Insidious Sainthood",20,0.05572104433152269
+"Rheaha Preynar",37,"Steadyo",21,0.024023668639053253
+"Rheaha Preynar",37,"The Oz",22,0.0962962962962963
+"Rheaha Preynar",37,"Alexis Finch",23,0.051386321626617375
+"Rheaha Preynar",37,"Darius Caliente",24,0.0562874251497006
+"Rheaha Preynar",37,"January Valentine",25,0.047357454063269556
+"Rheaha Preynar",37,"Ironwulf",26,0.03618649965205289
+"Rheaha Preynar",37,"PJHustle",27,0.050927070457354756
+"Rheaha Preynar",37,"Pandora Singularity",28,0.06325594327818712
+"Rheaha Preynar",37,"UAxDEATH",29,0.010823812387251955
+"Rheaha Preynar",37,"Komi Valentine",30,0.13378336913163547
+"Rheaha Preynar",37,"Prospektor Schipplock",31,0.11345826235093696
+"Rheaha Preynar",37,"Xenuria",32,0.02316043425814234
+"Rheaha Preynar",37,"Murray Rothbardo",33,0.0479151426481346
+"Rheaha Preynar",37,"Styxx",34,0.12155059132720106
+"Rheaha Preynar",37,"boernl",35,0.029660221513046744
+"Rheaha Preynar",37,"Dhuras",36,0.06383689839572193
+"Rheaha Preynar",37,"Rheaha Preynar",37,1.0
+"Rheaha Preynar",37,"Kalen Tsero",38,0.0944967414916727
+"Rheaha Preynar",37,"Storm Delay",39,0.02640203932993445
+"Rheaha Preynar",37,"Leehams DaWildabeast",40,0.05958549222797927
+"Kalen Tsero",38,"Merkelchen",1,0.01975732846558574
+"Kalen Tsero",38,"Gobbins",2,0.018992055610724926
+"Kalen Tsero",38,"Vily",3,0.015122109008571891
+"Kalen Tsero",38,"Maria Taylor",4,0.032407407407407406
+"Kalen Tsero",38,"Innominate",5,0.011266094420600859
+"Kalen Tsero",38,"Kenneth Feld",6,0.0318882867861609
+"Kalen Tsero",38,"Mike Azariah",7,0.07819530584944667
+"Kalen Tsero",38,"Brisc Rubal",8,0.0195289581761797
+"Kalen Tsero",38,"Phantomite",9,0.06175655857911031
+"Kalen Tsero",38,"Torvald Uruz",10,0.0376422277354778
+"Kalen Tsero",38,"Loroseco Kross",11,0.050634384821324645
+"Kalen Tsero",38,"Ikarus Cesaille",12,0.05731394354148845
+"Kalen Tsero",38,"Juvenius Drakonius",13,0.02811048643363481
+"Kalen Tsero",38,"ExookiZ",14,0.029812317907717326
+"Kalen Tsero",38,"BlazingBunny",15,0.025696140693698095
+"Kalen Tsero",38,"Jurius Doctor",16,0.06487549148099607
+"Kalen Tsero",38,"DutchGunner",17,0.06232661364897355
+"Kalen Tsero",38,"Stitch Kaneland",18,0.08244167689878969
+"Kalen Tsero",38,"Meredith en Thielles",19,0.044343891402714934
+"Kalen Tsero",38,"Insidious Sainthood",20,0.07963616112864302
+"Kalen Tsero",38,"Steadyo",21,0.027125653813404694
+"Kalen Tsero",38,"The Oz",22,0.06811345079501505
+"Kalen Tsero",38,"Alexis Finch",23,0.02641438741101536
+"Kalen Tsero",38,"Darius Caliente",24,0.05526249686008541
+"Kalen Tsero",38,"January Valentine",25,0.033041325461816796
+"Kalen Tsero",38,"Ironwulf",26,0.03177737881508079
+"Kalen Tsero",38,"PJHustle",27,0.030596634370219276
+"Kalen Tsero",38,"Pandora Singularity",28,0.03867634738899749
+"Kalen Tsero",38,"UAxDEATH",29,0.008118081180811807
+"Kalen Tsero",38,"Komi Valentine",30,0.07625810435319542
+"Kalen Tsero",38,"Prospektor Schipplock",31,0.04438374871969956
+"Kalen Tsero",38,"Xenuria",32,0.020727945712523135
+"Kalen Tsero",38,"Murray Rothbardo",33,0.04690579424517146
+"Kalen Tsero",38,"Styxx",34,0.07550335570469799
+"Kalen Tsero",38,"boernl",35,0.028861154446177848
+"Kalen Tsero",38,"Dhuras",36,0.11302395209580839
+"Kalen Tsero",38,"Rheaha Preynar",37,0.0944967414916727
+"Kalen Tsero",38,"Kalen Tsero",38,1.0
+"Kalen Tsero",38,"Storm Delay",39,0.017050777590406595
+"Kalen Tsero",38,"Leehams DaWildabeast",40,0.04364923318914668
+"Storm Delay",39,"Merkelchen",1,0.010766149223835753
+"Storm Delay",39,"Gobbins",2,0.22400154350762108
+"Storm Delay",39,"Vily",3,0.0159421260633666
+"Storm Delay",39,"Maria Taylor",4,0.3488449209682768
+"Storm Delay",39,"Innominate",5,0.008967482400268187
+"Storm Delay",39,"Kenneth Feld",6,0.33504
+"Storm Delay",39,"Mike Azariah",7,0.02600768612029672
+"Storm Delay",39,"Brisc Rubal",8,0.011222115779389627
+"Storm Delay",39,"Phantomite",9,0.025036488155383407
+"Storm Delay",39,"Torvald Uruz",10,0.015498002479680396
+"Storm Delay",39,"Loroseco Kross",11,0.016238868517548456
+"Storm Delay",39,"Ikarus Cesaille",12,0.025647984801194193
+"Storm Delay",39,"Juvenius Drakonius",13,0.020041878552198623
+"Storm Delay",39,"ExookiZ",14,0.1978347118552888
+"Storm Delay",39,"BlazingBunny",15,0.3245782402262855
+"Storm Delay",39,"Jurius Doctor",16,0.026582563640459564
+"Storm Delay",39,"DutchGunner",17,0.02426470588235294
+"Storm Delay",39,"Stitch Kaneland",18,0.02174924401023494
+"Storm Delay",39,"Meredith en Thielles",19,0.46019595835884874
+"Storm Delay",39,"Insidious Sainthood",20,0.017624336069531628
+"Storm Delay",39,"Steadyo",21,0.4316416364577939
+"Storm Delay",39,"The Oz",22,0.03591914777383229
+"Storm Delay",39,"Alexis Finch",23,0.017859388756131304
+"Storm Delay",39,"Darius Caliente",24,0.03792263173926287
+"Storm Delay",39,"January Valentine",25,0.01492649830380701
+"Storm Delay",39,"Ironwulf",26,0.020380766414449598
+"Storm Delay",39,"PJHustle",27,0.026052104208416832
+"Storm Delay",39,"Pandora Singularity",28,0.4165140200084543
+"Storm Delay",39,"UAxDEATH",29,0.011036288814066592
+"Storm Delay",39,"Komi Valentine",30,0.025554808338937456
+"Storm Delay",39,"Prospektor Schipplock",31,0.030704941860465115
+"Storm Delay",39,"Xenuria",32,0.011520951407600111
+"Storm Delay",39,"Murray Rothbardo",33,0.01619745468569225
+"Storm Delay",39,"Styxx",34,0.025193798449612403
+"Storm Delay",39,"boernl",35,0.5329318049349135
+"Storm Delay",39,"Dhuras",36,0.021198830409356724
+"Storm Delay",39,"Rheaha Preynar",37,0.02640203932993445
+"Storm Delay",39,"Kalen Tsero",38,0.017050777590406595
+"Storm Delay",39,"Storm Delay",39,1.0
+"Storm Delay",39,"Leehams DaWildabeast",40,0.05317872850859656
+"Leehams DaWildabeast",40,"Merkelchen",1,0.010388486094578509
+"Leehams DaWildabeast",40,"Gobbins",2,0.043919352767432904
+"Leehams DaWildabeast",40,"Vily",3,0.013991163475699559
+"Leehams DaWildabeast",40,"Maria Taylor",4,0.046155553089981136
+"Leehams DaWildabeast",40,"Innominate",5,0.009369212332498093
+"Leehams DaWildabeast",40,"Kenneth Feld",6,0.06621429353179381
+"Leehams DaWildabeast",40,"Mike Azariah",7,0.028956388133790333
+"Leehams DaWildabeast",40,"Brisc Rubal",8,0.012312362961713612
+"Leehams DaWildabeast",40,"Phantomite",9,0.03148328464784161
+"Leehams DaWildabeast",40,"Torvald Uruz",10,0.019245507962190243
+"Leehams DaWildabeast",40,"Loroseco Kross",11,0.02746552323560088
+"Leehams DaWildabeast",40,"Ikarus Cesaille",12,0.06311111111111112
+"Leehams DaWildabeast",40,"Juvenius Drakonius",13,0.03876765083440308
+"Leehams DaWildabeast",40,"ExookiZ",14,0.01862638851259821
+"Leehams DaWildabeast",40,"BlazingBunny",15,0.06919019547005895
+"Leehams DaWildabeast",40,"Jurius Doctor",16,0.04430901004776808
+"Leehams DaWildabeast",40,"DutchGunner",17,0.05160075329566855
+"Leehams DaWildabeast",40,"Stitch Kaneland",18,0.029104605375791816
+"Leehams DaWildabeast",40,"Meredith en Thielles",19,0.09538461538461539
+"Leehams DaWildabeast",40,"Insidious Sainthood",20,0.031740240788033565
+"Leehams DaWildabeast",40,"Steadyo",21,0.07612366848532086
+"Leehams DaWildabeast",40,"The Oz",22,0.04428044280442804
+"Leehams DaWildabeast",40,"Alexis Finch",23,0.04994078168180024
+"Leehams DaWildabeast",40,"Darius Caliente",24,0.043916300697494186
+"Leehams DaWildabeast",40,"January Valentine",25,0.017224971450323562
+"Leehams DaWildabeast",40,"Ironwulf",26,0.026078971533516987
+"Leehams DaWildabeast",40,"PJHustle",27,0.028616852146263912
+"Leehams DaWildabeast",40,"Pandora Singularity",28,0.035861676391063045
+"Leehams DaWildabeast",40,"UAxDEATH",29,0.014262274391013505
+"Leehams DaWildabeast",40,"Komi Valentine",30,0.037429819089207735
+"Leehams DaWildabeast",40,"Prospektor Schipplock",31,0.040186580552565486
+"Leehams DaWildabeast",40,"Xenuria",32,0.016411926835379603
+"Leehams DaWildabeast",40,"Murray Rothbardo",33,0.03783783783783784
+"Leehams DaWildabeast",40,"Styxx",34,0.05036219385995171
+"Leehams DaWildabeast",40,"boernl",35,0.04131894972521881
+"Leehams DaWildabeast",40,"Dhuras",36,0.059887005649717516
+"Leehams DaWildabeast",40,"Rheaha Preynar",37,0.05958549222797927
+"Leehams DaWildabeast",40,"Kalen Tsero",38,0.04364923318914668
+"Leehams DaWildabeast",40,"Storm Delay",39,0.05317872850859656
+"Leehams DaWildabeast",40,"Leehams DaWildabeast",40,1.0

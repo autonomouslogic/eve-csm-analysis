@@ -29,6 +29,7 @@ src/main/java/com/autonomouslogic/evecsmanalysis/
 src/main/resources/templates/  Thymeleaf TEXT-mode templates: csm.md, index.md, alumni.md
 src/test/java/...         JUnit 5 parser tests, run against every csm* dir
 docs/                     MkDocs source. Mostly GENERATED, see below.
+docs/stylesheets/extra.css  Hand-written CSS (widens the Material content grid), loaded via `extra_css` in mkdocs.yml
 build/csm/                Intermediate JSON (gitignored)
 ```
 
@@ -40,12 +41,12 @@ build/csm/                Intermediate JSON (gitignored)
    - `docs/csmNN.md`
    - `docs/index.md`, `docs/alumni.md`
    - `docs/data/csm-votes.csv`, `docs/data/csm-candidates.csv`, `docs/data/alumni.json`, and per election
-     `docs/data/csmNN-rank-distribution.csv` (heatmap source on `docs/csmNN.md`)
+     `docs/data/csmNN-rank-distribution.csv` and `docs/data/csmNN-jaccard.csv` (heatmap sources on `docs/csmNN.md`)
 3. `make mkdocs-serve` / `make mkdocs-build` — needs `make init` first (creates `.venv`).
 
 Generated files under `docs/` are committed. Never hand-edit them; change the template or Java code and re-run
-`make thymeleaf`. The hand-written pages are the metric explanations linked from `docs/csmNN.md`:
-`docs/least-significant-rank.md`, `docs/votes-at-election.md` and `docs/ballots-without-a-winner.md`.
+`make thymeleaf`. The hand-written page is `docs/glossary.md`, the metric explanations linked from `docs/csmNN.md` (one heading
+per metric, e.g. `/glossary#least-significant-rank`).
 
 ## Commands
 
@@ -64,13 +65,17 @@ Run `make format` before committing Java or Gradle changes; CI fails on `spotles
 
 - **Docker is required for `make process`.** The least-significant-rank calculation runs `WrightTalley.py` in a
   `python:2` container 9 times per election (ranks 2–10, in parallel on virtual threads), with a relative bind mount
-  (`-v .:/data`). It reprocesses every election on each run, so it is slow. `make test` does not need Docker.
+  (`-v .:/data`). It is slow, so it is skipped when `build/csm/csmNN-analysis.json` is newer than `votes.blt`,
+  `auditLog.txt` and `WrightTalley.py` (mtime based, so touched inputs can cause a needless rerun). The rank is then read
+  from that file's `leastSignificantRank`. `make test` does not need Docker.
 - **Every directory in the repo root whose name starts with `csm` is treated as an election**, and its suffix is
   parsed as an integer. Do not create other `csm*` directories (scratch, backups, etc.).
 - **Each election dir must be complete** (`votes.blt`, `auditLog.txt`, `WrightTalley.py`, `csm.json`). The
   parameterised tests iterate all `csm*` dirs, so a half-added election breaks `make test` as well as `make process`.
 - Candidate names in the audit log parser are matched by `[a-zA-Z0-9 '_-]+`. A candidate whose name contains other
   characters (dots, non-ASCII, etc.) will cause a parse failure; extend the regex in `AuditLogParser` and add a test.
+- `lombok.config` pins `@Jacksonized` to Jackson 2 (`lombok.jacksonized.jacksonVersion = 2`). Without it Lombok
+  warns that Jackson 2 and 3 are both available. Keep it in step with the Jackson dependency in `build.gradle`.
 - `BallotParser` only supports a single withdrawn candidate (see `@todo` in `parseWithdrawals`).
 - EVE's `.blt` files do not terminate each ballot line with `0` (unlike the spec); the parser accounts for this.
 - `WrightTalley.py` is CCP's script, kept byte-for-byte as published for each election (csm18/csm19 differ from the
@@ -117,6 +122,11 @@ Run `make format` before committing Java or Gradle changes; CI fails on `spotles
 - Do not add message strings to `assert*` calls (e.g. `assertEquals(a, b)`, not `assertEquals(a, b, "message")`).
 - When fixing a bug: write the test first, verify it fails with the old behaviour, then implement the fix and
   verify the test passes. Do not start implementing until the failing test exists.
+
+### Writing
+
+- Use the Oxford comma in lists of three or more items (e.g. "votes, ballots, and audit logs"). Applies to prose in
+  docs, templates, Javadoc and comments.
 
 ### Generated and third-party files
 

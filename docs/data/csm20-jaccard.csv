@@ -1,0 +1,3026 @@
+Candidate,Order,Other,OtherOrder,Jaccard
+"Zintage Enaka",1,"Zintage Enaka",1,1.0
+"Zintage Enaka",1,"hyprviper1",2,0.7903644866750797
+"Zintage Enaka",1,"Machiavelian",3,0.006488368412723532
+"Zintage Enaka",1,"The Oz",4,0.3141105720345138
+"Zintage Enaka",1,"Itaer",5,0.03714815141621813
+"Zintage Enaka",1,"Angry Mustache",6,0.6207721216262385
+"Zintage Enaka",1,"youngpuke2",7,0.38415361670395226
+"Zintage Enaka",1,"Ariel Rin",8,0.4660607404123254
+"Zintage Enaka",1,"Arrowspeeed Bounty",9,0.007293354943273906
+"Zintage Enaka",1,"Kshal Aideron",10,0.022755465963715305
+"Zintage Enaka",1,"Mike Azariah",11,0.017131007122892436
+"Zintage Enaka",1,"Mick Fightmaster",12,0.01490275322051023
+"Zintage Enaka",1,"Dujek Oneye",13,0.4715139628280564
+"Zintage Enaka",1,"Gustav Mannfred",14,0.015595124282982792
+"Zintage Enaka",1,"Limited Liability",15,0.05033313143549364
+"Zintage Enaka",1,"Kenneth Feld",16,0.009398186314921682
+"Zintage Enaka",1,"Benzmann",17,0.010968569595894805
+"Zintage Enaka",1,"en guarde",18,0.00512143611404435
+"Zintage Enaka",1,"Drake Iddon",19,0.38496887044174327
+"Zintage Enaka",1,"Val Auroris",20,0.0178164041281912
+"Zintage Enaka",1,"Sven Bauer",21,0.008882271397032397
+"Zintage Enaka",1,"Gideon Zendikar",22,0.008751581611134542
+"Zintage Enaka",1,"Viola Terra",23,0.009587923296613628
+"Zintage Enaka",1,"Rots Mijnwerker",24,0.6120344534756763
+"Zintage Enaka",1,"Janstina Urthadar",25,0.005955497382198953
+"Zintage Enaka",1,"creatnos",26,0.008511222458645069
+"Zintage Enaka",1,"Jolange Jogua",27,0.004645830819355617
+"Zintage Enaka",1,"Angel Maelstorm",28,0.010837229069273268
+"Zintage Enaka",1,"yilifaerr",29,0.7379647014645138
+"Zintage Enaka",1,"Styxx",30,0.008681386287511108
+"Zintage Enaka",1,"Theman JR",31,0.05035700864336715
+"Zintage Enaka",1,"Bexey Songweaver",32,0.04175351307738856
+"Zintage Enaka",1,"Orion Sa-Solo",33,0.009050403787245892
+"Zintage Enaka",1,"Ankh Lai",34,0.009993482511405605
+"Zintage Enaka",1,"MILINT ARC Trooper",35,0.009838618346545867
+"Zintage Enaka",1,"ElenHellen",36,0.009935205183585313
+"Zintage Enaka",1,"ThePuce Moose",37,0.02177068214804064
+"Zintage Enaka",1,"NeoShocker",38,0.0077186339474259085
+"Zintage Enaka",1,"Teddy Shi",39,0.007827510140183591
+"Zintage Enaka",1,"Oncepure",40,0.013387254218379585
+"Zintage Enaka",1,"Fluffy Neko",41,0.04285714285714286
+"Zintage Enaka",1,"CollegeKid",42,0.014712438698172091
+"Zintage Enaka",1,"Rose Allari Imahara",43,0.025733439054278093
+"Zintage Enaka",1,"Kaptin Tiberius",44,0.007459412022817025
+"Zintage Enaka",1,"ntrosell2",45,0.0062550592390904405
+"Zintage Enaka",1,"Frippyy",46,0.01349547679074596
+"Zintage Enaka",1,"Aries Wolfblade",47,0.01838879159369527
+"Zintage Enaka",1,"Kane Carnifex",48,0.013191090607655158
+"Zintage Enaka",1,"burtus antonioprimus",49,0.008689081979599547
+"Zintage Enaka",1,"Kakala Asanari",50,0.018945022288261514
+"Zintage Enaka",1,"Nikita Luciano",51,0.011537899810135826
+"Zintage Enaka",1,"Coltitus Mando",52,0.00735023888276369
+"Zintage Enaka",1,"Wheezy1442",53,0.005852718921321678
+"Zintage Enaka",1,"Aqustin Agustus",54,0.009545283727921834
+"Zintage Enaka",1,"Sawdeth Ternius",55,0.006455487164089476
+"hyprviper1",2,"Zintage Enaka",1,0.7903644866750797
+"hyprviper1",2,"hyprviper1",2,1.0
+"hyprviper1",2,"Machiavelian",3,0.00661956944985259
+"hyprviper1",2,"The Oz",4,0.30744001891029427
+"hyprviper1",2,"Itaer",5,0.004504303616822013
+"hyprviper1",2,"Angry Mustache",6,0.6526341111378398
+"hyprviper1",2,"youngpuke2",7,0.39403641413362134
+"hyprviper1",2,"Ariel Rin",8,0.46024304765372537
+"hyprviper1",2,"Arrowspeeed Bounty",9,0.006152794394120663
+"hyprviper1",2,"Kshal Aideron",10,0.006498910243709134
+"hyprviper1",2,"Mike Azariah",11,0.020719016083254493
+"hyprviper1",2,"Mick Fightmaster",12,0.01310141465417491
+"hyprviper1",2,"Dujek Oneye",13,0.4886136441215195
+"hyprviper1",2,"Gustav Mannfred",14,0.013609317635143689
+"hyprviper1",2,"Limited Liability",15,0.006956414676188131
+"hyprviper1",2,"Kenneth Feld",16,0.012052401746724891
+"hyprviper1",2,"Benzmann",17,0.012192615932598122
+"hyprviper1",2,"en guarde",18,0.00540209400757407
+"hyprviper1",2,"Drake Iddon",19,0.365454613681564
+"hyprviper1",2,"Val Auroris",20,0.0158494020712937
+"hyprviper1",2,"Sven Bauer",21,0.006850423431684557
+"hyprviper1",2,"Gideon Zendikar",22,0.007773459189339256
+"hyprviper1",2,"Viola Terra",23,0.009245777518928364
+"hyprviper1",2,"Rots Mijnwerker",24,0.652909642834076
+"hyprviper1",2,"Janstina Urthadar",25,0.005732261447046487
+"hyprviper1",2,"creatnos",26,0.006386727352811628
+"hyprviper1",2,"Jolange Jogua",27,0.004745719232989162
+"hyprviper1",2,"Angel Maelstorm",28,0.00919033875132918
+"hyprviper1",2,"yilifaerr",29,0.7937985751295337
+"hyprviper1",2,"Styxx",30,0.009159522239319998
+"hyprviper1",2,"Theman JR",31,0.04488055980053084
+"hyprviper1",2,"Bexey Songweaver",32,0.00897016897295042
+"hyprviper1",2,"Orion Sa-Solo",33,0.007832898172323759
+"hyprviper1",2,"Ankh Lai",34,0.00847457627118644
+"hyprviper1",2,"MILINT ARC Trooper",35,0.008503530483638297
+"hyprviper1",2,"ElenHellen",36,0.008270851047383473
+"hyprviper1",2,"ThePuce Moose",37,0.007328137722461324
+"hyprviper1",2,"NeoShocker",38,0.009185115402731984
+"hyprviper1",2,"Teddy Shi",39,0.015957446808510637
+"hyprviper1",2,"Oncepure",40,0.009461372271474335
+"hyprviper1",2,"Fluffy Neko",41,0.007828335779688264
+"hyprviper1",2,"CollegeKid",42,0.007233129321993482
+"hyprviper1",2,"Rose Allari Imahara",43,0.022383451682618093
+"hyprviper1",2,"Kaptin Tiberius",44,0.00827618822416647
+"hyprviper1",2,"ntrosell2",45,0.005626436326174816
+"hyprviper1",2,"Frippyy",46,0.012937230474365118
+"hyprviper1",2,"Aries Wolfblade",47,0.010752688172043012
+"hyprviper1",2,"Kane Carnifex",48,0.008641975308641974
+"hyprviper1",2,"burtus antonioprimus",49,0.010294117647058823
+"hyprviper1",2,"Kakala Asanari",50,0.005767103807868542
+"hyprviper1",2,"Nikita Luciano",51,0.018521450055406046
+"hyprviper1",2,"Coltitus Mando",52,0.006249011232399937
+"hyprviper1",2,"Wheezy1442",53,0.005670020763456317
+"hyprviper1",2,"Aqustin Agustus",54,0.007772020725388601
+"hyprviper1",2,"Sawdeth Ternius",55,0.006725548983064582
+"Machiavelian",3,"Zintage Enaka",1,0.006488368412723532
+"Machiavelian",3,"hyprviper1",2,0.00661956944985259
+"Machiavelian",3,"Machiavelian",3,1.0
+"Machiavelian",3,"The Oz",4,0.13925852751467255
+"Machiavelian",3,"Itaer",5,0.2895280235988201
+"Machiavelian",3,"Angry Mustache",6,0.018100984439504603
+"Machiavelian",3,"youngpuke2",7,0.015708687132593078
+"Machiavelian",3,"Ariel Rin",8,0.016118124436429217
+"Machiavelian",3,"Arrowspeeed Bounty",9,0.015118616807398472
+"Machiavelian",3,"Kshal Aideron",10,0.25576662143826323
+"Machiavelian",3,"Mike Azariah",11,0.3286207727528316
+"Machiavelian",3,"Mick Fightmaster",12,0.21437204702779913
+"Machiavelian",3,"Dujek Oneye",13,0.009665280253515547
+"Machiavelian",3,"Gustav Mannfred",14,0.05074198180947822
+"Machiavelian",3,"Limited Liability",15,0.02157039711191336
+"Machiavelian",3,"Kenneth Feld",16,0.04072169294325942
+"Machiavelian",3,"Benzmann",17,0.03090928337038213
+"Machiavelian",3,"en guarde",18,0.6443461781427668
+"Machiavelian",3,"Drake Iddon",19,0.014858696707778965
+"Machiavelian",3,"Val Auroris",20,0.026808785529715762
+"Machiavelian",3,"Sven Bauer",21,0.5152323771403158
+"Machiavelian",3,"Gideon Zendikar",22,0.4159827213822894
+"Machiavelian",3,"Viola Terra",23,0.022240240935943473
+"Machiavelian",3,"Rots Mijnwerker",24,0.010620513324810699
+"Machiavelian",3,"Janstina Urthadar",25,0.012892741061755147
+"Machiavelian",3,"creatnos",26,0.01844021611463472
+"Machiavelian",3,"Jolange Jogua",27,0.010265183917878529
+"Machiavelian",3,"Angel Maelstorm",28,0.024847807181016274
+"Machiavelian",3,"yilifaerr",29,0.00569850781341793
+"Machiavelian",3,"Styxx",30,0.027529411764705882
+"Machiavelian",3,"Theman JR",31,0.015060625398851309
+"Machiavelian",3,"Bexey Songweaver",32,0.020799655135251643
+"Machiavelian",3,"Orion Sa-Solo",33,0.021584468829133004
+"Machiavelian",3,"Ankh Lai",34,0.4449551827166169
+"Machiavelian",3,"MILINT ARC Trooper",35,0.028439565922414867
+"Machiavelian",3,"ElenHellen",36,0.024833589349718382
+"Machiavelian",3,"ThePuce Moose",37,0.017732847199204507
+"Machiavelian",3,"NeoShocker",38,0.021029258098223615
+"Machiavelian",3,"Teddy Shi",39,0.021840090372787748
+"Machiavelian",3,"Oncepure",40,0.03313508920985556
+"Machiavelian",3,"Fluffy Neko",41,0.02045034265201784
+"Machiavelian",3,"CollegeKid",42,0.019906479625918502
+"Machiavelian",3,"Rose Allari Imahara",43,0.021912350597609563
+"Machiavelian",3,"Kaptin Tiberius",44,0.016918032786885247
+"Machiavelian",3,"ntrosell2",45,0.012839179351422899
+"Machiavelian",3,"Frippyy",46,0.017838125665601706
+"Machiavelian",3,"Aries Wolfblade",47,0.021632758176667526
+"Machiavelian",3,"Kane Carnifex",48,0.023830763349050592
+"Machiavelian",3,"burtus antonioprimus",49,0.01327433628318584
+"Machiavelian",3,"Kakala Asanari",50,0.01276987888362296
+"Machiavelian",3,"Nikita Luciano",51,0.02059436913451512
+"Machiavelian",3,"Coltitus Mando",52,0.016135431821187672
+"Machiavelian",3,"Wheezy1442",53,0.013549771934531794
+"Machiavelian",3,"Aqustin Agustus",54,0.015903482314230874
+"Machiavelian",3,"Sawdeth Ternius",55,0.01609574907139909
+"The Oz",4,"Zintage Enaka",1,0.3141105720345138
+"The Oz",4,"hyprviper1",2,0.30744001891029427
+"The Oz",4,"Machiavelian",3,0.13925852751467255
+"The Oz",4,"The Oz",4,1.0
+"The Oz",4,"Itaer",5,0.20739838972968486
+"The Oz",4,"Angry Mustache",6,0.39841726618705037
+"The Oz",4,"youngpuke2",7,0.5472799502743021
+"The Oz",4,"Ariel Rin",8,0.5380478778767203
+"The Oz",4,"Arrowspeeed Bounty",9,0.13990063791633595
+"The Oz",4,"Kshal Aideron",10,0.3221716884593519
+"The Oz",4,"Mike Azariah",11,0.21355884025014213
+"The Oz",4,"Mick Fightmaster",12,0.38641652541155513
+"The Oz",4,"Dujek Oneye",13,0.49991286668602963
+"The Oz",4,"Gustav Mannfred",14,0.07287753568745305
+"The Oz",4,"Limited Liability",15,0.061439537716341384
+"The Oz",4,"Kenneth Feld",16,0.13143277002204262
+"The Oz",4,"Benzmann",17,0.039443961772371854
+"The Oz",4,"en guarde",18,0.138902619871478
+"The Oz",4,"Drake Iddon",19,0.5639414708442123
+"The Oz",4,"Val Auroris",20,0.14002053086962898
+"The Oz",4,"Sven Bauer",21,0.14794828879782998
+"The Oz",4,"Gideon Zendikar",22,0.14318572218825515
+"The Oz",4,"Viola Terra",23,0.02755581668625147
+"The Oz",4,"Rots Mijnwerker",24,0.37563690984596354
+"The Oz",4,"Janstina Urthadar",25,0.04995120220033715
+"The Oz",4,"creatnos",26,0.029717022975250598
+"The Oz",4,"Jolange Jogua",27,0.09833079518647914
+"The Oz",4,"Angel Maelstorm",28,0.020043883057581688
+"The Oz",4,"yilifaerr",29,0.2982508775614293
+"The Oz",4,"Styxx",30,0.030939716312056737
+"The Oz",4,"Theman JR",31,0.02150473223912783
+"The Oz",4,"Bexey Songweaver",32,0.02980285598658727
+"The Oz",4,"Orion Sa-Solo",33,0.028577369812553842
+"The Oz",4,"Ankh Lai",34,0.14654942712496669
+"The Oz",4,"MILINT ARC Trooper",35,0.023993808049535603
+"The Oz",4,"ElenHellen",36,0.01479456938296545
+"The Oz",4,"ThePuce Moose",37,0.0940479918021121
+"The Oz",4,"NeoShocker",38,0.013757497985615805
+"The Oz",4,"Teddy Shi",39,0.022999134922292157
+"The Oz",4,"Oncepure",40,0.01597303634232122
+"The Oz",4,"Fluffy Neko",41,0.03940094187849182
+"The Oz",4,"CollegeKid",42,0.014533225234963818
+"The Oz",4,"Rose Allari Imahara",43,0.021858086004877177
+"The Oz",4,"Kaptin Tiberius",44,0.013207829075153145
+"The Oz",4,"ntrosell2",45,0.010492018891612363
+"The Oz",4,"Frippyy",46,0.012218861369830194
+"The Oz",4,"Aries Wolfblade",47,0.018373565965583174
+"The Oz",4,"Kane Carnifex",48,0.021696900869669168
+"The Oz",4,"burtus antonioprimus",49,0.00904131882703957
+"The Oz",4,"Kakala Asanari",50,0.007651314418410789
+"The Oz",4,"Nikita Luciano",51,0.017729328262106554
+"The Oz",4,"Coltitus Mando",52,0.014633561233057455
+"The Oz",4,"Wheezy1442",53,0.011128775834658187
+"The Oz",4,"Aqustin Agustus",54,0.01032510535821794
+"The Oz",4,"Sawdeth Ternius",55,0.007933884297520661
+"Itaer",5,"Zintage Enaka",1,0.03714815141621813
+"Itaer",5,"hyprviper1",2,0.004504303616822013
+"Itaer",5,"Machiavelian",3,0.2895280235988201
+"Itaer",5,"The Oz",4,0.20739838972968486
+"Itaer",5,"Itaer",5,1.0
+"Itaer",5,"Angry Mustache",6,0.012739333634856022
+"Itaer",5,"youngpuke2",7,0.07984317062792536
+"Itaer",5,"Ariel Rin",8,0.07112956471429058
+"Itaer",5,"Arrowspeeed Bounty",9,0.007921026186676125
+"Itaer",5,"Kshal Aideron",10,0.3034493637606478
+"Itaer",5,"Mike Azariah",11,0.28401714635639924
+"Itaer",5,"Mick Fightmaster",12,0.25292784284095204
+"Itaer",5,"Dujek Oneye",13,0.06081128997943408
+"Itaer",5,"Gustav Mannfred",14,0.043846570886419085
+"Itaer",5,"Limited Liability",15,0.2676702624376107
+"Itaer",5,"Kenneth Feld",16,0.02374412500762986
+"Itaer",5,"Benzmann",17,0.029503669791439577
+"Itaer",5,"en guarde",18,0.2902581551889933
+"Itaer",5,"Drake Iddon",19,0.17725642459938798
+"Itaer",5,"Val Auroris",20,0.03407925689124797
+"Itaer",5,"Sven Bauer",21,0.34125687119298764
+"Itaer",5,"Gideon Zendikar",22,0.35318623669186855
+"Itaer",5,"Viola Terra",23,0.042066362635634534
+"Itaer",5,"Rots Mijnwerker",24,0.03282619480734248
+"Itaer",5,"Janstina Urthadar",25,0.13418951181361652
+"Itaer",5,"creatnos",26,0.016135288185555815
+"Itaer",5,"Jolange Jogua",27,0.005542941097903032
+"Itaer",5,"Angel Maelstorm",28,0.010602678571428572
+"Itaer",5,"yilifaerr",29,0.003446188236389885
+"Itaer",5,"Styxx",30,0.030939139970235764
+"Itaer",5,"Theman JR",31,0.007568359375
+"Itaer",5,"Bexey Songweaver",32,0.08865914786967419
+"Itaer",5,"Orion Sa-Solo",33,0.015908017010552843
+"Itaer",5,"Ankh Lai",34,0.3378973874724583
+"Itaer",5,"MILINT ARC Trooper",35,0.018402442944390873
+"Itaer",5,"ElenHellen",36,0.01007311129163282
+"Itaer",5,"ThePuce Moose",37,0.2990748658944259
+"Itaer",5,"NeoShocker",38,0.023487128050819123
+"Itaer",5,"Teddy Shi",39,0.011182622687047465
+"Itaer",5,"Oncepure",40,0.05641276838925627
+"Itaer",5,"Fluffy Neko",41,0.09944267515923567
+"Itaer",5,"CollegeKid",42,0.01703204047217538
+"Itaer",5,"Rose Allari Imahara",43,0.013230695212893913
+"Itaer",5,"Kaptin Tiberius",44,0.012887669410493057
+"Itaer",5,"ntrosell2",45,0.01657830514179921
+"Itaer",5,"Frippyy",46,0.008941255118241832
+"Itaer",5,"Aries Wolfblade",47,0.02538155275381553
+"Itaer",5,"Kane Carnifex",48,0.011690209449585971
+"Itaer",5,"burtus antonioprimus",49,0.006937901498929336
+"Itaer",5,"Kakala Asanari",50,0.04025060075523515
+"Itaer",5,"Nikita Luciano",51,0.010969072164948454
+"Itaer",5,"Coltitus Mando",52,0.012117666722380077
+"Itaer",5,"Wheezy1442",53,0.012334206302272535
+"Itaer",5,"Aqustin Agustus",54,0.007832453601225949
+"Itaer",5,"Sawdeth Ternius",55,0.007075270650413435
+"Angry Mustache",6,"Zintage Enaka",1,0.6207721216262385
+"Angry Mustache",6,"hyprviper1",2,0.6526341111378398
+"Angry Mustache",6,"Machiavelian",3,0.018100984439504603
+"Angry Mustache",6,"The Oz",4,0.39841726618705037
+"Angry Mustache",6,"Itaer",5,0.012739333634856022
+"Angry Mustache",6,"Angry Mustache",6,1.0
+"Angry Mustache",6,"youngpuke2",7,0.46128857606930157
+"Angry Mustache",6,"Ariel Rin",8,0.449160633304161
+"Angry Mustache",6,"Arrowspeeed Bounty",9,0.08494379806744232
+"Angry Mustache",6,"Kshal Aideron",10,0.08736976786693475
+"Angry Mustache",6,"Mike Azariah",11,0.06202376075378943
+"Angry Mustache",6,"Mick Fightmaster",12,0.09321945630663472
+"Angry Mustache",6,"Dujek Oneye",13,0.540326855123675
+"Angry Mustache",6,"Gustav Mannfred",14,0.045176857128189335
+"Angry Mustache",6,"Limited Liability",15,0.018146946001770435
+"Angry Mustache",6,"Kenneth Feld",16,0.034518878255487315
+"Angry Mustache",6,"Benzmann",17,0.023934461340758193
+"Angry Mustache",6,"en guarde",18,0.024891329215282545
+"Angry Mustache",6,"Drake Iddon",19,0.42118484404437934
+"Angry Mustache",6,"Val Auroris",20,0.09977606369743718
+"Angry Mustache",6,"Sven Bauer",21,0.01652089407191448
+"Angry Mustache",6,"Gideon Zendikar",22,0.02027302825524967
+"Angry Mustache",6,"Viola Terra",23,0.02011204481792717
+"Angry Mustache",6,"Rots Mijnwerker",24,0.6401687393853065
+"Angry Mustache",6,"Janstina Urthadar",25,0.019427514148889855
+"Angry Mustache",6,"creatnos",26,0.010409088365325423
+"Angry Mustache",6,"Jolange Jogua",27,0.006538248755218025
+"Angry Mustache",6,"Angel Maelstorm",28,0.023092544241369306
+"Angry Mustache",6,"yilifaerr",29,0.5920586291824352
+"Angry Mustache",6,"Styxx",30,0.024020799186118803
+"Angry Mustache",6,"Theman JR",31,0.04232549750496002
+"Angry Mustache",6,"Bexey Songweaver",32,0.024392894007714456
+"Angry Mustache",6,"Orion Sa-Solo",33,0.019410824389129937
+"Angry Mustache",6,"Ankh Lai",34,0.02277702734174857
+"Angry Mustache",6,"MILINT ARC Trooper",35,0.021793311308178288
+"Angry Mustache",6,"ElenHellen",36,0.015355870847200326
+"Angry Mustache",6,"ThePuce Moose",37,0.021595624292719728
+"Angry Mustache",6,"NeoShocker",38,0.013731730315888731
+"Angry Mustache",6,"Teddy Shi",39,0.025873675583913833
+"Angry Mustache",6,"Oncepure",40,0.014685037137835233
+"Angry Mustache",6,"Fluffy Neko",41,0.031100609923622177
+"Angry Mustache",6,"CollegeKid",42,0.014727803947289965
+"Angry Mustache",6,"Rose Allari Imahara",43,0.02745006424483121
+"Angry Mustache",6,"Kaptin Tiberius",44,0.013722938601679877
+"Angry Mustache",6,"ntrosell2",45,0.010498843347766771
+"Angry Mustache",6,"Frippyy",46,0.018418849419925845
+"Angry Mustache",6,"Aries Wolfblade",47,0.01756859980022328
+"Angry Mustache",6,"Kane Carnifex",48,0.025191288993525605
+"Angry Mustache",6,"burtus antonioprimus",49,0.012787103811890188
+"Angry Mustache",6,"Kakala Asanari",50,0.007670974213725143
+"Angry Mustache",6,"Nikita Luciano",51,0.023728813559322035
+"Angry Mustache",6,"Coltitus Mando",52,0.013118841267956784
+"Angry Mustache",6,"Wheezy1442",53,0.010499313965280678
+"Angry Mustache",6,"Aqustin Agustus",54,0.015418102666424814
+"Angry Mustache",6,"Sawdeth Ternius",55,0.009146708388494403
+"youngpuke2",7,"Zintage Enaka",1,0.38415361670395226
+"youngpuke2",7,"hyprviper1",2,0.39403641413362134
+"youngpuke2",7,"Machiavelian",3,0.015708687132593078
+"youngpuke2",7,"The Oz",4,0.5472799502743021
+"youngpuke2",7,"Itaer",5,0.07984317062792536
+"youngpuke2",7,"Angry Mustache",6,0.46128857606930157
+"youngpuke2",7,"youngpuke2",7,1.0
+"youngpuke2",7,"Ariel Rin",8,0.5963179323774119
+"youngpuke2",7,"Arrowspeeed Bounty",9,0.1721132897603486
+"youngpuke2",7,"Kshal Aideron",10,0.19048947580520165
+"youngpuke2",7,"Mike Azariah",11,0.0653707525954222
+"youngpuke2",7,"Mick Fightmaster",12,0.2987933098249814
+"youngpuke2",7,"Dujek Oneye",13,0.6156472684085511
+"youngpuke2",7,"Gustav Mannfred",14,0.04708981344495363
+"youngpuke2",7,"Limited Liability",15,0.03194742206445717
+"youngpuke2",7,"Kenneth Feld",16,0.12920847268673355
+"youngpuke2",7,"Benzmann",17,0.05322617332625673
+"youngpuke2",7,"en guarde",18,0.0246445184916367
+"youngpuke2",7,"Drake Iddon",19,0.6597667932390201
+"youngpuke2",7,"Val Auroris",20,0.16093602566521986
+"youngpuke2",7,"Sven Bauer",21,0.04649088025376685
+"youngpuke2",7,"Gideon Zendikar",22,0.05442176870748299
+"youngpuke2",7,"Viola Terra",23,0.01691836039514023
+"youngpuke2",7,"Rots Mijnwerker",24,0.46272785841512865
+"youngpuke2",7,"Janstina Urthadar",25,0.016249907249387845
+"youngpuke2",7,"creatnos",26,0.03635023470535749
+"youngpuke2",7,"Jolange Jogua",27,0.11015603825453982
+"youngpuke2",7,"Angel Maelstorm",28,0.013140148741859658
+"youngpuke2",7,"yilifaerr",29,0.3848759354076408
+"youngpuke2",7,"Styxx",30,0.01887295003995282
+"youngpuke2",7,"Theman JR",31,0.017615282235966492
+"youngpuke2",7,"Bexey Songweaver",32,0.024080690784576447
+"youngpuke2",7,"Orion Sa-Solo",33,0.03376349955163944
+"youngpuke2",7,"Ankh Lai",34,0.0162644803664487
+"youngpuke2",7,"MILINT ARC Trooper",35,0.019230769230769232
+"youngpuke2",7,"ElenHellen",36,0.007932208636433988
+"youngpuke2",7,"ThePuce Moose",37,0.09543763320449374
+"youngpuke2",7,"NeoShocker",38,0.020400110484157363
+"youngpuke2",7,"Teddy Shi",39,0.016933354046916264
+"youngpuke2",7,"Oncepure",40,0.018408437200383508
+"youngpuke2",7,"Fluffy Neko",41,0.025848202596042345
+"youngpuke2",7,"CollegeKid",42,0.013699170943545204
+"youngpuke2",7,"Rose Allari Imahara",43,0.015198391213550932
+"youngpuke2",7,"Kaptin Tiberius",44,0.009035437690682938
+"youngpuke2",7,"ntrosell2",45,0.008042369556688897
+"youngpuke2",7,"Frippyy",46,0.009192692987625222
+"youngpuke2",7,"Aries Wolfblade",47,0.012314407076887105
+"youngpuke2",7,"Kane Carnifex",48,0.012935052827843381
+"youngpuke2",7,"burtus antonioprimus",49,0.006865624255893325
+"youngpuke2",7,"Kakala Asanari",50,0.005783961231827419
+"youngpuke2",7,"Nikita Luciano",51,0.009875097580015613
+"youngpuke2",7,"Coltitus Mando",52,0.01195814648729447
+"youngpuke2",7,"Wheezy1442",53,0.011059325381151749
+"youngpuke2",7,"Aqustin Agustus",54,0.007401250692630412
+"youngpuke2",7,"Sawdeth Ternius",55,0.006730274357654697
+"Ariel Rin",8,"Zintage Enaka",1,0.4660607404123254
+"Ariel Rin",8,"hyprviper1",2,0.46024304765372537
+"Ariel Rin",8,"Machiavelian",3,0.016118124436429217
+"Ariel Rin",8,"The Oz",4,0.5380478778767203
+"Ariel Rin",8,"Itaer",5,0.07112956471429058
+"Ariel Rin",8,"Angry Mustache",6,0.449160633304161
+"Ariel Rin",8,"youngpuke2",7,0.5963179323774119
+"Ariel Rin",8,"Ariel Rin",8,1.0
+"Ariel Rin",8,"Arrowspeeed Bounty",9,0.13369120654396727
+"Ariel Rin",8,"Kshal Aideron",10,0.18732068166891355
+"Ariel Rin",8,"Mike Azariah",11,0.08819021138559156
+"Ariel Rin",8,"Mick Fightmaster",12,0.2559944318775013
+"Ariel Rin",8,"Dujek Oneye",13,0.55460166187532
+"Ariel Rin",8,"Gustav Mannfred",14,0.04522234318733774
+"Ariel Rin",8,"Limited Liability",15,0.03412202198520698
+"Ariel Rin",8,"Kenneth Feld",16,0.15062926061877294
+"Ariel Rin",8,"Benzmann",17,0.029327548806941432
+"Ariel Rin",8,"en guarde",18,0.019635979155652895
+"Ariel Rin",8,"Drake Iddon",19,0.6051336519738006
+"Ariel Rin",8,"Val Auroris",20,0.1290909090909091
+"Ariel Rin",8,"Sven Bauer",21,0.040583314492425956
+"Ariel Rin",8,"Gideon Zendikar",22,0.027722997572815534
+"Ariel Rin",8,"Viola Terra",23,0.02181410974244121
+"Ariel Rin",8,"Rots Mijnwerker",24,0.45521570610043816
+"Ariel Rin",8,"Janstina Urthadar",25,0.02382310358443382
+"Ariel Rin",8,"creatnos",26,0.015871592539454808
+"Ariel Rin",8,"Jolange Jogua",27,0.1314059842809211
+"Ariel Rin",8,"Angel Maelstorm",28,0.02
+"Ariel Rin",8,"yilifaerr",29,0.45545573647763427
+"Ariel Rin",8,"Styxx",30,0.01814841369421043
+"Ariel Rin",8,"Theman JR",31,0.021367720310972487
+"Ariel Rin",8,"Bexey Songweaver",32,0.03585463858347684
+"Ariel Rin",8,"Orion Sa-Solo",33,0.018040886632518925
+"Ariel Rin",8,"Ankh Lai",34,0.043777262545683183
+"Ariel Rin",8,"MILINT ARC Trooper",35,0.01939566234123527
+"Ariel Rin",8,"ElenHellen",36,0.018147307995000233
+"Ariel Rin",8,"ThePuce Moose",37,0.07207280741133738
+"Ariel Rin",8,"NeoShocker",38,0.011974380395433026
+"Ariel Rin",8,"Teddy Shi",39,0.019488597097442984
+"Ariel Rin",8,"Oncepure",40,0.02013148945817275
+"Ariel Rin",8,"Fluffy Neko",41,0.04010326256286999
+"Ariel Rin",8,"CollegeKid",42,0.01250351222253442
+"Ariel Rin",8,"Rose Allari Imahara",43,0.022481227253881235
+"Ariel Rin",8,"Kaptin Tiberius",44,0.010833178352241027
+"Ariel Rin",8,"ntrosell2",45,0.008858221828523475
+"Ariel Rin",8,"Frippyy",46,0.010179780527667522
+"Ariel Rin",8,"Aries Wolfblade",47,0.018965276809371077
+"Ariel Rin",8,"Kane Carnifex",48,0.015916220704927108
+"Ariel Rin",8,"burtus antonioprimus",49,0.009758870623904495
+"Ariel Rin",8,"Kakala Asanari",50,0.007294522139107001
+"Ariel Rin",8,"Nikita Luciano",51,0.018153817435131604
+"Ariel Rin",8,"Coltitus Mando",52,0.00936233639200708
+"Ariel Rin",8,"Wheezy1442",53,0.009986403488208543
+"Ariel Rin",8,"Aqustin Agustus",54,0.00853129713423831
+"Ariel Rin",8,"Sawdeth Ternius",55,0.010209386964125348
+"Arrowspeeed Bounty",9,"Zintage Enaka",1,0.007293354943273906
+"Arrowspeeed Bounty",9,"hyprviper1",2,0.006152794394120663
+"Arrowspeeed Bounty",9,"Machiavelian",3,0.015118616807398472
+"Arrowspeeed Bounty",9,"The Oz",4,0.13990063791633595
+"Arrowspeeed Bounty",9,"Itaer",5,0.007921026186676125
+"Arrowspeeed Bounty",9,"Angry Mustache",6,0.08494379806744232
+"Arrowspeeed Bounty",9,"youngpuke2",7,0.1721132897603486
+"Arrowspeeed Bounty",9,"Ariel Rin",8,0.13369120654396727
+"Arrowspeeed Bounty",9,"Arrowspeeed Bounty",9,1.0
+"Arrowspeeed Bounty",9,"Kshal Aideron",10,0.28745880984686956
+"Arrowspeeed Bounty",9,"Mike Azariah",11,0.025926869664925467
+"Arrowspeeed Bounty",9,"Mick Fightmaster",12,0.24627595329844137
+"Arrowspeeed Bounty",9,"Dujek Oneye",13,0.21203618596100818
+"Arrowspeeed Bounty",9,"Gustav Mannfred",14,0.02629016553067186
+"Arrowspeeed Bounty",9,"Limited Liability",15,0.02611482982935797
+"Arrowspeeed Bounty",9,"Kenneth Feld",16,0.3829984903031007
+"Arrowspeeed Bounty",9,"Benzmann",17,0.030001107051920734
+"Arrowspeeed Bounty",9,"en guarde",18,0.028618152085036794
+"Arrowspeeed Bounty",9,"Drake Iddon",19,0.16069082034916463
+"Arrowspeeed Bounty",9,"Val Auroris",20,0.12845722686759165
+"Arrowspeeed Bounty",9,"Sven Bauer",21,0.01476809476194139
+"Arrowspeeed Bounty",9,"Gideon Zendikar",22,0.013106369375849117
+"Arrowspeeed Bounty",9,"Viola Terra",23,0.02856442319480201
+"Arrowspeeed Bounty",9,"Rots Mijnwerker",24,0.0835308056872038
+"Arrowspeeed Bounty",9,"Janstina Urthadar",25,0.02236495010895745
+"Arrowspeeed Bounty",9,"creatnos",26,0.017418159357628166
+"Arrowspeeed Bounty",9,"Jolange Jogua",27,0.45816049206122156
+"Arrowspeeed Bounty",9,"Angel Maelstorm",28,0.033187888404072455
+"Arrowspeeed Bounty",9,"yilifaerr",29,0.00602990834539315
+"Arrowspeeed Bounty",9,"Styxx",30,0.023052268244575937
+"Arrowspeeed Bounty",9,"Theman JR",31,0.01334411645774363
+"Arrowspeeed Bounty",9,"Bexey Songweaver",32,0.03516609392898053
+"Arrowspeeed Bounty",9,"Orion Sa-Solo",33,0.02031230163767932
+"Arrowspeeed Bounty",9,"Ankh Lai",34,0.01573090117981759
+"Arrowspeeed Bounty",9,"MILINT ARC Trooper",35,0.020648196549921588
+"Arrowspeeed Bounty",9,"ElenHellen",36,0.03048863481693208
+"Arrowspeeed Bounty",9,"ThePuce Moose",37,0.014384793218597482
+"Arrowspeeed Bounty",9,"NeoShocker",38,0.014568444200109951
+"Arrowspeeed Bounty",9,"Teddy Shi",39,0.020121789780248873
+"Arrowspeeed Bounty",9,"Oncepure",40,0.032468362520772086
+"Arrowspeeed Bounty",9,"Fluffy Neko",41,0.040474528960223306
+"Arrowspeeed Bounty",9,"CollegeKid",42,0.018246110325318247
+"Arrowspeeed Bounty",9,"Rose Allari Imahara",43,0.028446679015612597
+"Arrowspeeed Bounty",9,"Kaptin Tiberius",44,0.015963353692393115
+"Arrowspeeed Bounty",9,"ntrosell2",45,0.013054463784390792
+"Arrowspeeed Bounty",9,"Frippyy",46,0.019943422913719942
+"Arrowspeeed Bounty",9,"Aries Wolfblade",47,0.023754266211604095
+"Arrowspeeed Bounty",9,"Kane Carnifex",48,0.029256399837464444
+"Arrowspeeed Bounty",9,"burtus antonioprimus",49,0.01576775714706749
+"Arrowspeeed Bounty",9,"Kakala Asanari",50,0.011426978818283166
+"Arrowspeeed Bounty",9,"Nikita Luciano",51,0.018034140969162997
+"Arrowspeeed Bounty",9,"Coltitus Mando",52,0.013706293706293707
+"Arrowspeeed Bounty",9,"Wheezy1442",53,0.012226329257890247
+"Arrowspeeed Bounty",9,"Aqustin Agustus",54,0.021080368906455864
+"Arrowspeeed Bounty",9,"Sawdeth Ternius",55,0.013413033969966468
+"Kshal Aideron",10,"Zintage Enaka",1,0.022755465963715305
+"Kshal Aideron",10,"hyprviper1",2,0.006498910243709134
+"Kshal Aideron",10,"Machiavelian",3,0.25576662143826323
+"Kshal Aideron",10,"The Oz",4,0.3221716884593519
+"Kshal Aideron",10,"Itaer",5,0.3034493637606478
+"Kshal Aideron",10,"Angry Mustache",6,0.08736976786693475
+"Kshal Aideron",10,"youngpuke2",7,0.19048947580520165
+"Kshal Aideron",10,"Ariel Rin",8,0.18732068166891355
+"Kshal Aideron",10,"Arrowspeeed Bounty",9,0.28745880984686956
+"Kshal Aideron",10,"Kshal Aideron",10,1.0
+"Kshal Aideron",10,"Mike Azariah",11,0.30969513869815984
+"Kshal Aideron",10,"Mick Fightmaster",12,0.510995786661186
+"Kshal Aideron",10,"Dujek Oneye",13,0.2110647412933486
+"Kshal Aideron",10,"Gustav Mannfred",14,0.05403379274551641
+"Kshal Aideron",10,"Limited Liability",15,0.06114308507607271
+"Kshal Aideron",10,"Kenneth Feld",16,0.20607734806629835
+"Kshal Aideron",10,"Benzmann",17,0.03353750985505489
+"Kshal Aideron",10,"en guarde",18,0.2770584538026398
+"Kshal Aideron",10,"Drake Iddon",19,0.22176565413914087
+"Kshal Aideron",10,"Val Auroris",20,0.10218576226394319
+"Kshal Aideron",10,"Sven Bauer",21,0.28411042944785275
+"Kshal Aideron",10,"Gideon Zendikar",22,0.2575458913391647
+"Kshal Aideron",10,"Viola Terra",23,0.031399884888405706
+"Kshal Aideron",10,"Rots Mijnwerker",24,0.08701759862644867
+"Kshal Aideron",10,"Janstina Urthadar",25,0.02568524792115799
+"Kshal Aideron",10,"creatnos",26,0.02338394515984368
+"Kshal Aideron",10,"Jolange Jogua",27,0.1872351694915254
+"Kshal Aideron",10,"Angel Maelstorm",28,0.023359873659274857
+"Kshal Aideron",10,"yilifaerr",29,0.00659467480009892
+"Kshal Aideron",10,"Styxx",30,0.021074748503756527
+"Kshal Aideron",10,"Theman JR",31,0.007994714238519987
+"Kshal Aideron",10,"Bexey Songweaver",32,0.06090311156083987
+"Kshal Aideron",10,"Orion Sa-Solo",33,0.022491573761991186
+"Kshal Aideron",10,"Ankh Lai",34,0.30025511872833127
+"Kshal Aideron",10,"MILINT ARC Trooper",35,0.023298670527839935
+"Kshal Aideron",10,"ElenHellen",36,0.025247789981248325
+"Kshal Aideron",10,"ThePuce Moose",37,0.12106468231253578
+"Kshal Aideron",10,"NeoShocker",38,0.01585595270088686
+"Kshal Aideron",10,"Teddy Shi",39,0.023594909862142098
+"Kshal Aideron",10,"Oncepure",40,0.021706828606499126
+"Kshal Aideron",10,"Fluffy Neko",41,0.0616608335984728
+"Kshal Aideron",10,"CollegeKid",42,0.009802595997836668
+"Kshal Aideron",10,"Rose Allari Imahara",43,0.025249520787890806
+"Kshal Aideron",10,"Kaptin Tiberius",44,0.01626619870410367
+"Kshal Aideron",10,"ntrosell2",45,0.013005486689697216
+"Kshal Aideron",10,"Frippyy",46,0.0119821283509342
+"Kshal Aideron",10,"Aries Wolfblade",47,0.013570145679505088
+"Kshal Aideron",10,"Kane Carnifex",48,0.02843156977134044
+"Kshal Aideron",10,"burtus antonioprimus",49,0.006951135581555403
+"Kshal Aideron",10,"Kakala Asanari",50,0.019789187351241074
+"Kshal Aideron",10,"Nikita Luciano",51,0.015501274996644745
+"Kshal Aideron",10,"Coltitus Mando",52,0.012635988918170147
+"Kshal Aideron",10,"Wheezy1442",53,0.010473340587595211
+"Kshal Aideron",10,"Aqustin Agustus",54,0.012107037215381441
+"Kshal Aideron",10,"Sawdeth Ternius",55,0.01094287680660702
+"Mike Azariah",11,"Zintage Enaka",1,0.017131007122892436
+"Mike Azariah",11,"hyprviper1",2,0.020719016083254493
+"Mike Azariah",11,"Machiavelian",3,0.3286207727528316
+"Mike Azariah",11,"The Oz",4,0.21355884025014213
+"Mike Azariah",11,"Itaer",5,0.28401714635639924
+"Mike Azariah",11,"Angry Mustache",6,0.06202376075378943
+"Mike Azariah",11,"youngpuke2",7,0.0653707525954222
+"Mike Azariah",11,"Ariel Rin",8,0.08819021138559156
+"Mike Azariah",11,"Arrowspeeed Bounty",9,0.025926869664925467
+"Mike Azariah",11,"Kshal Aideron",10,0.30969513869815984
+"Mike Azariah",11,"Mike Azariah",11,1.0
+"Mike Azariah",11,"Mick Fightmaster",12,0.27002878983421025
+"Mike Azariah",11,"Dujek Oneye",13,0.04475297511720159
+"Mike Azariah",11,"Gustav Mannfred",14,0.10266188696514378
+"Mike Azariah",11,"Limited Liability",15,0.029491549001878
+"Mike Azariah",11,"Kenneth Feld",16,0.05880778751588948
+"Mike Azariah",11,"Benzmann",17,0.049868974827285
+"Mike Azariah",11,"en guarde",18,0.3084549492385787
+"Mike Azariah",11,"Drake Iddon",19,0.07106177546815903
+"Mike Azariah",11,"Val Auroris",20,0.06678082191780822
+"Mike Azariah",11,"Sven Bauer",21,0.304613038505528
+"Mike Azariah",11,"Gideon Zendikar",22,0.32202039515615044
+"Mike Azariah",11,"Viola Terra",23,0.04049712546499831
+"Mike Azariah",11,"Rots Mijnwerker",24,0.055924087334709834
+"Mike Azariah",11,"Janstina Urthadar",25,0.0338409475465313
+"Mike Azariah",11,"creatnos",26,0.03324264580853596
+"Mike Azariah",11,"Jolange Jogua",27,0.011903908210828254
+"Mike Azariah",11,"Angel Maelstorm",28,0.03493603881782091
+"Mike Azariah",11,"yilifaerr",29,0.012284408628568621
+"Mike Azariah",11,"Styxx",30,0.04187633262260128
+"Mike Azariah",11,"Theman JR",31,0.019707508471553416
+"Mike Azariah",11,"Bexey Songweaver",32,0.04240766073871409
+"Mike Azariah",11,"Orion Sa-Solo",33,0.03614457831325301
+"Mike Azariah",11,"Ankh Lai",34,0.3909728839989604
+"Mike Azariah",11,"MILINT ARC Trooper",35,0.05696259576385759
+"Mike Azariah",11,"ElenHellen",36,0.026080743122543767
+"Mike Azariah",11,"ThePuce Moose",37,0.07172479434359916
+"Mike Azariah",11,"NeoShocker",38,0.026342083749659368
+"Mike Azariah",11,"Teddy Shi",39,0.05023945061895726
+"Mike Azariah",11,"Oncepure",40,0.027147383745825128
+"Mike Azariah",11,"Fluffy Neko",41,0.03159836394257759
+"Mike Azariah",11,"CollegeKid",42,0.022631094756209752
+"Mike Azariah",11,"Rose Allari Imahara",43,0.03938828131946297
+"Mike Azariah",11,"Kaptin Tiberius",44,0.02546317422652186
+"Mike Azariah",11,"ntrosell2",45,0.02268760907504363
+"Mike Azariah",11,"Frippyy",46,0.02317028319235013
+"Mike Azariah",11,"Aries Wolfblade",47,0.024775583482944345
+"Mike Azariah",11,"Kane Carnifex",48,0.035425283222442004
+"Mike Azariah",11,"burtus antonioprimus",49,0.016072939186013723
+"Mike Azariah",11,"Kakala Asanari",50,0.016648471615720525
+"Mike Azariah",11,"Nikita Luciano",51,0.031740240788033565
+"Mike Azariah",11,"Coltitus Mando",52,0.021967963386727688
+"Mike Azariah",11,"Wheezy1442",53,0.020904634168902043
+"Mike Azariah",11,"Aqustin Agustus",54,0.017753690898897403
+"Mike Azariah",11,"Sawdeth Ternius",55,0.02296686746987952
+"Mick Fightmaster",12,"Zintage Enaka",1,0.01490275322051023
+"Mick Fightmaster",12,"hyprviper1",2,0.01310141465417491
+"Mick Fightmaster",12,"Machiavelian",3,0.21437204702779913
+"Mick Fightmaster",12,"The Oz",4,0.38641652541155513
+"Mick Fightmaster",12,"Itaer",5,0.25292784284095204
+"Mick Fightmaster",12,"Angry Mustache",6,0.09321945630663472
+"Mick Fightmaster",12,"youngpuke2",7,0.2987933098249814
+"Mick Fightmaster",12,"Ariel Rin",8,0.2559944318775013
+"Mick Fightmaster",12,"Arrowspeeed Bounty",9,0.24627595329844137
+"Mick Fightmaster",12,"Kshal Aideron",10,0.510995786661186
+"Mick Fightmaster",12,"Mike Azariah",11,0.27002878983421025
+"Mick Fightmaster",12,"Mick Fightmaster",12,1.0
+"Mick Fightmaster",12,"Dujek Oneye",13,0.22312732424296086
+"Mick Fightmaster",12,"Gustav Mannfred",14,0.056071315539613885
+"Mick Fightmaster",12,"Limited Liability",15,0.013637947339604798
+"Mick Fightmaster",12,"Kenneth Feld",16,0.182682738029415
+"Mick Fightmaster",12,"Benzmann",17,0.0446557668779891
+"Mick Fightmaster",12,"en guarde",18,0.22554302538747847
+"Mick Fightmaster",12,"Drake Iddon",19,0.30083081084562374
+"Mick Fightmaster",12,"Val Auroris",20,0.2234778208804183
+"Mick Fightmaster",12,"Sven Bauer",21,0.2556903140056488
+"Mick Fightmaster",12,"Gideon Zendikar",22,0.24911212582445458
+"Mick Fightmaster",12,"Viola Terra",23,0.024772062618269395
+"Mick Fightmaster",12,"Rots Mijnwerker",24,0.09633690136671728
+"Mick Fightmaster",12,"Janstina Urthadar",25,0.01990463517409625
+"Mick Fightmaster",12,"creatnos",26,0.03505287141438336
+"Mick Fightmaster",12,"Jolange Jogua",27,0.16869616869616869
+"Mick Fightmaster",12,"Angel Maelstorm",28,0.015083930038736941
+"Mick Fightmaster",12,"yilifaerr",29,0.005147708501402174
+"Mick Fightmaster",12,"Styxx",30,0.017220664797757308
+"Mick Fightmaster",12,"Theman JR",31,0.011664583705290723
+"Mick Fightmaster",12,"Bexey Songweaver",32,0.01680210849989018
+"Mick Fightmaster",12,"Orion Sa-Solo",33,0.03522042311783477
+"Mick Fightmaster",12,"Ankh Lai",34,0.2527523467377448
+"Mick Fightmaster",12,"MILINT ARC Trooper",35,0.022591519309243597
+"Mick Fightmaster",12,"ElenHellen",36,0.01355206847360913
+"Mick Fightmaster",12,"ThePuce Moose",37,0.09751453712756651
+"Mick Fightmaster",12,"NeoShocker",38,0.014193781199254225
+"Mick Fightmaster",12,"Teddy Shi",39,0.01602033577677938
+"Mick Fightmaster",12,"Oncepure",40,0.008558791429720259
+"Mick Fightmaster",12,"Fluffy Neko",41,0.032614177640795744
+"Mick Fightmaster",12,"CollegeKid",42,0.010725322668605708
+"Mick Fightmaster",12,"Rose Allari Imahara",43,0.013510338345864662
+"Mick Fightmaster",12,"Kaptin Tiberius",44,0.021462880768529216
+"Mick Fightmaster",12,"ntrosell2",45,0.020535386872020535
+"Mick Fightmaster",12,"Frippyy",46,0.009006830683672853
+"Mick Fightmaster",12,"Aries Wolfblade",47,0.012039575634759804
+"Mick Fightmaster",12,"Kane Carnifex",48,0.021836673646425366
+"Mick Fightmaster",12,"burtus antonioprimus",49,0.005959329114701727
+"Mick Fightmaster",12,"Kakala Asanari",50,0.007099452499849588
+"Mick Fightmaster",12,"Nikita Luciano",51,0.011023244668104481
+"Mick Fightmaster",12,"Coltitus Mando",52,0.012896585129571324
+"Mick Fightmaster",12,"Wheezy1442",53,0.02754394652141619
+"Mick Fightmaster",12,"Aqustin Agustus",54,0.011183482856089468
+"Mick Fightmaster",12,"Sawdeth Ternius",55,0.010453818718484812
+"Dujek Oneye",13,"Zintage Enaka",1,0.4715139628280564
+"Dujek Oneye",13,"hyprviper1",2,0.4886136441215195
+"Dujek Oneye",13,"Machiavelian",3,0.009665280253515547
+"Dujek Oneye",13,"The Oz",4,0.49991286668602963
+"Dujek Oneye",13,"Itaer",5,0.06081128997943408
+"Dujek Oneye",13,"Angry Mustache",6,0.540326855123675
+"Dujek Oneye",13,"youngpuke2",7,0.6156472684085511
+"Dujek Oneye",13,"Ariel Rin",8,0.55460166187532
+"Dujek Oneye",13,"Arrowspeeed Bounty",9,0.21203618596100818
+"Dujek Oneye",13,"Kshal Aideron",10,0.2110647412933486
+"Dujek Oneye",13,"Mike Azariah",11,0.04475297511720159
+"Dujek Oneye",13,"Mick Fightmaster",12,0.22312732424296086
+"Dujek Oneye",13,"Dujek Oneye",13,1.0
+"Dujek Oneye",13,"Gustav Mannfred",14,0.035663716814159294
+"Dujek Oneye",13,"Limited Liability",15,0.026228233159054575
+"Dujek Oneye",13,"Kenneth Feld",16,0.1480005560446689
+"Dujek Oneye",13,"Benzmann",17,0.03308480894687791
+"Dujek Oneye",13,"en guarde",18,0.018736488109536393
+"Dujek Oneye",13,"Drake Iddon",19,0.5969724603319351
+"Dujek Oneye",13,"Val Auroris",20,0.09192357794181502
+"Dujek Oneye",13,"Sven Bauer",21,0.031100383808807818
+"Dujek Oneye",13,"Gideon Zendikar",22,0.03795359421349913
+"Dujek Oneye",13,"Viola Terra",23,0.02045127220355257
+"Dujek Oneye",13,"Rots Mijnwerker",24,0.5554560030180138
+"Dujek Oneye",13,"Janstina Urthadar",25,0.03125
+"Dujek Oneye",13,"creatnos",26,0.02312727272727273
+"Dujek Oneye",13,"Jolange Jogua",27,0.14011668149906062
+"Dujek Oneye",13,"Angel Maelstorm",28,0.011246943765281174
+"Dujek Oneye",13,"yilifaerr",29,0.4934802385525119
+"Dujek Oneye",13,"Styxx",30,0.012776342233706574
+"Dujek Oneye",13,"Theman JR",31,0.021344824130674418
+"Dujek Oneye",13,"Bexey Songweaver",32,0.01280865624710996
+"Dujek Oneye",13,"Orion Sa-Solo",33,0.027628926798092524
+"Dujek Oneye",13,"Ankh Lai",34,0.014113639128847793
+"Dujek Oneye",13,"MILINT ARC Trooper",35,0.012239302849309703
+"Dujek Oneye",13,"ElenHellen",36,0.01018239335672977
+"Dujek Oneye",13,"ThePuce Moose",37,0.06714742205717247
+"Dujek Oneye",13,"NeoShocker",38,0.007714129298760763
+"Dujek Oneye",13,"Teddy Shi",39,0.013249273506378367
+"Dujek Oneye",13,"Oncepure",40,0.008135168961201502
+"Dujek Oneye",13,"Fluffy Neko",41,0.02475922010805732
+"Dujek Oneye",13,"CollegeKid",42,0.0077850326469111
+"Dujek Oneye",13,"Rose Allari Imahara",43,0.01845546508758944
+"Dujek Oneye",13,"Kaptin Tiberius",44,0.008796041781198461
+"Dujek Oneye",13,"ntrosell2",45,0.007929736511919699
+"Dujek Oneye",13,"Frippyy",46,0.010163522012578616
+"Dujek Oneye",13,"Aries Wolfblade",47,0.01072013499429252
+"Dujek Oneye",13,"Kane Carnifex",48,0.022943117064880537
+"Dujek Oneye",13,"burtus antonioprimus",49,0.006622853940598095
+"Dujek Oneye",13,"Kakala Asanari",50,0.00549615269311482
+"Dujek Oneye",13,"Nikita Luciano",51,0.01057409347099606
+"Dujek Oneye",13,"Coltitus Mando",52,0.013555051650289746
+"Dujek Oneye",13,"Wheezy1442",53,0.008528031488116265
+"Dujek Oneye",13,"Aqustin Agustus",54,0.011160941800020386
+"Dujek Oneye",13,"Sawdeth Ternius",55,0.008139594037747368
+"Gustav Mannfred",14,"Zintage Enaka",1,0.015595124282982792
+"Gustav Mannfred",14,"hyprviper1",2,0.013609317635143689
+"Gustav Mannfred",14,"Machiavelian",3,0.05074198180947822
+"Gustav Mannfred",14,"The Oz",4,0.07287753568745305
+"Gustav Mannfred",14,"Itaer",5,0.043846570886419085
+"Gustav Mannfred",14,"Angry Mustache",6,0.045176857128189335
+"Gustav Mannfred",14,"youngpuke2",7,0.04708981344495363
+"Gustav Mannfred",14,"Ariel Rin",8,0.04522234318733774
+"Gustav Mannfred",14,"Arrowspeeed Bounty",9,0.02629016553067186
+"Gustav Mannfred",14,"Kshal Aideron",10,0.05403379274551641
+"Gustav Mannfred",14,"Mike Azariah",11,0.10266188696514378
+"Gustav Mannfred",14,"Mick Fightmaster",12,0.056071315539613885
+"Gustav Mannfred",14,"Dujek Oneye",13,0.035663716814159294
+"Gustav Mannfred",14,"Gustav Mannfred",14,1.0
+"Gustav Mannfred",14,"Limited Liability",15,0.03449820788530466
+"Gustav Mannfred",14,"Kenneth Feld",16,0.04373919235072729
+"Gustav Mannfred",14,"Benzmann",17,0.06659236556143773
+"Gustav Mannfred",14,"en guarde",18,0.04064731080437887
+"Gustav Mannfred",14,"Drake Iddon",19,0.04424305134334749
+"Gustav Mannfred",14,"Val Auroris",20,0.08732999284180387
+"Gustav Mannfred",14,"Sven Bauer",21,0.056557152008785576
+"Gustav Mannfred",14,"Gideon Zendikar",22,0.06447254126049609
+"Gustav Mannfred",14,"Viola Terra",23,0.0582326165437137
+"Gustav Mannfred",14,"Rots Mijnwerker",24,0.025596890616324263
+"Gustav Mannfred",14,"Janstina Urthadar",25,0.031369765791341375
+"Gustav Mannfred",14,"creatnos",26,0.03050211168465509
+"Gustav Mannfred",14,"Jolange Jogua",27,0.015808867229288006
+"Gustav Mannfred",14,"Angel Maelstorm",28,0.053836950948555805
+"Gustav Mannfred",14,"yilifaerr",29,0.011435490380734561
+"Gustav Mannfred",14,"Styxx",30,0.06364944826483288
+"Gustav Mannfred",14,"Theman JR",31,0.02982456140350877
+"Gustav Mannfred",14,"Bexey Songweaver",32,0.04482466063348416
+"Gustav Mannfred",14,"Orion Sa-Solo",33,0.04823625922887613
+"Gustav Mannfred",14,"Ankh Lai",34,0.04554514650189356
+"Gustav Mannfred",14,"MILINT ARC Trooper",35,0.0735191637630662
+"Gustav Mannfred",14,"ElenHellen",36,0.04887550911988667
+"Gustav Mannfred",14,"ThePuce Moose",37,0.041032969276309075
+"Gustav Mannfred",14,"NeoShocker",38,0.041220265117123664
+"Gustav Mannfred",14,"Teddy Shi",39,0.04286452057152694
+"Gustav Mannfred",14,"Oncepure",40,0.038778477944740666
+"Gustav Mannfred",14,"Fluffy Neko",41,0.04510955176858084
+"Gustav Mannfred",14,"CollegeKid",42,0.03737619136609979
+"Gustav Mannfred",14,"Rose Allari Imahara",43,0.05603448275862069
+"Gustav Mannfred",14,"Kaptin Tiberius",44,0.04380636848886435
+"Gustav Mannfred",14,"ntrosell2",45,0.035900297619047616
+"Gustav Mannfred",14,"Frippyy",46,0.04254122938530735
+"Gustav Mannfred",14,"Aries Wolfblade",47,0.042959001782531196
+"Gustav Mannfred",14,"Kane Carnifex",48,0.05833185132491552
+"Gustav Mannfred",14,"burtus antonioprimus",49,0.03146509341199607
+"Gustav Mannfred",14,"Kakala Asanari",50,0.026908292147171883
+"Gustav Mannfred",14,"Nikita Luciano",51,0.04244512969345184
+"Gustav Mannfred",14,"Coltitus Mando",52,0.04692465881473173
+"Gustav Mannfred",14,"Wheezy1442",53,0.029926595143986448
+"Gustav Mannfred",14,"Aqustin Agustus",54,0.03698656803581857
+"Gustav Mannfred",14,"Sawdeth Ternius",55,0.046575883165581214
+"Limited Liability",15,"Zintage Enaka",1,0.05033313143549364
+"Limited Liability",15,"hyprviper1",2,0.006956414676188131
+"Limited Liability",15,"Machiavelian",3,0.02157039711191336
+"Limited Liability",15,"The Oz",4,0.061439537716341384
+"Limited Liability",15,"Itaer",5,0.2676702624376107
+"Limited Liability",15,"Angry Mustache",6,0.018146946001770435
+"Limited Liability",15,"youngpuke2",7,0.03194742206445717
+"Limited Liability",15,"Ariel Rin",8,0.03412202198520698
+"Limited Liability",15,"Arrowspeeed Bounty",9,0.02611482982935797
+"Limited Liability",15,"Kshal Aideron",10,0.06114308507607271
+"Limited Liability",15,"Mike Azariah",11,0.029491549001878
+"Limited Liability",15,"Mick Fightmaster",12,0.013637947339604798
+"Limited Liability",15,"Dujek Oneye",13,0.026228233159054575
+"Limited Liability",15,"Gustav Mannfred",14,0.03449820788530466
+"Limited Liability",15,"Limited Liability",15,1.0
+"Limited Liability",15,"Kenneth Feld",16,0.015318334131163236
+"Limited Liability",15,"Benzmann",17,0.041666666666666664
+"Limited Liability",15,"en guarde",18,0.01558137440331442
+"Limited Liability",15,"Drake Iddon",19,0.10981597391402122
+"Limited Liability",15,"Val Auroris",20,0.027905234572525518
+"Limited Liability",15,"Sven Bauer",21,0.019552354000514537
+"Limited Liability",15,"Gideon Zendikar",22,0.017809199928405225
+"Limited Liability",15,"Viola Terra",23,0.07493932038834951
+"Limited Liability",15,"Rots Mijnwerker",24,0.00971342706879897
+"Limited Liability",15,"Janstina Urthadar",25,0.20259165613147914
+"Limited Liability",15,"creatnos",26,0.019261873253933245
+"Limited Liability",15,"Jolange Jogua",27,0.011031502331399977
+"Limited Liability",15,"Angel Maelstorm",28,0.04628736740597879
+"Limited Liability",15,"yilifaerr",29,0.007731621019525619
+"Limited Liability",15,"Styxx",30,0.06161784792836546
+"Limited Liability",15,"Theman JR",31,0.015359477124183006
+"Limited Liability",15,"Bexey Songweaver",32,0.19262800740283775
+"Limited Liability",15,"Orion Sa-Solo",33,0.027625152625152624
+"Limited Liability",15,"Ankh Lai",34,0.022073389302895954
+"Limited Liability",15,"MILINT ARC Trooper",35,0.03237067597588067
+"Limited Liability",15,"ElenHellen",36,0.04397801099450275
+"Limited Liability",15,"ThePuce Moose",37,0.2174364896073903
+"Limited Liability",15,"NeoShocker",38,0.02668918918918919
+"Limited Liability",15,"Teddy Shi",39,0.031083910452568853
+"Limited Liability",15,"Oncepure",40,0.1487449118046133
+"Limited Liability",15,"Fluffy Neko",41,0.2042231326820044
+"Limited Liability",15,"CollegeKid",42,0.046697443181818184
+"Limited Liability",15,"Rose Allari Imahara",43,0.041539204636934474
+"Limited Liability",15,"Kaptin Tiberius",44,0.02452733776188043
+"Limited Liability",15,"ntrosell2",45,0.015979381443298968
+"Limited Liability",15,"Frippyy",46,0.03106999476348403
+"Limited Liability",15,"Aries Wolfblade",47,0.047160243407707914
+"Limited Liability",15,"Kane Carnifex",48,0.025077348965966455
+"Limited Liability",15,"burtus antonioprimus",49,0.020262869660460023
+"Limited Liability",15,"Kakala Asanari",50,0.08868166026695923
+"Limited Liability",15,"Nikita Luciano",51,0.0308004738534439
+"Limited Liability",15,"Coltitus Mando",52,0.023944875107665804
+"Limited Liability",15,"Wheezy1442",53,0.019814132912502194
+"Limited Liability",15,"Aqustin Agustus",54,0.01813285457809695
+"Limited Liability",15,"Sawdeth Ternius",55,0.02189648932319942
+"Kenneth Feld",16,"Zintage Enaka",1,0.009398186314921682
+"Kenneth Feld",16,"hyprviper1",2,0.012052401746724891
+"Kenneth Feld",16,"Machiavelian",3,0.04072169294325942
+"Kenneth Feld",16,"The Oz",4,0.13143277002204262
+"Kenneth Feld",16,"Itaer",5,0.02374412500762986
+"Kenneth Feld",16,"Angry Mustache",6,0.034518878255487315
+"Kenneth Feld",16,"youngpuke2",7,0.12920847268673355
+"Kenneth Feld",16,"Ariel Rin",8,0.15062926061877294
+"Kenneth Feld",16,"Arrowspeeed Bounty",9,0.3829984903031007
+"Kenneth Feld",16,"Kshal Aideron",10,0.20607734806629835
+"Kenneth Feld",16,"Mike Azariah",11,0.05880778751588948
+"Kenneth Feld",16,"Mick Fightmaster",12,0.182682738029415
+"Kenneth Feld",16,"Dujek Oneye",13,0.1480005560446689
+"Kenneth Feld",16,"Gustav Mannfred",14,0.04373919235072729
+"Kenneth Feld",16,"Limited Liability",15,0.015318334131163236
+"Kenneth Feld",16,"Kenneth Feld",16,1.0
+"Kenneth Feld",16,"Benzmann",17,0.02289470701575428
+"Kenneth Feld",16,"en guarde",18,0.03753373819163293
+"Kenneth Feld",16,"Drake Iddon",19,0.11977776965532366
+"Kenneth Feld",16,"Val Auroris",20,0.027568493150684933
+"Kenneth Feld",16,"Sven Bauer",21,0.03776920604307297
+"Kenneth Feld",16,"Gideon Zendikar",22,0.03067586665558234
+"Kenneth Feld",16,"Viola Terra",23,0.019225936164865544
+"Kenneth Feld",16,"Rots Mijnwerker",24,0.013175365131242978
+"Kenneth Feld",16,"Janstina Urthadar",25,0.018518518518518517
+"Kenneth Feld",16,"creatnos",26,0.07906156767019257
+"Kenneth Feld",16,"Jolange Jogua",27,0.5451145395044413
+"Kenneth Feld",16,"Angel Maelstorm",28,0.022110689093868693
+"Kenneth Feld",16,"yilifaerr",29,0.004162330905306972
+"Kenneth Feld",16,"Styxx",30,0.06947593012401654
+"Kenneth Feld",16,"Theman JR",31,0.01628527305910431
+"Kenneth Feld",16,"Bexey Songweaver",32,0.0211029497493296
+"Kenneth Feld",16,"Orion Sa-Solo",33,0.025647805393971445
+"Kenneth Feld",16,"Ankh Lai",34,0.027907782977985785
+"Kenneth Feld",16,"MILINT ARC Trooper",35,0.031078860898138008
+"Kenneth Feld",16,"ElenHellen",36,0.022004204625087596
+"Kenneth Feld",16,"ThePuce Moose",37,0.0211864406779661
+"Kenneth Feld",16,"NeoShocker",38,0.015875286041189932
+"Kenneth Feld",16,"Teddy Shi",39,0.0341130604288499
+"Kenneth Feld",16,"Oncepure",40,0.021081576535288724
+"Kenneth Feld",16,"Fluffy Neko",41,0.013565664834522278
+"Kenneth Feld",16,"CollegeKid",42,0.015258215962441314
+"Kenneth Feld",16,"Rose Allari Imahara",43,0.018344883815735832
+"Kenneth Feld",16,"Kaptin Tiberius",44,0.018371184724432228
+"Kenneth Feld",16,"ntrosell2",45,0.011665208515602217
+"Kenneth Feld",16,"Frippyy",46,0.01836344939033348
+"Kenneth Feld",16,"Aries Wolfblade",47,0.018335684062059238
+"Kenneth Feld",16,"Kane Carnifex",48,0.024779504409911803
+"Kenneth Feld",16,"burtus antonioprimus",49,0.016287645974185617
+"Kenneth Feld",16,"Kakala Asanari",50,0.013652868554829339
+"Kenneth Feld",16,"Nikita Luciano",51,0.031005505650536076
+"Kenneth Feld",16,"Coltitus Mando",52,0.013672727272727272
+"Kenneth Feld",16,"Wheezy1442",53,0.014985163204747775
+"Kenneth Feld",16,"Aqustin Agustus",54,0.013777441332323998
+"Kenneth Feld",16,"Sawdeth Ternius",55,0.019715726730857405
+"Benzmann",17,"Zintage Enaka",1,0.010968569595894805
+"Benzmann",17,"hyprviper1",2,0.012192615932598122
+"Benzmann",17,"Machiavelian",3,0.03090928337038213
+"Benzmann",17,"The Oz",4,0.039443961772371854
+"Benzmann",17,"Itaer",5,0.029503669791439577
+"Benzmann",17,"Angry Mustache",6,0.023934461340758193
+"Benzmann",17,"youngpuke2",7,0.05322617332625673
+"Benzmann",17,"Ariel Rin",8,0.029327548806941432
+"Benzmann",17,"Arrowspeeed Bounty",9,0.030001107051920734
+"Benzmann",17,"Kshal Aideron",10,0.03353750985505489
+"Benzmann",17,"Mike Azariah",11,0.049868974827285
+"Benzmann",17,"Mick Fightmaster",12,0.0446557668779891
+"Benzmann",17,"Dujek Oneye",13,0.03308480894687791
+"Benzmann",17,"Gustav Mannfred",14,0.06659236556143773
+"Benzmann",17,"Limited Liability",15,0.041666666666666664
+"Benzmann",17,"Kenneth Feld",16,0.02289470701575428
+"Benzmann",17,"Benzmann",17,1.0
+"Benzmann",17,"en guarde",18,0.033358201001811784
+"Benzmann",17,"Drake Iddon",19,0.036841131866099504
+"Benzmann",17,"Val Auroris",20,0.058101565139060916
+"Benzmann",17,"Sven Bauer",21,0.0486217068456922
+"Benzmann",17,"Gideon Zendikar",22,0.041476124641072
+"Benzmann",17,"Viola Terra",23,0.0602734450221452
+"Benzmann",17,"Rots Mijnwerker",24,0.03222135713002336
+"Benzmann",17,"Janstina Urthadar",25,0.03911769774254696
+"Benzmann",17,"creatnos",26,0.1303062302006336
+"Benzmann",17,"Jolange Jogua",27,0.017255775118285556
+"Benzmann",17,"Angel Maelstorm",28,0.056353117634454684
+"Benzmann",17,"yilifaerr",29,0.01098901098901099
+"Benzmann",17,"Styxx",30,0.06114050558495003
+"Benzmann",17,"Theman JR",31,0.027950310559006212
+"Benzmann",17,"Bexey Songweaver",32,0.0595832615808507
+"Benzmann",17,"Orion Sa-Solo",33,0.13227862008349814
+"Benzmann",17,"Ankh Lai",34,0.024123049684629853
+"Benzmann",17,"MILINT ARC Trooper",35,0.05301410859341599
+"Benzmann",17,"ElenHellen",36,0.06474329850068151
+"Benzmann",17,"ThePuce Moose",37,0.07225744706304582
+"Benzmann",17,"NeoShocker",38,0.05860202400564839
+"Benzmann",17,"Teddy Shi",39,0.04394890668975969
+"Benzmann",17,"Oncepure",40,0.06851851851851852
+"Benzmann",17,"Fluffy Neko",41,0.04355310724737476
+"Benzmann",17,"CollegeKid",42,0.04353083434099154
+"Benzmann",17,"Rose Allari Imahara",43,0.04443494979705191
+"Benzmann",17,"Kaptin Tiberius",44,0.03912839737582006
+"Benzmann",17,"ntrosell2",45,0.02604783329386692
+"Benzmann",17,"Frippyy",46,0.04039432555902861
+"Benzmann",17,"Aries Wolfblade",47,0.04364540931705111
+"Benzmann",17,"Kane Carnifex",48,0.04964381121994657
+"Benzmann",17,"burtus antonioprimus",49,0.03378029912325941
+"Benzmann",17,"Kakala Asanari",50,0.030146019783325484
+"Benzmann",17,"Nikita Luciano",51,0.04445473489233619
+"Benzmann",17,"Coltitus Mando",52,0.03954263935207242
+"Benzmann",17,"Wheezy1442",53,0.03848982593772984
+"Benzmann",17,"Aqustin Agustus",54,0.04229299363057325
+"Benzmann",17,"Sawdeth Ternius",55,0.036970933197348295
+"en guarde",18,"Zintage Enaka",1,0.00512143611404435
+"en guarde",18,"hyprviper1",2,0.00540209400757407
+"en guarde",18,"Machiavelian",3,0.6443461781427668
+"en guarde",18,"The Oz",4,0.138902619871478
+"en guarde",18,"Itaer",5,0.2902581551889933
+"en guarde",18,"Angry Mustache",6,0.024891329215282545
+"en guarde",18,"youngpuke2",7,0.0246445184916367
+"en guarde",18,"Ariel Rin",8,0.019635979155652895
+"en guarde",18,"Arrowspeeed Bounty",9,0.028618152085036794
+"en guarde",18,"Kshal Aideron",10,0.2770584538026398
+"en guarde",18,"Mike Azariah",11,0.3084549492385787
+"en guarde",18,"Mick Fightmaster",12,0.22554302538747847
+"en guarde",18,"Dujek Oneye",13,0.018736488109536393
+"en guarde",18,"Gustav Mannfred",14,0.04064731080437887
+"en guarde",18,"Limited Liability",15,0.01558137440331442
+"en guarde",18,"Kenneth Feld",16,0.03753373819163293
+"en guarde",18,"Benzmann",17,0.033358201001811784
+"en guarde",18,"en guarde",18,1.0
+"en guarde",18,"Drake Iddon",19,0.016032194203745173
+"en guarde",18,"Val Auroris",20,0.02176892687253084
+"en guarde",18,"Sven Bauer",21,0.5296700821979506
+"en guarde",18,"Gideon Zendikar",22,0.4113390928725702
+"en guarde",18,"Viola Terra",23,0.018320964749536178
+"en guarde",18,"Rots Mijnwerker",24,0.006773671035193639
+"en guarde",18,"Janstina Urthadar",25,0.025341560158660202
+"en guarde",18,"creatnos",26,0.015536723163841809
+"en guarde",18,"Jolange Jogua",27,0.007039573820395738
+"en guarde",18,"Angel Maelstorm",28,0.019758916366347707
+"en guarde",18,"yilifaerr",29,0.003939091069433829
+"en guarde",18,"Styxx",30,0.017681498829039813
+"en guarde",18,"Theman JR",31,0.010475217169136432
+"en guarde",18,"Bexey Songweaver",32,0.019902650081124934
+"en guarde",18,"Orion Sa-Solo",33,0.013954047876819439
+"en guarde",18,"Ankh Lai",34,0.43309698078682524
+"en guarde",18,"MILINT ARC Trooper",35,0.020276153750466475
+"en guarde",18,"ElenHellen",36,0.02418006430868167
+"en guarde",18,"ThePuce Moose",37,0.015179163901791639
+"en guarde",18,"NeoShocker",38,0.017272965192358023
+"en guarde",18,"Teddy Shi",39,0.015550539252570855
+"en guarde",18,"Oncepure",40,0.03204971971728004
+"en guarde",18,"Fluffy Neko",41,0.046509021629496806
+"en guarde",18,"CollegeKid",42,0.014975264072736997
+"en guarde",18,"Rose Allari Imahara",43,0.01820675894749969
+"en guarde",18,"Kaptin Tiberius",44,0.011676725268958278
+"en guarde",18,"ntrosell2",45,0.009820836098208361
+"en guarde",18,"Frippyy",46,0.014815803523758676
+"en guarde",18,"Aries Wolfblade",47,0.01361592806679512
+"en guarde",18,"Kane Carnifex",48,0.018091476621225632
+"en guarde",18,"burtus antonioprimus",49,0.01096308631695809
+"en guarde",18,"Kakala Asanari",50,0.011503371677905593
+"en guarde",18,"Nikita Luciano",51,0.013140775435857403
+"en guarde",18,"Coltitus Mando",52,0.010983194389307926
+"en guarde",18,"Wheezy1442",53,0.00967741935483871
+"en guarde",18,"Aqustin Agustus",54,0.011533708636550871
+"en guarde",18,"Sawdeth Ternius",55,0.011990077177508269
+"Drake Iddon",19,"Zintage Enaka",1,0.38496887044174327
+"Drake Iddon",19,"hyprviper1",2,0.365454613681564
+"Drake Iddon",19,"Machiavelian",3,0.014858696707778965
+"Drake Iddon",19,"The Oz",4,0.5639414708442123
+"Drake Iddon",19,"Itaer",5,0.17725642459938798
+"Drake Iddon",19,"Angry Mustache",6,0.42118484404437934
+"Drake Iddon",19,"youngpuke2",7,0.6597667932390201
+"Drake Iddon",19,"Ariel Rin",8,0.6051336519738006
+"Drake Iddon",19,"Arrowspeeed Bounty",9,0.16069082034916463
+"Drake Iddon",19,"Kshal Aideron",10,0.22176565413914087
+"Drake Iddon",19,"Mike Azariah",11,0.07106177546815903
+"Drake Iddon",19,"Mick Fightmaster",12,0.30083081084562374
+"Drake Iddon",19,"Dujek Oneye",13,0.5969724603319351
+"Drake Iddon",19,"Gustav Mannfred",14,0.04424305134334749
+"Drake Iddon",19,"Limited Liability",15,0.10981597391402122
+"Drake Iddon",19,"Kenneth Feld",16,0.11977776965532366
+"Drake Iddon",19,"Benzmann",17,0.036841131866099504
+"Drake Iddon",19,"en guarde",18,0.016032194203745173
+"Drake Iddon",19,"Drake Iddon",19,1.0
+"Drake Iddon",19,"Val Auroris",20,0.1546883145900052
+"Drake Iddon",19,"Sven Bauer",21,0.04204753199268738
+"Drake Iddon",19,"Gideon Zendikar",22,0.04666044527396347
+"Drake Iddon",19,"Viola Terra",23,0.0274704455895726
+"Drake Iddon",19,"Rots Mijnwerker",24,0.44823472393095476
+"Drake Iddon",19,"Janstina Urthadar",25,0.062094140249759844
+"Drake Iddon",19,"creatnos",26,0.024741562785041044
+"Drake Iddon",19,"Jolange Jogua",27,0.10808429118773946
+"Drake Iddon",19,"Angel Maelstorm",28,0.011047198201973259
+"Drake Iddon",19,"yilifaerr",29,0.36737846082557823
+"Drake Iddon",19,"Styxx",30,0.018849430747191434
+"Drake Iddon",19,"Theman JR",31,0.011952959321380375
+"Drake Iddon",19,"Bexey Songweaver",32,0.045291969428861864
+"Drake Iddon",19,"Orion Sa-Solo",33,0.02740882917466411
+"Drake Iddon",19,"Ankh Lai",34,0.034175433893989145
+"Drake Iddon",19,"MILINT ARC Trooper",35,0.017094017094017096
+"Drake Iddon",19,"ElenHellen",36,0.009287688056493706
+"Drake Iddon",19,"ThePuce Moose",37,0.15806219461384038
+"Drake Iddon",19,"NeoShocker",38,0.013626834381551363
+"Drake Iddon",19,"Teddy Shi",39,0.011479738261967628
+"Drake Iddon",19,"Oncepure",40,0.026186830015313935
+"Drake Iddon",19,"Fluffy Neko",41,0.04718837508514342
+"Drake Iddon",19,"CollegeKid",42,0.00757840736854378
+"Drake Iddon",19,"Rose Allari Imahara",43,0.013694438069007726
+"Drake Iddon",19,"Kaptin Tiberius",44,0.008870124336677384
+"Drake Iddon",19,"ntrosell2",45,0.01110721384309599
+"Drake Iddon",19,"Frippyy",46,0.008789670192906036
+"Drake Iddon",19,"Aries Wolfblade",47,0.012821503050899822
+"Drake Iddon",19,"Kane Carnifex",48,0.015506866224348095
+"Drake Iddon",19,"burtus antonioprimus",49,0.004824096952582657
+"Drake Iddon",19,"Kakala Asanari",50,0.02042018456705282
+"Drake Iddon",19,"Nikita Luciano",51,0.0090389369592089
+"Drake Iddon",19,"Coltitus Mando",52,0.015322675214009302
+"Drake Iddon",19,"Wheezy1442",53,0.009017801374141161
+"Drake Iddon",19,"Aqustin Agustus",54,0.007644960207002
+"Drake Iddon",19,"Sawdeth Ternius",55,0.008206054419097726
+"Val Auroris",20,"Zintage Enaka",1,0.0178164041281912
+"Val Auroris",20,"hyprviper1",2,0.0158494020712937
+"Val Auroris",20,"Machiavelian",3,0.026808785529715762
+"Val Auroris",20,"The Oz",4,0.14002053086962898
+"Val Auroris",20,"Itaer",5,0.03407925689124797
+"Val Auroris",20,"Angry Mustache",6,0.09977606369743718
+"Val Auroris",20,"youngpuke2",7,0.16093602566521986
+"Val Auroris",20,"Ariel Rin",8,0.1290909090909091
+"Val Auroris",20,"Arrowspeeed Bounty",9,0.12845722686759165
+"Val Auroris",20,"Kshal Aideron",10,0.10218576226394319
+"Val Auroris",20,"Mike Azariah",11,0.06678082191780822
+"Val Auroris",20,"Mick Fightmaster",12,0.2234778208804183
+"Val Auroris",20,"Dujek Oneye",13,0.09192357794181502
+"Val Auroris",20,"Gustav Mannfred",14,0.08732999284180387
+"Val Auroris",20,"Limited Liability",15,0.027905234572525518
+"Val Auroris",20,"Kenneth Feld",16,0.027568493150684933
+"Val Auroris",20,"Benzmann",17,0.058101565139060916
+"Val Auroris",20,"en guarde",18,0.02176892687253084
+"Val Auroris",20,"Drake Iddon",19,0.1546883145900052
+"Val Auroris",20,"Val Auroris",20,1.0
+"Val Auroris",20,"Sven Bauer",21,0.03433242506811989
+"Val Auroris",20,"Gideon Zendikar",22,0.05120184392492591
+"Val Auroris",20,"Viola Terra",23,0.06610531607389719
+"Val Auroris",20,"Rots Mijnwerker",24,0.08311451690691816
+"Val Auroris",20,"Janstina Urthadar",25,0.024454049135577798
+"Val Auroris",20,"creatnos",26,0.02146185921020358
+"Val Auroris",20,"Jolange Jogua",27,0.012998522895125554
+"Val Auroris",20,"Angel Maelstorm",28,0.043139841688654354
+"Val Auroris",20,"yilifaerr",29,0.009750225699668973
+"Val Auroris",20,"Styxx",30,0.0420961132497206
+"Val Auroris",20,"Theman JR",31,0.02740280777537797
+"Val Auroris",20,"Bexey Songweaver",32,0.03093947606142728
+"Val Auroris",20,"Orion Sa-Solo",33,0.03791650708540789
+"Val Auroris",20,"Ankh Lai",34,0.031105116749557446
+"Val Auroris",20,"MILINT ARC Trooper",35,0.03618722957912679
+"Val Auroris",20,"ElenHellen",36,0.039045553145336226
+"Val Auroris",20,"ThePuce Moose",37,0.03493109127156106
+"Val Auroris",20,"NeoShocker",38,0.03646699944536883
+"Val Auroris",20,"Teddy Shi",39,0.02848476856125544
+"Val Auroris",20,"Oncepure",40,0.03195654919792851
+"Val Auroris",20,"Fluffy Neko",41,0.02996809480401094
+"Val Auroris",20,"CollegeKid",42,0.02516519049627443
+"Val Auroris",20,"Rose Allari Imahara",43,0.04852039456145028
+"Val Auroris",20,"Kaptin Tiberius",44,0.028444567781323715
+"Val Auroris",20,"ntrosell2",45,0.019525801952580194
+"Val Auroris",20,"Frippyy",46,0.029167253769198254
+"Val Auroris",20,"Aries Wolfblade",47,0.03292517006802721
+"Val Auroris",20,"Kane Carnifex",48,0.05950413223140496
+"Val Auroris",20,"burtus antonioprimus",49,0.01747742499271774
+"Val Auroris",20,"Kakala Asanari",50,0.020263705759888968
+"Val Auroris",20,"Nikita Luciano",51,0.031831335262505166
+"Val Auroris",20,"Coltitus Mando",52,0.03481815618832816
+"Val Auroris",20,"Wheezy1442",53,0.022105710641915827
+"Val Auroris",20,"Aqustin Agustus",54,0.03333333333333333
+"Val Auroris",20,"Sawdeth Ternius",55,0.022945106012198666
+"Sven Bauer",21,"Zintage Enaka",1,0.008882271397032397
+"Sven Bauer",21,"hyprviper1",2,0.006850423431684557
+"Sven Bauer",21,"Machiavelian",3,0.5152323771403158
+"Sven Bauer",21,"The Oz",4,0.14794828879782998
+"Sven Bauer",21,"Itaer",5,0.34125687119298764
+"Sven Bauer",21,"Angry Mustache",6,0.01652089407191448
+"Sven Bauer",21,"youngpuke2",7,0.04649088025376685
+"Sven Bauer",21,"Ariel Rin",8,0.040583314492425956
+"Sven Bauer",21,"Arrowspeeed Bounty",9,0.01476809476194139
+"Sven Bauer",21,"Kshal Aideron",10,0.28411042944785275
+"Sven Bauer",21,"Mike Azariah",11,0.304613038505528
+"Sven Bauer",21,"Mick Fightmaster",12,0.2556903140056488
+"Sven Bauer",21,"Dujek Oneye",13,0.031100383808807818
+"Sven Bauer",21,"Gustav Mannfred",14,0.056557152008785576
+"Sven Bauer",21,"Limited Liability",15,0.019552354000514537
+"Sven Bauer",21,"Kenneth Feld",16,0.03776920604307297
+"Sven Bauer",21,"Benzmann",17,0.0486217068456922
+"Sven Bauer",21,"en guarde",18,0.5296700821979506
+"Sven Bauer",21,"Drake Iddon",19,0.04204753199268738
+"Sven Bauer",21,"Val Auroris",20,0.03433242506811989
+"Sven Bauer",21,"Sven Bauer",21,1.0
+"Sven Bauer",21,"Gideon Zendikar",22,0.4040020523345305
+"Sven Bauer",21,"Viola Terra",23,0.02554306298439035
+"Sven Bauer",21,"Rots Mijnwerker",24,0.016260944866737227
+"Sven Bauer",21,"Janstina Urthadar",25,0.018796220213640098
+"Sven Bauer",21,"creatnos",26,0.03044157002676182
+"Sven Bauer",21,"Jolange Jogua",27,0.009282624369142033
+"Sven Bauer",21,"Angel Maelstorm",28,0.025107520632337555
+"Sven Bauer",21,"yilifaerr",29,0.007002163269953319
+"Sven Bauer",21,"Styxx",30,0.025573192239858905
+"Sven Bauer",21,"Theman JR",31,0.013436385255648038
+"Sven Bauer",21,"Bexey Songweaver",32,0.024484799020608038
+"Sven Bauer",21,"Orion Sa-Solo",33,0.025635208711433755
+"Sven Bauer",21,"Ankh Lai",34,0.4112089327893494
+"Sven Bauer",21,"MILINT ARC Trooper",35,0.027748630057129534
+"Sven Bauer",21,"ElenHellen",36,0.022169249106078665
+"Sven Bauer",21,"ThePuce Moose",37,0.06057105132860208
+"Sven Bauer",21,"NeoShocker",38,0.02455411678475446
+"Sven Bauer",21,"Teddy Shi",39,0.024100634845991065
+"Sven Bauer",21,"Oncepure",40,0.02947177510768533
+"Sven Bauer",21,"Fluffy Neko",41,0.01998769987699877
+"Sven Bauer",21,"CollegeKid",42,0.017361111111111112
+"Sven Bauer",21,"Rose Allari Imahara",43,0.022838499184339316
+"Sven Bauer",21,"Kaptin Tiberius",44,0.023484569039714742
+"Sven Bauer",21,"ntrosell2",45,0.015437816475237742
+"Sven Bauer",21,"Frippyy",46,0.02278102825843396
+"Sven Bauer",21,"Aries Wolfblade",47,0.022853019004089488
+"Sven Bauer",21,"Kane Carnifex",48,0.025506555423122766
+"Sven Bauer",21,"burtus antonioprimus",49,0.014515093127809891
+"Sven Bauer",21,"Kakala Asanari",50,0.015859355790508976
+"Sven Bauer",21,"Nikita Luciano",51,0.020780167699598978
+"Sven Bauer",21,"Coltitus Mando",52,0.018009127914148267
+"Sven Bauer",21,"Wheezy1442",53,0.016896120150187734
+"Sven Bauer",21,"Aqustin Agustus",54,0.014105985512771636
+"Sven Bauer",21,"Sawdeth Ternius",55,0.019477191184008202
+"Gideon Zendikar",22,"Zintage Enaka",1,0.008751581611134542
+"Gideon Zendikar",22,"hyprviper1",2,0.007773459189339256
+"Gideon Zendikar",22,"Machiavelian",3,0.4159827213822894
+"Gideon Zendikar",22,"The Oz",4,0.14318572218825515
+"Gideon Zendikar",22,"Itaer",5,0.35318623669186855
+"Gideon Zendikar",22,"Angry Mustache",6,0.02027302825524967
+"Gideon Zendikar",22,"youngpuke2",7,0.05442176870748299
+"Gideon Zendikar",22,"Ariel Rin",8,0.027722997572815534
+"Gideon Zendikar",22,"Arrowspeeed Bounty",9,0.013106369375849117
+"Gideon Zendikar",22,"Kshal Aideron",10,0.2575458913391647
+"Gideon Zendikar",22,"Mike Azariah",11,0.32202039515615044
+"Gideon Zendikar",22,"Mick Fightmaster",12,0.24911212582445458
+"Gideon Zendikar",22,"Dujek Oneye",13,0.03795359421349913
+"Gideon Zendikar",22,"Gustav Mannfred",14,0.06447254126049609
+"Gideon Zendikar",22,"Limited Liability",15,0.017809199928405225
+"Gideon Zendikar",22,"Kenneth Feld",16,0.03067586665558234
+"Gideon Zendikar",22,"Benzmann",17,0.041476124641072
+"Gideon Zendikar",22,"en guarde",18,0.4113390928725702
+"Gideon Zendikar",22,"Drake Iddon",19,0.04666044527396347
+"Gideon Zendikar",22,"Val Auroris",20,0.05120184392492591
+"Gideon Zendikar",22,"Sven Bauer",21,0.4040020523345305
+"Gideon Zendikar",22,"Gideon Zendikar",22,1.0
+"Gideon Zendikar",22,"Viola Terra",23,0.040060911327164106
+"Gideon Zendikar",22,"Rots Mijnwerker",24,0.017729270581263272
+"Gideon Zendikar",22,"Janstina Urthadar",25,0.023177366702937977
+"Gideon Zendikar",22,"creatnos",26,0.024782710829222458
+"Gideon Zendikar",22,"Jolange Jogua",27,0.00830580462482303
+"Gideon Zendikar",22,"Angel Maelstorm",28,0.01977401129943503
+"Gideon Zendikar",22,"yilifaerr",29,0.005680487233544156
+"Gideon Zendikar",22,"Styxx",30,0.020910780669144983
+"Gideon Zendikar",22,"Theman JR",31,0.011751326762699014
+"Gideon Zendikar",22,"Bexey Songweaver",32,0.02397076211974632
+"Gideon Zendikar",22,"Orion Sa-Solo",33,0.030581409404085578
+"Gideon Zendikar",22,"Ankh Lai",34,0.4130021259930626
+"Gideon Zendikar",22,"MILINT ARC Trooper",35,0.027103960396039604
+"Gideon Zendikar",22,"ElenHellen",36,0.021287379624936646
+"Gideon Zendikar",22,"ThePuce Moose",37,0.07728582656536546
+"Gideon Zendikar",22,"NeoShocker",38,0.019163537485433122
+"Gideon Zendikar",22,"Teddy Shi",39,0.016875542871323986
+"Gideon Zendikar",22,"Oncepure",40,0.017339667458432306
+"Gideon Zendikar",22,"Fluffy Neko",41,0.020772476468679
+"Gideon Zendikar",22,"CollegeKid",42,0.017469560614081524
+"Gideon Zendikar",22,"Rose Allari Imahara",43,0.017863742762104225
+"Gideon Zendikar",22,"Kaptin Tiberius",44,0.02696304090490596
+"Gideon Zendikar",22,"ntrosell2",45,0.01689100026392188
+"Gideon Zendikar",22,"Frippyy",46,0.017710811525244514
+"Gideon Zendikar",22,"Aries Wolfblade",47,0.017190882465299887
+"Gideon Zendikar",22,"Kane Carnifex",48,0.03084374203415753
+"Gideon Zendikar",22,"burtus antonioprimus",49,0.012758951845246261
+"Gideon Zendikar",22,"Kakala Asanari",50,0.015866771570941515
+"Gideon Zendikar",22,"Nikita Luciano",51,0.018604651162790697
+"Gideon Zendikar",22,"Coltitus Mando",52,0.01883065578087964
+"Gideon Zendikar",22,"Wheezy1442",53,0.0203835322515757
+"Gideon Zendikar",22,"Aqustin Agustus",54,0.015095879232966136
+"Gideon Zendikar",22,"Sawdeth Ternius",55,0.0127960794990471
+"Viola Terra",23,"Zintage Enaka",1,0.009587923296613628
+"Viola Terra",23,"hyprviper1",2,0.009245777518928364
+"Viola Terra",23,"Machiavelian",3,0.022240240935943473
+"Viola Terra",23,"The Oz",4,0.02755581668625147
+"Viola Terra",23,"Itaer",5,0.042066362635634534
+"Viola Terra",23,"Angry Mustache",6,0.02011204481792717
+"Viola Terra",23,"youngpuke2",7,0.01691836039514023
+"Viola Terra",23,"Ariel Rin",8,0.02181410974244121
+"Viola Terra",23,"Arrowspeeed Bounty",9,0.02856442319480201
+"Viola Terra",23,"Kshal Aideron",10,0.031399884888405706
+"Viola Terra",23,"Mike Azariah",11,0.04049712546499831
+"Viola Terra",23,"Mick Fightmaster",12,0.024772062618269395
+"Viola Terra",23,"Dujek Oneye",13,0.02045127220355257
+"Viola Terra",23,"Gustav Mannfred",14,0.0582326165437137
+"Viola Terra",23,"Limited Liability",15,0.07493932038834951
+"Viola Terra",23,"Kenneth Feld",16,0.019225936164865544
+"Viola Terra",23,"Benzmann",17,0.0602734450221452
+"Viola Terra",23,"en guarde",18,0.018320964749536178
+"Viola Terra",23,"Drake Iddon",19,0.0274704455895726
+"Viola Terra",23,"Val Auroris",20,0.06610531607389719
+"Viola Terra",23,"Sven Bauer",21,0.02554306298439035
+"Viola Terra",23,"Gideon Zendikar",22,0.040060911327164106
+"Viola Terra",23,"Viola Terra",23,1.0
+"Viola Terra",23,"Rots Mijnwerker",24,0.011339695129507993
+"Viola Terra",23,"Janstina Urthadar",25,0.09503424657534247
+"Viola Terra",23,"creatnos",26,0.031373460376481525
+"Viola Terra",23,"Jolange Jogua",27,0.014111304899318219
+"Viola Terra",23,"Angel Maelstorm",28,0.08015061861215707
+"Viola Terra",23,"yilifaerr",29,0.008215319615053595
+"Viola Terra",23,"Styxx",30,0.056820849964780464
+"Viola Terra",23,"Theman JR",31,0.029615278162192085
+"Viola Terra",23,"Bexey Songweaver",32,0.09832285115303983
+"Viola Terra",23,"Orion Sa-Solo",33,0.056580259222333
+"Viola Terra",23,"Ankh Lai",34,0.039765644477686365
+"Viola Terra",23,"MILINT ARC Trooper",35,0.04971219256933543
+"Viola Terra",23,"ElenHellen",36,0.09109311740890688
+"Viola Terra",23,"ThePuce Moose",37,0.06229378381945361
+"Viola Terra",23,"NeoShocker",38,0.0525697503671072
+"Viola Terra",23,"Teddy Shi",39,0.08194905869324474
+"Viola Terra",23,"Oncepure",40,0.13021658742736397
+"Viola Terra",23,"Fluffy Neko",41,0.08264984227129338
+"Viola Terra",23,"CollegeKid",42,0.047428395441946415
+"Viola Terra",23,"Rose Allari Imahara",43,0.08281122309997276
+"Viola Terra",23,"Kaptin Tiberius",44,0.04573804573804574
+"Viola Terra",23,"ntrosell2",45,0.038262982083206803
+"Viola Terra",23,"Frippyy",46,0.04150137320720171
+"Viola Terra",23,"Aries Wolfblade",47,0.051719238420005684
+"Viola Terra",23,"Kane Carnifex",48,0.0698001688713763
+"Viola Terra",23,"burtus antonioprimus",49,0.034770979605483116
+"Viola Terra",23,"Kakala Asanari",50,0.05939987752602572
+"Viola Terra",23,"Nikita Luciano",51,0.06200177147918512
+"Viola Terra",23,"Coltitus Mando",52,0.06023355869698832
+"Viola Terra",23,"Wheezy1442",53,0.037800687285223365
+"Viola Terra",23,"Aqustin Agustus",54,0.03552803129074315
+"Viola Terra",23,"Sawdeth Ternius",55,0.045424403183023876
+"Rots Mijnwerker",24,"Zintage Enaka",1,0.6120344534756763
+"Rots Mijnwerker",24,"hyprviper1",2,0.652909642834076
+"Rots Mijnwerker",24,"Machiavelian",3,0.010620513324810699
+"Rots Mijnwerker",24,"The Oz",4,0.37563690984596354
+"Rots Mijnwerker",24,"Itaer",5,0.03282619480734248
+"Rots Mijnwerker",24,"Angry Mustache",6,0.6401687393853065
+"Rots Mijnwerker",24,"youngpuke2",7,0.46272785841512865
+"Rots Mijnwerker",24,"Ariel Rin",8,0.45521570610043816
+"Rots Mijnwerker",24,"Arrowspeeed Bounty",9,0.0835308056872038
+"Rots Mijnwerker",24,"Kshal Aideron",10,0.08701759862644867
+"Rots Mijnwerker",24,"Mike Azariah",11,0.055924087334709834
+"Rots Mijnwerker",24,"Mick Fightmaster",12,0.09633690136671728
+"Rots Mijnwerker",24,"Dujek Oneye",13,0.5554560030180138
+"Rots Mijnwerker",24,"Gustav Mannfred",14,0.025596890616324263
+"Rots Mijnwerker",24,"Limited Liability",15,0.00971342706879897
+"Rots Mijnwerker",24,"Kenneth Feld",16,0.013175365131242978
+"Rots Mijnwerker",24,"Benzmann",17,0.03222135713002336
+"Rots Mijnwerker",24,"en guarde",18,0.006773671035193639
+"Rots Mijnwerker",24,"Drake Iddon",19,0.44823472393095476
+"Rots Mijnwerker",24,"Val Auroris",20,0.08311451690691816
+"Rots Mijnwerker",24,"Sven Bauer",21,0.016260944866737227
+"Rots Mijnwerker",24,"Gideon Zendikar",22,0.017729270581263272
+"Rots Mijnwerker",24,"Viola Terra",23,0.011339695129507993
+"Rots Mijnwerker",24,"Rots Mijnwerker",24,1.0
+"Rots Mijnwerker",24,"Janstina Urthadar",25,0.007536335905257491
+"Rots Mijnwerker",24,"creatnos",26,0.030467206322901397
+"Rots Mijnwerker",24,"Jolange Jogua",27,0.004210759598869743
+"Rots Mijnwerker",24,"Angel Maelstorm",28,0.010590500641848523
+"Rots Mijnwerker",24,"yilifaerr",29,0.6595873786407767
+"Rots Mijnwerker",24,"Styxx",30,0.011277961243691195
+"Rots Mijnwerker",24,"Theman JR",31,0.02685277500830841
+"Rots Mijnwerker",24,"Bexey Songweaver",32,0.010180389355242007
+"Rots Mijnwerker",24,"Orion Sa-Solo",33,0.030792072816474083
+"Rots Mijnwerker",24,"Ankh Lai",34,0.037638300072381344
+"Rots Mijnwerker",24,"MILINT ARC Trooper",35,0.01339084529710938
+"Rots Mijnwerker",24,"ElenHellen",36,0.010692397965836485
+"Rots Mijnwerker",24,"ThePuce Moose",37,0.04917511007373614
+"Rots Mijnwerker",24,"NeoShocker",38,0.00842937108989134
+"Rots Mijnwerker",24,"Teddy Shi",39,0.01790131493295144
+"Rots Mijnwerker",24,"Oncepure",40,0.007996977520307286
+"Rots Mijnwerker",24,"Fluffy Neko",41,0.008003344681359374
+"Rots Mijnwerker",24,"CollegeKid",42,0.007860378363975486
+"Rots Mijnwerker",24,"Rose Allari Imahara",43,0.01742792355037253
+"Rots Mijnwerker",24,"Kaptin Tiberius",44,0.006866499405783705
+"Rots Mijnwerker",24,"ntrosell2",45,0.007649837025211202
+"Rots Mijnwerker",24,"Frippyy",46,0.011489645958583834
+"Rots Mijnwerker",24,"Aries Wolfblade",47,0.010213434594736153
+"Rots Mijnwerker",24,"Kane Carnifex",48,0.017093457331848843
+"Rots Mijnwerker",24,"burtus antonioprimus",49,0.008915810249778807
+"Rots Mijnwerker",24,"Kakala Asanari",50,0.005760826380611839
+"Rots Mijnwerker",24,"Nikita Luciano",51,0.014362300615527169
+"Rots Mijnwerker",24,"Coltitus Mando",52,0.009711967005920308
+"Rots Mijnwerker",24,"Wheezy1442",53,0.005948402619970592
+"Rots Mijnwerker",24,"Aqustin Agustus",54,0.008866328257191202
+"Rots Mijnwerker",24,"Sawdeth Ternius",55,0.006016359088758197
+"Janstina Urthadar",25,"Zintage Enaka",1,0.005955497382198953
+"Janstina Urthadar",25,"hyprviper1",2,0.005732261447046487
+"Janstina Urthadar",25,"Machiavelian",3,0.012892741061755147
+"Janstina Urthadar",25,"The Oz",4,0.04995120220033715
+"Janstina Urthadar",25,"Itaer",5,0.13418951181361652
+"Janstina Urthadar",25,"Angry Mustache",6,0.019427514148889855
+"Janstina Urthadar",25,"youngpuke2",7,0.016249907249387845
+"Janstina Urthadar",25,"Ariel Rin",8,0.02382310358443382
+"Janstina Urthadar",25,"Arrowspeeed Bounty",9,0.02236495010895745
+"Janstina Urthadar",25,"Kshal Aideron",10,0.02568524792115799
+"Janstina Urthadar",25,"Mike Azariah",11,0.0338409475465313
+"Janstina Urthadar",25,"Mick Fightmaster",12,0.01990463517409625
+"Janstina Urthadar",25,"Dujek Oneye",13,0.03125
+"Janstina Urthadar",25,"Gustav Mannfred",14,0.031369765791341375
+"Janstina Urthadar",25,"Limited Liability",15,0.20259165613147914
+"Janstina Urthadar",25,"Kenneth Feld",16,0.018518518518518517
+"Janstina Urthadar",25,"Benzmann",17,0.03911769774254696
+"Janstina Urthadar",25,"en guarde",18,0.025341560158660202
+"Janstina Urthadar",25,"Drake Iddon",19,0.062094140249759844
+"Janstina Urthadar",25,"Val Auroris",20,0.024454049135577798
+"Janstina Urthadar",25,"Sven Bauer",21,0.018796220213640098
+"Janstina Urthadar",25,"Gideon Zendikar",22,0.023177366702937977
+"Janstina Urthadar",25,"Viola Terra",23,0.09503424657534247
+"Janstina Urthadar",25,"Rots Mijnwerker",24,0.007536335905257491
+"Janstina Urthadar",25,"Janstina Urthadar",25,1.0
+"Janstina Urthadar",25,"creatnos",26,0.02182866556836903
+"Janstina Urthadar",25,"Jolange Jogua",27,0.010661603622024245
+"Janstina Urthadar",25,"Angel Maelstorm",28,0.04032997250229148
+"Janstina Urthadar",25,"yilifaerr",29,0.005699715014249288
+"Janstina Urthadar",25,"Styxx",30,0.049060542797494784
+"Janstina Urthadar",25,"Theman JR",31,0.022404239942182606
+"Janstina Urthadar",25,"Bexey Songweaver",32,0.05588127519237816
+"Janstina Urthadar",25,"Orion Sa-Solo",33,0.033637152777777776
+"Janstina Urthadar",25,"Ankh Lai",34,0.022255535055350554
+"Janstina Urthadar",25,"MILINT ARC Trooper",35,0.027639329406434075
+"Janstina Urthadar",25,"ElenHellen",36,0.050097751710654934
+"Janstina Urthadar",25,"ThePuce Moose",37,0.1167122573922105
+"Janstina Urthadar",25,"NeoShocker",38,0.026486756621689155
+"Janstina Urthadar",25,"Teddy Shi",39,0.029022521476665893
+"Janstina Urthadar",25,"Oncepure",40,0.07521826729348556
+"Janstina Urthadar",25,"Fluffy Neko",41,0.07403900776368112
+"Janstina Urthadar",25,"CollegeKid",42,0.021603331598125976
+"Janstina Urthadar",25,"Rose Allari Imahara",43,0.03927003927003927
+"Janstina Urthadar",25,"Kaptin Tiberius",44,0.02978615071283096
+"Janstina Urthadar",25,"ntrosell2",45,0.02762574928329424
+"Janstina Urthadar",25,"Frippyy",46,0.02286308131982333
+"Janstina Urthadar",25,"Aries Wolfblade",47,0.05151816824290692
+"Janstina Urthadar",25,"Kane Carnifex",48,0.029271775345073775
+"Janstina Urthadar",25,"burtus antonioprimus",49,0.0180028129395218
+"Janstina Urthadar",25,"Kakala Asanari",50,0.03858185610010428
+"Janstina Urthadar",25,"Nikita Luciano",51,0.03231462925851703
+"Janstina Urthadar",25,"Coltitus Mando",52,0.030869001297016863
+"Janstina Urthadar",25,"Wheezy1442",53,0.02478017585931255
+"Janstina Urthadar",25,"Aqustin Agustus",54,0.02265819287095883
+"Janstina Urthadar",25,"Sawdeth Ternius",55,0.022809457579972183
+"creatnos",26,"Zintage Enaka",1,0.008511222458645069
+"creatnos",26,"hyprviper1",2,0.006386727352811628
+"creatnos",26,"Machiavelian",3,0.01844021611463472
+"creatnos",26,"The Oz",4,0.029717022975250598
+"creatnos",26,"Itaer",5,0.016135288185555815
+"creatnos",26,"Angry Mustache",6,0.010409088365325423
+"creatnos",26,"youngpuke2",7,0.03635023470535749
+"creatnos",26,"Ariel Rin",8,0.015871592539454808
+"creatnos",26,"Arrowspeeed Bounty",9,0.017418159357628166
+"creatnos",26,"Kshal Aideron",10,0.02338394515984368
+"creatnos",26,"Mike Azariah",11,0.03324264580853596
+"creatnos",26,"Mick Fightmaster",12,0.03505287141438336
+"creatnos",26,"Dujek Oneye",13,0.02312727272727273
+"creatnos",26,"Gustav Mannfred",14,0.03050211168465509
+"creatnos",26,"Limited Liability",15,0.019261873253933245
+"creatnos",26,"Kenneth Feld",16,0.07906156767019257
+"creatnos",26,"Benzmann",17,0.1303062302006336
+"creatnos",26,"en guarde",18,0.015536723163841809
+"creatnos",26,"Drake Iddon",19,0.024741562785041044
+"creatnos",26,"Val Auroris",20,0.02146185921020358
+"creatnos",26,"Sven Bauer",21,0.03044157002676182
+"creatnos",26,"Gideon Zendikar",22,0.024782710829222458
+"creatnos",26,"Viola Terra",23,0.031373460376481525
+"creatnos",26,"Rots Mijnwerker",24,0.030467206322901397
+"creatnos",26,"Janstina Urthadar",25,0.02182866556836903
+"creatnos",26,"creatnos",26,1.0
+"creatnos",26,"Jolange Jogua",27,0.06719097281586596
+"creatnos",26,"Angel Maelstorm",28,0.03400267737617135
+"creatnos",26,"yilifaerr",29,0.005687203791469194
+"creatnos",26,"Styxx",30,0.12122775341759093
+"creatnos",26,"Theman JR",31,0.022069360848380626
+"creatnos",26,"Bexey Songweaver",32,0.02582206980028243
+"creatnos",26,"Orion Sa-Solo",33,0.1297013274336283
+"creatnos",26,"Ankh Lai",34,0.012741217219198417
+"creatnos",26,"MILINT ARC Trooper",35,0.0362610797743755
+"creatnos",26,"ElenHellen",36,0.03370465581262497
+"creatnos",26,"ThePuce Moose",37,0.0456953642384106
+"creatnos",26,"NeoShocker",38,0.03437876960193004
+"creatnos",26,"Teddy Shi",39,0.025402895383774923
+"creatnos",26,"Oncepure",40,0.033316633266533065
+"creatnos",26,"Fluffy Neko",41,0.02252252252252252
+"creatnos",26,"CollegeKid",42,0.032432432432432434
+"creatnos",26,"Rose Allari Imahara",43,0.024946351931330473
+"creatnos",26,"Kaptin Tiberius",44,0.022161505768063146
+"creatnos",26,"ntrosell2",45,0.033554922443811336
+"creatnos",26,"Frippyy",46,0.0392219387755102
+"creatnos",26,"Aries Wolfblade",47,0.02781802376122863
+"creatnos",26,"Kane Carnifex",48,0.029644268774703556
+"creatnos",26,"burtus antonioprimus",49,0.027603074772886094
+"creatnos",26,"Kakala Asanari",50,0.01911220715166461
+"creatnos",26,"Nikita Luciano",51,0.033003300330033
+"creatnos",26,"Coltitus Mando",52,0.02839313572542902
+"creatnos",26,"Wheezy1442",53,0.02890548879506333
+"creatnos",26,"Aqustin Agustus",54,0.026485568760611207
+"creatnos",26,"Sawdeth Ternius",55,0.027054794520547945
+"Jolange Jogua",27,"Zintage Enaka",1,0.004645830819355617
+"Jolange Jogua",27,"hyprviper1",2,0.004745719232989162
+"Jolange Jogua",27,"Machiavelian",3,0.010265183917878529
+"Jolange Jogua",27,"The Oz",4,0.09833079518647914
+"Jolange Jogua",27,"Itaer",5,0.005542941097903032
+"Jolange Jogua",27,"Angry Mustache",6,0.006538248755218025
+"Jolange Jogua",27,"youngpuke2",7,0.11015603825453982
+"Jolange Jogua",27,"Ariel Rin",8,0.1314059842809211
+"Jolange Jogua",27,"Arrowspeeed Bounty",9,0.45816049206122156
+"Jolange Jogua",27,"Kshal Aideron",10,0.1872351694915254
+"Jolange Jogua",27,"Mike Azariah",11,0.011903908210828254
+"Jolange Jogua",27,"Mick Fightmaster",12,0.16869616869616869
+"Jolange Jogua",27,"Dujek Oneye",13,0.14011668149906062
+"Jolange Jogua",27,"Gustav Mannfred",14,0.015808867229288006
+"Jolange Jogua",27,"Limited Liability",15,0.011031502331399977
+"Jolange Jogua",27,"Kenneth Feld",16,0.5451145395044413
+"Jolange Jogua",27,"Benzmann",17,0.017255775118285556
+"Jolange Jogua",27,"en guarde",18,0.007039573820395738
+"Jolange Jogua",27,"Drake Iddon",19,0.10808429118773946
+"Jolange Jogua",27,"Val Auroris",20,0.012998522895125554
+"Jolange Jogua",27,"Sven Bauer",21,0.009282624369142033
+"Jolange Jogua",27,"Gideon Zendikar",22,0.00830580462482303
+"Jolange Jogua",27,"Viola Terra",23,0.014111304899318219
+"Jolange Jogua",27,"Rots Mijnwerker",24,0.004210759598869743
+"Jolange Jogua",27,"Janstina Urthadar",25,0.010661603622024245
+"Jolange Jogua",27,"creatnos",26,0.06719097281586596
+"Jolange Jogua",27,"Jolange Jogua",27,1.0
+"Jolange Jogua",27,"Angel Maelstorm",28,0.015706806282722512
+"Jolange Jogua",27,"yilifaerr",29,0.003552397868561279
+"Jolange Jogua",27,"Styxx",30,0.06810096561070642
+"Jolange Jogua",27,"Theman JR",31,0.012648945921173235
+"Jolange Jogua",27,"Bexey Songweaver",32,0.016159284374549127
+"Jolange Jogua",27,"Orion Sa-Solo",33,0.013756081194430465
+"Jolange Jogua",27,"Ankh Lai",34,0.009754155469294317
+"Jolange Jogua",27,"MILINT ARC Trooper",35,0.013416971597839345
+"Jolange Jogua",27,"ElenHellen",36,0.015846994535519125
+"Jolange Jogua",27,"ThePuce Moose",37,0.008082668303662778
+"Jolange Jogua",27,"NeoShocker",38,0.011830985915492958
+"Jolange Jogua",27,"Teddy Shi",39,0.014564831261101243
+"Jolange Jogua",27,"Oncepure",40,0.013664389268455257
+"Jolange Jogua",27,"Fluffy Neko",41,0.011935953420669578
+"Jolange Jogua",27,"CollegeKid",42,0.014619883040935672
+"Jolange Jogua",27,"Rose Allari Imahara",43,0.016177246351327588
+"Jolange Jogua",27,"Kaptin Tiberius",44,0.013127853881278538
+"Jolange Jogua",27,"ntrosell2",45,0.013584319813700757
+"Jolange Jogua",27,"Frippyy",46,0.013009708737864077
+"Jolange Jogua",27,"Aries Wolfblade",47,0.016057585825027684
+"Jolange Jogua",27,"Kane Carnifex",48,0.012829779544633177
+"Jolange Jogua",27,"burtus antonioprimus",49,0.012817862311350011
+"Jolange Jogua",27,"Kakala Asanari",50,0.017394665635871664
+"Jolange Jogua",27,"Nikita Luciano",51,0.017520723436322532
+"Jolange Jogua",27,"Coltitus Mando",52,0.011941448382126348
+"Jolange Jogua",27,"Wheezy1442",53,0.010845986984815618
+"Jolange Jogua",27,"Aqustin Agustus",54,0.011165245635403978
+"Jolange Jogua",27,"Sawdeth Ternius",55,0.01163265306122449
+"Angel Maelstorm",28,"Zintage Enaka",1,0.010837229069273268
+"Angel Maelstorm",28,"hyprviper1",2,0.00919033875132918
+"Angel Maelstorm",28,"Machiavelian",3,0.024847807181016274
+"Angel Maelstorm",28,"The Oz",4,0.020043883057581688
+"Angel Maelstorm",28,"Itaer",5,0.010602678571428572
+"Angel Maelstorm",28,"Angry Mustache",6,0.023092544241369306
+"Angel Maelstorm",28,"youngpuke2",7,0.013140148741859658
+"Angel Maelstorm",28,"Ariel Rin",8,0.02
+"Angel Maelstorm",28,"Arrowspeeed Bounty",9,0.033187888404072455
+"Angel Maelstorm",28,"Kshal Aideron",10,0.023359873659274857
+"Angel Maelstorm",28,"Mike Azariah",11,0.03493603881782091
+"Angel Maelstorm",28,"Mick Fightmaster",12,0.015083930038736941
+"Angel Maelstorm",28,"Dujek Oneye",13,0.011246943765281174
+"Angel Maelstorm",28,"Gustav Mannfred",14,0.053836950948555805
+"Angel Maelstorm",28,"Limited Liability",15,0.04628736740597879
+"Angel Maelstorm",28,"Kenneth Feld",16,0.022110689093868693
+"Angel Maelstorm",28,"Benzmann",17,0.056353117634454684
+"Angel Maelstorm",28,"en guarde",18,0.019758916366347707
+"Angel Maelstorm",28,"Drake Iddon",19,0.011047198201973259
+"Angel Maelstorm",28,"Val Auroris",20,0.043139841688654354
+"Angel Maelstorm",28,"Sven Bauer",21,0.025107520632337555
+"Angel Maelstorm",28,"Gideon Zendikar",22,0.01977401129943503
+"Angel Maelstorm",28,"Viola Terra",23,0.08015061861215707
+"Angel Maelstorm",28,"Rots Mijnwerker",24,0.010590500641848523
+"Angel Maelstorm",28,"Janstina Urthadar",25,0.04032997250229148
+"Angel Maelstorm",28,"creatnos",26,0.03400267737617135
+"Angel Maelstorm",28,"Jolange Jogua",27,0.015706806282722512
+"Angel Maelstorm",28,"Angel Maelstorm",28,1.0
+"Angel Maelstorm",28,"yilifaerr",29,0.00810744410777168
+"Angel Maelstorm",28,"Styxx",30,0.06570730382840076
+"Angel Maelstorm",28,"Theman JR",31,0.031496062992125984
+"Angel Maelstorm",28,"Bexey Songweaver",32,0.10314643955524012
+"Angel Maelstorm",28,"Orion Sa-Solo",33,0.058364634498699795
+"Angel Maelstorm",28,"Ankh Lai",34,0.04340231120666487
+"Angel Maelstorm",28,"MILINT ARC Trooper",35,0.07711598746081505
+"Angel Maelstorm",28,"ElenHellen",36,0.09261790840738209
+"Angel Maelstorm",28,"ThePuce Moose",37,0.025102880658436213
+"Angel Maelstorm",28,"NeoShocker",38,0.05655075518089217
+"Angel Maelstorm",28,"Teddy Shi",39,0.09281731715316498
+"Angel Maelstorm",28,"Oncepure",40,0.08053691275167785
+"Angel Maelstorm",28,"Fluffy Neko",41,0.04217004786870299
+"Angel Maelstorm",28,"CollegeKid",42,0.06043543543543543
+"Angel Maelstorm",28,"Rose Allari Imahara",43,0.09433354797166774
+"Angel Maelstorm",28,"Kaptin Tiberius",44,0.048415806336774656
+"Angel Maelstorm",28,"ntrosell2",45,0.03306686046511628
+"Angel Maelstorm",28,"Frippyy",46,0.04841093865484109
+"Angel Maelstorm",28,"Aries Wolfblade",47,0.07944732297063903
+"Angel Maelstorm",28,"Kane Carnifex",48,0.04707792207792208
+"Angel Maelstorm",28,"burtus antonioprimus",49,0.05397489539748954
+"Angel Maelstorm",28,"Kakala Asanari",50,0.05102040816326531
+"Angel Maelstorm",28,"Nikita Luciano",51,0.07279829545454546
+"Angel Maelstorm",28,"Coltitus Mando",52,0.04967129291453616
+"Angel Maelstorm",28,"Wheezy1442",53,0.04015151515151515
+"Angel Maelstorm",28,"Aqustin Agustus",54,0.05774705164701098
+"Angel Maelstorm",28,"Sawdeth Ternius",55,0.05485059353254196
+"yilifaerr",29,"Zintage Enaka",1,0.7379647014645138
+"yilifaerr",29,"hyprviper1",2,0.7937985751295337
+"yilifaerr",29,"Machiavelian",3,0.00569850781341793
+"yilifaerr",29,"The Oz",4,0.2982508775614293
+"yilifaerr",29,"Itaer",5,0.003446188236389885
+"yilifaerr",29,"Angry Mustache",6,0.5920586291824352
+"yilifaerr",29,"youngpuke2",7,0.3848759354076408
+"yilifaerr",29,"Ariel Rin",8,0.45545573647763427
+"yilifaerr",29,"Arrowspeeed Bounty",9,0.00602990834539315
+"yilifaerr",29,"Kshal Aideron",10,0.00659467480009892
+"yilifaerr",29,"Mike Azariah",11,0.012284408628568621
+"yilifaerr",29,"Mick Fightmaster",12,0.005147708501402174
+"yilifaerr",29,"Dujek Oneye",13,0.4934802385525119
+"yilifaerr",29,"Gustav Mannfred",14,0.011435490380734561
+"yilifaerr",29,"Limited Liability",15,0.007731621019525619
+"yilifaerr",29,"Kenneth Feld",16,0.004162330905306972
+"yilifaerr",29,"Benzmann",17,0.01098901098901099
+"yilifaerr",29,"en guarde",18,0.003939091069433829
+"yilifaerr",29,"Drake Iddon",19,0.36737846082557823
+"yilifaerr",29,"Val Auroris",20,0.009750225699668973
+"yilifaerr",29,"Sven Bauer",21,0.007002163269953319
+"yilifaerr",29,"Gideon Zendikar",22,0.005680487233544156
+"yilifaerr",29,"Viola Terra",23,0.008215319615053595
+"yilifaerr",29,"Rots Mijnwerker",24,0.6595873786407767
+"yilifaerr",29,"Janstina Urthadar",25,0.005699715014249288
+"yilifaerr",29,"creatnos",26,0.005687203791469194
+"yilifaerr",29,"Jolange Jogua",27,0.003552397868561279
+"yilifaerr",29,"Angel Maelstorm",28,0.00810744410777168
+"yilifaerr",29,"yilifaerr",29,1.0
+"yilifaerr",29,"Styxx",30,0.008353692174324218
+"yilifaerr",29,"Theman JR",31,0.028419791131655537
+"yilifaerr",29,"Bexey Songweaver",32,0.007744433688286544
+"yilifaerr",29,"Orion Sa-Solo",33,0.007313936666130847
+"yilifaerr",29,"Ankh Lai",34,0.009221622277498029
+"yilifaerr",29,"MILINT ARC Trooper",35,0.007862407862407862
+"yilifaerr",29,"ElenHellen",36,0.009115236661649106
+"yilifaerr",29,"ThePuce Moose",37,0.006156498183833035
+"yilifaerr",29,"NeoShocker",38,0.006098593935287142
+"yilifaerr",29,"Teddy Shi",39,0.007680237839623421
+"yilifaerr",29,"Oncepure",40,0.008664259927797834
+"yilifaerr",29,"Fluffy Neko",41,0.006363704424646253
+"yilifaerr",29,"CollegeKid",42,0.0061946141271616625
+"yilifaerr",29,"Rose Allari Imahara",43,0.01640294921713197
+"yilifaerr",29,"Kaptin Tiberius",44,0.006388415672913117
+"yilifaerr",29,"ntrosell2",45,0.009045485871812543
+"yilifaerr",29,"Frippyy",46,0.01044363887450371
+"yilifaerr",29,"Aries Wolfblade",47,0.008406893652795292
+"yilifaerr",29,"Kane Carnifex",48,0.006072200964897688
+"yilifaerr",29,"burtus antonioprimus",49,0.009752637645181311
+"yilifaerr",29,"Kakala Asanari",50,0.00702535983550377
+"yilifaerr",29,"Nikita Luciano",51,0.008310014415331128
+"yilifaerr",29,"Coltitus Mando",52,0.007982147455154064
+"yilifaerr",29,"Wheezy1442",53,0.0071094156407144095
+"yilifaerr",29,"Aqustin Agustus",54,0.004905825667980727
+"yilifaerr",29,"Sawdeth Ternius",55,0.005269166593483797
+"Styxx",30,"Zintage Enaka",1,0.008681386287511108
+"Styxx",30,"hyprviper1",2,0.009159522239319998
+"Styxx",30,"Machiavelian",3,0.027529411764705882
+"Styxx",30,"The Oz",4,0.030939716312056737
+"Styxx",30,"Itaer",5,0.030939139970235764
+"Styxx",30,"Angry Mustache",6,0.024020799186118803
+"Styxx",30,"youngpuke2",7,0.01887295003995282
+"Styxx",30,"Ariel Rin",8,0.01814841369421043
+"Styxx",30,"Arrowspeeed Bounty",9,0.023052268244575937
+"Styxx",30,"Kshal Aideron",10,0.021074748503756527
+"Styxx",30,"Mike Azariah",11,0.04187633262260128
+"Styxx",30,"Mick Fightmaster",12,0.017220664797757308
+"Styxx",30,"Dujek Oneye",13,0.012776342233706574
+"Styxx",30,"Gustav Mannfred",14,0.06364944826483288
+"Styxx",30,"Limited Liability",15,0.06161784792836546
+"Styxx",30,"Kenneth Feld",16,0.06947593012401654
+"Styxx",30,"Benzmann",17,0.06114050558495003
+"Styxx",30,"en guarde",18,0.017681498829039813
+"Styxx",30,"Drake Iddon",19,0.018849430747191434
+"Styxx",30,"Val Auroris",20,0.0420961132497206
+"Styxx",30,"Sven Bauer",21,0.025573192239858905
+"Styxx",30,"Gideon Zendikar",22,0.020910780669144983
+"Styxx",30,"Viola Terra",23,0.056820849964780464
+"Styxx",30,"Rots Mijnwerker",24,0.011277961243691195
+"Styxx",30,"Janstina Urthadar",25,0.049060542797494784
+"Styxx",30,"creatnos",26,0.12122775341759093
+"Styxx",30,"Jolange Jogua",27,0.06810096561070642
+"Styxx",30,"Angel Maelstorm",28,0.06570730382840076
+"Styxx",30,"yilifaerr",29,0.008353692174324218
+"Styxx",30,"Styxx",30,1.0
+"Styxx",30,"Theman JR",31,0.033314350797266516
+"Styxx",30,"Bexey Songweaver",32,0.06495655771617707
+"Styxx",30,"Orion Sa-Solo",33,0.05359410718821438
+"Styxx",30,"Ankh Lai",34,0.026630164260826282
+"Styxx",30,"MILINT ARC Trooper",35,0.05403225806451613
+"Styxx",30,"ElenHellen",36,0.06170703575547866
+"Styxx",30,"ThePuce Moose",37,0.029362307592808175
+"Styxx",30,"NeoShocker",38,0.06299452221545952
+"Styxx",30,"Teddy Shi",39,0.05500276395798784
+"Styxx",30,"Oncepure",40,0.0624048706240487
+"Styxx",30,"Fluffy Neko",41,0.04526663910706904
+"Styxx",30,"CollegeKid",42,0.052798982188295165
+"Styxx",30,"Rose Allari Imahara",43,0.047747504720798487
+"Styxx",30,"Kaptin Tiberius",44,0.04860898807704066
+"Styxx",30,"ntrosell2",45,0.03772996570003118
+"Styxx",30,"Frippyy",46,0.0695428203477141
+"Styxx",30,"Aries Wolfblade",47,0.0512521840419336
+"Styxx",30,"Kane Carnifex",48,0.061820263308528904
+"Styxx",30,"burtus antonioprimus",49,0.03621938599517075
+"Styxx",30,"Kakala Asanari",50,0.037573144441022485
+"Styxx",30,"Nikita Luciano",51,0.05253677574302011
+"Styxx",30,"Coltitus Mando",52,0.04511512134411948
+"Styxx",30,"Wheezy1442",53,0.0436046511627907
+"Styxx",30,"Aqustin Agustus",54,0.04503894344734169
+"Styxx",30,"Sawdeth Ternius",55,0.05622628492583649
+"Theman JR",31,"Zintage Enaka",1,0.05035700864336715
+"Theman JR",31,"hyprviper1",2,0.04488055980053084
+"Theman JR",31,"Machiavelian",3,0.015060625398851309
+"Theman JR",31,"The Oz",4,0.02150473223912783
+"Theman JR",31,"Itaer",5,0.007568359375
+"Theman JR",31,"Angry Mustache",6,0.04232549750496002
+"Theman JR",31,"youngpuke2",7,0.017615282235966492
+"Theman JR",31,"Ariel Rin",8,0.021367720310972487
+"Theman JR",31,"Arrowspeeed Bounty",9,0.01334411645774363
+"Theman JR",31,"Kshal Aideron",10,0.007994714238519987
+"Theman JR",31,"Mike Azariah",11,0.019707508471553416
+"Theman JR",31,"Mick Fightmaster",12,0.011664583705290723
+"Theman JR",31,"Dujek Oneye",13,0.021344824130674418
+"Theman JR",31,"Gustav Mannfred",14,0.02982456140350877
+"Theman JR",31,"Limited Liability",15,0.015359477124183006
+"Theman JR",31,"Kenneth Feld",16,0.01628527305910431
+"Theman JR",31,"Benzmann",17,0.027950310559006212
+"Theman JR",31,"en guarde",18,0.010475217169136432
+"Theman JR",31,"Drake Iddon",19,0.011952959321380375
+"Theman JR",31,"Val Auroris",20,0.02740280777537797
+"Theman JR",31,"Sven Bauer",21,0.013436385255648038
+"Theman JR",31,"Gideon Zendikar",22,0.011751326762699014
+"Theman JR",31,"Viola Terra",23,0.029615278162192085
+"Theman JR",31,"Rots Mijnwerker",24,0.02685277500830841
+"Theman JR",31,"Janstina Urthadar",25,0.022404239942182606
+"Theman JR",31,"creatnos",26,0.022069360848380626
+"Theman JR",31,"Jolange Jogua",27,0.012648945921173235
+"Theman JR",31,"Angel Maelstorm",28,0.031496062992125984
+"Theman JR",31,"yilifaerr",29,0.028419791131655537
+"Theman JR",31,"Styxx",30,0.033314350797266516
+"Theman JR",31,"Theman JR",31,1.0
+"Theman JR",31,"Bexey Songweaver",32,0.02152046783625731
+"Theman JR",31,"Orion Sa-Solo",33,0.03282208588957055
+"Theman JR",31,"Ankh Lai",34,0.018963165075034108
+"Theman JR",31,"MILINT ARC Trooper",35,0.03255508056560342
+"Theman JR",31,"ElenHellen",36,0.031283327408460716
+"Theman JR",31,"ThePuce Moose",37,0.01599660249150623
+"Theman JR",31,"NeoShocker",38,0.0319634703196347
+"Theman JR",31,"Teddy Shi",39,0.029501525940996948
+"Theman JR",31,"Oncepure",40,0.03211148136928203
+"Theman JR",31,"Fluffy Neko",41,0.021744324970131422
+"Theman JR",31,"CollegeKid",42,0.04245671887881286
+"Theman JR",31,"Rose Allari Imahara",43,0.08572428271518544
+"Theman JR",31,"Kaptin Tiberius",44,0.0323460639127046
+"Theman JR",31,"ntrosell2",45,0.031174089068825912
+"Theman JR",31,"Frippyy",46,0.04826732673267327
+"Theman JR",31,"Aries Wolfblade",47,0.03664345914254306
+"Theman JR",31,"Kane Carnifex",48,0.0397586084487043
+"Theman JR",31,"burtus antonioprimus",49,0.029643353404353867
+"Theman JR",31,"Kakala Asanari",50,0.029025844930417495
+"Theman JR",31,"Nikita Luciano",51,0.05131172839506173
+"Theman JR",31,"Coltitus Mando",52,0.02996404314822213
+"Theman JR",31,"Wheezy1442",53,0.025533696107157805
+"Theman JR",31,"Aqustin Agustus",54,0.03178155774395703
+"Theman JR",31,"Sawdeth Ternius",55,0.034936479128856626
+"Bexey Songweaver",32,"Zintage Enaka",1,0.04175351307738856
+"Bexey Songweaver",32,"hyprviper1",2,0.00897016897295042
+"Bexey Songweaver",32,"Machiavelian",3,0.020799655135251643
+"Bexey Songweaver",32,"The Oz",4,0.02980285598658727
+"Bexey Songweaver",32,"Itaer",5,0.08865914786967419
+"Bexey Songweaver",32,"Angry Mustache",6,0.024392894007714456
+"Bexey Songweaver",32,"youngpuke2",7,0.024080690784576447
+"Bexey Songweaver",32,"Ariel Rin",8,0.03585463858347684
+"Bexey Songweaver",32,"Arrowspeeed Bounty",9,0.03516609392898053
+"Bexey Songweaver",32,"Kshal Aideron",10,0.06090311156083987
+"Bexey Songweaver",32,"Mike Azariah",11,0.04240766073871409
+"Bexey Songweaver",32,"Mick Fightmaster",12,0.01680210849989018
+"Bexey Songweaver",32,"Dujek Oneye",13,0.01280865624710996
+"Bexey Songweaver",32,"Gustav Mannfred",14,0.04482466063348416
+"Bexey Songweaver",32,"Limited Liability",15,0.19262800740283775
+"Bexey Songweaver",32,"Kenneth Feld",16,0.0211029497493296
+"Bexey Songweaver",32,"Benzmann",17,0.0595832615808507
+"Bexey Songweaver",32,"en guarde",18,0.019902650081124934
+"Bexey Songweaver",32,"Drake Iddon",19,0.045291969428861864
+"Bexey Songweaver",32,"Val Auroris",20,0.03093947606142728
+"Bexey Songweaver",32,"Sven Bauer",21,0.024484799020608038
+"Bexey Songweaver",32,"Gideon Zendikar",22,0.02397076211974632
+"Bexey Songweaver",32,"Viola Terra",23,0.09832285115303983
+"Bexey Songweaver",32,"Rots Mijnwerker",24,0.010180389355242007
+"Bexey Songweaver",32,"Janstina Urthadar",25,0.05588127519237816
+"Bexey Songweaver",32,"creatnos",26,0.02582206980028243
+"Bexey Songweaver",32,"Jolange Jogua",27,0.016159284374549127
+"Bexey Songweaver",32,"Angel Maelstorm",28,0.10314643955524012
+"Bexey Songweaver",32,"yilifaerr",29,0.007744433688286544
+"Bexey Songweaver",32,"Styxx",30,0.06495655771617707
+"Bexey Songweaver",32,"Theman JR",31,0.02152046783625731
+"Bexey Songweaver",32,"Bexey Songweaver",32,1.0
+"Bexey Songweaver",32,"Orion Sa-Solo",33,0.03560830860534125
+"Bexey Songweaver",32,"Ankh Lai",34,0.04088013896931094
+"Bexey Songweaver",32,"MILINT ARC Trooper",35,0.0521680216802168
+"Bexey Songweaver",32,"ElenHellen",36,0.07516419362685478
+"Bexey Songweaver",32,"ThePuce Moose",37,0.0930115635997989
+"Bexey Songweaver",32,"NeoShocker",38,0.06735620585267407
+"Bexey Songweaver",32,"Teddy Shi",39,0.08633436680181254
+"Bexey Songweaver",32,"Oncepure",40,0.08765731949657761
+"Bexey Songweaver",32,"Fluffy Neko",41,0.16717019133937563
+"Bexey Songweaver",32,"CollegeKid",42,0.06891998943754951
+"Bexey Songweaver",32,"Rose Allari Imahara",43,0.07214103456274647
+"Bexey Songweaver",32,"Kaptin Tiberius",44,0.03862447047096935
+"Bexey Songweaver",32,"ntrosell2",45,0.04149590163934426
+"Bexey Songweaver",32,"Frippyy",46,0.040492055356227574
+"Bexey Songweaver",32,"Aries Wolfblade",47,0.0805168986083499
+"Bexey Songweaver",32,"Kane Carnifex",48,0.03514079590411915
+"Bexey Songweaver",32,"burtus antonioprimus",49,0.03341618337475835
+"Bexey Songweaver",32,"Kakala Asanari",50,0.030356246864024085
+"Bexey Songweaver",32,"Nikita Luciano",51,0.06312625250501001
+"Bexey Songweaver",32,"Coltitus Mando",52,0.039583861963968535
+"Bexey Songweaver",32,"Wheezy1442",53,0.03305570015616866
+"Bexey Songweaver",32,"Aqustin Agustus",54,0.03659528327460016
+"Bexey Songweaver",32,"Sawdeth Ternius",55,0.031207598371777476
+"Orion Sa-Solo",33,"Zintage Enaka",1,0.009050403787245892
+"Orion Sa-Solo",33,"hyprviper1",2,0.007832898172323759
+"Orion Sa-Solo",33,"Machiavelian",3,0.021584468829133004
+"Orion Sa-Solo",33,"The Oz",4,0.028577369812553842
+"Orion Sa-Solo",33,"Itaer",5,0.015908017010552843
+"Orion Sa-Solo",33,"Angry Mustache",6,0.019410824389129937
+"Orion Sa-Solo",33,"youngpuke2",7,0.03376349955163944
+"Orion Sa-Solo",33,"Ariel Rin",8,0.018040886632518925
+"Orion Sa-Solo",33,"Arrowspeeed Bounty",9,0.02031230163767932
+"Orion Sa-Solo",33,"Kshal Aideron",10,0.022491573761991186
+"Orion Sa-Solo",33,"Mike Azariah",11,0.03614457831325301
+"Orion Sa-Solo",33,"Mick Fightmaster",12,0.03522042311783477
+"Orion Sa-Solo",33,"Dujek Oneye",13,0.027628926798092524
+"Orion Sa-Solo",33,"Gustav Mannfred",14,0.04823625922887613
+"Orion Sa-Solo",33,"Limited Liability",15,0.027625152625152624
+"Orion Sa-Solo",33,"Kenneth Feld",16,0.025647805393971445
+"Orion Sa-Solo",33,"Benzmann",17,0.13227862008349814
+"Orion Sa-Solo",33,"en guarde",18,0.013954047876819439
+"Orion Sa-Solo",33,"Drake Iddon",19,0.02740882917466411
+"Orion Sa-Solo",33,"Val Auroris",20,0.03791650708540789
+"Orion Sa-Solo",33,"Sven Bauer",21,0.025635208711433755
+"Orion Sa-Solo",33,"Gideon Zendikar",22,0.030581409404085578
+"Orion Sa-Solo",33,"Viola Terra",23,0.056580259222333
+"Orion Sa-Solo",33,"Rots Mijnwerker",24,0.030792072816474083
+"Orion Sa-Solo",33,"Janstina Urthadar",25,0.033637152777777776
+"Orion Sa-Solo",33,"creatnos",26,0.1297013274336283
+"Orion Sa-Solo",33,"Jolange Jogua",27,0.013756081194430465
+"Orion Sa-Solo",33,"Angel Maelstorm",28,0.058364634498699795
+"Orion Sa-Solo",33,"yilifaerr",29,0.007313936666130847
+"Orion Sa-Solo",33,"Styxx",30,0.05359410718821438
+"Orion Sa-Solo",33,"Theman JR",31,0.03282208588957055
+"Orion Sa-Solo",33,"Bexey Songweaver",32,0.03560830860534125
+"Orion Sa-Solo",33,"Orion Sa-Solo",33,1.0
+"Orion Sa-Solo",33,"Ankh Lai",34,0.02845371443285696
+"Orion Sa-Solo",33,"MILINT ARC Trooper",35,0.05416306539902045
+"Orion Sa-Solo",33,"ElenHellen",36,0.04747320061255743
+"Orion Sa-Solo",33,"ThePuce Moose",37,0.06533776301218161
+"Orion Sa-Solo",33,"NeoShocker",38,0.0631786771964462
+"Orion Sa-Solo",33,"Teddy Shi",39,0.06373429084380611
+"Orion Sa-Solo",33,"Oncepure",40,0.03615729743995777
+"Orion Sa-Solo",33,"Fluffy Neko",41,0.035637149028077755
+"Orion Sa-Solo",33,"CollegeKid",42,0.046703296703296704
+"Orion Sa-Solo",33,"Rose Allari Imahara",43,0.05751824817518248
+"Orion Sa-Solo",33,"Kaptin Tiberius",44,0.038348082595870206
+"Orion Sa-Solo",33,"ntrosell2",45,0.033715441672285906
+"Orion Sa-Solo",33,"Frippyy",46,0.041524846834581346
+"Orion Sa-Solo",33,"Aries Wolfblade",47,0.051837888784165884
+"Orion Sa-Solo",33,"Kane Carnifex",48,0.03949351823937293
+"Orion Sa-Solo",33,"burtus antonioprimus",49,0.033157498116051246
+"Orion Sa-Solo",33,"Kakala Asanari",50,0.03843582887700535
+"Orion Sa-Solo",33,"Nikita Luciano",51,0.055645948584445167
+"Orion Sa-Solo",33,"Coltitus Mando",52,0.04911924119241192
+"Orion Sa-Solo",33,"Wheezy1442",53,0.033414549251653325
+"Orion Sa-Solo",33,"Aqustin Agustus",54,0.03254113345521024
+"Orion Sa-Solo",33,"Sawdeth Ternius",55,0.036653091447611995
+"Ankh Lai",34,"Zintage Enaka",1,0.009993482511405605
+"Ankh Lai",34,"hyprviper1",2,0.00847457627118644
+"Ankh Lai",34,"Machiavelian",3,0.4449551827166169
+"Ankh Lai",34,"The Oz",4,0.14654942712496669
+"Ankh Lai",34,"Itaer",5,0.3378973874724583
+"Ankh Lai",34,"Angry Mustache",6,0.02277702734174857
+"Ankh Lai",34,"youngpuke2",7,0.0162644803664487
+"Ankh Lai",34,"Ariel Rin",8,0.043777262545683183
+"Ankh Lai",34,"Arrowspeeed Bounty",9,0.01573090117981759
+"Ankh Lai",34,"Kshal Aideron",10,0.30025511872833127
+"Ankh Lai",34,"Mike Azariah",11,0.3909728839989604
+"Ankh Lai",34,"Mick Fightmaster",12,0.2527523467377448
+"Ankh Lai",34,"Dujek Oneye",13,0.014113639128847793
+"Ankh Lai",34,"Gustav Mannfred",14,0.04554514650189356
+"Ankh Lai",34,"Limited Liability",15,0.022073389302895954
+"Ankh Lai",34,"Kenneth Feld",16,0.027907782977985785
+"Ankh Lai",34,"Benzmann",17,0.024123049684629853
+"Ankh Lai",34,"en guarde",18,0.43309698078682524
+"Ankh Lai",34,"Drake Iddon",19,0.034175433893989145
+"Ankh Lai",34,"Val Auroris",20,0.031105116749557446
+"Ankh Lai",34,"Sven Bauer",21,0.4112089327893494
+"Ankh Lai",34,"Gideon Zendikar",22,0.4130021259930626
+"Ankh Lai",34,"Viola Terra",23,0.039765644477686365
+"Ankh Lai",34,"Rots Mijnwerker",24,0.037638300072381344
+"Ankh Lai",34,"Janstina Urthadar",25,0.022255535055350554
+"Ankh Lai",34,"creatnos",26,0.012741217219198417
+"Ankh Lai",34,"Jolange Jogua",27,0.009754155469294317
+"Ankh Lai",34,"Angel Maelstorm",28,0.04340231120666487
+"Ankh Lai",34,"yilifaerr",29,0.009221622277498029
+"Ankh Lai",34,"Styxx",30,0.026630164260826282
+"Ankh Lai",34,"Theman JR",31,0.018963165075034108
+"Ankh Lai",34,"Bexey Songweaver",32,0.04088013896931094
+"Ankh Lai",34,"Orion Sa-Solo",33,0.02845371443285696
+"Ankh Lai",34,"Ankh Lai",34,1.0
+"Ankh Lai",34,"MILINT ARC Trooper",35,0.03618157543391188
+"Ankh Lai",34,"ElenHellen",36,0.02956474130851355
+"Ankh Lai",34,"ThePuce Moose",37,0.06068506697833318
+"Ankh Lai",34,"NeoShocker",38,0.02059846903270703
+"Ankh Lai",34,"Teddy Shi",39,0.03865979381443299
+"Ankh Lai",34,"Oncepure",40,0.018006593963986812
+"Ankh Lai",34,"Fluffy Neko",41,0.019830353049060064
+"Ankh Lai",34,"CollegeKid",42,0.020553811019126463
+"Ankh Lai",34,"Rose Allari Imahara",43,0.026036131774707757
+"Ankh Lai",34,"Kaptin Tiberius",44,0.019921436588103254
+"Ankh Lai",34,"ntrosell2",45,0.01890547263681592
+"Ankh Lai",34,"Frippyy",46,0.019501779359430604
+"Ankh Lai",34,"Aries Wolfblade",47,0.029432085118142878
+"Ankh Lai",34,"Kane Carnifex",48,0.019994596055120238
+"Ankh Lai",34,"burtus antonioprimus",49,0.017543859649122806
+"Ankh Lai",34,"Kakala Asanari",50,0.017789072426937738
+"Ankh Lai",34,"Nikita Luciano",51,0.02655114589155953
+"Ankh Lai",34,"Coltitus Mando",52,0.02345749218083594
+"Ankh Lai",34,"Wheezy1442",53,0.013618119266055046
+"Ankh Lai",34,"Aqustin Agustus",54,0.01957897836007655
+"Ankh Lai",34,"Sawdeth Ternius",55,0.01589637915808066
+"MILINT ARC Trooper",35,"Zintage Enaka",1,0.009838618346545867
+"MILINT ARC Trooper",35,"hyprviper1",2,0.008503530483638297
+"MILINT ARC Trooper",35,"Machiavelian",3,0.028439565922414867
+"MILINT ARC Trooper",35,"The Oz",4,0.023993808049535603
+"MILINT ARC Trooper",35,"Itaer",5,0.018402442944390873
+"MILINT ARC Trooper",35,"Angry Mustache",6,0.021793311308178288
+"MILINT ARC Trooper",35,"youngpuke2",7,0.019230769230769232
+"MILINT ARC Trooper",35,"Ariel Rin",8,0.01939566234123527
+"MILINT ARC Trooper",35,"Arrowspeeed Bounty",9,0.020648196549921588
+"MILINT ARC Trooper",35,"Kshal Aideron",10,0.023298670527839935
+"MILINT ARC Trooper",35,"Mike Azariah",11,0.05696259576385759
+"MILINT ARC Trooper",35,"Mick Fightmaster",12,0.022591519309243597
+"MILINT ARC Trooper",35,"Dujek Oneye",13,0.012239302849309703
+"MILINT ARC Trooper",35,"Gustav Mannfred",14,0.0735191637630662
+"MILINT ARC Trooper",35,"Limited Liability",15,0.03237067597588067
+"MILINT ARC Trooper",35,"Kenneth Feld",16,0.031078860898138008
+"MILINT ARC Trooper",35,"Benzmann",17,0.05301410859341599
+"MILINT ARC Trooper",35,"en guarde",18,0.020276153750466475
+"MILINT ARC Trooper",35,"Drake Iddon",19,0.017094017094017096
+"MILINT ARC Trooper",35,"Val Auroris",20,0.03618722957912679
+"MILINT ARC Trooper",35,"Sven Bauer",21,0.027748630057129534
+"MILINT ARC Trooper",35,"Gideon Zendikar",22,0.027103960396039604
+"MILINT ARC Trooper",35,"Viola Terra",23,0.04971219256933543
+"MILINT ARC Trooper",35,"Rots Mijnwerker",24,0.01339084529710938
+"MILINT ARC Trooper",35,"Janstina Urthadar",25,0.027639329406434075
+"MILINT ARC Trooper",35,"creatnos",26,0.0362610797743755
+"MILINT ARC Trooper",35,"Jolange Jogua",27,0.013416971597839345
+"MILINT ARC Trooper",35,"Angel Maelstorm",28,0.07711598746081505
+"MILINT ARC Trooper",35,"yilifaerr",29,0.007862407862407862
+"MILINT ARC Trooper",35,"Styxx",30,0.05403225806451613
+"MILINT ARC Trooper",35,"Theman JR",31,0.03255508056560342
+"MILINT ARC Trooper",35,"Bexey Songweaver",32,0.0521680216802168
+"MILINT ARC Trooper",35,"Orion Sa-Solo",33,0.05416306539902045
+"MILINT ARC Trooper",35,"Ankh Lai",34,0.03618157543391188
+"MILINT ARC Trooper",35,"MILINT ARC Trooper",35,1.0
+"MILINT ARC Trooper",35,"ElenHellen",36,0.05032894736842105
+"MILINT ARC Trooper",35,"ThePuce Moose",37,0.03148736362380886
+"MILINT ARC Trooper",35,"NeoShocker",38,0.05329593267882188
+"MILINT ARC Trooper",35,"Teddy Shi",39,0.08971840209561231
+"MILINT ARC Trooper",35,"Oncepure",40,0.0466893039049236
+"MILINT ARC Trooper",35,"Fluffy Neko",41,0.044591813400411615
+"MILINT ARC Trooper",35,"CollegeKid",42,0.0436551979282279
+"MILINT ARC Trooper",35,"Rose Allari Imahara",43,0.046224961479198766
+"MILINT ARC Trooper",35,"Kaptin Tiberius",44,0.05563531945441493
+"MILINT ARC Trooper",35,"ntrosell2",45,0.04605747973470892
+"MILINT ARC Trooper",35,"Frippyy",46,0.046545991872922056
+"MILINT ARC Trooper",35,"Aries Wolfblade",47,0.05617597292724196
+"MILINT ARC Trooper",35,"Kane Carnifex",48,0.044084278768233384
+"MILINT ARC Trooper",35,"burtus antonioprimus",49,0.05761143818334735
+"MILINT ARC Trooper",35,"Kakala Asanari",50,0.04083845319840983
+"MILINT ARC Trooper",35,"Nikita Luciano",51,0.05896805896805897
+"MILINT ARC Trooper",35,"Coltitus Mando",52,0.05321100917431193
+"MILINT ARC Trooper",35,"Wheezy1442",53,0.04139764527155336
+"MILINT ARC Trooper",35,"Aqustin Agustus",54,0.042134831460674156
+"MILINT ARC Trooper",35,"Sawdeth Ternius",55,0.07297748123436197
+"ElenHellen",36,"Zintage Enaka",1,0.009935205183585313
+"ElenHellen",36,"hyprviper1",2,0.008270851047383473
+"ElenHellen",36,"Machiavelian",3,0.024833589349718382
+"ElenHellen",36,"The Oz",4,0.01479456938296545
+"ElenHellen",36,"Itaer",5,0.01007311129163282
+"ElenHellen",36,"Angry Mustache",6,0.015355870847200326
+"ElenHellen",36,"youngpuke2",7,0.007932208636433988
+"ElenHellen",36,"Ariel Rin",8,0.018147307995000233
+"ElenHellen",36,"Arrowspeeed Bounty",9,0.03048863481693208
+"ElenHellen",36,"Kshal Aideron",10,0.025247789981248325
+"ElenHellen",36,"Mike Azariah",11,0.026080743122543767
+"ElenHellen",36,"Mick Fightmaster",12,0.01355206847360913
+"ElenHellen",36,"Dujek Oneye",13,0.01018239335672977
+"ElenHellen",36,"Gustav Mannfred",14,0.04887550911988667
+"ElenHellen",36,"Limited Liability",15,0.04397801099450275
+"ElenHellen",36,"Kenneth Feld",16,0.022004204625087596
+"ElenHellen",36,"Benzmann",17,0.06474329850068151
+"ElenHellen",36,"en guarde",18,0.02418006430868167
+"ElenHellen",36,"Drake Iddon",19,0.009287688056493706
+"ElenHellen",36,"Val Auroris",20,0.039045553145336226
+"ElenHellen",36,"Sven Bauer",21,0.022169249106078665
+"ElenHellen",36,"Gideon Zendikar",22,0.021287379624936646
+"ElenHellen",36,"Viola Terra",23,0.09109311740890688
+"ElenHellen",36,"Rots Mijnwerker",24,0.010692397965836485
+"ElenHellen",36,"Janstina Urthadar",25,0.050097751710654934
+"ElenHellen",36,"creatnos",26,0.03370465581262497
+"ElenHellen",36,"Jolange Jogua",27,0.015846994535519125
+"ElenHellen",36,"Angel Maelstorm",28,0.09261790840738209
+"ElenHellen",36,"yilifaerr",29,0.009115236661649106
+"ElenHellen",36,"Styxx",30,0.06170703575547866
+"ElenHellen",36,"Theman JR",31,0.031283327408460716
+"ElenHellen",36,"Bexey Songweaver",32,0.07516419362685478
+"ElenHellen",36,"Orion Sa-Solo",33,0.04747320061255743
+"ElenHellen",36,"Ankh Lai",34,0.02956474130851355
+"ElenHellen",36,"MILINT ARC Trooper",35,0.05032894736842105
+"ElenHellen",36,"ElenHellen",36,1.0
+"ElenHellen",36,"ThePuce Moose",37,0.021042225674339783
+"ElenHellen",36,"NeoShocker",38,0.05053191489361702
+"ElenHellen",36,"Teddy Shi",39,0.05715263518138262
+"ElenHellen",36,"Oncepure",40,0.09980928162746344
+"ElenHellen",36,"Fluffy Neko",41,0.04920019389238972
+"ElenHellen",36,"CollegeKid",42,0.05173116089613035
+"ElenHellen",36,"Rose Allari Imahara",43,0.0767656090071648
+"ElenHellen",36,"Kaptin Tiberius",44,0.05794831636648395
+"ElenHellen",36,"ntrosell2",45,0.04501607717041801
+"ElenHellen",36,"Frippyy",46,0.05532953620829943
+"ElenHellen",36,"Aries Wolfblade",47,0.049144521295959226
+"ElenHellen",36,"Kane Carnifex",48,0.05894886363636364
+"ElenHellen",36,"burtus antonioprimus",49,0.0464367816091954
+"ElenHellen",36,"Kakala Asanari",50,0.040173296573454115
+"ElenHellen",36,"Nikita Luciano",51,0.06723011909335382
+"ElenHellen",36,"Coltitus Mando",52,0.04988028731045491
+"ElenHellen",36,"Wheezy1442",53,0.044657762938230386
+"ElenHellen",36,"Aqustin Agustus",54,0.05173951828724353
+"ElenHellen",36,"Sawdeth Ternius",55,0.0377945753668297
+"ThePuce Moose",37,"Zintage Enaka",1,0.02177068214804064
+"ThePuce Moose",37,"hyprviper1",2,0.007328137722461324
+"ThePuce Moose",37,"Machiavelian",3,0.017732847199204507
+"ThePuce Moose",37,"The Oz",4,0.0940479918021121
+"ThePuce Moose",37,"Itaer",5,0.2990748658944259
+"ThePuce Moose",37,"Angry Mustache",6,0.021595624292719728
+"ThePuce Moose",37,"youngpuke2",7,0.09543763320449374
+"ThePuce Moose",37,"Ariel Rin",8,0.07207280741133738
+"ThePuce Moose",37,"Arrowspeeed Bounty",9,0.014384793218597482
+"ThePuce Moose",37,"Kshal Aideron",10,0.12106468231253578
+"ThePuce Moose",37,"Mike Azariah",11,0.07172479434359916
+"ThePuce Moose",37,"Mick Fightmaster",12,0.09751453712756651
+"ThePuce Moose",37,"Dujek Oneye",13,0.06714742205717247
+"ThePuce Moose",37,"Gustav Mannfred",14,0.041032969276309075
+"ThePuce Moose",37,"Limited Liability",15,0.2174364896073903
+"ThePuce Moose",37,"Kenneth Feld",16,0.0211864406779661
+"ThePuce Moose",37,"Benzmann",17,0.07225744706304582
+"ThePuce Moose",37,"en guarde",18,0.015179163901791639
+"ThePuce Moose",37,"Drake Iddon",19,0.15806219461384038
+"ThePuce Moose",37,"Val Auroris",20,0.03493109127156106
+"ThePuce Moose",37,"Sven Bauer",21,0.06057105132860208
+"ThePuce Moose",37,"Gideon Zendikar",22,0.07728582656536546
+"ThePuce Moose",37,"Viola Terra",23,0.06229378381945361
+"ThePuce Moose",37,"Rots Mijnwerker",24,0.04917511007373614
+"ThePuce Moose",37,"Janstina Urthadar",25,0.1167122573922105
+"ThePuce Moose",37,"creatnos",26,0.0456953642384106
+"ThePuce Moose",37,"Jolange Jogua",27,0.008082668303662778
+"ThePuce Moose",37,"Angel Maelstorm",28,0.025102880658436213
+"ThePuce Moose",37,"yilifaerr",29,0.006156498183833035
+"ThePuce Moose",37,"Styxx",30,0.029362307592808175
+"ThePuce Moose",37,"Theman JR",31,0.01599660249150623
+"ThePuce Moose",37,"Bexey Songweaver",32,0.0930115635997989
+"ThePuce Moose",37,"Orion Sa-Solo",33,0.06533776301218161
+"ThePuce Moose",37,"Ankh Lai",34,0.06068506697833318
+"ThePuce Moose",37,"MILINT ARC Trooper",35,0.03148736362380886
+"ThePuce Moose",37,"ElenHellen",36,0.021042225674339783
+"ThePuce Moose",37,"ThePuce Moose",37,1.0
+"ThePuce Moose",37,"NeoShocker",38,0.05136628341048231
+"ThePuce Moose",37,"Teddy Shi",39,0.03006993006993007
+"ThePuce Moose",37,"Oncepure",40,0.09234679469076532
+"ThePuce Moose",37,"Fluffy Neko",41,0.12102657634184472
+"ThePuce Moose",37,"CollegeKid",42,0.025112107623318385
+"ThePuce Moose",37,"Rose Allari Imahara",43,0.022986923606331727
+"ThePuce Moose",37,"Kaptin Tiberius",44,0.02077238150965477
+"ThePuce Moose",37,"ntrosell2",45,0.023062044338640085
+"ThePuce Moose",37,"Frippyy",46,0.021257618552103463
+"ThePuce Moose",37,"Aries Wolfblade",47,0.0329004329004329
+"ThePuce Moose",37,"Kane Carnifex",48,0.018523715969688465
+"ThePuce Moose",37,"burtus antonioprimus",49,0.01314365238905211
+"ThePuce Moose",37,"Kakala Asanari",50,0.05009867921663883
+"ThePuce Moose",37,"Nikita Luciano",51,0.024546114742193172
+"ThePuce Moose",37,"Coltitus Mando",52,0.02099039172209904
+"ThePuce Moose",37,"Wheezy1442",53,0.022165259348612788
+"ThePuce Moose",37,"Aqustin Agustus",54,0.014683389415723462
+"ThePuce Moose",37,"Sawdeth Ternius",55,0.014426028238182934
+"NeoShocker",38,"Zintage Enaka",1,0.0077186339474259085
+"NeoShocker",38,"hyprviper1",2,0.009185115402731984
+"NeoShocker",38,"Machiavelian",3,0.021029258098223615
+"NeoShocker",38,"The Oz",4,0.013757497985615805
+"NeoShocker",38,"Itaer",5,0.023487128050819123
+"NeoShocker",38,"Angry Mustache",6,0.013731730315888731
+"NeoShocker",38,"youngpuke2",7,0.020400110484157363
+"NeoShocker",38,"Ariel Rin",8,0.011974380395433026
+"NeoShocker",38,"Arrowspeeed Bounty",9,0.014568444200109951
+"NeoShocker",38,"Kshal Aideron",10,0.01585595270088686
+"NeoShocker",38,"Mike Azariah",11,0.026342083749659368
+"NeoShocker",38,"Mick Fightmaster",12,0.014193781199254225
+"NeoShocker",38,"Dujek Oneye",13,0.007714129298760763
+"NeoShocker",38,"Gustav Mannfred",14,0.041220265117123664
+"NeoShocker",38,"Limited Liability",15,0.02668918918918919
+"NeoShocker",38,"Kenneth Feld",16,0.015875286041189932
+"NeoShocker",38,"Benzmann",17,0.05860202400564839
+"NeoShocker",38,"en guarde",18,0.017272965192358023
+"NeoShocker",38,"Drake Iddon",19,0.013626834381551363
+"NeoShocker",38,"Val Auroris",20,0.03646699944536883
+"NeoShocker",38,"Sven Bauer",21,0.02455411678475446
+"NeoShocker",38,"Gideon Zendikar",22,0.019163537485433122
+"NeoShocker",38,"Viola Terra",23,0.0525697503671072
+"NeoShocker",38,"Rots Mijnwerker",24,0.00842937108989134
+"NeoShocker",38,"Janstina Urthadar",25,0.026486756621689155
+"NeoShocker",38,"creatnos",26,0.03437876960193004
+"NeoShocker",38,"Jolange Jogua",27,0.011830985915492958
+"NeoShocker",38,"Angel Maelstorm",28,0.05655075518089217
+"NeoShocker",38,"yilifaerr",29,0.006098593935287142
+"NeoShocker",38,"Styxx",30,0.06299452221545952
+"NeoShocker",38,"Theman JR",31,0.0319634703196347
+"NeoShocker",38,"Bexey Songweaver",32,0.06735620585267407
+"NeoShocker",38,"Orion Sa-Solo",33,0.0631786771964462
+"NeoShocker",38,"Ankh Lai",34,0.02059846903270703
+"NeoShocker",38,"MILINT ARC Trooper",35,0.05329593267882188
+"NeoShocker",38,"ElenHellen",36,0.05053191489361702
+"NeoShocker",38,"ThePuce Moose",37,0.05136628341048231
+"NeoShocker",38,"NeoShocker",38,1.0
+"NeoShocker",38,"Teddy Shi",39,0.05762217359591539
+"NeoShocker",38,"Oncepure",40,0.0437141033822591
+"NeoShocker",38,"Fluffy Neko",41,0.03655483224837256
+"NeoShocker",38,"CollegeKid",42,0.06687472135532768
+"NeoShocker",38,"Rose Allari Imahara",43,0.050265486725663715
+"NeoShocker",38,"Kaptin Tiberius",44,0.060337552742616034
+"NeoShocker",38,"ntrosell2",45,0.042820069204152246
+"NeoShocker",38,"Frippyy",46,0.05159597726278968
+"NeoShocker",38,"Aries Wolfblade",47,0.04867601246105919
+"NeoShocker",38,"Kane Carnifex",48,0.04177545691906005
+"NeoShocker",38,"burtus antonioprimus",49,0.03779214321233217
+"NeoShocker",38,"Kakala Asanari",50,0.045183290707587385
+"NeoShocker",38,"Nikita Luciano",51,0.056303549571603426
+"NeoShocker",38,"Coltitus Mando",52,0.04627249357326478
+"NeoShocker",38,"Wheezy1442",53,0.05373406193078324
+"NeoShocker",38,"Aqustin Agustus",54,0.03779904306220096
+"NeoShocker",38,"Sawdeth Ternius",55,0.049926578560939794
+"Teddy Shi",39,"Zintage Enaka",1,0.007827510140183591
+"Teddy Shi",39,"hyprviper1",2,0.015957446808510637
+"Teddy Shi",39,"Machiavelian",3,0.021840090372787748
+"Teddy Shi",39,"The Oz",4,0.022999134922292157
+"Teddy Shi",39,"Itaer",5,0.011182622687047465
+"Teddy Shi",39,"Angry Mustache",6,0.025873675583913833
+"Teddy Shi",39,"youngpuke2",7,0.016933354046916264
+"Teddy Shi",39,"Ariel Rin",8,0.019488597097442984
+"Teddy Shi",39,"Arrowspeeed Bounty",9,0.020121789780248873
+"Teddy Shi",39,"Kshal Aideron",10,0.023594909862142098
+"Teddy Shi",39,"Mike Azariah",11,0.05023945061895726
+"Teddy Shi",39,"Mick Fightmaster",12,0.01602033577677938
+"Teddy Shi",39,"Dujek Oneye",13,0.013249273506378367
+"Teddy Shi",39,"Gustav Mannfred",14,0.04286452057152694
+"Teddy Shi",39,"Limited Liability",15,0.031083910452568853
+"Teddy Shi",39,"Kenneth Feld",16,0.0341130604288499
+"Teddy Shi",39,"Benzmann",17,0.04394890668975969
+"Teddy Shi",39,"en guarde",18,0.015550539252570855
+"Teddy Shi",39,"Drake Iddon",19,0.011479738261967628
+"Teddy Shi",39,"Val Auroris",20,0.02848476856125544
+"Teddy Shi",39,"Sven Bauer",21,0.024100634845991065
+"Teddy Shi",39,"Gideon Zendikar",22,0.016875542871323986
+"Teddy Shi",39,"Viola Terra",23,0.08194905869324474
+"Teddy Shi",39,"Rots Mijnwerker",24,0.01790131493295144
+"Teddy Shi",39,"Janstina Urthadar",25,0.029022521476665893
+"Teddy Shi",39,"creatnos",26,0.025402895383774923
+"Teddy Shi",39,"Jolange Jogua",27,0.014564831261101243
+"Teddy Shi",39,"Angel Maelstorm",28,0.09281731715316498
+"Teddy Shi",39,"yilifaerr",29,0.007680237839623421
+"Teddy Shi",39,"Styxx",30,0.05500276395798784
+"Teddy Shi",39,"Theman JR",31,0.029501525940996948
+"Teddy Shi",39,"Bexey Songweaver",32,0.08633436680181254
+"Teddy Shi",39,"Orion Sa-Solo",33,0.06373429084380611
+"Teddy Shi",39,"Ankh Lai",34,0.03865979381443299
+"Teddy Shi",39,"MILINT ARC Trooper",35,0.08971840209561231
+"Teddy Shi",39,"ElenHellen",36,0.05715263518138262
+"Teddy Shi",39,"ThePuce Moose",37,0.03006993006993007
+"Teddy Shi",39,"NeoShocker",38,0.05762217359591539
+"Teddy Shi",39,"Teddy Shi",39,1.0
+"Teddy Shi",39,"Oncepure",40,0.046579330422125184
+"Teddy Shi",39,"Fluffy Neko",41,0.04690431519699812
+"Teddy Shi",39,"CollegeKid",42,0.06257332811888933
+"Teddy Shi",39,"Rose Allari Imahara",43,0.0726857887874837
+"Teddy Shi",39,"Kaptin Tiberius",44,0.04455081001472754
+"Teddy Shi",39,"ntrosell2",45,0.03795066413662239
+"Teddy Shi",39,"Frippyy",46,0.048808608762490394
+"Teddy Shi",39,"Aries Wolfblade",47,0.03998621165115478
+"Teddy Shi",39,"Kane Carnifex",48,0.044221105527638194
+"Teddy Shi",39,"burtus antonioprimus",49,0.036097980232058444
+"Teddy Shi",39,"Kakala Asanari",50,0.049924357034795766
+"Teddy Shi",39,"Nikita Luciano",51,0.10424564063684609
+"Teddy Shi",39,"Coltitus Mando",52,0.050911854103343465
+"Teddy Shi",39,"Wheezy1442",53,0.035728307813113466
+"Teddy Shi",39,"Aqustin Agustus",54,0.04265997490589712
+"Teddy Shi",39,"Sawdeth Ternius",55,0.054227156276686596
+"Oncepure",40,"Zintage Enaka",1,0.013387254218379585
+"Oncepure",40,"hyprviper1",2,0.009461372271474335
+"Oncepure",40,"Machiavelian",3,0.03313508920985556
+"Oncepure",40,"The Oz",4,0.01597303634232122
+"Oncepure",40,"Itaer",5,0.05641276838925627
+"Oncepure",40,"Angry Mustache",6,0.014685037137835233
+"Oncepure",40,"youngpuke2",7,0.018408437200383508
+"Oncepure",40,"Ariel Rin",8,0.02013148945817275
+"Oncepure",40,"Arrowspeeed Bounty",9,0.032468362520772086
+"Oncepure",40,"Kshal Aideron",10,0.021706828606499126
+"Oncepure",40,"Mike Azariah",11,0.027147383745825128
+"Oncepure",40,"Mick Fightmaster",12,0.008558791429720259
+"Oncepure",40,"Dujek Oneye",13,0.008135168961201502
+"Oncepure",40,"Gustav Mannfred",14,0.038778477944740666
+"Oncepure",40,"Limited Liability",15,0.1487449118046133
+"Oncepure",40,"Kenneth Feld",16,0.021081576535288724
+"Oncepure",40,"Benzmann",17,0.06851851851851852
+"Oncepure",40,"en guarde",18,0.03204971971728004
+"Oncepure",40,"Drake Iddon",19,0.026186830015313935
+"Oncepure",40,"Val Auroris",20,0.03195654919792851
+"Oncepure",40,"Sven Bauer",21,0.02947177510768533
+"Oncepure",40,"Gideon Zendikar",22,0.017339667458432306
+"Oncepure",40,"Viola Terra",23,0.13021658742736397
+"Oncepure",40,"Rots Mijnwerker",24,0.007996977520307286
+"Oncepure",40,"Janstina Urthadar",25,0.07521826729348556
+"Oncepure",40,"creatnos",26,0.033316633266533065
+"Oncepure",40,"Jolange Jogua",27,0.013664389268455257
+"Oncepure",40,"Angel Maelstorm",28,0.08053691275167785
+"Oncepure",40,"yilifaerr",29,0.008664259927797834
+"Oncepure",40,"Styxx",30,0.0624048706240487
+"Oncepure",40,"Theman JR",31,0.03211148136928203
+"Oncepure",40,"Bexey Songweaver",32,0.08765731949657761
+"Oncepure",40,"Orion Sa-Solo",33,0.03615729743995777
+"Oncepure",40,"Ankh Lai",34,0.018006593963986812
+"Oncepure",40,"MILINT ARC Trooper",35,0.0466893039049236
+"Oncepure",40,"ElenHellen",36,0.09980928162746344
+"Oncepure",40,"ThePuce Moose",37,0.09234679469076532
+"Oncepure",40,"NeoShocker",38,0.0437141033822591
+"Oncepure",40,"Teddy Shi",39,0.046579330422125184
+"Oncepure",40,"Oncepure",40,1.0
+"Oncepure",40,"Fluffy Neko",41,0.1033774532177088
+"Oncepure",40,"CollegeKid",42,0.04748982360922659
+"Oncepure",40,"Rose Allari Imahara",43,0.07201405152224824
+"Oncepure",40,"Kaptin Tiberius",44,0.044610875936177144
+"Oncepure",40,"ntrosell2",45,0.0332667997338656
+"Oncepure",40,"Frippyy",46,0.045531197301854974
+"Oncepure",40,"Aries Wolfblade",47,0.04664813098548038
+"Oncepure",40,"Kane Carnifex",48,0.042438732815301854
+"Oncepure",40,"burtus antonioprimus",49,0.03304864463423691
+"Oncepure",40,"Kakala Asanari",50,0.05604026845637584
+"Oncepure",40,"Nikita Luciano",51,0.05088
+"Oncepure",40,"Coltitus Mando",52,0.037024793388429754
+"Oncepure",40,"Wheezy1442",53,0.0368711233631978
+"Oncepure",40,"Aqustin Agustus",54,0.041075972373682296
+"Oncepure",40,"Sawdeth Ternius",55,0.04296731546088873
+"Fluffy Neko",41,"Zintage Enaka",1,0.04285714285714286
+"Fluffy Neko",41,"hyprviper1",2,0.007828335779688264
+"Fluffy Neko",41,"Machiavelian",3,0.02045034265201784
+"Fluffy Neko",41,"The Oz",4,0.03940094187849182
+"Fluffy Neko",41,"Itaer",5,0.09944267515923567
+"Fluffy Neko",41,"Angry Mustache",6,0.031100609923622177
+"Fluffy Neko",41,"youngpuke2",7,0.025848202596042345
+"Fluffy Neko",41,"Ariel Rin",8,0.04010326256286999
+"Fluffy Neko",41,"Arrowspeeed Bounty",9,0.040474528960223306
+"Fluffy Neko",41,"Kshal Aideron",10,0.0616608335984728
+"Fluffy Neko",41,"Mike Azariah",11,0.03159836394257759
+"Fluffy Neko",41,"Mick Fightmaster",12,0.032614177640795744
+"Fluffy Neko",41,"Dujek Oneye",13,0.02475922010805732
+"Fluffy Neko",41,"Gustav Mannfred",14,0.04510955176858084
+"Fluffy Neko",41,"Limited Liability",15,0.2042231326820044
+"Fluffy Neko",41,"Kenneth Feld",16,0.013565664834522278
+"Fluffy Neko",41,"Benzmann",17,0.04355310724737476
+"Fluffy Neko",41,"en guarde",18,0.046509021629496806
+"Fluffy Neko",41,"Drake Iddon",19,0.04718837508514342
+"Fluffy Neko",41,"Val Auroris",20,0.02996809480401094
+"Fluffy Neko",41,"Sven Bauer",21,0.01998769987699877
+"Fluffy Neko",41,"Gideon Zendikar",22,0.020772476468679
+"Fluffy Neko",41,"Viola Terra",23,0.08264984227129338
+"Fluffy Neko",41,"Rots Mijnwerker",24,0.008003344681359374
+"Fluffy Neko",41,"Janstina Urthadar",25,0.07403900776368112
+"Fluffy Neko",41,"creatnos",26,0.02252252252252252
+"Fluffy Neko",41,"Jolange Jogua",27,0.011935953420669578
+"Fluffy Neko",41,"Angel Maelstorm",28,0.04217004786870299
+"Fluffy Neko",41,"yilifaerr",29,0.006363704424646253
+"Fluffy Neko",41,"Styxx",30,0.04526663910706904
+"Fluffy Neko",41,"Theman JR",31,0.021744324970131422
+"Fluffy Neko",41,"Bexey Songweaver",32,0.16717019133937563
+"Fluffy Neko",41,"Orion Sa-Solo",33,0.035637149028077755
+"Fluffy Neko",41,"Ankh Lai",34,0.019830353049060064
+"Fluffy Neko",41,"MILINT ARC Trooper",35,0.044591813400411615
+"Fluffy Neko",41,"ElenHellen",36,0.04920019389238972
+"Fluffy Neko",41,"ThePuce Moose",37,0.12102657634184472
+"Fluffy Neko",41,"NeoShocker",38,0.03655483224837256
+"Fluffy Neko",41,"Teddy Shi",39,0.04690431519699812
+"Fluffy Neko",41,"Oncepure",40,0.1033774532177088
+"Fluffy Neko",41,"Fluffy Neko",41,1.0
+"Fluffy Neko",41,"CollegeKid",42,0.0660021551724138
+"Fluffy Neko",41,"Rose Allari Imahara",43,0.031178880291306325
+"Fluffy Neko",41,"Kaptin Tiberius",44,0.04005102040816327
+"Fluffy Neko",41,"ntrosell2",45,0.033541341653666144
+"Fluffy Neko",41,"Frippyy",46,0.05139072847682119
+"Fluffy Neko",41,"Aries Wolfblade",47,0.06265601597603594
+"Fluffy Neko",41,"Kane Carnifex",48,0.03664049488460623
+"Fluffy Neko",41,"burtus antonioprimus",49,0.021544487968662564
+"Fluffy Neko",41,"Kakala Asanari",50,0.09071156979902227
+"Fluffy Neko",41,"Nikita Luciano",51,0.03850962740685171
+"Fluffy Neko",41,"Coltitus Mando",52,0.039169909208819714
+"Fluffy Neko",41,"Wheezy1442",53,0.03165735567970205
+"Fluffy Neko",41,"Aqustin Agustus",54,0.029509100937672367
+"Fluffy Neko",41,"Sawdeth Ternius",55,0.027993348115299334
+"CollegeKid",42,"Zintage Enaka",1,0.014712438698172091
+"CollegeKid",42,"hyprviper1",2,0.007233129321993482
+"CollegeKid",42,"Machiavelian",3,0.019906479625918502
+"CollegeKid",42,"The Oz",4,0.014533225234963818
+"CollegeKid",42,"Itaer",5,0.01703204047217538
+"CollegeKid",42,"Angry Mustache",6,0.014727803947289965
+"CollegeKid",42,"youngpuke2",7,0.013699170943545204
+"CollegeKid",42,"Ariel Rin",8,0.01250351222253442
+"CollegeKid",42,"Arrowspeeed Bounty",9,0.018246110325318247
+"CollegeKid",42,"Kshal Aideron",10,0.009802595997836668
+"CollegeKid",42,"Mike Azariah",11,0.022631094756209752
+"CollegeKid",42,"Mick Fightmaster",12,0.010725322668605708
+"CollegeKid",42,"Dujek Oneye",13,0.0077850326469111
+"CollegeKid",42,"Gustav Mannfred",14,0.03737619136609979
+"CollegeKid",42,"Limited Liability",15,0.046697443181818184
+"CollegeKid",42,"Kenneth Feld",16,0.015258215962441314
+"CollegeKid",42,"Benzmann",17,0.04353083434099154
+"CollegeKid",42,"en guarde",18,0.014975264072736997
+"CollegeKid",42,"Drake Iddon",19,0.00757840736854378
+"CollegeKid",42,"Val Auroris",20,0.02516519049627443
+"CollegeKid",42,"Sven Bauer",21,0.017361111111111112
+"CollegeKid",42,"Gideon Zendikar",22,0.017469560614081524
+"CollegeKid",42,"Viola Terra",23,0.047428395441946415
+"CollegeKid",42,"Rots Mijnwerker",24,0.007860378363975486
+"CollegeKid",42,"Janstina Urthadar",25,0.021603331598125976
+"CollegeKid",42,"creatnos",26,0.032432432432432434
+"CollegeKid",42,"Jolange Jogua",27,0.014619883040935672
+"CollegeKid",42,"Angel Maelstorm",28,0.06043543543543543
+"CollegeKid",42,"yilifaerr",29,0.0061946141271616625
+"CollegeKid",42,"Styxx",30,0.052798982188295165
+"CollegeKid",42,"Theman JR",31,0.04245671887881286
+"CollegeKid",42,"Bexey Songweaver",32,0.06891998943754951
+"CollegeKid",42,"Orion Sa-Solo",33,0.046703296703296704
+"CollegeKid",42,"Ankh Lai",34,0.020553811019126463
+"CollegeKid",42,"MILINT ARC Trooper",35,0.0436551979282279
+"CollegeKid",42,"ElenHellen",36,0.05173116089613035
+"CollegeKid",42,"ThePuce Moose",37,0.025112107623318385
+"CollegeKid",42,"NeoShocker",38,0.06687472135532768
+"CollegeKid",42,"Teddy Shi",39,0.06257332811888933
+"CollegeKid",42,"Oncepure",40,0.04748982360922659
+"CollegeKid",42,"Fluffy Neko",41,0.0660021551724138
+"CollegeKid",42,"CollegeKid",42,1.0
+"CollegeKid",42,"Rose Allari Imahara",43,0.054146156758803486
+"CollegeKid",42,"Kaptin Tiberius",44,0.04203935599284436
+"CollegeKid",42,"ntrosell2",45,0.030527289546716005
+"CollegeKid",42,"Frippyy",46,0.054579971523493115
+"CollegeKid",42,"Aries Wolfblade",47,0.09991235758106924
+"CollegeKid",42,"Kane Carnifex",48,0.04903536977491962
+"CollegeKid",42,"burtus antonioprimus",49,0.0421455938697318
+"CollegeKid",42,"Kakala Asanari",50,0.05192396847473343
+"CollegeKid",42,"Nikita Luciano",51,0.06460176991150443
+"CollegeKid",42,"Coltitus Mando",52,0.06006569685593618
+"CollegeKid",42,"Wheezy1442",53,0.03547133138969873
+"CollegeKid",42,"Aqustin Agustus",54,0.048574445617740235
+"CollegeKid",42,"Sawdeth Ternius",55,0.04084880636604774
+"Rose Allari Imahara",43,"Zintage Enaka",1,0.025733439054278093
+"Rose Allari Imahara",43,"hyprviper1",2,0.022383451682618093
+"Rose Allari Imahara",43,"Machiavelian",3,0.021912350597609563
+"Rose Allari Imahara",43,"The Oz",4,0.021858086004877177
+"Rose Allari Imahara",43,"Itaer",5,0.013230695212893913
+"Rose Allari Imahara",43,"Angry Mustache",6,0.02745006424483121
+"Rose Allari Imahara",43,"youngpuke2",7,0.015198391213550932
+"Rose Allari Imahara",43,"Ariel Rin",8,0.022481227253881235
+"Rose Allari Imahara",43,"Arrowspeeed Bounty",9,0.028446679015612597
+"Rose Allari Imahara",43,"Kshal Aideron",10,0.025249520787890806
+"Rose Allari Imahara",43,"Mike Azariah",11,0.03938828131946297
+"Rose Allari Imahara",43,"Mick Fightmaster",12,0.013510338345864662
+"Rose Allari Imahara",43,"Dujek Oneye",13,0.01845546508758944
+"Rose Allari Imahara",43,"Gustav Mannfred",14,0.05603448275862069
+"Rose Allari Imahara",43,"Limited Liability",15,0.041539204636934474
+"Rose Allari Imahara",43,"Kenneth Feld",16,0.018344883815735832
+"Rose Allari Imahara",43,"Benzmann",17,0.04443494979705191
+"Rose Allari Imahara",43,"en guarde",18,0.01820675894749969
+"Rose Allari Imahara",43,"Drake Iddon",19,0.013694438069007726
+"Rose Allari Imahara",43,"Val Auroris",20,0.04852039456145028
+"Rose Allari Imahara",43,"Sven Bauer",21,0.022838499184339316
+"Rose Allari Imahara",43,"Gideon Zendikar",22,0.017863742762104225
+"Rose Allari Imahara",43,"Viola Terra",23,0.08281122309997276
+"Rose Allari Imahara",43,"Rots Mijnwerker",24,0.01742792355037253
+"Rose Allari Imahara",43,"Janstina Urthadar",25,0.03927003927003927
+"Rose Allari Imahara",43,"creatnos",26,0.024946351931330473
+"Rose Allari Imahara",43,"Jolange Jogua",27,0.016177246351327588
+"Rose Allari Imahara",43,"Angel Maelstorm",28,0.09433354797166774
+"Rose Allari Imahara",43,"yilifaerr",29,0.01640294921713197
+"Rose Allari Imahara",43,"Styxx",30,0.047747504720798487
+"Rose Allari Imahara",43,"Theman JR",31,0.08572428271518544
+"Rose Allari Imahara",43,"Bexey Songweaver",32,0.07214103456274647
+"Rose Allari Imahara",43,"Orion Sa-Solo",33,0.05751824817518248
+"Rose Allari Imahara",43,"Ankh Lai",34,0.026036131774707757
+"Rose Allari Imahara",43,"MILINT ARC Trooper",35,0.046224961479198766
+"Rose Allari Imahara",43,"ElenHellen",36,0.0767656090071648
+"Rose Allari Imahara",43,"ThePuce Moose",37,0.022986923606331727
+"Rose Allari Imahara",43,"NeoShocker",38,0.050265486725663715
+"Rose Allari Imahara",43,"Teddy Shi",39,0.0726857887874837
+"Rose Allari Imahara",43,"Oncepure",40,0.07201405152224824
+"Rose Allari Imahara",43,"Fluffy Neko",41,0.031178880291306325
+"Rose Allari Imahara",43,"CollegeKid",42,0.054146156758803486
+"Rose Allari Imahara",43,"Rose Allari Imahara",43,1.0
+"Rose Allari Imahara",43,"Kaptin Tiberius",44,0.038998211091234344
+"Rose Allari Imahara",43,"ntrosell2",45,0.03739355794150315
+"Rose Allari Imahara",43,"Frippyy",46,0.05033809166040571
+"Rose Allari Imahara",43,"Aries Wolfblade",47,0.059065934065934064
+"Rose Allari Imahara",43,"Kane Carnifex",48,0.04978569073524563
+"Rose Allari Imahara",43,"burtus antonioprimus",49,0.03595317725752508
+"Rose Allari Imahara",43,"Kakala Asanari",50,0.039868324798829555
+"Rose Allari Imahara",43,"Nikita Luciano",51,0.08245550308754086
+"Rose Allari Imahara",43,"Coltitus Mando",52,0.04154411764705882
+"Rose Allari Imahara",43,"Wheezy1442",53,0.03600153198008426
+"Rose Allari Imahara",43,"Aqustin Agustus",54,0.044897959183673466
+"Rose Allari Imahara",43,"Sawdeth Ternius",55,0.03637106661217818
+"Kaptin Tiberius",44,"Zintage Enaka",1,0.007459412022817025
+"Kaptin Tiberius",44,"hyprviper1",2,0.00827618822416647
+"Kaptin Tiberius",44,"Machiavelian",3,0.016918032786885247
+"Kaptin Tiberius",44,"The Oz",4,0.013207829075153145
+"Kaptin Tiberius",44,"Itaer",5,0.012887669410493057
+"Kaptin Tiberius",44,"Angry Mustache",6,0.013722938601679877
+"Kaptin Tiberius",44,"youngpuke2",7,0.009035437690682938
+"Kaptin Tiberius",44,"Ariel Rin",8,0.010833178352241027
+"Kaptin Tiberius",44,"Arrowspeeed Bounty",9,0.015963353692393115
+"Kaptin Tiberius",44,"Kshal Aideron",10,0.01626619870410367
+"Kaptin Tiberius",44,"Mike Azariah",11,0.02546317422652186
+"Kaptin Tiberius",44,"Mick Fightmaster",12,0.021462880768529216
+"Kaptin Tiberius",44,"Dujek Oneye",13,0.008796041781198461
+"Kaptin Tiberius",44,"Gustav Mannfred",14,0.04380636848886435
+"Kaptin Tiberius",44,"Limited Liability",15,0.02452733776188043
+"Kaptin Tiberius",44,"Kenneth Feld",16,0.018371184724432228
+"Kaptin Tiberius",44,"Benzmann",17,0.03912839737582006
+"Kaptin Tiberius",44,"en guarde",18,0.011676725268958278
+"Kaptin Tiberius",44,"Drake Iddon",19,0.008870124336677384
+"Kaptin Tiberius",44,"Val Auroris",20,0.028444567781323715
+"Kaptin Tiberius",44,"Sven Bauer",21,0.023484569039714742
+"Kaptin Tiberius",44,"Gideon Zendikar",22,0.02696304090490596
+"Kaptin Tiberius",44,"Viola Terra",23,0.04573804573804574
+"Kaptin Tiberius",44,"Rots Mijnwerker",24,0.006866499405783705
+"Kaptin Tiberius",44,"Janstina Urthadar",25,0.02978615071283096
+"Kaptin Tiberius",44,"creatnos",26,0.022161505768063146
+"Kaptin Tiberius",44,"Jolange Jogua",27,0.013127853881278538
+"Kaptin Tiberius",44,"Angel Maelstorm",28,0.048415806336774656
+"Kaptin Tiberius",44,"yilifaerr",29,0.006388415672913117
+"Kaptin Tiberius",44,"Styxx",30,0.04860898807704066
+"Kaptin Tiberius",44,"Theman JR",31,0.0323460639127046
+"Kaptin Tiberius",44,"Bexey Songweaver",32,0.03862447047096935
+"Kaptin Tiberius",44,"Orion Sa-Solo",33,0.038348082595870206
+"Kaptin Tiberius",44,"Ankh Lai",34,0.019921436588103254
+"Kaptin Tiberius",44,"MILINT ARC Trooper",35,0.05563531945441493
+"Kaptin Tiberius",44,"ElenHellen",36,0.05794831636648395
+"Kaptin Tiberius",44,"ThePuce Moose",37,0.02077238150965477
+"Kaptin Tiberius",44,"NeoShocker",38,0.060337552742616034
+"Kaptin Tiberius",44,"Teddy Shi",39,0.04455081001472754
+"Kaptin Tiberius",44,"Oncepure",40,0.044610875936177144
+"Kaptin Tiberius",44,"Fluffy Neko",41,0.04005102040816327
+"Kaptin Tiberius",44,"CollegeKid",42,0.04203935599284436
+"Kaptin Tiberius",44,"Rose Allari Imahara",43,0.038998211091234344
+"Kaptin Tiberius",44,"Kaptin Tiberius",44,1.0
+"Kaptin Tiberius",44,"ntrosell2",45,0.07214611872146119
+"Kaptin Tiberius",44,"Frippyy",46,0.05116696588868941
+"Kaptin Tiberius",44,"Aries Wolfblade",47,0.042409829567974636
+"Kaptin Tiberius",44,"Kane Carnifex",48,0.05161787365177196
+"Kaptin Tiberius",44,"burtus antonioprimus",49,0.03794871794871795
+"Kaptin Tiberius",44,"Kakala Asanari",50,0.035543996532293023
+"Kaptin Tiberius",44,"Nikita Luciano",51,0.04552980132450331
+"Kaptin Tiberius",44,"Coltitus Mando",52,0.04847950639048039
+"Kaptin Tiberius",44,"Wheezy1442",53,0.09378036929057337
+"Kaptin Tiberius",44,"Aqustin Agustus",54,0.0572289156626506
+"Kaptin Tiberius",44,"Sawdeth Ternius",55,0.06278713629402756
+"ntrosell2",45,"Zintage Enaka",1,0.0062550592390904405
+"ntrosell2",45,"hyprviper1",2,0.005626436326174816
+"ntrosell2",45,"Machiavelian",3,0.012839179351422899
+"ntrosell2",45,"The Oz",4,0.010492018891612363
+"ntrosell2",45,"Itaer",5,0.01657830514179921
+"ntrosell2",45,"Angry Mustache",6,0.010498843347766771
+"ntrosell2",45,"youngpuke2",7,0.008042369556688897
+"ntrosell2",45,"Ariel Rin",8,0.008858221828523475
+"ntrosell2",45,"Arrowspeeed Bounty",9,0.013054463784390792
+"ntrosell2",45,"Kshal Aideron",10,0.013005486689697216
+"ntrosell2",45,"Mike Azariah",11,0.02268760907504363
+"ntrosell2",45,"Mick Fightmaster",12,0.020535386872020535
+"ntrosell2",45,"Dujek Oneye",13,0.007929736511919699
+"ntrosell2",45,"Gustav Mannfred",14,0.035900297619047616
+"ntrosell2",45,"Limited Liability",15,0.015979381443298968
+"ntrosell2",45,"Kenneth Feld",16,0.011665208515602217
+"ntrosell2",45,"Benzmann",17,0.02604783329386692
+"ntrosell2",45,"en guarde",18,0.009820836098208361
+"ntrosell2",45,"Drake Iddon",19,0.01110721384309599
+"ntrosell2",45,"Val Auroris",20,0.019525801952580194
+"ntrosell2",45,"Sven Bauer",21,0.015437816475237742
+"ntrosell2",45,"Gideon Zendikar",22,0.01689100026392188
+"ntrosell2",45,"Viola Terra",23,0.038262982083206803
+"ntrosell2",45,"Rots Mijnwerker",24,0.007649837025211202
+"ntrosell2",45,"Janstina Urthadar",25,0.02762574928329424
+"ntrosell2",45,"creatnos",26,0.033554922443811336
+"ntrosell2",45,"Jolange Jogua",27,0.013584319813700757
+"ntrosell2",45,"Angel Maelstorm",28,0.03306686046511628
+"ntrosell2",45,"yilifaerr",29,0.009045485871812543
+"ntrosell2",45,"Styxx",30,0.03772996570003118
+"ntrosell2",45,"Theman JR",31,0.031174089068825912
+"ntrosell2",45,"Bexey Songweaver",32,0.04149590163934426
+"ntrosell2",45,"Orion Sa-Solo",33,0.033715441672285906
+"ntrosell2",45,"Ankh Lai",34,0.01890547263681592
+"ntrosell2",45,"MILINT ARC Trooper",35,0.04605747973470892
+"ntrosell2",45,"ElenHellen",36,0.04501607717041801
+"ntrosell2",45,"ThePuce Moose",37,0.023062044338640085
+"ntrosell2",45,"NeoShocker",38,0.042820069204152246
+"ntrosell2",45,"Teddy Shi",39,0.03795066413662239
+"ntrosell2",45,"Oncepure",40,0.0332667997338656
+"ntrosell2",45,"Fluffy Neko",41,0.033541341653666144
+"ntrosell2",45,"CollegeKid",42,0.030527289546716005
+"ntrosell2",45,"Rose Allari Imahara",43,0.03739355794150315
+"ntrosell2",45,"Kaptin Tiberius",44,0.07214611872146119
+"ntrosell2",45,"ntrosell2",45,1.0
+"ntrosell2",45,"Frippyy",46,0.03464203233256351
+"ntrosell2",45,"Aries Wolfblade",47,0.036065573770491806
+"ntrosell2",45,"Kane Carnifex",48,0.043685464654487687
+"ntrosell2",45,"burtus antonioprimus",49,0.03891891891891892
+"ntrosell2",45,"Kakala Asanari",50,0.03064443442992339
+"ntrosell2",45,"Nikita Luciano",51,0.040790038643194505
+"ntrosell2",45,"Coltitus Mando",52,0.05661252900232019
+"ntrosell2",45,"Wheezy1442",53,0.06491575817641229
+"ntrosell2",45,"Aqustin Agustus",54,0.0421216848673947
+"ntrosell2",45,"Sawdeth Ternius",55,0.05543710021321962
+"Frippyy",46,"Zintage Enaka",1,0.01349547679074596
+"Frippyy",46,"hyprviper1",2,0.012937230474365118
+"Frippyy",46,"Machiavelian",3,0.017838125665601706
+"Frippyy",46,"The Oz",4,0.012218861369830194
+"Frippyy",46,"Itaer",5,0.008941255118241832
+"Frippyy",46,"Angry Mustache",6,0.018418849419925845
+"Frippyy",46,"youngpuke2",7,0.009192692987625222
+"Frippyy",46,"Ariel Rin",8,0.010179780527667522
+"Frippyy",46,"Arrowspeeed Bounty",9,0.019943422913719942
+"Frippyy",46,"Kshal Aideron",10,0.0119821283509342
+"Frippyy",46,"Mike Azariah",11,0.02317028319235013
+"Frippyy",46,"Mick Fightmaster",12,0.009006830683672853
+"Frippyy",46,"Dujek Oneye",13,0.010163522012578616
+"Frippyy",46,"Gustav Mannfred",14,0.04254122938530735
+"Frippyy",46,"Limited Liability",15,0.03106999476348403
+"Frippyy",46,"Kenneth Feld",16,0.01836344939033348
+"Frippyy",46,"Benzmann",17,0.04039432555902861
+"Frippyy",46,"en guarde",18,0.014815803523758676
+"Frippyy",46,"Drake Iddon",19,0.008789670192906036
+"Frippyy",46,"Val Auroris",20,0.029167253769198254
+"Frippyy",46,"Sven Bauer",21,0.02278102825843396
+"Frippyy",46,"Gideon Zendikar",22,0.017710811525244514
+"Frippyy",46,"Viola Terra",23,0.04150137320720171
+"Frippyy",46,"Rots Mijnwerker",24,0.011489645958583834
+"Frippyy",46,"Janstina Urthadar",25,0.02286308131982333
+"Frippyy",46,"creatnos",26,0.0392219387755102
+"Frippyy",46,"Jolange Jogua",27,0.013009708737864077
+"Frippyy",46,"Angel Maelstorm",28,0.04841093865484109
+"Frippyy",46,"yilifaerr",29,0.01044363887450371
+"Frippyy",46,"Styxx",30,0.0695428203477141
+"Frippyy",46,"Theman JR",31,0.04826732673267327
+"Frippyy",46,"Bexey Songweaver",32,0.040492055356227574
+"Frippyy",46,"Orion Sa-Solo",33,0.041524846834581346
+"Frippyy",46,"Ankh Lai",34,0.019501779359430604
+"Frippyy",46,"MILINT ARC Trooper",35,0.046545991872922056
+"Frippyy",46,"ElenHellen",36,0.05532953620829943
+"Frippyy",46,"ThePuce Moose",37,0.021257618552103463
+"Frippyy",46,"NeoShocker",38,0.05159597726278968
+"Frippyy",46,"Teddy Shi",39,0.048808608762490394
+"Frippyy",46,"Oncepure",40,0.045531197301854974
+"Frippyy",46,"Fluffy Neko",41,0.05139072847682119
+"Frippyy",46,"CollegeKid",42,0.054579971523493115
+"Frippyy",46,"Rose Allari Imahara",43,0.05033809166040571
+"Frippyy",46,"Kaptin Tiberius",44,0.05116696588868941
+"Frippyy",46,"ntrosell2",45,0.03464203233256351
+"Frippyy",46,"Frippyy",46,1.0
+"Frippyy",46,"Aries Wolfblade",47,0.05655634687892752
+"Frippyy",46,"Kane Carnifex",48,0.047961630695443645
+"Frippyy",46,"burtus antonioprimus",49,0.04585152838427948
+"Frippyy",46,"Kakala Asanari",50,0.03823395539371871
+"Frippyy",46,"Nikita Luciano",51,0.049023861171366596
+"Frippyy",46,"Coltitus Mando",52,0.038408779149519894
+"Frippyy",46,"Wheezy1442",53,0.048947626040137054
+"Frippyy",46,"Aqustin Agustus",54,0.048818897637795275
+"Frippyy",46,"Sawdeth Ternius",55,0.046104928457869634
+"Aries Wolfblade",47,"Zintage Enaka",1,0.01838879159369527
+"Aries Wolfblade",47,"hyprviper1",2,0.010752688172043012
+"Aries Wolfblade",47,"Machiavelian",3,0.021632758176667526
+"Aries Wolfblade",47,"The Oz",4,0.018373565965583174
+"Aries Wolfblade",47,"Itaer",5,0.02538155275381553
+"Aries Wolfblade",47,"Angry Mustache",6,0.01756859980022328
+"Aries Wolfblade",47,"youngpuke2",7,0.012314407076887105
+"Aries Wolfblade",47,"Ariel Rin",8,0.018965276809371077
+"Aries Wolfblade",47,"Arrowspeeed Bounty",9,0.023754266211604095
+"Aries Wolfblade",47,"Kshal Aideron",10,0.013570145679505088
+"Aries Wolfblade",47,"Mike Azariah",11,0.024775583482944345
+"Aries Wolfblade",47,"Mick Fightmaster",12,0.012039575634759804
+"Aries Wolfblade",47,"Dujek Oneye",13,0.01072013499429252
+"Aries Wolfblade",47,"Gustav Mannfred",14,0.042959001782531196
+"Aries Wolfblade",47,"Limited Liability",15,0.047160243407707914
+"Aries Wolfblade",47,"Kenneth Feld",16,0.018335684062059238
+"Aries Wolfblade",47,"Benzmann",17,0.04364540931705111
+"Aries Wolfblade",47,"en guarde",18,0.01361592806679512
+"Aries Wolfblade",47,"Drake Iddon",19,0.012821503050899822
+"Aries Wolfblade",47,"Val Auroris",20,0.03292517006802721
+"Aries Wolfblade",47,"Sven Bauer",21,0.022853019004089488
+"Aries Wolfblade",47,"Gideon Zendikar",22,0.017190882465299887
+"Aries Wolfblade",47,"Viola Terra",23,0.051719238420005684
+"Aries Wolfblade",47,"Rots Mijnwerker",24,0.010213434594736153
+"Aries Wolfblade",47,"Janstina Urthadar",25,0.05151816824290692
+"Aries Wolfblade",47,"creatnos",26,0.02781802376122863
+"Aries Wolfblade",47,"Jolange Jogua",27,0.016057585825027684
+"Aries Wolfblade",47,"Angel Maelstorm",28,0.07944732297063903
+"Aries Wolfblade",47,"yilifaerr",29,0.008406893652795292
+"Aries Wolfblade",47,"Styxx",30,0.0512521840419336
+"Aries Wolfblade",47,"Theman JR",31,0.03664345914254306
+"Aries Wolfblade",47,"Bexey Songweaver",32,0.0805168986083499
+"Aries Wolfblade",47,"Orion Sa-Solo",33,0.051837888784165884
+"Aries Wolfblade",47,"Ankh Lai",34,0.029432085118142878
+"Aries Wolfblade",47,"MILINT ARC Trooper",35,0.05617597292724196
+"Aries Wolfblade",47,"ElenHellen",36,0.049144521295959226
+"Aries Wolfblade",47,"ThePuce Moose",37,0.0329004329004329
+"Aries Wolfblade",47,"NeoShocker",38,0.04867601246105919
+"Aries Wolfblade",47,"Teddy Shi",39,0.03998621165115478
+"Aries Wolfblade",47,"Oncepure",40,0.04664813098548038
+"Aries Wolfblade",47,"Fluffy Neko",41,0.06265601597603594
+"Aries Wolfblade",47,"CollegeKid",42,0.09991235758106924
+"Aries Wolfblade",47,"Rose Allari Imahara",43,0.059065934065934064
+"Aries Wolfblade",47,"Kaptin Tiberius",44,0.042409829567974636
+"Aries Wolfblade",47,"ntrosell2",45,0.036065573770491806
+"Aries Wolfblade",47,"Frippyy",46,0.05655634687892752
+"Aries Wolfblade",47,"Aries Wolfblade",47,1.0
+"Aries Wolfblade",47,"Kane Carnifex",48,0.050162396246842295
+"Aries Wolfblade",47,"burtus antonioprimus",49,0.049523809523809526
+"Aries Wolfblade",47,"Kakala Asanari",50,0.034635521546516314
+"Aries Wolfblade",47,"Nikita Luciano",51,0.05661850839515814
+"Aries Wolfblade",47,"Coltitus Mando",52,0.055257731958762886
+"Aries Wolfblade",47,"Wheezy1442",53,0.03183361629881155
+"Aries Wolfblade",47,"Aqustin Agustus",54,0.05784359093012494
+"Aries Wolfblade",47,"Sawdeth Ternius",55,0.052093023255813956
+"Kane Carnifex",48,"Zintage Enaka",1,0.013191090607655158
+"Kane Carnifex",48,"hyprviper1",2,0.008641975308641974
+"Kane Carnifex",48,"Machiavelian",3,0.023830763349050592
+"Kane Carnifex",48,"The Oz",4,0.021696900869669168
+"Kane Carnifex",48,"Itaer",5,0.011690209449585971
+"Kane Carnifex",48,"Angry Mustache",6,0.025191288993525605
+"Kane Carnifex",48,"youngpuke2",7,0.012935052827843381
+"Kane Carnifex",48,"Ariel Rin",8,0.015916220704927108
+"Kane Carnifex",48,"Arrowspeeed Bounty",9,0.029256399837464444
+"Kane Carnifex",48,"Kshal Aideron",10,0.02843156977134044
+"Kane Carnifex",48,"Mike Azariah",11,0.035425283222442004
+"Kane Carnifex",48,"Mick Fightmaster",12,0.021836673646425366
+"Kane Carnifex",48,"Dujek Oneye",13,0.022943117064880537
+"Kane Carnifex",48,"Gustav Mannfred",14,0.05833185132491552
+"Kane Carnifex",48,"Limited Liability",15,0.025077348965966455
+"Kane Carnifex",48,"Kenneth Feld",16,0.024779504409911803
+"Kane Carnifex",48,"Benzmann",17,0.04964381121994657
+"Kane Carnifex",48,"en guarde",18,0.018091476621225632
+"Kane Carnifex",48,"Drake Iddon",19,0.015506866224348095
+"Kane Carnifex",48,"Val Auroris",20,0.05950413223140496
+"Kane Carnifex",48,"Sven Bauer",21,0.025506555423122766
+"Kane Carnifex",48,"Gideon Zendikar",22,0.03084374203415753
+"Kane Carnifex",48,"Viola Terra",23,0.0698001688713763
+"Kane Carnifex",48,"Rots Mijnwerker",24,0.017093457331848843
+"Kane Carnifex",48,"Janstina Urthadar",25,0.029271775345073775
+"Kane Carnifex",48,"creatnos",26,0.029644268774703556
+"Kane Carnifex",48,"Jolange Jogua",27,0.012829779544633177
+"Kane Carnifex",48,"Angel Maelstorm",28,0.04707792207792208
+"Kane Carnifex",48,"yilifaerr",29,0.006072200964897688
+"Kane Carnifex",48,"Styxx",30,0.061820263308528904
+"Kane Carnifex",48,"Theman JR",31,0.0397586084487043
+"Kane Carnifex",48,"Bexey Songweaver",32,0.03514079590411915
+"Kane Carnifex",48,"Orion Sa-Solo",33,0.03949351823937293
+"Kane Carnifex",48,"Ankh Lai",34,0.019994596055120238
+"Kane Carnifex",48,"MILINT ARC Trooper",35,0.044084278768233384
+"Kane Carnifex",48,"ElenHellen",36,0.05894886363636364
+"Kane Carnifex",48,"ThePuce Moose",37,0.018523715969688465
+"Kane Carnifex",48,"NeoShocker",38,0.04177545691906005
+"Kane Carnifex",48,"Teddy Shi",39,0.044221105527638194
+"Kane Carnifex",48,"Oncepure",40,0.042438732815301854
+"Kane Carnifex",48,"Fluffy Neko",41,0.03664049488460623
+"Kane Carnifex",48,"CollegeKid",42,0.04903536977491962
+"Kane Carnifex",48,"Rose Allari Imahara",43,0.04978569073524563
+"Kane Carnifex",48,"Kaptin Tiberius",44,0.05161787365177196
+"Kane Carnifex",48,"ntrosell2",45,0.043685464654487687
+"Kane Carnifex",48,"Frippyy",46,0.047961630695443645
+"Kane Carnifex",48,"Aries Wolfblade",47,0.050162396246842295
+"Kane Carnifex",48,"Kane Carnifex",48,1.0
+"Kane Carnifex",48,"burtus antonioprimus",49,0.037370553804592525
+"Kane Carnifex",48,"Kakala Asanari",50,0.05078740157480315
+"Kane Carnifex",48,"Nikita Luciano",51,0.05054286783976039
+"Kane Carnifex",48,"Coltitus Mando",52,0.04192789968652037
+"Kane Carnifex",48,"Wheezy1442",53,0.04070723684210526
+"Kane Carnifex",48,"Aqustin Agustus",54,0.08999543170397442
+"Kane Carnifex",48,"Sawdeth Ternius",55,0.051647373107747106
+"burtus antonioprimus",49,"Zintage Enaka",1,0.008689081979599547
+"burtus antonioprimus",49,"hyprviper1",2,0.010294117647058823
+"burtus antonioprimus",49,"Machiavelian",3,0.01327433628318584
+"burtus antonioprimus",49,"The Oz",4,0.00904131882703957
+"burtus antonioprimus",49,"Itaer",5,0.006937901498929336
+"burtus antonioprimus",49,"Angry Mustache",6,0.012787103811890188
+"burtus antonioprimus",49,"youngpuke2",7,0.006865624255893325
+"burtus antonioprimus",49,"Ariel Rin",8,0.009758870623904495
+"burtus antonioprimus",49,"Arrowspeeed Bounty",9,0.01576775714706749
+"burtus antonioprimus",49,"Kshal Aideron",10,0.006951135581555403
+"burtus antonioprimus",49,"Mike Azariah",11,0.016072939186013723
+"burtus antonioprimus",49,"Mick Fightmaster",12,0.005959329114701727
+"burtus antonioprimus",49,"Dujek Oneye",13,0.006622853940598095
+"burtus antonioprimus",49,"Gustav Mannfred",14,0.03146509341199607
+"burtus antonioprimus",49,"Limited Liability",15,0.020262869660460023
+"burtus antonioprimus",49,"Kenneth Feld",16,0.016287645974185617
+"burtus antonioprimus",49,"Benzmann",17,0.03378029912325941
+"burtus antonioprimus",49,"en guarde",18,0.01096308631695809
+"burtus antonioprimus",49,"Drake Iddon",19,0.004824096952582657
+"burtus antonioprimus",49,"Val Auroris",20,0.01747742499271774
+"burtus antonioprimus",49,"Sven Bauer",21,0.014515093127809891
+"burtus antonioprimus",49,"Gideon Zendikar",22,0.012758951845246261
+"burtus antonioprimus",49,"Viola Terra",23,0.034770979605483116
+"burtus antonioprimus",49,"Rots Mijnwerker",24,0.008915810249778807
+"burtus antonioprimus",49,"Janstina Urthadar",25,0.0180028129395218
+"burtus antonioprimus",49,"creatnos",26,0.027603074772886094
+"burtus antonioprimus",49,"Jolange Jogua",27,0.012817862311350011
+"burtus antonioprimus",49,"Angel Maelstorm",28,0.05397489539748954
+"burtus antonioprimus",49,"yilifaerr",29,0.009752637645181311
+"burtus antonioprimus",49,"Styxx",30,0.03621938599517075
+"burtus antonioprimus",49,"Theman JR",31,0.029643353404353867
+"burtus antonioprimus",49,"Bexey Songweaver",32,0.03341618337475835
+"burtus antonioprimus",49,"Orion Sa-Solo",33,0.033157498116051246
+"burtus antonioprimus",49,"Ankh Lai",34,0.017543859649122806
+"burtus antonioprimus",49,"MILINT ARC Trooper",35,0.05761143818334735
+"burtus antonioprimus",49,"ElenHellen",36,0.0464367816091954
+"burtus antonioprimus",49,"ThePuce Moose",37,0.01314365238905211
+"burtus antonioprimus",49,"NeoShocker",38,0.03779214321233217
+"burtus antonioprimus",49,"Teddy Shi",39,0.036097980232058444
+"burtus antonioprimus",49,"Oncepure",40,0.03304864463423691
+"burtus antonioprimus",49,"Fluffy Neko",41,0.021544487968662564
+"burtus antonioprimus",49,"CollegeKid",42,0.0421455938697318
+"burtus antonioprimus",49,"Rose Allari Imahara",43,0.03595317725752508
+"burtus antonioprimus",49,"Kaptin Tiberius",44,0.03794871794871795
+"burtus antonioprimus",49,"ntrosell2",45,0.03891891891891892
+"burtus antonioprimus",49,"Frippyy",46,0.04585152838427948
+"burtus antonioprimus",49,"Aries Wolfblade",47,0.049523809523809526
+"burtus antonioprimus",49,"Kane Carnifex",48,0.037370553804592525
+"burtus antonioprimus",49,"burtus antonioprimus",49,1.0
+"burtus antonioprimus",49,"Kakala Asanari",50,0.03207150368033649
+"burtus antonioprimus",49,"Nikita Luciano",51,0.037549407114624504
+"burtus antonioprimus",49,"Coltitus Mando",52,0.04326923076923077
+"burtus antonioprimus",49,"Wheezy1442",53,0.03223981900452489
+"burtus antonioprimus",49,"Aqustin Agustus",54,0.05
+"burtus antonioprimus",49,"Sawdeth Ternius",55,0.05343511450381679
+"Kakala Asanari",50,"Zintage Enaka",1,0.018945022288261514
+"Kakala Asanari",50,"hyprviper1",2,0.005767103807868542
+"Kakala Asanari",50,"Machiavelian",3,0.01276987888362296
+"Kakala Asanari",50,"The Oz",4,0.007651314418410789
+"Kakala Asanari",50,"Itaer",5,0.04025060075523515
+"Kakala Asanari",50,"Angry Mustache",6,0.007670974213725143
+"Kakala Asanari",50,"youngpuke2",7,0.005783961231827419
+"Kakala Asanari",50,"Ariel Rin",8,0.007294522139107001
+"Kakala Asanari",50,"Arrowspeeed Bounty",9,0.011426978818283166
+"Kakala Asanari",50,"Kshal Aideron",10,0.019789187351241074
+"Kakala Asanari",50,"Mike Azariah",11,0.016648471615720525
+"Kakala Asanari",50,"Mick Fightmaster",12,0.007099452499849588
+"Kakala Asanari",50,"Dujek Oneye",13,0.00549615269311482
+"Kakala Asanari",50,"Gustav Mannfred",14,0.026908292147171883
+"Kakala Asanari",50,"Limited Liability",15,0.08868166026695923
+"Kakala Asanari",50,"Kenneth Feld",16,0.013652868554829339
+"Kakala Asanari",50,"Benzmann",17,0.030146019783325484
+"Kakala Asanari",50,"en guarde",18,0.011503371677905593
+"Kakala Asanari",50,"Drake Iddon",19,0.02042018456705282
+"Kakala Asanari",50,"Val Auroris",20,0.020263705759888968
+"Kakala Asanari",50,"Sven Bauer",21,0.015859355790508976
+"Kakala Asanari",50,"Gideon Zendikar",22,0.015866771570941515
+"Kakala Asanari",50,"Viola Terra",23,0.05939987752602572
+"Kakala Asanari",50,"Rots Mijnwerker",24,0.005760826380611839
+"Kakala Asanari",50,"Janstina Urthadar",25,0.03858185610010428
+"Kakala Asanari",50,"creatnos",26,0.01911220715166461
+"Kakala Asanari",50,"Jolange Jogua",27,0.017394665635871664
+"Kakala Asanari",50,"Angel Maelstorm",28,0.05102040816326531
+"Kakala Asanari",50,"yilifaerr",29,0.00702535983550377
+"Kakala Asanari",50,"Styxx",30,0.037573144441022485
+"Kakala Asanari",50,"Theman JR",31,0.029025844930417495
+"Kakala Asanari",50,"Bexey Songweaver",32,0.030356246864024085
+"Kakala Asanari",50,"Orion Sa-Solo",33,0.03843582887700535
+"Kakala Asanari",50,"Ankh Lai",34,0.017789072426937738
+"Kakala Asanari",50,"MILINT ARC Trooper",35,0.04083845319840983
+"Kakala Asanari",50,"ElenHellen",36,0.040173296573454115
+"Kakala Asanari",50,"ThePuce Moose",37,0.05009867921663883
+"Kakala Asanari",50,"NeoShocker",38,0.045183290707587385
+"Kakala Asanari",50,"Teddy Shi",39,0.049924357034795766
+"Kakala Asanari",50,"Oncepure",40,0.05604026845637584
+"Kakala Asanari",50,"Fluffy Neko",41,0.09071156979902227
+"Kakala Asanari",50,"CollegeKid",42,0.05192396847473343
+"Kakala Asanari",50,"Rose Allari Imahara",43,0.039868324798829555
+"Kakala Asanari",50,"Kaptin Tiberius",44,0.035543996532293023
+"Kakala Asanari",50,"ntrosell2",45,0.03064443442992339
+"Kakala Asanari",50,"Frippyy",46,0.03823395539371871
+"Kakala Asanari",50,"Aries Wolfblade",47,0.034635521546516314
+"Kakala Asanari",50,"Kane Carnifex",48,0.05078740157480315
+"Kakala Asanari",50,"burtus antonioprimus",49,0.03207150368033649
+"Kakala Asanari",50,"Kakala Asanari",50,1.0
+"Kakala Asanari",50,"Nikita Luciano",51,0.0511727078891258
+"Kakala Asanari",50,"Coltitus Mando",52,0.03435966086568496
+"Kakala Asanari",50,"Wheezy1442",53,0.02913533834586466
+"Kakala Asanari",50,"Aqustin Agustus",54,0.0291897332662305
+"Kakala Asanari",50,"Sawdeth Ternius",55,0.04552509053285049
+"Nikita Luciano",51,"Zintage Enaka",1,0.011537899810135826
+"Nikita Luciano",51,"hyprviper1",2,0.018521450055406046
+"Nikita Luciano",51,"Machiavelian",3,0.02059436913451512
+"Nikita Luciano",51,"The Oz",4,0.017729328262106554
+"Nikita Luciano",51,"Itaer",5,0.010969072164948454
+"Nikita Luciano",51,"Angry Mustache",6,0.023728813559322035
+"Nikita Luciano",51,"youngpuke2",7,0.009875097580015613
+"Nikita Luciano",51,"Ariel Rin",8,0.018153817435131604
+"Nikita Luciano",51,"Arrowspeeed Bounty",9,0.018034140969162997
+"Nikita Luciano",51,"Kshal Aideron",10,0.015501274996644745
+"Nikita Luciano",51,"Mike Azariah",11,0.031740240788033565
+"Nikita Luciano",51,"Mick Fightmaster",12,0.011023244668104481
+"Nikita Luciano",51,"Dujek Oneye",13,0.01057409347099606
+"Nikita Luciano",51,"Gustav Mannfred",14,0.04244512969345184
+"Nikita Luciano",51,"Limited Liability",15,0.0308004738534439
+"Nikita Luciano",51,"Kenneth Feld",16,0.031005505650536076
+"Nikita Luciano",51,"Benzmann",17,0.04445473489233619
+"Nikita Luciano",51,"en guarde",18,0.013140775435857403
+"Nikita Luciano",51,"Drake Iddon",19,0.0090389369592089
+"Nikita Luciano",51,"Val Auroris",20,0.031831335262505166
+"Nikita Luciano",51,"Sven Bauer",21,0.020780167699598978
+"Nikita Luciano",51,"Gideon Zendikar",22,0.018604651162790697
+"Nikita Luciano",51,"Viola Terra",23,0.06200177147918512
+"Nikita Luciano",51,"Rots Mijnwerker",24,0.014362300615527169
+"Nikita Luciano",51,"Janstina Urthadar",25,0.03231462925851703
+"Nikita Luciano",51,"creatnos",26,0.033003300330033
+"Nikita Luciano",51,"Jolange Jogua",27,0.017520723436322532
+"Nikita Luciano",51,"Angel Maelstorm",28,0.07279829545454546
+"Nikita Luciano",51,"yilifaerr",29,0.008310014415331128
+"Nikita Luciano",51,"Styxx",30,0.05253677574302011
+"Nikita Luciano",51,"Theman JR",31,0.05131172839506173
+"Nikita Luciano",51,"Bexey Songweaver",32,0.06312625250501001
+"Nikita Luciano",51,"Orion Sa-Solo",33,0.055645948584445167
+"Nikita Luciano",51,"Ankh Lai",34,0.02655114589155953
+"Nikita Luciano",51,"MILINT ARC Trooper",35,0.05896805896805897
+"Nikita Luciano",51,"ElenHellen",36,0.06723011909335382
+"Nikita Luciano",51,"ThePuce Moose",37,0.024546114742193172
+"Nikita Luciano",51,"NeoShocker",38,0.056303549571603426
+"Nikita Luciano",51,"Teddy Shi",39,0.10424564063684609
+"Nikita Luciano",51,"Oncepure",40,0.05088
+"Nikita Luciano",51,"Fluffy Neko",41,0.03850962740685171
+"Nikita Luciano",51,"CollegeKid",42,0.06460176991150443
+"Nikita Luciano",51,"Rose Allari Imahara",43,0.08245550308754086
+"Nikita Luciano",51,"Kaptin Tiberius",44,0.04552980132450331
+"Nikita Luciano",51,"ntrosell2",45,0.040790038643194505
+"Nikita Luciano",51,"Frippyy",46,0.049023861171366596
+"Nikita Luciano",51,"Aries Wolfblade",47,0.05661850839515814
+"Nikita Luciano",51,"Kane Carnifex",48,0.05054286783976039
+"Nikita Luciano",51,"burtus antonioprimus",49,0.037549407114624504
+"Nikita Luciano",51,"Kakala Asanari",50,0.0511727078891258
+"Nikita Luciano",51,"Nikita Luciano",51,1.0
+"Nikita Luciano",51,"Coltitus Mando",52,0.053196053196053195
+"Nikita Luciano",51,"Wheezy1442",53,0.036064113980409616
+"Nikita Luciano",51,"Aqustin Agustus",54,0.04652278177458034
+"Nikita Luciano",51,"Sawdeth Ternius",55,0.045036319612590796
+"Coltitus Mando",52,"Zintage Enaka",1,0.00735023888276369
+"Coltitus Mando",52,"hyprviper1",2,0.006249011232399937
+"Coltitus Mando",52,"Machiavelian",3,0.016135431821187672
+"Coltitus Mando",52,"The Oz",4,0.014633561233057455
+"Coltitus Mando",52,"Itaer",5,0.012117666722380077
+"Coltitus Mando",52,"Angry Mustache",6,0.013118841267956784
+"Coltitus Mando",52,"youngpuke2",7,0.01195814648729447
+"Coltitus Mando",52,"Ariel Rin",8,0.00936233639200708
+"Coltitus Mando",52,"Arrowspeeed Bounty",9,0.013706293706293707
+"Coltitus Mando",52,"Kshal Aideron",10,0.012635988918170147
+"Coltitus Mando",52,"Mike Azariah",11,0.021967963386727688
+"Coltitus Mando",52,"Mick Fightmaster",12,0.012896585129571324
+"Coltitus Mando",52,"Dujek Oneye",13,0.013555051650289746
+"Coltitus Mando",52,"Gustav Mannfred",14,0.04692465881473173
+"Coltitus Mando",52,"Limited Liability",15,0.023944875107665804
+"Coltitus Mando",52,"Kenneth Feld",16,0.013672727272727272
+"Coltitus Mando",52,"Benzmann",17,0.03954263935207242
+"Coltitus Mando",52,"en guarde",18,0.010983194389307926
+"Coltitus Mando",52,"Drake Iddon",19,0.015322675214009302
+"Coltitus Mando",52,"Val Auroris",20,0.03481815618832816
+"Coltitus Mando",52,"Sven Bauer",21,0.018009127914148267
+"Coltitus Mando",52,"Gideon Zendikar",22,0.01883065578087964
+"Coltitus Mando",52,"Viola Terra",23,0.06023355869698832
+"Coltitus Mando",52,"Rots Mijnwerker",24,0.009711967005920308
+"Coltitus Mando",52,"Janstina Urthadar",25,0.030869001297016863
+"Coltitus Mando",52,"creatnos",26,0.02839313572542902
+"Coltitus Mando",52,"Jolange Jogua",27,0.011941448382126348
+"Coltitus Mando",52,"Angel Maelstorm",28,0.04967129291453616
+"Coltitus Mando",52,"yilifaerr",29,0.007982147455154064
+"Coltitus Mando",52,"Styxx",30,0.04511512134411948
+"Coltitus Mando",52,"Theman JR",31,0.02996404314822213
+"Coltitus Mando",52,"Bexey Songweaver",32,0.039583861963968535
+"Coltitus Mando",52,"Orion Sa-Solo",33,0.04911924119241192
+"Coltitus Mando",52,"Ankh Lai",34,0.02345749218083594
+"Coltitus Mando",52,"MILINT ARC Trooper",35,0.05321100917431193
+"Coltitus Mando",52,"ElenHellen",36,0.04988028731045491
+"Coltitus Mando",52,"ThePuce Moose",37,0.02099039172209904
+"Coltitus Mando",52,"NeoShocker",38,0.04627249357326478
+"Coltitus Mando",52,"Teddy Shi",39,0.050911854103343465
+"Coltitus Mando",52,"Oncepure",40,0.037024793388429754
+"Coltitus Mando",52,"Fluffy Neko",41,0.039169909208819714
+"Coltitus Mando",52,"CollegeKid",42,0.06006569685593618
+"Coltitus Mando",52,"Rose Allari Imahara",43,0.04154411764705882
+"Coltitus Mando",52,"Kaptin Tiberius",44,0.04847950639048039
+"Coltitus Mando",52,"ntrosell2",45,0.05661252900232019
+"Coltitus Mando",52,"Frippyy",46,0.038408779149519894
+"Coltitus Mando",52,"Aries Wolfblade",47,0.055257731958762886
+"Coltitus Mando",52,"Kane Carnifex",48,0.04192789968652037
+"Coltitus Mando",52,"burtus antonioprimus",49,0.04326923076923077
+"Coltitus Mando",52,"Kakala Asanari",50,0.03435966086568496
+"Coltitus Mando",52,"Nikita Luciano",51,0.053196053196053195
+"Coltitus Mando",52,"Coltitus Mando",52,1.0
+"Coltitus Mando",52,"Wheezy1442",53,0.057738961669092675
+"Coltitus Mando",52,"Aqustin Agustus",54,0.047888774459320285
+"Coltitus Mando",52,"Sawdeth Ternius",55,0.04089026915113872
+"Wheezy1442",53,"Zintage Enaka",1,0.005852718921321678
+"Wheezy1442",53,"hyprviper1",2,0.005670020763456317
+"Wheezy1442",53,"Machiavelian",3,0.013549771934531794
+"Wheezy1442",53,"The Oz",4,0.011128775834658187
+"Wheezy1442",53,"Itaer",5,0.012334206302272535
+"Wheezy1442",53,"Angry Mustache",6,0.010499313965280678
+"Wheezy1442",53,"youngpuke2",7,0.011059325381151749
+"Wheezy1442",53,"Ariel Rin",8,0.009986403488208543
+"Wheezy1442",53,"Arrowspeeed Bounty",9,0.012226329257890247
+"Wheezy1442",53,"Kshal Aideron",10,0.010473340587595211
+"Wheezy1442",53,"Mike Azariah",11,0.020904634168902043
+"Wheezy1442",53,"Mick Fightmaster",12,0.02754394652141619
+"Wheezy1442",53,"Dujek Oneye",13,0.008528031488116265
+"Wheezy1442",53,"Gustav Mannfred",14,0.029926595143986448
+"Wheezy1442",53,"Limited Liability",15,0.019814132912502194
+"Wheezy1442",53,"Kenneth Feld",16,0.014985163204747775
+"Wheezy1442",53,"Benzmann",17,0.03848982593772984
+"Wheezy1442",53,"en guarde",18,0.00967741935483871
+"Wheezy1442",53,"Drake Iddon",19,0.009017801374141161
+"Wheezy1442",53,"Val Auroris",20,0.022105710641915827
+"Wheezy1442",53,"Sven Bauer",21,0.016896120150187734
+"Wheezy1442",53,"Gideon Zendikar",22,0.0203835322515757
+"Wheezy1442",53,"Viola Terra",23,0.037800687285223365
+"Wheezy1442",53,"Rots Mijnwerker",24,0.005948402619970592
+"Wheezy1442",53,"Janstina Urthadar",25,0.02478017585931255
+"Wheezy1442",53,"creatnos",26,0.02890548879506333
+"Wheezy1442",53,"Jolange Jogua",27,0.010845986984815618
+"Wheezy1442",53,"Angel Maelstorm",28,0.04015151515151515
+"Wheezy1442",53,"yilifaerr",29,0.0071094156407144095
+"Wheezy1442",53,"Styxx",30,0.0436046511627907
+"Wheezy1442",53,"Theman JR",31,0.025533696107157805
+"Wheezy1442",53,"Bexey Songweaver",32,0.03305570015616866
+"Wheezy1442",53,"Orion Sa-Solo",33,0.033414549251653325
+"Wheezy1442",53,"Ankh Lai",34,0.013618119266055046
+"Wheezy1442",53,"MILINT ARC Trooper",35,0.04139764527155336
+"Wheezy1442",53,"ElenHellen",36,0.044657762938230386
+"Wheezy1442",53,"ThePuce Moose",37,0.022165259348612788
+"Wheezy1442",53,"NeoShocker",38,0.05373406193078324
+"Wheezy1442",53,"Teddy Shi",39,0.035728307813113466
+"Wheezy1442",53,"Oncepure",40,0.0368711233631978
+"Wheezy1442",53,"Fluffy Neko",41,0.03165735567970205
+"Wheezy1442",53,"CollegeKid",42,0.03547133138969873
+"Wheezy1442",53,"Rose Allari Imahara",43,0.03600153198008426
+"Wheezy1442",53,"Kaptin Tiberius",44,0.09378036929057337
+"Wheezy1442",53,"ntrosell2",45,0.06491575817641229
+"Wheezy1442",53,"Frippyy",46,0.048947626040137054
+"Wheezy1442",53,"Aries Wolfblade",47,0.03183361629881155
+"Wheezy1442",53,"Kane Carnifex",48,0.04070723684210526
+"Wheezy1442",53,"burtus antonioprimus",49,0.03223981900452489
+"Wheezy1442",53,"Kakala Asanari",50,0.02913533834586466
+"Wheezy1442",53,"Nikita Luciano",51,0.036064113980409616
+"Wheezy1442",53,"Coltitus Mando",52,0.057738961669092675
+"Wheezy1442",53,"Wheezy1442",53,1.0
+"Wheezy1442",53,"Aqustin Agustus",54,0.04953219592735278
+"Wheezy1442",53,"Sawdeth Ternius",55,0.049609810479375696
+"Aqustin Agustus",54,"Zintage Enaka",1,0.009545283727921834
+"Aqustin Agustus",54,"hyprviper1",2,0.007772020725388601
+"Aqustin Agustus",54,"Machiavelian",3,0.015903482314230874
+"Aqustin Agustus",54,"The Oz",4,0.01032510535821794
+"Aqustin Agustus",54,"Itaer",5,0.007832453601225949
+"Aqustin Agustus",54,"Angry Mustache",6,0.015418102666424814
+"Aqustin Agustus",54,"youngpuke2",7,0.007401250692630412
+"Aqustin Agustus",54,"Ariel Rin",8,0.00853129713423831
+"Aqustin Agustus",54,"Arrowspeeed Bounty",9,0.021080368906455864
+"Aqustin Agustus",54,"Kshal Aideron",10,0.012107037215381441
+"Aqustin Agustus",54,"Mike Azariah",11,0.017753690898897403
+"Aqustin Agustus",54,"Mick Fightmaster",12,0.011183482856089468
+"Aqustin Agustus",54,"Dujek Oneye",13,0.011160941800020386
+"Aqustin Agustus",54,"Gustav Mannfred",14,0.03698656803581857
+"Aqustin Agustus",54,"Limited Liability",15,0.01813285457809695
+"Aqustin Agustus",54,"Kenneth Feld",16,0.013777441332323998
+"Aqustin Agustus",54,"Benzmann",17,0.04229299363057325
+"Aqustin Agustus",54,"en guarde",18,0.011533708636550871
+"Aqustin Agustus",54,"Drake Iddon",19,0.007644960207002
+"Aqustin Agustus",54,"Val Auroris",20,0.03333333333333333
+"Aqustin Agustus",54,"Sven Bauer",21,0.014105985512771636
+"Aqustin Agustus",54,"Gideon Zendikar",22,0.015095879232966136
+"Aqustin Agustus",54,"Viola Terra",23,0.03552803129074315
+"Aqustin Agustus",54,"Rots Mijnwerker",24,0.008866328257191202
+"Aqustin Agustus",54,"Janstina Urthadar",25,0.02265819287095883
+"Aqustin Agustus",54,"creatnos",26,0.026485568760611207
+"Aqustin Agustus",54,"Jolange Jogua",27,0.011165245635403978
+"Aqustin Agustus",54,"Angel Maelstorm",28,0.05774705164701098
+"Aqustin Agustus",54,"yilifaerr",29,0.004905825667980727
+"Aqustin Agustus",54,"Styxx",30,0.04503894344734169
+"Aqustin Agustus",54,"Theman JR",31,0.03178155774395703
+"Aqustin Agustus",54,"Bexey Songweaver",32,0.03659528327460016
+"Aqustin Agustus",54,"Orion Sa-Solo",33,0.03254113345521024
+"Aqustin Agustus",54,"Ankh Lai",34,0.01957897836007655
+"Aqustin Agustus",54,"MILINT ARC Trooper",35,0.042134831460674156
+"Aqustin Agustus",54,"ElenHellen",36,0.05173951828724353
+"Aqustin Agustus",54,"ThePuce Moose",37,0.014683389415723462
+"Aqustin Agustus",54,"NeoShocker",38,0.03779904306220096
+"Aqustin Agustus",54,"Teddy Shi",39,0.04265997490589712
+"Aqustin Agustus",54,"Oncepure",40,0.041075972373682296
+"Aqustin Agustus",54,"Fluffy Neko",41,0.029509100937672367
+"Aqustin Agustus",54,"CollegeKid",42,0.048574445617740235
+"Aqustin Agustus",54,"Rose Allari Imahara",43,0.044897959183673466
+"Aqustin Agustus",54,"Kaptin Tiberius",44,0.0572289156626506
+"Aqustin Agustus",54,"ntrosell2",45,0.0421216848673947
+"Aqustin Agustus",54,"Frippyy",46,0.048818897637795275
+"Aqustin Agustus",54,"Aries Wolfblade",47,0.05784359093012494
+"Aqustin Agustus",54,"Kane Carnifex",48,0.08999543170397442
+"Aqustin Agustus",54,"burtus antonioprimus",49,0.05
+"Aqustin Agustus",54,"Kakala Asanari",50,0.0291897332662305
+"Aqustin Agustus",54,"Nikita Luciano",51,0.04652278177458034
+"Aqustin Agustus",54,"Coltitus Mando",52,0.047888774459320285
+"Aqustin Agustus",54,"Wheezy1442",53,0.04953219592735278
+"Aqustin Agustus",54,"Aqustin Agustus",54,1.0
+"Aqustin Agustus",54,"Sawdeth Ternius",55,0.0407185628742515
+"Sawdeth Ternius",55,"Zintage Enaka",1,0.006455487164089476
+"Sawdeth Ternius",55,"hyprviper1",2,0.006725548983064582
+"Sawdeth Ternius",55,"Machiavelian",3,0.01609574907139909
+"Sawdeth Ternius",55,"The Oz",4,0.007933884297520661
+"Sawdeth Ternius",55,"Itaer",5,0.007075270650413435
+"Sawdeth Ternius",55,"Angry Mustache",6,0.009146708388494403
+"Sawdeth Ternius",55,"youngpuke2",7,0.006730274357654697
+"Sawdeth Ternius",55,"Ariel Rin",8,0.010209386964125348
+"Sawdeth Ternius",55,"Arrowspeeed Bounty",9,0.013413033969966468
+"Sawdeth Ternius",55,"Kshal Aideron",10,0.01094287680660702
+"Sawdeth Ternius",55,"Mike Azariah",11,0.02296686746987952
+"Sawdeth Ternius",55,"Mick Fightmaster",12,0.010453818718484812
+"Sawdeth Ternius",55,"Dujek Oneye",13,0.008139594037747368
+"Sawdeth Ternius",55,"Gustav Mannfred",14,0.046575883165581214
+"Sawdeth Ternius",55,"Limited Liability",15,0.02189648932319942
+"Sawdeth Ternius",55,"Kenneth Feld",16,0.019715726730857405
+"Sawdeth Ternius",55,"Benzmann",17,0.036970933197348295
+"Sawdeth Ternius",55,"en guarde",18,0.011990077177508269
+"Sawdeth Ternius",55,"Drake Iddon",19,0.008206054419097726
+"Sawdeth Ternius",55,"Val Auroris",20,0.022945106012198666
+"Sawdeth Ternius",55,"Sven Bauer",21,0.019477191184008202
+"Sawdeth Ternius",55,"Gideon Zendikar",22,0.0127960794990471
+"Sawdeth Ternius",55,"Viola Terra",23,0.045424403183023876
+"Sawdeth Ternius",55,"Rots Mijnwerker",24,0.006016359088758197
+"Sawdeth Ternius",55,"Janstina Urthadar",25,0.022809457579972183
+"Sawdeth Ternius",55,"creatnos",26,0.027054794520547945
+"Sawdeth Ternius",55,"Jolange Jogua",27,0.01163265306122449
+"Sawdeth Ternius",55,"Angel Maelstorm",28,0.05485059353254196
+"Sawdeth Ternius",55,"yilifaerr",29,0.005269166593483797
+"Sawdeth Ternius",55,"Styxx",30,0.05622628492583649
+"Sawdeth Ternius",55,"Theman JR",31,0.034936479128856626
+"Sawdeth Ternius",55,"Bexey Songweaver",32,0.031207598371777476
+"Sawdeth Ternius",55,"Orion Sa-Solo",33,0.036653091447611995
+"Sawdeth Ternius",55,"Ankh Lai",34,0.01589637915808066
+"Sawdeth Ternius",55,"MILINT ARC Trooper",35,0.07297748123436197
+"Sawdeth Ternius",55,"ElenHellen",36,0.0377945753668297
+"Sawdeth Ternius",55,"ThePuce Moose",37,0.014426028238182934
+"Sawdeth Ternius",55,"NeoShocker",38,0.049926578560939794
+"Sawdeth Ternius",55,"Teddy Shi",39,0.054227156276686596
+"Sawdeth Ternius",55,"Oncepure",40,0.04296731546088873
+"Sawdeth Ternius",55,"Fluffy Neko",41,0.027993348115299334
+"Sawdeth Ternius",55,"CollegeKid",42,0.04084880636604774
+"Sawdeth Ternius",55,"Rose Allari Imahara",43,0.03637106661217818
+"Sawdeth Ternius",55,"Kaptin Tiberius",44,0.06278713629402756
+"Sawdeth Ternius",55,"ntrosell2",45,0.05543710021321962
+"Sawdeth Ternius",55,"Frippyy",46,0.046104928457869634
+"Sawdeth Ternius",55,"Aries Wolfblade",47,0.052093023255813956
+"Sawdeth Ternius",55,"Kane Carnifex",48,0.051647373107747106
+"Sawdeth Ternius",55,"burtus antonioprimus",49,0.05343511450381679
+"Sawdeth Ternius",55,"Kakala Asanari",50,0.04552509053285049
+"Sawdeth Ternius",55,"Nikita Luciano",51,0.045036319612590796
+"Sawdeth Ternius",55,"Coltitus Mando",52,0.04089026915113872
+"Sawdeth Ternius",55,"Wheezy1442",53,0.049609810479375696
+"Sawdeth Ternius",55,"Aqustin Agustus",54,0.0407185628742515
+"Sawdeth Ternius",55,"Sawdeth Ternius",55,1.0
