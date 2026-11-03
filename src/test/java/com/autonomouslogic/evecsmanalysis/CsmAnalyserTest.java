@@ -4,6 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import com.autonomouslogic.evecsmanalysis.models.AuditLog;
 import com.autonomouslogic.evecsmanalysis.models.CandidateRankDistribution;
+import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.autonomouslogic.evecsmanalysis.models.Elimination;
 import com.autonomouslogic.evecsmanalysis.models.Round;
@@ -157,7 +158,9 @@ public class CsmAnalyserTest {
 						+ "\"hyprviper1\"\n")
 				.parse();
 		var csmConfig = CsmConfig.builder().csmNumber(1).build();
-		var winners = new CsmAnalyser(csmConfig, ballotFile, auditLog).run().getWinners();
+		var data = CsmAnalysis.builder();
+		new CsmAnalyser(csmConfig, ballotFile, auditLog).winnersAndEliminations(data);
+		var winners = data.build().getWinners();
 		assertEquals(40.0, winners.get(1).getVotes());
 	}
 

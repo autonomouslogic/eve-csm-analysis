@@ -130,7 +130,7 @@ public class CsmAnalyser {
 		return name;
 	}
 
-	private void winnersAndEliminations(CsmAnalysis.CsmAnalysisBuilder data) {
+	void winnersAndEliminations(CsmAnalysis.CsmAnalysisBuilder data) {
 		log.info("Calculating winners and eliminations");
 		var finalResults = auditLog.getFinalResults();
 		var seenWinners = new HashSet<String>();
