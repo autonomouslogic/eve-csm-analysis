@@ -16,6 +16,11 @@ public class CsmAnalysis {
 
 	int totalVotes;
 
+	/**
+	 * Ballots ranking none of the elected candidates. CCP picks are not counted as elected.
+	 */
+	int ballotsWithoutWinner;
+
 	@Singular
 	List<CandidateRound> winners;
 
@@ -23,4 +28,8 @@ public class CsmAnalysis {
 	List<CandidateRound> eliminations;
 
 	int leastSignificantRank;
+
+	List<String> withdrawnCandidates;
+
+	List<CandidateRankDistribution> rankDistribution;
 }

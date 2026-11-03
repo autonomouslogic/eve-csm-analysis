@@ -32,6 +32,8 @@ public class AuditLogParser extends AbstractParser {
 			Pattern.compile("  Elimination: \"(?<candidate>" + name + ")\" with (?<votes>" + decimal + ") votes");
 
 	private AuditLog.AuditLogBuilder auditLog;
+	private Map<String, Integer> transfersBeforeElection;
+	private int transfersInRound;
 
 	public AuditLogParser(List<String> lines) {
 		super(lines);
@@ -65,10 +67,13 @@ public class AuditLogParser extends AbstractParser {
 
 	private void parseRound() {
 		var round = Round.builder();
+		transfersBeforeElection = new LinkedHashMap<>();
+		transfersInRound = 0;
 		parseRoundCandidates(round);
 		parseRoundVotes(round);
 		parseInitialTalley(round);
 		parseActions(round);
+		round.transfersBeforeElection(transfersBeforeElection);
 		auditLog.round(round.build());
 	}
 
@@ -128,6 +133,7 @@ public class AuditLogParser extends AbstractParser {
 		while ((line = lines.get(lineIndex)).startsWith("  Elected: ")) {
 			var matcher = parseLine(line, ELECTED, "Invalid elected candidate");
 			round.electedCandidate(matcher.group("candidate"));
+			transfersBeforeElection.putIfAbsent(matcher.group("candidate"), transfersInRound);
 			lineIndex++;
 		}
 	}
@@ -140,6 +146,7 @@ public class AuditLogParser extends AbstractParser {
 			parseTransferVotes(transfer);
 			parseTransferLines(transfer);
 			round.votesTransfer(transfer.build());
+			transfersInRound++;
 			parseElectedCandidates(round);
 		}
 	}
