@@ -2,7 +2,10 @@ package com.autonomouslogic.evecsmanalysis;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import com.autonomouslogic.evecsmanalysis.models.AuditLog;
 import com.autonomouslogic.evecsmanalysis.models.CandidateRankDistribution;
+import com.autonomouslogic.evecsmanalysis.models.Elimination;
+import com.autonomouslogic.evecsmanalysis.models.Round;
 import com.autonomouslogic.evecsmanalysis.parser.BallotParser;
 import java.util.List;
 import org.junit.jupiter.api.Test;
@@ -20,7 +23,7 @@ public class CsmAnalyserTest {
 						+ "\"Carol\"\n"
 						+ "CSM test\n")
 				.parse();
-		var distribution = CsmAnalyser.rankDistribution(ballotFile);
+		var distribution = CsmAnalyser.rankDistribution(ballotFile, List.of("Bob", "Alice", "Carol"));
 		assertEquals(
 				List.of(
 						row("Bob", false, List.of(2, 1, 0)),
@@ -43,7 +46,7 @@ public class CsmAnalyserTest {
 						+ "CSM test\n")
 				.parse();
 		assertEquals(List.of("Carol"), CsmAnalyser.withdrawnCandidates(ballotFile));
-		var distribution = CsmAnalyser.rankDistribution(ballotFile);
+		var distribution = CsmAnalyser.rankDistribution(ballotFile, List.of("Bob", "Alice"));
 		assertEquals(
 				List.of(
 						row("Bob", false, List.of(2, 1, 0)),
@@ -65,7 +68,7 @@ public class CsmAnalyserTest {
 						+ "\"Erin\"\n"
 						+ "CSM test\n")
 				.parse();
-		var distribution = CsmAnalyser.rankDistribution(ballotFile);
+		var distribution = CsmAnalyser.rankDistribution(ballotFile, List.of("Carol", "Bob", "Alice", "Dave", "Erin"));
 		assertEquals(
 				List.of(
 						row("Carol", false, List.of(4, 0)),
@@ -74,6 +77,60 @@ public class CsmAnalyserTest {
 						row("Dave", false, List.of(0, 0)),
 						row("Erin", false, List.of(0, 0))),
 				distribution);
+	}
+
+	@Test
+	public void shouldOrderElectedInChosenOrderThenEliminatedInReverseEliminationOrder() {
+		var auditLog = AuditLog.builder()
+				.round(Round.builder()
+						.roundNumber(1)
+						.elimination(elimination("Dave"))
+						.build())
+				.round(Round.builder()
+						.roundNumber(2)
+						.electedCandidate("Bob")
+						.elimination(elimination("Erin"))
+						.build())
+				.round(Round.builder()
+						.roundNumber(3)
+						.electedCandidate("Carol")
+						.electedCandidate("Alice")
+						.elimination(elimination("Frank"))
+						.build())
+				.finalResult("Bob")
+				.finalResult("Carol")
+				.finalResult("Alice")
+				.build();
+		assertEquals(
+				List.of("Bob", "Carol", "Alice", "Frank", "Erin", "Dave"), CsmAnalyser.electionOrder(auditLog));
+	}
+
+	@Test
+	public void shouldSortRankDistributionByGivenOrderThenUnlistedByName() {
+		var ballotFile = new BallotParser("5 1\n"
+						+ "3 2\n"
+						+ "4 3 1\n"
+						+ "0\n"
+						+ "\"Alice\"\n"
+						+ "\"Bob\"\n"
+						+ "\"Carol\"\n"
+						+ "\"Dave\"\n"
+						+ "\"Erin\"\n"
+						+ "CSM test\n")
+				.parse();
+		var distribution = CsmAnalyser.rankDistribution(ballotFile, List.of("Alice", "Carol"));
+		assertEquals(
+				List.of(
+						row("Alice", false, List.of(0, 4)),
+						row("Carol", false, List.of(4, 0)),
+						row("Bob", false, List.of(3, 0)),
+						row("Dave", false, List.of(0, 0)),
+						row("Erin", false, List.of(0, 0))),
+				distribution);
+	}
+
+	private static Elimination elimination(String candidate) {
+		return Elimination.builder().candidate(candidate).votes(0).build();
 	}
 
 	private static CandidateRankDistribution row(String candidate, boolean withdrawn, List<Integer> rankVotes) {

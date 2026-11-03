@@ -7,10 +7,13 @@ import com.autonomouslogic.evecsmanalysis.models.CandidateRound;
 import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.autonomouslogic.evecsmanalysis.models.Votes;
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedHashSet;
 import java.util.List;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
@@ -34,9 +37,10 @@ public class CsmAnalyser {
 				.csmNumber(csmConfig.getCsmNumber())
 				.candidateCount(ballotFile.getCandidateCount())
 				.totalVotes(totalVotes())
-				.leastSignificantRank(findLeastSignificantRank())
+				.leastSignificantRank(1)
+				//				.leastSignificantRank(findLeastSignificantRank())
 				.withdrawnCandidates(withdrawnCandidates(ballotFile))
-				.rankDistribution(rankDistribution(ballotFile));
+				.rankDistribution(rankDistribution(ballotFile, electionOrder(auditLog)));
 		winnersAndEliminations(data);
 		return data.build();
 	}
@@ -60,10 +64,28 @@ public class CsmAnalyser {
 	}
 
 	/**
-	 * Counts, per candidate, how many ballots place them at each rank. Withdrawn candidates are included.
-	 * Sorted by votes at rank 1, then rank 2, and so on, then by name.
+	 * Candidates in display order: elected candidates in the order they were chosen, followed by eliminated
+	 * candidates in reverse order of elimination.
 	 */
-	static List<CandidateRankDistribution> rankDistribution(BallotFile ballotFile) {
+	static List<String> electionOrder(AuditLog auditLog) {
+		var elected = new LinkedHashSet<String>();
+		var eliminated = new ArrayList<String>();
+		for (var round : auditLog.getRounds()) {
+			elected.addAll(round.getElectedCandidates());
+			eliminated.add(round.getElimination().getCandidate());
+		}
+		elected.addAll(auditLog.getFinalResults());
+		Collections.reverse(eliminated);
+		var order = new ArrayList<>(elected);
+		order.addAll(eliminated);
+		return order;
+	}
+
+	/**
+	 * Counts, per candidate, how many ballots place them at each rank. Withdrawn candidates are included.
+	 * Sorted by the given order. Candidates not in the order (withdrawn) come last, sorted by name.
+	 */
+	static List<CandidateRankDistribution> rankDistribution(BallotFile ballotFile, List<String> order) {
 		log.info("Calculating rank distribution");
 		var rankCount = rankCount(ballotFile);
 		var counts = new HashMap<Integer, int[]>();
@@ -85,20 +107,18 @@ public class CsmAnalyser {
 						.candidate(candidateName(ballotFile, entry.getKey()))
 						.rankVotes(Arrays.stream(entry.getValue()).boxed().toList())
 						.build())
-				.sorted(rankDistributionOrdering())
+				.sorted(rankDistributionOrdering(order))
 				.toList();
 	}
 
-	private static Comparator<CandidateRankDistribution> rankDistributionOrdering() {
-		return (a, b) -> {
-			for (int i = 0; i < a.getRankVotes().size(); i++) {
-				int c = Integer.compare(b.getRankVotes().get(i), a.getRankVotes().get(i));
-				if (c != 0) {
-					return c;
-				}
-			}
-			return a.getCandidate().compareTo(b.getCandidate());
-		};
+	private static Comparator<CandidateRankDistribution> rankDistributionOrdering(List<String> order) {
+		var positions = new HashMap<String, Integer>();
+		for (int i = 0; i < order.size(); i++) {
+			positions.put(order.get(i), i);
+		}
+		return Comparator.comparing(
+						(CandidateRankDistribution d) -> positions.getOrDefault(d.getCandidate(), Integer.MAX_VALUE))
+				.thenComparing(CandidateRankDistribution::getCandidate);
 	}
 
 	private static String candidateName(BallotFile ballotFile, int id) {
@@ -114,6 +134,7 @@ public class CsmAnalyser {
 		var finalResults = auditLog.getFinalResults();
 		var seenWinners = new HashSet<String>();
 		var seenEliminations = new HashSet<String>();
+		var eliminations = new ArrayList<CandidateRound>();
 		int r = -1;
 		for (var round : auditLog.getRounds()) {
 			r = round.getRoundNumber();
@@ -132,7 +153,7 @@ public class CsmAnalyser {
 				throw new IllegalArgumentException();
 			}
 			if (!seenEliminations.contains(eliminated)) {
-				data.elimination(
+				eliminations.add(
 						CandidateRound.builder().candidate(eliminated).round(r).build());
 				seenEliminations.add(eliminated);
 			}
@@ -142,6 +163,9 @@ public class CsmAnalyser {
 				data.winner(CandidateRound.builder().candidate(winner).round(r).build());
 			}
 		}
+		// Stored last eliminated first, matching the display order.
+		Collections.reverse(eliminations);
+		eliminations.forEach(data::elimination);
 	}
 
 	private int findLeastSignificantRank() {
