@@ -12,7 +12,7 @@ thymeleaf:
 	./gradlew csmThymeleaf --stacktrace
 
 mkdocs-serve:
-	source .venv/bin/activate && mkdocs serve
+	source .venv/bin/activate && mkdocs serve --dev-addr 0.0.0.0:8000
 
 mkdocs-build:
 	source .venv/bin/activate && mkdocs build

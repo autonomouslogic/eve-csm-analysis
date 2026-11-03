@@ -456,7 +456,7 @@ Number of ballots placing each candidate at each rank.
           "field": "Votes",
           "type": "quantitative",
           "title": "Ballots",
-          "scale": {"scheme": "blues"}
+          "scale": {"type": "sqrt", "zero": true, "range": ["#ffffff", "#08306b"], "interpolate": "lab"}
         },
         "tooltip": [
           {"field": "Candidate", "type": "nominal"},
