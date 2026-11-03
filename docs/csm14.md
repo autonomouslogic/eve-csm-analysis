@@ -305,8 +305,6 @@
 
 ## Candidate Statistics
 
-See [candidate statistics](/glossary#candidate-statistics) for how each column is calculated.
-
 <table>
     <thead>
         <tr>
@@ -817,8 +815,7 @@ Number of ballots placing each candidate at each rank.
 
 ## Candidate Overlap
 
-How often pairs of candidates appear on the same ballots. Each cell is the [Jaccard index](/glossary#jaccard-index)
-for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same ballots). Candidates are in the same order as the vote distribution. The red box encloses the elected candidates.
+How candidates appeared on ballots together. See [Jaccard index](/glossary#jaccard-index).
 
 ```vegalite
 {
@@ -876,8 +873,6 @@ for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same 
 [Source data](data/csm14-jaccard.csv)
 
 ## Popular Ballots
-
-The most common ballots, with the candidates in rank order (first choice first) and the number of votes using that exact ranking.
 
 <div class="popular-ballots">
         

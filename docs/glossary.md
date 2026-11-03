@@ -5,62 +5,49 @@
 This is the number of ballots that did not rank any of the elected candidates.
 Every candidate on these ballots was either eliminated or had withdrawn from the election.
 The percentage is relative to the total number of votes cast.
-Candidates picked are not elected by vote, so they do not count as winners here.
+Candidates picked by CCP are not elected by vote, so they do not count as winners here.
 
 ## Candidate Statistics
 
-These measure how each candidate was ranked on the ballots, before any votes were transferred.
-Ballots are weighted by their vote count, the same as everywhere else on the site.
-For the overlap between candidates, see [Jaccard Index](#jaccard-index).
+Overall statistics about each candidate before any votes are transferred.
 
 ### Ballots
 
-This is the number of ballots ranking the candidate at any position.
-The percentage is relative to the total number of votes cast.
-A candidate who was ranked on nearly every ballot has a high number here, even if they were rarely ranked first.
+The number of ballots ranking the candidate at any position.
+The percentage is relative to the total number of ballots.
 
 ### First Choice
 
-This is the number of ballots ranking the candidate first.
-The percentage is relative to the total number of votes cast.
-Unlike [Votes at Election](#votes-at-election), this is the first preference only and does not include votes transferred
-from other candidates.
+The number of ballots ranking the candidate as the first choice.
+The percentage is relative to the total number of ballots.
 
 ### Mean Rank
 
-This is the average rank the candidate was given, across only the ballots they appear on.
+The [arithmatic mean](https://en.wikipedia.org/wiki/Arithmetic_mean) of all ranks the candidate was given across ballots
+they appear on.
 A lower number means the candidate was ranked higher on average.
-Ballots not ranking the candidate are ignored, so a low mean on a small number of ballots can be misleading.
-Compare it with [Ballots](#ballots).
 
 ### Median Rank
 
-This is the middle rank the candidate was given, across only the ballots they appear on.
-When the number of ballots is even, the two middle ranks are averaged, which can give a value ending in .5.
-The median is less affected by a few very high or very low ranks than the mean.
+The [median](https://en.wikipedia.org/wiki/Median) of all ranks the candidate was given across ballots they appear on.
+It is the rank which divides the number of ballots in two.
+Half the ballows are below this rank and the other half are above.
 
 ## Jaccard Index
 
-The Jaccard index compares two sets by how much they overlap. It is the size of the intersection divided by the size of
-the union, giving 0 for no overlap and 1 for identical sets.
-
-On this site each candidate is a set of ballots: the ballots ranking them at any position. For two candidates, the
-index is the ballots ranking both divided by the ballots ranking either. Ballots are weighted by vote count.
-
-For the general definition and worked examples, see [Jaccard index on Wikipedia](https://en.wikipedia.org/wiki/Jaccard_index).
-
-This is shown as the candidate overlap heatmap on each election page.
-A value of 1 means the two candidates were on exactly the same ballots.
-A value of 0 means no ballot ranked both.
-Values in between show partial overlap, so a high value suggests voters who liked one candidate also tended to rank the other.
-The diagonal is always 1, since a candidate is compared with themselves.
+The Jaccard index compares the similarity of two candidates across all the ballots.
+It is defined as the ballots ranking both candidates divided by the ballots ranking either candidate.
+A value of 1.0 means all ballots containing A also contain B.
+A value of 0.0 means of no ballots containing A also contain B.
+A value of 0.5 means half the ballots containing A also contain B.
+And so on.
+See [Jaccard index on Wikipedia](https://en.wikipedia.org/wiki/Jaccard_index) for more information.
 
 ## Least Significant Rank
 
-The least significant rank is calculated by taking all votes cast and removing the higher rank votes to see
-if that removal would affect the outcome of the election.
-For instance, in an election with a least significant rank of 3, it means that if you removed all rank 4-10 from all ballots
-and reran the election, the same candidates would be selected.
+The lowest rank which has an effect on the election.
+For instance, an election with a least significant rank of 3 could delete all rank 4 and above choices from all ballots
+and the final result would remain unchanged.
 
 ## Votes at Election
 
