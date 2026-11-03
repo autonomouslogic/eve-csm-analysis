@@ -39,6 +39,12 @@ public class CsmAnalysis {
 	List<CandidateStatistics> candidateStatistics;
 
 	/**
+	 * Number of candidates flagged as elected in {@link #candidateStatistics}. They come first in
+	 * {@link #rankDistribution} order.
+	 */
+	int electedCount;
+
+	/**
 	 * Jaccard index for each pair of candidates, indexed as [row][column] in the same order as {@link #rankDistribution}.
 	 * Null where the pair has no ballots at all.
 	 */

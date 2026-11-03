@@ -2,8 +2,8 @@
 
 * Elected: 10
 * Candidates: 64
-* Total votes: 31274
-* [Ballots without a winner](/ballots-without-a-winner): 3545 (11.3%)
+* Total votes: 31,274
+* [Ballots without a winner](/ballots-without-a-winner): 3,545 (11.3%)
 * [Least significant rank](/least-significant-rank): 9
 
 
@@ -1117,7 +1117,7 @@ Number of ballots placing each candidate at each rank.
 ## Candidate Overlap
 
 How often pairs of candidates appear on the same ballots. Each cell is the [Jaccard index](/jaccard-index)
-for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same ballots). Candidates are in the same order as the vote distribution.
+for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same ballots). Candidates are in the same order as the vote distribution. The red box encloses the elected candidates.
 
 ```vegalite
 {
@@ -1128,33 +1128,47 @@ for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same 
   },
   "width": {"step": 18},
   "height": {"step": 18},
-  "mark": {"type": "rect", "tooltip": true},
-  "encoding": {
-    "y": {
-      "field": "Candidate",
-      "type": "nominal",
-      "title": null,
-      "sort": {"op": "min", "field": "Order", "order": "ascending"}
+  "layer": [
+    {
+      "mark": {"type": "rect", "tooltip": true},
+      "encoding": {
+        "y": {
+          "field": "Candidate",
+          "type": "nominal",
+          "title": null,
+          "sort": {"op": "min", "field": "Order", "order": "ascending"}
+        },
+        "x": {
+          "field": "Other",
+          "type": "nominal",
+          "title": null,
+          "axis": {"labelAngle": -90},
+          "sort": {"op": "min", "field": "OtherOrder", "order": "ascending"}
+        },
+        "color": {
+          "field": "Jaccard",
+          "type": "quantitative",
+          "title": "Jaccard index",
+          "scale": {"domain": [0, 1], "type": "sqrt", "range": ["#ffffff", "#08306b"], "interpolate": "lab"}
+        },
+        "tooltip": [
+          {"field": "Candidate", "type": "nominal"},
+          {"field": "Other", "type": "nominal", "title": "Compared with"},
+          {"field": "Jaccard", "type": "quantitative", "format": ".3f"}
+        ]
+      }
     },
-    "x": {
-      "field": "Other",
-      "type": "nominal",
-      "title": null,
-      "axis": {"labelAngle": -90},
-      "sort": {"op": "min", "field": "OtherOrder", "order": "ascending"}
-    },
-    "color": {
-      "field": "Jaccard",
-      "type": "quantitative",
-      "title": "Jaccard index",
-      "scale": {"domain": [0, 1], "type": "sqrt", "range": ["#ffffff", "#08306b"], "interpolate": "lab"}
-    },
-    "tooltip": [
-      {"field": "Candidate", "type": "nominal"},
-      {"field": "Other", "type": "nominal", "title": "Compared with"},
-      {"field": "Jaccard", "type": "quantitative", "format": ".3f"}
-    ]
-  }
+    {
+      "data": {"values": [{}]},
+      "mark": {"type": "rect", "fill": null, "stroke": "#d62728", "strokeWidth": 2, "tooltip": false},
+      "encoding": {
+        "x": {"value": 0},
+        "x2": {"value": 180},
+        "y": {"value": 0},
+        "y2": {"value": 180}
+      }
+    }
+  ]
 }
 ```
 

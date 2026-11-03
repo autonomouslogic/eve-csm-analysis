@@ -44,6 +44,7 @@ public class CsmAnalyser {
 		log.info("Running analysis for CSM: {}", csmConfig.getCsmNumber());
 		var totalVotes = totalVotes();
 		var rankDistribution = rankDistribution(ballotFile, electionOrder(auditLog));
+		var candidateStatistics = candidateStatistics(rankDistribution, auditLog.getFinalResults());
 		var data = CsmAnalysis.builder()
 				.csmNumber(csmConfig.getCsmNumber())
 				.candidateCount(ballotFile.getCandidateCount())
@@ -53,7 +54,10 @@ public class CsmAnalyser {
 				.leastSignificantRank(findLeastSignificantRank())
 				.withdrawnCandidates(withdrawnCandidates(ballotFile))
 				.rankDistribution(rankDistribution)
-				.candidateStatistics(candidateStatistics(rankDistribution, auditLog.getFinalResults()))
+				.candidateStatistics(candidateStatistics)
+				.electedCount((int) candidateStatistics.stream()
+						.filter(CandidateStatistics::isElected)
+						.count())
 				.jaccardIndex(jaccardIndex(ballotFile, rankDistribution))
 				.ballotSizes(ballotSizes(ballotFile));
 		winnersAndEliminations(data);
