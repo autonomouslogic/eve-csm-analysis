@@ -4,8 +4,10 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import com.autonomouslogic.evecsmanalysis.models.AuditLog;
 import com.autonomouslogic.evecsmanalysis.models.CandidateRankDistribution;
+import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.autonomouslogic.evecsmanalysis.models.Elimination;
 import com.autonomouslogic.evecsmanalysis.models.Round;
+import com.autonomouslogic.evecsmanalysis.parser.AuditLogParser;
 import com.autonomouslogic.evecsmanalysis.parser.BallotParser;
 import java.util.List;
 import org.junit.jupiter.api.Test;
@@ -101,8 +103,7 @@ public class CsmAnalyserTest {
 				.finalResult("Carol")
 				.finalResult("Alice")
 				.build();
-		assertEquals(
-				List.of("Bob", "Carol", "Alice", "Frank", "Erin", "Dave"), CsmAnalyser.electionOrder(auditLog));
+		assertEquals(List.of("Bob", "Carol", "Alice", "Frank", "Erin", "Dave"), CsmAnalyser.electionOrder(auditLog));
 	}
 
 	@Test
@@ -127,6 +128,37 @@ public class CsmAnalyserTest {
 						row("Dave", false, List.of(0, 0)),
 						row("Erin", false, List.of(0, 0))),
 				distribution);
+	}
+
+	@Test
+	public void shouldIncludeTransfersReceivedBeforeElectionInVotesAtElection() {
+		var ballotFile = new BallotParser(
+						"3 2\n" + "1 1 2\n" + "0\n" + "\"Zintage\"\n" + "\"hyprviper1\"\n" + "\"Bob\"\n" + "CSM test\n")
+				.parse();
+		var auditLog = new AuditLogParser("Round 1 beginning - 3 candidates remain\n"
+						+ "100 votes, 40 quota\n"
+						+ "Initial talley:\n"
+						+ "  50 \"Zintage\"\n"
+						+ "  10 \"hyprviper1\"\n"
+						+ "  40 \"Bob\"\n"
+						+ "Actions:\n"
+						+ "  Elected: \"Zintage\"\n"
+						+ "  Transfer from \"Zintage\":\n"
+						+ "    Votes: 50.000000, Factor: 0.200000, Excess: 10.000000\n"
+						+ "    30.000000 votes to \"hyprviper1\"\n"
+						+ "    20.000000 votes to Exhausted\n"
+						+ "  Elected: \"hyprviper1\"\n"
+						+ "  Pre-elimination tally:\n"
+						+ "  40 \"Bob\"\n"
+						+ "  Elimination: \"Bob\" with 40 votes\n"
+						+ "\n"
+						+ "Result:\n"
+						+ "\"Zintage\"\n"
+						+ "\"hyprviper1\"\n")
+				.parse();
+		var csmConfig = CsmConfig.builder().csmNumber(1).build();
+		var winners = new CsmAnalyser(csmConfig, ballotFile, auditLog).run().getWinners();
+		assertEquals(40.0, winners.get(1).getVotes());
 	}
 
 	private static Elimination elimination(String candidate) {

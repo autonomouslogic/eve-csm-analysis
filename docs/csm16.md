@@ -20,6 +20,7 @@
         <tr>
             <th>Candidate</th>
             <th>Election round</th>
+            <th>Votes at election</th>
         </tr>
     </thead>
     <tbody>
@@ -27,42 +28,52 @@
         <tr>
             <td>Merkelchen</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">7,726</td>
         </tr>
         <tr>
             <td>Gobbins</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">3,770</td>
         </tr>
         <tr>
             <td>Innominate</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">4,191</td>
         </tr>
         <tr>
             <td>Brisc Rubal</td>
             <td style="text-align: right">20</td>
+            <td style="text-align: right">3,550</td>
         </tr>
         <tr>
             <td>Kenneth Feld</td>
             <td style="text-align: right">26</td>
+            <td style="text-align: right">3,431</td>
         </tr>
         <tr>
             <td>I Beast</td>
             <td style="text-align: right">33</td>
+            <td style="text-align: right">3,349</td>
         </tr>
         <tr>
             <td>Suitonia</td>
             <td style="text-align: right">34</td>
+            <td style="text-align: right">3,478</td>
         </tr>
         <tr>
             <td>Vily</td>
             <td style="text-align: right">36</td>
+            <td style="text-align: right">3,260</td>
         </tr>
         <tr>
             <td>Mike Azariah</td>
             <td style="text-align: right">36</td>
+            <td style="text-align: right"></td>
         </tr>
         <tr>
             <td>progodlegend</td>
             <td style="text-align: right">36</td>
+            <td style="text-align: right"></td>
         </tr>
         
         

@@ -6,6 +6,7 @@ import com.autonomouslogic.evecsmanalysis.models.CandidateRankDistribution;
 import com.autonomouslogic.evecsmanalysis.models.CandidateRound;
 import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
+import com.autonomouslogic.evecsmanalysis.models.Round;
 import com.autonomouslogic.evecsmanalysis.models.Votes;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -37,8 +38,8 @@ public class CsmAnalyser {
 				.csmNumber(csmConfig.getCsmNumber())
 				.candidateCount(ballotFile.getCandidateCount())
 				.totalVotes(totalVotes())
-				.leastSignificantRank(1)
-				//				.leastSignificantRank(findLeastSignificantRank())
+				//				.leastSignificantRank(1)
+				.leastSignificantRank(findLeastSignificantRank())
 				.withdrawnCandidates(withdrawnCandidates(ballotFile))
 				.rankDistribution(rankDistribution(ballotFile, electionOrder(auditLog)));
 		winnersAndEliminations(data);
@@ -143,8 +144,11 @@ public class CsmAnalyser {
 					throw new IllegalArgumentException();
 				}
 				if (!seenWinners.contains(elected)) {
-					data.winner(
-							CandidateRound.builder().candidate(elected).round(r).build());
+					data.winner(CandidateRound.builder()
+							.candidate(elected)
+							.round(r)
+							.votes(votesAtElection(round, elected))
+							.build());
 					seenWinners.add(elected);
 				}
 			}
@@ -166,6 +170,24 @@ public class CsmAnalyser {
 		// Stored last eliminated first, matching the display order.
 		Collections.reverse(eliminations);
 		eliminations.forEach(data::elimination);
+	}
+
+	/**
+	 * Votes a candidate held when elected: their initial talley plus the votes transferred to them by the transfers
+	 * listed before their election in the round. Null if the candidate is not in the round's initial talley.
+	 */
+	static Double votesAtElection(Round round, String candidate) {
+		var initial = round.getInitialTalley().get(candidate);
+		if (initial == null) {
+			return null;
+		}
+		var transfers = round.getVotesTransfers();
+		var transfersBefore = round.getTransfersBeforeElection().getOrDefault(candidate, 0);
+		var received = 0.0;
+		for (var transfer : transfers.subList(0, transfersBefore)) {
+			received += transfer.getToCandidates().getOrDefault(candidate, 0.0);
+		}
+		return initial + received;
 	}
 
 	private int findLeastSignificantRank() {

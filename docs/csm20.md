@@ -20,6 +20,7 @@
         <tr>
             <th>Candidate</th>
             <th>Election round</th>
+            <th>Votes at election</th>
         </tr>
     </thead>
     <tbody>
@@ -27,42 +28,52 @@
         <tr>
             <td>Zintage Enaka</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">9,257</td>
         </tr>
         <tr>
             <td>hyprviper1</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">4,713</td>
         </tr>
         <tr>
             <td>Machiavelian</td>
             <td style="text-align: right">29</td>
+            <td style="text-align: right">4,460</td>
         </tr>
         <tr>
             <td>The Oz</td>
             <td style="text-align: right">40</td>
+            <td style="text-align: right">4,379</td>
         </tr>
         <tr>
             <td>Itaer</td>
             <td style="text-align: right">42</td>
+            <td style="text-align: right">4,667</td>
         </tr>
         <tr>
             <td>Angry Mustache</td>
             <td style="text-align: right">44</td>
+            <td style="text-align: right">4,452</td>
         </tr>
         <tr>
             <td>youngpuke2</td>
             <td style="text-align: right">44</td>
+            <td style="text-align: right">4,254</td>
         </tr>
         <tr>
             <td>Ariel Rin</td>
             <td style="text-align: right">45</td>
+            <td style="text-align: right">4,347</td>
         </tr>
         <tr>
             <td>Arrowspeeed Bounty</td>
             <td style="text-align: right">45</td>
+            <td style="text-align: right"></td>
         </tr>
         <tr>
             <td>Kshal Aideron</td>
             <td style="text-align: right">45</td>
+            <td style="text-align: right"></td>
         </tr>
         
         
@@ -70,10 +81,12 @@
             <tr>
                 <td>Mick Fightmaster</td>
                 <td style="text-align: right">selected by CCP</td>
+                <td></td>
             </tr>
             <tr>
                 <td>Val Auroris</td>
                 <td style="text-align: right">selected by CCP</td>
+                <td></td>
             </tr>
             
         

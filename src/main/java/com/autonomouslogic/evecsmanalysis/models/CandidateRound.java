@@ -10,4 +10,9 @@ import lombok.extern.jackson.Jacksonized;
 public class CandidateRound {
 	String candidate;
 	int round;
+
+	/**
+	 * Votes the candidate held at the start of {@link #round}. Only set for winners elected in the audit log.
+	 */
+	Double votes;
 }

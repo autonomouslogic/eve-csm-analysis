@@ -19,6 +19,7 @@
         <tr>
             <th>Candidate</th>
             <th>Election round</th>
+            <th>Votes at election</th>
         </tr>
     </thead>
     <tbody>
@@ -26,42 +27,52 @@
         <tr>
             <td>Merkelchen</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">5,325</td>
         </tr>
         <tr>
             <td>Gobbins</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">3,709</td>
         </tr>
         <tr>
             <td>Vily</td>
             <td style="text-align: right">19</td>
+            <td style="text-align: right">3,477</td>
         </tr>
         <tr>
             <td>Maria Taylor</td>
             <td style="text-align: right">21</td>
+            <td style="text-align: right">3,570</td>
         </tr>
         <tr>
             <td>Innominate</td>
             <td style="text-align: right">29</td>
+            <td style="text-align: right">3,101</td>
         </tr>
         <tr>
             <td>Kenneth Feld</td>
             <td style="text-align: right">29</td>
+            <td style="text-align: right">3,232</td>
         </tr>
         <tr>
             <td>Mike Azariah</td>
             <td style="text-align: right">30</td>
+            <td style="text-align: right">3,463</td>
         </tr>
         <tr>
             <td>Brisc Rubal</td>
             <td style="text-align: right">30</td>
+            <td style="text-align: right">2,982</td>
         </tr>
         <tr>
             <td>Phantomite</td>
             <td style="text-align: right">30</td>
+            <td style="text-align: right"></td>
         </tr>
         <tr>
             <td>Torvald Uruz</td>
             <td style="text-align: right">30</td>
+            <td style="text-align: right"></td>
         </tr>
         
         

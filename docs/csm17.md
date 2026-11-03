@@ -19,6 +19,7 @@
         <tr>
             <th>Candidate</th>
             <th>Election round</th>
+            <th>Votes at election</th>
         </tr>
     </thead>
     <tbody>
@@ -26,42 +27,52 @@
         <tr>
             <td>Kazanir</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">5,574</td>
         </tr>
         <tr>
             <td>Luke Anninan</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">4,302</td>
         </tr>
         <tr>
             <td>Angry Mustache</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">3,188</td>
         </tr>
         <tr>
             <td>Kenneth Feld</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">3,017</td>
         </tr>
         <tr>
             <td>Brisc Rubal</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">2,861</td>
         </tr>
         <tr>
             <td>Storm Delay</td>
             <td style="text-align: right">28</td>
+            <td style="text-align: right">2,712</td>
         </tr>
         <tr>
             <td>Pandoralica</td>
             <td style="text-align: right">33</td>
+            <td style="text-align: right">2,801</td>
         </tr>
         <tr>
             <td>Arsia Elkin</td>
             <td style="text-align: right">34</td>
+            <td style="text-align: right">2,813</td>
         </tr>
         <tr>
             <td>Mark Resurrectus</td>
             <td style="text-align: right">34</td>
+            <td style="text-align: right">2,644</td>
         </tr>
         <tr>
             <td>Jinx De'Caire</td>
             <td style="text-align: right">34</td>
+            <td style="text-align: right"></td>
         </tr>
         
         

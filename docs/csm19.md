@@ -20,6 +20,7 @@
         <tr>
             <th>Candidate</th>
             <th>Election round</th>
+            <th>Votes at election</th>
         </tr>
     </thead>
     <tbody>
@@ -27,42 +28,52 @@
         <tr>
             <td>Kazanir</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">7,391</td>
         </tr>
         <tr>
             <td>Luke Anninan</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">4,742</td>
         </tr>
         <tr>
             <td>Zintage Enaka</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">4,564</td>
         </tr>
         <tr>
             <td>Ariel Rin</td>
             <td style="text-align: right">33</td>
+            <td style="text-align: right">3,129</td>
         </tr>
         <tr>
             <td>Dujek Oneye</td>
             <td style="text-align: right">33</td>
+            <td style="text-align: right">3,146</td>
         </tr>
         <tr>
             <td>Storm Delay</td>
             <td style="text-align: right">36</td>
+            <td style="text-align: right">3,034</td>
         </tr>
         <tr>
             <td>The Oz</td>
             <td style="text-align: right">36</td>
+            <td style="text-align: right">3,038</td>
         </tr>
         <tr>
             <td>Kenneth Feld</td>
             <td style="text-align: right">37</td>
+            <td style="text-align: right">3,072</td>
         </tr>
         <tr>
             <td>Seddow</td>
             <td style="text-align: right">37</td>
+            <td style="text-align: right"></td>
         </tr>
         <tr>
             <td>Mick Fightmaster</td>
             <td style="text-align: right">37</td>
+            <td style="text-align: right"></td>
         </tr>
         
         
@@ -70,10 +81,12 @@
             <tr>
                 <td>Drake Iddon</td>
                 <td style="text-align: right">selected by CCP</td>
+                <td></td>
             </tr>
             <tr>
                 <td>youngpuke2</td>
                 <td style="text-align: right">selected by CCP</td>
+                <td></td>
             </tr>
             
         

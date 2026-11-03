@@ -19,6 +19,7 @@
         <tr>
             <th>Candidate</th>
             <th>Election round</th>
+            <th>Votes at election</th>
         </tr>
     </thead>
     <tbody>
@@ -26,42 +27,52 @@
         <tr>
             <td>Aryth</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">6,644</td>
         </tr>
         <tr>
             <td>Sort Dragon</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">3,767</td>
         </tr>
         <tr>
             <td>Merkelchen</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">3,949</td>
         </tr>
         <tr>
             <td>Jin'taan</td>
             <td style="text-align: right">23</td>
+            <td style="text-align: right">2,633</td>
         </tr>
         <tr>
             <td>Innominate</td>
             <td style="text-align: right">30</td>
+            <td style="text-align: right">2,620</td>
         </tr>
         <tr>
             <td>Killah Bee</td>
             <td style="text-align: right">31</td>
+            <td style="text-align: right">2,613</td>
         </tr>
         <tr>
             <td>Steve Ronuken</td>
             <td style="text-align: right">34</td>
+            <td style="text-align: right">2,547</td>
         </tr>
         <tr>
             <td>Brisc Rubal</td>
             <td style="text-align: right">35</td>
+            <td style="text-align: right">2,490</td>
         </tr>
         <tr>
             <td>Suitonia</td>
             <td style="text-align: right">36</td>
+            <td style="text-align: right">2,477</td>
         </tr>
         <tr>
             <td>The Judge</td>
             <td style="text-align: right">36</td>
+            <td style="text-align: right"></td>
         </tr>
         
         

@@ -19,6 +19,7 @@
         <tr>
             <th>Candidate</th>
             <th>Election round</th>
+            <th>Votes at election</th>
         </tr>
     </thead>
     <tbody>
@@ -26,6 +27,7 @@
         <tr>
             <td>[(${winner.candidate})]</td>
             <td style="text-align: right">[(${winner.round})]</td>
+            <td style="text-align: right">[(${winner.votes != null} ? ${#numbers.formatInteger(winner.votes, 1, 'COMMA')} : '')]</td>
         </tr>
         [/]
         [# th:if="${data.ccpPicks.size()} > 0"]
@@ -33,6 +35,7 @@
             <tr>
                 <td>[(${winner})]</td>
                 <td style="text-align: right">selected by CCP</td>
+                <td></td>
             </tr>
             [/]
         [/]

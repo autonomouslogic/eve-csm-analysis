@@ -19,6 +19,7 @@
         <tr>
             <th>Candidate</th>
             <th>Election round</th>
+            <th>Votes at election</th>
         </tr>
     </thead>
     <tbody>
@@ -26,42 +27,52 @@
         <tr>
             <td>Kazanir</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">6,741</td>
         </tr>
         <tr>
             <td>Alcoholic Satan</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">6,501</td>
         </tr>
         <tr>
             <td>Luke Anninan</td>
             <td style="text-align: right">30</td>
+            <td style="text-align: right">4,169</td>
         </tr>
         <tr>
             <td>Angry Mustache</td>
             <td style="text-align: right">32</td>
+            <td style="text-align: right">4,136</td>
         </tr>
         <tr>
             <td>Storm Delay</td>
             <td style="text-align: right">33</td>
+            <td style="text-align: right">4,108</td>
         </tr>
         <tr>
             <td>Dark Shines</td>
             <td style="text-align: right">38</td>
+            <td style="text-align: right">3,968</td>
         </tr>
         <tr>
             <td>Mike Azariah</td>
             <td style="text-align: right">38</td>
+            <td style="text-align: right">4,237</td>
         </tr>
         <tr>
             <td>The Oz </td>
             <td style="text-align: right">38</td>
+            <td style="text-align: right">3,973</td>
         </tr>
         <tr>
             <td>Mark Resurrectus</td>
             <td style="text-align: right">39</td>
+            <td style="text-align: right"></td>
         </tr>
         <tr>
             <td>Amelia Duskspace</td>
             <td style="text-align: right">39</td>
+            <td style="text-align: right"></td>
         </tr>
         
         
@@ -69,10 +80,12 @@
             <tr>
                 <td>Kshal Aideron</td>
                 <td style="text-align: right">selected by CCP</td>
+                <td></td>
             </tr>
             <tr>
                 <td>Stitch Kaneland</td>
                 <td style="text-align: right">selected by CCP</td>
+                <td></td>
             </tr>
             
         

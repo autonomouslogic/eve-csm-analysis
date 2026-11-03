@@ -19,6 +19,7 @@
         <tr>
             <th>Candidate</th>
             <th>Election round</th>
+            <th>Votes at election</th>
         </tr>
     </thead>
     <tbody>
@@ -26,42 +27,52 @@
         <tr>
             <td>Aryth</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">4,981</td>
         </tr>
         <tr>
             <td>Innominate</td>
             <td style="text-align: right">32</td>
+            <td style="text-align: right">2,798</td>
         </tr>
         <tr>
             <td>Steve Ronuken</td>
             <td style="text-align: right">44</td>
+            <td style="text-align: right">2,732</td>
         </tr>
         <tr>
             <td>Suitonia</td>
             <td style="text-align: right">51</td>
+            <td style="text-align: right">2,621</td>
         </tr>
         <tr>
             <td>Jin'taan</td>
             <td style="text-align: right">51</td>
+            <td style="text-align: right">2,609</td>
         </tr>
         <tr>
             <td>The Judge</td>
             <td style="text-align: right">52</td>
+            <td style="text-align: right">2,688</td>
         </tr>
         <tr>
             <td>NoobMan</td>
             <td style="text-align: right">53</td>
+            <td style="text-align: right">2,593</td>
         </tr>
         <tr>
             <td>Yukiko Kami</td>
             <td style="text-align: right">54</td>
+            <td style="text-align: right">2,576</td>
         </tr>
         <tr>
             <td>rhiload Feron-drake</td>
             <td style="text-align: right">54</td>
+            <td style="text-align: right"></td>
         </tr>
         <tr>
             <td>Vince Draken</td>
             <td style="text-align: right">54</td>
+            <td style="text-align: right"></td>
         </tr>
         
         

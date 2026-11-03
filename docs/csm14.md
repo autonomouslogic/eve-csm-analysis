@@ -19,6 +19,7 @@
         <tr>
             <th>Candidate</th>
             <th>Election round</th>
+            <th>Votes at election</th>
         </tr>
     </thead>
     <tbody>
@@ -26,42 +27,52 @@
         <tr>
             <td>Aryth</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">7,200</td>
         </tr>
         <tr>
             <td>Gobbins</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">5,089</td>
         </tr>
         <tr>
             <td>Olmeca Gold</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">3,232</td>
         </tr>
         <tr>
             <td>Vily</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">3,011</td>
         </tr>
         <tr>
             <td>Merkelchen</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">4,303</td>
         </tr>
         <tr>
             <td>Killah Bee</td>
             <td style="text-align: right">1</td>
+            <td style="text-align: right">3,421</td>
         </tr>
         <tr>
             <td>Dunk Dinkle</td>
             <td style="text-align: right">34</td>
+            <td style="text-align: right">3,257</td>
         </tr>
         <tr>
             <td>ExookiZ</td>
             <td style="text-align: right">34</td>
+            <td style="text-align: right"></td>
         </tr>
         <tr>
             <td>Steve Ronuken</td>
             <td style="text-align: right">34</td>
+            <td style="text-align: right"></td>
         </tr>
         <tr>
             <td>Innominate</td>
             <td style="text-align: right">34</td>
+            <td style="text-align: right"></td>
         </tr>
         
         
