@@ -123,6 +123,11 @@ Run `make format` before committing Java or Gradle changes; CI fails on `spotles
 - When fixing a bug: write the test first, verify it fails with the old behaviour, then implement the fix and
   verify the test passes. Do not start implementing until the failing test exists.
 
+### Writing
+
+- Use the Oxford comma in lists of three or more items (e.g. "votes, ballots, and audit logs"). Applies to prose in
+  docs, templates, Javadoc and comments.
+
 ### Generated and third-party files
 
 - Do not hand-edit generated output in `docs/` (see Pipeline) or anything under `build/`.
