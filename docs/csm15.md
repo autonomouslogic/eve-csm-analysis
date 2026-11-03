@@ -814,3 +814,87 @@ for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same 
 ```
 
 [Source data](data/csm15-jaccard.csv)
+
+## Popular Ballots
+
+The most common ballots, with the candidates in rank order (first choice first) and the number of votes using that exact ranking.
+
+<div class="popular-ballots">
+        
+    <div class="popular-ballot">
+        <strong>4,115 ballots</strong>
+        <ol>
+            
+            <li>Merkelchen</li>
+            <li>Innominate</li>
+            <li>Brisc Rubal</li>
+            <li>ExookiZ</li>
+            <li>January Valentine</li>
+            <li>Vily</li>
+            <li>Gobbins</li>
+            <li>UAxDEATH</li>
+            <li>Torvald Uruz</li>
+            <li>Xenuria</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>1,817 ballots</strong>
+        <ol>
+            
+            <li>Gobbins</li>
+            <li>Maria Taylor</li>
+            <li>Steadyo</li>
+            <li>Kenneth Feld</li>
+            <li>BlazingBunny</li>
+            <li>Meredith en Thielles</li>
+            <li>Pandora Singularity</li>
+            <li>ExookiZ</li>
+            <li>Storm Delay</li>
+            <li>boernl</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>1,476 ballots</strong>
+        <ol>
+            
+            <li>Maria Taylor</li>
+            <li>Gobbins</li>
+            <li>Steadyo</li>
+            <li>Kenneth Feld</li>
+            <li>Loroseco Kross</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>1,040 ballots</strong>
+        <ol>
+            
+            <li>Vily</li>
+            <li>Ironwulf</li>
+            <li>Loroseco Kross</li>
+            <li>Alexis Finch</li>
+            <li>BlazingBunny</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>996 ballots</strong>
+        <ol>
+            
+            <li>Juvenius Drakonius</li>
+            <li>DutchGunner</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>470 ballots</strong>
+        <ol>
+            
+            <li>Maria Taylor</li>
+            
+        </ol>
+    </div>
+        
+</div>

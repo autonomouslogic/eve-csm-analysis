@@ -269,3 +269,20 @@ for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same 
 ```
 
 [Source data](data/csm[(${analysis.csmNumber})]-jaccard.csv)
+
+## Popular Ballots
+
+The most common ballots, with the candidates in rank order (first choice first) and the number of votes using that exact ranking.
+
+<div class="popular-ballots">
+        [# th:each="ballot : ${analysis.popularBallots}"]
+    <div class="popular-ballot">
+        <strong>[(${#numbers.formatInteger(ballot.ballots, 1, 'COMMA')})] ballots</strong>
+        <ol>
+            [# th:each="candidate : ${ballot.candidates}"]
+            <li>[(${candidate})]</li>
+            [/]
+        </ol>
+    </div>
+        [/]
+</div>

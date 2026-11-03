@@ -905,3 +905,96 @@ for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same 
 ```
 
 [Source data](data/csm16-jaccard.csv)
+
+## Popular Ballots
+
+The most common ballots, with the candidates in rank order (first choice first) and the number of votes using that exact ranking.
+
+<div class="popular-ballots">
+        
+    <div class="popular-ballot">
+        <strong>6,496 ballots</strong>
+        <ol>
+            
+            <li>Merkelchen</li>
+            <li>Innominate</li>
+            <li>Brisc Rubal</li>
+            <li>Baculus Orden</li>
+            <li>Broodin</li>
+            <li>Angry Mustache</li>
+            <li>Micromancer</li>
+            <li>Xenuria</li>
+            <li>Suitonia</li>
+            <li>I Beast</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>1,782 ballots</strong>
+        <ol>
+            
+            <li>Gobbins</li>
+            <li>progodlegend</li>
+            <li>Kenneth Feld</li>
+            <li>RonUSMC</li>
+            <li>Phantomite</li>
+            <li>Vily</li>
+            <li>Arsia Elkin</li>
+            <li>Uriel Paradisi Anteovnuecci</li>
+            <li>Reicher514</li>
+            <li>Seddow</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>1,068 ballots</strong>
+        <ol>
+            
+            <li>Kenneth Feld</li>
+            <li>Rich Richman</li>
+            <li>progodlegend</li>
+            <li>Gobbins</li>
+            <li>Seddow</li>
+            <li>Vily</li>
+            <li>Phantomite</li>
+            <li>Arsia Elkin</li>
+            <li>Angry Mustache</li>
+            <li>Maldavius</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>796 ballots</strong>
+        <ol>
+            
+            <li>Vily</li>
+            <li>progodlegend</li>
+            <li>RonUSMC</li>
+            <li>Gobbins</li>
+            <li>Phantomite</li>
+            <li>Arsia Elkin</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>772 ballots</strong>
+        <ol>
+            
+            <li>I Beast</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>765 ballots</strong>
+        <ol>
+            
+            <li>Uriel Paradisi Anteovnuecci</li>
+            <li>DutchGunner</li>
+            <li>Baculus Orden</li>
+            <li>Dr Spodumain</li>
+            <li>I Beast</li>
+            
+        </ol>
+    </div>
+        
+</div>

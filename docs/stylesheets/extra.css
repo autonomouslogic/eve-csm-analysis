@@ -7,3 +7,19 @@
 .md-typeset tr.elected + tr:not(.elected) > td {
 	border-top: 3px solid var(--md-default-fg-color--light);
 }
+
+/* Popular ballots on csm.md: boxes flow left to right and wrap onto new lines as needed. */
+.popular-ballots {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.8rem;
+	align-items: flex-start;
+}
+
+.popular-ballot {
+	border: none;
+	min-width: 7rem;
+}
+
+.popular-ballot ol {
+}

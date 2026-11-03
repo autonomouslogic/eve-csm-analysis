@@ -874,3 +874,96 @@ for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same 
 ```
 
 [Source data](data/csm17-jaccard.csv)
+
+## Popular Ballots
+
+The most common ballots, with the candidates in rank order (first choice first) and the number of votes using that exact ranking.
+
+<div class="popular-ballots">
+        
+    <div class="popular-ballot">
+        <strong>5,105 ballots</strong>
+        <ol>
+            
+            <li>Kazanir</li>
+            <li>Angry Mustache</li>
+            <li>Brisc Rubal</li>
+            <li>Pandoralica</li>
+            <li>hyprviper1</li>
+            <li>Sarin Blackfist</li>
+            <li>Jinx De'Caire</li>
+            <li>Alasker</li>
+            <li>Ithica Hawk</li>
+            <li>Cael Caderu</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>2,110 ballots</strong>
+        <ol>
+            
+            <li>Luke Anninan</li>
+            <li>Kenneth Feld</li>
+            <li>Hy Wanto Destroyer</li>
+            <li>Jinx De'Caire</li>
+            <li>Pandoralica</li>
+            <li>hyprviper1</li>
+            <li>Mark Resurrectus</li>
+            <li>Arsia Elkin</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>1,322 ballots</strong>
+        <ol>
+            
+            <li>Brisc Rubal</li>
+            <li>Pandoralica</li>
+            <li>Angry Mustache</li>
+            <li>Hy Wanto Destroyer</li>
+            <li>Jinx De'Caire</li>
+            <li>Luke Anninan</li>
+            <li>Mark Resurrectus</li>
+            <li>hyprviper1</li>
+            <li>Arsia Elkin</li>
+            <li>Stitch Kaneland</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>582 ballots</strong>
+        <ol>
+            
+            <li>Luke Anninan</li>
+            <li>Kenneth Feld</li>
+            <li>Hy Wanto Destroyer</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>547 ballots</strong>
+        <ol>
+            
+            <li>Jinx De'Caire</li>
+            <li>Ithica Hawk</li>
+            <li>Pandoralica</li>
+            <li>Angry Mustache</li>
+            <li>Luke Anninan</li>
+            <li>Mark Resurrectus</li>
+            <li>Hy Wanto Destroyer</li>
+            <li>Arsia Elkin</li>
+            <li>Torvald Uruz</li>
+            <li>Stitch Kaneland</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>497 ballots</strong>
+        <ol>
+            
+            <li>Luke Anninan</li>
+            
+        </ol>
+    </div>
+        
+</div>

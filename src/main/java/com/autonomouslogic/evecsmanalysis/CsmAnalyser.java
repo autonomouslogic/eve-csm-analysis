@@ -7,6 +7,7 @@ import com.autonomouslogic.evecsmanalysis.models.CandidateRound;
 import com.autonomouslogic.evecsmanalysis.models.CandidateStatistics;
 import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
+import com.autonomouslogic.evecsmanalysis.models.PopularBallot;
 import com.autonomouslogic.evecsmanalysis.models.Round;
 import com.autonomouslogic.evecsmanalysis.models.Votes;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -30,6 +31,11 @@ import lombok.extern.log4j.Log4j2;
 @Log4j2
 public class CsmAnalyser {
 	private static final ObjectMapper objectMapper = new ObjectMapper();
+
+	/**
+	 * Number of ballot compositions listed in {@link CsmAnalysis#getPopularBallots()}.
+	 */
+	static final int POPULAR_BALLOT_COUNT = 6;
 
 	@NonNull
 	private final CsmConfig csmConfig;
@@ -59,7 +65,8 @@ public class CsmAnalyser {
 						.filter(CandidateStatistics::isElected)
 						.count())
 				.jaccardIndex(jaccardIndex(ballotFile, rankDistribution))
-				.ballotSizes(ballotSizes(ballotFile));
+				.ballotSizes(ballotSizes(ballotFile))
+				.popularBallots(popularBallots(ballotFile, POPULAR_BALLOT_COUNT));
 		winnersAndEliminations(data);
 		return data.build();
 	}
@@ -109,6 +116,36 @@ public class CsmAnalyser {
 			counts[votes.getBallot().getRankings().size()] += votes.getCount();
 		}
 		return Arrays.stream(counts).boxed().toList();
+	}
+
+	/**
+	 * The most common ballot compositions, i.e. the exact candidate ranking, most votes first. Ties are ordered by
+	 * candidate names. Ballots ranking no candidates are skipped.
+	 */
+	static List<PopularBallot> popularBallots(BallotFile ballotFile, int limit) {
+		log.info("Calculating popular ballots");
+		var counts = new HashMap<List<String>, Integer>();
+		for (var votes : ballotFile.getAllVotes()) {
+			var names = votes.getBallot().getRankings().stream()
+					.map(id -> candidateName(ballotFile, id))
+					.toList();
+			if (!names.isEmpty()) {
+				counts.merge(names, votes.getCount(), Integer::sum);
+			}
+		}
+		return counts.entrySet().stream()
+				.sorted((a, b) -> {
+					int byCount = Integer.compare(b.getValue(), a.getValue());
+					return byCount != 0
+							? byCount
+							: String.join("\u0000", a.getKey()).compareTo(String.join("\u0000", b.getKey()));
+				})
+				.limit(limit)
+				.map(entry -> PopularBallot.builder()
+						.candidates(entry.getKey())
+						.ballots(entry.getValue())
+						.build())
+				.toList();
 	}
 
 	static List<String> withdrawnCandidates(BallotFile ballotFile) {

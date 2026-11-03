@@ -1174,3 +1174,96 @@ for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same 
 ```
 
 [Source data](data/csm12-jaccard.csv)
+
+## Popular Ballots
+
+The most common ballots, with the candidates in rank order (first choice first) and the number of votes using that exact ranking.
+
+<div class="popular-ballots">
+        
+    <div class="popular-ballot">
+        <strong>1,627 ballots</strong>
+        <ol>
+            
+            <li>Aryth</li>
+            <li>Innominate</li>
+            <li>Sullen Decimus</li>
+            <li>Jin'taan</li>
+            <li>The Judge</li>
+            <li>Suitonia</li>
+            <li>Yukiko Kami</li>
+            <li>rhiload Feron-drake</li>
+            <li>commander aze</li>
+            <li>Dancul1001</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>1,208 ballots</strong>
+        <ol>
+            
+            <li>Aryth</li>
+            <li>Innominate</li>
+            <li>Sullen Decimus</li>
+            <li>Jin'taan</li>
+            <li>The Judge</li>
+            <li>Suitonia</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>442 ballots</strong>
+        <ol>
+            
+            <li>Sort Dragon</li>
+            <li>Kalbuir Skirate</li>
+            <li>Dancul1001</li>
+            <li>Fawlty7</li>
+            <li>The Judge</li>
+            <li>Capri Sun KraftFoods</li>
+            <li>Yukiko Kami</li>
+            <li>Vince Draken</li>
+            <li>Killah Bee</li>
+            <li>Afropty</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>391 ballots</strong>
+        <ol>
+            
+            <li>The Judge</li>
+            <li>Sullen Decimus</li>
+            <li>Jin'taan</li>
+            <li>Innominate</li>
+            <li>Steve Ronuken</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>308 ballots</strong>
+        <ol>
+            
+            <li>Kalbuir Skirate</li>
+            <li>Yukiko Kami</li>
+            <li>Sort Dragon</li>
+            <li>Vince Draken</li>
+            <li>Dancul1001</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>270 ballots</strong>
+        <ol>
+            
+            <li>Kalbuir Skirate</li>
+            <li>Yukiko Kami</li>
+            <li>Sort Dragon</li>
+            <li>Vince Draken</li>
+            <li>Dancul1001</li>
+            <li>Killah Bee</li>
+            
+        </ol>
+    </div>
+        
+</div>

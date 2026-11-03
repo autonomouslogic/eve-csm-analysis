@@ -933,3 +933,96 @@ for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same 
 ```
 
 [Source data](data/csm19-jaccard.csv)
+
+## Popular Ballots
+
+The most common ballots, with the candidates in rank order (first choice first) and the number of votes using that exact ranking.
+
+<div class="popular-ballots">
+        
+    <div class="popular-ballot">
+        <strong>6,260 ballots</strong>
+        <ol>
+            
+            <li>Kazanir</li>
+            <li>Zintage Enaka</li>
+            <li>Dujek Oneye</li>
+            <li>Luke Anninan</li>
+            <li>Seddow</li>
+            <li>youngpuke2</li>
+            <li>Ariel Rin</li>
+            <li>The Oz</li>
+            <li>Ankh Lai</li>
+            <li>Kshal Aideron</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>3,805 ballots</strong>
+        <ol>
+            
+            <li>Luke Anninan</li>
+            <li>Kenneth Feld</li>
+            <li>Ariel Rin</li>
+            <li>Dujek Oneye</li>
+            <li>Seddow</li>
+            <li>The Oz</li>
+            <li>youngpuke2</li>
+            <li>Kshal Aideron</li>
+            <li>Mick Fightmaster</li>
+            <li>Mike Azariah</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>1,383 ballots</strong>
+        <ol>
+            
+            <li>Ariel Rin</li>
+            <li>The Oz</li>
+            <li>Luke Anninan</li>
+            <li>Kshal Aideron</li>
+            <li>Dujek Oneye</li>
+            <li>Seddow</li>
+            <li>Drake Iddon</li>
+            <li>Komo Sunder</li>
+            <li>Switch 4</li>
+            <li>youngpuke2</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>1,257 ballots</strong>
+        <ol>
+            
+            <li>Itaer</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>925 ballots</strong>
+        <ol>
+            
+            <li>Dalros</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>776 ballots</strong>
+        <ol>
+            
+            <li>Dujek Oneye</li>
+            <li>Zintage Enaka</li>
+            <li>Ariel Rin</li>
+            <li>Luke Anninan</li>
+            <li>The Oz</li>
+            <li>Kshal Aideron</li>
+            <li>Mick Fightmaster</li>
+            <li>youngpuke2</li>
+            <li>Drake Iddon</li>
+            <li>Seddow</li>
+            
+        </ol>
+    </div>
+        
+</div>

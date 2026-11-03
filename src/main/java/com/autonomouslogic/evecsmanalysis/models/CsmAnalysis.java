@@ -51,6 +51,11 @@ public class CsmAnalysis {
 	List<List<Double>> jaccardIndex;
 
 	/**
+	 * Most common ballot compositions, most votes first.
+	 */
+	List<PopularBallot> popularBallots;
+
+	/**
 	 * Ballots per ballot size. Index is the number of ranks a ballot defines.
 	 */
 	List<Integer> ballotSizes;

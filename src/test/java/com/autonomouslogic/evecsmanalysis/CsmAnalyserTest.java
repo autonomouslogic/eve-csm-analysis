@@ -8,6 +8,7 @@ import com.autonomouslogic.evecsmanalysis.models.CandidateStatistics;
 import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.autonomouslogic.evecsmanalysis.models.Elimination;
+import com.autonomouslogic.evecsmanalysis.models.PopularBallot;
 import com.autonomouslogic.evecsmanalysis.models.Round;
 import com.autonomouslogic.evecsmanalysis.parser.AuditLogParser;
 import com.autonomouslogic.evecsmanalysis.parser.BallotParser;
@@ -286,6 +287,32 @@ public class CsmAnalyserTest {
 		assertEquals(2.0, CsmAnalyser.median(List.of(1, 1, 1), 3));
 		assertEquals(2.5, CsmAnalyser.median(List.of(1, 1, 1, 1), 4));
 		assertEquals(3.0, CsmAnalyser.median(List.of(0, 0, 5), 5));
+	}
+
+	@Test
+	public void shouldFindMostPopularBallotCompositions() {
+		var ballotFile = new BallotParser("3 1\n"
+						+ "3 1 2\n"
+						+ "2 2 1\n"
+						+ "3 1 2\n"
+						+ "1 3\n"
+						+ "0\n"
+						+ "\"Alice\"\n"
+						+ "\"Bob\"\n"
+						+ "\"Carol\"\n"
+						+ "CSM test\n")
+				.parse();
+		assertEquals(
+				List.of(
+						PopularBallot.builder()
+								.candidates(List.of("Alice", "Bob"))
+								.ballots(6)
+								.build(),
+						PopularBallot.builder()
+								.candidates(List.of("Bob", "Alice"))
+								.ballots(2)
+								.build()),
+				CsmAnalyser.popularBallots(ballotFile, 2));
 	}
 
 	@Test

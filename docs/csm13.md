@@ -930,3 +930,82 @@ for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same 
 ```
 
 [Source data](data/csm13-jaccard.csv)
+
+## Popular Ballots
+
+The most common ballots, with the candidates in rank order (first choice first) and the number of votes using that exact ranking.
+
+<div class="popular-ballots">
+        
+    <div class="popular-ballot">
+        <strong>4,518 ballots</strong>
+        <ol>
+            
+            <li>Aryth</li>
+            <li>Merkelchen</li>
+            <li>Innominate</li>
+            <li>The Judge</li>
+            <li>Brisc Rubal</li>
+            <li>Mawderator</li>
+            <li>Sullen Decimus</li>
+            <li>commander aze</li>
+            <li>Jin'taan</li>
+            <li>Steve Ronuken</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>985 ballots</strong>
+        <ol>
+            
+            <li>Sort Dragon</li>
+            <li>Killah Bee</li>
+            <li>Tikktokk Tokkzikk</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>701 ballots</strong>
+        <ol>
+            
+            <li>Sort Dragon</li>
+            <li>Damian Blackie</li>
+            <li>Killah Bee</li>
+            <li>Suitonia</li>
+            <li>Malakai Asamov</li>
+            <li>Tikktokk Tokkzikk</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>542 ballots</strong>
+        <ol>
+            
+            <li>Brisc Rubal</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>353 ballots</strong>
+        <ol>
+            
+            <li>The Judge</li>
+            <li>Innominate</li>
+            <li>Vincent Eneticum</li>
+            <li>Cacique Yuhasz</li>
+            <li>Raphendyr Nardieu</li>
+            <li>Solar Taranogas</li>
+            <li>Syncopee Farnsworth</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>305 ballots</strong>
+        <ol>
+            
+            <li>Tifida</li>
+            
+        </ol>
+    </div>
+        
+</div>

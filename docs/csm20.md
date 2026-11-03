@@ -1053,3 +1053,101 @@ for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same 
 ```
 
 [Source data](data/csm20-jaccard.csv)
+
+## Popular Ballots
+
+The most common ballots, with the candidates in rank order (first choice first) and the number of votes using that exact ranking.
+
+<div class="popular-ballots">
+        
+    <div class="popular-ballot">
+        <strong>7,794 ballots</strong>
+        <ol>
+            
+            <li>Zintage Enaka</li>
+            <li>hyprviper1</li>
+            <li>Angry Mustache</li>
+            <li>youngpuke2</li>
+            <li>Rots Mijnwerker</li>
+            <li>Dujek Oneye</li>
+            <li>yilifaerr</li>
+            <li>The Oz</li>
+            <li>Ariel Rin</li>
+            <li>Drake Iddon</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>2,534 ballots</strong>
+        <ol>
+            
+            <li>Machiavelian</li>
+            <li>en guarde</li>
+            <li>Kshal Aideron</li>
+            <li>Sven Bauer</li>
+            <li>Itaer</li>
+            <li>Ankh Lai</li>
+            <li>Mick Fightmaster</li>
+            <li>The Oz</li>
+            <li>Gideon Zendikar</li>
+            <li>Mike Azariah</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>2,161 ballots</strong>
+        <ol>
+            
+            <li>Arrowspeeed Bounty</li>
+            <li>Kenneth Feld</li>
+            <li>Jolange Jogua</li>
+            <li>Dujek Oneye</li>
+            <li>The Oz</li>
+            <li>youngpuke2</li>
+            <li>Drake Iddon</li>
+            <li>Mick Fightmaster</li>
+            <li>Kshal Aideron</li>
+            <li>Ariel Rin</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>1,030 ballots</strong>
+        <ol>
+            
+            <li>Ariel Rin</li>
+            <li>The Oz</li>
+            <li>Val Auroris</li>
+            <li>youngpuke2</li>
+            <li>Drake Iddon</li>
+            <li>Mick Fightmaster</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>957 ballots</strong>
+        <ol>
+            
+            <li>Dujek Oneye</li>
+            <li>Rots Mijnwerker</li>
+            <li>Angry Mustache</li>
+            <li>Arrowspeeed Bounty</li>
+            <li>The Oz</li>
+            <li>Kshal Aideron</li>
+            <li>youngpuke2</li>
+            <li>Mick Fightmaster</li>
+            <li>Drake Iddon</li>
+            <li>Val Auroris</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>458 ballots</strong>
+        <ol>
+            
+            <li>The Oz</li>
+            
+        </ol>
+    </div>
+        
+</div>

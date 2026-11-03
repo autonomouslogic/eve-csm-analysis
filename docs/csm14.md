@@ -874,3 +874,107 @@ for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same 
 ```
 
 [Source data](data/csm14-jaccard.csv)
+
+## Popular Ballots
+
+The most common ballots, with the candidates in rank order (first choice first) and the number of votes using that exact ranking.
+
+<div class="popular-ballots">
+        
+    <div class="popular-ballot">
+        <strong>5,518 ballots</strong>
+        <ol>
+            
+            <li>Aryth</li>
+            <li>Merkelchen</li>
+            <li>Innominate</li>
+            <li>The Judge</li>
+            <li>Vily</li>
+            <li>Dunk Dinkle</li>
+            <li>Sort Dragon</li>
+            <li>Killah Bee</li>
+            <li>Steve Ronuken</li>
+            <li>Xenuria</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>1,582 ballots</strong>
+        <ol>
+            
+            <li>Gobbins</li>
+            <li>Killah Bee</li>
+            <li>Arrowspeeed Bounty</li>
+            <li>Dunk Dinkle</li>
+            <li>Olmeca Gold</li>
+            <li>Matterall</li>
+            <li>Vily</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>824 ballots</strong>
+        <ol>
+            
+            <li>Gobbins</li>
+            <li>Sort Dragon</li>
+            <li>Killah Bee</li>
+            <li>Arrowspeeed Bounty</li>
+            <li>Merkelchen</li>
+            <li>Innominate</li>
+            <li>Aryth</li>
+            <li>Olmeca Gold</li>
+            <li>Matterall</li>
+            <li>Vily</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>730 ballots</strong>
+        <ol>
+            
+            <li>Killah Bee</li>
+            <li>Gobbins</li>
+            <li>Cornak Firefist</li>
+            <li>BlazingBunny</li>
+            <li>Vily</li>
+            <li>Matterall</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>523 ballots</strong>
+        <ol>
+            
+            <li>Sort Dragon</li>
+            <li>Innominate</li>
+            <li>The Judge</li>
+            <li>Arrowspeeed Bounty</li>
+            <li>Dunk Dinkle</li>
+            <li>ExookiZ</li>
+            <li>Vily</li>
+            <li>Merkelchen</li>
+            <li>Killah Bee</li>
+            <li>Manic Velocity</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>479 ballots</strong>
+        <ol>
+            
+            <li>Dunk Dinkle</li>
+            <li>Vily</li>
+            <li>Gobbins</li>
+            <li>Innominate</li>
+            <li>Arrowspeeed Bounty</li>
+            <li>Manic Velocity</li>
+            <li>ExookiZ</li>
+            <li>Mike Azariah</li>
+            <li>Matthew Dust</li>
+            <li>Liz Lizardbreath</li>
+            
+        </ol>
+    </div>
+        
+</div>

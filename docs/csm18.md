@@ -962,3 +962,105 @@ for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same 
 ```
 
 [Source data](data/csm18-jaccard.csv)
+
+## Popular Ballots
+
+The most common ballots, with the candidates in rank order (first choice first) and the number of votes using that exact ranking.
+
+<div class="popular-ballots">
+        
+    <div class="popular-ballot">
+        <strong>5,666 ballots</strong>
+        <ol>
+            
+            <li>Kazanir</li>
+            <li>Angry Mustache</li>
+            <li>Kontan Rekor</li>
+            <li>Mark Resurrectus</li>
+            <li>Pandoralica </li>
+            <li>Dujek Oneye</li>
+            <li>Drake Iddon</li>
+            <li>Luke Anninan</li>
+            <li>The Oz </li>
+            <li>Mike Azariah</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>4,217 ballots</strong>
+        <ol>
+            
+            <li>Alcoholic Satan</li>
+            <li>Storm Delay</li>
+            <li>Velonad Tyldamere</li>
+            <li>Luke Anninan</li>
+            <li>Kelmac</li>
+            <li>Lee Adoulin</li>
+            <li>Mike Azariah</li>
+            <li>DutchGunner</li>
+            <li>Kshal Aideron</li>
+            <li>Larkness</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>1,971 ballots</strong>
+        <ol>
+            
+            <li>Luke Anninan</li>
+            <li>Velonad Tyldamere</li>
+            <li>Pandoralica </li>
+            <li>Storm Delay</li>
+            <li>White 0rchid</li>
+            <li>Nuke Michael</li>
+            <li>Dujek Oneye</li>
+            <li>Kelmac</li>
+            <li>Mark Resurrectus</li>
+            <li>Angry Mustache</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>1,548 ballots</strong>
+        <ol>
+            
+            <li>Dark Shines</li>
+            <li>Pandoralica </li>
+            <li>Luke Anninan</li>
+            <li>Dujek Oneye</li>
+            <li>Kontan Rekor</li>
+            <li>Amelia Duskspace</li>
+            <li>The Oz </li>
+            <li>Mark Resurrectus</li>
+            <li>White 0rchid</li>
+            <li>Angry Mustache</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>820 ballots</strong>
+        <ol>
+            
+            <li>Dujek Oneye</li>
+            <li>Yondu Quill</li>
+            <li>White 0rchid</li>
+            <li>Pandoralica </li>
+            <li>Kontan Rekor</li>
+            <li>Kshal Aideron</li>
+            <li>Luke Anninan</li>
+            <li>DutchGunner</li>
+            <li>The Oz </li>
+            <li>Mark Resurrectus</li>
+            
+        </ol>
+    </div>
+    <div class="popular-ballot">
+        <strong>452 ballots</strong>
+        <ol>
+            
+            <li>Arhont Sibirskii</li>
+            
+        </ol>
+    </div>
+        
+</div>
