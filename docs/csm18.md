@@ -363,7 +363,7 @@ See [candidate statistics](/candidate-statistics) for how each column is calcula
     </thead>
     <tbody>
         
-        <tr>
+        <tr class="elected">
             <td>Kazanir</td>
             <td style="text-align: right">9,137</td>
             <td style="text-align: right">19.4%</td>
@@ -372,7 +372,7 @@ See [candidate statistics](/candidate-statistics) for how each column is calcula
             <td style="text-align: right">1.96</td>
             <td style="text-align: right">1.0</td>
         </tr>
-        <tr>
+        <tr class="elected">
             <td>Alcoholic Satan</td>
             <td style="text-align: right">9,902</td>
             <td style="text-align: right">21.0%</td>
@@ -381,7 +381,7 @@ See [candidate statistics](/candidate-statistics) for how each column is calcula
             <td style="text-align: right">2.14</td>
             <td style="text-align: right">1.0</td>
         </tr>
-        <tr>
+        <tr class="elected">
             <td>Luke Anninan</td>
             <td style="text-align: right">22,352</td>
             <td style="text-align: right">47.4%</td>
@@ -390,7 +390,7 @@ See [candidate statistics](/candidate-statistics) for how each column is calcula
             <td style="text-align: right">4.97</td>
             <td style="text-align: right">4.0</td>
         </tr>
-        <tr>
+        <tr class="elected">
             <td>Angry Mustache</td>
             <td style="text-align: right">16,850</td>
             <td style="text-align: right">35.7%</td>
@@ -399,7 +399,7 @@ See [candidate statistics](/candidate-statistics) for how each column is calcula
             <td style="text-align: right">4.95</td>
             <td style="text-align: right">3.0</td>
         </tr>
-        <tr>
+        <tr class="elected">
             <td>Storm Delay</td>
             <td style="text-align: right">12,420</td>
             <td style="text-align: right">26.3%</td>
@@ -408,7 +408,7 @@ See [candidate statistics](/candidate-statistics) for how each column is calcula
             <td style="text-align: right">3.06</td>
             <td style="text-align: right">2.0</td>
         </tr>
-        <tr>
+        <tr class="elected">
             <td>Dark Shines</td>
             <td style="text-align: right">6,811</td>
             <td style="text-align: right">14.4%</td>
@@ -417,7 +417,7 @@ See [candidate statistics](/candidate-statistics) for how each column is calcula
             <td style="text-align: right">3.21</td>
             <td style="text-align: right">2.0</td>
         </tr>
-        <tr>
+        <tr class="elected">
             <td>Mike Azariah</td>
             <td style="text-align: right">20,641</td>
             <td style="text-align: right">43.8%</td>
@@ -426,7 +426,7 @@ See [candidate statistics](/candidate-statistics) for how each column is calcula
             <td style="text-align: right">6.54</td>
             <td style="text-align: right">7.0</td>
         </tr>
-        <tr>
+        <tr class="elected">
             <td>The Oz </td>
             <td style="text-align: right">19,638</td>
             <td style="text-align: right">41.6%</td>
@@ -435,7 +435,7 @@ See [candidate statistics](/candidate-statistics) for how each column is calcula
             <td style="text-align: right">6.20</td>
             <td style="text-align: right">7.0</td>
         </tr>
-        <tr>
+        <tr class="elected">
             <td>Mark Resurrectus</td>
             <td style="text-align: right">19,043</td>
             <td style="text-align: right">40.4%</td>
@@ -444,7 +444,7 @@ See [candidate statistics](/candidate-statistics) for how each column is calcula
             <td style="text-align: right">5.48</td>
             <td style="text-align: right">4.0</td>
         </tr>
-        <tr>
+        <tr class="elected">
             <td>Amelia Duskspace</td>
             <td style="text-align: right">8,979</td>
             <td style="text-align: right">19.0%</td>
@@ -935,7 +935,7 @@ for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same 
       "field": "Jaccard",
       "type": "quantitative",
       "title": "Jaccard index",
-      "scale": {"domain": [0, 1], "range": ["#ffffff", "#08306b"], "interpolate": "lab"}
+      "scale": {"domain": [0, 1], "type": "sqrt", "range": ["#ffffff", "#08306b"], "interpolate": "lab"}
     },
     "tooltip": [
       {"field": "Candidate", "type": "nominal"},

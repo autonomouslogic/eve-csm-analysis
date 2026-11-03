@@ -15,6 +15,11 @@ public class CandidateStatistics {
 	String candidate;
 
 	/**
+	 * Whether the candidate was elected, including CCP picks that the audit log reports as final results.
+	 */
+	boolean elected;
+
+	/**
 	 * Ballots ranking the candidate at any position.
 	 */
 	int ballots;

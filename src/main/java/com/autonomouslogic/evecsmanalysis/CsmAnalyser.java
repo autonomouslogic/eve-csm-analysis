@@ -53,7 +53,7 @@ public class CsmAnalyser {
 				.leastSignificantRank(findLeastSignificantRank())
 				.withdrawnCandidates(withdrawnCandidates(ballotFile))
 				.rankDistribution(rankDistribution)
-				.candidateStatistics(candidateStatistics(rankDistribution))
+				.candidateStatistics(candidateStatistics(rankDistribution, auditLog.getFinalResults()))
 				.jaccardIndex(jaccardIndex(ballotFile, rankDistribution))
 				.ballotSizes(ballotSizes(ballotFile));
 		winnersAndEliminations(data);
@@ -163,10 +163,14 @@ public class CsmAnalyser {
 
 	/**
 	 * Ballot statistics per candidate, in the same order as the given rank distribution. Ballot counts are weighted by
-	 * {@link Votes#getCount()}, so the rank counts from {@link #rankDistribution} are used directly.
+	 * {@link Votes#getCount()}, so the rank counts from {@link #rankDistribution} are used directly. Candidates in the
+	 * elected list are flagged as elected.
 	 */
-	static List<CandidateStatistics> candidateStatistics(List<CandidateRankDistribution> distribution) {
-		return distribution.stream().map(CsmAnalyser::candidateStatistic).toList();
+	static List<CandidateStatistics> candidateStatistics(
+			List<CandidateRankDistribution> distribution, List<String> elected) {
+		return distribution.stream()
+				.map(d -> candidateStatistic(d, elected.contains(d.getCandidate())))
+				.toList();
 	}
 
 	/**
@@ -212,7 +216,7 @@ public class CsmAnalyser {
 		return index;
 	}
 
-	private static CandidateStatistics candidateStatistic(CandidateRankDistribution distribution) {
+	private static CandidateStatistics candidateStatistic(CandidateRankDistribution distribution, boolean elected) {
 		var rankVotes = distribution.getRankVotes();
 		long ballots = 0;
 		double rankSum = 0;
@@ -222,6 +226,7 @@ public class CsmAnalyser {
 		}
 		var builder = CandidateStatistics.builder()
 				.candidate(distribution.getCandidate())
+				.elected(elected)
 				.ballots((int) ballots)
 				.firstChoiceBallots(rankVotes.isEmpty() ? 0 : rankVotes.getFirst());
 		if (ballots > 0) {

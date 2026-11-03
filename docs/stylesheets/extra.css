@@ -2,3 +2,8 @@
 .md-grid {
 	max-width: 96rem;
 }
+
+/* Thick rule between elected and non-elected rows in the candidate statistics table (csm.md). */
+.md-typeset tr.elected + tr:not(.elected) > td {
+	border-top: 3px solid var(--md-default-fg-color--light);
+}

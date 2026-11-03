@@ -255,11 +255,12 @@ public class CsmAnalyserTest {
 				row("Alice", false, List.of(2, 1, 1)),
 				row("Bob", false, List.of(0, 0, 0)),
 				row("Carol", false, List.of(0, 3, 0)));
-		var stats = CsmAnalyser.candidateStatistics(distribution);
+		var stats = CsmAnalyser.candidateStatistics(distribution, List.of("Alice"));
 		assertEquals(
 				List.of(
 						CandidateStatistics.builder()
 								.candidate("Alice")
+								.elected(true)
 								.ballots(4)
 								.firstChoiceBallots(2)
 								.meanRank(1.75)

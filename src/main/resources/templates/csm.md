@@ -102,7 +102,7 @@ See [candidate statistics](/candidate-statistics) for how each column is calcula
     </thead>
     <tbody>
         [# th:each="stats : ${analysis.candidateStatistics}"]
-        <tr>
+        <tr[(${stats.elected} ? ' class="elected"' : '')]>
             <td>[(${stats.candidate})]</td>
             <td style="text-align: right">[(${#numbers.formatInteger(stats.ballots, 1, 'COMMA')})]</td>
             <td style="text-align: right">[(${#numbers.formatPercent(1.0 * stats.ballots / analysis.totalVotes, 1, 1)})]</td>
@@ -242,7 +242,7 @@ for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same 
       "field": "Jaccard",
       "type": "quantitative",
       "title": "Jaccard index",
-      "scale": {"domain": [0, 1], "range": ["#ffffff", "#08306b"], "interpolate": "lab"}
+      "scale": {"domain": [0, 1], "type": "sqrt", "range": ["#ffffff", "#08306b"], "interpolate": "lab"}
     },
     "tooltip": [
       {"field": "Candidate", "type": "nominal"},
