@@ -4,6 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import com.autonomouslogic.evecsmanalysis.models.AuditLog;
 import com.autonomouslogic.evecsmanalysis.models.CandidateRankDistribution;
+import com.autonomouslogic.evecsmanalysis.models.CandidateStatistics;
 import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.autonomouslogic.evecsmanalysis.models.Elimination;
@@ -214,6 +215,44 @@ public class CsmAnalyserTest {
 						+ "CSM test\n")
 				.parse();
 		assertEquals(14, CsmAnalyser.ballotsWithoutWinner(ballotFile, List.of("Alice")));
+	}
+
+	@Test
+	public void shouldCalculateBallotsFirstChoiceMeanAndMedianRank() {
+		var distribution = List.of(
+				row("Alice", false, List.of(2, 1, 1)),
+				row("Bob", false, List.of(0, 0, 0)),
+				row("Carol", false, List.of(0, 3, 0)));
+		var stats = CsmAnalyser.candidateStatistics(distribution);
+		assertEquals(
+				List.of(
+						CandidateStatistics.builder()
+								.candidate("Alice")
+								.ballots(4)
+								.firstChoiceBallots(2)
+								.meanRank(1.75)
+								.medianRank(1.5)
+								.build(),
+						CandidateStatistics.builder()
+								.candidate("Bob")
+								.ballots(0)
+								.firstChoiceBallots(0)
+								.build(),
+						CandidateStatistics.builder()
+								.candidate("Carol")
+								.ballots(3)
+								.firstChoiceBallots(0)
+								.meanRank(2.0)
+								.medianRank(2.0)
+								.build()),
+				stats);
+	}
+
+	@Test
+	public void shouldUseOddCountMiddleValueForMedian() {
+		assertEquals(2.0, CsmAnalyser.median(List.of(1, 1, 1), 3));
+		assertEquals(2.5, CsmAnalyser.median(List.of(1, 1, 1, 1), 4));
+		assertEquals(3.0, CsmAnalyser.median(List.of(0, 0, 5), 5));
 	}
 
 	private static Elimination elimination(String candidate) {

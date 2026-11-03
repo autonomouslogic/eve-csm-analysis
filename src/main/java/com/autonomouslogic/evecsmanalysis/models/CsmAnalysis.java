@@ -32,4 +32,9 @@ public class CsmAnalysis {
 	List<String> withdrawnCandidates;
 
 	List<CandidateRankDistribution> rankDistribution;
+
+	/**
+	 * Same order as {@link #rankDistribution}.
+	 */
+	List<CandidateStatistics> candidateStatistics;
 }

@@ -84,6 +84,38 @@
     </tbody>
 </table>
 
+## Candidate Statistics
+
+Ballots are the ballots ranking each candidate at any position. First choice is the number of ballots ranking them first.
+Mean and median rank are across the ballots they appear on.
+
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+            <th>Ballots</th>
+            <th>Ballots %</th>
+            <th>First choice</th>
+            <th>First choice %</th>
+            <th>Mean rank</th>
+            <th>Median rank</th>
+        </tr>
+    </thead>
+    <tbody>
+        [# th:each="stats : ${analysis.candidateStatistics}"]
+        <tr>
+            <td>[(${stats.candidate})]</td>
+            <td style="text-align: right">[(${#numbers.formatInteger(stats.ballots, 1, 'COMMA')})]</td>
+            <td style="text-align: right">[(${#numbers.formatPercent(1.0 * stats.ballots / analysis.totalVotes, 1, 1)})]</td>
+            <td style="text-align: right">[(${#numbers.formatInteger(stats.firstChoiceBallots, 1, 'COMMA')})]</td>
+            <td style="text-align: right">[(${#numbers.formatPercent(1.0 * stats.firstChoiceBallots / analysis.totalVotes, 1, 1)})]</td>
+            <td style="text-align: right">[(${stats.meanRank != null} ? ${#numbers.formatDecimal(stats.meanRank, 1, 'COMMA', 2, 'POINT')} : '')]</td>
+            <td style="text-align: right">[(${stats.medianRank != null} ? ${#numbers.formatDecimal(stats.medianRank, 1, 'COMMA', 1, 'POINT')} : '')]</td>
+        </tr>
+        [/]
+    </tbody>
+</table>
+
 ## Vote Distribution
 
 Number of ballots placing each candidate at each rank.

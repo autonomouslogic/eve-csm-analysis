@@ -4,6 +4,7 @@ import com.autonomouslogic.evecsmanalysis.models.AuditLog;
 import com.autonomouslogic.evecsmanalysis.models.BallotFile;
 import com.autonomouslogic.evecsmanalysis.models.CandidateRankDistribution;
 import com.autonomouslogic.evecsmanalysis.models.CandidateRound;
+import com.autonomouslogic.evecsmanalysis.models.CandidateStatistics;
 import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.autonomouslogic.evecsmanalysis.models.Round;
@@ -34,15 +35,18 @@ public class CsmAnalyser {
 
 	public CsmAnalysis run() {
 		log.info("Running analysis for CSM: {}", csmConfig.getCsmNumber());
+		var totalVotes = totalVotes();
+		var rankDistribution = rankDistribution(ballotFile, electionOrder(auditLog));
 		var data = CsmAnalysis.builder()
 				.csmNumber(csmConfig.getCsmNumber())
 				.candidateCount(ballotFile.getCandidateCount())
-				.totalVotes(totalVotes())
+				.totalVotes(totalVotes)
 				.ballotsWithoutWinner(ballotsWithoutWinner(ballotFile, auditLog.getFinalResults()))
 				//				.leastSignificantRank(1)
 				.leastSignificantRank(findLeastSignificantRank())
 				.withdrawnCandidates(withdrawnCandidates(ballotFile))
-				.rankDistribution(rankDistribution(ballotFile, electionOrder(auditLog)));
+				.rankDistribution(rankDistribution)
+				.candidateStatistics(candidateStatistics(rankDistribution));
 		winnersAndEliminations(data);
 		return data.build();
 	}
@@ -133,6 +137,54 @@ public class CsmAnalyser {
 						.build())
 				.sorted(rankDistributionOrdering(order))
 				.toList();
+	}
+
+	/**
+	 * Ballot statistics per candidate, in the same order as the given rank distribution. Ballot counts are weighted by
+	 * {@link Votes#getCount()}, so the rank counts from {@link #rankDistribution} are used directly.
+	 */
+	static List<CandidateStatistics> candidateStatistics(List<CandidateRankDistribution> distribution) {
+		return distribution.stream().map(CsmAnalyser::candidateStatistic).toList();
+	}
+
+	private static CandidateStatistics candidateStatistic(CandidateRankDistribution distribution) {
+		var rankVotes = distribution.getRankVotes();
+		long ballots = 0;
+		double rankSum = 0;
+		for (int rank = 0; rank < rankVotes.size(); rank++) {
+			ballots += rankVotes.get(rank);
+			rankSum += (double) (rank + 1) * rankVotes.get(rank);
+		}
+		var builder = CandidateStatistics.builder()
+				.candidate(distribution.getCandidate())
+				.ballots((int) ballots)
+				.firstChoiceBallots(rankVotes.isEmpty() ? 0 : rankVotes.getFirst());
+		if (ballots > 0) {
+			builder.meanRank(rankSum / ballots).medianRank(median(rankVotes, ballots));
+		}
+		return builder.build();
+	}
+
+	/**
+	 * Median of the rank values, where each rank {@code r} occurs {@code rankVotes[r - 1]} times. Averages the two middle
+	 * values when the count is even.
+	 */
+	static double median(List<Integer> rankVotes, long count) {
+		return (rankAt(rankVotes, (count + 1) / 2) + rankAt(rankVotes, count / 2 + 1)) / 2.0;
+	}
+
+	/**
+	 * Rank at the given 1-based position when all ballots are sorted by rank.
+	 */
+	private static int rankAt(List<Integer> rankVotes, long position) {
+		long seen = 0;
+		for (int rank = 0; rank < rankVotes.size(); rank++) {
+			seen += rankVotes.get(rank);
+			if (seen >= position) {
+				return rank + 1;
+			}
+		}
+		throw new IllegalArgumentException("Position out of range: " + position);
 	}
 
 	private static Comparator<CandidateRankDistribution> rankDistributionOrdering(List<String> order) {
