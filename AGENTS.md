@@ -15,7 +15,7 @@ csmNN/                    One directory per election (csm12 … csm20). Raw inpu
   votes.blt               Ballots in BLT format (see Meek's method PDF, section 3.1)
   auditLog.txt            Official audit log produced by CCP's WrightTalley.py
   WrightTalley.py         CCP's STV tally script (Python 2). Copied verbatim per election.
-  csm.json                Hand-written metadata: CCP picks and news-post URLs
+  csm.json                Hand-written metadata: years served, CCP picks, and news-post URLs
 src/main/java/com/autonomouslogic/evecsmanalysis/
   Main.java               Entry point. Commands: `process`, `thymeleaf`. Discovers csm* dirs.
   Processor.java          `process`: parse inputs, run analysis, write build/csm/*.json
@@ -84,6 +84,7 @@ Run `make format` before committing Java or Gradle changes; CI fails on `spotles
   piecemeal.
 - Thymeleaf templates use TEXT mode with inline syntax (`[(${...})]`, `[# th:each ...]`), not HTML attributes.
 - Name matching between `csm.json` `ccpPicks` and audit-log winners is by exact string (winners are trimmed).
+- `csm.json` `years` is optional free text (e.g. `"2025-2026"`), shown as a `Years:` bullet on `docs/csmNN.md` only when set.
 
 ## Adding a new election
 
@@ -92,6 +93,7 @@ Run `make format` before committing Java or Gradle changes; CI fails on `spotles
 2. Create `csmNN/csm.json`:
    ```json
    {
+     "years": "2025-2026",
      "ccpPicks": ["Name One", "Name Two"],
      "urls": {
        "CSM NN Candidate Announcements": "https://www.eveonline.com/news/view/...",

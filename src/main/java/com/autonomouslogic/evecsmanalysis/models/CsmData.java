@@ -17,6 +17,11 @@ public class CsmData {
 	@JsonIgnore
 	int csmNumber;
 
+	/**
+	 * Years the CSM served, as free text, e.g. {@code 2025-2026}. Optional.
+	 */
+	String years;
+
 	@Builder.Default
 	List<String> ccpPicks = List.of();
 

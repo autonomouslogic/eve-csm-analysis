@@ -1,5 +1,6 @@
 # CSM 12
 
+* Years: 2017-2018
 * Method: [Wright single transferable vote](https://en.wikipedia.org/wiki/Wright_system)
 * Elected: 10
 * Candidates: 64

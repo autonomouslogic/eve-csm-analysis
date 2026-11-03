@@ -1,5 +1,6 @@
 # CSM 19
 
+* Years: 2024-2025
 * Method: [Wright single transferable vote](https://en.wikipedia.org/wiki/Wright_system)
 * Elected: 12
 * Candidates: 47

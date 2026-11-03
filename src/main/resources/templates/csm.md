@@ -1,6 +1,7 @@
 # CSM [(${analysis.csmNumber})]
 
-* Method: [Wright single transferable vote](https://en.wikipedia.org/wiki/Wright_system)
+[# th:if="${data.years != null}"]* Years: [(${data.years})]
+[/]* Method: [Wright single transferable vote](https://en.wikipedia.org/wiki/Wright_system)
 * Elected: [(${analysis.winners.size() + data.ccpPicks.size()})]
 * Candidates: [(${analysis.candidateCount})]
 * Total votes: [(${#numbers.formatInteger(analysis.totalVotes, 1, 'COMMA')})]
