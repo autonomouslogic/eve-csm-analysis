@@ -46,7 +46,8 @@ public class CsmAnalyser {
 				.leastSignificantRank(findLeastSignificantRank())
 				.withdrawnCandidates(withdrawnCandidates(ballotFile))
 				.rankDistribution(rankDistribution)
-				.candidateStatistics(candidateStatistics(rankDistribution));
+				.candidateStatistics(candidateStatistics(rankDistribution))
+				.ballotSizes(ballotSizes(ballotFile));
 		winnersAndEliminations(data);
 		return data.build();
 	}
@@ -83,6 +84,19 @@ public class CsmAnalyser {
 				.mapToInt(votes -> votes.getBallot().getRankings().size())
 				.max()
 				.orElse(0);
+	}
+
+	/**
+	 * Ballots per ballot size, where size is the number of ranks a ballot defines. Index is the size, so index 0 is
+	 * ballots defining no ranks. Weighted by {@link Votes#getCount()}.
+	 */
+	static List<Integer> ballotSizes(BallotFile ballotFile) {
+		log.info("Calculating ballot sizes");
+		var counts = new int[rankCount(ballotFile) + 1];
+		for (var votes : ballotFile.getAllVotes()) {
+			counts[votes.getBallot().getRankings().size()] += votes.getCount();
+		}
+		return Arrays.stream(counts).boxed().toList();
 	}
 
 	static List<String> withdrawnCandidates(BallotFile ballotFile) {

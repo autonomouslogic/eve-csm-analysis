@@ -37,4 +37,9 @@ public class CsmAnalysis {
 	 * Same order as {@link #rankDistribution}.
 	 */
 	List<CandidateStatistics> candidateStatistics;
+
+	/**
+	 * Ballots per ballot size. Index is the number of ranks a ballot defines.
+	 */
+	List<Integer> ballotSizes;
 }

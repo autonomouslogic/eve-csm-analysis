@@ -255,6 +255,21 @@ public class CsmAnalyserTest {
 		assertEquals(3.0, CsmAnalyser.median(List.of(0, 0, 5), 5));
 	}
 
+	@Test
+	public void shouldCountBallotsPerNumberOfRanks() {
+		var ballotFile = new BallotParser("3 1\n"
+						+ "1 1 2\n"
+						+ "2 2 1 3\n"
+						+ "1 3\n"
+						+ "0\n"
+						+ "\"Alice\"\n"
+						+ "\"Bob\"\n"
+						+ "\"Carol\"\n"
+						+ "CSM test\n")
+				.parse();
+		assertEquals(List.of(0, 1, 1, 2), CsmAnalyser.ballotSizes(ballotFile));
+	}
+
 	private static Elimination elimination(String candidate) {
 		return Elimination.builder().candidate(candidate).votes(0).build();
 	}

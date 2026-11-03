@@ -116,6 +116,36 @@ Mean and median rank are across the ballots they appear on.
     </tbody>
 </table>
 
+## Ballot Sizes
+
+Number of ballots defining each number of ranks.
+
+```vegalite
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "data/csm[(${analysis.csmNumber})]-ballot-sizes.csv",
+    "format": {"type": "csv", "parse": {"Ranks": "number", "Ballots": "number"}}
+  },
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {
+      "field": "Ranks",
+      "type": "ordinal",
+      "title": "Ranks defined",
+      "sort": {"op": "min", "field": "Ranks", "order": "ascending"}
+    },
+    "y": {"field": "Ballots", "type": "quantitative", "title": "Ballots"},
+    "tooltip": [
+      {"field": "Ranks", "type": "ordinal"},
+      {"field": "Ballots", "type": "quantitative"}
+    ]
+  }
+}
+```
+
+[Source data](data/csm[(${analysis.csmNumber})]-ballot-sizes.csv)
+
 ## Vote Distribution
 
 Number of ballots placing each candidate at each rank.
