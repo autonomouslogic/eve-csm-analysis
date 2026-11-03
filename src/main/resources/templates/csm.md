@@ -3,6 +3,7 @@
 * Elected: [(${analysis.winners.size() + data.ccpPicks.size()})]
 * Candidates: [(${analysis.candidateCount})]
 * Total votes: [(${analysis.totalVotes})]
+* [Ballots without a winner](/ballots-without-a-winner): [(${analysis.ballotsWithoutWinner})] ([(${#numbers.formatPercent(1.0 * analysis.ballotsWithoutWinner / analysis.totalVotes, 1, 1)})])
 * [Least significant rank](/least-significant-rank): [(${analysis.leastSignificantRank})]
 
 [# th:if="${data.urls.size()} > 0"]
@@ -19,7 +20,7 @@
         <tr>
             <th>Candidate</th>
             <th>Election round</th>
-            <th>Votes at election</th>
+            <th><a href="/votes-at-election">Votes at election</a></th>
         </tr>
     </thead>
     <tbody>

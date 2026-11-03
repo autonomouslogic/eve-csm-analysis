@@ -44,7 +44,8 @@ build/csm/                Intermediate JSON (gitignored)
 3. `make mkdocs-serve` / `make mkdocs-build` — needs `make init` first (creates `.venv`).
 
 Generated files under `docs/` are committed. Never hand-edit them; change the template or Java code and re-run
-`make thymeleaf`. The only hand-written page is `docs/least-significant-rank.md`.
+`make thymeleaf`. The hand-written pages are the metric explanations linked from `docs/csmNN.md`:
+`docs/least-significant-rank.md`, `docs/votes-at-election.md` and `docs/ballots-without-a-winner.md`.
 
 ## Commands
 

@@ -3,7 +3,8 @@
 * Elected: 10
 * Candidates: 64
 * Total votes: 31274
-* [Least significant rank](/least-significant-rank): 1
+* [Ballots without a winner](/ballots-without-a-winner): 3545 (11.3%)
+* [Least significant rank](/least-significant-rank): 9
 
 
 ## Posts
@@ -19,7 +20,7 @@
         <tr>
             <th>Candidate</th>
             <th>Election round</th>
-            <th>Votes at election</th>
+            <th><a href="/votes-at-election">Votes at election</a></th>
         </tr>
     </thead>
     <tbody>

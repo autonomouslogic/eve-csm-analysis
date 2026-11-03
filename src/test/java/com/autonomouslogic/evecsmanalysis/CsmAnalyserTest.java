@@ -165,6 +165,25 @@ public class CsmAnalyserTest {
 		assertEquals(40.0, data.build().getEliminations().get(0).getVotes());
 	}
 
+	@Test
+	public void shouldCountBallotsRankingNoWinner() {
+		var ballotFile = new BallotParser("4 1\n"
+						+ "-4\n"
+						+ "3 1\n"
+						+ "1 2 1\n"
+						+ "2 2 3\n"
+						+ "5 3\n"
+						+ "7 4\n"
+						+ "0\n"
+						+ "\"Alice\"\n"
+						+ "\"Bob\"\n"
+						+ "\"Carol\"\n"
+						+ "\"Dave\"\n"
+						+ "CSM test\n")
+				.parse();
+		assertEquals(14, CsmAnalyser.ballotsWithoutWinner(ballotFile, List.of("Alice")));
+	}
+
 	private static Elimination elimination(String candidate) {
 		return Elimination.builder().candidate(candidate).votes(0).build();
 	}

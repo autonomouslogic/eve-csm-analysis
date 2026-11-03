@@ -38,9 +38,10 @@ public class CsmAnalyser {
 				.csmNumber(csmConfig.getCsmNumber())
 				.candidateCount(ballotFile.getCandidateCount())
 				.totalVotes(totalVotes())
-				.leastSignificantRank(1)
+				.ballotsWithoutWinner(ballotsWithoutWinner(ballotFile, auditLog.getFinalResults()))
+				//				.leastSignificantRank(1)
 				.leastSignificantRank(findLeastSignificantRank())
-				//				.withdrawnCandidates(withdrawnCandidates(ballotFile))
+				.withdrawnCandidates(withdrawnCandidates(ballotFile))
 				.rankDistribution(rankDistribution(ballotFile, electionOrder(auditLog)));
 		winnersAndEliminations(data);
 		return data.build();
@@ -49,6 +50,28 @@ public class CsmAnalyser {
 	private int totalVotes() {
 		log.info("Calculating total votes");
 		return ballotFile.getAllVotes().stream().mapToInt(Votes::getCount).sum();
+	}
+
+	/**
+	 * Counts ballots that rank none of the given winners, i.e. only eliminated or withdrawn candidates. This is not
+	 * the STV notion of an exhausted ballot, and it does not include ballots that rank a winner but never counted
+	 * towards one.
+	 */
+	static int ballotsWithoutWinner(BallotFile ballotFile, List<String> winners) {
+		log.info("Calculating ballots without a winner");
+		var winnerIds = new HashSet<Integer>();
+		for (var entry : ballotFile.getCandidateNames().entrySet()) {
+			if (winners.contains(entry.getValue())) {
+				winnerIds.add(entry.getKey());
+			}
+		}
+		if (winnerIds.size() != winners.size()) {
+			throw new IllegalArgumentException("Winners not found in ballot file: " + winners);
+		}
+		return ballotFile.getAllVotes().stream()
+				.filter(votes -> votes.getBallot().getRankings().stream().noneMatch(winnerIds::contains))
+				.mapToInt(Votes::getCount)
+				.sum();
 	}
 
 	static int rankCount(BallotFile ballotFile) {
