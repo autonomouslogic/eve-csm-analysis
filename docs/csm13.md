@@ -331,6 +331,482 @@
     </tbody>
 </table>
 
+## Candidate Statistics
+
+Ballots are the ballots ranking each candidate at any position. First choice is the number of ballots ranking them first.
+Mean and median rank are across the ballots they appear on.
+
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+            <th>Ballots</th>
+            <th>Ballots %</th>
+            <th>First choice</th>
+            <th>First choice %</th>
+            <th>Mean rank</th>
+            <th>Median rank</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr>
+            <td>Aryth</td>
+            <td style="text-align: right">9,254</td>
+            <td style="text-align: right">31.5%</td>
+            <td style="text-align: right">6,642</td>
+            <td style="text-align: right">22.6%</td>
+            <td style="text-align: right">1.90</td>
+            <td style="text-align: right">1.0</td>
+        </tr>
+        <tr>
+            <td>Sort Dragon</td>
+            <td style="text-align: right">6,548</td>
+            <td style="text-align: right">22.3%</td>
+            <td style="text-align: right">3,751</td>
+            <td style="text-align: right">12.8%</td>
+            <td style="text-align: right">2.39</td>
+            <td style="text-align: right">1.0</td>
+        </tr>
+        <tr>
+            <td>Merkelchen</td>
+            <td style="text-align: right">8,764</td>
+            <td style="text-align: right">29.8%</td>
+            <td style="text-align: right">605</td>
+            <td style="text-align: right">2.1%</td>
+            <td style="text-align: right">2.62</td>
+            <td style="text-align: right">2.0</td>
+        </tr>
+        <tr>
+            <td>Jin'taan</td>
+            <td style="text-align: right">15,476</td>
+            <td style="text-align: right">52.6%</td>
+            <td style="text-align: right">1,110</td>
+            <td style="text-align: right">3.8%</td>
+            <td style="text-align: right">5.83</td>
+            <td style="text-align: right">6.0</td>
+        </tr>
+        <tr>
+            <td>Innominate</td>
+            <td style="text-align: right">10,347</td>
+            <td style="text-align: right">35.2%</td>
+            <td style="text-align: right">517</td>
+            <td style="text-align: right">1.8%</td>
+            <td style="text-align: right">3.28</td>
+            <td style="text-align: right">3.0</td>
+        </tr>
+        <tr>
+            <td>Killah Bee</td>
+            <td style="text-align: right">7,586</td>
+            <td style="text-align: right">25.8%</td>
+            <td style="text-align: right">1,186</td>
+            <td style="text-align: right">4.0%</td>
+            <td style="text-align: right">3.23</td>
+            <td style="text-align: right">3.0</td>
+        </tr>
+        <tr>
+            <td>Steve Ronuken</td>
+            <td style="text-align: right">14,215</td>
+            <td style="text-align: right">48.3%</td>
+            <td style="text-align: right">1,449</td>
+            <td style="text-align: right">4.9%</td>
+            <td style="text-align: right">6.67</td>
+            <td style="text-align: right">8.0</td>
+        </tr>
+        <tr>
+            <td>Brisc Rubal</td>
+            <td style="text-align: right">12,330</td>
+            <td style="text-align: right">41.9%</td>
+            <td style="text-align: right">1,954</td>
+            <td style="text-align: right">6.6%</td>
+            <td style="text-align: right">4.65</td>
+            <td style="text-align: right">5.0</td>
+        </tr>
+        <tr>
+            <td>Suitonia</td>
+            <td style="text-align: right">8,070</td>
+            <td style="text-align: right">27.4%</td>
+            <td style="text-align: right">1,239</td>
+            <td style="text-align: right">4.2%</td>
+            <td style="text-align: right">3.83</td>
+            <td style="text-align: right">4.0</td>
+        </tr>
+        <tr>
+            <td>The Judge</td>
+            <td style="text-align: right">10,587</td>
+            <td style="text-align: right">36.0%</td>
+            <td style="text-align: right">1,058</td>
+            <td style="text-align: right">3.6%</td>
+            <td style="text-align: right">4.04</td>
+            <td style="text-align: right">4.0</td>
+        </tr>
+        <tr>
+            <td>Tikktokk Tokkzikk</td>
+            <td style="text-align: right">6,278</td>
+            <td style="text-align: right">21.3%</td>
+            <td style="text-align: right">906</td>
+            <td style="text-align: right">3.1%</td>
+            <td style="text-align: right">3.84</td>
+            <td style="text-align: right">3.0</td>
+        </tr>
+        <tr>
+            <td>ExookiZ</td>
+            <td style="text-align: right">3,759</td>
+            <td style="text-align: right">12.8%</td>
+            <td style="text-align: right">1,087</td>
+            <td style="text-align: right">3.7%</td>
+            <td style="text-align: right">4.20</td>
+            <td style="text-align: right">4.0</td>
+        </tr>
+        <tr>
+            <td>Tifida</td>
+            <td style="text-align: right">1,460</td>
+            <td style="text-align: right">5.0%</td>
+            <td style="text-align: right">525</td>
+            <td style="text-align: right">1.8%</td>
+            <td style="text-align: right">3.73</td>
+            <td style="text-align: right">3.0</td>
+        </tr>
+        <tr>
+            <td>Lorelei Ierendi</td>
+            <td style="text-align: right">1,942</td>
+            <td style="text-align: right">6.6%</td>
+            <td style="text-align: right">387</td>
+            <td style="text-align: right">1.3%</td>
+            <td style="text-align: right">4.06</td>
+            <td style="text-align: right">3.0</td>
+        </tr>
+        <tr>
+            <td>Silver Suspiria</td>
+            <td style="text-align: right">1,465</td>
+            <td style="text-align: right">5.0%</td>
+            <td style="text-align: right">448</td>
+            <td style="text-align: right">1.5%</td>
+            <td style="text-align: right">4.12</td>
+            <td style="text-align: right">3.0</td>
+        </tr>
+        <tr>
+            <td>bastet 666</td>
+            <td style="text-align: right">1,386</td>
+            <td style="text-align: right">4.7%</td>
+            <td style="text-align: right">510</td>
+            <td style="text-align: right">1.7%</td>
+            <td style="text-align: right">3.43</td>
+            <td style="text-align: right">2.0</td>
+        </tr>
+        <tr>
+            <td>Otto Bismarck</td>
+            <td style="text-align: right">2,448</td>
+            <td style="text-align: right">8.3%</td>
+            <td style="text-align: right">385</td>
+            <td style="text-align: right">1.3%</td>
+            <td style="text-align: right">4.57</td>
+            <td style="text-align: right">4.0</td>
+        </tr>
+        <tr>
+            <td>Mawderator</td>
+            <td style="text-align: right">11,870</td>
+            <td style="text-align: right">40.4%</td>
+            <td style="text-align: right">394</td>
+            <td style="text-align: right">1.3%</td>
+            <td style="text-align: right">5.57</td>
+            <td style="text-align: right">6.0</td>
+        </tr>
+        <tr>
+            <td>Sullen Decimus</td>
+            <td style="text-align: right">8,915</td>
+            <td style="text-align: right">30.3%</td>
+            <td style="text-align: right">366</td>
+            <td style="text-align: right">1.2%</td>
+            <td style="text-align: right">6.48</td>
+            <td style="text-align: right">7.0</td>
+        </tr>
+        <tr>
+            <td>Afropty</td>
+            <td style="text-align: right">1,786</td>
+            <td style="text-align: right">6.1%</td>
+            <td style="text-align: right">126</td>
+            <td style="text-align: right">0.4%</td>
+            <td style="text-align: right">3.58</td>
+            <td style="text-align: right">2.0</td>
+        </tr>
+        <tr>
+            <td>Arielle en Distel</td>
+            <td style="text-align: right">1,466</td>
+            <td style="text-align: right">5.0%</td>
+            <td style="text-align: right">180</td>
+            <td style="text-align: right">0.6%</td>
+            <td style="text-align: right">4.44</td>
+            <td style="text-align: right">4.0</td>
+        </tr>
+        <tr>
+            <td>Damian Blackie</td>
+            <td style="text-align: right">1,302</td>
+            <td style="text-align: right">4.4%</td>
+            <td style="text-align: right">66</td>
+            <td style="text-align: right">0.2%</td>
+            <td style="text-align: right">3.48</td>
+            <td style="text-align: right">2.0</td>
+        </tr>
+        <tr>
+            <td>Winter duFallen</td>
+            <td style="text-align: right">1,939</td>
+            <td style="text-align: right">6.6%</td>
+            <td style="text-align: right">203</td>
+            <td style="text-align: right">0.7%</td>
+            <td style="text-align: right">5.11</td>
+            <td style="text-align: right">4.0</td>
+        </tr>
+        <tr>
+            <td>Bei ArtJay</td>
+            <td style="text-align: right">2,108</td>
+            <td style="text-align: right">7.2%</td>
+            <td style="text-align: right">240</td>
+            <td style="text-align: right">0.8%</td>
+            <td style="text-align: right">4.84</td>
+            <td style="text-align: right">5.0</td>
+        </tr>
+        <tr>
+            <td>Jaha Preynar</td>
+            <td style="text-align: right">1,105</td>
+            <td style="text-align: right">3.8%</td>
+            <td style="text-align: right">205</td>
+            <td style="text-align: right">0.7%</td>
+            <td style="text-align: right">4.47</td>
+            <td style="text-align: right">4.0</td>
+        </tr>
+        <tr>
+            <td>Raphendyr Nardieu</td>
+            <td style="text-align: right">1,727</td>
+            <td style="text-align: right">5.9%</td>
+            <td style="text-align: right">213</td>
+            <td style="text-align: right">0.7%</td>
+            <td style="text-align: right">4.59</td>
+            <td style="text-align: right">5.0</td>
+        </tr>
+        <tr>
+            <td>commander aze</td>
+            <td style="text-align: right">8,768</td>
+            <td style="text-align: right">29.8%</td>
+            <td style="text-align: right">173</td>
+            <td style="text-align: right">0.6%</td>
+            <td style="text-align: right">7.29</td>
+            <td style="text-align: right">8.0</td>
+        </tr>
+        <tr>
+            <td>aspecialpinecone</td>
+            <td style="text-align: right">700</td>
+            <td style="text-align: right">2.4%</td>
+            <td style="text-align: right">178</td>
+            <td style="text-align: right">0.6%</td>
+            <td style="text-align: right">4.34</td>
+            <td style="text-align: right">3.0</td>
+        </tr>
+        <tr>
+            <td>Xenuria</td>
+            <td style="text-align: right">2,354</td>
+            <td style="text-align: right">8.0%</td>
+            <td style="text-align: right">148</td>
+            <td style="text-align: right">0.5%</td>
+            <td style="text-align: right">5.22</td>
+            <td style="text-align: right">5.0</td>
+        </tr>
+        <tr>
+            <td>Malakai Asamov</td>
+            <td style="text-align: right">2,975</td>
+            <td style="text-align: right">10.1%</td>
+            <td style="text-align: right">168</td>
+            <td style="text-align: right">0.6%</td>
+            <td style="text-align: right">3.89</td>
+            <td style="text-align: right">4.0</td>
+        </tr>
+        <tr>
+            <td>Carbon Alabel</td>
+            <td style="text-align: right">1,009</td>
+            <td style="text-align: right">3.4%</td>
+            <td style="text-align: right">137</td>
+            <td style="text-align: right">0.5%</td>
+            <td style="text-align: right">4.70</td>
+            <td style="text-align: right">4.0</td>
+        </tr>
+        <tr>
+            <td>Razorblade92</td>
+            <td style="text-align: right">671</td>
+            <td style="text-align: right">2.3%</td>
+            <td style="text-align: right">112</td>
+            <td style="text-align: right">0.4%</td>
+            <td style="text-align: right">4.78</td>
+            <td style="text-align: right">4.0</td>
+        </tr>
+        <tr>
+            <td>Saint Michaels Soul</td>
+            <td style="text-align: right">1,310</td>
+            <td style="text-align: right">4.5%</td>
+            <td style="text-align: right">113</td>
+            <td style="text-align: right">0.4%</td>
+            <td style="text-align: right">5.20</td>
+            <td style="text-align: right">5.0</td>
+        </tr>
+        <tr>
+            <td>Syncopee Farnsworth</td>
+            <td style="text-align: right">1,376</td>
+            <td style="text-align: right">4.7%</td>
+            <td style="text-align: right">98</td>
+            <td style="text-align: right">0.3%</td>
+            <td style="text-align: right">5.47</td>
+            <td style="text-align: right">6.0</td>
+        </tr>
+        <tr>
+            <td>Chainsaw Plankton</td>
+            <td style="text-align: right">1,120</td>
+            <td style="text-align: right">3.8%</td>
+            <td style="text-align: right">82</td>
+            <td style="text-align: right">0.3%</td>
+            <td style="text-align: right">5.31</td>
+            <td style="text-align: right">5.0</td>
+        </tr>
+        <tr>
+            <td>Claevyan</td>
+            <td style="text-align: right">766</td>
+            <td style="text-align: right">2.6%</td>
+            <td style="text-align: right">79</td>
+            <td style="text-align: right">0.3%</td>
+            <td style="text-align: right">5.04</td>
+            <td style="text-align: right">5.0</td>
+        </tr>
+        <tr>
+            <td>Eurzadahn</td>
+            <td style="text-align: right">489</td>
+            <td style="text-align: right">1.7%</td>
+            <td style="text-align: right">83</td>
+            <td style="text-align: right">0.3%</td>
+            <td style="text-align: right">4.86</td>
+            <td style="text-align: right">4.0</td>
+        </tr>
+        <tr>
+            <td>Kali Omega</td>
+            <td style="text-align: right">866</td>
+            <td style="text-align: right">2.9%</td>
+            <td style="text-align: right">68</td>
+            <td style="text-align: right">0.2%</td>
+            <td style="text-align: right">5.21</td>
+            <td style="text-align: right">5.0</td>
+        </tr>
+        <tr>
+            <td>The Ludocrat</td>
+            <td style="text-align: right">347</td>
+            <td style="text-align: right">1.2%</td>
+            <td style="text-align: right">69</td>
+            <td style="text-align: right">0.2%</td>
+            <td style="text-align: right">5.17</td>
+            <td style="text-align: right">5.0</td>
+        </tr>
+        <tr>
+            <td>Vincent Eneticum</td>
+            <td style="text-align: right">1,117</td>
+            <td style="text-align: right">3.8%</td>
+            <td style="text-align: right">62</td>
+            <td style="text-align: right">0.2%</td>
+            <td style="text-align: right">4.60</td>
+            <td style="text-align: right">4.0</td>
+        </tr>
+        <tr>
+            <td>Cacique Yuhasz</td>
+            <td style="text-align: right">1,089</td>
+            <td style="text-align: right">3.7%</td>
+            <td style="text-align: right">37</td>
+            <td style="text-align: right">0.1%</td>
+            <td style="text-align: right">4.78</td>
+            <td style="text-align: right">4.0</td>
+        </tr>
+        <tr>
+            <td>Parobro</td>
+            <td style="text-align: right">543</td>
+            <td style="text-align: right">1.8%</td>
+            <td style="text-align: right">54</td>
+            <td style="text-align: right">0.2%</td>
+            <td style="text-align: right">5.21</td>
+            <td style="text-align: right">5.0</td>
+        </tr>
+        <tr>
+            <td>Solar Taranogas</td>
+            <td style="text-align: right">1,136</td>
+            <td style="text-align: right">3.9%</td>
+            <td style="text-align: right">55</td>
+            <td style="text-align: right">0.2%</td>
+            <td style="text-align: right">5.56</td>
+            <td style="text-align: right">6.0</td>
+        </tr>
+        <tr>
+            <td>Kalen Tsero</td>
+            <td style="text-align: right">722</td>
+            <td style="text-align: right">2.5%</td>
+            <td style="text-align: right">48</td>
+            <td style="text-align: right">0.2%</td>
+            <td style="text-align: right">5.21</td>
+            <td style="text-align: right">5.0</td>
+        </tr>
+        <tr>
+            <td>Cwittofur Cesaille</td>
+            <td style="text-align: right">211</td>
+            <td style="text-align: right">0.7%</td>
+            <td style="text-align: right">29</td>
+            <td style="text-align: right">0.1%</td>
+            <td style="text-align: right">5.31</td>
+            <td style="text-align: right">5.0</td>
+        </tr>
+        <tr>
+            <td>ZepWunderbar</td>
+            <td style="text-align: right">220</td>
+            <td style="text-align: right">0.7%</td>
+            <td style="text-align: right">16</td>
+            <td style="text-align: right">0.1%</td>
+            <td style="text-align: right">6.09</td>
+            <td style="text-align: right">6.0</td>
+        </tr>
+        <tr>
+            <td>Creecher Virpio</td>
+            <td style="text-align: right">2,791</td>
+            <td style="text-align: right">9.5%</td>
+            <td style="text-align: right">1,855</td>
+            <td style="text-align: right">6.3%</td>
+            <td style="text-align: right">1.91</td>
+            <td style="text-align: right">1.0</td>
+        </tr>
+        
+    </tbody>
+</table>
+
+## Ballot Sizes
+
+Number of ballots defining each number of ranks.
+
+```vegalite
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "data/csm13-ballot-sizes.csv",
+    "format": {"type": "csv", "parse": {"Ranks": "number", "Ballots": "number"}}
+  },
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {
+      "field": "Ranks",
+      "type": "ordinal",
+      "title": "Ranks defined",
+      "sort": {"op": "min", "field": "Ranks", "order": "ascending"}
+    },
+    "y": {"field": "Ballots", "type": "quantitative", "title": "Ballots"},
+    "tooltip": [
+      {"field": "Ranks", "type": "ordinal"},
+      {"field": "Ballots", "type": "quantitative"}
+    ]
+  }
+}
+```
+
+[Source data](data/csm13-ballot-sizes.csv)
+
 ## Vote Distribution
 
 Number of ballots placing each candidate at each rank.
