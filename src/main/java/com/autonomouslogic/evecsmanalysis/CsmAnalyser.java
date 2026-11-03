@@ -184,6 +184,8 @@ public class CsmAnalyser {
 						.candidate(eliminated)
 						.round(r)
 						.votes(round.getElimination().getVotes())
+						.votesShortOfQuota(
+								round.getQuota() - round.getElimination().getVotes())
 						.build());
 				seenEliminations.add(eliminated);
 			}

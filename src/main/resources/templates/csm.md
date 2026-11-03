@@ -69,6 +69,7 @@
             <th>Candidate</th>
             <th>Elimination round</th>
             <th>Votes at elimination</th>
+            <th>Votes short of quota</th>
         </tr>
     </thead>
     <tbody>
@@ -77,6 +78,7 @@
             <td>[(${eliminated.candidate})]</td>
             <td style="text-align: right">[(${eliminated.round})]</td>
             <td style="text-align: right">[(${#numbers.formatDecimal(eliminated.votes, 1, 'COMMA', 1, 'POINT')})]</td>
+            <td style="text-align: right">[(${#numbers.formatDecimal(eliminated.votesShortOfQuota, 1, 'COMMA', 1, 'POINT')})]</td>
         </tr>
         [/]
     </tbody>

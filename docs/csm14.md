@@ -89,6 +89,7 @@
             <th>Candidate</th>
             <th>Elimination round</th>
             <th>Votes at elimination</th>
+            <th>Votes short of quota</th>
         </tr>
     </thead>
     <tbody>
@@ -97,171 +98,205 @@
             <td>Sort Dragon</td>
             <td style="text-align: right">34</td>
             <td style="text-align: right">2,321.7</td>
+            <td style="text-align: right">586.3</td>
         </tr>
         <tr>
             <td>Cornak Firefist</td>
             <td style="text-align: right">33</td>
             <td style="text-align: right">1,622.0</td>
+            <td style="text-align: right">1,291.0</td>
         </tr>
         <tr>
             <td>Stitch Kaneland</td>
             <td style="text-align: right">32</td>
             <td style="text-align: right">1,504.4</td>
+            <td style="text-align: right">1,426.6</td>
         </tr>
         <tr>
             <td>Matterall</td>
             <td style="text-align: right">31</td>
             <td style="text-align: right">1,233.6</td>
+            <td style="text-align: right">1,703.4</td>
         </tr>
         <tr>
             <td>Mike Azariah</td>
             <td style="text-align: right">30</td>
             <td style="text-align: right">738.4</td>
+            <td style="text-align: right">2,209.6</td>
         </tr>
         <tr>
             <td>The Judge</td>
             <td style="text-align: right">29</td>
             <td style="text-align: right">642.4</td>
+            <td style="text-align: right">2,308.6</td>
         </tr>
         <tr>
             <td>Arrowspeeed Bounty</td>
             <td style="text-align: right">28</td>
             <td style="text-align: right">501.4</td>
+            <td style="text-align: right">2,451.6</td>
         </tr>
         <tr>
             <td>Lorelei Ierendi</td>
             <td style="text-align: right">27</td>
             <td style="text-align: right">417.4</td>
+            <td style="text-align: right">2,541.6</td>
         </tr>
         <tr>
             <td>Jurius Doctor</td>
             <td style="text-align: right">26</td>
             <td style="text-align: right">330.7</td>
+            <td style="text-align: right">2,632.3</td>
         </tr>
         <tr>
             <td>Matthew Dust</td>
             <td style="text-align: right">25</td>
             <td style="text-align: right">290.7</td>
+            <td style="text-align: right">2,675.3</td>
         </tr>
         <tr>
             <td>Insidious Sainthood</td>
             <td style="text-align: right">24</td>
             <td style="text-align: right">236.9</td>
+            <td style="text-align: right">2,732.1</td>
         </tr>
         <tr>
             <td>Lucrative Business Opportunity</td>
             <td style="text-align: right">23</td>
             <td style="text-align: right">217.8</td>
+            <td style="text-align: right">2,760.2</td>
         </tr>
         <tr>
             <td>Compayn</td>
             <td style="text-align: right">22</td>
             <td style="text-align: right">217.4</td>
+            <td style="text-align: right">2,762.6</td>
         </tr>
         <tr>
             <td>Xenuria</td>
             <td style="text-align: right">21</td>
             <td style="text-align: right">187.8</td>
+            <td style="text-align: right">2,793.2</td>
         </tr>
         <tr>
             <td>BlazingBunny</td>
             <td style="text-align: right">20</td>
             <td style="text-align: right">180.5</td>
+            <td style="text-align: right">2,801.5</td>
         </tr>
         <tr>
             <td>Manic Velocity</td>
             <td style="text-align: right">19</td>
             <td style="text-align: right">172.4</td>
+            <td style="text-align: right">2,809.6</td>
         </tr>
         <tr>
             <td>Blood Ruin</td>
             <td style="text-align: right">18</td>
             <td style="text-align: right">135.9</td>
+            <td style="text-align: right">2,847.1</td>
         </tr>
         <tr>
             <td>Crystalline Entity</td>
             <td style="text-align: right">17</td>
             <td style="text-align: right">117.6</td>
+            <td style="text-align: right">2,869.4</td>
         </tr>
         <tr>
             <td>Aegaeonos</td>
             <td style="text-align: right">16</td>
             <td style="text-align: right">101.3</td>
+            <td style="text-align: right">2,886.7</td>
         </tr>
         <tr>
             <td> Nahtor Raschura </td>
             <td style="text-align: right">15</td>
             <td style="text-align: right">94.8</td>
+            <td style="text-align: right">2,896.2</td>
         </tr>
         <tr>
             <td>teddy Gbyc</td>
             <td style="text-align: right">14</td>
             <td style="text-align: right">87.7</td>
+            <td style="text-align: right">2,905.3</td>
         </tr>
         <tr>
             <td>Zap InSpace</td>
             <td style="text-align: right">13</td>
             <td style="text-align: right">79.3</td>
+            <td style="text-align: right">2,913.7</td>
         </tr>
         <tr>
             <td>Doris Andedarie</td>
             <td style="text-align: right">12</td>
             <td style="text-align: right">78.0</td>
+            <td style="text-align: right">2,917.0</td>
         </tr>
         <tr>
             <td>Arqui Nurbs</td>
             <td style="text-align: right">11</td>
             <td style="text-align: right">74.5</td>
+            <td style="text-align: right">2,920.5</td>
         </tr>
         <tr>
             <td>Mr Deathwhisper</td>
             <td style="text-align: right">10</td>
             <td style="text-align: right">73.6</td>
+            <td style="text-align: right">2,922.4</td>
         </tr>
         <tr>
             <td>Anveri Vestigo</td>
             <td style="text-align: right">9</td>
             <td style="text-align: right">69.6</td>
+            <td style="text-align: right">2,927.4</td>
         </tr>
         <tr>
             <td>Carbon Alabel</td>
             <td style="text-align: right">8</td>
             <td style="text-align: right">66.8</td>
+            <td style="text-align: right">2,930.2</td>
         </tr>
         <tr>
             <td>Liz Lizardbreath</td>
             <td style="text-align: right">7</td>
             <td style="text-align: right">64.3</td>
+            <td style="text-align: right">2,932.7</td>
         </tr>
         <tr>
             <td>Aeryn-Sun</td>
             <td style="text-align: right">6</td>
             <td style="text-align: right">58.9</td>
+            <td style="text-align: right">2,939.1</td>
         </tr>
         <tr>
             <td>Darien Avan</td>
             <td style="text-align: right">5</td>
             <td style="text-align: right">49.5</td>
+            <td style="text-align: right">2,949.5</td>
         </tr>
         <tr>
             <td>Cacique Yuhasz</td>
             <td style="text-align: right">4</td>
             <td style="text-align: right">45.4</td>
+            <td style="text-align: right">2,953.6</td>
         </tr>
         <tr>
             <td>Zipp Adoudel</td>
             <td style="text-align: right">3</td>
             <td style="text-align: right">43.1</td>
+            <td style="text-align: right">2,956.9</td>
         </tr>
         <tr>
             <td>Fiedan</td>
             <td style="text-align: right">2</td>
             <td style="text-align: right">35.9</td>
+            <td style="text-align: right">2,964.1</td>
         </tr>
         <tr>
             <td>Styxx</td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">35.7</td>
+            <td style="text-align: right">2,964.3</td>
         </tr>
         
     </tbody>

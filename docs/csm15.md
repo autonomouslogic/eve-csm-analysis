@@ -89,6 +89,7 @@
             <th>Candidate</th>
             <th>Elimination round</th>
             <th>Votes at elimination</th>
+            <th>Votes short of quota</th>
         </tr>
     </thead>
     <tbody>
@@ -97,151 +98,181 @@
             <td>Loroseco Kross</td>
             <td style="text-align: right">30</td>
             <td style="text-align: right">2,306.1</td>
+            <td style="text-align: right">637.9</td>
         </tr>
         <tr>
             <td>Ikarus Cesaille</td>
             <td style="text-align: right">29</td>
             <td style="text-align: right">1,939.0</td>
+            <td style="text-align: right">1,051.0</td>
         </tr>
         <tr>
             <td>Juvenius Drakonius</td>
             <td style="text-align: right">28</td>
             <td style="text-align: right">1,614.5</td>
+            <td style="text-align: right">1,482.5</td>
         </tr>
         <tr>
             <td>ExookiZ</td>
             <td style="text-align: right">27</td>
             <td style="text-align: right">1,527.1</td>
+            <td style="text-align: right">1,587.9</td>
         </tr>
         <tr>
             <td>BlazingBunny</td>
             <td style="text-align: right">26</td>
             <td style="text-align: right">1,448.5</td>
+            <td style="text-align: right">1,673.5</td>
         </tr>
         <tr>
             <td>Jurius Doctor</td>
             <td style="text-align: right">25</td>
             <td style="text-align: right">1,254.1</td>
+            <td style="text-align: right">1,894.9</td>
         </tr>
         <tr>
             <td>DutchGunner</td>
             <td style="text-align: right">24</td>
             <td style="text-align: right">1,056.8</td>
+            <td style="text-align: right">2,111.2</td>
         </tr>
         <tr>
             <td>Stitch Kaneland</td>
             <td style="text-align: right">23</td>
             <td style="text-align: right">944.6</td>
+            <td style="text-align: right">2,233.4</td>
         </tr>
         <tr>
             <td>Meredith en Thielles</td>
             <td style="text-align: right">22</td>
             <td style="text-align: right">773.8</td>
+            <td style="text-align: right">2,416.2</td>
         </tr>
         <tr>
             <td>Insidious Sainthood</td>
             <td style="text-align: right">21</td>
             <td style="text-align: right">711.1</td>
+            <td style="text-align: right">2,489.9</td>
         </tr>
         <tr>
             <td>Steadyo</td>
             <td style="text-align: right">20</td>
             <td style="text-align: right">693.6</td>
+            <td style="text-align: right">2,509.4</td>
         </tr>
         <tr>
             <td>The Oz</td>
             <td style="text-align: right">19</td>
             <td style="text-align: right">673.2</td>
+            <td style="text-align: right">2,540.8</td>
         </tr>
         <tr>
             <td>Alexis Finch</td>
             <td style="text-align: right">18</td>
             <td style="text-align: right">630.5</td>
+            <td style="text-align: right">2,590.5</td>
         </tr>
         <tr>
             <td>Darius Caliente</td>
             <td style="text-align: right">17</td>
             <td style="text-align: right">620.3</td>
+            <td style="text-align: right">2,608.7</td>
         </tr>
         <tr>
             <td>January Valentine</td>
             <td style="text-align: right">16</td>
             <td style="text-align: right">557.2</td>
+            <td style="text-align: right">2,680.8</td>
         </tr>
         <tr>
             <td>Ironwulf</td>
             <td style="text-align: right">15</td>
             <td style="text-align: right">528.8</td>
+            <td style="text-align: right">2,716.2</td>
         </tr>
         <tr>
             <td>PJHustle</td>
             <td style="text-align: right">14</td>
             <td style="text-align: right">478.7</td>
+            <td style="text-align: right">2,775.3</td>
         </tr>
         <tr>
             <td>Pandora Singularity</td>
             <td style="text-align: right">13</td>
             <td style="text-align: right">413.8</td>
+            <td style="text-align: right">2,846.2</td>
         </tr>
         <tr>
             <td>UAxDEATH</td>
             <td style="text-align: right">12</td>
             <td style="text-align: right">357.7</td>
+            <td style="text-align: right">2,912.3</td>
         </tr>
         <tr>
             <td>Komi Valentine</td>
             <td style="text-align: right">11</td>
             <td style="text-align: right">336.4</td>
+            <td style="text-align: right">2,936.6</td>
         </tr>
         <tr>
             <td>Prospektor Schipplock</td>
             <td style="text-align: right">10</td>
             <td style="text-align: right">213.4</td>
+            <td style="text-align: right">3,060.6</td>
         </tr>
         <tr>
             <td>Xenuria</td>
             <td style="text-align: right">9</td>
             <td style="text-align: right">198.3</td>
+            <td style="text-align: right">3,076.7</td>
         </tr>
         <tr>
             <td>Murray Rothbardo</td>
             <td style="text-align: right">8</td>
             <td style="text-align: right">189.7</td>
+            <td style="text-align: right">3,087.3</td>
         </tr>
         <tr>
             <td>Styxx</td>
             <td style="text-align: right">7</td>
             <td style="text-align: right">184.5</td>
+            <td style="text-align: right">3,092.5</td>
         </tr>
         <tr>
             <td>boernl</td>
             <td style="text-align: right">6</td>
             <td style="text-align: right">181.4</td>
+            <td style="text-align: right">3,097.6</td>
         </tr>
         <tr>
             <td>Dhuras</td>
             <td style="text-align: right">5</td>
             <td style="text-align: right">170.1</td>
+            <td style="text-align: right">3,110.9</td>
         </tr>
         <tr>
             <td>Rheaha Preynar</td>
             <td style="text-align: right">4</td>
             <td style="text-align: right">133.1</td>
+            <td style="text-align: right">3,149.9</td>
         </tr>
         <tr>
             <td>Kalen Tsero</td>
             <td style="text-align: right">3</td>
             <td style="text-align: right">115.9</td>
+            <td style="text-align: right">3,167.1</td>
         </tr>
         <tr>
             <td>Storm Delay</td>
             <td style="text-align: right">2</td>
             <td style="text-align: right">112.2</td>
+            <td style="text-align: right">3,171.8</td>
         </tr>
         <tr>
             <td>Leehams DaWildabeast</td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">63.2</td>
+            <td style="text-align: right">3,220.8</td>
         </tr>
         
     </tbody>

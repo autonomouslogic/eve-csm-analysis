@@ -166,6 +166,38 @@ public class CsmAnalyserTest {
 	}
 
 	@Test
+	public void shouldCalculateVotesShortOfQuotaAtElimination() {
+		var auditLog = new AuditLogParser("Round 1 beginning - 3 candidates remain\n"
+						+ "100 votes, 40 quota\n"
+						+ "Initial talley:\n"
+						+ "  45 \"Alice\"\n"
+						+ "  30 \"Bob\"\n"
+						+ "  25 \"Carol\"\n"
+						+ "Actions:\n"
+						+ "  Elected: \"Alice\"\n"
+						+ "  Transfer from \"Alice\":\n"
+						+ "    Votes: 45.000000, Factor: 0.111111, Excess: 5.000000\n"
+						+ "    0.500000 votes to \"Carol\"\n"
+						+ "    4.500000 votes to Exhausted\n"
+						+ "  Pre-elimination tally:\n"
+						+ "  30 \"Bob\"\n"
+						+ "  25 \"Carol\"\n"
+						+ "  Elimination: \"Carol\" with 25.500000 votes\n"
+						+ "\n"
+						+ "Result:\n"
+						+ "\"Alice\"\n"
+						+ "\"Bob\"\n")
+				.parse();
+		var ballotFile = new BallotParser(
+						"3 2\n" + "1 1 2\n" + "0\n" + "\"Alice\"\n" + "\"Bob\"\n" + "\"Carol\"\n" + "CSM test\n")
+				.parse();
+		var csmConfig = CsmConfig.builder().csmNumber(1).build();
+		var data = CsmAnalysis.builder();
+		new CsmAnalyser(csmConfig, ballotFile, auditLog).winnersAndEliminations(data);
+		assertEquals(14.5, data.build().getEliminations().get(0).getVotesShortOfQuota());
+	}
+
+	@Test
 	public void shouldCountBallotsRankingNoWinner() {
 		var ballotFile = new BallotParser("4 1\n"
 						+ "-4\n"
