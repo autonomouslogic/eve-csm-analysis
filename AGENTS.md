@@ -29,6 +29,7 @@ src/main/java/com/autonomouslogic/evecsmanalysis/
 src/main/resources/templates/  Thymeleaf TEXT-mode templates: csm.md, index.md, alumni.md
 src/test/java/...         JUnit 5 parser tests, run against every csm* dir
 docs/                     MkDocs source. Mostly GENERATED, see below.
+docs/stylesheets/extra.css  Hand-written CSS (widens the Material content grid), loaded via `extra_css` in mkdocs.yml
 build/csm/                Intermediate JSON (gitignored)
 ```
 

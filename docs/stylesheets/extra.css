@@ -1,0 +1,4 @@
+/* Widen content area; Material caps .md-grid at ~61rem by default. */
+.md-grid {
+	max-width: 96rem;
+}
