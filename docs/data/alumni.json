@@ -162,6 +162,7 @@
       "elections" : {
         "16" : "elected",
         "18" : "elected",
+        "10" : "elected",
         "15" : "elected"
       }
     },
@@ -309,6 +310,7 @@
     "Steve Ronuken" : {
       "name" : "Steve Ronuken",
       "elections" : {
+        "10" : "elected",
         "11" : "elected",
         "12" : "elected",
         "13" : "elected",
@@ -326,6 +328,7 @@
     "Sort Dragon" : {
       "name" : "Sort Dragon",
       "elections" : {
+        "10" : "elected",
         "13" : "elected"
       }
     },
@@ -408,6 +411,72 @@
       "name" : "Xenuria",
       "elections" : {
         "11" : "elected"
+      }
+    },
+    "Cagali Cagali" : {
+      "name" : "Cagali Cagali",
+      "elections" : {
+        "10" : "elected"
+      }
+    },
+    "Chance Ravinne" : {
+      "name" : "Chance Ravinne",
+      "elections" : {
+        "10" : "elected"
+      }
+    },
+    "Endie" : {
+      "name" : "Endie",
+      "elections" : {
+        "10" : "elected"
+      }
+    },
+    "Gorga" : {
+      "name" : "Gorga",
+      "elections" : {
+        "10" : "elected"
+      }
+    },
+    "Jayne Fillon" : {
+      "name" : "Jayne Fillon",
+      "elections" : {
+        "10" : "elected"
+      }
+    },
+    "Manfred Sideous" : {
+      "name" : "Manfred Sideous",
+      "elections" : {
+        "10" : "elected"
+      }
+    },
+    "Sion Kumitomo" : {
+      "name" : "Sion Kumitomo",
+      "elections" : {
+        "10" : "elected"
+      }
+    },
+    "Sugar Kyle" : {
+      "name" : "Sugar Kyle",
+      "elections" : {
+        "10" : "elected"
+      }
+    },
+    "Thoric Frosthammer" : {
+      "name" : "Thoric Frosthammer",
+      "elections" : {
+        "10" : "elected"
+      }
+    },
+    "corbexx" : {
+      "name" : "corbexx",
+      "elections" : {
+        "10" : "elected"
+      }
+    },
+    "corebloodbrothers" : {
+      "name" : "corebloodbrothers",
+      "elections" : {
+        "10" : "elected"
       }
     }
   }

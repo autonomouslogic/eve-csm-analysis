@@ -76,6 +76,8 @@ Run `make format` before committing Java or Gradle changes; CI fails on `spotles
   characters (dots, non-ASCII, etc.) will cause a parse failure; extend the regex in `AuditLogParser` and add a test.
 - `lombok.config` pins `@Jacksonized` to Jackson 2 (`lombok.jacksonized.jacksonVersion = 2`). Without it Lombok
   warns that Jackson 2 and 3 are both available. Keep it in step with the Jackson dependency in `build.gradle`.
+- Audit logs vary by election: csm10 omits the round number in `Round beginning - N candidates remain` (the number
+  is inferred from the previous round) and omits the `Pre-elimination tally:` block (parsed as optional).
 - `BallotParser` only supports a single withdrawn candidate (see `@todo` in `parseWithdrawals`).
 - EVE's `.blt` files do not terminate each ballot line with `0` (unlike the spec); the parser accounts for this.
 - `WrightTalley.py` is CCP's script, kept byte-for-byte as published for each election (csm18/csm19 differ from the
