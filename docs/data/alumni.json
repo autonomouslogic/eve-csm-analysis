@@ -216,6 +216,7 @@
       "name" : "Innominate",
       "elections" : {
         "16" : "elected",
+        "11" : "elected",
         "12" : "elected",
         "13" : "elected",
         "14" : "elected",
@@ -274,6 +275,7 @@
     "Aryth" : {
       "name" : "Aryth",
       "elections" : {
+        "11" : "elected",
         "12" : "elected",
         "13" : "elected",
         "14" : "elected"
@@ -307,6 +309,7 @@
     "Steve Ronuken" : {
       "name" : "Steve Ronuken",
       "elections" : {
+        "11" : "elected",
         "12" : "elected",
         "13" : "elected",
         "14" : "elected"
@@ -315,6 +318,7 @@
     "Jin'taan" : {
       "name" : "Jin'taan",
       "elections" : {
+        "11" : "elected",
         "12" : "elected",
         "13" : "elected"
       }
@@ -328,6 +332,7 @@
     "The Judge" : {
       "name" : "The Judge",
       "elections" : {
+        "11" : "elected",
         "12" : "elected",
         "13" : "elected"
       }
@@ -335,6 +340,7 @@
     "NoobMan" : {
       "name" : "NoobMan",
       "elections" : {
+        "11" : "elected",
         "12" : "elected"
       }
     },
@@ -354,6 +360,54 @@
       "name" : "rhiload Feron-drake",
       "elections" : {
         "12" : "elected"
+      }
+    },
+    "Bobmon" : {
+      "name" : "Bobmon",
+      "elections" : {
+        "11" : "elected"
+      }
+    },
+    "Fafer" : {
+      "name" : "Fafer",
+      "elections" : {
+        "11" : "elected"
+      }
+    },
+    "Gorski Car" : {
+      "name" : "Gorski Car",
+      "elections" : {
+        "11" : "elected"
+      }
+    },
+    "Kyle Aparthos" : {
+      "name" : "Kyle Aparthos",
+      "elections" : {
+        "11" : "elected"
+      }
+    },
+    "Mr Hyde113" : {
+      "name" : "Mr Hyde113",
+      "elections" : {
+        "11" : "elected"
+      }
+    },
+    "Nashh Kadavr" : {
+      "name" : "Nashh Kadavr",
+      "elections" : {
+        "11" : "elected"
+      }
+    },
+    "Sullen Decimus" : {
+      "name" : "Sullen Decimus",
+      "elections" : {
+        "11" : "elected"
+      }
+    },
+    "Xenuria" : {
+      "name" : "Xenuria",
+      "elections" : {
+        "11" : "elected"
       }
     }
   }
