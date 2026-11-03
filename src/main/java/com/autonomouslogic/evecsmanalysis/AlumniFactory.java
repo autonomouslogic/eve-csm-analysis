@@ -51,11 +51,13 @@ public class AlumniFactory {
 	}
 
 	private Ordering<Alumnus> sortAlumniOrdering() {
-		Ordering<Alumnus> latestWin = Ordering.natural().reverse().onResultOf(a -> a.getElections().entrySet().stream()
-				.filter(e -> !e.getValue().isEmpty())
-				.map(e -> e.getKey())
-				.max(Ordering.natural())
-				.orElse(-1));
+		Ordering<Alumnus> latestWin = Ordering.natural()
+				.reverse()
+				.onResultOf(a -> a.getElections().entrySet().stream()
+						.filter(e -> !e.getValue().isEmpty())
+						.map(e -> e.getKey())
+						.max(Ordering.natural())
+						.orElse(-1));
 		Ordering<Alumnus> name = Ordering.natural().onResultOf(a -> a.getName());
 		return latestWin.compound(name);
 	}
