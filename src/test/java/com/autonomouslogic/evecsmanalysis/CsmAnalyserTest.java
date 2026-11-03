@@ -11,6 +11,7 @@ import com.autonomouslogic.evecsmanalysis.models.Elimination;
 import com.autonomouslogic.evecsmanalysis.models.Round;
 import com.autonomouslogic.evecsmanalysis.parser.AuditLogParser;
 import com.autonomouslogic.evecsmanalysis.parser.BallotParser;
+import java.util.Arrays;
 import java.util.List;
 import org.junit.jupiter.api.Test;
 
@@ -130,6 +131,37 @@ public class CsmAnalyserTest {
 						row("Dave", false, List.of(0, 0)),
 						row("Erin", false, List.of(0, 0))),
 				distribution);
+	}
+
+	@Test
+	public void shouldCalculateJaccardIndexWeightedByVotesInGivenOrder() {
+		var ballotFile = new BallotParser("3 3\n"
+						+ "2 1 2\n"
+						+ "1 2 3\n"
+						+ "1 3\n"
+						+ "0\n"
+						+ "\"Alice\"\n"
+						+ "\"Bob\"\n"
+						+ "\"Carol\"\n"
+						+ "CSM test\n")
+				.parse();
+		var distribution = CsmAnalyser.rankDistribution(ballotFile, List.of("Carol", "Alice", "Bob"));
+		var index = CsmAnalyser.jaccardIndex(ballotFile, distribution);
+		// Alice on 2 ballots, Bob on 3, Carol on 2. Alice and Bob share 2 ballots (union 3), Bob and Carol share 1
+		// (union 4),
+		// Alice and Carol share none.
+		assertEquals(
+				List.of(List.of(1.0, 0.0, 1.0 / 4), List.of(0.0, 1.0, 2.0 / 3), List.of(1.0 / 4, 2.0 / 3, 1.0)), index);
+	}
+
+	@Test
+	public void shouldReturnNullJaccardIndexWhenNeitherCandidateIsOnAnyBallot() {
+		var ballotFile =
+				new BallotParser("2 1\n" + "1 1\n" + "0\n" + "\"Alice\"\n" + "\"Bob\"\n" + "CSM test\n").parse();
+		var distribution = CsmAnalyser.rankDistribution(ballotFile, List.of("Alice"));
+		assertEquals(
+				List.of(Arrays.asList(1.0, 0.0), Arrays.asList(0.0, null)),
+				CsmAnalyser.jaccardIndex(ballotFile, distribution));
 	}
 
 	@Test

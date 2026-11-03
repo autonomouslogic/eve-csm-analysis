@@ -47,6 +47,7 @@ public class CsmAnalyser {
 				.withdrawnCandidates(withdrawnCandidates(ballotFile))
 				.rankDistribution(rankDistribution)
 				.candidateStatistics(candidateStatistics(rankDistribution))
+				.jaccardIndex(jaccardIndex(ballotFile, rankDistribution))
 				.ballotSizes(ballotSizes(ballotFile));
 		winnersAndEliminations(data);
 		return data.build();
@@ -159,6 +160,49 @@ public class CsmAnalyser {
 	 */
 	static List<CandidateStatistics> candidateStatistics(List<CandidateRankDistribution> distribution) {
 		return distribution.stream().map(CsmAnalyser::candidateStatistic).toList();
+	}
+
+	/**
+	 * Jaccard index between every pair of candidates. A candidate's set is the ballots ranking them at any position,
+	 * weighted by {@link Votes#getCount()}. The index is the ballots ranking both candidates divided by the ballots
+	 * ranking either. Rows and columns are in the same order as the given rank distribution. A pair with no ballots
+	 * between them is null, which only happens when neither candidate appears on any ballot.
+	 */
+	static List<List<Double>> jaccardIndex(BallotFile ballotFile, List<CandidateRankDistribution> distribution) {
+		log.info("Calculating Jaccard index");
+		var idByName = new HashMap<String, Integer>();
+		for (var entry : ballotFile.getCandidateNames().entrySet()) {
+			idByName.put(entry.getValue(), entry.getKey());
+		}
+		var positionById = new HashMap<Integer, Integer>();
+		for (int i = 0; i < distribution.size(); i++) {
+			positionById.put(idByName.get(distribution.get(i).getCandidate()), i);
+		}
+		var size = distribution.size();
+		var ballots = new long[size];
+		var both = new long[size][size];
+		for (var votes : ballotFile.getAllVotes()) {
+			var present = new HashSet<Integer>();
+			for (var id : votes.getBallot().getRankings()) {
+				present.add(positionById.get(id));
+			}
+			for (int a : present) {
+				ballots[a] += votes.getCount();
+				for (int b : present) {
+					both[a][b] += votes.getCount();
+				}
+			}
+		}
+		var index = new ArrayList<List<Double>>(size);
+		for (int a = 0; a < size; a++) {
+			var row = new ArrayList<Double>(size);
+			for (int b = 0; b < size; b++) {
+				var union = ballots[a] + ballots[b] - both[a][b];
+				row.add(union == 0 ? null : (double) both[a][b] / union);
+			}
+			index.add(row);
+		}
+		return index;
 	}
 
 	private static CandidateStatistics candidateStatistic(CandidateRankDistribution distribution) {

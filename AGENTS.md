@@ -40,12 +40,13 @@ build/csm/                Intermediate JSON (gitignored)
    - `docs/csmNN.md`
    - `docs/index.md`, `docs/alumni.md`
    - `docs/data/csm-votes.csv`, `docs/data/csm-candidates.csv`, `docs/data/alumni.json`, and per election
-     `docs/data/csmNN-rank-distribution.csv` (heatmap source on `docs/csmNN.md`)
+     `docs/data/csmNN-rank-distribution.csv` and `docs/data/csmNN-jaccard.csv` (heatmap sources on `docs/csmNN.md`)
 3. `make mkdocs-serve` / `make mkdocs-build` — needs `make init` first (creates `.venv`).
 
 Generated files under `docs/` are committed. Never hand-edit them; change the template or Java code and re-run
 `make thymeleaf`. The hand-written pages are the metric explanations linked from `docs/csmNN.md`:
-`docs/least-significant-rank.md`, `docs/votes-at-election.md` and `docs/ballots-without-a-winner.md`.
+`docs/least-significant-rank.md`, `docs/votes-at-election.md`, `docs/ballots-without-a-winner.md` and
+`docs/candidate-statistics.md`.
 
 ## Commands
 

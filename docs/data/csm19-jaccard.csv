@@ -1,0 +1,2210 @@
+Candidate,Order,Other,OtherOrder,Jaccard
+"Kazanir",1,"Kazanir",1,1.0
+"Kazanir",1,"Luke Anninan",2,0.3993784772693098
+"Kazanir",1,"Zintage Enaka",3,0.739476781026523
+"Kazanir",1,"Ariel Rin",4,0.39800726416020415
+"Kazanir",1,"Dujek Oneye",5,0.45146952608478247
+"Kazanir",1,"Storm Delay",6,0.010011954572624028
+"Kazanir",1,"The Oz",7,0.3529049295774648
+"Kazanir",1,"Kenneth Feld",8,0.010597665285921782
+"Kazanir",1,"Seddow",9,0.4018584774398728
+"Kazanir",1,"Mick Fightmaster",10,0.013157894736842105
+"Kazanir",1,"Itaer",11,0.008235382196601033
+"Kazanir",1,"Dalros",12,0.010627078770179281
+"Kazanir",1,"Mike Azariah",13,0.0253461244958029
+"Kazanir",1,"Phantomite",14,0.022727272727272728
+"Kazanir",1,"youngpuke2",15,0.4072607948330642
+"Kazanir",1,"Kshal Aideron",16,0.37849028023226455
+"Kazanir",1,"Machagon",17,0.013407920440419108
+"Kazanir",1,"Rots Mijnwerker",18,0.03806541979072258
+"Kazanir",1,"Gustav Mannfred",19,0.02003295464400312
+"Kazanir",1,"Drake Iddon",20,0.02859742623163915
+"Kazanir",1,"DutchGunner",21,0.01785236097473891
+"Kazanir",1,"Ankh Lai",22,0.8004834323698258
+"Kazanir",1,"Gideon Zendikar",23,0.015674838239314683
+"Kazanir",1,"Creatnos",24,0.00611300323115885
+"Kazanir",1,"SeriesPro",25,0.006312360008144981
+"Kazanir",1,"steven mardis",26,0.0036272040302267002
+"Kazanir",1,"Komo Sunder",27,0.008861394415649556
+"Kazanir",1,"Aurous Victoirespere",28,0.004438568325620927
+"Kazanir",1,"Switch 4",29,0.005325249877109618
+"Kazanir",1,"Viciate",30,0.008534285997816811
+"Kazanir",1,"Frozen Fallout",31,0.012272857006945106
+"Kazanir",1,"Prospektor Schipplock",32,0.0063823320838820785
+"Kazanir",1,"SKALE Organa",33,0.0044343713046905795
+"Kazanir",1,"Bexey Songweaver",34,0.007322788517867604
+"Kazanir",1,"Hexator Gaming",35,0.01174757281553398
+"Kazanir",1,"MILINT ARC Trooper",36,0.013017519819907996
+"Kazanir",1,"NeoShocker",37,0.005050505050505051
+"Kazanir",1,"Aqustin Agustus",38,0.006432807317318323
+"Kazanir",1,"Grima The Mad",39,0.006756756756756757
+"Kazanir",1,"Frippyy",40,0.019278350515463918
+"Kazanir",1,"Mcopiate",41,0.006858568014132807
+"Kazanir",1,"Styxx",42,0.010525289932755092
+"Kazanir",1,"commander Shepard Brotherhood",43,0.007417467613873799
+"Kazanir",1,"Colby Bosh'tet",44,0.005425499849291671
+"Kazanir",1,"Aerodinamica Attiva",45,0.002481133050759847
+"Kazanir",1,"Redus Taw",46,0.004415011037527594
+"Kazanir",1,"AtheistOfFail",47,0.004317607413647851
+"Luke Anninan",2,"Kazanir",1,0.3993784772693098
+"Luke Anninan",2,"Luke Anninan",2,1.0
+"Luke Anninan",2,"Zintage Enaka",3,0.4235382308845577
+"Luke Anninan",2,"Ariel Rin",4,0.7221842069248665
+"Luke Anninan",2,"Dujek Oneye",5,0.7494933517868617
+"Luke Anninan",2,"Storm Delay",6,0.07374422768824805
+"Luke Anninan",2,"The Oz",7,0.6708569996658871
+"Luke Anninan",2,"Kenneth Feld",8,0.30403458213256485
+"Luke Anninan",2,"Seddow",9,0.7359888837424734
+"Luke Anninan",2,"Mick Fightmaster",10,0.2776839125074204
+"Luke Anninan",2,"Itaer",11,0.037794412999817416
+"Luke Anninan",2,"Dalros",12,0.042962749615975425
+"Luke Anninan",2,"Mike Azariah",13,0.2502782848746605
+"Luke Anninan",2,"Phantomite",14,0.02448739419725705
+"Luke Anninan",2,"youngpuke2",15,0.7326553024877047
+"Luke Anninan",2,"Kshal Aideron",16,0.7264658672457747
+"Luke Anninan",2,"Machagon",17,0.011295291183805192
+"Luke Anninan",2,"Rots Mijnwerker",18,0.05754908598510494
+"Luke Anninan",2,"Gustav Mannfred",19,0.016137604483741606
+"Luke Anninan",2,"Drake Iddon",20,0.1636911662415952
+"Luke Anninan",2,"DutchGunner",21,0.014178482068390326
+"Luke Anninan",2,"Ankh Lai",22,0.384223140074448
+"Luke Anninan",2,"Gideon Zendikar",23,0.01881519189499426
+"Luke Anninan",2,"Creatnos",24,0.06299212598425197
+"Luke Anninan",2,"SeriesPro",25,0.0025124313007066214
+"Luke Anninan",2,"steven mardis",26,0.002450086013657926
+"Luke Anninan",2,"Komo Sunder",27,0.11020344450803891
+"Luke Anninan",2,"Aurous Victoirespere",28,0.009534919105340569
+"Luke Anninan",2,"Switch 4",29,0.10111440548001227
+"Luke Anninan",2,"Viciate",30,0.00637008648816614
+"Luke Anninan",2,"Frozen Fallout",31,0.009942677420991223
+"Luke Anninan",2,"Prospektor Schipplock",32,0.005550610043462324
+"Luke Anninan",2,"SKALE Organa",33,0.0035062390430029905
+"Luke Anninan",2,"Bexey Songweaver",34,0.011516810411609771
+"Luke Anninan",2,"Hexator Gaming",35,0.008089289371288142
+"Luke Anninan",2,"MILINT ARC Trooper",36,0.012018982771071907
+"Luke Anninan",2,"NeoShocker",37,0.0041274817136886105
+"Luke Anninan",2,"Aqustin Agustus",38,0.004532430320395937
+"Luke Anninan",2,"Grima The Mad",39,0.004296511025986127
+"Luke Anninan",2,"Frippyy",40,0.0074681813400652155
+"Luke Anninan",2,"Mcopiate",41,0.0052494830054615835
+"Luke Anninan",2,"Styxx",42,0.027199497855424207
+"Luke Anninan",2,"commander Shepard Brotherhood",43,0.0020133517007523576
+"Luke Anninan",2,"Colby Bosh'tet",44,0.0030701982619555602
+"Luke Anninan",2,"Aerodinamica Attiva",45,0.0031205373671127096
+"Luke Anninan",2,"Redus Taw",46,0.022324742814720543
+"Luke Anninan",2,"AtheistOfFail",47,0.001704484925961436
+"Zintage Enaka",3,"Kazanir",1,0.739476781026523
+"Zintage Enaka",3,"Luke Anninan",2,0.4235382308845577
+"Zintage Enaka",3,"Zintage Enaka",3,1.0
+"Zintage Enaka",3,"Ariel Rin",4,0.43799811890500473
+"Zintage Enaka",3,"Dujek Oneye",5,0.4978114478114478
+"Zintage Enaka",3,"Storm Delay",6,0.005928147989429327
+"Zintage Enaka",3,"The Oz",7,0.3891280230752163
+"Zintage Enaka",3,"Kenneth Feld",8,0.00488108837885554
+"Zintage Enaka",3,"Seddow",9,0.4284934226855299
+"Zintage Enaka",3,"Mick Fightmaster",10,0.06320666262202856
+"Zintage Enaka",3,"Itaer",11,0.0037193333810170946
+"Zintage Enaka",3,"Dalros",12,0.02406038685327882
+"Zintage Enaka",3,"Mike Azariah",13,0.0167383775842166
+"Zintage Enaka",3,"Phantomite",14,0.010737865486468838
+"Zintage Enaka",3,"youngpuke2",15,0.4365170294760962
+"Zintage Enaka",3,"Kshal Aideron",16,0.4358511953833471
+"Zintage Enaka",3,"Machagon",17,0.00935288169868554
+"Zintage Enaka",3,"Rots Mijnwerker",18,0.021017527532185512
+"Zintage Enaka",3,"Gustav Mannfred",19,0.013482407102926669
+"Zintage Enaka",3,"Drake Iddon",20,0.0777120315581854
+"Zintage Enaka",3,"DutchGunner",21,0.010980657150097137
+"Zintage Enaka",3,"Ankh Lai",22,0.7561416872976576
+"Zintage Enaka",3,"Gideon Zendikar",23,0.009656004828002414
+"Zintage Enaka",3,"Creatnos",24,0.002405042295571405
+"Zintage Enaka",3,"SeriesPro",25,0.0044213763936947325
+"Zintage Enaka",3,"steven mardis",26,0.0027624309392265192
+"Zintage Enaka",3,"Komo Sunder",27,0.008380557107510575
+"Zintage Enaka",3,"Aurous Victoirespere",28,0.0030444126074498567
+"Zintage Enaka",3,"Switch 4",29,0.005089257751331036
+"Zintage Enaka",3,"Viciate",30,0.0028040003738667163
+"Zintage Enaka",3,"Frozen Fallout",31,0.007009345794392523
+"Zintage Enaka",3,"Prospektor Schipplock",32,0.004496316846838228
+"Zintage Enaka",3,"SKALE Organa",33,0.003450848722253311
+"Zintage Enaka",3,"Bexey Songweaver",34,0.009648390388718805
+"Zintage Enaka",3,"Hexator Gaming",35,0.005583012996522058
+"Zintage Enaka",3,"MILINT ARC Trooper",36,0.011021580068537557
+"Zintage Enaka",3,"NeoShocker",37,0.004105795856010694
+"Zintage Enaka",3,"Aqustin Agustus",38,0.008195940150576574
+"Zintage Enaka",3,"Grima The Mad",39,0.005073280721533258
+"Zintage Enaka",3,"Frippyy",40,0.017026658883051177
+"Zintage Enaka",3,"Mcopiate",41,0.0107431500098561
+"Zintage Enaka",3,"Styxx",42,0.005332352670773191
+"Zintage Enaka",3,"commander Shepard Brotherhood",43,0.0069040339283953055
+"Zintage Enaka",3,"Colby Bosh'tet",44,0.0049424959604600326
+"Zintage Enaka",3,"Aerodinamica Attiva",45,0.002637749120750293
+"Zintage Enaka",3,"Redus Taw",46,0.00217947503079693
+"Zintage Enaka",3,"AtheistOfFail",47,0.003476360746920938
+"Ariel Rin",4,"Kazanir",1,0.39800726416020415
+"Ariel Rin",4,"Luke Anninan",2,0.7221842069248665
+"Ariel Rin",4,"Zintage Enaka",3,0.43799811890500473
+"Ariel Rin",4,"Ariel Rin",4,1.0
+"Ariel Rin",4,"Dujek Oneye",5,0.7392019347037485
+"Ariel Rin",4,"Storm Delay",6,0.021612635078969242
+"Ariel Rin",4,"The Oz",7,0.7233455101520686
+"Ariel Rin",4,"Kenneth Feld",8,0.2267038148306901
+"Ariel Rin",4,"Seddow",9,0.6940820234225409
+"Ariel Rin",4,"Mick Fightmaster",10,0.28408835305231905
+"Ariel Rin",4,"Itaer",11,0.025753907109839314
+"Ariel Rin",4,"Dalros",12,0.017435756994842302
+"Ariel Rin",4,"Mike Azariah",13,0.2727272727272727
+"Ariel Rin",4,"Phantomite",14,0.059753312014618545
+"Ariel Rin",4,"youngpuke2",15,0.6838473840530044
+"Ariel Rin",4,"Kshal Aideron",16,0.7518516771241214
+"Ariel Rin",4,"Machagon",17,0.04274846625766871
+"Ariel Rin",4,"Rots Mijnwerker",18,0.05532555513737298
+"Ariel Rin",4,"Gustav Mannfred",19,0.026183235126401826
+"Ariel Rin",4,"Drake Iddon",20,0.20612014665789227
+"Ariel Rin",4,"DutchGunner",21,0.043845851356665355
+"Ariel Rin",4,"Ankh Lai",22,0.38883319967923013
+"Ariel Rin",4,"Gideon Zendikar",23,0.028434160211785468
+"Ariel Rin",4,"Creatnos",24,0.017196208259896154
+"Ariel Rin",4,"SeriesPro",25,0.00499515775523727
+"Ariel Rin",4,"steven mardis",26,0.003447227010037514
+"Ariel Rin",4,"Komo Sunder",27,0.10577602746642431
+"Ariel Rin",4,"Aurous Victoirespere",28,0.024064438663197917
+"Ariel Rin",4,"Switch 4",29,0.1029940119760479
+"Ariel Rin",4,"Viciate",30,0.01051142106327067
+"Ariel Rin",4,"Frozen Fallout",31,0.01997807891590275
+"Ariel Rin",4,"Prospektor Schipplock",32,0.0067226890756302525
+"Ariel Rin",4,"SKALE Organa",33,0.009782170229931424
+"Ariel Rin",4,"Bexey Songweaver",34,0.01256281407035176
+"Ariel Rin",4,"Hexator Gaming",35,0.013155920164073832
+"Ariel Rin",4,"MILINT ARC Trooper",36,0.01631502089732615
+"Ariel Rin",4,"NeoShocker",37,0.0079482345748204
+"Ariel Rin",4,"Aqustin Agustus",38,0.00869123252858958
+"Ariel Rin",4,"Grima The Mad",39,0.008435195474290332
+"Ariel Rin",4,"Frippyy",40,0.009315180673559218
+"Ariel Rin",4,"Mcopiate",41,0.007067320092855301
+"Ariel Rin",4,"Styxx",42,0.007028562883206221
+"Ariel Rin",4,"commander Shepard Brotherhood",43,0.003917525773195876
+"Ariel Rin",4,"Colby Bosh'tet",44,0.008488791745031261
+"Ariel Rin",4,"Aerodinamica Attiva",45,0.003030147398695496
+"Ariel Rin",4,"Redus Taw",46,0.003743234356821286
+"Ariel Rin",4,"AtheistOfFail",47,0.002587991718426501
+"Dujek Oneye",5,"Kazanir",1,0.45146952608478247
+"Dujek Oneye",5,"Luke Anninan",2,0.7494933517868617
+"Dujek Oneye",5,"Zintage Enaka",3,0.4978114478114478
+"Dujek Oneye",5,"Ariel Rin",4,0.7392019347037485
+"Dujek Oneye",5,"Dujek Oneye",5,1.0
+"Dujek Oneye",5,"Storm Delay",6,0.007244986085788312
+"Dujek Oneye",5,"The Oz",7,0.693913737311051
+"Dujek Oneye",5,"Kenneth Feld",8,0.21454999537508093
+"Dujek Oneye",5,"Seddow",9,0.7242112383437214
+"Dujek Oneye",5,"Mick Fightmaster",10,0.3063606884509853
+"Dujek Oneye",5,"Itaer",11,0.015369696969696969
+"Dujek Oneye",5,"Dalros",12,0.011981520028430725
+"Dujek Oneye",5,"Mike Azariah",13,0.2523702891991043
+"Dujek Oneye",5,"Phantomite",14,0.0314789150663235
+"Dujek Oneye",5,"youngpuke2",15,0.7410155461336564
+"Dujek Oneye",5,"Kshal Aideron",16,0.7836590244653023
+"Dujek Oneye",5,"Machagon",17,0.02158039915625507
+"Dujek Oneye",5,"Rots Mijnwerker",18,0.04792232198788891
+"Dujek Oneye",5,"Gustav Mannfred",19,0.016432421008136956
+"Dujek Oneye",5,"Drake Iddon",20,0.16644973968762514
+"Dujek Oneye",5,"DutchGunner",21,0.018725379094490315
+"Dujek Oneye",5,"Ankh Lai",22,0.4402090552746691
+"Dujek Oneye",5,"Gideon Zendikar",23,0.014326959742877376
+"Dujek Oneye",5,"Creatnos",24,0.006357279084551812
+"Dujek Oneye",5,"SeriesPro",25,0.002888670633774337
+"Dujek Oneye",5,"steven mardis",26,0.0019537984139754053
+"Dujek Oneye",5,"Komo Sunder",27,0.11667904691160505
+"Dujek Oneye",5,"Aurous Victoirespere",28,0.012013857845328565
+"Dujek Oneye",5,"Switch 4",29,0.10857848641365371
+"Dujek Oneye",5,"Viciate",30,0.003299203640500569
+"Dujek Oneye",5,"Frozen Fallout",31,0.014504928315412186
+"Dujek Oneye",5,"Prospektor Schipplock",32,0.003921342483132461
+"Dujek Oneye",5,"SKALE Organa",33,0.004320145520691224
+"Dujek Oneye",5,"Bexey Songweaver",34,0.007988215965101127
+"Dujek Oneye",5,"Hexator Gaming",35,0.007771145399256673
+"Dujek Oneye",5,"MILINT ARC Trooper",36,0.0076883939171236365
+"Dujek Oneye",5,"NeoShocker",37,0.004786068504209434
+"Dujek Oneye",5,"Aqustin Agustus",38,0.008186325377608671
+"Dujek Oneye",5,"Grima The Mad",39,0.00519525005709066
+"Dujek Oneye",5,"Frippyy",40,0.01006457618244226
+"Dujek Oneye",5,"Mcopiate",41,0.008401386522530991
+"Dujek Oneye",5,"Styxx",42,0.006486547464606013
+"Dujek Oneye",5,"commander Shepard Brotherhood",43,0.0030469940232040315
+"Dujek Oneye",5,"Colby Bosh'tet",44,0.004539447221743377
+"Dujek Oneye",5,"Aerodinamica Attiva",45,0.0031545741324921135
+"Dujek Oneye",5,"Redus Taw",46,0.0021205868867491978
+"Dujek Oneye",5,"AtheistOfFail",47,0.0020025915891153257
+"Storm Delay",6,"Kazanir",1,0.010011954572624028
+"Storm Delay",6,"Luke Anninan",2,0.07374422768824805
+"Storm Delay",6,"Zintage Enaka",3,0.005928147989429327
+"Storm Delay",6,"Ariel Rin",4,0.021612635078969242
+"Storm Delay",6,"Dujek Oneye",5,0.007244986085788312
+"Storm Delay",6,"Storm Delay",6,1.0
+"Storm Delay",6,"The Oz",7,0.05963169873784399
+"Storm Delay",6,"Kenneth Feld",8,0.3613160518444666
+"Storm Delay",6,"Seddow",9,0.054413377192982455
+"Storm Delay",6,"Mick Fightmaster",10,0.02879005985301917
+"Storm Delay",6,"Itaer",11,0.09182604139376474
+"Storm Delay",6,"Dalros",12,0.14308004368856295
+"Storm Delay",6,"Mike Azariah",13,0.08408622602631162
+"Storm Delay",6,"Phantomite",14,0.034166561989699785
+"Storm Delay",6,"youngpuke2",15,0.044977081741787626
+"Storm Delay",6,"Kshal Aideron",16,0.03058900097624471
+"Storm Delay",6,"Machagon",17,0.03034776902887139
+"Storm Delay",6,"Rots Mijnwerker",18,0.1168112473825905
+"Storm Delay",6,"Gustav Mannfred",19,0.06557377049180328
+"Storm Delay",6,"Drake Iddon",20,0.02119938884644767
+"Storm Delay",6,"DutchGunner",21,0.039622015915119366
+"Storm Delay",6,"Ankh Lai",22,0.006714060031595577
+"Storm Delay",6,"Gideon Zendikar",23,0.03458362009635237
+"Storm Delay",6,"Creatnos",24,0.26314748912613684
+"Storm Delay",6,"SeriesPro",25,0.01278772378516624
+"Storm Delay",6,"steven mardis",26,0.01152073732718894
+"Storm Delay",6,"Komo Sunder",27,0.01373867290266004
+"Storm Delay",6,"Aurous Victoirespere",28,0.016623568526043592
+"Storm Delay",6,"Switch 4",29,0.012624113475177305
+"Storm Delay",6,"Viciate",30,0.01513317191283293
+"Storm Delay",6,"Frozen Fallout",31,0.02379182156133829
+"Storm Delay",6,"Prospektor Schipplock",32,0.017157381910612158
+"Storm Delay",6,"SKALE Organa",33,0.016877637130801686
+"Storm Delay",6,"Bexey Songweaver",34,0.02795400475812847
+"Storm Delay",6,"Hexator Gaming",35,0.027588886730134057
+"Storm Delay",6,"MILINT ARC Trooper",36,0.03347197464844524
+"Storm Delay",6,"NeoShocker",37,0.01882004652146331
+"Storm Delay",6,"Aqustin Agustus",38,0.014339152119700748
+"Storm Delay",6,"Grima The Mad",39,0.02186797465767423
+"Storm Delay",6,"Frippyy",40,0.012348307430274643
+"Storm Delay",6,"Mcopiate",41,0.007962840079628402
+"Storm Delay",6,"Styxx",42,0.08516369664318275
+"Storm Delay",6,"commander Shepard Brotherhood",43,0.013935715891211509
+"Storm Delay",6,"Colby Bosh'tet",44,0.012040689225659124
+"Storm Delay",6,"Aerodinamica Attiva",45,0.01107419712070875
+"Storm Delay",6,"Redus Taw",46,0.11446196024674435
+"Storm Delay",6,"AtheistOfFail",47,0.010321100917431193
+"The Oz",7,"Kazanir",1,0.3529049295774648
+"The Oz",7,"Luke Anninan",2,0.6708569996658871
+"The Oz",7,"Zintage Enaka",3,0.3891280230752163
+"The Oz",7,"Ariel Rin",4,0.7233455101520686
+"The Oz",7,"Dujek Oneye",5,0.693913737311051
+"The Oz",7,"Storm Delay",6,0.05963169873784399
+"The Oz",7,"The Oz",7,1.0
+"The Oz",7,"Kenneth Feld",8,0.2484936713979538
+"The Oz",7,"Seddow",9,0.6532923076923077
+"The Oz",7,"Mick Fightmaster",10,0.30195299289820765
+"The Oz",7,"Itaer",11,0.05013355249640435
+"The Oz",7,"Dalros",12,0.03920406435224386
+"The Oz",7,"Mike Azariah",13,0.3213735887786521
+"The Oz",7,"Phantomite",14,0.07705653351387949
+"The Oz",7,"youngpuke2",15,0.6535306553911205
+"The Oz",7,"Kshal Aideron",16,0.7519459146911
+"The Oz",7,"Machagon",17,0.05960593354073673
+"The Oz",7,"Rots Mijnwerker",18,0.0694420377750823
+"The Oz",7,"Gustav Mannfred",19,0.053817603393425235
+"The Oz",7,"Drake Iddon",20,0.19443731279418058
+"The Oz",7,"DutchGunner",21,0.05929834054834055
+"The Oz",7,"Ankh Lai",22,0.35477891310245047
+"The Oz",7,"Gideon Zendikar",23,0.03974043410158872
+"The Oz",7,"Creatnos",24,0.029971206700985954
+"The Oz",7,"SeriesPro",25,0.007381596442162212
+"The Oz",7,"steven mardis",26,0.005655644241733182
+"The Oz",7,"Komo Sunder",27,0.10427428571428571
+"The Oz",7,"Aurous Victoirespere",28,0.031128051547327344
+"The Oz",7,"Switch 4",29,0.10321557971014493
+"The Oz",7,"Viciate",30,0.014822585058834261
+"The Oz",7,"Frozen Fallout",31,0.036105032822757115
+"The Oz",7,"Prospektor Schipplock",32,0.011529098341830876
+"The Oz",7,"SKALE Organa",33,0.013371537726838587
+"The Oz",7,"Bexey Songweaver",34,0.019985432031321134
+"The Oz",7,"Hexator Gaming",35,0.021743077621425327
+"The Oz",7,"MILINT ARC Trooper",36,0.02241866399343844
+"The Oz",7,"NeoShocker",37,0.010176017601760175
+"The Oz",7,"Aqustin Agustus",38,0.014971297359357061
+"The Oz",7,"Grima The Mad",39,0.013547415955845458
+"The Oz",7,"Frippyy",40,0.011786914682996455
+"The Oz",7,"Mcopiate",41,0.008194444444444445
+"The Oz",7,"Styxx",42,0.01633779869659667
+"The Oz",7,"commander Shepard Brotherhood",43,0.0050876462698302575
+"The Oz",7,"Colby Bosh'tet",44,0.010565312843029638
+"The Oz",7,"Aerodinamica Attiva",45,0.0074920223835730475
+"The Oz",7,"Redus Taw",46,0.007476976383696544
+"The Oz",7,"AtheistOfFail",47,0.004459101676808026
+"Kenneth Feld",8,"Kazanir",1,0.010597665285921782
+"Kenneth Feld",8,"Luke Anninan",2,0.30403458213256485
+"Kenneth Feld",8,"Zintage Enaka",3,0.00488108837885554
+"Kenneth Feld",8,"Ariel Rin",4,0.2267038148306901
+"Kenneth Feld",8,"Dujek Oneye",5,0.21454999537508093
+"Kenneth Feld",8,"Storm Delay",6,0.3613160518444666
+"Kenneth Feld",8,"The Oz",7,0.2484936713979538
+"Kenneth Feld",8,"Kenneth Feld",8,1.0
+"Kenneth Feld",8,"Seddow",9,0.2400262467191601
+"Kenneth Feld",8,"Mick Fightmaster",10,0.348912109934154
+"Kenneth Feld",8,"Itaer",11,0.060745477230193384
+"Kenneth Feld",8,"Dalros",12,0.08177289125579797
+"Kenneth Feld",8,"Mike Azariah",13,0.43179928965465125
+"Kenneth Feld",8,"Phantomite",14,0.03045336589833613
+"Kenneth Feld",8,"youngpuke2",15,0.23697157434402333
+"Kenneth Feld",8,"Kshal Aideron",16,0.22892591597240886
+"Kenneth Feld",8,"Machagon",17,0.023666016663712108
+"Kenneth Feld",8,"Rots Mijnwerker",18,0.08577031289965044
+"Kenneth Feld",8,"Gustav Mannfred",19,0.04149159663865546
+"Kenneth Feld",8,"Drake Iddon",20,0.02682534577034416
+"Kenneth Feld",8,"DutchGunner",21,0.03917507204610951
+"Kenneth Feld",8,"Ankh Lai",22,0.014359725194278635
+"Kenneth Feld",8,"Gideon Zendikar",23,0.026478616924476797
+"Kenneth Feld",8,"Creatnos",24,0.1461016615868646
+"Kenneth Feld",8,"SeriesPro",25,0.004611991177060357
+"Kenneth Feld",8,"steven mardis",26,0.005476996614220275
+"Kenneth Feld",8,"Komo Sunder",27,0.023138832997987926
+"Kenneth Feld",8,"Aurous Victoirespere",28,0.01060136973449667
+"Kenneth Feld",8,"Switch 4",29,0.013975155279503106
+"Kenneth Feld",8,"Viciate",30,0.007040187738339689
+"Kenneth Feld",8,"Frozen Fallout",31,0.022779043280182234
+"Kenneth Feld",8,"Prospektor Schipplock",32,0.009726260904441994
+"Kenneth Feld",8,"SKALE Organa",33,0.007117784711388455
+"Kenneth Feld",8,"Bexey Songweaver",34,0.021998435666797028
+"Kenneth Feld",8,"Hexator Gaming",35,0.013342292186600116
+"Kenneth Feld",8,"MILINT ARC Trooper",36,0.02013814573402082
+"Kenneth Feld",8,"NeoShocker",37,0.008095952023988006
+"Kenneth Feld",8,"Aqustin Agustus",38,0.009850746268656717
+"Kenneth Feld",8,"Grima The Mad",39,0.01013280865715691
+"Kenneth Feld",8,"Frippyy",40,0.00835010060362173
+"Kenneth Feld",8,"Mcopiate",41,0.0033700980392156864
+"Kenneth Feld",8,"Styxx",42,0.058758314855875834
+"Kenneth Feld",8,"commander Shepard Brotherhood",43,0.004313443565780014
+"Kenneth Feld",8,"Colby Bosh'tet",44,0.006050386828010315
+"Kenneth Feld",8,"Aerodinamica Attiva",45,0.005213657738703741
+"Kenneth Feld",8,"Redus Taw",46,0.051181102362204724
+"Kenneth Feld",8,"AtheistOfFail",47,0.004465212876427829
+"Seddow",9,"Kazanir",1,0.4018584774398728
+"Seddow",9,"Luke Anninan",2,0.7359888837424734
+"Seddow",9,"Zintage Enaka",3,0.4284934226855299
+"Seddow",9,"Ariel Rin",4,0.6940820234225409
+"Seddow",9,"Dujek Oneye",5,0.7242112383437214
+"Seddow",9,"Storm Delay",6,0.054413377192982455
+"Seddow",9,"The Oz",7,0.6532923076923077
+"Seddow",9,"Kenneth Feld",8,0.2400262467191601
+"Seddow",9,"Seddow",9,1.0
+"Seddow",9,"Mick Fightmaster",10,0.2849740932642487
+"Seddow",9,"Itaer",11,0.06119815668202765
+"Seddow",9,"Dalros",12,0.04787512492266692
+"Seddow",9,"Mike Azariah",13,0.22769363911726526
+"Seddow",9,"Phantomite",14,0.06632558139534883
+"Seddow",9,"youngpuke2",15,0.7545567920184191
+"Seddow",9,"Kshal Aideron",16,0.6917710771490202
+"Seddow",9,"Machagon",17,0.011770381090207428
+"Seddow",9,"Rots Mijnwerker",18,0.07047968697164388
+"Seddow",9,"Gustav Mannfred",19,0.025242811808827773
+"Seddow",9,"Drake Iddon",20,0.1917100877810637
+"Seddow",9,"DutchGunner",21,0.018164157357940747
+"Seddow",9,"Ankh Lai",22,0.37396094141211816
+"Seddow",9,"Gideon Zendikar",23,0.03815492604662823
+"Seddow",9,"Creatnos",24,0.04927334262392992
+"Seddow",9,"SeriesPro",25,0.00861040510399917
+"Seddow",9,"steven mardis",26,0.008888888888888889
+"Seddow",9,"Komo Sunder",27,0.10116077792485491
+"Seddow",9,"Aurous Victoirespere",28,0.017788752267687967
+"Seddow",9,"Switch 4",29,0.10957511689367758
+"Seddow",9,"Viciate",30,0.01827568404749613
+"Seddow",9,"Frozen Fallout",31,0.018298215545921967
+"Seddow",9,"Prospektor Schipplock",32,0.005000515517063615
+"Seddow",9,"SKALE Organa",33,0.0060093705438989614
+"Seddow",9,"Bexey Songweaver",34,0.008779497589444303
+"Seddow",9,"Hexator Gaming",35,0.01503606623996749
+"Seddow",9,"MILINT ARC Trooper",36,0.020187528821027822
+"Seddow",9,"NeoShocker",37,0.005203503348789284
+"Seddow",9,"Aqustin Agustus",38,0.004206854093987277
+"Seddow",9,"Grima The Mad",39,0.005719830447883152
+"Seddow",9,"Frippyy",40,0.008452164894996112
+"Seddow",9,"Mcopiate",41,0.004277963272120201
+"Seddow",9,"Styxx",42,0.009165021013722213
+"Seddow",9,"commander Shepard Brotherhood",43,0.0027674795049866846
+"Seddow",9,"Colby Bosh'tet",44,0.004362777806292665
+"Seddow",9,"Aerodinamica Attiva",45,0.00417144644905621
+"Seddow",9,"Redus Taw",46,0.022251240532776183
+"Seddow",9,"AtheistOfFail",47,0.002467062096477875
+"Mick Fightmaster",10,"Kazanir",1,0.013157894736842105
+"Mick Fightmaster",10,"Luke Anninan",2,0.2776839125074204
+"Mick Fightmaster",10,"Zintage Enaka",3,0.06320666262202856
+"Mick Fightmaster",10,"Ariel Rin",4,0.28408835305231905
+"Mick Fightmaster",10,"Dujek Oneye",5,0.3063606884509853
+"Mick Fightmaster",10,"Storm Delay",6,0.02879005985301917
+"Mick Fightmaster",10,"The Oz",7,0.30195299289820765
+"Mick Fightmaster",10,"Kenneth Feld",8,0.348912109934154
+"Mick Fightmaster",10,"Seddow",9,0.2849740932642487
+"Mick Fightmaster",10,"Mick Fightmaster",10,1.0
+"Mick Fightmaster",10,"Itaer",11,0.08597575660271334
+"Mick Fightmaster",10,"Dalros",12,0.03155899802241266
+"Mick Fightmaster",10,"Mike Azariah",13,0.42710223835450695
+"Mick Fightmaster",10,"Phantomite",14,0.16302841302841303
+"Mick Fightmaster",10,"youngpuke2",15,0.3096827239311279
+"Mick Fightmaster",10,"Kshal Aideron",16,0.3305777086170006
+"Mick Fightmaster",10,"Machagon",17,0.049771271729185725
+"Mick Fightmaster",10,"Rots Mijnwerker",18,0.09307546192367466
+"Mick Fightmaster",10,"Gustav Mannfred",19,0.050653159157557984
+"Mick Fightmaster",10,"Drake Iddon",20,0.2120079340860543
+"Mick Fightmaster",10,"DutchGunner",21,0.04085709097512257
+"Mick Fightmaster",10,"Ankh Lai",22,0.015052059755545496
+"Mick Fightmaster",10,"Gideon Zendikar",23,0.06147579804868807
+"Mick Fightmaster",10,"Creatnos",24,0.033184656556645854
+"Mick Fightmaster",10,"SeriesPro",25,0.006069802731411229
+"Mick Fightmaster",10,"steven mardis",26,0.02474437627811861
+"Mick Fightmaster",10,"Komo Sunder",27,0.03498592030036692
+"Mick Fightmaster",10,"Aurous Victoirespere",28,0.06660684016352578
+"Mick Fightmaster",10,"Switch 4",29,0.026810990840965863
+"Mick Fightmaster",10,"Viciate",30,0.034817813765182185
+"Mick Fightmaster",10,"Frozen Fallout",31,0.03691860465116279
+"Mick Fightmaster",10,"Prospektor Schipplock",32,0.005735560474944657
+"Mick Fightmaster",10,"SKALE Organa",33,0.05363748458692972
+"Mick Fightmaster",10,"Bexey Songweaver",34,0.02326957207651351
+"Mick Fightmaster",10,"Hexator Gaming",35,0.0250342264815177
+"Mick Fightmaster",10,"MILINT ARC Trooper",36,0.019886363636363636
+"Mick Fightmaster",10,"NeoShocker",37,0.01862026862026862
+"Mick Fightmaster",10,"Aqustin Agustus",38,0.03524817593258658
+"Mick Fightmaster",10,"Grima The Mad",39,0.03199352029968614
+"Mick Fightmaster",10,"Frippyy",40,0.01025693104498832
+"Mick Fightmaster",10,"Mcopiate",41,0.007960301871187842
+"Mick Fightmaster",10,"Styxx",42,0.008216529724504592
+"Mick Fightmaster",10,"commander Shepard Brotherhood",43,0.0038274542257163546
+"Mick Fightmaster",10,"Colby Bosh'tet",44,0.03943836465001033
+"Mick Fightmaster",10,"Aerodinamica Attiva",45,0.009831315326503156
+"Mick Fightmaster",10,"Redus Taw",46,0.004488330341113106
+"Mick Fightmaster",10,"AtheistOfFail",47,0.0027162557459256163
+"Itaer",11,"Kazanir",1,0.008235382196601033
+"Itaer",11,"Luke Anninan",2,0.037794412999817416
+"Itaer",11,"Zintage Enaka",3,0.0037193333810170946
+"Itaer",11,"Ariel Rin",4,0.025753907109839314
+"Itaer",11,"Dujek Oneye",5,0.015369696969696969
+"Itaer",11,"Storm Delay",6,0.09182604139376474
+"Itaer",11,"The Oz",7,0.05013355249640435
+"Itaer",11,"Kenneth Feld",8,0.060745477230193384
+"Itaer",11,"Seddow",9,0.06119815668202765
+"Itaer",11,"Mick Fightmaster",10,0.08597575660271334
+"Itaer",11,"Itaer",11,1.0
+"Itaer",11,"Dalros",12,0.09037769784172661
+"Itaer",11,"Mike Azariah",13,0.04413116763714373
+"Itaer",11,"Phantomite",14,0.21268712020157107
+"Itaer",11,"youngpuke2",15,0.05117465819372232
+"Itaer",11,"Kshal Aideron",16,0.032249031595650346
+"Itaer",11,"Machagon",17,0.04425075427422058
+"Itaer",11,"Rots Mijnwerker",18,0.14074757729580065
+"Itaer",11,"Gustav Mannfred",19,0.07464880757922247
+"Itaer",11,"Drake Iddon",20,0.11702350965575146
+"Itaer",11,"DutchGunner",21,0.04239986592927769
+"Itaer",11,"Ankh Lai",22,0.004351610095735422
+"Itaer",11,"Gideon Zendikar",23,0.12575528700906344
+"Itaer",11,"Creatnos",24,0.11643473665668487
+"Itaer",11,"SeriesPro",25,0.011620400258231117
+"Itaer",11,"steven mardis",26,0.020286141362374548
+"Itaer",11,"Komo Sunder",27,0.021361815754339118
+"Itaer",11,"Aurous Victoirespere",28,0.077881004151018
+"Itaer",11,"Switch 4",29,0.04204645692443399
+"Itaer",11,"Viciate",30,0.029138251704897707
+"Itaer",11,"Frozen Fallout",31,0.06291390728476821
+"Itaer",11,"Prospektor Schipplock",32,0.011066184294530752
+"Itaer",11,"SKALE Organa",33,0.028536234859371793
+"Itaer",11,"Bexey Songweaver",34,0.023524720893141945
+"Itaer",11,"Hexator Gaming",35,0.05839563548191554
+"Itaer",11,"MILINT ARC Trooper",36,0.028872958980485863
+"Itaer",11,"NeoShocker",37,0.025381802538180252
+"Itaer",11,"Aqustin Agustus",38,0.017699115044247787
+"Itaer",11,"Grima The Mad",39,0.024425584765058996
+"Itaer",11,"Frippyy",40,0.01096067053513862
+"Itaer",11,"Mcopiate",41,0.006477551932097387
+"Itaer",11,"Styxx",42,0.021067139200630046
+"Itaer",11,"commander Shepard Brotherhood",43,0.008593396653098146
+"Itaer",11,"Colby Bosh'tet",44,0.02398641477393335
+"Itaer",11,"Aerodinamica Attiva",45,0.02057427085688447
+"Itaer",11,"Redus Taw",46,0.08887886307241145
+"Itaer",11,"AtheistOfFail",47,0.005310551835603787
+"Dalros",12,"Kazanir",1,0.010627078770179281
+"Dalros",12,"Luke Anninan",2,0.042962749615975425
+"Dalros",12,"Zintage Enaka",3,0.02406038685327882
+"Dalros",12,"Ariel Rin",4,0.017435756994842302
+"Dalros",12,"Dujek Oneye",5,0.011981520028430725
+"Dalros",12,"Storm Delay",6,0.14308004368856295
+"Dalros",12,"The Oz",7,0.03920406435224386
+"Dalros",12,"Kenneth Feld",8,0.08177289125579797
+"Dalros",12,"Seddow",9,0.04787512492266692
+"Dalros",12,"Mick Fightmaster",10,0.03155899802241266
+"Dalros",12,"Itaer",11,0.09037769784172661
+"Dalros",12,"Dalros",12,1.0
+"Dalros",12,"Mike Azariah",13,0.04748070058935835
+"Dalros",12,"Phantomite",14,0.03164101826549691
+"Dalros",12,"youngpuke2",15,0.041508301660332064
+"Dalros",12,"Kshal Aideron",16,0.03015958225562442
+"Dalros",12,"Machagon",17,0.04315684315684316
+"Dalros",12,"Rots Mijnwerker",18,0.13097969991173875
+"Dalros",12,"Gustav Mannfred",19,0.040149393090569564
+"Dalros",12,"Drake Iddon",20,0.01839323467230444
+"Dalros",12,"DutchGunner",21,0.05785627283800244
+"Dalros",12,"Ankh Lai",22,0.011863526151714583
+"Dalros",12,"Gideon Zendikar",23,0.026528497409326425
+"Dalros",12,"Creatnos",24,0.17275528169014084
+"Dalros",12,"SeriesPro",25,0.02243145942952091
+"Dalros",12,"steven mardis",26,0.013717052178590641
+"Dalros",12,"Komo Sunder",27,0.01890064158141148
+"Dalros",12,"Aurous Victoirespere",28,0.027039519297434714
+"Dalros",12,"Switch 4",29,0.030338983050847458
+"Dalros",12,"Viciate",30,0.020298047276464542
+"Dalros",12,"Frozen Fallout",31,0.04462188821042743
+"Dalros",12,"Prospektor Schipplock",32,0.0362780393242869
+"Dalros",12,"SKALE Organa",33,0.02222789984670414
+"Dalros",12,"Bexey Songweaver",34,0.09358430540827148
+"Dalros",12,"Hexator Gaming",35,0.024963645176926806
+"Dalros",12,"MILINT ARC Trooper",36,0.04315102860010035
+"Dalros",12,"NeoShocker",37,0.022028827848789775
+"Dalros",12,"Aqustin Agustus",38,0.02357353335119207
+"Dalros",12,"Grima The Mad",39,0.03520756699947451
+"Dalros",12,"Frippyy",40,0.022978959025470654
+"Dalros",12,"Mcopiate",41,0.019830854476523767
+"Dalros",12,"Styxx",42,0.04660486093710849
+"Dalros",12,"commander Shepard Brotherhood",43,0.01799410029498525
+"Dalros",12,"Colby Bosh'tet",44,0.0225140712945591
+"Dalros",12,"Aerodinamica Attiva",45,0.025153553670663936
+"Dalros",12,"Redus Taw",46,0.12558962264150944
+"Dalros",12,"AtheistOfFail",47,0.018885166006701187
+"Mike Azariah",13,"Kazanir",1,0.0253461244958029
+"Mike Azariah",13,"Luke Anninan",2,0.2502782848746605
+"Mike Azariah",13,"Zintage Enaka",3,0.0167383775842166
+"Mike Azariah",13,"Ariel Rin",4,0.2727272727272727
+"Mike Azariah",13,"Dujek Oneye",5,0.2523702891991043
+"Mike Azariah",13,"Storm Delay",6,0.08408622602631162
+"Mike Azariah",13,"The Oz",7,0.3213735887786521
+"Mike Azariah",13,"Kenneth Feld",8,0.43179928965465125
+"Mike Azariah",13,"Seddow",9,0.22769363911726526
+"Mike Azariah",13,"Mick Fightmaster",10,0.42710223835450695
+"Mike Azariah",13,"Itaer",11,0.04413116763714373
+"Mike Azariah",13,"Dalros",12,0.04748070058935835
+"Mike Azariah",13,"Mike Azariah",13,1.0
+"Mike Azariah",13,"Phantomite",14,0.12904841402337228
+"Mike Azariah",13,"youngpuke2",15,0.23344678919900158
+"Mike Azariah",13,"Kshal Aideron",16,0.29837832726585034
+"Mike Azariah",13,"Machagon",17,0.10155134672123346
+"Mike Azariah",13,"Rots Mijnwerker",18,0.11140144586708475
+"Mike Azariah",13,"Gustav Mannfred",19,0.07443453185545643
+"Mike Azariah",13,"Drake Iddon",20,0.10590758162700609
+"Mike Azariah",13,"DutchGunner",21,0.12731526613374927
+"Mike Azariah",13,"Ankh Lai",22,0.025469016486640135
+"Mike Azariah",13,"Gideon Zendikar",23,0.0547625711353671
+"Mike Azariah",13,"Creatnos",24,0.05195857721746961
+"Mike Azariah",13,"SeriesPro",25,0.007926951635560908
+"Mike Azariah",13,"steven mardis",26,0.012605042016806723
+"Mike Azariah",13,"Komo Sunder",27,0.04799040191961608
+"Mike Azariah",13,"Aurous Victoirespere",28,0.0638486550399054
+"Mike Azariah",13,"Switch 4",29,0.04155495978552279
+"Mike Azariah",13,"Viciate",30,0.03188405797101449
+"Mike Azariah",13,"Frozen Fallout",31,0.06058523173605656
+"Mike Azariah",13,"Prospektor Schipplock",32,0.02456104739673196
+"Mike Azariah",13,"SKALE Organa",33,0.02759031361651449
+"Mike Azariah",13,"Bexey Songweaver",34,0.03979358936191327
+"Mike Azariah",13,"Hexator Gaming",35,0.024394966118102615
+"Mike Azariah",13,"MILINT ARC Trooper",36,0.045974723853119716
+"Mike Azariah",13,"NeoShocker",37,0.02193248433393976
+"Mike Azariah",13,"Aqustin Agustus",38,0.02508816120906801
+"Mike Azariah",13,"Grima The Mad",39,0.027450588939908167
+"Mike Azariah",13,"Frippyy",40,0.016284009305148173
+"Mike Azariah",13,"Mcopiate",41,0.008704557091653867
+"Mike Azariah",13,"Styxx",42,0.05089820359281437
+"Mike Azariah",13,"commander Shepard Brotherhood",43,0.006054386865059005
+"Mike Azariah",13,"Colby Bosh'tet",44,0.02831715210355987
+"Mike Azariah",13,"Aerodinamica Attiva",45,0.0131551901336074
+"Mike Azariah",13,"Redus Taw",46,0.0123419926346173
+"Mike Azariah",13,"AtheistOfFail",47,0.006956702315439726
+"Phantomite",14,"Kazanir",1,0.022727272727272728
+"Phantomite",14,"Luke Anninan",2,0.02448739419725705
+"Phantomite",14,"Zintage Enaka",3,0.010737865486468838
+"Phantomite",14,"Ariel Rin",4,0.059753312014618545
+"Phantomite",14,"Dujek Oneye",5,0.0314789150663235
+"Phantomite",14,"Storm Delay",6,0.034166561989699785
+"Phantomite",14,"The Oz",7,0.07705653351387949
+"Phantomite",14,"Kenneth Feld",8,0.03045336589833613
+"Phantomite",14,"Seddow",9,0.06632558139534883
+"Phantomite",14,"Mick Fightmaster",10,0.16302841302841303
+"Phantomite",14,"Itaer",11,0.21268712020157107
+"Phantomite",14,"Dalros",12,0.03164101826549691
+"Phantomite",14,"Mike Azariah",13,0.12904841402337228
+"Phantomite",14,"Phantomite",14,1.0
+"Phantomite",14,"youngpuke2",15,0.05983614551838486
+"Phantomite",14,"Kshal Aideron",16,0.06121662007133905
+"Phantomite",14,"Machagon",17,0.12234432234432234
+"Phantomite",14,"Rots Mijnwerker",18,0.17192757570902098
+"Phantomite",14,"Gustav Mannfred",19,0.10793705097502566
+"Phantomite",14,"Drake Iddon",20,0.2361909229506274
+"Phantomite",14,"DutchGunner",21,0.13696338970451588
+"Phantomite",14,"Ankh Lai",22,0.008247257586676274
+"Phantomite",14,"Gideon Zendikar",23,0.17576243980738362
+"Phantomite",14,"Creatnos",24,0.028025057698648204
+"Phantomite",14,"SeriesPro",25,0.017703031644169063
+"Phantomite",14,"steven mardis",26,0.025663522702347005
+"Phantomite",14,"Komo Sunder",27,0.030851063829787233
+"Phantomite",14,"Aurous Victoirespere",28,0.17604395604395603
+"Phantomite",14,"Switch 4",29,0.05131677953348382
+"Phantomite",14,"Viciate",30,0.1053704962610469
+"Phantomite",14,"Frozen Fallout",31,0.1093847110006215
+"Phantomite",14,"Prospektor Schipplock",32,0.019517543859649124
+"Phantomite",14,"SKALE Organa",33,0.05321888412017167
+"Phantomite",14,"Bexey Songweaver",34,0.029670554532432985
+"Phantomite",14,"Hexator Gaming",35,0.0693316677076827
+"Phantomite",14,"MILINT ARC Trooper",36,0.0576320735017749
+"Phantomite",14,"NeoShocker",37,0.04339074032654887
+"Phantomite",14,"Aqustin Agustus",38,0.02827316224445411
+"Phantomite",14,"Grima The Mad",39,0.041693531055233185
+"Phantomite",14,"Frippyy",40,0.023576512455516015
+"Phantomite",14,"Mcopiate",41,0.013112491373360938
+"Phantomite",14,"Styxx",42,0.024793388429752067
+"Phantomite",14,"commander Shepard Brotherhood",43,0.0165616981572195
+"Phantomite",14,"Colby Bosh'tet",44,0.05874439461883408
+"Phantomite",14,"Aerodinamica Attiva",45,0.027719543442813882
+"Phantomite",14,"Redus Taw",46,0.011777301927194861
+"Phantomite",14,"AtheistOfFail",47,0.012380952380952381
+"youngpuke2",15,"Kazanir",1,0.4072607948330642
+"youngpuke2",15,"Luke Anninan",2,0.7326553024877047
+"youngpuke2",15,"Zintage Enaka",3,0.4365170294760962
+"youngpuke2",15,"Ariel Rin",4,0.6838473840530044
+"youngpuke2",15,"Dujek Oneye",5,0.7410155461336564
+"youngpuke2",15,"Storm Delay",6,0.044977081741787626
+"youngpuke2",15,"The Oz",7,0.6535306553911205
+"youngpuke2",15,"Kenneth Feld",8,0.23697157434402333
+"youngpuke2",15,"Seddow",9,0.7545567920184191
+"youngpuke2",15,"Mick Fightmaster",10,0.3096827239311279
+"youngpuke2",15,"Itaer",11,0.05117465819372232
+"youngpuke2",15,"Dalros",12,0.041508301660332064
+"youngpuke2",15,"Mike Azariah",13,0.23344678919900158
+"youngpuke2",15,"Phantomite",14,0.05983614551838486
+"youngpuke2",15,"youngpuke2",15,1.0
+"youngpuke2",15,"Kshal Aideron",16,0.716010776484172
+"youngpuke2",15,"Machagon",17,0.023702323655747037
+"youngpuke2",15,"Rots Mijnwerker",18,0.06027812895069532
+"youngpuke2",15,"Gustav Mannfred",19,0.02552346018645881
+"youngpuke2",15,"Drake Iddon",20,0.17173576133281673
+"youngpuke2",15,"DutchGunner",21,0.018179009166752497
+"youngpuke2",15,"Ankh Lai",22,0.38693653226232627
+"youngpuke2",15,"Gideon Zendikar",23,0.021944066198805907
+"youngpuke2",15,"Creatnos",24,0.05517534086688949
+"youngpuke2",15,"SeriesPro",25,0.0024165202108963092
+"youngpuke2",15,"steven mardis",26,0.002845105870766537
+"youngpuke2",15,"Komo Sunder",27,0.09476616488991269
+"youngpuke2",15,"Aurous Victoirespere",28,0.00907980672224287
+"youngpuke2",15,"Switch 4",29,0.11303456830070646
+"youngpuke2",15,"Viciate",30,0.019250866288983003
+"youngpuke2",15,"Frozen Fallout",31,0.021605933569816188
+"youngpuke2",15,"Prospektor Schipplock",32,0.0026295606442423578
+"youngpuke2",15,"SKALE Organa",33,0.0060707897447016095
+"youngpuke2",15,"Bexey Songweaver",34,0.00624697075771447
+"youngpuke2",15,"Hexator Gaming",35,0.01086781083553021
+"youngpuke2",15,"MILINT ARC Trooper",36,0.014031095942358742
+"youngpuke2",15,"NeoShocker",37,0.007757055619739231
+"youngpuke2",15,"Aqustin Agustus",38,0.004920452681646712
+"youngpuke2",15,"Grima The Mad",39,0.005762748722409481
+"youngpuke2",15,"Frippyy",40,0.006506037382146992
+"youngpuke2",15,"Mcopiate",41,0.004003336113427856
+"youngpuke2",15,"Styxx",42,0.006121462707404822
+"youngpuke2",15,"commander Shepard Brotherhood",43,0.0020027816411682894
+"youngpuke2",15,"Colby Bosh'tet",44,0.0038240917782026767
+"youngpuke2",15,"Aerodinamica Attiva",45,0.0034438704660334388
+"youngpuke2",15,"Redus Taw",46,0.01952734938422279
+"youngpuke2",15,"AtheistOfFail",47,0.0021829172730325756
+"Kshal Aideron",16,"Kazanir",1,0.37849028023226455
+"Kshal Aideron",16,"Luke Anninan",2,0.7264658672457747
+"Kshal Aideron",16,"Zintage Enaka",3,0.4358511953833471
+"Kshal Aideron",16,"Ariel Rin",4,0.7518516771241214
+"Kshal Aideron",16,"Dujek Oneye",5,0.7836590244653023
+"Kshal Aideron",16,"Storm Delay",6,0.03058900097624471
+"Kshal Aideron",16,"The Oz",7,0.7519459146911
+"Kshal Aideron",16,"Kenneth Feld",8,0.22892591597240886
+"Kshal Aideron",16,"Seddow",9,0.6917710771490202
+"Kshal Aideron",16,"Mick Fightmaster",10,0.3305777086170006
+"Kshal Aideron",16,"Itaer",11,0.032249031595650346
+"Kshal Aideron",16,"Dalros",12,0.03015958225562442
+"Kshal Aideron",16,"Mike Azariah",13,0.29837832726585034
+"Kshal Aideron",16,"Phantomite",14,0.06121662007133905
+"Kshal Aideron",16,"youngpuke2",15,0.716010776484172
+"Kshal Aideron",16,"Kshal Aideron",16,1.0
+"Kshal Aideron",16,"Machagon",17,0.04239401496259352
+"Kshal Aideron",16,"Rots Mijnwerker",18,0.06564364876385337
+"Kshal Aideron",16,"Gustav Mannfred",19,0.024594689554785925
+"Kshal Aideron",16,"Drake Iddon",20,0.20061804090842203
+"Kshal Aideron",16,"DutchGunner",21,0.045077909218823285
+"Kshal Aideron",16,"Ankh Lai",22,0.3968722026222948
+"Kshal Aideron",16,"Gideon Zendikar",23,0.025699481865284975
+"Kshal Aideron",16,"Creatnos",24,0.025156273822229
+"Kshal Aideron",16,"SeriesPro",25,0.002921919809534116
+"Kshal Aideron",16,"steven mardis",26,0.0037752130298781147
+"Kshal Aideron",16,"Komo Sunder",27,0.11680681328158689
+"Kshal Aideron",16,"Aurous Victoirespere",28,0.04068418496735553
+"Kshal Aideron",16,"Switch 4",29,0.10880279824050029
+"Kshal Aideron",16,"Viciate",30,0.012049488972565896
+"Kshal Aideron",16,"Frozen Fallout",31,0.02301532587368086
+"Kshal Aideron",16,"Prospektor Schipplock",32,0.008683853459972864
+"Kshal Aideron",16,"SKALE Organa",33,0.013717790090913982
+"Kshal Aideron",16,"Bexey Songweaver",34,0.015580660705680784
+"Kshal Aideron",16,"Hexator Gaming",35,0.007980550710850378
+"Kshal Aideron",16,"MILINT ARC Trooper",36,0.010369031160268
+"Kshal Aideron",16,"NeoShocker",37,0.00632979874486042
+"Kshal Aideron",16,"Aqustin Agustus",38,0.008265355734428178
+"Kshal Aideron",16,"Grima The Mad",39,0.009893005000268832
+"Kshal Aideron",16,"Frippyy",40,0.006406080347448426
+"Kshal Aideron",16,"Mcopiate",41,0.005647858748697702
+"Kshal Aideron",16,"Styxx",42,0.008055967776128896
+"Kshal Aideron",16,"commander Shepard Brotherhood",43,0.003455652460095442
+"Kshal Aideron",16,"Colby Bosh'tet",44,0.012535952678135344
+"Kshal Aideron",16,"Aerodinamica Attiva",45,0.0031162866983762507
+"Kshal Aideron",16,"Redus Taw",46,0.0022019334049409238
+"Kshal Aideron",16,"AtheistOfFail",47,0.0024802954307446396
+"Machagon",17,"Kazanir",1,0.013407920440419108
+"Machagon",17,"Luke Anninan",2,0.011295291183805192
+"Machagon",17,"Zintage Enaka",3,0.00935288169868554
+"Machagon",17,"Ariel Rin",4,0.04274846625766871
+"Machagon",17,"Dujek Oneye",5,0.02158039915625507
+"Machagon",17,"Storm Delay",6,0.03034776902887139
+"Machagon",17,"The Oz",7,0.05960593354073673
+"Machagon",17,"Kenneth Feld",8,0.023666016663712108
+"Machagon",17,"Seddow",9,0.011770381090207428
+"Machagon",17,"Mick Fightmaster",10,0.049771271729185725
+"Machagon",17,"Itaer",11,0.04425075427422058
+"Machagon",17,"Dalros",12,0.04315684315684316
+"Machagon",17,"Mike Azariah",13,0.10155134672123346
+"Machagon",17,"Phantomite",14,0.12234432234432234
+"Machagon",17,"youngpuke2",15,0.023702323655747037
+"Machagon",17,"Kshal Aideron",16,0.04239401496259352
+"Machagon",17,"Machagon",17,1.0
+"Machagon",17,"Rots Mijnwerker",18,0.12765509989484752
+"Machagon",17,"Gustav Mannfred",19,0.07176693510184746
+"Machagon",17,"Drake Iddon",20,0.07807204719467804
+"Machagon",17,"DutchGunner",21,0.16531468531468532
+"Machagon",17,"Ankh Lai",22,0.011887779362815026
+"Machagon",17,"Gideon Zendikar",23,0.052801724137931036
+"Machagon",17,"Creatnos",24,0.030303030303030304
+"Machagon",17,"SeriesPro",25,0.01768550557477893
+"Machagon",17,"steven mardis",26,0.02290649643259482
+"Machagon",17,"Komo Sunder",27,0.02113718030014796
+"Machagon",17,"Aurous Victoirespere",28,0.12289395441030723
+"Machagon",17,"Switch 4",29,0.04202028565514386
+"Machagon",17,"Viciate",30,0.03028169014084507
+"Machagon",17,"Frozen Fallout",31,0.07384032817923636
+"Machagon",17,"Prospektor Schipplock",32,0.028604118993135013
+"Machagon",17,"SKALE Organa",33,0.03938115330520394
+"Machagon",17,"Bexey Songweaver",34,0.07317073170731707
+"Machagon",17,"Hexator Gaming",35,0.04154399738305528
+"Machagon",17,"MILINT ARC Trooper",36,0.05489664520501525
+"Machagon",17,"NeoShocker",37,0.04065976217874952
+"Machagon",17,"Aqustin Agustus",38,0.04321683577602405
+"Machagon",17,"Grima The Mad",39,0.05158009444242644
+"Machagon",17,"Frippyy",40,0.022376543209876542
+"Machagon",17,"Mcopiate",41,0.018695471541337765
+"Machagon",17,"Styxx",42,0.02924745317121262
+"Machagon",17,"commander Shepard Brotherhood",43,0.012626262626262626
+"Machagon",17,"Colby Bosh'tet",44,0.03823088455772114
+"Machagon",17,"Aerodinamica Attiva",45,0.02756892230576441
+"Machagon",17,"Redus Taw",46,0.011674571324334184
+"Machagon",17,"AtheistOfFail",47,0.012769704975781594
+"Rots Mijnwerker",18,"Kazanir",1,0.03806541979072258
+"Rots Mijnwerker",18,"Luke Anninan",2,0.05754908598510494
+"Rots Mijnwerker",18,"Zintage Enaka",3,0.021017527532185512
+"Rots Mijnwerker",18,"Ariel Rin",4,0.05532555513737298
+"Rots Mijnwerker",18,"Dujek Oneye",5,0.04792232198788891
+"Rots Mijnwerker",18,"Storm Delay",6,0.1168112473825905
+"Rots Mijnwerker",18,"The Oz",7,0.0694420377750823
+"Rots Mijnwerker",18,"Kenneth Feld",8,0.08577031289965044
+"Rots Mijnwerker",18,"Seddow",9,0.07047968697164388
+"Rots Mijnwerker",18,"Mick Fightmaster",10,0.09307546192367466
+"Rots Mijnwerker",18,"Itaer",11,0.14074757729580065
+"Rots Mijnwerker",18,"Dalros",12,0.13097969991173875
+"Rots Mijnwerker",18,"Mike Azariah",13,0.11140144586708475
+"Rots Mijnwerker",18,"Phantomite",14,0.17192757570902098
+"Rots Mijnwerker",18,"youngpuke2",15,0.06027812895069532
+"Rots Mijnwerker",18,"Kshal Aideron",16,0.06564364876385337
+"Rots Mijnwerker",18,"Machagon",17,0.12765509989484752
+"Rots Mijnwerker",18,"Rots Mijnwerker",18,1.0
+"Rots Mijnwerker",18,"Gustav Mannfred",19,0.05136229749631811
+"Rots Mijnwerker",18,"Drake Iddon",20,0.12021544808617923
+"Rots Mijnwerker",18,"DutchGunner",21,0.11152647975077881
+"Rots Mijnwerker",18,"Ankh Lai",22,0.024872172631943842
+"Rots Mijnwerker",18,"Gideon Zendikar",23,0.06770069167889331
+"Rots Mijnwerker",18,"Creatnos",24,0.12159114209555054
+"Rots Mijnwerker",18,"SeriesPro",25,0.014289494575284467
+"Rots Mijnwerker",18,"steven mardis",26,0.0121667098110277
+"Rots Mijnwerker",18,"Komo Sunder",27,0.056911997189531
+"Rots Mijnwerker",18,"Aurous Victoirespere",28,0.15258924082453496
+"Rots Mijnwerker",18,"Switch 4",29,0.025725593667546173
+"Rots Mijnwerker",18,"Viciate",30,0.0402226157348849
+"Rots Mijnwerker",18,"Frozen Fallout",31,0.04676094890510949
+"Rots Mijnwerker",18,"Prospektor Schipplock",32,0.018892679086853843
+"Rots Mijnwerker",18,"SKALE Organa",33,0.03887634813142714
+"Rots Mijnwerker",18,"Bexey Songweaver",34,0.04201270151441133
+"Rots Mijnwerker",18,"Hexator Gaming",35,0.030174446016030174
+"Rots Mijnwerker",18,"MILINT ARC Trooper",36,0.026014319809069212
+"Rots Mijnwerker",18,"NeoShocker",37,0.022554419092578024
+"Rots Mijnwerker",18,"Aqustin Agustus",38,0.020607934054611025
+"Rots Mijnwerker",18,"Grima The Mad",39,0.02666666666666667
+"Rots Mijnwerker",18,"Frippyy",40,0.026217228464419477
+"Rots Mijnwerker",18,"Mcopiate",41,0.015066964285714286
+"Rots Mijnwerker",18,"Styxx",42,0.025896887621762888
+"Rots Mijnwerker",18,"commander Shepard Brotherhood",43,0.011830985915492958
+"Rots Mijnwerker",18,"Colby Bosh'tet",44,0.04160084254870985
+"Rots Mijnwerker",18,"Aerodinamica Attiva",45,0.016164994425863992
+"Rots Mijnwerker",18,"Redus Taw",46,0.10155815247634947
+"Rots Mijnwerker",18,"AtheistOfFail",47,0.008680555555555556
+"Gustav Mannfred",19,"Kazanir",1,0.02003295464400312
+"Gustav Mannfred",19,"Luke Anninan",2,0.016137604483741606
+"Gustav Mannfred",19,"Zintage Enaka",3,0.013482407102926669
+"Gustav Mannfred",19,"Ariel Rin",4,0.026183235126401826
+"Gustav Mannfred",19,"Dujek Oneye",5,0.016432421008136956
+"Gustav Mannfred",19,"Storm Delay",6,0.06557377049180328
+"Gustav Mannfred",19,"The Oz",7,0.053817603393425235
+"Gustav Mannfred",19,"Kenneth Feld",8,0.04149159663865546
+"Gustav Mannfred",19,"Seddow",9,0.025242811808827773
+"Gustav Mannfred",19,"Mick Fightmaster",10,0.050653159157557984
+"Gustav Mannfred",19,"Itaer",11,0.07464880757922247
+"Gustav Mannfred",19,"Dalros",12,0.040149393090569564
+"Gustav Mannfred",19,"Mike Azariah",13,0.07443453185545643
+"Gustav Mannfred",19,"Phantomite",14,0.10793705097502566
+"Gustav Mannfred",19,"youngpuke2",15,0.02552346018645881
+"Gustav Mannfred",19,"Kshal Aideron",16,0.024594689554785925
+"Gustav Mannfred",19,"Machagon",17,0.07176693510184746
+"Gustav Mannfred",19,"Rots Mijnwerker",18,0.05136229749631811
+"Gustav Mannfred",19,"Gustav Mannfred",19,1.0
+"Gustav Mannfred",19,"Drake Iddon",20,0.07492483463619964
+"Gustav Mannfred",19,"DutchGunner",21,0.12034739454094293
+"Gustav Mannfred",19,"Ankh Lai",22,0.012811059907834101
+"Gustav Mannfred",19,"Gideon Zendikar",23,0.07772151898734177
+"Gustav Mannfred",19,"Creatnos",24,0.04842724598325413
+"Gustav Mannfred",19,"SeriesPro",25,0.034530386740331494
+"Gustav Mannfred",19,"steven mardis",26,0.042401628222523746
+"Gustav Mannfred",19,"Komo Sunder",27,0.01888276947285602
+"Gustav Mannfred",19,"Aurous Victoirespere",28,0.032791402590245246
+"Gustav Mannfred",19,"Switch 4",29,0.033007100364613316
+"Gustav Mannfred",19,"Viciate",30,0.030846710733396284
+"Gustav Mannfred",19,"Frozen Fallout",31,0.06379359228806351
+"Gustav Mannfred",19,"Prospektor Schipplock",32,0.04925938684119876
+"Gustav Mannfred",19,"SKALE Organa",33,0.035725477906612346
+"Gustav Mannfred",19,"Bexey Songweaver",34,0.05022970903522205
+"Gustav Mannfred",19,"Hexator Gaming",35,0.09891135303265941
+"Gustav Mannfred",19,"MILINT ARC Trooper",36,0.06523076923076923
+"Gustav Mannfred",19,"NeoShocker",37,0.030976430976430977
+"Gustav Mannfred",19,"Aqustin Agustus",38,0.03751660026560425
+"Gustav Mannfred",19,"Grima The Mad",39,0.04543989687399291
+"Gustav Mannfred",19,"Frippyy",40,0.03235800344234079
+"Gustav Mannfred",19,"Mcopiate",41,0.01632801161103048
+"Gustav Mannfred",19,"Styxx",42,0.042527702905061394
+"Gustav Mannfred",19,"commander Shepard Brotherhood",43,0.02492559523809524
+"Gustav Mannfred",19,"Colby Bosh'tet",44,0.025649457415323908
+"Gustav Mannfred",19,"Aerodinamica Attiva",45,0.027808269301134284
+"Gustav Mannfred",19,"Redus Taw",46,0.027649769585253458
+"Gustav Mannfred",19,"AtheistOfFail",47,0.02120277563608327
+"Drake Iddon",20,"Kazanir",1,0.02859742623163915
+"Drake Iddon",20,"Luke Anninan",2,0.1636911662415952
+"Drake Iddon",20,"Zintage Enaka",3,0.0777120315581854
+"Drake Iddon",20,"Ariel Rin",4,0.20612014665789227
+"Drake Iddon",20,"Dujek Oneye",5,0.16644973968762514
+"Drake Iddon",20,"Storm Delay",6,0.02119938884644767
+"Drake Iddon",20,"The Oz",7,0.19443731279418058
+"Drake Iddon",20,"Kenneth Feld",8,0.02682534577034416
+"Drake Iddon",20,"Seddow",9,0.1917100877810637
+"Drake Iddon",20,"Mick Fightmaster",10,0.2120079340860543
+"Drake Iddon",20,"Itaer",11,0.11702350965575146
+"Drake Iddon",20,"Dalros",12,0.01839323467230444
+"Drake Iddon",20,"Mike Azariah",13,0.10590758162700609
+"Drake Iddon",20,"Phantomite",14,0.2361909229506274
+"Drake Iddon",20,"youngpuke2",15,0.17173576133281673
+"Drake Iddon",20,"Kshal Aideron",16,0.20061804090842203
+"Drake Iddon",20,"Machagon",17,0.07807204719467804
+"Drake Iddon",20,"Rots Mijnwerker",18,0.12021544808617923
+"Drake Iddon",20,"Gustav Mannfred",19,0.07492483463619964
+"Drake Iddon",20,"Drake Iddon",20,1.0
+"Drake Iddon",20,"DutchGunner",21,0.10854115518800879
+"Drake Iddon",20,"Ankh Lai",22,0.009929553840992955
+"Drake Iddon",20,"Gideon Zendikar",23,0.10636883393165802
+"Drake Iddon",20,"Creatnos",24,0.017907303370786515
+"Drake Iddon",20,"SeriesPro",25,0.00799543118218161
+"Drake Iddon",20,"steven mardis",26,0.01435474701534963
+"Drake Iddon",20,"Komo Sunder",27,0.278738414718495
+"Drake Iddon",20,"Aurous Victoirespere",28,0.11663807890222985
+"Drake Iddon",20,"Switch 4",29,0.2895167895167895
+"Drake Iddon",20,"Viciate",30,0.044103001849480725
+"Drake Iddon",20,"Frozen Fallout",31,0.06644835584663665
+"Drake Iddon",20,"Prospektor Schipplock",32,0.010373738809151626
+"Drake Iddon",20,"SKALE Organa",33,0.03686506261432391
+"Drake Iddon",20,"Bexey Songweaver",34,0.01641345632121541
+"Drake Iddon",20,"Hexator Gaming",35,0.04011500547645126
+"Drake Iddon",20,"MILINT ARC Trooper",36,0.042815574338367746
+"Drake Iddon",20,"NeoShocker",37,0.01843647277404602
+"Drake Iddon",20,"Aqustin Agustus",38,0.01424943566591422
+"Drake Iddon",20,"Grima The Mad",39,0.020527859237536656
+"Drake Iddon",20,"Frippyy",40,0.016551525618883133
+"Drake Iddon",20,"Mcopiate",41,0.013284132841328414
+"Drake Iddon",20,"Styxx",42,0.013840365493147003
+"Drake Iddon",20,"commander Shepard Brotherhood",43,0.005752212389380531
+"Drake Iddon",20,"Colby Bosh'tet",44,0.03980891719745223
+"Drake Iddon",20,"Aerodinamica Attiva",45,0.015964523281596452
+"Drake Iddon",20,"Redus Taw",46,0.005879059350503919
+"Drake Iddon",20,"AtheistOfFail",47,0.0059943054098606325
+"DutchGunner",21,"Kazanir",1,0.01785236097473891
+"DutchGunner",21,"Luke Anninan",2,0.014178482068390326
+"DutchGunner",21,"Zintage Enaka",3,0.010980657150097137
+"DutchGunner",21,"Ariel Rin",4,0.043845851356665355
+"DutchGunner",21,"Dujek Oneye",5,0.018725379094490315
+"DutchGunner",21,"Storm Delay",6,0.039622015915119366
+"DutchGunner",21,"The Oz",7,0.05929834054834055
+"DutchGunner",21,"Kenneth Feld",8,0.03917507204610951
+"DutchGunner",21,"Seddow",9,0.018164157357940747
+"DutchGunner",21,"Mick Fightmaster",10,0.04085709097512257
+"DutchGunner",21,"Itaer",11,0.04239986592927769
+"DutchGunner",21,"Dalros",12,0.05785627283800244
+"DutchGunner",21,"Mike Azariah",13,0.12731526613374927
+"DutchGunner",21,"Phantomite",14,0.13696338970451588
+"DutchGunner",21,"youngpuke2",15,0.018179009166752497
+"DutchGunner",21,"Kshal Aideron",16,0.045077909218823285
+"DutchGunner",21,"Machagon",17,0.16531468531468532
+"DutchGunner",21,"Rots Mijnwerker",18,0.11152647975077881
+"DutchGunner",21,"Gustav Mannfred",19,0.12034739454094293
+"DutchGunner",21,"Drake Iddon",20,0.10854115518800879
+"DutchGunner",21,"DutchGunner",21,1.0
+"DutchGunner",21,"Ankh Lai",22,0.01431297709923664
+"DutchGunner",21,"Gideon Zendikar",23,0.06531839300355288
+"DutchGunner",21,"Creatnos",24,0.015201900237529691
+"DutchGunner",21,"SeriesPro",25,0.023680124223602484
+"DutchGunner",21,"steven mardis",26,0.03469309950438429
+"DutchGunner",21,"Komo Sunder",27,0.018162618796198522
+"DutchGunner",21,"Aurous Victoirespere",28,0.1266622340425532
+"DutchGunner",21,"Switch 4",29,0.04623073719283632
+"DutchGunner",21,"Viciate",30,0.04516129032258064
+"DutchGunner",21,"Frozen Fallout",31,0.14242424242424243
+"DutchGunner",21,"Prospektor Schipplock",32,0.08259468170829976
+"DutchGunner",21,"SKALE Organa",33,0.03842086711314769
+"DutchGunner",21,"Bexey Songweaver",34,0.08289241622574955
+"DutchGunner",21,"Hexator Gaming",35,0.056943056943056944
+"DutchGunner",21,"MILINT ARC Trooper",36,0.10584461867426942
+"DutchGunner",21,"NeoShocker",37,0.05380116959064327
+"DutchGunner",21,"Aqustin Agustus",38,0.045351473922902494
+"DutchGunner",21,"Grima The Mad",39,0.07010385756676558
+"DutchGunner",21,"Frippyy",40,0.03245991396167384
+"DutchGunner",21,"Mcopiate",41,0.02518891687657431
+"DutchGunner",21,"Styxx",42,0.05401755570560432
+"DutchGunner",21,"commander Shepard Brotherhood",43,0.022620571916346564
+"DutchGunner",21,"Colby Bosh'tet",44,0.038765525028227325
+"DutchGunner",21,"Aerodinamica Attiva",45,0.032448377581120944
+"DutchGunner",21,"Redus Taw",46,0.019933554817275746
+"DutchGunner",21,"AtheistOfFail",47,0.016873889875666074
+"Ankh Lai",22,"Kazanir",1,0.8004834323698258
+"Ankh Lai",22,"Luke Anninan",2,0.384223140074448
+"Ankh Lai",22,"Zintage Enaka",3,0.7561416872976576
+"Ankh Lai",22,"Ariel Rin",4,0.38883319967923013
+"Ankh Lai",22,"Dujek Oneye",5,0.4402090552746691
+"Ankh Lai",22,"Storm Delay",6,0.006714060031595577
+"Ankh Lai",22,"The Oz",7,0.35477891310245047
+"Ankh Lai",22,"Kenneth Feld",8,0.014359725194278635
+"Ankh Lai",22,"Seddow",9,0.37396094141211816
+"Ankh Lai",22,"Mick Fightmaster",10,0.015052059755545496
+"Ankh Lai",22,"Itaer",11,0.004351610095735422
+"Ankh Lai",22,"Dalros",12,0.011863526151714583
+"Ankh Lai",22,"Mike Azariah",13,0.025469016486640135
+"Ankh Lai",22,"Phantomite",14,0.008247257586676274
+"Ankh Lai",22,"youngpuke2",15,0.38693653226232627
+"Ankh Lai",22,"Kshal Aideron",16,0.3968722026222948
+"Ankh Lai",22,"Machagon",17,0.011887779362815026
+"Ankh Lai",22,"Rots Mijnwerker",18,0.024872172631943842
+"Ankh Lai",22,"Gustav Mannfred",19,0.012811059907834101
+"Ankh Lai",22,"Drake Iddon",20,0.009929553840992955
+"Ankh Lai",22,"DutchGunner",21,0.01431297709923664
+"Ankh Lai",22,"Ankh Lai",22,1.0
+"Ankh Lai",22,"Gideon Zendikar",23,0.006990291262135922
+"Ankh Lai",22,"Creatnos",24,0.0031734179578122084
+"Ankh Lai",22,"SeriesPro",25,0.005740147919196379
+"Ankh Lai",22,"steven mardis",26,0.0031662845288786988
+"Ankh Lai",22,"Komo Sunder",27,0.021802062601773115
+"Ankh Lai",22,"Aurous Victoirespere",28,0.0036633764119263254
+"Ankh Lai",22,"Switch 4",29,0.007977557640045586
+"Ankh Lai",22,"Viciate",30,0.004385495774949192
+"Ankh Lai",22,"Frozen Fallout",31,0.008895705521472393
+"Ankh Lai",22,"Prospektor Schipplock",32,0.005377524143985952
+"Ankh Lai",22,"SKALE Organa",33,0.005121638924455826
+"Ankh Lai",22,"Bexey Songweaver",34,0.011338349051605382
+"Ankh Lai",22,"Hexator Gaming",35,0.005733347232356927
+"Ankh Lai",22,"MILINT ARC Trooper",36,0.00398364608449523
+"Ankh Lai",22,"NeoShocker",37,0.005588428665351742
+"Ankh Lai",22,"Aqustin Agustus",38,0.008293321693583587
+"Ankh Lai",22,"Grima The Mad",39,0.005911435941530524
+"Ankh Lai",22,"Frippyy",40,0.02404494382022472
+"Ankh Lai",22,"Mcopiate",41,0.0059799165068261315
+"Ankh Lai",22,"Styxx",42,0.007348309888725593
+"Ankh Lai",22,"commander Shepard Brotherhood",43,0.00703905540417802
+"Ankh Lai",22,"Colby Bosh'tet",44,0.004459915152833678
+"Ankh Lai",22,"Aerodinamica Attiva",45,0.0034858877769031824
+"Ankh Lai",22,"Redus Taw",46,0.003694447462783875
+"Ankh Lai",22,"AtheistOfFail",47,0.005045871559633028
+"Gideon Zendikar",23,"Kazanir",1,0.015674838239314683
+"Gideon Zendikar",23,"Luke Anninan",2,0.01881519189499426
+"Gideon Zendikar",23,"Zintage Enaka",3,0.009656004828002414
+"Gideon Zendikar",23,"Ariel Rin",4,0.028434160211785468
+"Gideon Zendikar",23,"Dujek Oneye",5,0.014326959742877376
+"Gideon Zendikar",23,"Storm Delay",6,0.03458362009635237
+"Gideon Zendikar",23,"The Oz",7,0.03974043410158872
+"Gideon Zendikar",23,"Kenneth Feld",8,0.026478616924476797
+"Gideon Zendikar",23,"Seddow",9,0.03815492604662823
+"Gideon Zendikar",23,"Mick Fightmaster",10,0.06147579804868807
+"Gideon Zendikar",23,"Itaer",11,0.12575528700906344
+"Gideon Zendikar",23,"Dalros",12,0.026528497409326425
+"Gideon Zendikar",23,"Mike Azariah",13,0.0547625711353671
+"Gideon Zendikar",23,"Phantomite",14,0.17576243980738362
+"Gideon Zendikar",23,"youngpuke2",15,0.021944066198805907
+"Gideon Zendikar",23,"Kshal Aideron",16,0.025699481865284975
+"Gideon Zendikar",23,"Machagon",17,0.052801724137931036
+"Gideon Zendikar",23,"Rots Mijnwerker",18,0.06770069167889331
+"Gideon Zendikar",23,"Gustav Mannfred",19,0.07772151898734177
+"Gideon Zendikar",23,"Drake Iddon",20,0.10636883393165802
+"Gideon Zendikar",23,"DutchGunner",21,0.06531839300355288
+"Gideon Zendikar",23,"Ankh Lai",22,0.006990291262135922
+"Gideon Zendikar",23,"Gideon Zendikar",23,1.0
+"Gideon Zendikar",23,"Creatnos",24,0.024489795918367346
+"Gideon Zendikar",23,"SeriesPro",25,0.023225806451612905
+"Gideon Zendikar",23,"steven mardis",26,0.036286919831223625
+"Gideon Zendikar",23,"Komo Sunder",27,0.04106776180698152
+"Gideon Zendikar",23,"Aurous Victoirespere",28,0.10207673354452658
+"Gideon Zendikar",23,"Switch 4",29,0.059582036460649176
+"Gideon Zendikar",23,"Viciate",30,0.041128084606345476
+"Gideon Zendikar",23,"Frozen Fallout",31,0.08627858627858628
+"Gideon Zendikar",23,"Prospektor Schipplock",32,0.031422505307855626
+"Gideon Zendikar",23,"SKALE Organa",33,0.054945054945054944
+"Gideon Zendikar",23,"Bexey Songweaver",34,0.04457652303120357
+"Gideon Zendikar",23,"Hexator Gaming",35,0.12848297213622292
+"Gideon Zendikar",23,"MILINT ARC Trooper",36,0.051367331855136734
+"Gideon Zendikar",23,"NeoShocker",37,0.03251689189189189
+"Gideon Zendikar",23,"Aqustin Agustus",38,0.05422446406052964
+"Gideon Zendikar",23,"Grima The Mad",39,0.05842062852538275
+"Gideon Zendikar",23,"Frippyy",40,0.025839793281653745
+"Gideon Zendikar",23,"Mcopiate",41,0.02008407286314806
+"Gideon Zendikar",23,"Styxx",42,0.03281644428416877
+"Gideon Zendikar",23,"commander Shepard Brotherhood",43,0.016159695817490494
+"Gideon Zendikar",23,"Colby Bosh'tet",44,0.044676409185803755
+"Gideon Zendikar",23,"Aerodinamica Attiva",45,0.04034171808258187
+"Gideon Zendikar",23,"Redus Taw",46,0.010895883777239709
+"Gideon Zendikar",23,"AtheistOfFail",47,0.021618903971845148
+"Creatnos",24,"Kazanir",1,0.00611300323115885
+"Creatnos",24,"Luke Anninan",2,0.06299212598425197
+"Creatnos",24,"Zintage Enaka",3,0.002405042295571405
+"Creatnos",24,"Ariel Rin",4,0.017196208259896154
+"Creatnos",24,"Dujek Oneye",5,0.006357279084551812
+"Creatnos",24,"Storm Delay",6,0.26314748912613684
+"Creatnos",24,"The Oz",7,0.029971206700985954
+"Creatnos",24,"Kenneth Feld",8,0.1461016615868646
+"Creatnos",24,"Seddow",9,0.04927334262392992
+"Creatnos",24,"Mick Fightmaster",10,0.033184656556645854
+"Creatnos",24,"Itaer",11,0.11643473665668487
+"Creatnos",24,"Dalros",12,0.17275528169014084
+"Creatnos",24,"Mike Azariah",13,0.05195857721746961
+"Creatnos",24,"Phantomite",14,0.028025057698648204
+"Creatnos",24,"youngpuke2",15,0.05517534086688949
+"Creatnos",24,"Kshal Aideron",16,0.025156273822229
+"Creatnos",24,"Machagon",17,0.030303030303030304
+"Creatnos",24,"Rots Mijnwerker",18,0.12159114209555054
+"Creatnos",24,"Gustav Mannfred",19,0.04842724598325413
+"Creatnos",24,"Drake Iddon",20,0.017907303370786515
+"Creatnos",24,"DutchGunner",21,0.015201900237529691
+"Creatnos",24,"Ankh Lai",22,0.0031734179578122084
+"Creatnos",24,"Gideon Zendikar",23,0.024489795918367346
+"Creatnos",24,"Creatnos",24,1.0
+"Creatnos",24,"SeriesPro",25,0.015481017323995577
+"Creatnos",24,"steven mardis",26,0.013600572655690766
+"Creatnos",24,"Komo Sunder",27,0.007547939616483068
+"Creatnos",24,"Aurous Victoirespere",28,0.01858844031367993
+"Creatnos",24,"Switch 4",29,0.0438489646772229
+"Creatnos",24,"Viciate",30,0.022581732389619143
+"Creatnos",24,"Frozen Fallout",31,0.028713741576325814
+"Creatnos",24,"Prospektor Schipplock",32,0.019258720930232558
+"Creatnos",24,"SKALE Organa",33,0.014905597880092747
+"Creatnos",24,"Bexey Songweaver",34,0.01983365323096609
+"Creatnos",24,"Hexator Gaming",35,0.021408625504188643
+"Creatnos",24,"MILINT ARC Trooper",36,0.03569131832797428
+"Creatnos",24,"NeoShocker",37,0.019147398843930637
+"Creatnos",24,"Aqustin Agustus",38,0.00980392156862745
+"Creatnos",24,"Grima The Mad",39,0.023168654173764906
+"Creatnos",24,"Frippyy",40,0.010626603151337486
+"Creatnos",24,"Mcopiate",41,0.010260457774269928
+"Creatnos",24,"Styxx",42,0.18161925601750548
+"Creatnos",24,"commander Shepard Brotherhood",43,0.011263073209975865
+"Creatnos",24,"Colby Bosh'tet",44,0.01696113074204947
+"Creatnos",24,"Aerodinamica Attiva",45,0.023515344758868077
+"Creatnos",24,"Redus Taw",46,0.15982286634460546
+"Creatnos",24,"AtheistOfFail",47,0.0109151973131822
+"SeriesPro",25,"Kazanir",1,0.006312360008144981
+"SeriesPro",25,"Luke Anninan",2,0.0025124313007066214
+"SeriesPro",25,"Zintage Enaka",3,0.0044213763936947325
+"SeriesPro",25,"Ariel Rin",4,0.00499515775523727
+"SeriesPro",25,"Dujek Oneye",5,0.002888670633774337
+"SeriesPro",25,"Storm Delay",6,0.01278772378516624
+"SeriesPro",25,"The Oz",7,0.007381596442162212
+"SeriesPro",25,"Kenneth Feld",8,0.004611991177060357
+"SeriesPro",25,"Seddow",9,0.00861040510399917
+"SeriesPro",25,"Mick Fightmaster",10,0.006069802731411229
+"SeriesPro",25,"Itaer",11,0.011620400258231117
+"SeriesPro",25,"Dalros",12,0.02243145942952091
+"SeriesPro",25,"Mike Azariah",13,0.007926951635560908
+"SeriesPro",25,"Phantomite",14,0.017703031644169063
+"SeriesPro",25,"youngpuke2",15,0.0024165202108963092
+"SeriesPro",25,"Kshal Aideron",16,0.002921919809534116
+"SeriesPro",25,"Machagon",17,0.01768550557477893
+"SeriesPro",25,"Rots Mijnwerker",18,0.014289494575284467
+"SeriesPro",25,"Gustav Mannfred",19,0.034530386740331494
+"SeriesPro",25,"Drake Iddon",20,0.00799543118218161
+"SeriesPro",25,"DutchGunner",21,0.023680124223602484
+"SeriesPro",25,"Ankh Lai",22,0.005740147919196379
+"SeriesPro",25,"Gideon Zendikar",23,0.023225806451612905
+"SeriesPro",25,"Creatnos",24,0.015481017323995577
+"SeriesPro",25,"SeriesPro",25,1.0
+"SeriesPro",25,"steven mardis",26,0.028399311531841654
+"SeriesPro",25,"Komo Sunder",27,0.013505217925107428
+"SeriesPro",25,"Aurous Victoirespere",28,0.015752308527973928
+"SeriesPro",25,"Switch 4",29,0.015647638365691104
+"SeriesPro",25,"Viciate",30,0.024944974321349962
+"SeriesPro",25,"Frozen Fallout",31,0.031938325991189426
+"SeriesPro",25,"Prospektor Schipplock",32,0.03180212014134275
+"SeriesPro",25,"SKALE Organa",33,0.042366691015339665
+"SeriesPro",25,"Bexey Songweaver",34,0.04093959731543624
+"SeriesPro",25,"Hexator Gaming",35,0.04416403785488959
+"SeriesPro",25,"MILINT ARC Trooper",36,0.023255813953488372
+"SeriesPro",25,"NeoShocker",37,0.03406113537117904
+"SeriesPro",25,"Aqustin Agustus",38,0.023809523809523808
+"SeriesPro",25,"Grima The Mad",39,0.0293896006028636
+"SeriesPro",25,"Frippyy",40,0.03892493049119555
+"SeriesPro",25,"Mcopiate",41,0.0335946248600224
+"SeriesPro",25,"Styxx",42,0.04023361453601557
+"SeriesPro",25,"commander Shepard Brotherhood",43,0.04904306220095694
+"SeriesPro",25,"Colby Bosh'tet",44,0.03158769742310889
+"SeriesPro",25,"Aerodinamica Attiva",45,0.023076923076923078
+"SeriesPro",25,"Redus Taw",46,0.026402640264026403
+"SeriesPro",25,"AtheistOfFail",47,0.036290322580645164
+"steven mardis",26,"Kazanir",1,0.0036272040302267002
+"steven mardis",26,"Luke Anninan",2,0.002450086013657926
+"steven mardis",26,"Zintage Enaka",3,0.0027624309392265192
+"steven mardis",26,"Ariel Rin",4,0.003447227010037514
+"steven mardis",26,"Dujek Oneye",5,0.0019537984139754053
+"steven mardis",26,"Storm Delay",6,0.01152073732718894
+"steven mardis",26,"The Oz",7,0.005655644241733182
+"steven mardis",26,"Kenneth Feld",8,0.005476996614220275
+"steven mardis",26,"Seddow",9,0.008888888888888889
+"steven mardis",26,"Mick Fightmaster",10,0.02474437627811861
+"steven mardis",26,"Itaer",11,0.020286141362374548
+"steven mardis",26,"Dalros",12,0.013717052178590641
+"steven mardis",26,"Mike Azariah",13,0.012605042016806723
+"steven mardis",26,"Phantomite",14,0.025663522702347005
+"steven mardis",26,"youngpuke2",15,0.002845105870766537
+"steven mardis",26,"Kshal Aideron",16,0.0037752130298781147
+"steven mardis",26,"Machagon",17,0.02290649643259482
+"steven mardis",26,"Rots Mijnwerker",18,0.0121667098110277
+"steven mardis",26,"Gustav Mannfred",19,0.042401628222523746
+"steven mardis",26,"Drake Iddon",20,0.01435474701534963
+"steven mardis",26,"DutchGunner",21,0.03469309950438429
+"steven mardis",26,"Ankh Lai",22,0.0031662845288786988
+"steven mardis",26,"Gideon Zendikar",23,0.036286919831223625
+"steven mardis",26,"Creatnos",24,0.013600572655690766
+"steven mardis",26,"SeriesPro",25,0.028399311531841654
+"steven mardis",26,"steven mardis",26,1.0
+"steven mardis",26,"Komo Sunder",27,0.029868942395611095
+"steven mardis",26,"Aurous Victoirespere",28,0.037846481876332626
+"steven mardis",26,"Switch 4",29,0.016458569807037457
+"steven mardis",26,"Viciate",30,0.029329608938547486
+"steven mardis",26,"Frozen Fallout",31,0.01986408782017773
+"steven mardis",26,"Prospektor Schipplock",32,0.028075970272502065
+"steven mardis",26,"SKALE Organa",33,0.1578137028483449
+"steven mardis",26,"Bexey Songweaver",34,0.06474820143884892
+"steven mardis",26,"Hexator Gaming",35,0.05609756097560976
+"steven mardis",26,"MILINT ARC Trooper",36,0.019643953345610803
+"steven mardis",26,"NeoShocker",37,0.06955046649703138
+"steven mardis",26,"Aqustin Agustus",38,0.10702341137123746
+"steven mardis",26,"Grima The Mad",39,0.16183574879227053
+"steven mardis",26,"Frippyy",40,0.02832618025751073
+"steven mardis",26,"Mcopiate",41,0.030927835051546393
+"steven mardis",26,"Styxx",42,0.033846153846153845
+"steven mardis",26,"commander Shepard Brotherhood",43,0.03470715835140998
+"steven mardis",26,"Colby Bosh'tet",44,0.11979609175870858
+"steven mardis",26,"Aerodinamica Attiva",45,0.03597122302158273
+"steven mardis",26,"Redus Taw",46,0.020077220077220077
+"steven mardis",26,"AtheistOfFail",47,0.021686746987951807
+"Komo Sunder",27,"Kazanir",1,0.008861394415649556
+"Komo Sunder",27,"Luke Anninan",2,0.11020344450803891
+"Komo Sunder",27,"Zintage Enaka",3,0.008380557107510575
+"Komo Sunder",27,"Ariel Rin",4,0.10577602746642431
+"Komo Sunder",27,"Dujek Oneye",5,0.11667904691160505
+"Komo Sunder",27,"Storm Delay",6,0.01373867290266004
+"Komo Sunder",27,"The Oz",7,0.10427428571428571
+"Komo Sunder",27,"Kenneth Feld",8,0.023138832997987926
+"Komo Sunder",27,"Seddow",9,0.10116077792485491
+"Komo Sunder",27,"Mick Fightmaster",10,0.03498592030036692
+"Komo Sunder",27,"Itaer",11,0.021361815754339118
+"Komo Sunder",27,"Dalros",12,0.01890064158141148
+"Komo Sunder",27,"Mike Azariah",13,0.04799040191961608
+"Komo Sunder",27,"Phantomite",14,0.030851063829787233
+"Komo Sunder",27,"youngpuke2",15,0.09476616488991269
+"Komo Sunder",27,"Kshal Aideron",16,0.11680681328158689
+"Komo Sunder",27,"Machagon",17,0.02113718030014796
+"Komo Sunder",27,"Rots Mijnwerker",18,0.056911997189531
+"Komo Sunder",27,"Gustav Mannfred",19,0.01888276947285602
+"Komo Sunder",27,"Drake Iddon",20,0.278738414718495
+"Komo Sunder",27,"DutchGunner",21,0.018162618796198522
+"Komo Sunder",27,"Ankh Lai",22,0.021802062601773115
+"Komo Sunder",27,"Gideon Zendikar",23,0.04106776180698152
+"Komo Sunder",27,"Creatnos",24,0.007547939616483068
+"Komo Sunder",27,"SeriesPro",25,0.013505217925107428
+"Komo Sunder",27,"steven mardis",26,0.029868942395611095
+"Komo Sunder",27,"Komo Sunder",27,1.0
+"Komo Sunder",27,"Aurous Victoirespere",28,0.019105077928607342
+"Komo Sunder",27,"Switch 4",29,0.5146432374866879
+"Komo Sunder",27,"Viciate",30,0.013012729844413012
+"Komo Sunder",27,"Frozen Fallout",31,0.02838317283324886
+"Komo Sunder",27,"Prospektor Schipplock",32,0.013607499244027819
+"Komo Sunder",27,"SKALE Organa",33,0.03200914547013432
+"Komo Sunder",27,"Bexey Songweaver",34,0.044463087248322146
+"Komo Sunder",27,"Hexator Gaming",35,0.018032352161230444
+"Komo Sunder",27,"MILINT ARC Trooper",36,0.014539579967689823
+"Komo Sunder",27,"NeoShocker",37,0.024330900243309004
+"Komo Sunder",27,"Aqustin Agustus",38,0.03875264910687254
+"Komo Sunder",27,"Grima The Mad",39,0.054038004750593824
+"Komo Sunder",27,"Frippyy",40,0.03313535479837449
+"Komo Sunder",27,"Mcopiate",41,0.013372472276581865
+"Komo Sunder",27,"Styxx",42,0.019380888290713324
+"Komo Sunder",27,"commander Shepard Brotherhood",43,0.013576158940397352
+"Komo Sunder",27,"Colby Bosh'tet",44,0.023304451747833882
+"Komo Sunder",27,"Aerodinamica Attiva",45,0.014988595633756924
+"Komo Sunder",27,"Redus Taw",46,0.006163780452010567
+"Komo Sunder",27,"AtheistOfFail",47,0.0068143100511073255
+"Aurous Victoirespere",28,"Kazanir",1,0.004438568325620927
+"Aurous Victoirespere",28,"Luke Anninan",2,0.009534919105340569
+"Aurous Victoirespere",28,"Zintage Enaka",3,0.0030444126074498567
+"Aurous Victoirespere",28,"Ariel Rin",4,0.024064438663197917
+"Aurous Victoirespere",28,"Dujek Oneye",5,0.012013857845328565
+"Aurous Victoirespere",28,"Storm Delay",6,0.016623568526043592
+"Aurous Victoirespere",28,"The Oz",7,0.031128051547327344
+"Aurous Victoirespere",28,"Kenneth Feld",8,0.01060136973449667
+"Aurous Victoirespere",28,"Seddow",9,0.017788752267687967
+"Aurous Victoirespere",28,"Mick Fightmaster",10,0.06660684016352578
+"Aurous Victoirespere",28,"Itaer",11,0.077881004151018
+"Aurous Victoirespere",28,"Dalros",12,0.027039519297434714
+"Aurous Victoirespere",28,"Mike Azariah",13,0.0638486550399054
+"Aurous Victoirespere",28,"Phantomite",14,0.17604395604395603
+"Aurous Victoirespere",28,"youngpuke2",15,0.00907980672224287
+"Aurous Victoirespere",28,"Kshal Aideron",16,0.04068418496735553
+"Aurous Victoirespere",28,"Machagon",17,0.12289395441030723
+"Aurous Victoirespere",28,"Rots Mijnwerker",18,0.15258924082453496
+"Aurous Victoirespere",28,"Gustav Mannfred",19,0.032791402590245246
+"Aurous Victoirespere",28,"Drake Iddon",20,0.11663807890222985
+"Aurous Victoirespere",28,"DutchGunner",21,0.1266622340425532
+"Aurous Victoirespere",28,"Ankh Lai",22,0.0036633764119263254
+"Aurous Victoirespere",28,"Gideon Zendikar",23,0.10207673354452658
+"Aurous Victoirespere",28,"Creatnos",24,0.01858844031367993
+"Aurous Victoirespere",28,"SeriesPro",25,0.015752308527973928
+"Aurous Victoirespere",28,"steven mardis",26,0.037846481876332626
+"Aurous Victoirespere",28,"Komo Sunder",27,0.019105077928607342
+"Aurous Victoirespere",28,"Aurous Victoirespere",28,1.0
+"Aurous Victoirespere",28,"Switch 4",29,0.026277724204435873
+"Aurous Victoirespere",28,"Viciate",30,0.07557557557557558
+"Aurous Victoirespere",28,"Frozen Fallout",31,0.04372019077901431
+"Aurous Victoirespere",28,"Prospektor Schipplock",32,0.02290889717634523
+"Aurous Victoirespere",28,"SKALE Organa",33,0.09223057644110276
+"Aurous Victoirespere",28,"Bexey Songweaver",34,0.044918330308529944
+"Aurous Victoirespere",28,"Hexator Gaming",35,0.03794739111686071
+"Aurous Victoirespere",28,"MILINT ARC Trooper",36,0.032714412024756855
+"Aurous Victoirespere",28,"NeoShocker",37,0.03751339764201501
+"Aurous Victoirespere",28,"Aqustin Agustus",38,0.044409613375130615
+"Aurous Victoirespere",28,"Grima The Mad",39,0.03671071953010279
+"Aurous Victoirespere",28,"Frippyy",40,0.027427317608337904
+"Aurous Victoirespere",28,"Mcopiate",41,0.0182370820668693
+"Aurous Victoirespere",28,"Styxx",42,0.02346805736636245
+"Aurous Victoirespere",28,"commander Shepard Brotherhood",43,0.014321295143212951
+"Aurous Victoirespere",28,"Colby Bosh'tet",44,0.12344983089064261
+"Aurous Victoirespere",28,"Aerodinamica Attiva",45,0.049906425452276984
+"Aurous Victoirespere",28,"Redus Taw",46,0.012683916793505834
+"Aurous Victoirespere",28,"AtheistOfFail",47,0.022834116856950974
+"Switch 4",29,"Kazanir",1,0.005325249877109618
+"Switch 4",29,"Luke Anninan",2,0.10111440548001227
+"Switch 4",29,"Zintage Enaka",3,0.005089257751331036
+"Switch 4",29,"Ariel Rin",4,0.1029940119760479
+"Switch 4",29,"Dujek Oneye",5,0.10857848641365371
+"Switch 4",29,"Storm Delay",6,0.012624113475177305
+"Switch 4",29,"The Oz",7,0.10321557971014493
+"Switch 4",29,"Kenneth Feld",8,0.013975155279503106
+"Switch 4",29,"Seddow",9,0.10957511689367758
+"Switch 4",29,"Mick Fightmaster",10,0.026810990840965863
+"Switch 4",29,"Itaer",11,0.04204645692443399
+"Switch 4",29,"Dalros",12,0.030338983050847458
+"Switch 4",29,"Mike Azariah",13,0.04155495978552279
+"Switch 4",29,"Phantomite",14,0.05131677953348382
+"Switch 4",29,"youngpuke2",15,0.11303456830070646
+"Switch 4",29,"Kshal Aideron",16,0.10880279824050029
+"Switch 4",29,"Machagon",17,0.04202028565514386
+"Switch 4",29,"Rots Mijnwerker",18,0.025725593667546173
+"Switch 4",29,"Gustav Mannfred",19,0.033007100364613316
+"Switch 4",29,"Drake Iddon",20,0.2895167895167895
+"Switch 4",29,"DutchGunner",21,0.04623073719283632
+"Switch 4",29,"Ankh Lai",22,0.007977557640045586
+"Switch 4",29,"Gideon Zendikar",23,0.059582036460649176
+"Switch 4",29,"Creatnos",24,0.0438489646772229
+"Switch 4",29,"SeriesPro",25,0.015647638365691104
+"Switch 4",29,"steven mardis",26,0.016458569807037457
+"Switch 4",29,"Komo Sunder",27,0.5146432374866879
+"Switch 4",29,"Aurous Victoirespere",28,0.026277724204435873
+"Switch 4",29,"Switch 4",29,1.0
+"Switch 4",29,"Viciate",30,0.037565122018097065
+"Switch 4",29,"Frozen Fallout",31,0.06631631631631632
+"Switch 4",29,"Prospektor Schipplock",32,0.01600457273506716
+"Switch 4",29,"SKALE Organa",33,0.014901543374135177
+"Switch 4",29,"Bexey Songweaver",34,0.030620256477361947
+"Switch 4",29,"Hexator Gaming",35,0.018649193548387098
+"Switch 4",29,"MILINT ARC Trooper",36,0.0279575459487445
+"Switch 4",29,"NeoShocker",37,0.032379300375831165
+"Switch 4",29,"Aqustin Agustus",38,0.01964085297418631
+"Switch 4",29,"Grima The Mad",39,0.01762472885032538
+"Switch 4",29,"Frippyy",40,0.023337222870478413
+"Switch 4",29,"Mcopiate",41,0.011922959339651483
+"Switch 4",29,"Styxx",42,0.02649858502701312
+"Switch 4",29,"commander Shepard Brotherhood",43,0.013979496738117428
+"Switch 4",29,"Colby Bosh'tet",44,0.018814939623701208
+"Switch 4",29,"Aerodinamica Attiva",45,0.018728891618053422
+"Switch 4",29,"Redus Taw",46,0.009171762090050028
+"Switch 4",29,"AtheistOfFail",47,0.00959079283887468
+"Viciate",30,"Kazanir",1,0.008534285997816811
+"Viciate",30,"Luke Anninan",2,0.00637008648816614
+"Viciate",30,"Zintage Enaka",3,0.0028040003738667163
+"Viciate",30,"Ariel Rin",4,0.01051142106327067
+"Viciate",30,"Dujek Oneye",5,0.003299203640500569
+"Viciate",30,"Storm Delay",6,0.01513317191283293
+"Viciate",30,"The Oz",7,0.014822585058834261
+"Viciate",30,"Kenneth Feld",8,0.007040187738339689
+"Viciate",30,"Seddow",9,0.01827568404749613
+"Viciate",30,"Mick Fightmaster",10,0.034817813765182185
+"Viciate",30,"Itaer",11,0.029138251704897707
+"Viciate",30,"Dalros",12,0.020298047276464542
+"Viciate",30,"Mike Azariah",13,0.03188405797101449
+"Viciate",30,"Phantomite",14,0.1053704962610469
+"Viciate",30,"youngpuke2",15,0.019250866288983003
+"Viciate",30,"Kshal Aideron",16,0.012049488972565896
+"Viciate",30,"Machagon",17,0.03028169014084507
+"Viciate",30,"Rots Mijnwerker",18,0.0402226157348849
+"Viciate",30,"Gustav Mannfred",19,0.030846710733396284
+"Viciate",30,"Drake Iddon",20,0.044103001849480725
+"Viciate",30,"DutchGunner",21,0.04516129032258064
+"Viciate",30,"Ankh Lai",22,0.004385495774949192
+"Viciate",30,"Gideon Zendikar",23,0.041128084606345476
+"Viciate",30,"Creatnos",24,0.022581732389619143
+"Viciate",30,"SeriesPro",25,0.024944974321349962
+"Viciate",30,"steven mardis",26,0.029329608938547486
+"Viciate",30,"Komo Sunder",27,0.013012729844413012
+"Viciate",30,"Aurous Victoirespere",28,0.07557557557557558
+"Viciate",30,"Switch 4",29,0.037565122018097065
+"Viciate",30,"Viciate",30,1.0
+"Viciate",30,"Frozen Fallout",31,0.07167745146839223
+"Viciate",30,"Prospektor Schipplock",32,0.018296973961998593
+"Viciate",30,"SKALE Organa",33,0.10563836681788723
+"Viciate",30,"Bexey Songweaver",34,0.034482758620689655
+"Viciate",30,"Hexator Gaming",35,0.035331905781584586
+"Viciate",30,"MILINT ARC Trooper",36,0.042529378847229994
+"Viciate",30,"NeoShocker",37,0.06554989075018208
+"Viciate",30,"Aqustin Agustus",38,0.03317535545023697
+"Viciate",30,"Grima The Mad",39,0.042458808618504436
+"Viciate",30,"Frippyy",40,0.019664967225054626
+"Viciate",30,"Mcopiate",41,0.01692047377326565
+"Viciate",30,"Styxx",42,0.030103995621237
+"Viciate",30,"commander Shepard Brotherhood",43,0.022104332449160036
+"Viciate",30,"Colby Bosh'tet",44,0.08882521489971347
+"Viciate",30,"Aerodinamica Attiva",45,0.028037383177570093
+"Viciate",30,"Redus Taw",46,0.02766531713900135
+"Viciate",30,"AtheistOfFail",47,0.016456921587608905
+"Frozen Fallout",31,"Kazanir",1,0.012272857006945106
+"Frozen Fallout",31,"Luke Anninan",2,0.009942677420991223
+"Frozen Fallout",31,"Zintage Enaka",3,0.007009345794392523
+"Frozen Fallout",31,"Ariel Rin",4,0.01997807891590275
+"Frozen Fallout",31,"Dujek Oneye",5,0.014504928315412186
+"Frozen Fallout",31,"Storm Delay",6,0.02379182156133829
+"Frozen Fallout",31,"The Oz",7,0.036105032822757115
+"Frozen Fallout",31,"Kenneth Feld",8,0.022779043280182234
+"Frozen Fallout",31,"Seddow",9,0.018298215545921967
+"Frozen Fallout",31,"Mick Fightmaster",10,0.03691860465116279
+"Frozen Fallout",31,"Itaer",11,0.06291390728476821
+"Frozen Fallout",31,"Dalros",12,0.04462188821042743
+"Frozen Fallout",31,"Mike Azariah",13,0.06058523173605656
+"Frozen Fallout",31,"Phantomite",14,0.1093847110006215
+"Frozen Fallout",31,"youngpuke2",15,0.021605933569816188
+"Frozen Fallout",31,"Kshal Aideron",16,0.02301532587368086
+"Frozen Fallout",31,"Machagon",17,0.07384032817923636
+"Frozen Fallout",31,"Rots Mijnwerker",18,0.04676094890510949
+"Frozen Fallout",31,"Gustav Mannfred",19,0.06379359228806351
+"Frozen Fallout",31,"Drake Iddon",20,0.06644835584663665
+"Frozen Fallout",31,"DutchGunner",21,0.14242424242424243
+"Frozen Fallout",31,"Ankh Lai",22,0.008895705521472393
+"Frozen Fallout",31,"Gideon Zendikar",23,0.08627858627858628
+"Frozen Fallout",31,"Creatnos",24,0.028713741576325814
+"Frozen Fallout",31,"SeriesPro",25,0.031938325991189426
+"Frozen Fallout",31,"steven mardis",26,0.01986408782017773
+"Frozen Fallout",31,"Komo Sunder",27,0.02838317283324886
+"Frozen Fallout",31,"Aurous Victoirespere",28,0.04372019077901431
+"Frozen Fallout",31,"Switch 4",29,0.06631631631631632
+"Frozen Fallout",31,"Viciate",30,0.07167745146839223
+"Frozen Fallout",31,"Frozen Fallout",31,1.0
+"Frozen Fallout",31,"Prospektor Schipplock",32,0.04112554112554113
+"Frozen Fallout",31,"SKALE Organa",33,0.026810912511759172
+"Frozen Fallout",31,"Bexey Songweaver",34,0.06805555555555555
+"Frozen Fallout",31,"Hexator Gaming",35,0.039224137931034485
+"Frozen Fallout",31,"MILINT ARC Trooper",36,0.0798338717120443
+"Frozen Fallout",31,"NeoShocker",37,0.053203040173724216
+"Frozen Fallout",31,"Aqustin Agustus",38,0.051995798319327734
+"Frozen Fallout",31,"Grima The Mad",39,0.05782652043868395
+"Frozen Fallout",31,"Frippyy",40,0.039889196675900275
+"Frozen Fallout",31,"Mcopiate",41,0.02315661182205972
+"Frozen Fallout",31,"Styxx",42,0.046583850931677016
+"Frozen Fallout",31,"commander Shepard Brotherhood",43,0.02190237797246558
+"Frozen Fallout",31,"Colby Bosh'tet",44,0.04064616988014591
+"Frozen Fallout",31,"Aerodinamica Attiva",45,0.04264524103831891
+"Frozen Fallout",31,"Redus Taw",46,0.018329938900203666
+"Frozen Fallout",31,"AtheistOfFail",47,0.02620967741935484
+"Prospektor Schipplock",32,"Kazanir",1,0.0063823320838820785
+"Prospektor Schipplock",32,"Luke Anninan",2,0.005550610043462324
+"Prospektor Schipplock",32,"Zintage Enaka",3,0.004496316846838228
+"Prospektor Schipplock",32,"Ariel Rin",4,0.0067226890756302525
+"Prospektor Schipplock",32,"Dujek Oneye",5,0.003921342483132461
+"Prospektor Schipplock",32,"Storm Delay",6,0.017157381910612158
+"Prospektor Schipplock",32,"The Oz",7,0.011529098341830876
+"Prospektor Schipplock",32,"Kenneth Feld",8,0.009726260904441994
+"Prospektor Schipplock",32,"Seddow",9,0.005000515517063615
+"Prospektor Schipplock",32,"Mick Fightmaster",10,0.005735560474944657
+"Prospektor Schipplock",32,"Itaer",11,0.011066184294530752
+"Prospektor Schipplock",32,"Dalros",12,0.0362780393242869
+"Prospektor Schipplock",32,"Mike Azariah",13,0.02456104739673196
+"Prospektor Schipplock",32,"Phantomite",14,0.019517543859649124
+"Prospektor Schipplock",32,"youngpuke2",15,0.0026295606442423578
+"Prospektor Schipplock",32,"Kshal Aideron",16,0.008683853459972864
+"Prospektor Schipplock",32,"Machagon",17,0.028604118993135013
+"Prospektor Schipplock",32,"Rots Mijnwerker",18,0.018892679086853843
+"Prospektor Schipplock",32,"Gustav Mannfred",19,0.04925938684119876
+"Prospektor Schipplock",32,"Drake Iddon",20,0.010373738809151626
+"Prospektor Schipplock",32,"DutchGunner",21,0.08259468170829976
+"Prospektor Schipplock",32,"Ankh Lai",22,0.005377524143985952
+"Prospektor Schipplock",32,"Gideon Zendikar",23,0.031422505307855626
+"Prospektor Schipplock",32,"Creatnos",24,0.019258720930232558
+"Prospektor Schipplock",32,"SeriesPro",25,0.03180212014134275
+"Prospektor Schipplock",32,"steven mardis",26,0.028075970272502065
+"Prospektor Schipplock",32,"Komo Sunder",27,0.013607499244027819
+"Prospektor Schipplock",32,"Aurous Victoirespere",28,0.02290889717634523
+"Prospektor Schipplock",32,"Switch 4",29,0.01600457273506716
+"Prospektor Schipplock",32,"Viciate",30,0.018296973961998593
+"Prospektor Schipplock",32,"Frozen Fallout",31,0.04112554112554113
+"Prospektor Schipplock",32,"Prospektor Schipplock",32,1.0
+"Prospektor Schipplock",32,"SKALE Organa",33,0.0299860529986053
+"Prospektor Schipplock",32,"Bexey Songweaver",34,0.09059945504087194
+"Prospektor Schipplock",32,"Hexator Gaming",35,0.04409063074096754
+"Prospektor Schipplock",32,"MILINT ARC Trooper",36,0.0849933598937583
+"Prospektor Schipplock",32,"NeoShocker",37,0.03872053872053872
+"Prospektor Schipplock",32,"Aqustin Agustus",38,0.029365079365079365
+"Prospektor Schipplock",32,"Grima The Mad",39,0.050445103857566766
+"Prospektor Schipplock",32,"Frippyy",40,0.036283185840707964
+"Prospektor Schipplock",32,"Mcopiate",41,0.03952991452991453
+"Prospektor Schipplock",32,"Styxx",42,0.04752851711026616
+"Prospektor Schipplock",32,"commander Shepard Brotherhood",43,0.05102040816326531
+"Prospektor Schipplock",32,"Colby Bosh'tet",44,0.039452495974235106
+"Prospektor Schipplock",32,"Aerodinamica Attiva",45,0.03046218487394958
+"Prospektor Schipplock",32,"Redus Taw",46,0.026984126984126985
+"Prospektor Schipplock",32,"AtheistOfFail",47,0.044529262086514
+"SKALE Organa",33,"Kazanir",1,0.0044343713046905795
+"SKALE Organa",33,"Luke Anninan",2,0.0035062390430029905
+"SKALE Organa",33,"Zintage Enaka",3,0.003450848722253311
+"SKALE Organa",33,"Ariel Rin",4,0.009782170229931424
+"SKALE Organa",33,"Dujek Oneye",5,0.004320145520691224
+"SKALE Organa",33,"Storm Delay",6,0.016877637130801686
+"SKALE Organa",33,"The Oz",7,0.013371537726838587
+"SKALE Organa",33,"Kenneth Feld",8,0.007117784711388455
+"SKALE Organa",33,"Seddow",9,0.0060093705438989614
+"SKALE Organa",33,"Mick Fightmaster",10,0.05363748458692972
+"SKALE Organa",33,"Itaer",11,0.028536234859371793
+"SKALE Organa",33,"Dalros",12,0.02222789984670414
+"SKALE Organa",33,"Mike Azariah",13,0.02759031361651449
+"SKALE Organa",33,"Phantomite",14,0.05321888412017167
+"SKALE Organa",33,"youngpuke2",15,0.0060707897447016095
+"SKALE Organa",33,"Kshal Aideron",16,0.013717790090913982
+"SKALE Organa",33,"Machagon",17,0.03938115330520394
+"SKALE Organa",33,"Rots Mijnwerker",18,0.03887634813142714
+"SKALE Organa",33,"Gustav Mannfred",19,0.035725477906612346
+"SKALE Organa",33,"Drake Iddon",20,0.03686506261432391
+"SKALE Organa",33,"DutchGunner",21,0.03842086711314769
+"SKALE Organa",33,"Ankh Lai",22,0.005121638924455826
+"SKALE Organa",33,"Gideon Zendikar",23,0.054945054945054944
+"SKALE Organa",33,"Creatnos",24,0.014905597880092747
+"SKALE Organa",33,"SeriesPro",25,0.042366691015339665
+"SKALE Organa",33,"steven mardis",26,0.1578137028483449
+"SKALE Organa",33,"Komo Sunder",27,0.03200914547013432
+"SKALE Organa",33,"Aurous Victoirespere",28,0.09223057644110276
+"SKALE Organa",33,"Switch 4",29,0.014901543374135177
+"SKALE Organa",33,"Viciate",30,0.10563836681788723
+"SKALE Organa",33,"Frozen Fallout",31,0.026810912511759172
+"SKALE Organa",33,"Prospektor Schipplock",32,0.0299860529986053
+"SKALE Organa",33,"SKALE Organa",33,1.0
+"SKALE Organa",33,"Bexey Songweaver",34,0.07328332371609925
+"SKALE Organa",33,"Hexator Gaming",35,0.07439824945295405
+"SKALE Organa",33,"MILINT ARC Trooper",36,0.0361247947454844
+"SKALE Organa",33,"NeoShocker",37,0.07332854061826025
+"SKALE Organa",33,"Aqustin Agustus",38,0.12590448625180897
+"SKALE Organa",33,"Grima The Mad",39,0.18207480592801695
+"SKALE Organa",33,"Frippyy",40,0.03698332124728064
+"SKALE Organa",33,"Mcopiate",41,0.03269069572506287
+"SKALE Organa",33,"Styxx",42,0.041961852861035424
+"SKALE Organa",33,"commander Shepard Brotherhood",43,0.029513888888888888
+"SKALE Organa",33,"Colby Bosh'tet",44,0.1996904024767802
+"SKALE Organa",33,"Aerodinamica Attiva",45,0.04201680672268908
+"SKALE Organa",33,"Redus Taw",46,0.021710526315789475
+"SKALE Organa",33,"AtheistOfFail",47,0.022727272727272728
+"Bexey Songweaver",34,"Kazanir",1,0.007322788517867604
+"Bexey Songweaver",34,"Luke Anninan",2,0.011516810411609771
+"Bexey Songweaver",34,"Zintage Enaka",3,0.009648390388718805
+"Bexey Songweaver",34,"Ariel Rin",4,0.01256281407035176
+"Bexey Songweaver",34,"Dujek Oneye",5,0.007988215965101127
+"Bexey Songweaver",34,"Storm Delay",6,0.02795400475812847
+"Bexey Songweaver",34,"The Oz",7,0.019985432031321134
+"Bexey Songweaver",34,"Kenneth Feld",8,0.021998435666797028
+"Bexey Songweaver",34,"Seddow",9,0.008779497589444303
+"Bexey Songweaver",34,"Mick Fightmaster",10,0.02326957207651351
+"Bexey Songweaver",34,"Itaer",11,0.023524720893141945
+"Bexey Songweaver",34,"Dalros",12,0.09358430540827148
+"Bexey Songweaver",34,"Mike Azariah",13,0.03979358936191327
+"Bexey Songweaver",34,"Phantomite",14,0.029670554532432985
+"Bexey Songweaver",34,"youngpuke2",15,0.00624697075771447
+"Bexey Songweaver",34,"Kshal Aideron",16,0.015580660705680784
+"Bexey Songweaver",34,"Machagon",17,0.07317073170731707
+"Bexey Songweaver",34,"Rots Mijnwerker",18,0.04201270151441133
+"Bexey Songweaver",34,"Gustav Mannfred",19,0.05022970903522205
+"Bexey Songweaver",34,"Drake Iddon",20,0.01641345632121541
+"Bexey Songweaver",34,"DutchGunner",21,0.08289241622574955
+"Bexey Songweaver",34,"Ankh Lai",22,0.011338349051605382
+"Bexey Songweaver",34,"Gideon Zendikar",23,0.04457652303120357
+"Bexey Songweaver",34,"Creatnos",24,0.01983365323096609
+"Bexey Songweaver",34,"SeriesPro",25,0.04093959731543624
+"Bexey Songweaver",34,"steven mardis",26,0.06474820143884892
+"Bexey Songweaver",34,"Komo Sunder",27,0.044463087248322146
+"Bexey Songweaver",34,"Aurous Victoirespere",28,0.044918330308529944
+"Bexey Songweaver",34,"Switch 4",29,0.030620256477361947
+"Bexey Songweaver",34,"Viciate",30,0.034482758620689655
+"Bexey Songweaver",34,"Frozen Fallout",31,0.06805555555555555
+"Bexey Songweaver",34,"Prospektor Schipplock",32,0.09059945504087194
+"Bexey Songweaver",34,"SKALE Organa",33,0.07328332371609925
+"Bexey Songweaver",34,"Bexey Songweaver",34,1.0
+"Bexey Songweaver",34,"Hexator Gaming",35,0.04661654135338346
+"Bexey Songweaver",34,"MILINT ARC Trooper",36,0.07573333333333333
+"Bexey Songweaver",34,"NeoShocker",37,0.072992700729927
+"Bexey Songweaver",34,"Aqustin Agustus",38,0.08949416342412451
+"Bexey Songweaver",34,"Grima The Mad",39,0.12367270455965022
+"Bexey Songweaver",34,"Frippyy",40,0.05858310626702997
+"Bexey Songweaver",34,"Mcopiate",41,0.03274942878903275
+"Bexey Songweaver",34,"Styxx",42,0.06876640419947506
+"Bexey Songweaver",34,"commander Shepard Brotherhood",43,0.0488390712570056
+"Bexey Songweaver",34,"Colby Bosh'tet",44,0.0710172744721689
+"Bexey Songweaver",34,"Aerodinamica Attiva",45,0.04842428900845504
+"Bexey Songweaver",34,"Redus Taw",46,0.028203556100551808
+"Bexey Songweaver",34,"AtheistOfFail",47,0.03347639484978541
+"Hexator Gaming",35,"Kazanir",1,0.01174757281553398
+"Hexator Gaming",35,"Luke Anninan",2,0.008089289371288142
+"Hexator Gaming",35,"Zintage Enaka",3,0.005583012996522058
+"Hexator Gaming",35,"Ariel Rin",4,0.013155920164073832
+"Hexator Gaming",35,"Dujek Oneye",5,0.007771145399256673
+"Hexator Gaming",35,"Storm Delay",6,0.027588886730134057
+"Hexator Gaming",35,"The Oz",7,0.021743077621425327
+"Hexator Gaming",35,"Kenneth Feld",8,0.013342292186600116
+"Hexator Gaming",35,"Seddow",9,0.01503606623996749
+"Hexator Gaming",35,"Mick Fightmaster",10,0.0250342264815177
+"Hexator Gaming",35,"Itaer",11,0.05839563548191554
+"Hexator Gaming",35,"Dalros",12,0.024963645176926806
+"Hexator Gaming",35,"Mike Azariah",13,0.024394966118102615
+"Hexator Gaming",35,"Phantomite",14,0.0693316677076827
+"Hexator Gaming",35,"youngpuke2",15,0.01086781083553021
+"Hexator Gaming",35,"Kshal Aideron",16,0.007980550710850378
+"Hexator Gaming",35,"Machagon",17,0.04154399738305528
+"Hexator Gaming",35,"Rots Mijnwerker",18,0.030174446016030174
+"Hexator Gaming",35,"Gustav Mannfred",19,0.09891135303265941
+"Hexator Gaming",35,"Drake Iddon",20,0.04011500547645126
+"Hexator Gaming",35,"DutchGunner",21,0.056943056943056944
+"Hexator Gaming",35,"Ankh Lai",22,0.005733347232356927
+"Hexator Gaming",35,"Gideon Zendikar",23,0.12848297213622292
+"Hexator Gaming",35,"Creatnos",24,0.021408625504188643
+"Hexator Gaming",35,"SeriesPro",25,0.04416403785488959
+"Hexator Gaming",35,"steven mardis",26,0.05609756097560976
+"Hexator Gaming",35,"Komo Sunder",27,0.018032352161230444
+"Hexator Gaming",35,"Aurous Victoirespere",28,0.03794739111686071
+"Hexator Gaming",35,"Switch 4",29,0.018649193548387098
+"Hexator Gaming",35,"Viciate",30,0.035331905781584586
+"Hexator Gaming",35,"Frozen Fallout",31,0.039224137931034485
+"Hexator Gaming",35,"Prospektor Schipplock",32,0.04409063074096754
+"Hexator Gaming",35,"SKALE Organa",33,0.07439824945295405
+"Hexator Gaming",35,"Bexey Songweaver",34,0.04661654135338346
+"Hexator Gaming",35,"Hexator Gaming",35,1.0
+"Hexator Gaming",35,"MILINT ARC Trooper",36,0.05
+"Hexator Gaming",35,"NeoShocker",37,0.03987915407854985
+"Hexator Gaming",35,"Aqustin Agustus",38,0.03360370799536501
+"Hexator Gaming",35,"Grima The Mad",39,0.06016713091922005
+"Hexator Gaming",35,"Frippyy",40,0.029174425822470516
+"Hexator Gaming",35,"Mcopiate",41,0.02456140350877193
+"Hexator Gaming",35,"Styxx",42,0.037827352085354024
+"Hexator Gaming",35,"commander Shepard Brotherhood",43,0.0381791483113069
+"Hexator Gaming",35,"Colby Bosh'tet",44,0.04281524926686217
+"Hexator Gaming",35,"Aerodinamica Attiva",45,0.038924274593064405
+"Hexator Gaming",35,"Redus Taw",46,0.02121559633027523
+"Hexator Gaming",35,"AtheistOfFail",47,0.016317016317016316
+"MILINT ARC Trooper",36,"Kazanir",1,0.013017519819907996
+"MILINT ARC Trooper",36,"Luke Anninan",2,0.012018982771071907
+"MILINT ARC Trooper",36,"Zintage Enaka",3,0.011021580068537557
+"MILINT ARC Trooper",36,"Ariel Rin",4,0.01631502089732615
+"MILINT ARC Trooper",36,"Dujek Oneye",5,0.0076883939171236365
+"MILINT ARC Trooper",36,"Storm Delay",6,0.03347197464844524
+"MILINT ARC Trooper",36,"The Oz",7,0.02241866399343844
+"MILINT ARC Trooper",36,"Kenneth Feld",8,0.02013814573402082
+"MILINT ARC Trooper",36,"Seddow",9,0.020187528821027822
+"MILINT ARC Trooper",36,"Mick Fightmaster",10,0.019886363636363636
+"MILINT ARC Trooper",36,"Itaer",11,0.028872958980485863
+"MILINT ARC Trooper",36,"Dalros",12,0.04315102860010035
+"MILINT ARC Trooper",36,"Mike Azariah",13,0.045974723853119716
+"MILINT ARC Trooper",36,"Phantomite",14,0.0576320735017749
+"MILINT ARC Trooper",36,"youngpuke2",15,0.014031095942358742
+"MILINT ARC Trooper",36,"Kshal Aideron",16,0.010369031160268
+"MILINT ARC Trooper",36,"Machagon",17,0.05489664520501525
+"MILINT ARC Trooper",36,"Rots Mijnwerker",18,0.026014319809069212
+"MILINT ARC Trooper",36,"Gustav Mannfred",19,0.06523076923076923
+"MILINT ARC Trooper",36,"Drake Iddon",20,0.042815574338367746
+"MILINT ARC Trooper",36,"DutchGunner",21,0.10584461867426942
+"MILINT ARC Trooper",36,"Ankh Lai",22,0.00398364608449523
+"MILINT ARC Trooper",36,"Gideon Zendikar",23,0.051367331855136734
+"MILINT ARC Trooper",36,"Creatnos",24,0.03569131832797428
+"MILINT ARC Trooper",36,"SeriesPro",25,0.023255813953488372
+"MILINT ARC Trooper",36,"steven mardis",26,0.019643953345610803
+"MILINT ARC Trooper",36,"Komo Sunder",27,0.014539579967689823
+"MILINT ARC Trooper",36,"Aurous Victoirespere",28,0.032714412024756855
+"MILINT ARC Trooper",36,"Switch 4",29,0.0279575459487445
+"MILINT ARC Trooper",36,"Viciate",30,0.042529378847229994
+"MILINT ARC Trooper",36,"Frozen Fallout",31,0.0798338717120443
+"MILINT ARC Trooper",36,"Prospektor Schipplock",32,0.0849933598937583
+"MILINT ARC Trooper",36,"SKALE Organa",33,0.0361247947454844
+"MILINT ARC Trooper",36,"Bexey Songweaver",34,0.07573333333333333
+"MILINT ARC Trooper",36,"Hexator Gaming",35,0.05
+"MILINT ARC Trooper",36,"MILINT ARC Trooper",36,1.0
+"MILINT ARC Trooper",36,"NeoShocker",37,0.03838892385147892
+"MILINT ARC Trooper",36,"Aqustin Agustus",38,0.033172496984318456
+"MILINT ARC Trooper",36,"Grima The Mad",39,0.051061388410786
+"MILINT ARC Trooper",36,"Frippyy",40,0.029182879377431907
+"MILINT ARC Trooper",36,"Mcopiate",41,0.020573108008817047
+"MILINT ARC Trooper",36,"Styxx",42,0.03243512974051896
+"MILINT ARC Trooper",36,"commander Shepard Brotherhood",43,0.03466872110939907
+"MILINT ARC Trooper",36,"Colby Bosh'tet",44,0.033292978208232446
+"MILINT ARC Trooper",36,"Aerodinamica Attiva",45,0.03711952487008166
+"MILINT ARC Trooper",36,"Redus Taw",46,0.023952095808383235
+"MILINT ARC Trooper",36,"AtheistOfFail",47,0.02826267664172901
+"NeoShocker",37,"Kazanir",1,0.005050505050505051
+"NeoShocker",37,"Luke Anninan",2,0.0041274817136886105
+"NeoShocker",37,"Zintage Enaka",3,0.004105795856010694
+"NeoShocker",37,"Ariel Rin",4,0.0079482345748204
+"NeoShocker",37,"Dujek Oneye",5,0.004786068504209434
+"NeoShocker",37,"Storm Delay",6,0.01882004652146331
+"NeoShocker",37,"The Oz",7,0.010176017601760175
+"NeoShocker",37,"Kenneth Feld",8,0.008095952023988006
+"NeoShocker",37,"Seddow",9,0.005203503348789284
+"NeoShocker",37,"Mick Fightmaster",10,0.01862026862026862
+"NeoShocker",37,"Itaer",11,0.025381802538180252
+"NeoShocker",37,"Dalros",12,0.022028827848789775
+"NeoShocker",37,"Mike Azariah",13,0.02193248433393976
+"NeoShocker",37,"Phantomite",14,0.04339074032654887
+"NeoShocker",37,"youngpuke2",15,0.007757055619739231
+"NeoShocker",37,"Kshal Aideron",16,0.00632979874486042
+"NeoShocker",37,"Machagon",17,0.04065976217874952
+"NeoShocker",37,"Rots Mijnwerker",18,0.022554419092578024
+"NeoShocker",37,"Gustav Mannfred",19,0.030976430976430977
+"NeoShocker",37,"Drake Iddon",20,0.01843647277404602
+"NeoShocker",37,"DutchGunner",21,0.05380116959064327
+"NeoShocker",37,"Ankh Lai",22,0.005588428665351742
+"NeoShocker",37,"Gideon Zendikar",23,0.03251689189189189
+"NeoShocker",37,"Creatnos",24,0.019147398843930637
+"NeoShocker",37,"SeriesPro",25,0.03406113537117904
+"NeoShocker",37,"steven mardis",26,0.06955046649703138
+"NeoShocker",37,"Komo Sunder",27,0.024330900243309004
+"NeoShocker",37,"Aurous Victoirespere",28,0.03751339764201501
+"NeoShocker",37,"Switch 4",29,0.032379300375831165
+"NeoShocker",37,"Viciate",30,0.06554989075018208
+"NeoShocker",37,"Frozen Fallout",31,0.053203040173724216
+"NeoShocker",37,"Prospektor Schipplock",32,0.03872053872053872
+"NeoShocker",37,"SKALE Organa",33,0.07332854061826025
+"NeoShocker",37,"Bexey Songweaver",34,0.072992700729927
+"NeoShocker",37,"Hexator Gaming",35,0.03987915407854985
+"NeoShocker",37,"MILINT ARC Trooper",36,0.03838892385147892
+"NeoShocker",37,"NeoShocker",37,1.0
+"NeoShocker",37,"Aqustin Agustus",38,0.04289118347895155
+"NeoShocker",37,"Grima The Mad",39,0.09647779479326186
+"NeoShocker",37,"Frippyy",40,0.03307223672758921
+"NeoShocker",37,"Mcopiate",41,0.025933609958506226
+"NeoShocker",37,"Styxx",42,0.045739348370927316
+"NeoShocker",37,"commander Shepard Brotherhood",43,0.048943270300333706
+"NeoShocker",37,"Colby Bosh'tet",44,0.07131147540983607
+"NeoShocker",37,"Aerodinamica Attiva",45,0.05502645502645503
+"NeoShocker",37,"Redus Taw",46,0.03393843725335438
+"NeoShocker",37,"AtheistOfFail",47,0.028255528255528257
+"Aqustin Agustus",38,"Kazanir",1,0.006432807317318323
+"Aqustin Agustus",38,"Luke Anninan",2,0.004532430320395937
+"Aqustin Agustus",38,"Zintage Enaka",3,0.008195940150576574
+"Aqustin Agustus",38,"Ariel Rin",4,0.00869123252858958
+"Aqustin Agustus",38,"Dujek Oneye",5,0.008186325377608671
+"Aqustin Agustus",38,"Storm Delay",6,0.014339152119700748
+"Aqustin Agustus",38,"The Oz",7,0.014971297359357061
+"Aqustin Agustus",38,"Kenneth Feld",8,0.009850746268656717
+"Aqustin Agustus",38,"Seddow",9,0.004206854093987277
+"Aqustin Agustus",38,"Mick Fightmaster",10,0.03524817593258658
+"Aqustin Agustus",38,"Itaer",11,0.017699115044247787
+"Aqustin Agustus",38,"Dalros",12,0.02357353335119207
+"Aqustin Agustus",38,"Mike Azariah",13,0.02508816120906801
+"Aqustin Agustus",38,"Phantomite",14,0.02827316224445411
+"Aqustin Agustus",38,"youngpuke2",15,0.004920452681646712
+"Aqustin Agustus",38,"Kshal Aideron",16,0.008265355734428178
+"Aqustin Agustus",38,"Machagon",17,0.04321683577602405
+"Aqustin Agustus",38,"Rots Mijnwerker",18,0.020607934054611025
+"Aqustin Agustus",38,"Gustav Mannfred",19,0.03751660026560425
+"Aqustin Agustus",38,"Drake Iddon",20,0.01424943566591422
+"Aqustin Agustus",38,"DutchGunner",21,0.045351473922902494
+"Aqustin Agustus",38,"Ankh Lai",22,0.008293321693583587
+"Aqustin Agustus",38,"Gideon Zendikar",23,0.05422446406052964
+"Aqustin Agustus",38,"Creatnos",24,0.00980392156862745
+"Aqustin Agustus",38,"SeriesPro",25,0.023809523809523808
+"Aqustin Agustus",38,"steven mardis",26,0.10702341137123746
+"Aqustin Agustus",38,"Komo Sunder",27,0.03875264910687254
+"Aqustin Agustus",38,"Aurous Victoirespere",28,0.044409613375130615
+"Aqustin Agustus",38,"Switch 4",29,0.01964085297418631
+"Aqustin Agustus",38,"Viciate",30,0.03317535545023697
+"Aqustin Agustus",38,"Frozen Fallout",31,0.051995798319327734
+"Aqustin Agustus",38,"Prospektor Schipplock",32,0.029365079365079365
+"Aqustin Agustus",38,"SKALE Organa",33,0.12590448625180897
+"Aqustin Agustus",38,"Bexey Songweaver",34,0.08949416342412451
+"Aqustin Agustus",38,"Hexator Gaming",35,0.03360370799536501
+"Aqustin Agustus",38,"MILINT ARC Trooper",36,0.033172496984318456
+"Aqustin Agustus",38,"NeoShocker",37,0.04289118347895155
+"Aqustin Agustus",38,"Aqustin Agustus",38,1.0
+"Aqustin Agustus",38,"Grima The Mad",39,0.15801704105344694
+"Aqustin Agustus",38,"Frippyy",40,0.04079933388842631
+"Aqustin Agustus",38,"Mcopiate",41,0.05410821643286573
+"Aqustin Agustus",38,"Styxx",42,0.04149128081779916
+"Aqustin Agustus",38,"commander Shepard Brotherhood",43,0.03711340206185567
+"Aqustin Agustus",38,"Colby Bosh'tet",44,0.08386075949367089
+"Aqustin Agustus",38,"Aerodinamica Attiva",45,0.03718199608610567
+"Aqustin Agustus",38,"Redus Taw",46,0.014781966001478197
+"Aqustin Agustus",38,"AtheistOfFail",47,0.0273972602739726
+"Grima The Mad",39,"Kazanir",1,0.006756756756756757
+"Grima The Mad",39,"Luke Anninan",2,0.004296511025986127
+"Grima The Mad",39,"Zintage Enaka",3,0.005073280721533258
+"Grima The Mad",39,"Ariel Rin",4,0.008435195474290332
+"Grima The Mad",39,"Dujek Oneye",5,0.00519525005709066
+"Grima The Mad",39,"Storm Delay",6,0.02186797465767423
+"Grima The Mad",39,"The Oz",7,0.013547415955845458
+"Grima The Mad",39,"Kenneth Feld",8,0.01013280865715691
+"Grima The Mad",39,"Seddow",9,0.005719830447883152
+"Grima The Mad",39,"Mick Fightmaster",10,0.03199352029968614
+"Grima The Mad",39,"Itaer",11,0.024425584765058996
+"Grima The Mad",39,"Dalros",12,0.03520756699947451
+"Grima The Mad",39,"Mike Azariah",13,0.027450588939908167
+"Grima The Mad",39,"Phantomite",14,0.041693531055233185
+"Grima The Mad",39,"youngpuke2",15,0.005762748722409481
+"Grima The Mad",39,"Kshal Aideron",16,0.009893005000268832
+"Grima The Mad",39,"Machagon",17,0.05158009444242644
+"Grima The Mad",39,"Rots Mijnwerker",18,0.02666666666666667
+"Grima The Mad",39,"Gustav Mannfred",19,0.04543989687399291
+"Grima The Mad",39,"Drake Iddon",20,0.020527859237536656
+"Grima The Mad",39,"DutchGunner",21,0.07010385756676558
+"Grima The Mad",39,"Ankh Lai",22,0.005911435941530524
+"Grima The Mad",39,"Gideon Zendikar",23,0.05842062852538275
+"Grima The Mad",39,"Creatnos",24,0.023168654173764906
+"Grima The Mad",39,"SeriesPro",25,0.0293896006028636
+"Grima The Mad",39,"steven mardis",26,0.16183574879227053
+"Grima The Mad",39,"Komo Sunder",27,0.054038004750593824
+"Grima The Mad",39,"Aurous Victoirespere",28,0.03671071953010279
+"Grima The Mad",39,"Switch 4",29,0.01762472885032538
+"Grima The Mad",39,"Viciate",30,0.042458808618504436
+"Grima The Mad",39,"Frozen Fallout",31,0.05782652043868395
+"Grima The Mad",39,"Prospektor Schipplock",32,0.050445103857566766
+"Grima The Mad",39,"SKALE Organa",33,0.18207480592801695
+"Grima The Mad",39,"Bexey Songweaver",34,0.12367270455965022
+"Grima The Mad",39,"Hexator Gaming",35,0.06016713091922005
+"Grima The Mad",39,"MILINT ARC Trooper",36,0.051061388410786
+"Grima The Mad",39,"NeoShocker",37,0.09647779479326186
+"Grima The Mad",39,"Aqustin Agustus",38,0.15801704105344694
+"Grima The Mad",39,"Grima The Mad",39,1.0
+"Grima The Mad",39,"Frippyy",40,0.04904214559386973
+"Grima The Mad",39,"Mcopiate",41,0.04181494661921708
+"Grima The Mad",39,"Styxx",42,0.06563039723661486
+"Grima The Mad",39,"commander Shepard Brotherhood",43,0.056338028169014086
+"Grima The Mad",39,"Colby Bosh'tet",44,0.14803392444101773
+"Grima The Mad",39,"Aerodinamica Attiva",45,0.06025179856115108
+"Grima The Mad",39,"Redus Taw",46,0.03467406380027739
+"Grima The Mad",39,"AtheistOfFail",47,0.04512820512820513
+"Frippyy",40,"Kazanir",1,0.019278350515463918
+"Frippyy",40,"Luke Anninan",2,0.0074681813400652155
+"Frippyy",40,"Zintage Enaka",3,0.017026658883051177
+"Frippyy",40,"Ariel Rin",4,0.009315180673559218
+"Frippyy",40,"Dujek Oneye",5,0.01006457618244226
+"Frippyy",40,"Storm Delay",6,0.012348307430274643
+"Frippyy",40,"The Oz",7,0.011786914682996455
+"Frippyy",40,"Kenneth Feld",8,0.00835010060362173
+"Frippyy",40,"Seddow",9,0.008452164894996112
+"Frippyy",40,"Mick Fightmaster",10,0.01025693104498832
+"Frippyy",40,"Itaer",11,0.01096067053513862
+"Frippyy",40,"Dalros",12,0.022978959025470654
+"Frippyy",40,"Mike Azariah",13,0.016284009305148173
+"Frippyy",40,"Phantomite",14,0.023576512455516015
+"Frippyy",40,"youngpuke2",15,0.006506037382146992
+"Frippyy",40,"Kshal Aideron",16,0.006406080347448426
+"Frippyy",40,"Machagon",17,0.022376543209876542
+"Frippyy",40,"Rots Mijnwerker",18,0.026217228464419477
+"Frippyy",40,"Gustav Mannfred",19,0.03235800344234079
+"Frippyy",40,"Drake Iddon",20,0.016551525618883133
+"Frippyy",40,"DutchGunner",21,0.03245991396167384
+"Frippyy",40,"Ankh Lai",22,0.02404494382022472
+"Frippyy",40,"Gideon Zendikar",23,0.025839793281653745
+"Frippyy",40,"Creatnos",24,0.010626603151337486
+"Frippyy",40,"SeriesPro",25,0.03892493049119555
+"Frippyy",40,"steven mardis",26,0.02832618025751073
+"Frippyy",40,"Komo Sunder",27,0.03313535479837449
+"Frippyy",40,"Aurous Victoirespere",28,0.027427317608337904
+"Frippyy",40,"Switch 4",29,0.023337222870478413
+"Frippyy",40,"Viciate",30,0.019664967225054626
+"Frippyy",40,"Frozen Fallout",31,0.039889196675900275
+"Frippyy",40,"Prospektor Schipplock",32,0.036283185840707964
+"Frippyy",40,"SKALE Organa",33,0.03698332124728064
+"Frippyy",40,"Bexey Songweaver",34,0.05858310626702997
+"Frippyy",40,"Hexator Gaming",35,0.029174425822470516
+"Frippyy",40,"MILINT ARC Trooper",36,0.029182879377431907
+"Frippyy",40,"NeoShocker",37,0.03307223672758921
+"Frippyy",40,"Aqustin Agustus",38,0.04079933388842631
+"Frippyy",40,"Grima The Mad",39,0.04904214559386973
+"Frippyy",40,"Frippyy",40,1.0
+"Frippyy",40,"Mcopiate",41,0.059496567505720827
+"Frippyy",40,"Styxx",42,0.057971014492753624
+"Frippyy",40,"commander Shepard Brotherhood",43,0.0705596107055961
+"Frippyy",40,"Colby Bosh'tet",44,0.025556471558120363
+"Frippyy",40,"Aerodinamica Attiva",45,0.017429193899782137
+"Frippyy",40,"Redus Taw",46,0.033140016570008285
+"Frippyy",40,"AtheistOfFail",47,0.03614457831325301
+"Mcopiate",41,"Kazanir",1,0.006858568014132807
+"Mcopiate",41,"Luke Anninan",2,0.0052494830054615835
+"Mcopiate",41,"Zintage Enaka",3,0.0107431500098561
+"Mcopiate",41,"Ariel Rin",4,0.007067320092855301
+"Mcopiate",41,"Dujek Oneye",5,0.008401386522530991
+"Mcopiate",41,"Storm Delay",6,0.007962840079628402
+"Mcopiate",41,"The Oz",7,0.008194444444444445
+"Mcopiate",41,"Kenneth Feld",8,0.0033700980392156864
+"Mcopiate",41,"Seddow",9,0.004277963272120201
+"Mcopiate",41,"Mick Fightmaster",10,0.007960301871187842
+"Mcopiate",41,"Itaer",11,0.006477551932097387
+"Mcopiate",41,"Dalros",12,0.019830854476523767
+"Mcopiate",41,"Mike Azariah",13,0.008704557091653867
+"Mcopiate",41,"Phantomite",14,0.013112491373360938
+"Mcopiate",41,"youngpuke2",15,0.004003336113427856
+"Mcopiate",41,"Kshal Aideron",16,0.005647858748697702
+"Mcopiate",41,"Machagon",17,0.018695471541337765
+"Mcopiate",41,"Rots Mijnwerker",18,0.015066964285714286
+"Mcopiate",41,"Gustav Mannfred",19,0.01632801161103048
+"Mcopiate",41,"Drake Iddon",20,0.013284132841328414
+"Mcopiate",41,"DutchGunner",21,0.02518891687657431
+"Mcopiate",41,"Ankh Lai",22,0.0059799165068261315
+"Mcopiate",41,"Gideon Zendikar",23,0.02008407286314806
+"Mcopiate",41,"Creatnos",24,0.010260457774269928
+"Mcopiate",41,"SeriesPro",25,0.0335946248600224
+"Mcopiate",41,"steven mardis",26,0.030927835051546393
+"Mcopiate",41,"Komo Sunder",27,0.013372472276581865
+"Mcopiate",41,"Aurous Victoirespere",28,0.0182370820668693
+"Mcopiate",41,"Switch 4",29,0.011922959339651483
+"Mcopiate",41,"Viciate",30,0.01692047377326565
+"Mcopiate",41,"Frozen Fallout",31,0.02315661182205972
+"Mcopiate",41,"Prospektor Schipplock",32,0.03952991452991453
+"Mcopiate",41,"SKALE Organa",33,0.03269069572506287
+"Mcopiate",41,"Bexey Songweaver",34,0.03274942878903275
+"Mcopiate",41,"Hexator Gaming",35,0.02456140350877193
+"Mcopiate",41,"MILINT ARC Trooper",36,0.020573108008817047
+"Mcopiate",41,"NeoShocker",37,0.025933609958506226
+"Mcopiate",41,"Aqustin Agustus",38,0.05410821643286573
+"Mcopiate",41,"Grima The Mad",39,0.04181494661921708
+"Mcopiate",41,"Frippyy",40,0.059496567505720827
+"Mcopiate",41,"Mcopiate",41,1.0
+"Mcopiate",41,"Styxx",42,0.029239766081871343
+"Mcopiate",41,"commander Shepard Brotherhood",43,0.05736434108527132
+"Mcopiate",41,"Colby Bosh'tet",44,0.023483365949119372
+"Mcopiate",41,"Aerodinamica Attiva",45,0.026499302649930265
+"Mcopiate",41,"Redus Taw",46,0.02742409402546523
+"Mcopiate",41,"AtheistOfFail",47,0.043478260869565216
+"Styxx",42,"Kazanir",1,0.010525289932755092
+"Styxx",42,"Luke Anninan",2,0.027199497855424207
+"Styxx",42,"Zintage Enaka",3,0.005332352670773191
+"Styxx",42,"Ariel Rin",4,0.007028562883206221
+"Styxx",42,"Dujek Oneye",5,0.006486547464606013
+"Styxx",42,"Storm Delay",6,0.08516369664318275
+"Styxx",42,"The Oz",7,0.01633779869659667
+"Styxx",42,"Kenneth Feld",8,0.058758314855875834
+"Styxx",42,"Seddow",9,0.009165021013722213
+"Styxx",42,"Mick Fightmaster",10,0.008216529724504592
+"Styxx",42,"Itaer",11,0.021067139200630046
+"Styxx",42,"Dalros",12,0.04660486093710849
+"Styxx",42,"Mike Azariah",13,0.05089820359281437
+"Styxx",42,"Phantomite",14,0.024793388429752067
+"Styxx",42,"youngpuke2",15,0.006121462707404822
+"Styxx",42,"Kshal Aideron",16,0.008055967776128896
+"Styxx",42,"Machagon",17,0.02924745317121262
+"Styxx",42,"Rots Mijnwerker",18,0.025896887621762888
+"Styxx",42,"Gustav Mannfred",19,0.042527702905061394
+"Styxx",42,"Drake Iddon",20,0.013840365493147003
+"Styxx",42,"DutchGunner",21,0.05401755570560432
+"Styxx",42,"Ankh Lai",22,0.007348309888725593
+"Styxx",42,"Gideon Zendikar",23,0.03281644428416877
+"Styxx",42,"Creatnos",24,0.18161925601750548
+"Styxx",42,"SeriesPro",25,0.04023361453601557
+"Styxx",42,"steven mardis",26,0.033846153846153845
+"Styxx",42,"Komo Sunder",27,0.019380888290713324
+"Styxx",42,"Aurous Victoirespere",28,0.02346805736636245
+"Styxx",42,"Switch 4",29,0.02649858502701312
+"Styxx",42,"Viciate",30,0.030103995621237
+"Styxx",42,"Frozen Fallout",31,0.046583850931677016
+"Styxx",42,"Prospektor Schipplock",32,0.04752851711026616
+"Styxx",42,"SKALE Organa",33,0.041961852861035424
+"Styxx",42,"Bexey Songweaver",34,0.06876640419947506
+"Styxx",42,"Hexator Gaming",35,0.037827352085354024
+"Styxx",42,"MILINT ARC Trooper",36,0.03243512974051896
+"Styxx",42,"NeoShocker",37,0.045739348370927316
+"Styxx",42,"Aqustin Agustus",38,0.04149128081779916
+"Styxx",42,"Grima The Mad",39,0.06563039723661486
+"Styxx",42,"Frippyy",40,0.057971014492753624
+"Styxx",42,"Mcopiate",41,0.029239766081871343
+"Styxx",42,"Styxx",42,1.0
+"Styxx",42,"commander Shepard Brotherhood",43,0.0365296803652968
+"Styxx",42,"Colby Bosh'tet",44,0.03229665071770335
+"Styxx",42,"Aerodinamica Attiva",45,0.03206997084548105
+"Styxx",42,"Redus Taw",46,0.029779630732578916
+"Styxx",42,"AtheistOfFail",47,0.036303630363036306
+"commander Shepard Brotherhood",43,"Kazanir",1,0.007417467613873799
+"commander Shepard Brotherhood",43,"Luke Anninan",2,0.0020133517007523576
+"commander Shepard Brotherhood",43,"Zintage Enaka",3,0.0069040339283953055
+"commander Shepard Brotherhood",43,"Ariel Rin",4,0.003917525773195876
+"commander Shepard Brotherhood",43,"Dujek Oneye",5,0.0030469940232040315
+"commander Shepard Brotherhood",43,"Storm Delay",6,0.013935715891211509
+"commander Shepard Brotherhood",43,"The Oz",7,0.0050876462698302575
+"commander Shepard Brotherhood",43,"Kenneth Feld",8,0.004313443565780014
+"commander Shepard Brotherhood",43,"Seddow",9,0.0027674795049866846
+"commander Shepard Brotherhood",43,"Mick Fightmaster",10,0.0038274542257163546
+"commander Shepard Brotherhood",43,"Itaer",11,0.008593396653098146
+"commander Shepard Brotherhood",43,"Dalros",12,0.01799410029498525
+"commander Shepard Brotherhood",43,"Mike Azariah",13,0.006054386865059005
+"commander Shepard Brotherhood",43,"Phantomite",14,0.0165616981572195
+"commander Shepard Brotherhood",43,"youngpuke2",15,0.0020027816411682894
+"commander Shepard Brotherhood",43,"Kshal Aideron",16,0.003455652460095442
+"commander Shepard Brotherhood",43,"Machagon",17,0.012626262626262626
+"commander Shepard Brotherhood",43,"Rots Mijnwerker",18,0.011830985915492958
+"commander Shepard Brotherhood",43,"Gustav Mannfred",19,0.02492559523809524
+"commander Shepard Brotherhood",43,"Drake Iddon",20,0.005752212389380531
+"commander Shepard Brotherhood",43,"DutchGunner",21,0.022620571916346564
+"commander Shepard Brotherhood",43,"Ankh Lai",22,0.00703905540417802
+"commander Shepard Brotherhood",43,"Gideon Zendikar",23,0.016159695817490494
+"commander Shepard Brotherhood",43,"Creatnos",24,0.011263073209975865
+"commander Shepard Brotherhood",43,"SeriesPro",25,0.04904306220095694
+"commander Shepard Brotherhood",43,"steven mardis",26,0.03470715835140998
+"commander Shepard Brotherhood",43,"Komo Sunder",27,0.013576158940397352
+"commander Shepard Brotherhood",43,"Aurous Victoirespere",28,0.014321295143212951
+"commander Shepard Brotherhood",43,"Switch 4",29,0.013979496738117428
+"commander Shepard Brotherhood",43,"Viciate",30,0.022104332449160036
+"commander Shepard Brotherhood",43,"Frozen Fallout",31,0.02190237797246558
+"commander Shepard Brotherhood",43,"Prospektor Schipplock",32,0.05102040816326531
+"commander Shepard Brotherhood",43,"SKALE Organa",33,0.029513888888888888
+"commander Shepard Brotherhood",43,"Bexey Songweaver",34,0.0488390712570056
+"commander Shepard Brotherhood",43,"Hexator Gaming",35,0.0381791483113069
+"commander Shepard Brotherhood",43,"MILINT ARC Trooper",36,0.03466872110939907
+"commander Shepard Brotherhood",43,"NeoShocker",37,0.048943270300333706
+"commander Shepard Brotherhood",43,"Aqustin Agustus",38,0.03711340206185567
+"commander Shepard Brotherhood",43,"Grima The Mad",39,0.056338028169014086
+"commander Shepard Brotherhood",43,"Frippyy",40,0.0705596107055961
+"commander Shepard Brotherhood",43,"Mcopiate",41,0.05736434108527132
+"commander Shepard Brotherhood",43,"Styxx",42,0.0365296803652968
+"commander Shepard Brotherhood",43,"commander Shepard Brotherhood",43,1.0
+"commander Shepard Brotherhood",43,"Colby Bosh'tet",44,0.03305785123966942
+"commander Shepard Brotherhood",43,"Aerodinamica Attiva",45,0.05504587155963303
+"commander Shepard Brotherhood",43,"Redus Taw",46,0.02556237218813906
+"commander Shepard Brotherhood",43,"AtheistOfFail",47,0.06212424849699399
+"Colby Bosh'tet",44,"Kazanir",1,0.005425499849291671
+"Colby Bosh'tet",44,"Luke Anninan",2,0.0030701982619555602
+"Colby Bosh'tet",44,"Zintage Enaka",3,0.0049424959604600326
+"Colby Bosh'tet",44,"Ariel Rin",4,0.008488791745031261
+"Colby Bosh'tet",44,"Dujek Oneye",5,0.004539447221743377
+"Colby Bosh'tet",44,"Storm Delay",6,0.012040689225659124
+"Colby Bosh'tet",44,"The Oz",7,0.010565312843029638
+"Colby Bosh'tet",44,"Kenneth Feld",8,0.006050386828010315
+"Colby Bosh'tet",44,"Seddow",9,0.004362777806292665
+"Colby Bosh'tet",44,"Mick Fightmaster",10,0.03943836465001033
+"Colby Bosh'tet",44,"Itaer",11,0.02398641477393335
+"Colby Bosh'tet",44,"Dalros",12,0.0225140712945591
+"Colby Bosh'tet",44,"Mike Azariah",13,0.02831715210355987
+"Colby Bosh'tet",44,"Phantomite",14,0.05874439461883408
+"Colby Bosh'tet",44,"youngpuke2",15,0.0038240917782026767
+"Colby Bosh'tet",44,"Kshal Aideron",16,0.012535952678135344
+"Colby Bosh'tet",44,"Machagon",17,0.03823088455772114
+"Colby Bosh'tet",44,"Rots Mijnwerker",18,0.04160084254870985
+"Colby Bosh'tet",44,"Gustav Mannfred",19,0.025649457415323908
+"Colby Bosh'tet",44,"Drake Iddon",20,0.03980891719745223
+"Colby Bosh'tet",44,"DutchGunner",21,0.038765525028227325
+"Colby Bosh'tet",44,"Ankh Lai",22,0.004459915152833678
+"Colby Bosh'tet",44,"Gideon Zendikar",23,0.044676409185803755
+"Colby Bosh'tet",44,"Creatnos",24,0.01696113074204947
+"Colby Bosh'tet",44,"SeriesPro",25,0.03158769742310889
+"Colby Bosh'tet",44,"steven mardis",26,0.11979609175870858
+"Colby Bosh'tet",44,"Komo Sunder",27,0.023304451747833882
+"Colby Bosh'tet",44,"Aurous Victoirespere",28,0.12344983089064261
+"Colby Bosh'tet",44,"Switch 4",29,0.018814939623701208
+"Colby Bosh'tet",44,"Viciate",30,0.08882521489971347
+"Colby Bosh'tet",44,"Frozen Fallout",31,0.04064616988014591
+"Colby Bosh'tet",44,"Prospektor Schipplock",32,0.039452495974235106
+"Colby Bosh'tet",44,"SKALE Organa",33,0.1996904024767802
+"Colby Bosh'tet",44,"Bexey Songweaver",34,0.0710172744721689
+"Colby Bosh'tet",44,"Hexator Gaming",35,0.04281524926686217
+"Colby Bosh'tet",44,"MILINT ARC Trooper",36,0.033292978208232446
+"Colby Bosh'tet",44,"NeoShocker",37,0.07131147540983607
+"Colby Bosh'tet",44,"Aqustin Agustus",38,0.08386075949367089
+"Colby Bosh'tet",44,"Grima The Mad",39,0.14803392444101773
+"Colby Bosh'tet",44,"Frippyy",40,0.025556471558120363
+"Colby Bosh'tet",44,"Mcopiate",41,0.023483365949119372
+"Colby Bosh'tet",44,"Styxx",42,0.03229665071770335
+"Colby Bosh'tet",44,"commander Shepard Brotherhood",43,0.03305785123966942
+"Colby Bosh'tet",44,"Colby Bosh'tet",44,1.0
+"Colby Bosh'tet",44,"Aerodinamica Attiva",45,0.054
+"Colby Bosh'tet",44,"Redus Taw",46,0.01711309523809524
+"Colby Bosh'tet",44,"AtheistOfFail",47,0.02054794520547945
+"Aerodinamica Attiva",45,"Kazanir",1,0.002481133050759847
+"Aerodinamica Attiva",45,"Luke Anninan",2,0.0031205373671127096
+"Aerodinamica Attiva",45,"Zintage Enaka",3,0.002637749120750293
+"Aerodinamica Attiva",45,"Ariel Rin",4,0.003030147398695496
+"Aerodinamica Attiva",45,"Dujek Oneye",5,0.0031545741324921135
+"Aerodinamica Attiva",45,"Storm Delay",6,0.01107419712070875
+"Aerodinamica Attiva",45,"The Oz",7,0.0074920223835730475
+"Aerodinamica Attiva",45,"Kenneth Feld",8,0.005213657738703741
+"Aerodinamica Attiva",45,"Seddow",9,0.00417144644905621
+"Aerodinamica Attiva",45,"Mick Fightmaster",10,0.009831315326503156
+"Aerodinamica Attiva",45,"Itaer",11,0.02057427085688447
+"Aerodinamica Attiva",45,"Dalros",12,0.025153553670663936
+"Aerodinamica Attiva",45,"Mike Azariah",13,0.0131551901336074
+"Aerodinamica Attiva",45,"Phantomite",14,0.027719543442813882
+"Aerodinamica Attiva",45,"youngpuke2",15,0.0034438704660334388
+"Aerodinamica Attiva",45,"Kshal Aideron",16,0.0031162866983762507
+"Aerodinamica Attiva",45,"Machagon",17,0.02756892230576441
+"Aerodinamica Attiva",45,"Rots Mijnwerker",18,0.016164994425863992
+"Aerodinamica Attiva",45,"Gustav Mannfred",19,0.027808269301134284
+"Aerodinamica Attiva",45,"Drake Iddon",20,0.015964523281596452
+"Aerodinamica Attiva",45,"DutchGunner",21,0.032448377581120944
+"Aerodinamica Attiva",45,"Ankh Lai",22,0.0034858877769031824
+"Aerodinamica Attiva",45,"Gideon Zendikar",23,0.04034171808258187
+"Aerodinamica Attiva",45,"Creatnos",24,0.023515344758868077
+"Aerodinamica Attiva",45,"SeriesPro",25,0.023076923076923078
+"Aerodinamica Attiva",45,"steven mardis",26,0.03597122302158273
+"Aerodinamica Attiva",45,"Komo Sunder",27,0.014988595633756924
+"Aerodinamica Attiva",45,"Aurous Victoirespere",28,0.049906425452276984
+"Aerodinamica Attiva",45,"Switch 4",29,0.018728891618053422
+"Aerodinamica Attiva",45,"Viciate",30,0.028037383177570093
+"Aerodinamica Attiva",45,"Frozen Fallout",31,0.04264524103831891
+"Aerodinamica Attiva",45,"Prospektor Schipplock",32,0.03046218487394958
+"Aerodinamica Attiva",45,"SKALE Organa",33,0.04201680672268908
+"Aerodinamica Attiva",45,"Bexey Songweaver",34,0.04842428900845504
+"Aerodinamica Attiva",45,"Hexator Gaming",35,0.038924274593064405
+"Aerodinamica Attiva",45,"MILINT ARC Trooper",36,0.03711952487008166
+"Aerodinamica Attiva",45,"NeoShocker",37,0.05502645502645503
+"Aerodinamica Attiva",45,"Aqustin Agustus",38,0.03718199608610567
+"Aerodinamica Attiva",45,"Grima The Mad",39,0.06025179856115108
+"Aerodinamica Attiva",45,"Frippyy",40,0.017429193899782137
+"Aerodinamica Attiva",45,"Mcopiate",41,0.026499302649930265
+"Aerodinamica Attiva",45,"Styxx",42,0.03206997084548105
+"Aerodinamica Attiva",45,"commander Shepard Brotherhood",43,0.05504587155963303
+"Aerodinamica Attiva",45,"Colby Bosh'tet",44,0.054
+"Aerodinamica Attiva",45,"Aerodinamica Attiva",45,1.0
+"Aerodinamica Attiva",45,"Redus Taw",46,0.023233301064859633
+"Aerodinamica Attiva",45,"AtheistOfFail",47,0.04285714285714286
+"Redus Taw",46,"Kazanir",1,0.004415011037527594
+"Redus Taw",46,"Luke Anninan",2,0.022324742814720543
+"Redus Taw",46,"Zintage Enaka",3,0.00217947503079693
+"Redus Taw",46,"Ariel Rin",4,0.003743234356821286
+"Redus Taw",46,"Dujek Oneye",5,0.0021205868867491978
+"Redus Taw",46,"Storm Delay",6,0.11446196024674435
+"Redus Taw",46,"The Oz",7,0.007476976383696544
+"Redus Taw",46,"Kenneth Feld",8,0.051181102362204724
+"Redus Taw",46,"Seddow",9,0.022251240532776183
+"Redus Taw",46,"Mick Fightmaster",10,0.004488330341113106
+"Redus Taw",46,"Itaer",11,0.08887886307241145
+"Redus Taw",46,"Dalros",12,0.12558962264150944
+"Redus Taw",46,"Mike Azariah",13,0.0123419926346173
+"Redus Taw",46,"Phantomite",14,0.011777301927194861
+"Redus Taw",46,"youngpuke2",15,0.01952734938422279
+"Redus Taw",46,"Kshal Aideron",16,0.0022019334049409238
+"Redus Taw",46,"Machagon",17,0.011674571324334184
+"Redus Taw",46,"Rots Mijnwerker",18,0.10155815247634947
+"Redus Taw",46,"Gustav Mannfred",19,0.027649769585253458
+"Redus Taw",46,"Drake Iddon",20,0.005879059350503919
+"Redus Taw",46,"DutchGunner",21,0.019933554817275746
+"Redus Taw",46,"Ankh Lai",22,0.003694447462783875
+"Redus Taw",46,"Gideon Zendikar",23,0.010895883777239709
+"Redus Taw",46,"Creatnos",24,0.15982286634460546
+"Redus Taw",46,"SeriesPro",25,0.026402640264026403
+"Redus Taw",46,"steven mardis",26,0.020077220077220077
+"Redus Taw",46,"Komo Sunder",27,0.006163780452010567
+"Redus Taw",46,"Aurous Victoirespere",28,0.012683916793505834
+"Redus Taw",46,"Switch 4",29,0.009171762090050028
+"Redus Taw",46,"Viciate",30,0.02766531713900135
+"Redus Taw",46,"Frozen Fallout",31,0.018329938900203666
+"Redus Taw",46,"Prospektor Schipplock",32,0.026984126984126985
+"Redus Taw",46,"SKALE Organa",33,0.021710526315789475
+"Redus Taw",46,"Bexey Songweaver",34,0.028203556100551808
+"Redus Taw",46,"Hexator Gaming",35,0.02121559633027523
+"Redus Taw",46,"MILINT ARC Trooper",36,0.023952095808383235
+"Redus Taw",46,"NeoShocker",37,0.03393843725335438
+"Redus Taw",46,"Aqustin Agustus",38,0.014781966001478197
+"Redus Taw",46,"Grima The Mad",39,0.03467406380027739
+"Redus Taw",46,"Frippyy",40,0.033140016570008285
+"Redus Taw",46,"Mcopiate",41,0.02742409402546523
+"Redus Taw",46,"Styxx",42,0.029779630732578916
+"Redus Taw",46,"commander Shepard Brotherhood",43,0.02556237218813906
+"Redus Taw",46,"Colby Bosh'tet",44,0.01711309523809524
+"Redus Taw",46,"Aerodinamica Attiva",45,0.023233301064859633
+"Redus Taw",46,"Redus Taw",46,1.0
+"Redus Taw",46,"AtheistOfFail",47,0.03103448275862069
+"AtheistOfFail",47,"Kazanir",1,0.004317607413647851
+"AtheistOfFail",47,"Luke Anninan",2,0.001704484925961436
+"AtheistOfFail",47,"Zintage Enaka",3,0.003476360746920938
+"AtheistOfFail",47,"Ariel Rin",4,0.002587991718426501
+"AtheistOfFail",47,"Dujek Oneye",5,0.0020025915891153257
+"AtheistOfFail",47,"Storm Delay",6,0.010321100917431193
+"AtheistOfFail",47,"The Oz",7,0.004459101676808026
+"AtheistOfFail",47,"Kenneth Feld",8,0.004465212876427829
+"AtheistOfFail",47,"Seddow",9,0.002467062096477875
+"AtheistOfFail",47,"Mick Fightmaster",10,0.0027162557459256163
+"AtheistOfFail",47,"Itaer",11,0.005310551835603787
+"AtheistOfFail",47,"Dalros",12,0.018885166006701187
+"AtheistOfFail",47,"Mike Azariah",13,0.006956702315439726
+"AtheistOfFail",47,"Phantomite",14,0.012380952380952381
+"AtheistOfFail",47,"youngpuke2",15,0.0021829172730325756
+"AtheistOfFail",47,"Kshal Aideron",16,0.0024802954307446396
+"AtheistOfFail",47,"Machagon",17,0.012769704975781594
+"AtheistOfFail",47,"Rots Mijnwerker",18,0.008680555555555556
+"AtheistOfFail",47,"Gustav Mannfred",19,0.02120277563608327
+"AtheistOfFail",47,"Drake Iddon",20,0.0059943054098606325
+"AtheistOfFail",47,"DutchGunner",21,0.016873889875666074
+"AtheistOfFail",47,"Ankh Lai",22,0.005045871559633028
+"AtheistOfFail",47,"Gideon Zendikar",23,0.021618903971845148
+"AtheistOfFail",47,"Creatnos",24,0.0109151973131822
+"AtheistOfFail",47,"SeriesPro",25,0.036290322580645164
+"AtheistOfFail",47,"steven mardis",26,0.021686746987951807
+"AtheistOfFail",47,"Komo Sunder",27,0.0068143100511073255
+"AtheistOfFail",47,"Aurous Victoirespere",28,0.022834116856950974
+"AtheistOfFail",47,"Switch 4",29,0.00959079283887468
+"AtheistOfFail",47,"Viciate",30,0.016456921587608905
+"AtheistOfFail",47,"Frozen Fallout",31,0.02620967741935484
+"AtheistOfFail",47,"Prospektor Schipplock",32,0.044529262086514
+"AtheistOfFail",47,"SKALE Organa",33,0.022727272727272728
+"AtheistOfFail",47,"Bexey Songweaver",34,0.03347639484978541
+"AtheistOfFail",47,"Hexator Gaming",35,0.016317016317016316
+"AtheistOfFail",47,"MILINT ARC Trooper",36,0.02826267664172901
+"AtheistOfFail",47,"NeoShocker",37,0.028255528255528257
+"AtheistOfFail",47,"Aqustin Agustus",38,0.0273972602739726
+"AtheistOfFail",47,"Grima The Mad",39,0.04512820512820513
+"AtheistOfFail",47,"Frippyy",40,0.03614457831325301
+"AtheistOfFail",47,"Mcopiate",41,0.043478260869565216
+"AtheistOfFail",47,"Styxx",42,0.036303630363036306
+"AtheistOfFail",47,"commander Shepard Brotherhood",43,0.06212424849699399
+"AtheistOfFail",47,"Colby Bosh'tet",44,0.02054794520547945
+"AtheistOfFail",47,"Aerodinamica Attiva",45,0.04285714285714286
+"AtheistOfFail",47,"Redus Taw",46,0.03103448275862069
+"AtheistOfFail",47,"AtheistOfFail",47,1.0

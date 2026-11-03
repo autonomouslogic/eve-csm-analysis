@@ -1,0 +1,2117 @@
+Candidate,Order,Other,OtherOrder,Jaccard
+"Merkelchen",1,"Merkelchen",1,1.0
+"Merkelchen",1,"Gobbins",2,0.013217697801688156
+"Merkelchen",1,"Innominate",3,0.7865973228749255
+"Merkelchen",1,"Brisc Rubal",4,0.6365165892724948
+"Merkelchen",1,"Kenneth Feld",5,0.013679465257267216
+"Merkelchen",1,"I Beast",6,0.44879614767255216
+"Merkelchen",1,"Suitonia",7,0.47829431805692935
+"Merkelchen",1,"Vily",8,0.01815410199556541
+"Merkelchen",1,"Mike Azariah",9,0.030794068404687874
+"Merkelchen",1,"progodlegend",10,0.009325946445060018
+"Merkelchen",1,"Arsia Elkin",11,0.019416243654822335
+"Merkelchen",1,"Mark Resurrectus",12,0.011409826713256792
+"Merkelchen",1,"Uriel Paradisi Anteovnuecci",13,0.007859908686354968
+"Merkelchen",1,"Seddow",14,0.014150943396226415
+"Merkelchen",1,"Stitch Kaneland",15,0.01216927599644493
+"Merkelchen",1,"Rixx Javix",16,0.018
+"Merkelchen",1,"RonUSMC",17,0.014185765983112183
+"Merkelchen",1,"Dr Spodumain",18,0.02671072559548396
+"Merkelchen",1,"teddy Gbyc",19,0.010056026432983766
+"Merkelchen",1,"Phantomite",20,0.017706220419202164
+"Merkelchen",1,"Jurius Doctor",21,0.023368251410153102
+"Merkelchen",1,"Maldavius",22,0.020844347103693074
+"Merkelchen",1,"Jim Halescott",23,0.016431322207958923
+"Merkelchen",1,"Shui Jing Jing",24,0.014948859166011016
+"Merkelchen",1,"Eluwien",25,0.013230046131081905
+"Merkelchen",1,"Evie Kouvo",26,0.012822606991179352
+"Merkelchen",1,"Mantis Akiga",27,0.015733333333333332
+"Merkelchen",1,"Baculus Orden",28,0.7517467055806137
+"Merkelchen",1,"Rich Richman",29,0.014660215209070557
+"Merkelchen",1,"Angry Mustache",30,0.6811594202898551
+"Merkelchen",1,"Winzentowitsch Madeveda",31,0.010530714584203928
+"Merkelchen",1,"DutchGunner",32,0.015547703180212015
+"Merkelchen",1,"White 0rchid",33,0.013696396543290397
+"Merkelchen",1,"Gay Pride BOOOOOM",34,0.007881067526419488
+"Merkelchen",1,"Robert Downey Iron",35,0.009157675219874876
+"Merkelchen",1,"Broodin",36,0.7454623287671233
+"Merkelchen",1,"Xeromus Plague",37,0.012248230811105062
+"Merkelchen",1,"Lucrative Business Opportunity",38,0.004543733434305188
+"Merkelchen",1,"Micromancer",39,0.7794238683127572
+"Merkelchen",1,"Kay-Lynn Tsero",40,0.008882783882783882
+"Merkelchen",1,"Xenuria",41,0.7654445462878093
+"Merkelchen",1,"Reicher514",42,0.005663488422109112
+"Merkelchen",1,"Styxx",43,0.008270676691729323
+"Merkelchen",1,"hurleyalex hurley",44,0.003676470588235294
+"Merkelchen",1,"knockerwrench Alduin",45,0.005441008018327606
+"Merkelchen",1,"TDor Clau",46,0.0038314176245210726
+"Gobbins",2,"Merkelchen",1,0.013217697801688156
+"Gobbins",2,"Gobbins",2,1.0
+"Gobbins",2,"Innominate",3,0.012457025494485869
+"Gobbins",2,"Brisc Rubal",4,0.04168666986717875
+"Gobbins",2,"Kenneth Feld",5,0.5737947352854185
+"Gobbins",2,"I Beast",6,0.042082790563033726
+"Gobbins",2,"Suitonia",7,0.06448733682918666
+"Gobbins",2,"Vily",8,0.6599371288857842
+"Gobbins",2,"Mike Azariah",9,0.10386585933861202
+"Gobbins",2,"progodlegend",10,0.7377496131456783
+"Gobbins",2,"Arsia Elkin",11,0.4899019042123485
+"Gobbins",2,"Mark Resurrectus",12,0.040973949469825896
+"Gobbins",2,"Uriel Paradisi Anteovnuecci",13,0.2575479128380152
+"Gobbins",2,"Seddow",14,0.3931928225576759
+"Gobbins",2,"Stitch Kaneland",15,0.031585518102372034
+"Gobbins",2,"Rixx Javix",16,0.04405516700437937
+"Gobbins",2,"RonUSMC",17,0.591991038924671
+"Gobbins",2,"Dr Spodumain",18,0.05224871908406604
+"Gobbins",2,"teddy Gbyc",19,0.017076942905013534
+"Gobbins",2,"Phantomite",20,0.4847804821911502
+"Gobbins",2,"Jurius Doctor",21,0.06163734776725305
+"Gobbins",2,"Maldavius",22,0.09831339195617703
+"Gobbins",2,"Jim Halescott",23,0.022482893450635387
+"Gobbins",2,"Shui Jing Jing",24,0.011073189230185817
+"Gobbins",2,"Eluwien",25,0.009138282607053847
+"Gobbins",2,"Evie Kouvo",26,0.017068779258192293
+"Gobbins",2,"Mantis Akiga",27,0.010607225211375864
+"Gobbins",2,"Baculus Orden",28,0.00396399757496619
+"Gobbins",2,"Rich Richman",29,0.1514200189822589
+"Gobbins",2,"Angry Mustache",30,0.08146875870392721
+"Gobbins",2,"Winzentowitsch Madeveda",31,0.010313802940531051
+"Gobbins",2,"DutchGunner",32,0.01657995143947277
+"Gobbins",2,"White 0rchid",33,0.03291009924109749
+"Gobbins",2,"Gay Pride BOOOOOM",34,0.015894143438772313
+"Gobbins",2,"Robert Downey Iron",35,0.030884004492218835
+"Gobbins",2,"Broodin",36,0.005960777176138691
+"Gobbins",2,"Xeromus Plague",37,0.007274149393820884
+"Gobbins",2,"Lucrative Business Opportunity",38,0.006693331156640274
+"Gobbins",2,"Micromancer",39,0.006176065371276545
+"Gobbins",2,"Kay-Lynn Tsero",40,0.010150674068199842
+"Gobbins",2,"Xenuria",41,0.012547051442910916
+"Gobbins",2,"Reicher514",42,0.2927029467290487
+"Gobbins",2,"Styxx",43,0.011209487450247746
+"Gobbins",2,"hurleyalex hurley",44,0.06568740716289817
+"Gobbins",2,"knockerwrench Alduin",45,0.005167746698384054
+"Gobbins",2,"TDor Clau",46,0.029659616655651023
+"Innominate",3,"Merkelchen",1,0.7865973228749255
+"Innominate",3,"Gobbins",2,0.012457025494485869
+"Innominate",3,"Innominate",3,1.0
+"Innominate",3,"Brisc Rubal",4,0.7042358522534734
+"Innominate",3,"Kenneth Feld",5,0.009405009405009405
+"Innominate",3,"I Beast",6,0.5069388195906906
+"Innominate",3,"Suitonia",7,0.525777166437414
+"Innominate",3,"Vily",8,0.014910801455578238
+"Innominate",3,"Mike Azariah",9,0.07862217181063817
+"Innominate",3,"progodlegend",10,0.006743866187497227
+"Innominate",3,"Arsia Elkin",11,0.05412719891745602
+"Innominate",3,"Mark Resurrectus",12,0.0778288340034463
+"Innominate",3,"Uriel Paradisi Anteovnuecci",13,0.010677731673582295
+"Innominate",3,"Seddow",14,0.012634889648066808
+"Innominate",3,"Stitch Kaneland",15,0.014733562666320504
+"Innominate",3,"Rixx Javix",16,0.018573551263001486
+"Innominate",3,"RonUSMC",17,0.01241890639481001
+"Innominate",3,"Dr Spodumain",18,0.02306992461658435
+"Innominate",3,"teddy Gbyc",19,0.0754730608117868
+"Innominate",3,"Phantomite",20,0.05801410005945808
+"Innominate",3,"Jurius Doctor",21,0.01788293555265149
+"Innominate",3,"Maldavius",22,0.018241181063240824
+"Innominate",3,"Jim Halescott",23,0.015586284070018384
+"Innominate",3,"Shui Jing Jing",24,0.012865401840241023
+"Innominate",3,"Eluwien",25,0.013409183258837871
+"Innominate",3,"Evie Kouvo",26,0.011390566470453329
+"Innominate",3,"Mantis Akiga",27,0.014401589140870717
+"Innominate",3,"Baculus Orden",28,0.707430084395168
+"Innominate",3,"Rich Richman",29,0.01176390588875289
+"Innominate",3,"Angry Mustache",30,0.6436798474066466
+"Innominate",3,"Winzentowitsch Madeveda",31,0.005682260449910485
+"Innominate",3,"DutchGunner",32,0.00916623890885092
+"Innominate",3,"White 0rchid",33,0.010976446375485937
+"Innominate",3,"Gay Pride BOOOOOM",34,0.006832763936338638
+"Innominate",3,"Robert Downey Iron",35,0.007073684210526316
+"Innominate",3,"Broodin",36,0.8178390883386171
+"Innominate",3,"Xeromus Plague",37,0.00943237325248442
+"Innominate",3,"Lucrative Business Opportunity",38,0.004830493588617601
+"Innominate",3,"Micromancer",39,0.722594888341683
+"Innominate",3,"Kay-Lynn Tsero",40,0.005517358458534929
+"Innominate",3,"Xenuria",41,0.7147490611130078
+"Innominate",3,"Reicher514",42,0.002361354742949669
+"Innominate",3,"Styxx",43,0.009344978165938865
+"Innominate",3,"hurleyalex hurley",44,0.003170894526034713
+"Innominate",3,"knockerwrench Alduin",45,0.003798922166269105
+"Innominate",3,"TDor Clau",46,0.0033818938605619147
+"Brisc Rubal",4,"Merkelchen",1,0.6365165892724948
+"Brisc Rubal",4,"Gobbins",2,0.04168666986717875
+"Brisc Rubal",4,"Innominate",3,0.7042358522534734
+"Brisc Rubal",4,"Brisc Rubal",4,1.0
+"Brisc Rubal",4,"Kenneth Feld",5,0.04390243902439024
+"Brisc Rubal",4,"I Beast",6,0.5097045191193511
+"Brisc Rubal",4,"Suitonia",7,0.5656881011128455
+"Brisc Rubal",4,"Vily",8,0.047311055216193554
+"Brisc Rubal",4,"Mike Azariah",9,0.13278359234591394
+"Brisc Rubal",4,"progodlegend",10,0.03114857911818254
+"Brisc Rubal",4,"Arsia Elkin",11,0.10030726148341176
+"Brisc Rubal",4,"Mark Resurrectus",12,0.0865759905381431
+"Brisc Rubal",4,"Uriel Paradisi Anteovnuecci",13,0.044978018261751775
+"Brisc Rubal",4,"Seddow",14,0.04366770862934546
+"Brisc Rubal",4,"Stitch Kaneland",15,0.05206025697828977
+"Brisc Rubal",4,"Rixx Javix",16,0.072205104354398
+"Brisc Rubal",4,"RonUSMC",17,0.04618832219778396
+"Brisc Rubal",4,"Dr Spodumain",18,0.06696079526415727
+"Brisc Rubal",4,"teddy Gbyc",19,0.08390736342042755
+"Brisc Rubal",4,"Phantomite",20,0.10230019493177388
+"Brisc Rubal",4,"Jurius Doctor",21,0.0595064465317076
+"Brisc Rubal",4,"Maldavius",22,0.052669123766496254
+"Brisc Rubal",4,"Jim Halescott",23,0.0303302340493748
+"Brisc Rubal",4,"Shui Jing Jing",24,0.016729940158290973
+"Brisc Rubal",4,"Eluwien",25,0.019511880996844613
+"Brisc Rubal",4,"Evie Kouvo",26,0.026796212636920603
+"Brisc Rubal",4,"Mantis Akiga",27,0.0206508953078029
+"Brisc Rubal",4,"Baculus Orden",28,0.5639989572471324
+"Brisc Rubal",4,"Rich Richman",29,0.032957698623931136
+"Brisc Rubal",4,"Angry Mustache",30,0.545432735560487
+"Brisc Rubal",4,"Winzentowitsch Madeveda",31,0.03037590178458423
+"Brisc Rubal",4,"DutchGunner",32,0.02287796427931426
+"Brisc Rubal",4,"White 0rchid",33,0.023076923076923078
+"Brisc Rubal",4,"Gay Pride BOOOOOM",34,0.015049947423764459
+"Brisc Rubal",4,"Robert Downey Iron",35,0.009887284951552304
+"Brisc Rubal",4,"Broodin",36,0.67106336687517
+"Brisc Rubal",4,"Xeromus Plague",37,0.027240479218258482
+"Brisc Rubal",4,"Lucrative Business Opportunity",38,0.008172716747258734
+"Brisc Rubal",4,"Micromancer",39,0.5928470398060214
+"Brisc Rubal",4,"Kay-Lynn Tsero",40,0.010162736632348058
+"Brisc Rubal",4,"Xenuria",41,0.5741710296684118
+"Brisc Rubal",4,"Reicher514",42,0.01154849814002554
+"Brisc Rubal",4,"Styxx",43,0.00872210953346856
+"Brisc Rubal",4,"hurleyalex hurley",44,0.009846396218983852
+"Brisc Rubal",4,"knockerwrench Alduin",45,0.006081311923471131
+"Brisc Rubal",4,"TDor Clau",46,0.006877486346166813
+"Kenneth Feld",5,"Merkelchen",1,0.013679465257267216
+"Kenneth Feld",5,"Gobbins",2,0.5737947352854185
+"Kenneth Feld",5,"Innominate",3,0.009405009405009405
+"Kenneth Feld",5,"Brisc Rubal",4,0.04390243902439024
+"Kenneth Feld",5,"Kenneth Feld",5,1.0
+"Kenneth Feld",5,"I Beast",6,0.039111180781439825
+"Kenneth Feld",5,"Suitonia",7,0.07920183561419324
+"Kenneth Feld",5,"Vily",8,0.44157325995033225
+"Kenneth Feld",5,"Mike Azariah",9,0.15484764542936288
+"Kenneth Feld",5,"progodlegend",10,0.5126056388040622
+"Kenneth Feld",5,"Arsia Elkin",11,0.3988707280832095
+"Kenneth Feld",5,"Mark Resurrectus",12,0.06447831184056271
+"Kenneth Feld",5,"Uriel Paradisi Anteovnuecci",13,0.3059897848630243
+"Kenneth Feld",5,"Seddow",14,0.4177194421657096
+"Kenneth Feld",5,"Stitch Kaneland",15,0.05021753557997198
+"Kenneth Feld",5,"Rixx Javix",16,0.07482726130653267
+"Kenneth Feld",5,"RonUSMC",17,0.4116348078117452
+"Kenneth Feld",5,"Dr Spodumain",18,0.09216133942161339
+"Kenneth Feld",5,"teddy Gbyc",19,0.0356759245051404
+"Kenneth Feld",5,"Phantomite",20,0.3532017720499396
+"Kenneth Feld",5,"Jurius Doctor",21,0.09328875479083422
+"Kenneth Feld",5,"Maldavius",22,0.13323418773510629
+"Kenneth Feld",5,"Jim Halescott",23,0.023428312980551785
+"Kenneth Feld",5,"Shui Jing Jing",24,0.02126282703152445
+"Kenneth Feld",5,"Eluwien",25,0.008466090122894857
+"Kenneth Feld",5,"Evie Kouvo",26,0.026891047883414294
+"Kenneth Feld",5,"Mantis Akiga",27,0.009384000743287187
+"Kenneth Feld",5,"Baculus Orden",28,0.003703124185051896
+"Kenneth Feld",5,"Rich Richman",29,0.20894585873072785
+"Kenneth Feld",5,"Angry Mustache",30,0.09368656638734191
+"Kenneth Feld",5,"Winzentowitsch Madeveda",31,0.024164889836531627
+"Kenneth Feld",5,"DutchGunner",32,0.028775781769793746
+"Kenneth Feld",5,"White 0rchid",33,0.045074390351263316
+"Kenneth Feld",5,"Gay Pride BOOOOOM",34,0.010109599395313681
+"Kenneth Feld",5,"Robert Downey Iron",35,0.010326034993785257
+"Kenneth Feld",5,"Broodin",36,0.005936976708783681
+"Kenneth Feld",5,"Xeromus Plague",37,0.010203108610660818
+"Kenneth Feld",5,"Lucrative Business Opportunity",38,0.0103559219786849
+"Kenneth Feld",5,"Micromancer",39,0.006605934686484471
+"Kenneth Feld",5,"Kay-Lynn Tsero",40,0.011122932585356418
+"Kenneth Feld",5,"Xenuria",41,0.007815447636500836
+"Kenneth Feld",5,"Reicher514",42,0.35421904857688824
+"Kenneth Feld",5,"Styxx",43,0.009033154655548938
+"Kenneth Feld",5,"hurleyalex hurley",44,0.02477586040682541
+"Kenneth Feld",5,"knockerwrench Alduin",45,0.009620253164556962
+"Kenneth Feld",5,"TDor Clau",46,0.013844621513944224
+"I Beast",6,"Merkelchen",1,0.44879614767255216
+"I Beast",6,"Gobbins",2,0.042082790563033726
+"I Beast",6,"Innominate",3,0.5069388195906906
+"I Beast",6,"Brisc Rubal",4,0.5097045191193511
+"I Beast",6,"Kenneth Feld",5,0.039111180781439825
+"I Beast",6,"I Beast",6,1.0
+"I Beast",6,"Suitonia",7,0.5858160014989695
+"I Beast",6,"Vily",8,0.055865107979168944
+"I Beast",6,"Mike Azariah",9,0.11535801558393656
+"I Beast",6,"progodlegend",10,0.036885098420238224
+"I Beast",6,"Arsia Elkin",11,0.1058048433048433
+"I Beast",6,"Mark Resurrectus",12,0.11459761628520199
+"I Beast",6,"Uriel Paradisi Anteovnuecci",13,0.07972554227534308
+"I Beast",6,"Seddow",14,0.06333619210977702
+"I Beast",6,"Stitch Kaneland",15,0.14221965560688787
+"I Beast",6,"Rixx Javix",16,0.07503548975866964
+"I Beast",6,"RonUSMC",17,0.03965953018138567
+"I Beast",6,"Dr Spodumain",18,0.0982420894023104
+"I Beast",6,"teddy Gbyc",19,0.11740933744549611
+"I Beast",6,"Phantomite",20,0.15672754379426015
+"I Beast",6,"Jurius Doctor",21,0.03918939055282372
+"I Beast",6,"Maldavius",22,0.02478221688194653
+"I Beast",6,"Jim Halescott",23,0.017673764998378555
+"I Beast",6,"Shui Jing Jing",24,0.024845406360424028
+"I Beast",6,"Eluwien",25,0.03987695749440716
+"I Beast",6,"Evie Kouvo",26,0.0412115995050304
+"I Beast",6,"Mantis Akiga",27,0.037248151701563294
+"I Beast",6,"Baculus Orden",28,0.5024705221785514
+"I Beast",6,"Rich Richman",29,0.0388800949742778
+"I Beast",6,"Angry Mustache",30,0.43033341689646526
+"I Beast",6,"Winzentowitsch Madeveda",31,0.03202904834164318
+"I Beast",6,"DutchGunner",32,0.06519177201628455
+"I Beast",6,"White 0rchid",33,0.06745223280656351
+"I Beast",6,"Gay Pride BOOOOOM",34,0.017549742901855576
+"I Beast",6,"Robert Downey Iron",35,0.022679712685934054
+"I Beast",6,"Broodin",36,0.5057002808834058
+"I Beast",6,"Xeromus Plague",37,0.01896241278415485
+"I Beast",6,"Lucrative Business Opportunity",38,0.009599356210840949
+"I Beast",6,"Micromancer",39,0.45790781120618274
+"I Beast",6,"Kay-Lynn Tsero",40,0.015083041464241328
+"I Beast",6,"Xenuria",41,0.45458076688308086
+"I Beast",6,"Reicher514",42,0.013428654236305671
+"I Beast",6,"Styxx",43,0.01370334269823978
+"I Beast",6,"hurleyalex hurley",44,0.010131937872293047
+"I Beast",6,"knockerwrench Alduin",45,0.006099315265550377
+"I Beast",6,"TDor Clau",46,0.007688364941055869
+"Suitonia",7,"Merkelchen",1,0.47829431805692935
+"Suitonia",7,"Gobbins",2,0.06448733682918666
+"Suitonia",7,"Innominate",3,0.525777166437414
+"Suitonia",7,"Brisc Rubal",4,0.5656881011128455
+"Suitonia",7,"Kenneth Feld",5,0.07920183561419324
+"Suitonia",7,"I Beast",6,0.5858160014989695
+"Suitonia",7,"Suitonia",7,1.0
+"Suitonia",7,"Vily",8,0.07273945575698916
+"Suitonia",7,"Mike Azariah",9,0.18452204794317845
+"Suitonia",7,"progodlegend",10,0.053332352508459614
+"Suitonia",7,"Arsia Elkin",11,0.15888446813302304
+"Suitonia",7,"Mark Resurrectus",12,0.1437380627557981
+"Suitonia",7,"Uriel Paradisi Anteovnuecci",13,0.04840455470407412
+"Suitonia",7,"Seddow",14,0.07290395677183197
+"Suitonia",7,"Stitch Kaneland",15,0.18077364994255074
+"Suitonia",7,"Rixx Javix",16,0.13138921769073497
+"Suitonia",7,"RonUSMC",17,0.0671094559834146
+"Suitonia",7,"Dr Spodumain",18,0.10466004583651642
+"Suitonia",7,"teddy Gbyc",19,0.15356510186005315
+"Suitonia",7,"Phantomite",20,0.18265435174184647
+"Suitonia",7,"Jurius Doctor",21,0.07659574468085106
+"Suitonia",7,"Maldavius",22,0.033722174112373285
+"Suitonia",7,"Jim Halescott",23,0.029585472208423027
+"Suitonia",7,"Shui Jing Jing",24,0.024575090554471997
+"Suitonia",7,"Eluwien",25,0.03269036671526298
+"Suitonia",7,"Evie Kouvo",26,0.059971258014592084
+"Suitonia",7,"Mantis Akiga",27,0.01307880676758682
+"Suitonia",7,"Baculus Orden",28,0.45341716785128483
+"Suitonia",7,"Rich Richman",29,0.0658682634730539
+"Suitonia",7,"Angry Mustache",30,0.44719514062579757
+"Suitonia",7,"Winzentowitsch Madeveda",31,0.05132062855232364
+"Suitonia",7,"DutchGunner",32,0.03323722149410223
+"Suitonia",7,"White 0rchid",33,0.08146146484265045
+"Suitonia",7,"Gay Pride BOOOOOM",34,0.013319844882819086
+"Suitonia",7,"Robert Downey Iron",35,0.009016116307900371
+"Suitonia",7,"Broodin",36,0.5202888005820787
+"Suitonia",7,"Xeromus Plague",37,0.017706146075705125
+"Suitonia",7,"Lucrative Business Opportunity",38,0.010166734444896299
+"Suitonia",7,"Micromancer",39,0.46656976744186046
+"Suitonia",7,"Kay-Lynn Tsero",40,0.014887063655030801
+"Suitonia",7,"Xenuria",41,0.4681138990696363
+"Suitonia",7,"Reicher514",42,0.015671532490357857
+"Suitonia",7,"Styxx",43,0.00957434536855462
+"Suitonia",7,"hurleyalex hurley",44,0.012908680947012401
+"Suitonia",7,"knockerwrench Alduin",45,0.005226784366107207
+"Suitonia",7,"TDor Clau",46,0.005972206270816584
+"Vily",8,"Merkelchen",1,0.01815410199556541
+"Vily",8,"Gobbins",2,0.6599371288857842
+"Vily",8,"Innominate",3,0.014910801455578238
+"Vily",8,"Brisc Rubal",4,0.047311055216193554
+"Vily",8,"Kenneth Feld",5,0.44157325995033225
+"Vily",8,"I Beast",6,0.055865107979168944
+"Vily",8,"Suitonia",7,0.07273945575698916
+"Vily",8,"Vily",8,1.0
+"Vily",8,"Mike Azariah",9,0.11828584773470341
+"Vily",8,"progodlegend",10,0.7318814188943114
+"Vily",8,"Arsia Elkin",11,0.4677273753103137
+"Vily",8,"Mark Resurrectus",12,0.036574372182871864
+"Vily",8,"Uriel Paradisi Anteovnuecci",13,0.2823163055721195
+"Vily",8,"Seddow",14,0.4358378142711815
+"Vily",8,"Stitch Kaneland",15,0.02432150952643509
+"Vily",8,"Rixx Javix",16,0.04960072713107836
+"Vily",8,"RonUSMC",17,0.6036640794350046
+"Vily",8,"Dr Spodumain",18,0.059427132514951214
+"Vily",8,"teddy Gbyc",19,0.014605956690163206
+"Vily",8,"Phantomite",20,0.45321408608160985
+"Vily",8,"Jurius Doctor",21,0.09763681592039801
+"Vily",8,"Maldavius",22,0.12143012862437323
+"Vily",8,"Jim Halescott",23,0.028562905511223806
+"Vily",8,"Shui Jing Jing",24,0.025009473285335353
+"Vily",8,"Eluwien",25,0.014139298271863545
+"Vily",8,"Evie Kouvo",26,0.021039868768276158
+"Vily",8,"Mantis Akiga",27,0.02923705932268765
+"Vily",8,"Baculus Orden",28,0.004717853839037928
+"Vily",8,"Rich Richman",29,0.1520421417231924
+"Vily",8,"Angry Mustache",30,0.08418332025661143
+"Vily",8,"Winzentowitsch Madeveda",31,0.01250632545362539
+"Vily",8,"DutchGunner",32,0.027329966097004083
+"Vily",8,"White 0rchid",33,0.03820273496852616
+"Vily",8,"Gay Pride BOOOOOM",34,0.035542973971848704
+"Vily",8,"Robert Downey Iron",35,0.035399634891658066
+"Vily",8,"Broodin",36,0.008182270240947516
+"Vily",8,"Xeromus Plague",37,0.010513296227581941
+"Vily",8,"Lucrative Business Opportunity",38,0.008940077319587628
+"Vily",8,"Micromancer",39,0.013562858633281168
+"Vily",8,"Kay-Lynn Tsero",40,0.01252740369558409
+"Vily",8,"Xenuria",41,0.015197276954791696
+"Vily",8,"Reicher514",42,0.276665598975016
+"Vily",8,"Styxx",43,0.01509433962264151
+"Vily",8,"hurleyalex hurley",44,0.07787188553572896
+"Vily",8,"knockerwrench Alduin",45,0.006305578011317704
+"Vily",8,"TDor Clau",46,0.03762911952779144
+"Mike Azariah",9,"Merkelchen",1,0.030794068404687874
+"Mike Azariah",9,"Gobbins",2,0.10386585933861202
+"Mike Azariah",9,"Innominate",3,0.07862217181063817
+"Mike Azariah",9,"Brisc Rubal",4,0.13278359234591394
+"Mike Azariah",9,"Kenneth Feld",5,0.15484764542936288
+"Mike Azariah",9,"I Beast",6,0.11535801558393656
+"Mike Azariah",9,"Suitonia",7,0.18452204794317845
+"Mike Azariah",9,"Vily",8,0.11828584773470341
+"Mike Azariah",9,"Mike Azariah",9,1.0
+"Mike Azariah",9,"progodlegend",10,0.1084175477539576
+"Mike Azariah",9,"Arsia Elkin",11,0.20208545846084097
+"Mike Azariah",9,"Mark Resurrectus",12,0.19332347348404819
+"Mike Azariah",9,"Uriel Paradisi Anteovnuecci",13,0.15961431189736233
+"Mike Azariah",9,"Seddow",14,0.061152099886492624
+"Mike Azariah",9,"Stitch Kaneland",15,0.16831683168316833
+"Mike Azariah",9,"Rixx Javix",16,0.2427556041552761
+"Mike Azariah",9,"RonUSMC",17,0.13155267099350973
+"Mike Azariah",9,"Dr Spodumain",18,0.17750146857254748
+"Mike Azariah",9,"teddy Gbyc",19,0.21811641595814257
+"Mike Azariah",9,"Phantomite",20,0.1678236914600551
+"Mike Azariah",9,"Jurius Doctor",21,0.18903551121124343
+"Mike Azariah",9,"Maldavius",22,0.08602370249284838
+"Mike Azariah",9,"Jim Halescott",23,0.06554462486665877
+"Mike Azariah",9,"Shui Jing Jing",24,0.0535024154589372
+"Mike Azariah",9,"Eluwien",25,0.054444712117562036
+"Mike Azariah",9,"Evie Kouvo",26,0.0958304538124856
+"Mike Azariah",9,"Mantis Akiga",27,0.03766707168894289
+"Mike Azariah",9,"Baculus Orden",28,0.010269882971101027
+"Mike Azariah",9,"Rich Richman",29,0.08769365682548963
+"Mike Azariah",9,"Angry Mustache",30,0.0368377253814147
+"Mike Azariah",9,"Winzentowitsch Madeveda",31,0.08512143362414525
+"Mike Azariah",9,"DutchGunner",32,0.0852327968024198
+"Mike Azariah",9,"White 0rchid",33,0.09145992911855494
+"Mike Azariah",9,"Gay Pride BOOOOOM",34,0.023611450942011256
+"Mike Azariah",9,"Robert Downey Iron",35,0.019920811680277158
+"Mike Azariah",9,"Broodin",36,0.07269829594213559
+"Mike Azariah",9,"Xeromus Plague",37,0.03504380475594493
+"Mike Azariah",9,"Lucrative Business Opportunity",38,0.02047556142668428
+"Mike Azariah",9,"Micromancer",39,0.018500307314074985
+"Mike Azariah",9,"Kay-Lynn Tsero",40,0.036989795918367346
+"Mike Azariah",9,"Xenuria",41,0.023758909591096663
+"Mike Azariah",9,"Reicher514",42,0.09375613587276654
+"Mike Azariah",9,"Styxx",43,0.022161387042106635
+"Mike Azariah",9,"hurleyalex hurley",44,0.025052449709983958
+"Mike Azariah",9,"knockerwrench Alduin",45,0.017567207878626565
+"Mike Azariah",9,"TDor Clau",46,0.013548387096774193
+"progodlegend",10,"Merkelchen",1,0.009325946445060018
+"progodlegend",10,"Gobbins",2,0.7377496131456783
+"progodlegend",10,"Innominate",3,0.006743866187497227
+"progodlegend",10,"Brisc Rubal",4,0.03114857911818254
+"progodlegend",10,"Kenneth Feld",5,0.5126056388040622
+"progodlegend",10,"I Beast",6,0.036885098420238224
+"progodlegend",10,"Suitonia",7,0.053332352508459614
+"progodlegend",10,"Vily",8,0.7318814188943114
+"progodlegend",10,"Mike Azariah",9,0.1084175477539576
+"progodlegend",10,"progodlegend",10,1.0
+"progodlegend",10,"Arsia Elkin",11,0.5079087141773186
+"progodlegend",10,"Mark Resurrectus",12,0.03558417902680198
+"progodlegend",10,"Uriel Paradisi Anteovnuecci",13,0.28115186744170506
+"progodlegend",10,"Seddow",14,0.4043606110593129
+"progodlegend",10,"Stitch Kaneland",15,0.02389353141442278
+"progodlegend",10,"Rixx Javix",16,0.03676804357694054
+"progodlegend",10,"RonUSMC",17,0.6697240974464338
+"progodlegend",10,"Dr Spodumain",18,0.039585414585414584
+"progodlegend",10,"teddy Gbyc",19,0.01451322887233496
+"progodlegend",10,"Phantomite",20,0.48214695752009185
+"progodlegend",10,"Jurius Doctor",21,0.07967278476661854
+"progodlegend",10,"Maldavius",22,0.11449656583369867
+"progodlegend",10,"Jim Halescott",23,0.02184356703197718
+"progodlegend",10,"Shui Jing Jing",24,0.011213820275799364
+"progodlegend",10,"Eluwien",25,0.01072912731394031
+"progodlegend",10,"Evie Kouvo",26,0.012171547218443475
+"progodlegend",10,"Mantis Akiga",27,0.016369392324916996
+"progodlegend",10,"Baculus Orden",28,0.002886271588845957
+"progodlegend",10,"Rich Richman",29,0.1467383408397501
+"progodlegend",10,"Angry Mustache",30,0.0775630951280392
+"progodlegend",10,"Winzentowitsch Madeveda",31,0.008533916849015317
+"progodlegend",10,"DutchGunner",32,0.015436799113941576
+"progodlegend",10,"White 0rchid",33,0.017302031732356952
+"progodlegend",10,"Gay Pride BOOOOOM",34,0.03456514813634916
+"progodlegend",10,"Robert Downey Iron",35,0.031012100328551968
+"progodlegend",10,"Broodin",36,0.003902527567273222
+"progodlegend",10,"Xeromus Plague",37,0.006086617245415529
+"progodlegend",10,"Lucrative Business Opportunity",38,0.006521030322791001
+"progodlegend",10,"Micromancer",39,0.008565718092700104
+"progodlegend",10,"Kay-Lynn Tsero",40,0.008221993833504625
+"progodlegend",10,"Xenuria",41,0.008356144647745282
+"progodlegend",10,"Reicher514",42,0.2755077271623918
+"progodlegend",10,"Styxx",43,0.008495832996197104
+"progodlegend",10,"hurleyalex hurley",44,0.0760715771951727
+"progodlegend",10,"knockerwrench Alduin",45,0.002696959790781301
+"progodlegend",10,"TDor Clau",46,0.03448847620626762
+"Arsia Elkin",11,"Merkelchen",1,0.019416243654822335
+"Arsia Elkin",11,"Gobbins",2,0.4899019042123485
+"Arsia Elkin",11,"Innominate",3,0.05412719891745602
+"Arsia Elkin",11,"Brisc Rubal",4,0.10030726148341176
+"Arsia Elkin",11,"Kenneth Feld",5,0.3988707280832095
+"Arsia Elkin",11,"I Beast",6,0.1058048433048433
+"Arsia Elkin",11,"Suitonia",7,0.15888446813302304
+"Arsia Elkin",11,"Vily",8,0.4677273753103137
+"Arsia Elkin",11,"Mike Azariah",9,0.20208545846084097
+"Arsia Elkin",11,"progodlegend",10,0.5079087141773186
+"Arsia Elkin",11,"Arsia Elkin",11,1.0
+"Arsia Elkin",11,"Mark Resurrectus",12,0.1323437694898341
+"Arsia Elkin",11,"Uriel Paradisi Anteovnuecci",13,0.2707418397626113
+"Arsia Elkin",11,"Seddow",14,0.3517967781908302
+"Arsia Elkin",11,"Stitch Kaneland",15,0.10915534554046072
+"Arsia Elkin",11,"Rixx Javix",16,0.12146944803396714
+"Arsia Elkin",11,"RonUSMC",17,0.465204901213578
+"Arsia Elkin",11,"Dr Spodumain",18,0.11744172287303278
+"Arsia Elkin",11,"teddy Gbyc",19,0.12074322644792443
+"Arsia Elkin",11,"Phantomite",20,0.6156636913331414
+"Arsia Elkin",11,"Jurius Doctor",21,0.12601192343897083
+"Arsia Elkin",11,"Maldavius",22,0.14157039357744272
+"Arsia Elkin",11,"Jim Halescott",23,0.032169835894764263
+"Arsia Elkin",11,"Shui Jing Jing",24,0.03123552379061611
+"Arsia Elkin",11,"Eluwien",25,0.02366747525077034
+"Arsia Elkin",11,"Evie Kouvo",26,0.05877788554801164
+"Arsia Elkin",11,"Mantis Akiga",27,0.02598267821452365
+"Arsia Elkin",11,"Baculus Orden",28,0.007883360176316013
+"Arsia Elkin",11,"Rich Richman",29,0.17116121905257
+"Arsia Elkin",11,"Angry Mustache",30,0.0857592112532404
+"Arsia Elkin",11,"Winzentowitsch Madeveda",31,0.04966021955044433
+"Arsia Elkin",11,"DutchGunner",32,0.05438443307970563
+"Arsia Elkin",11,"White 0rchid",33,0.05436668594563331
+"Arsia Elkin",11,"Gay Pride BOOOOOM",34,0.034442934782608695
+"Arsia Elkin",11,"Robert Downey Iron",35,0.025322471147318396
+"Arsia Elkin",11,"Broodin",36,0.04918597639762253
+"Arsia Elkin",11,"Xeromus Plague",37,0.02174500270124257
+"Arsia Elkin",11,"Lucrative Business Opportunity",38,0.011512587558083084
+"Arsia Elkin",11,"Micromancer",39,0.01670571899678903
+"Arsia Elkin",11,"Kay-Lynn Tsero",40,0.01806574300461831
+"Arsia Elkin",11,"Xenuria",41,0.013434528482945128
+"Arsia Elkin",11,"Reicher514",42,0.18264240194468168
+"Arsia Elkin",11,"Styxx",43,0.01204736334847859
+"Arsia Elkin",11,"hurleyalex hurley",44,0.04312538689043263
+"Arsia Elkin",11,"knockerwrench Alduin",45,0.008411539798401112
+"Arsia Elkin",11,"TDor Clau",46,0.02201694679816641
+"Mark Resurrectus",12,"Merkelchen",1,0.011409826713256792
+"Mark Resurrectus",12,"Gobbins",2,0.040973949469825896
+"Mark Resurrectus",12,"Innominate",3,0.0778288340034463
+"Mark Resurrectus",12,"Brisc Rubal",4,0.0865759905381431
+"Mark Resurrectus",12,"Kenneth Feld",5,0.06447831184056271
+"Mark Resurrectus",12,"I Beast",6,0.11459761628520199
+"Mark Resurrectus",12,"Suitonia",7,0.1437380627557981
+"Mark Resurrectus",12,"Vily",8,0.036574372182871864
+"Mark Resurrectus",12,"Mike Azariah",9,0.19332347348404819
+"Mark Resurrectus",12,"progodlegend",10,0.03558417902680198
+"Mark Resurrectus",12,"Arsia Elkin",11,0.1323437694898341
+"Mark Resurrectus",12,"Mark Resurrectus",12,1.0
+"Mark Resurrectus",12,"Uriel Paradisi Anteovnuecci",13,0.02707049048512463
+"Mark Resurrectus",12,"Seddow",14,0.053367554650854056
+"Mark Resurrectus",12,"Stitch Kaneland",15,0.2502821670428894
+"Mark Resurrectus",12,"Rixx Javix",16,0.11365768663718
+"Mark Resurrectus",12,"RonUSMC",17,0.041375975685570214
+"Mark Resurrectus",12,"Dr Spodumain",18,0.05615728749705674
+"Mark Resurrectus",12,"teddy Gbyc",19,0.49631404349428676
+"Mark Resurrectus",12,"Phantomite",20,0.14231738035264482
+"Mark Resurrectus",12,"Jurius Doctor",21,0.10732514829631673
+"Mark Resurrectus",12,"Maldavius",22,0.030195865070729053
+"Mark Resurrectus",12,"Jim Halescott",23,0.025756266205704408
+"Mark Resurrectus",12,"Shui Jing Jing",24,0.022186147186147188
+"Mark Resurrectus",12,"Eluwien",25,0.12854030501089325
+"Mark Resurrectus",12,"Evie Kouvo",26,0.21688336159788957
+"Mark Resurrectus",12,"Mantis Akiga",27,0.01630837657524092
+"Mark Resurrectus",12,"Baculus Orden",28,0.00946555992427552
+"Mark Resurrectus",12,"Rich Richman",29,0.04176304291955795
+"Mark Resurrectus",12,"Angry Mustache",30,0.036533616231269064
+"Mark Resurrectus",12,"Winzentowitsch Madeveda",31,0.19890795631825273
+"Mark Resurrectus",12,"DutchGunner",32,0.027487872997207115
+"Mark Resurrectus",12,"White 0rchid",33,0.05630593978844589
+"Mark Resurrectus",12,"Gay Pride BOOOOOM",34,0.019385796545105565
+"Mark Resurrectus",12,"Robert Downey Iron",35,0.014671361502347418
+"Mark Resurrectus",12,"Broodin",36,0.07550260610573344
+"Mark Resurrectus",12,"Xeromus Plague",37,0.02175191064079953
+"Mark Resurrectus",12,"Lucrative Business Opportunity",38,0.010168758113370835
+"Mark Resurrectus",12,"Micromancer",39,0.005879726108961
+"Mark Resurrectus",12,"Kay-Lynn Tsero",40,0.08488347231131067
+"Mark Resurrectus",12,"Xenuria",41,0.011084117825690859
+"Mark Resurrectus",12,"Reicher514",42,0.009363295880149813
+"Mark Resurrectus",12,"Styxx",43,0.015276893698281349
+"Mark Resurrectus",12,"hurleyalex hurley",44,0.006904487917146145
+"Mark Resurrectus",12,"knockerwrench Alduin",45,0.011235955056179775
+"Mark Resurrectus",12,"TDor Clau",46,0.005658005029337804
+"Uriel Paradisi Anteovnuecci",13,"Merkelchen",1,0.007859908686354968
+"Uriel Paradisi Anteovnuecci",13,"Gobbins",2,0.2575479128380152
+"Uriel Paradisi Anteovnuecci",13,"Innominate",3,0.010677731673582295
+"Uriel Paradisi Anteovnuecci",13,"Brisc Rubal",4,0.044978018261751775
+"Uriel Paradisi Anteovnuecci",13,"Kenneth Feld",5,0.3059897848630243
+"Uriel Paradisi Anteovnuecci",13,"I Beast",6,0.07972554227534308
+"Uriel Paradisi Anteovnuecci",13,"Suitonia",7,0.04840455470407412
+"Uriel Paradisi Anteovnuecci",13,"Vily",8,0.2823163055721195
+"Uriel Paradisi Anteovnuecci",13,"Mike Azariah",9,0.15961431189736233
+"Uriel Paradisi Anteovnuecci",13,"progodlegend",10,0.28115186744170506
+"Uriel Paradisi Anteovnuecci",13,"Arsia Elkin",11,0.2707418397626113
+"Uriel Paradisi Anteovnuecci",13,"Mark Resurrectus",12,0.02707049048512463
+"Uriel Paradisi Anteovnuecci",13,"Uriel Paradisi Anteovnuecci",13,1.0
+"Uriel Paradisi Anteovnuecci",13,"Seddow",14,0.2908115473047773
+"Uriel Paradisi Anteovnuecci",13,"Stitch Kaneland",15,0.06634987680394228
+"Uriel Paradisi Anteovnuecci",13,"Rixx Javix",16,0.09403083908807114
+"Uriel Paradisi Anteovnuecci",13,"RonUSMC",17,0.3093350474966074
+"Uriel Paradisi Anteovnuecci",13,"Dr Spodumain",18,0.16336822074215032
+"Uriel Paradisi Anteovnuecci",13,"teddy Gbyc",19,0.03465526650900491
+"Uriel Paradisi Anteovnuecci",13,"Phantomite",20,0.2433029228891859
+"Uriel Paradisi Anteovnuecci",13,"Jurius Doctor",21,0.11206386753400355
+"Uriel Paradisi Anteovnuecci",13,"Maldavius",22,0.0978205778003041
+"Uriel Paradisi Anteovnuecci",13,"Jim Halescott",23,0.04018109790605546
+"Uriel Paradisi Anteovnuecci",13,"Shui Jing Jing",24,0.035391042005105594
+"Uriel Paradisi Anteovnuecci",13,"Eluwien",25,0.02378230048021953
+"Uriel Paradisi Anteovnuecci",13,"Evie Kouvo",26,0.03494566375452802
+"Uriel Paradisi Anteovnuecci",13,"Mantis Akiga",27,0.02654451491660794
+"Uriel Paradisi Anteovnuecci",13,"Baculus Orden",28,0.055226824457593686
+"Uriel Paradisi Anteovnuecci",13,"Rich Richman",29,0.05203221923895936
+"Uriel Paradisi Anteovnuecci",13,"Angry Mustache",30,0.014011165986686709
+"Uriel Paradisi Anteovnuecci",13,"Winzentowitsch Madeveda",31,0.03923085423803735
+"Uriel Paradisi Anteovnuecci",13,"DutchGunner",32,0.18341418341418342
+"Uriel Paradisi Anteovnuecci",13,"White 0rchid",33,0.031319437096603536
+"Uriel Paradisi Anteovnuecci",13,"Gay Pride BOOOOOM",34,0.04513846529218007
+"Uriel Paradisi Anteovnuecci",13,"Robert Downey Iron",35,0.011622334052240594
+"Uriel Paradisi Anteovnuecci",13,"Broodin",36,0.0180605084550788
+"Uriel Paradisi Anteovnuecci",13,"Xeromus Plague",37,0.04995661336308417
+"Uriel Paradisi Anteovnuecci",13,"Lucrative Business Opportunity",38,0.009168470648159939
+"Uriel Paradisi Anteovnuecci",13,"Micromancer",39,0.02493430300067225
+"Uriel Paradisi Anteovnuecci",13,"Kay-Lynn Tsero",40,0.014245708023864606
+"Uriel Paradisi Anteovnuecci",13,"Xenuria",41,0.009378806333739342
+"Uriel Paradisi Anteovnuecci",13,"Reicher514",42,0.4140897755610973
+"Uriel Paradisi Anteovnuecci",13,"Styxx",43,0.008149448345035105
+"Uriel Paradisi Anteovnuecci",13,"hurleyalex hurley",44,0.007342491710090005
+"Uriel Paradisi Anteovnuecci",13,"knockerwrench Alduin",45,0.01395709485655208
+"Uriel Paradisi Anteovnuecci",13,"TDor Clau",46,0.005116046917893686
+"Seddow",14,"Merkelchen",1,0.014150943396226415
+"Seddow",14,"Gobbins",2,0.3931928225576759
+"Seddow",14,"Innominate",3,0.012634889648066808
+"Seddow",14,"Brisc Rubal",4,0.04366770862934546
+"Seddow",14,"Kenneth Feld",5,0.4177194421657096
+"Seddow",14,"I Beast",6,0.06333619210977702
+"Seddow",14,"Suitonia",7,0.07290395677183197
+"Seddow",14,"Vily",8,0.4358378142711815
+"Seddow",14,"Mike Azariah",9,0.061152099886492624
+"Seddow",14,"progodlegend",10,0.4043606110593129
+"Seddow",14,"Arsia Elkin",11,0.3517967781908302
+"Seddow",14,"Mark Resurrectus",12,0.053367554650854056
+"Seddow",14,"Uriel Paradisi Anteovnuecci",13,0.2908115473047773
+"Seddow",14,"Seddow",14,1.0
+"Seddow",14,"Stitch Kaneland",15,0.05580846400269769
+"Seddow",14,"Rixx Javix",16,0.05258067352501539
+"Seddow",14,"RonUSMC",17,0.297196261682243
+"Seddow",14,"Dr Spodumain",18,0.054331497245868804
+"Seddow",14,"teddy Gbyc",19,0.023544743701129453
+"Seddow",14,"Phantomite",20,0.3688704715263389
+"Seddow",14,"Jurius Doctor",21,0.08704547568120524
+"Seddow",14,"Maldavius",22,0.15823111019482528
+"Seddow",14,"Jim Halescott",23,0.0203083466241361
+"Seddow",14,"Shui Jing Jing",24,0.015346103613408794
+"Seddow",14,"Eluwien",25,0.012767799177667172
+"Seddow",14,"Evie Kouvo",26,0.02356629918074239
+"Seddow",14,"Mantis Akiga",27,0.025451283776208096
+"Seddow",14,"Baculus Orden",28,0.007125617745086772
+"Seddow",14,"Rich Richman",29,0.20091836734693877
+"Seddow",14,"Angry Mustache",30,0.09780382339553938
+"Seddow",14,"Winzentowitsch Madeveda",31,0.014267990074441687
+"Seddow",14,"DutchGunner",32,0.017188693659281894
+"Seddow",14,"White 0rchid",33,0.05256064690026954
+"Seddow",14,"Gay Pride BOOOOOM",34,0.044465137935048304
+"Seddow",14,"Robert Downey Iron",35,0.013979603529276956
+"Seddow",14,"Broodin",36,0.010266711304541903
+"Seddow",14,"Xeromus Plague",37,0.0120866590649943
+"Seddow",14,"Lucrative Business Opportunity",38,0.008962092769771104
+"Seddow",14,"Micromancer",39,0.013930700667020837
+"Seddow",14,"Kay-Lynn Tsero",40,0.010175763182238668
+"Seddow",14,"Xenuria",41,0.008912655971479501
+"Seddow",14,"Reicher514",42,0.29158878504672897
+"Seddow",14,"Styxx",43,0.016486161251504212
+"Seddow",14,"hurleyalex hurley",44,0.024132383360147093
+"Seddow",14,"knockerwrench Alduin",45,0.004503956177723676
+"Seddow",14,"TDor Clau",46,0.013900539245056921
+"Stitch Kaneland",15,"Merkelchen",1,0.01216927599644493
+"Stitch Kaneland",15,"Gobbins",2,0.031585518102372034
+"Stitch Kaneland",15,"Innominate",3,0.014733562666320504
+"Stitch Kaneland",15,"Brisc Rubal",4,0.05206025697828977
+"Stitch Kaneland",15,"Kenneth Feld",5,0.05021753557997198
+"Stitch Kaneland",15,"I Beast",6,0.14221965560688787
+"Stitch Kaneland",15,"Suitonia",7,0.18077364994255074
+"Stitch Kaneland",15,"Vily",8,0.02432150952643509
+"Stitch Kaneland",15,"Mike Azariah",9,0.16831683168316833
+"Stitch Kaneland",15,"progodlegend",10,0.02389353141442278
+"Stitch Kaneland",15,"Arsia Elkin",11,0.10915534554046072
+"Stitch Kaneland",15,"Mark Resurrectus",12,0.2502821670428894
+"Stitch Kaneland",15,"Uriel Paradisi Anteovnuecci",13,0.06634987680394228
+"Stitch Kaneland",15,"Seddow",14,0.05580846400269769
+"Stitch Kaneland",15,"Stitch Kaneland",15,1.0
+"Stitch Kaneland",15,"Rixx Javix",16,0.2466499162479062
+"Stitch Kaneland",15,"RonUSMC",17,0.028096142510969938
+"Stitch Kaneland",15,"Dr Spodumain",18,0.11274794107412134
+"Stitch Kaneland",15,"teddy Gbyc",19,0.28129580768103196
+"Stitch Kaneland",15,"Phantomite",20,0.17196576925479418
+"Stitch Kaneland",15,"Jurius Doctor",21,0.0921833564844046
+"Stitch Kaneland",15,"Maldavius",22,0.03878326996197719
+"Stitch Kaneland",15,"Jim Halescott",23,0.047619047619047616
+"Stitch Kaneland",15,"Shui Jing Jing",24,0.03318547724659109
+"Stitch Kaneland",15,"Eluwien",25,0.1261582323592302
+"Stitch Kaneland",15,"Evie Kouvo",26,0.17296222664015903
+"Stitch Kaneland",15,"Mantis Akiga",27,0.016311584553928095
+"Stitch Kaneland",15,"Baculus Orden",28,0.008282870467042527
+"Stitch Kaneland",15,"Rich Richman",29,0.07925321463897131
+"Stitch Kaneland",15,"Angry Mustache",30,0.023743544527018517
+"Stitch Kaneland",15,"Winzentowitsch Madeveda",31,0.1634301426361918
+"Stitch Kaneland",15,"DutchGunner",32,0.054293628808864264
+"Stitch Kaneland",15,"White 0rchid",33,0.15527042390774728
+"Stitch Kaneland",15,"Gay Pride BOOOOOM",34,0.024520808150578485
+"Stitch Kaneland",15,"Robert Downey Iron",35,0.012020905923344948
+"Stitch Kaneland",15,"Broodin",36,0.007354907729339395
+"Stitch Kaneland",15,"Xeromus Plague",37,0.03511883646683221
+"Stitch Kaneland",15,"Lucrative Business Opportunity",38,0.01710880430603614
+"Stitch Kaneland",15,"Micromancer",39,0.0061921708185053385
+"Stitch Kaneland",15,"Kay-Lynn Tsero",40,0.06967136150234741
+"Stitch Kaneland",15,"Xenuria",41,0.014629885726763228
+"Stitch Kaneland",15,"Reicher514",42,0.016935295491707546
+"Stitch Kaneland",15,"Styxx",43,0.015208411565903118
+"Stitch Kaneland",15,"hurleyalex hurley",44,0.008934707903780068
+"Stitch Kaneland",15,"knockerwrench Alduin",45,0.013022351797862002
+"Stitch Kaneland",15,"TDor Clau",46,0.009497206703910615
+"Rixx Javix",16,"Merkelchen",1,0.018
+"Rixx Javix",16,"Gobbins",2,0.04405516700437937
+"Rixx Javix",16,"Innominate",3,0.018573551263001486
+"Rixx Javix",16,"Brisc Rubal",4,0.072205104354398
+"Rixx Javix",16,"Kenneth Feld",5,0.07482726130653267
+"Rixx Javix",16,"I Beast",6,0.07503548975866964
+"Rixx Javix",16,"Suitonia",7,0.13138921769073497
+"Rixx Javix",16,"Vily",8,0.04960072713107836
+"Rixx Javix",16,"Mike Azariah",9,0.2427556041552761
+"Rixx Javix",16,"progodlegend",10,0.03676804357694054
+"Rixx Javix",16,"Arsia Elkin",11,0.12146944803396714
+"Rixx Javix",16,"Mark Resurrectus",12,0.11365768663718
+"Rixx Javix",16,"Uriel Paradisi Anteovnuecci",13,0.09403083908807114
+"Rixx Javix",16,"Seddow",14,0.05258067352501539
+"Rixx Javix",16,"Stitch Kaneland",15,0.2466499162479062
+"Rixx Javix",16,"Rixx Javix",16,1.0
+"Rixx Javix",16,"RonUSMC",17,0.04991334488734835
+"Rixx Javix",16,"Dr Spodumain",18,0.19182597231377718
+"Rixx Javix",16,"teddy Gbyc",19,0.1591166477916195
+"Rixx Javix",16,"Phantomite",20,0.11917639827904118
+"Rixx Javix",16,"Jurius Doctor",21,0.15789473684210525
+"Rixx Javix",16,"Maldavius",22,0.08549921886095725
+"Rixx Javix",16,"Jim Halescott",23,0.09744058500914077
+"Rixx Javix",16,"Shui Jing Jing",24,0.03819004524886878
+"Rixx Javix",16,"Eluwien",25,0.05429616087751371
+"Rixx Javix",16,"Evie Kouvo",26,0.11192504258943782
+"Rixx Javix",16,"Mantis Akiga",27,0.021899153478100848
+"Rixx Javix",16,"Baculus Orden",28,0.010516391064693936
+"Rixx Javix",16,"Rich Richman",29,0.076072650697552
+"Rixx Javix",16,"Angry Mustache",30,0.02520240271611387
+"Rixx Javix",16,"Winzentowitsch Madeveda",31,0.13552511415525115
+"Rixx Javix",16,"DutchGunner",32,0.08433179723502304
+"Rixx Javix",16,"White 0rchid",33,0.12482853223593965
+"Rixx Javix",16,"Gay Pride BOOOOOM",34,0.029074215761285386
+"Rixx Javix",16,"Robert Downey Iron",35,0.018604651162790697
+"Rixx Javix",16,"Broodin",36,0.013548432153083316
+"Rixx Javix",16,"Xeromus Plague",37,0.03934684241589612
+"Rixx Javix",16,"Lucrative Business Opportunity",38,0.024653979238754325
+"Rixx Javix",16,"Micromancer",39,0.013807000522427048
+"Rixx Javix",16,"Kay-Lynn Tsero",40,0.050234837655707576
+"Rixx Javix",16,"Xenuria",41,0.020195092211553117
+"Rixx Javix",16,"Reicher514",42,0.016201395812562313
+"Rixx Javix",16,"Styxx",43,0.025348542458808618
+"Rixx Javix",16,"hurleyalex hurley",44,0.016628440366972478
+"Rixx Javix",16,"knockerwrench Alduin",45,0.015032679738562092
+"Rixx Javix",16,"TDor Clau",46,0.011637572734829594
+"RonUSMC",17,"Merkelchen",1,0.014185765983112183
+"RonUSMC",17,"Gobbins",2,0.591991038924671
+"RonUSMC",17,"Innominate",3,0.01241890639481001
+"RonUSMC",17,"Brisc Rubal",4,0.04618832219778396
+"RonUSMC",17,"Kenneth Feld",5,0.4116348078117452
+"RonUSMC",17,"I Beast",6,0.03965953018138567
+"RonUSMC",17,"Suitonia",7,0.0671094559834146
+"RonUSMC",17,"Vily",8,0.6036640794350046
+"RonUSMC",17,"Mike Azariah",9,0.13155267099350973
+"RonUSMC",17,"progodlegend",10,0.6697240974464338
+"RonUSMC",17,"Arsia Elkin",11,0.465204901213578
+"RonUSMC",17,"Mark Resurrectus",12,0.041375975685570214
+"RonUSMC",17,"Uriel Paradisi Anteovnuecci",13,0.3093350474966074
+"RonUSMC",17,"Seddow",14,0.297196261682243
+"RonUSMC",17,"Stitch Kaneland",15,0.028096142510969938
+"RonUSMC",17,"Rixx Javix",16,0.04991334488734835
+"RonUSMC",17,"RonUSMC",17,1.0
+"RonUSMC",17,"Dr Spodumain",18,0.0665991902834008
+"RonUSMC",17,"teddy Gbyc",19,0.01644803914905186
+"RonUSMC",17,"Phantomite",20,0.40488243896951287
+"RonUSMC",17,"Jurius Doctor",21,0.10859998508241964
+"RonUSMC",17,"Maldavius",22,0.04314463587664688
+"RonUSMC",17,"Jim Halescott",23,0.03083629318695512
+"RonUSMC",17,"Shui Jing Jing",24,0.025256252562525627
+"RonUSMC",17,"Eluwien",25,0.015968225662640837
+"RonUSMC",17,"Evie Kouvo",26,0.020730958230958232
+"RonUSMC",17,"Mantis Akiga",27,0.022915974759216206
+"RonUSMC",17,"Baculus Orden",28,0.0037336953886437474
+"RonUSMC",17,"Rich Richman",29,0.06850196639256347
+"RonUSMC",17,"Angry Mustache",30,0.027295171909290417
+"RonUSMC",17,"Winzentowitsch Madeveda",31,0.012871518839223028
+"RonUSMC",17,"DutchGunner",32,0.027497027348394768
+"RonUSMC",17,"White 0rchid",33,0.028317901234567903
+"RonUSMC",17,"Gay Pride BOOOOOM",34,0.03891549777625727
+"RonUSMC",17,"Robert Downey Iron",35,0.03370303499269194
+"RonUSMC",17,"Broodin",36,0.006813020439061317
+"RonUSMC",17,"Xeromus Plague",37,0.009550938337801608
+"RonUSMC",17,"Lucrative Business Opportunity",38,0.009210526315789473
+"RonUSMC",17,"Micromancer",39,0.012386827181374988
+"RonUSMC",17,"Kay-Lynn Tsero",40,0.012496812037745473
+"RonUSMC",17,"Xenuria",41,0.011290079783230468
+"RonUSMC",17,"Reicher514",42,0.296463637153532
+"RonUSMC",17,"Styxx",43,0.012635064482398048
+"RonUSMC",17,"hurleyalex hurley",44,0.07775994292848225
+"RonUSMC",17,"knockerwrench Alduin",45,0.006607347370275746
+"RonUSMC",17,"TDor Clau",46,0.03744984395898351
+"Dr Spodumain",18,"Merkelchen",1,0.02671072559548396
+"Dr Spodumain",18,"Gobbins",2,0.05224871908406604
+"Dr Spodumain",18,"Innominate",3,0.02306992461658435
+"Dr Spodumain",18,"Brisc Rubal",4,0.06696079526415727
+"Dr Spodumain",18,"Kenneth Feld",5,0.09216133942161339
+"Dr Spodumain",18,"I Beast",6,0.0982420894023104
+"Dr Spodumain",18,"Suitonia",7,0.10466004583651642
+"Dr Spodumain",18,"Vily",8,0.059427132514951214
+"Dr Spodumain",18,"Mike Azariah",9,0.17750146857254748
+"Dr Spodumain",18,"progodlegend",10,0.039585414585414584
+"Dr Spodumain",18,"Arsia Elkin",11,0.11744172287303278
+"Dr Spodumain",18,"Mark Resurrectus",12,0.05615728749705674
+"Dr Spodumain",18,"Uriel Paradisi Anteovnuecci",13,0.16336822074215032
+"Dr Spodumain",18,"Seddow",14,0.054331497245868804
+"Dr Spodumain",18,"Stitch Kaneland",15,0.11274794107412134
+"Dr Spodumain",18,"Rixx Javix",16,0.19182597231377718
+"Dr Spodumain",18,"RonUSMC",17,0.0665991902834008
+"Dr Spodumain",18,"Dr Spodumain",18,1.0
+"Dr Spodumain",18,"teddy Gbyc",19,0.08682303819231242
+"Dr Spodumain",18,"Phantomite",20,0.09080924855491329
+"Dr Spodumain",18,"Jurius Doctor",21,0.17054263565891473
+"Dr Spodumain",18,"Maldavius",22,0.09434708130188431
+"Dr Spodumain",18,"Jim Halescott",23,0.07482664086437671
+"Dr Spodumain",18,"Shui Jing Jing",24,0.06989966555183946
+"Dr Spodumain",18,"Eluwien",25,0.04672745034190817
+"Dr Spodumain",18,"Evie Kouvo",26,0.060480896887446525
+"Dr Spodumain",18,"Mantis Akiga",27,0.03773584905660377
+"Dr Spodumain",18,"Baculus Orden",28,0.07087827426810478
+"Dr Spodumain",18,"Rich Richman",29,0.12442748091603054
+"Dr Spodumain",18,"Angry Mustache",30,0.035303049474882955
+"Dr Spodumain",18,"Winzentowitsch Madeveda",31,0.07199625993454885
+"Dr Spodumain",18,"DutchGunner",32,0.2397238278741169
+"Dr Spodumain",18,"White 0rchid",33,0.12055857253685028
+"Dr Spodumain",18,"Gay Pride BOOOOOM",34,0.034057846996405954
+"Dr Spodumain",18,"Robert Downey Iron",35,0.0322693179836037
+"Dr Spodumain",18,"Broodin",36,0.018866657714515914
+"Dr Spodumain",18,"Xeromus Plague",37,0.04481546572934974
+"Dr Spodumain",18,"Lucrative Business Opportunity",38,0.030731055544951327
+"Dr Spodumain",18,"Micromancer",39,0.020194786594099113
+"Dr Spodumain",18,"Kay-Lynn Tsero",40,0.027615507169410514
+"Dr Spodumain",18,"Xenuria",41,0.014075357297531399
+"Dr Spodumain",18,"Reicher514",42,0.020252285615090845
+"Dr Spodumain",18,"Styxx",43,0.028337061894108874
+"Dr Spodumain",18,"hurleyalex hurley",44,0.024143835616438358
+"Dr Spodumain",18,"knockerwrench Alduin",45,0.037838892139652816
+"Dr Spodumain",18,"TDor Clau",46,0.019918849133161196
+"teddy Gbyc",19,"Merkelchen",1,0.010056026432983766
+"teddy Gbyc",19,"Gobbins",2,0.017076942905013534
+"teddy Gbyc",19,"Innominate",3,0.0754730608117868
+"teddy Gbyc",19,"Brisc Rubal",4,0.08390736342042755
+"teddy Gbyc",19,"Kenneth Feld",5,0.0356759245051404
+"teddy Gbyc",19,"I Beast",6,0.11740933744549611
+"teddy Gbyc",19,"Suitonia",7,0.15356510186005315
+"teddy Gbyc",19,"Vily",8,0.014605956690163206
+"teddy Gbyc",19,"Mike Azariah",9,0.21811641595814257
+"teddy Gbyc",19,"progodlegend",10,0.01451322887233496
+"teddy Gbyc",19,"Arsia Elkin",11,0.12074322644792443
+"teddy Gbyc",19,"Mark Resurrectus",12,0.49631404349428676
+"teddy Gbyc",19,"Uriel Paradisi Anteovnuecci",13,0.03465526650900491
+"teddy Gbyc",19,"Seddow",14,0.023544743701129453
+"teddy Gbyc",19,"Stitch Kaneland",15,0.28129580768103196
+"teddy Gbyc",19,"Rixx Javix",16,0.1591166477916195
+"teddy Gbyc",19,"RonUSMC",17,0.01644803914905186
+"teddy Gbyc",19,"Dr Spodumain",18,0.08682303819231242
+"teddy Gbyc",19,"teddy Gbyc",19,1.0
+"teddy Gbyc",19,"Phantomite",20,0.15610162966765045
+"teddy Gbyc",19,"Jurius Doctor",21,0.08168012039950745
+"teddy Gbyc",19,"Maldavius",22,0.028851463279955827
+"teddy Gbyc",19,"Jim Halescott",23,0.05022583559168925
+"teddy Gbyc",19,"Shui Jing Jing",24,0.029706646862235425
+"teddy Gbyc",19,"Eluwien",25,0.14682294879703886
+"teddy Gbyc",19,"Evie Kouvo",26,0.2340798442064265
+"teddy Gbyc",19,"Mantis Akiga",27,0.017261001517450685
+"teddy Gbyc",19,"Baculus Orden",28,0.006518236414237586
+"teddy Gbyc",19,"Rich Richman",29,0.0588703261734288
+"teddy Gbyc",19,"Angry Mustache",30,0.018048172212377766
+"teddy Gbyc",19,"Winzentowitsch Madeveda",31,0.22400487408610886
+"teddy Gbyc",19,"DutchGunner",32,0.03729990939293265
+"teddy Gbyc",19,"White 0rchid",33,0.06861264888441537
+"teddy Gbyc",19,"Gay Pride BOOOOOM",34,0.020448289421942586
+"teddy Gbyc",19,"Robert Downey Iron",35,0.017473388230568387
+"teddy Gbyc",19,"Broodin",36,0.07497748423896727
+"teddy Gbyc",19,"Xeromus Plague",37,0.026814516129032257
+"teddy Gbyc",19,"Lucrative Business Opportunity",38,0.014499219272808388
+"teddy Gbyc",19,"Micromancer",39,0.00465046504650465
+"teddy Gbyc",19,"Kay-Lynn Tsero",40,0.09458563535911602
+"teddy Gbyc",19,"Xenuria",41,0.009099250649946475
+"teddy Gbyc",19,"Reicher514",42,0.00797367421845336
+"teddy Gbyc",19,"Styxx",43,0.016786570743405275
+"teddy Gbyc",19,"hurleyalex hurley",44,0.006278202864430057
+"teddy Gbyc",19,"knockerwrench Alduin",45,0.009943502824858758
+"teddy Gbyc",19,"TDor Clau",46,0.007538229592935602
+"Phantomite",20,"Merkelchen",1,0.017706220419202164
+"Phantomite",20,"Gobbins",2,0.4847804821911502
+"Phantomite",20,"Innominate",3,0.05801410005945808
+"Phantomite",20,"Brisc Rubal",4,0.10230019493177388
+"Phantomite",20,"Kenneth Feld",5,0.3532017720499396
+"Phantomite",20,"I Beast",6,0.15672754379426015
+"Phantomite",20,"Suitonia",7,0.18265435174184647
+"Phantomite",20,"Vily",8,0.45321408608160985
+"Phantomite",20,"Mike Azariah",9,0.1678236914600551
+"Phantomite",20,"progodlegend",10,0.48214695752009185
+"Phantomite",20,"Arsia Elkin",11,0.6156636913331414
+"Phantomite",20,"Mark Resurrectus",12,0.14231738035264482
+"Phantomite",20,"Uriel Paradisi Anteovnuecci",13,0.2433029228891859
+"Phantomite",20,"Seddow",14,0.3688704715263389
+"Phantomite",20,"Stitch Kaneland",15,0.17196576925479418
+"Phantomite",20,"Rixx Javix",16,0.11917639827904118
+"Phantomite",20,"RonUSMC",17,0.40488243896951287
+"Phantomite",20,"Dr Spodumain",18,0.09080924855491329
+"Phantomite",20,"teddy Gbyc",19,0.15610162966765045
+"Phantomite",20,"Phantomite",20,1.0
+"Phantomite",20,"Jurius Doctor",21,0.08111204920998673
+"Phantomite",20,"Maldavius",22,0.1256119556815254
+"Phantomite",20,"Jim Halescott",23,0.02611625947767481
+"Phantomite",20,"Shui Jing Jing",24,0.017783589408303366
+"Phantomite",20,"Eluwien",25,0.03222817814836874
+"Phantomite",20,"Evie Kouvo",26,0.05959321155590103
+"Phantomite",20,"Mantis Akiga",27,0.015445544554455445
+"Phantomite",20,"Baculus Orden",28,0.010417109570985161
+"Phantomite",20,"Rich Richman",29,0.14562921491283878
+"Phantomite",20,"Angry Mustache",30,0.07557184380133956
+"Phantomite",20,"Winzentowitsch Madeveda",31,0.057807659350075806
+"Phantomite",20,"DutchGunner",32,0.029438654232949352
+"Phantomite",20,"White 0rchid",33,0.07899414126785596
+"Phantomite",20,"Gay Pride BOOOOOM",34,0.03356662363253381
+"Phantomite",20,"Robert Downey Iron",35,0.02326370048833424
+"Phantomite",20,"Broodin",36,0.050396962374870555
+"Phantomite",20,"Xeromus Plague",37,0.013682092555331992
+"Phantomite",20,"Lucrative Business Opportunity",38,0.011174347584675181
+"Phantomite",20,"Micromancer",39,0.01249675689699905
+"Phantomite",20,"Kay-Lynn Tsero",40,0.021837041080933532
+"Phantomite",20,"Xenuria",41,0.011809822634767072
+"Phantomite",20,"Reicher514",42,0.17733699921445403
+"Phantomite",20,"Styxx",43,0.008793020539946418
+"Phantomite",20,"hurleyalex hurley",44,0.043029259896729774
+"Phantomite",20,"knockerwrench Alduin",45,0.0048543689320388345
+"Phantomite",20,"TDor Clau",46,0.020763888888888887
+"Jurius Doctor",21,"Merkelchen",1,0.023368251410153102
+"Jurius Doctor",21,"Gobbins",2,0.06163734776725305
+"Jurius Doctor",21,"Innominate",3,0.01788293555265149
+"Jurius Doctor",21,"Brisc Rubal",4,0.0595064465317076
+"Jurius Doctor",21,"Kenneth Feld",5,0.09328875479083422
+"Jurius Doctor",21,"I Beast",6,0.03918939055282372
+"Jurius Doctor",21,"Suitonia",7,0.07659574468085106
+"Jurius Doctor",21,"Vily",8,0.09763681592039801
+"Jurius Doctor",21,"Mike Azariah",9,0.18903551121124343
+"Jurius Doctor",21,"progodlegend",10,0.07967278476661854
+"Jurius Doctor",21,"Arsia Elkin",11,0.12601192343897083
+"Jurius Doctor",21,"Mark Resurrectus",12,0.10732514829631673
+"Jurius Doctor",21,"Uriel Paradisi Anteovnuecci",13,0.11206386753400355
+"Jurius Doctor",21,"Seddow",14,0.08704547568120524
+"Jurius Doctor",21,"Stitch Kaneland",15,0.0921833564844046
+"Jurius Doctor",21,"Rixx Javix",16,0.15789473684210525
+"Jurius Doctor",21,"RonUSMC",17,0.10859998508241964
+"Jurius Doctor",21,"Dr Spodumain",18,0.17054263565891473
+"Jurius Doctor",21,"teddy Gbyc",19,0.08168012039950745
+"Jurius Doctor",21,"Phantomite",20,0.08111204920998673
+"Jurius Doctor",21,"Jurius Doctor",21,1.0
+"Jurius Doctor",21,"Maldavius",22,0.14657320872274143
+"Jurius Doctor",21,"Jim Halescott",23,0.0884703196347032
+"Jurius Doctor",21,"Shui Jing Jing",24,0.08645418326693227
+"Jurius Doctor",21,"Eluwien",25,0.04575786463298379
+"Jurius Doctor",21,"Evie Kouvo",26,0.08873779637377964
+"Jurius Doctor",21,"Mantis Akiga",27,0.04500396510705789
+"Jurius Doctor",21,"Baculus Orden",28,0.007453874538745388
+"Jurius Doctor",21,"Rich Richman",29,0.07915242652084757
+"Jurius Doctor",21,"Angry Mustache",30,0.043866774979691305
+"Jurius Doctor",21,"Winzentowitsch Madeveda",31,0.09501845018450185
+"Jurius Doctor",21,"DutchGunner",32,0.09802333117303953
+"Jurius Doctor",21,"White 0rchid",33,0.07887953256573295
+"Jurius Doctor",21,"Gay Pride BOOOOOM",34,0.08653026427962489
+"Jurius Doctor",21,"Robert Downey Iron",35,0.03646593040216712
+"Jurius Doctor",21,"Broodin",36,0.014181870011402508
+"Jurius Doctor",21,"Xeromus Plague",37,0.053063802905874924
+"Jurius Doctor",21,"Lucrative Business Opportunity",38,0.029099307159353348
+"Jurius Doctor",21,"Micromancer",39,0.02543940795559667
+"Jurius Doctor",21,"Kay-Lynn Tsero",40,0.04223842195540309
+"Jurius Doctor",21,"Xenuria",41,0.016127781654648368
+"Jurius Doctor",21,"Reicher514",42,0.025266996613701485
+"Jurius Doctor",21,"Styxx",43,0.032753557714027555
+"Jurius Doctor",21,"hurleyalex hurley",44,0.02649276543713063
+"Jurius Doctor",21,"knockerwrench Alduin",45,0.0379416646905383
+"Jurius Doctor",21,"TDor Clau",46,0.02320392681838465
+"Maldavius",22,"Merkelchen",1,0.020844347103693074
+"Maldavius",22,"Gobbins",2,0.09831339195617703
+"Maldavius",22,"Innominate",3,0.018241181063240824
+"Maldavius",22,"Brisc Rubal",4,0.052669123766496254
+"Maldavius",22,"Kenneth Feld",5,0.13323418773510629
+"Maldavius",22,"I Beast",6,0.02478221688194653
+"Maldavius",22,"Suitonia",7,0.033722174112373285
+"Maldavius",22,"Vily",8,0.12143012862437323
+"Maldavius",22,"Mike Azariah",9,0.08602370249284838
+"Maldavius",22,"progodlegend",10,0.11449656583369867
+"Maldavius",22,"Arsia Elkin",11,0.14157039357744272
+"Maldavius",22,"Mark Resurrectus",12,0.030195865070729053
+"Maldavius",22,"Uriel Paradisi Anteovnuecci",13,0.0978205778003041
+"Maldavius",22,"Seddow",14,0.15823111019482528
+"Maldavius",22,"Stitch Kaneland",15,0.03878326996197719
+"Maldavius",22,"Rixx Javix",16,0.08549921886095725
+"Maldavius",22,"RonUSMC",17,0.04314463587664688
+"Maldavius",22,"Dr Spodumain",18,0.09434708130188431
+"Maldavius",22,"teddy Gbyc",19,0.028851463279955827
+"Maldavius",22,"Phantomite",20,0.1256119556815254
+"Maldavius",22,"Jurius Doctor",21,0.14657320872274143
+"Maldavius",22,"Maldavius",22,1.0
+"Maldavius",22,"Jim Halescott",23,0.04689984101748808
+"Maldavius",22,"Shui Jing Jing",24,0.04405010438413361
+"Maldavius",22,"Eluwien",25,0.04225352112676056
+"Maldavius",22,"Evie Kouvo",26,0.042289004858736726
+"Maldavius",22,"Mantis Akiga",27,0.03390557939914163
+"Maldavius",22,"Baculus Orden",28,0.013048817930610992
+"Maldavius",22,"Rich Richman",29,0.22566298797562181
+"Maldavius",22,"Angry Mustache",30,0.10555473482050524
+"Maldavius",22,"Winzentowitsch Madeveda",31,0.06529343179168286
+"Maldavius",22,"DutchGunner",32,0.0525965379494008
+"Maldavius",22,"White 0rchid",33,0.04129424383267787
+"Maldavius",22,"Gay Pride BOOOOOM",34,0.0934557438794727
+"Maldavius",22,"Robert Downey Iron",35,0.02169491525423729
+"Maldavius",22,"Broodin",36,0.032911012819551694
+"Maldavius",22,"Xeromus Plague",37,0.13049962714392244
+"Maldavius",22,"Lucrative Business Opportunity",38,0.023785166240409206
+"Maldavius",22,"Micromancer",39,0.03629324945560126
+"Maldavius",22,"Kay-Lynn Tsero",40,0.019190751445086706
+"Maldavius",22,"Xenuria",41,0.018351577591757887
+"Maldavius",22,"Reicher514",42,0.01048760555706892
+"Maldavius",22,"Styxx",43,0.03129694541812719
+"Maldavius",22,"hurleyalex hurley",44,0.007693998681028797
+"Maldavius",22,"knockerwrench Alduin",45,0.025078369905956112
+"Maldavius",22,"TDor Clau",46,0.012990196078431373
+"Jim Halescott",23,"Merkelchen",1,0.016431322207958923
+"Jim Halescott",23,"Gobbins",2,0.022482893450635387
+"Jim Halescott",23,"Innominate",3,0.015586284070018384
+"Jim Halescott",23,"Brisc Rubal",4,0.0303302340493748
+"Jim Halescott",23,"Kenneth Feld",5,0.023428312980551785
+"Jim Halescott",23,"I Beast",6,0.017673764998378555
+"Jim Halescott",23,"Suitonia",7,0.029585472208423027
+"Jim Halescott",23,"Vily",8,0.028562905511223806
+"Jim Halescott",23,"Mike Azariah",9,0.06554462486665877
+"Jim Halescott",23,"progodlegend",10,0.02184356703197718
+"Jim Halescott",23,"Arsia Elkin",11,0.032169835894764263
+"Jim Halescott",23,"Mark Resurrectus",12,0.025756266205704408
+"Jim Halescott",23,"Uriel Paradisi Anteovnuecci",13,0.04018109790605546
+"Jim Halescott",23,"Seddow",14,0.0203083466241361
+"Jim Halescott",23,"Stitch Kaneland",15,0.047619047619047616
+"Jim Halescott",23,"Rixx Javix",16,0.09744058500914077
+"Jim Halescott",23,"RonUSMC",17,0.03083629318695512
+"Jim Halescott",23,"Dr Spodumain",18,0.07482664086437671
+"Jim Halescott",23,"teddy Gbyc",19,0.05022583559168925
+"Jim Halescott",23,"Phantomite",20,0.02611625947767481
+"Jim Halescott",23,"Jurius Doctor",21,0.0884703196347032
+"Jim Halescott",23,"Maldavius",22,0.04689984101748808
+"Jim Halescott",23,"Jim Halescott",23,1.0
+"Jim Halescott",23,"Shui Jing Jing",24,0.0933636955107352
+"Jim Halescott",23,"Eluwien",25,0.04918032786885246
+"Jim Halescott",23,"Evie Kouvo",26,0.05945394233222761
+"Jim Halescott",23,"Mantis Akiga",27,0.054762694988383674
+"Jim Halescott",23,"Baculus Orden",28,0.010049812112208336
+"Jim Halescott",23,"Rich Richman",29,0.03941945887833721
+"Jim Halescott",23,"Angry Mustache",30,0.016552250190694128
+"Jim Halescott",23,"Winzentowitsch Madeveda",31,0.05058791359037462
+"Jim Halescott",23,"DutchGunner",32,0.0757923748277446
+"Jim Halescott",23,"White 0rchid",33,0.05575176589303733
+"Jim Halescott",23,"Gay Pride BOOOOOM",34,0.06484762579730688
+"Jim Halescott",23,"Robert Downey Iron",35,0.04232995658465991
+"Jim Halescott",23,"Broodin",36,0.016753224995811694
+"Jim Halescott",23,"Xeromus Plague",37,0.06015311702515494
+"Jim Halescott",23,"Lucrative Business Opportunity",38,0.03413566739606127
+"Jim Halescott",23,"Micromancer",39,0.015952143569292122
+"Jim Halescott",23,"Kay-Lynn Tsero",40,0.05648854961832061
+"Jim Halescott",23,"Xenuria",41,0.01530518163378204
+"Jim Halescott",23,"Reicher514",42,0.019763543320981118
+"Jim Halescott",23,"Styxx",43,0.04335016835016835
+"Jim Halescott",23,"hurleyalex hurley",44,0.022932592077831826
+"Jim Halescott",23,"knockerwrench Alduin",45,0.056429232192414434
+"Jim Halescott",23,"TDor Clau",46,0.034010783907092494
+"Shui Jing Jing",24,"Merkelchen",1,0.014948859166011016
+"Shui Jing Jing",24,"Gobbins",2,0.011073189230185817
+"Shui Jing Jing",24,"Innominate",3,0.012865401840241023
+"Shui Jing Jing",24,"Brisc Rubal",4,0.016729940158290973
+"Shui Jing Jing",24,"Kenneth Feld",5,0.02126282703152445
+"Shui Jing Jing",24,"I Beast",6,0.024845406360424028
+"Shui Jing Jing",24,"Suitonia",7,0.024575090554471997
+"Shui Jing Jing",24,"Vily",8,0.025009473285335353
+"Shui Jing Jing",24,"Mike Azariah",9,0.0535024154589372
+"Shui Jing Jing",24,"progodlegend",10,0.011213820275799364
+"Shui Jing Jing",24,"Arsia Elkin",11,0.03123552379061611
+"Shui Jing Jing",24,"Mark Resurrectus",12,0.022186147186147188
+"Shui Jing Jing",24,"Uriel Paradisi Anteovnuecci",13,0.035391042005105594
+"Shui Jing Jing",24,"Seddow",14,0.015346103613408794
+"Shui Jing Jing",24,"Stitch Kaneland",15,0.03318547724659109
+"Shui Jing Jing",24,"Rixx Javix",16,0.03819004524886878
+"Shui Jing Jing",24,"RonUSMC",17,0.025256252562525627
+"Shui Jing Jing",24,"Dr Spodumain",18,0.06989966555183946
+"Shui Jing Jing",24,"teddy Gbyc",19,0.029706646862235425
+"Shui Jing Jing",24,"Phantomite",20,0.017783589408303366
+"Shui Jing Jing",24,"Jurius Doctor",21,0.08645418326693227
+"Shui Jing Jing",24,"Maldavius",22,0.04405010438413361
+"Shui Jing Jing",24,"Jim Halescott",23,0.0933636955107352
+"Shui Jing Jing",24,"Shui Jing Jing",24,1.0
+"Shui Jing Jing",24,"Eluwien",25,0.07425232038501203
+"Shui Jing Jing",24,"Evie Kouvo",26,0.07113316790736146
+"Shui Jing Jing",24,"Mantis Akiga",27,0.10895238095238095
+"Shui Jing Jing",24,"Baculus Orden",28,0.0048949804200783195
+"Shui Jing Jing",24,"Rich Richman",29,0.05510009532888465
+"Shui Jing Jing",24,"Angry Mustache",30,0.013503026540431475
+"Shui Jing Jing",24,"Winzentowitsch Madeveda",31,0.07778112752487187
+"Shui Jing Jing",24,"DutchGunner",32,0.10012453300124532
+"Shui Jing Jing",24,"White 0rchid",33,0.09136490250696379
+"Shui Jing Jing",24,"Gay Pride BOOOOOM",34,0.04623614826136798
+"Shui Jing Jing",24,"Robert Downey Iron",35,0.05744336569579288
+"Shui Jing Jing",24,"Broodin",36,0.011244569384104269
+"Shui Jing Jing",24,"Xeromus Plague",37,0.07053100932306446
+"Shui Jing Jing",24,"Lucrative Business Opportunity",38,0.03608502224419179
+"Shui Jing Jing",24,"Micromancer",39,0.015687366564559546
+"Shui Jing Jing",24,"Kay-Lynn Tsero",40,0.09213973799126637
+"Shui Jing Jing",24,"Xenuria",41,0.01348802112808904
+"Shui Jing Jing",24,"Reicher514",42,0.02206564064528092
+"Shui Jing Jing",24,"Styxx",43,0.06192990878540566
+"Shui Jing Jing",24,"hurleyalex hurley",44,0.02685078634445723
+"Shui Jing Jing",24,"knockerwrench Alduin",45,0.10339168490153172
+"Shui Jing Jing",24,"TDor Clau",46,0.0392156862745098
+"Eluwien",25,"Merkelchen",1,0.013230046131081905
+"Eluwien",25,"Gobbins",2,0.009138282607053847
+"Eluwien",25,"Innominate",3,0.013409183258837871
+"Eluwien",25,"Brisc Rubal",4,0.019511880996844613
+"Eluwien",25,"Kenneth Feld",5,0.008466090122894857
+"Eluwien",25,"I Beast",6,0.03987695749440716
+"Eluwien",25,"Suitonia",7,0.03269036671526298
+"Eluwien",25,"Vily",8,0.014139298271863545
+"Eluwien",25,"Mike Azariah",9,0.054444712117562036
+"Eluwien",25,"progodlegend",10,0.01072912731394031
+"Eluwien",25,"Arsia Elkin",11,0.02366747525077034
+"Eluwien",25,"Mark Resurrectus",12,0.12854030501089325
+"Eluwien",25,"Uriel Paradisi Anteovnuecci",13,0.02378230048021953
+"Eluwien",25,"Seddow",14,0.012767799177667172
+"Eluwien",25,"Stitch Kaneland",15,0.1261582323592302
+"Eluwien",25,"Rixx Javix",16,0.05429616087751371
+"Eluwien",25,"RonUSMC",17,0.015968225662640837
+"Eluwien",25,"Dr Spodumain",18,0.04672745034190817
+"Eluwien",25,"teddy Gbyc",19,0.14682294879703886
+"Eluwien",25,"Phantomite",20,0.03222817814836874
+"Eluwien",25,"Jurius Doctor",21,0.04575786463298379
+"Eluwien",25,"Maldavius",22,0.04225352112676056
+"Eluwien",25,"Jim Halescott",23,0.04918032786885246
+"Eluwien",25,"Shui Jing Jing",24,0.07425232038501203
+"Eluwien",25,"Eluwien",25,1.0
+"Eluwien",25,"Evie Kouvo",26,0.21200866604766327
+"Eluwien",25,"Mantis Akiga",27,0.052970651395848244
+"Eluwien",25,"Baculus Orden",28,0.007205764611689352
+"Eluwien",25,"Rich Richman",29,0.02732139560642422
+"Eluwien",25,"Angry Mustache",30,0.009640598488354158
+"Eluwien",25,"Winzentowitsch Madeveda",31,0.15244487056567593
+"Eluwien",25,"DutchGunner",32,0.0377974801679888
+"Eluwien",25,"White 0rchid",33,0.04692470837751856
+"Eluwien",25,"Gay Pride BOOOOOM",34,0.0335946248600224
+"Eluwien",25,"Robert Downey Iron",35,0.03563038371182459
+"Eluwien",25,"Broodin",36,0.009157198575546888
+"Eluwien",25,"Xeromus Plague",37,0.05570920584749111
+"Eluwien",25,"Lucrative Business Opportunity",38,0.02952565343659245
+"Eluwien",25,"Micromancer",39,0.01292347456844826
+"Eluwien",25,"Kay-Lynn Tsero",40,0.16574585635359115
+"Eluwien",25,"Xenuria",41,0.012211159120796544
+"Eluwien",25,"Reicher514",42,0.008368200836820083
+"Eluwien",25,"Styxx",43,0.04617537313432836
+"Eluwien",25,"hurleyalex hurley",44,0.013093901982790871
+"Eluwien",25,"knockerwrench Alduin",45,0.022466300549176237
+"Eluwien",25,"TDor Clau",46,0.022655188038060717
+"Evie Kouvo",26,"Merkelchen",1,0.012822606991179352
+"Evie Kouvo",26,"Gobbins",2,0.017068779258192293
+"Evie Kouvo",26,"Innominate",3,0.011390566470453329
+"Evie Kouvo",26,"Brisc Rubal",4,0.026796212636920603
+"Evie Kouvo",26,"Kenneth Feld",5,0.026891047883414294
+"Evie Kouvo",26,"I Beast",6,0.0412115995050304
+"Evie Kouvo",26,"Suitonia",7,0.059971258014592084
+"Evie Kouvo",26,"Vily",8,0.021039868768276158
+"Evie Kouvo",26,"Mike Azariah",9,0.0958304538124856
+"Evie Kouvo",26,"progodlegend",10,0.012171547218443475
+"Evie Kouvo",26,"Arsia Elkin",11,0.05877788554801164
+"Evie Kouvo",26,"Mark Resurrectus",12,0.21688336159788957
+"Evie Kouvo",26,"Uriel Paradisi Anteovnuecci",13,0.03494566375452802
+"Evie Kouvo",26,"Seddow",14,0.02356629918074239
+"Evie Kouvo",26,"Stitch Kaneland",15,0.17296222664015903
+"Evie Kouvo",26,"Rixx Javix",16,0.11192504258943782
+"Evie Kouvo",26,"RonUSMC",17,0.020730958230958232
+"Evie Kouvo",26,"Dr Spodumain",18,0.060480896887446525
+"Evie Kouvo",26,"teddy Gbyc",19,0.2340798442064265
+"Evie Kouvo",26,"Phantomite",20,0.05959321155590103
+"Evie Kouvo",26,"Jurius Doctor",21,0.08873779637377964
+"Evie Kouvo",26,"Maldavius",22,0.042289004858736726
+"Evie Kouvo",26,"Jim Halescott",23,0.05945394233222761
+"Evie Kouvo",26,"Shui Jing Jing",24,0.07113316790736146
+"Evie Kouvo",26,"Eluwien",25,0.21200866604766327
+"Evie Kouvo",26,"Evie Kouvo",26,1.0
+"Evie Kouvo",26,"Mantis Akiga",27,0.04694570135746606
+"Evie Kouvo",26,"Baculus Orden",28,0.008009344234940765
+"Evie Kouvo",26,"Rich Richman",29,0.03807648120794354
+"Evie Kouvo",26,"Angry Mustache",30,0.016661773341162655
+"Evie Kouvo",26,"Winzentowitsch Madeveda",31,0.26514053897421036
+"Evie Kouvo",26,"DutchGunner",32,0.0563894523326572
+"Evie Kouvo",26,"White 0rchid",33,0.07217668488160292
+"Evie Kouvo",26,"Gay Pride BOOOOOM",34,0.02766453115899825
+"Evie Kouvo",26,"Robert Downey Iron",35,0.03338391502276176
+"Evie Kouvo",26,"Broodin",36,0.008201289911617168
+"Evie Kouvo",26,"Xeromus Plague",37,0.05795314426633785
+"Evie Kouvo",26,"Lucrative Business Opportunity",38,0.02086280056577086
+"Evie Kouvo",26,"Micromancer",39,0.011291156697121186
+"Evie Kouvo",26,"Kay-Lynn Tsero",40,0.17320028510334998
+"Evie Kouvo",26,"Xenuria",41,0.012551566751514087
+"Evie Kouvo",26,"Reicher514",42,0.015466408893185114
+"Evie Kouvo",26,"Styxx",43,0.033734939759036145
+"Evie Kouvo",26,"hurleyalex hurley",44,0.01910079341757273
+"Evie Kouvo",26,"knockerwrench Alduin",45,0.0297029702970297
+"Evie Kouvo",26,"TDor Clau",46,0.021672875042329835
+"Mantis Akiga",27,"Merkelchen",1,0.015733333333333332
+"Mantis Akiga",27,"Gobbins",2,0.010607225211375864
+"Mantis Akiga",27,"Innominate",3,0.014401589140870717
+"Mantis Akiga",27,"Brisc Rubal",4,0.0206508953078029
+"Mantis Akiga",27,"Kenneth Feld",5,0.009384000743287187
+"Mantis Akiga",27,"I Beast",6,0.037248151701563294
+"Mantis Akiga",27,"Suitonia",7,0.01307880676758682
+"Mantis Akiga",27,"Vily",8,0.02923705932268765
+"Mantis Akiga",27,"Mike Azariah",9,0.03766707168894289
+"Mantis Akiga",27,"progodlegend",10,0.016369392324916996
+"Mantis Akiga",27,"Arsia Elkin",11,0.02598267821452365
+"Mantis Akiga",27,"Mark Resurrectus",12,0.01630837657524092
+"Mantis Akiga",27,"Uriel Paradisi Anteovnuecci",13,0.02654451491660794
+"Mantis Akiga",27,"Seddow",14,0.025451283776208096
+"Mantis Akiga",27,"Stitch Kaneland",15,0.016311584553928095
+"Mantis Akiga",27,"Rixx Javix",16,0.021899153478100848
+"Mantis Akiga",27,"RonUSMC",17,0.022915974759216206
+"Mantis Akiga",27,"Dr Spodumain",18,0.03773584905660377
+"Mantis Akiga",27,"teddy Gbyc",19,0.017261001517450685
+"Mantis Akiga",27,"Phantomite",20,0.015445544554455445
+"Mantis Akiga",27,"Jurius Doctor",21,0.04500396510705789
+"Mantis Akiga",27,"Maldavius",22,0.03390557939914163
+"Mantis Akiga",27,"Jim Halescott",23,0.054762694988383674
+"Mantis Akiga",27,"Shui Jing Jing",24,0.10895238095238095
+"Mantis Akiga",27,"Eluwien",25,0.052970651395848244
+"Mantis Akiga",27,"Evie Kouvo",26,0.04694570135746606
+"Mantis Akiga",27,"Mantis Akiga",27,1.0
+"Mantis Akiga",27,"Baculus Orden",28,0.012210679788591215
+"Mantis Akiga",27,"Rich Richman",29,0.030227185213708124
+"Mantis Akiga",27,"Angry Mustache",30,0.015055967207945766
+"Mantis Akiga",27,"Winzentowitsch Madeveda",31,0.04081006443694385
+"Mantis Akiga",27,"DutchGunner",32,0.038254046101029913
+"Mantis Akiga",27,"White 0rchid",33,0.06289129197495731
+"Mantis Akiga",27,"Gay Pride BOOOOOM",34,0.046273546273546275
+"Mantis Akiga",27,"Robert Downey Iron",35,0.12286374133949192
+"Mantis Akiga",27,"Broodin",36,0.014055179593961478
+"Mantis Akiga",27,"Xeromus Plague",37,0.05629565964761495
+"Mantis Akiga",27,"Lucrative Business Opportunity",38,0.05399449035812672
+"Mantis Akiga",27,"Micromancer",39,0.019520515493224675
+"Mantis Akiga",27,"Kay-Lynn Tsero",40,0.05989940557841793
+"Mantis Akiga",27,"Xenuria",41,0.017827888599787994
+"Mantis Akiga",27,"Reicher514",42,0.011963539688568173
+"Mantis Akiga",27,"Styxx",43,0.07639257294429708
+"Mantis Akiga",27,"hurleyalex hurley",44,0.022131147540983605
+"Mantis Akiga",27,"knockerwrench Alduin",45,0.033821871476888386
+"Mantis Akiga",27,"TDor Clau",46,0.038109756097560975
+"Baculus Orden",28,"Merkelchen",1,0.7517467055806137
+"Baculus Orden",28,"Gobbins",2,0.00396399757496619
+"Baculus Orden",28,"Innominate",3,0.707430084395168
+"Baculus Orden",28,"Brisc Rubal",4,0.5639989572471324
+"Baculus Orden",28,"Kenneth Feld",5,0.003703124185051896
+"Baculus Orden",28,"I Beast",6,0.5024705221785514
+"Baculus Orden",28,"Suitonia",7,0.45341716785128483
+"Baculus Orden",28,"Vily",8,0.004717853839037928
+"Baculus Orden",28,"Mike Azariah",9,0.010269882971101027
+"Baculus Orden",28,"progodlegend",10,0.002886271588845957
+"Baculus Orden",28,"Arsia Elkin",11,0.007883360176316013
+"Baculus Orden",28,"Mark Resurrectus",12,0.00946555992427552
+"Baculus Orden",28,"Uriel Paradisi Anteovnuecci",13,0.055226824457593686
+"Baculus Orden",28,"Seddow",14,0.007125617745086772
+"Baculus Orden",28,"Stitch Kaneland",15,0.008282870467042527
+"Baculus Orden",28,"Rixx Javix",16,0.010516391064693936
+"Baculus Orden",28,"RonUSMC",17,0.0037336953886437474
+"Baculus Orden",28,"Dr Spodumain",18,0.07087827426810478
+"Baculus Orden",28,"teddy Gbyc",19,0.006518236414237586
+"Baculus Orden",28,"Phantomite",20,0.010417109570985161
+"Baculus Orden",28,"Jurius Doctor",21,0.007453874538745388
+"Baculus Orden",28,"Maldavius",22,0.013048817930610992
+"Baculus Orden",28,"Jim Halescott",23,0.010049812112208336
+"Baculus Orden",28,"Shui Jing Jing",24,0.0048949804200783195
+"Baculus Orden",28,"Eluwien",25,0.007205764611689352
+"Baculus Orden",28,"Evie Kouvo",26,0.008009344234940765
+"Baculus Orden",28,"Mantis Akiga",27,0.012210679788591215
+"Baculus Orden",28,"Baculus Orden",28,1.0
+"Baculus Orden",28,"Rich Richman",29,0.005639373077486451
+"Baculus Orden",28,"Angry Mustache",30,0.6735159817351598
+"Baculus Orden",28,"Winzentowitsch Madeveda",31,0.0043511645764013306
+"Baculus Orden",28,"DutchGunner",32,0.07536231884057971
+"Baculus Orden",28,"White 0rchid",33,0.004893828798938288
+"Baculus Orden",28,"Gay Pride BOOOOOM",34,0.005609711237814972
+"Baculus Orden",28,"Robert Downey Iron",35,0.005393843578536222
+"Baculus Orden",28,"Broodin",36,0.7308952906675866
+"Baculus Orden",28,"Xeromus Plague",37,0.006874767744332962
+"Baculus Orden",28,"Lucrative Business Opportunity",38,0.0024347487339306585
+"Baculus Orden",28,"Micromancer",39,0.7742653193659034
+"Baculus Orden",28,"Kay-Lynn Tsero",40,0.0033764772087788407
+"Baculus Orden",28,"Xenuria",41,0.7538888888888889
+"Baculus Orden",28,"Reicher514",42,0.0019733957023826926
+"Baculus Orden",28,"Styxx",43,0.006770480704129994
+"Baculus Orden",28,"hurleyalex hurley",44,0.002951484965873455
+"Baculus Orden",28,"knockerwrench Alduin",45,0.00206023741783577
+"Baculus Orden",28,"TDor Clau",46,0.002597152751058099
+"Rich Richman",29,"Merkelchen",1,0.014660215209070557
+"Rich Richman",29,"Gobbins",2,0.1514200189822589
+"Rich Richman",29,"Innominate",3,0.01176390588875289
+"Rich Richman",29,"Brisc Rubal",4,0.032957698623931136
+"Rich Richman",29,"Kenneth Feld",5,0.20894585873072785
+"Rich Richman",29,"I Beast",6,0.0388800949742778
+"Rich Richman",29,"Suitonia",7,0.0658682634730539
+"Rich Richman",29,"Vily",8,0.1520421417231924
+"Rich Richman",29,"Mike Azariah",9,0.08769365682548963
+"Rich Richman",29,"progodlegend",10,0.1467383408397501
+"Rich Richman",29,"Arsia Elkin",11,0.17116121905257
+"Rich Richman",29,"Mark Resurrectus",12,0.04176304291955795
+"Rich Richman",29,"Uriel Paradisi Anteovnuecci",13,0.05203221923895936
+"Rich Richman",29,"Seddow",14,0.20091836734693877
+"Rich Richman",29,"Stitch Kaneland",15,0.07925321463897131
+"Rich Richman",29,"Rixx Javix",16,0.076072650697552
+"Rich Richman",29,"RonUSMC",17,0.06850196639256347
+"Rich Richman",29,"Dr Spodumain",18,0.12442748091603054
+"Rich Richman",29,"teddy Gbyc",19,0.0588703261734288
+"Rich Richman",29,"Phantomite",20,0.14562921491283878
+"Rich Richman",29,"Jurius Doctor",21,0.07915242652084757
+"Rich Richman",29,"Maldavius",22,0.22566298797562181
+"Rich Richman",29,"Jim Halescott",23,0.03941945887833721
+"Rich Richman",29,"Shui Jing Jing",24,0.05510009532888465
+"Rich Richman",29,"Eluwien",25,0.02732139560642422
+"Rich Richman",29,"Evie Kouvo",26,0.03807648120794354
+"Rich Richman",29,"Mantis Akiga",27,0.030227185213708124
+"Rich Richman",29,"Baculus Orden",28,0.005639373077486451
+"Rich Richman",29,"Rich Richman",29,1.0
+"Rich Richman",29,"Angry Mustache",30,0.10171298599758334
+"Rich Richman",29,"Winzentowitsch Madeveda",31,0.035283993115318414
+"Rich Richman",29,"DutchGunner",32,0.05168711656441718
+"Rich Richman",29,"White 0rchid",33,0.08313458262350937
+"Rich Richman",29,"Gay Pride BOOOOOM",34,0.028196981731532962
+"Rich Richman",29,"Robert Downey Iron",35,0.023698602390115453
+"Rich Richman",29,"Broodin",36,0.00838500563697858
+"Rich Richman",29,"Xeromus Plague",37,0.030628803245436105
+"Rich Richman",29,"Lucrative Business Opportunity",38,0.02462163993675175
+"Rich Richman",29,"Micromancer",39,0.011412591640843473
+"Rich Richman",29,"Kay-Lynn Tsero",40,0.023617153511497825
+"Rich Richman",29,"Xenuria",41,0.011197177697676202
+"Rich Richman",29,"Reicher514",42,0.020010261672652643
+"Rich Richman",29,"Styxx",43,0.028293545534924844
+"Rich Richman",29,"hurleyalex hurley",44,0.01911969727145987
+"Rich Richman",29,"knockerwrench Alduin",45,0.025540727105384263
+"Rich Richman",29,"TDor Clau",46,0.01788830715532286
+"Angry Mustache",30,"Merkelchen",1,0.6811594202898551
+"Angry Mustache",30,"Gobbins",2,0.08146875870392721
+"Angry Mustache",30,"Innominate",3,0.6436798474066466
+"Angry Mustache",30,"Brisc Rubal",4,0.545432735560487
+"Angry Mustache",30,"Kenneth Feld",5,0.09368656638734191
+"Angry Mustache",30,"I Beast",6,0.43033341689646526
+"Angry Mustache",30,"Suitonia",7,0.44719514062579757
+"Angry Mustache",30,"Vily",8,0.08418332025661143
+"Angry Mustache",30,"Mike Azariah",9,0.0368377253814147
+"Angry Mustache",30,"progodlegend",10,0.0775630951280392
+"Angry Mustache",30,"Arsia Elkin",11,0.0857592112532404
+"Angry Mustache",30,"Mark Resurrectus",12,0.036533616231269064
+"Angry Mustache",30,"Uriel Paradisi Anteovnuecci",13,0.014011165986686709
+"Angry Mustache",30,"Seddow",14,0.09780382339553938
+"Angry Mustache",30,"Stitch Kaneland",15,0.023743544527018517
+"Angry Mustache",30,"Rixx Javix",16,0.02520240271611387
+"Angry Mustache",30,"RonUSMC",17,0.027295171909290417
+"Angry Mustache",30,"Dr Spodumain",18,0.035303049474882955
+"Angry Mustache",30,"teddy Gbyc",19,0.018048172212377766
+"Angry Mustache",30,"Phantomite",20,0.07557184380133956
+"Angry Mustache",30,"Jurius Doctor",21,0.043866774979691305
+"Angry Mustache",30,"Maldavius",22,0.10555473482050524
+"Angry Mustache",30,"Jim Halescott",23,0.016552250190694128
+"Angry Mustache",30,"Shui Jing Jing",24,0.013503026540431475
+"Angry Mustache",30,"Eluwien",25,0.009640598488354158
+"Angry Mustache",30,"Evie Kouvo",26,0.016661773341162655
+"Angry Mustache",30,"Mantis Akiga",27,0.015055967207945766
+"Angry Mustache",30,"Baculus Orden",28,0.6735159817351598
+"Angry Mustache",30,"Rich Richman",29,0.10171298599758334
+"Angry Mustache",30,"Angry Mustache",30,1.0
+"Angry Mustache",30,"Winzentowitsch Madeveda",31,0.008415251712838844
+"Angry Mustache",30,"DutchGunner",32,0.013458286358511838
+"Angry Mustache",30,"White 0rchid",33,0.014541468761417611
+"Angry Mustache",30,"Gay Pride BOOOOOM",34,0.012593655348318189
+"Angry Mustache",30,"Robert Downey Iron",35,0.008012820512820512
+"Angry Mustache",30,"Broodin",36,0.6548196423158533
+"Angry Mustache",30,"Xeromus Plague",37,0.011473042362002568
+"Angry Mustache",30,"Lucrative Business Opportunity",38,0.008528428093645485
+"Angry Mustache",30,"Micromancer",39,0.680302177931367
+"Angry Mustache",30,"Kay-Lynn Tsero",40,0.007108813312868568
+"Angry Mustache",30,"Xenuria",41,0.6615322904131569
+"Angry Mustache",30,"Reicher514",42,0.005717998700454841
+"Angry Mustache",30,"Styxx",43,0.009533283594462406
+"Angry Mustache",30,"hurleyalex hurley",44,0.005567485882446512
+"Angry Mustache",30,"knockerwrench Alduin",45,0.007652203161789438
+"Angry Mustache",30,"TDor Clau",46,0.004200642451198419
+"Winzentowitsch Madeveda",31,"Merkelchen",1,0.010530714584203928
+"Winzentowitsch Madeveda",31,"Gobbins",2,0.010313802940531051
+"Winzentowitsch Madeveda",31,"Innominate",3,0.005682260449910485
+"Winzentowitsch Madeveda",31,"Brisc Rubal",4,0.03037590178458423
+"Winzentowitsch Madeveda",31,"Kenneth Feld",5,0.024164889836531627
+"Winzentowitsch Madeveda",31,"I Beast",6,0.03202904834164318
+"Winzentowitsch Madeveda",31,"Suitonia",7,0.05132062855232364
+"Winzentowitsch Madeveda",31,"Vily",8,0.01250632545362539
+"Winzentowitsch Madeveda",31,"Mike Azariah",9,0.08512143362414525
+"Winzentowitsch Madeveda",31,"progodlegend",10,0.008533916849015317
+"Winzentowitsch Madeveda",31,"Arsia Elkin",11,0.04966021955044433
+"Winzentowitsch Madeveda",31,"Mark Resurrectus",12,0.19890795631825273
+"Winzentowitsch Madeveda",31,"Uriel Paradisi Anteovnuecci",13,0.03923085423803735
+"Winzentowitsch Madeveda",31,"Seddow",14,0.014267990074441687
+"Winzentowitsch Madeveda",31,"Stitch Kaneland",15,0.1634301426361918
+"Winzentowitsch Madeveda",31,"Rixx Javix",16,0.13552511415525115
+"Winzentowitsch Madeveda",31,"RonUSMC",17,0.012871518839223028
+"Winzentowitsch Madeveda",31,"Dr Spodumain",18,0.07199625993454885
+"Winzentowitsch Madeveda",31,"teddy Gbyc",19,0.22400487408610886
+"Winzentowitsch Madeveda",31,"Phantomite",20,0.057807659350075806
+"Winzentowitsch Madeveda",31,"Jurius Doctor",21,0.09501845018450185
+"Winzentowitsch Madeveda",31,"Maldavius",22,0.06529343179168286
+"Winzentowitsch Madeveda",31,"Jim Halescott",23,0.05058791359037462
+"Winzentowitsch Madeveda",31,"Shui Jing Jing",24,0.07778112752487187
+"Winzentowitsch Madeveda",31,"Eluwien",25,0.15244487056567593
+"Winzentowitsch Madeveda",31,"Evie Kouvo",26,0.26514053897421036
+"Winzentowitsch Madeveda",31,"Mantis Akiga",27,0.04081006443694385
+"Winzentowitsch Madeveda",31,"Baculus Orden",28,0.0043511645764013306
+"Winzentowitsch Madeveda",31,"Rich Richman",29,0.035283993115318414
+"Winzentowitsch Madeveda",31,"Angry Mustache",30,0.008415251712838844
+"Winzentowitsch Madeveda",31,"Winzentowitsch Madeveda",31,1.0
+"Winzentowitsch Madeveda",31,"DutchGunner",32,0.05242801890846584
+"Winzentowitsch Madeveda",31,"White 0rchid",33,0.044396961063627734
+"Winzentowitsch Madeveda",31,"Gay Pride BOOOOOM",34,0.03008
+"Winzentowitsch Madeveda",31,"Robert Downey Iron",35,0.029950083194675542
+"Winzentowitsch Madeveda",31,"Broodin",36,0.005945109536607216
+"Winzentowitsch Madeveda",31,"Xeromus Plague",37,0.04101367122374125
+"Winzentowitsch Madeveda",31,"Lucrative Business Opportunity",38,0.020594059405940595
+"Winzentowitsch Madeveda",31,"Micromancer",39,0.007230402962701702
+"Winzentowitsch Madeveda",31,"Kay-Lynn Tsero",40,0.13427158615443135
+"Winzentowitsch Madeveda",31,"Xenuria",41,0.007810395906275249
+"Winzentowitsch Madeveda",31,"Reicher514",42,0.011476793248945148
+"Winzentowitsch Madeveda",31,"Styxx",43,0.02356518434055492
+"Winzentowitsch Madeveda",31,"hurleyalex hurley",44,0.014781491002570694
+"Winzentowitsch Madeveda",31,"knockerwrench Alduin",45,0.03052805280528053
+"Winzentowitsch Madeveda",31,"TDor Clau",46,0.024602573807721424
+"DutchGunner",32,"Merkelchen",1,0.015547703180212015
+"DutchGunner",32,"Gobbins",2,0.01657995143947277
+"DutchGunner",32,"Innominate",3,0.00916623890885092
+"DutchGunner",32,"Brisc Rubal",4,0.02287796427931426
+"DutchGunner",32,"Kenneth Feld",5,0.028775781769793746
+"DutchGunner",32,"I Beast",6,0.06519177201628455
+"DutchGunner",32,"Suitonia",7,0.03323722149410223
+"DutchGunner",32,"Vily",8,0.027329966097004083
+"DutchGunner",32,"Mike Azariah",9,0.0852327968024198
+"DutchGunner",32,"progodlegend",10,0.015436799113941576
+"DutchGunner",32,"Arsia Elkin",11,0.05438443307970563
+"DutchGunner",32,"Mark Resurrectus",12,0.027487872997207115
+"DutchGunner",32,"Uriel Paradisi Anteovnuecci",13,0.18341418341418342
+"DutchGunner",32,"Seddow",14,0.017188693659281894
+"DutchGunner",32,"Stitch Kaneland",15,0.054293628808864264
+"DutchGunner",32,"Rixx Javix",16,0.08433179723502304
+"DutchGunner",32,"RonUSMC",17,0.027497027348394768
+"DutchGunner",32,"Dr Spodumain",18,0.2397238278741169
+"DutchGunner",32,"teddy Gbyc",19,0.03729990939293265
+"DutchGunner",32,"Phantomite",20,0.029438654232949352
+"DutchGunner",32,"Jurius Doctor",21,0.09802333117303953
+"DutchGunner",32,"Maldavius",22,0.0525965379494008
+"DutchGunner",32,"Jim Halescott",23,0.0757923748277446
+"DutchGunner",32,"Shui Jing Jing",24,0.10012453300124532
+"DutchGunner",32,"Eluwien",25,0.0377974801679888
+"DutchGunner",32,"Evie Kouvo",26,0.0563894523326572
+"DutchGunner",32,"Mantis Akiga",27,0.038254046101029913
+"DutchGunner",32,"Baculus Orden",28,0.07536231884057971
+"DutchGunner",32,"Rich Richman",29,0.05168711656441718
+"DutchGunner",32,"Angry Mustache",30,0.013458286358511838
+"DutchGunner",32,"Winzentowitsch Madeveda",31,0.05242801890846584
+"DutchGunner",32,"DutchGunner",32,1.0
+"DutchGunner",32,"White 0rchid",33,0.057719475277497476
+"DutchGunner",32,"Gay Pride BOOOOOM",34,0.02966531440162272
+"DutchGunner",32,"Robert Downey Iron",35,0.037964671763775375
+"DutchGunner",32,"Broodin",36,0.010415071220707612
+"DutchGunner",32,"Xeromus Plague",37,0.05369484316852738
+"DutchGunner",32,"Lucrative Business Opportunity",38,0.02765253982566877
+"DutchGunner",32,"Micromancer",39,0.012882979601948964
+"DutchGunner",32,"Kay-Lynn Tsero",40,0.032955159373311727
+"DutchGunner",32,"Xenuria",41,0.011567476948868399
+"DutchGunner",32,"Reicher514",42,0.016961761642612705
+"DutchGunner",32,"Styxx",43,0.0342305441778818
+"DutchGunner",32,"hurleyalex hurley",44,0.017293997965412006
+"DutchGunner",32,"knockerwrench Alduin",45,0.03855721393034826
+"DutchGunner",32,"TDor Clau",46,0.019827586206896553
+"White 0rchid",33,"Merkelchen",1,0.013696396543290397
+"White 0rchid",33,"Gobbins",2,0.03291009924109749
+"White 0rchid",33,"Innominate",3,0.010976446375485937
+"White 0rchid",33,"Brisc Rubal",4,0.023076923076923078
+"White 0rchid",33,"Kenneth Feld",5,0.045074390351263316
+"White 0rchid",33,"I Beast",6,0.06745223280656351
+"White 0rchid",33,"Suitonia",7,0.08146146484265045
+"White 0rchid",33,"Vily",8,0.03820273496852616
+"White 0rchid",33,"Mike Azariah",9,0.09145992911855494
+"White 0rchid",33,"progodlegend",10,0.017302031732356952
+"White 0rchid",33,"Arsia Elkin",11,0.05436668594563331
+"White 0rchid",33,"Mark Resurrectus",12,0.05630593978844589
+"White 0rchid",33,"Uriel Paradisi Anteovnuecci",13,0.031319437096603536
+"White 0rchid",33,"Seddow",14,0.05256064690026954
+"White 0rchid",33,"Stitch Kaneland",15,0.15527042390774728
+"White 0rchid",33,"Rixx Javix",16,0.12482853223593965
+"White 0rchid",33,"RonUSMC",17,0.028317901234567903
+"White 0rchid",33,"Dr Spodumain",18,0.12055857253685028
+"White 0rchid",33,"teddy Gbyc",19,0.06861264888441537
+"White 0rchid",33,"Phantomite",20,0.07899414126785596
+"White 0rchid",33,"Jurius Doctor",21,0.07887953256573295
+"White 0rchid",33,"Maldavius",22,0.04129424383267787
+"White 0rchid",33,"Jim Halescott",23,0.05575176589303733
+"White 0rchid",33,"Shui Jing Jing",24,0.09136490250696379
+"White 0rchid",33,"Eluwien",25,0.04692470837751856
+"White 0rchid",33,"Evie Kouvo",26,0.07217668488160292
+"White 0rchid",33,"Mantis Akiga",27,0.06289129197495731
+"White 0rchid",33,"Baculus Orden",28,0.004893828798938288
+"White 0rchid",33,"Rich Richman",29,0.08313458262350937
+"White 0rchid",33,"Angry Mustache",30,0.014541468761417611
+"White 0rchid",33,"Winzentowitsch Madeveda",31,0.044396961063627734
+"White 0rchid",33,"DutchGunner",32,0.057719475277497476
+"White 0rchid",33,"White 0rchid",33,1.0
+"White 0rchid",33,"Gay Pride BOOOOOM",34,0.031566753547639735
+"White 0rchid",33,"Robert Downey Iron",35,0.04118715929739552
+"White 0rchid",33,"Broodin",36,0.012360446570972886
+"White 0rchid",33,"Xeromus Plague",37,0.04147880973850315
+"White 0rchid",33,"Lucrative Business Opportunity",38,0.03472714386959603
+"White 0rchid",33,"Micromancer",39,0.01509792080062117
+"White 0rchid",33,"Kay-Lynn Tsero",40,0.05221518987341772
+"White 0rchid",33,"Xenuria",41,0.012160979877515311
+"White 0rchid",33,"Reicher514",42,0.022265246853823813
+"White 0rchid",33,"Styxx",43,0.04437564499484004
+"White 0rchid",33,"hurleyalex hurley",44,0.01625544267053701
+"White 0rchid",33,"knockerwrench Alduin",45,0.028975009054690328
+"White 0rchid",33,"TDor Clau",46,0.02109139604954804
+"Gay Pride BOOOOOM",34,"Merkelchen",1,0.007881067526419488
+"Gay Pride BOOOOOM",34,"Gobbins",2,0.015894143438772313
+"Gay Pride BOOOOOM",34,"Innominate",3,0.006832763936338638
+"Gay Pride BOOOOOM",34,"Brisc Rubal",4,0.015049947423764459
+"Gay Pride BOOOOOM",34,"Kenneth Feld",5,0.010109599395313681
+"Gay Pride BOOOOOM",34,"I Beast",6,0.017549742901855576
+"Gay Pride BOOOOOM",34,"Suitonia",7,0.013319844882819086
+"Gay Pride BOOOOOM",34,"Vily",8,0.035542973971848704
+"Gay Pride BOOOOOM",34,"Mike Azariah",9,0.023611450942011256
+"Gay Pride BOOOOOM",34,"progodlegend",10,0.03456514813634916
+"Gay Pride BOOOOOM",34,"Arsia Elkin",11,0.034442934782608695
+"Gay Pride BOOOOOM",34,"Mark Resurrectus",12,0.019385796545105565
+"Gay Pride BOOOOOM",34,"Uriel Paradisi Anteovnuecci",13,0.04513846529218007
+"Gay Pride BOOOOOM",34,"Seddow",14,0.044465137935048304
+"Gay Pride BOOOOOM",34,"Stitch Kaneland",15,0.024520808150578485
+"Gay Pride BOOOOOM",34,"Rixx Javix",16,0.029074215761285386
+"Gay Pride BOOOOOM",34,"RonUSMC",17,0.03891549777625727
+"Gay Pride BOOOOOM",34,"Dr Spodumain",18,0.034057846996405954
+"Gay Pride BOOOOOM",34,"teddy Gbyc",19,0.020448289421942586
+"Gay Pride BOOOOOM",34,"Phantomite",20,0.03356662363253381
+"Gay Pride BOOOOOM",34,"Jurius Doctor",21,0.08653026427962489
+"Gay Pride BOOOOOM",34,"Maldavius",22,0.0934557438794727
+"Gay Pride BOOOOOM",34,"Jim Halescott",23,0.06484762579730688
+"Gay Pride BOOOOOM",34,"Shui Jing Jing",24,0.04623614826136798
+"Gay Pride BOOOOOM",34,"Eluwien",25,0.0335946248600224
+"Gay Pride BOOOOOM",34,"Evie Kouvo",26,0.02766453115899825
+"Gay Pride BOOOOOM",34,"Mantis Akiga",27,0.046273546273546275
+"Gay Pride BOOOOOM",34,"Baculus Orden",28,0.005609711237814972
+"Gay Pride BOOOOOM",34,"Rich Richman",29,0.028196981731532962
+"Gay Pride BOOOOOM",34,"Angry Mustache",30,0.012593655348318189
+"Gay Pride BOOOOOM",34,"Winzentowitsch Madeveda",31,0.03008
+"Gay Pride BOOOOOM",34,"DutchGunner",32,0.02966531440162272
+"Gay Pride BOOOOOM",34,"White 0rchid",33,0.031566753547639735
+"Gay Pride BOOOOOM",34,"Gay Pride BOOOOOM",34,1.0
+"Gay Pride BOOOOOM",34,"Robert Downey Iron",35,0.05415499533146592
+"Gay Pride BOOOOOM",34,"Broodin",36,0.00787746170678337
+"Gay Pride BOOOOOM",34,"Xeromus Plague",37,0.04528819762122598
+"Gay Pride BOOOOOM",34,"Lucrative Business Opportunity",38,0.06227106227106227
+"Gay Pride BOOOOOM",34,"Micromancer",39,0.007614696363982486
+"Gay Pride BOOOOOM",34,"Kay-Lynn Tsero",40,0.02828379674017258
+"Gay Pride BOOOOOM",34,"Xenuria",41,0.011587147030185005
+"Gay Pride BOOOOOM",34,"Reicher514",42,0.012171181782489203
+"Gay Pride BOOOOOM",34,"Styxx",43,0.05454545454545454
+"Gay Pride BOOOOOM",34,"hurleyalex hurley",44,0.021566901408450703
+"Gay Pride BOOOOOM",34,"knockerwrench Alduin",45,0.02404438964241677
+"Gay Pride BOOOOOM",34,"TDor Clau",46,0.02241662110442865
+"Robert Downey Iron",35,"Merkelchen",1,0.009157675219874876
+"Robert Downey Iron",35,"Gobbins",2,0.030884004492218835
+"Robert Downey Iron",35,"Innominate",3,0.007073684210526316
+"Robert Downey Iron",35,"Brisc Rubal",4,0.009887284951552304
+"Robert Downey Iron",35,"Kenneth Feld",5,0.010326034993785257
+"Robert Downey Iron",35,"I Beast",6,0.022679712685934054
+"Robert Downey Iron",35,"Suitonia",7,0.009016116307900371
+"Robert Downey Iron",35,"Vily",8,0.035399634891658066
+"Robert Downey Iron",35,"Mike Azariah",9,0.019920811680277158
+"Robert Downey Iron",35,"progodlegend",10,0.031012100328551968
+"Robert Downey Iron",35,"Arsia Elkin",11,0.025322471147318396
+"Robert Downey Iron",35,"Mark Resurrectus",12,0.014671361502347418
+"Robert Downey Iron",35,"Uriel Paradisi Anteovnuecci",13,0.011622334052240594
+"Robert Downey Iron",35,"Seddow",14,0.013979603529276956
+"Robert Downey Iron",35,"Stitch Kaneland",15,0.012020905923344948
+"Robert Downey Iron",35,"Rixx Javix",16,0.018604651162790697
+"Robert Downey Iron",35,"RonUSMC",17,0.03370303499269194
+"Robert Downey Iron",35,"Dr Spodumain",18,0.0322693179836037
+"Robert Downey Iron",35,"teddy Gbyc",19,0.017473388230568387
+"Robert Downey Iron",35,"Phantomite",20,0.02326370048833424
+"Robert Downey Iron",35,"Jurius Doctor",21,0.03646593040216712
+"Robert Downey Iron",35,"Maldavius",22,0.02169491525423729
+"Robert Downey Iron",35,"Jim Halescott",23,0.04232995658465991
+"Robert Downey Iron",35,"Shui Jing Jing",24,0.05744336569579288
+"Robert Downey Iron",35,"Eluwien",25,0.03563038371182459
+"Robert Downey Iron",35,"Evie Kouvo",26,0.03338391502276176
+"Robert Downey Iron",35,"Mantis Akiga",27,0.12286374133949192
+"Robert Downey Iron",35,"Baculus Orden",28,0.005393843578536222
+"Robert Downey Iron",35,"Rich Richman",29,0.023698602390115453
+"Robert Downey Iron",35,"Angry Mustache",30,0.008012820512820512
+"Robert Downey Iron",35,"Winzentowitsch Madeveda",31,0.029950083194675542
+"Robert Downey Iron",35,"DutchGunner",32,0.037964671763775375
+"Robert Downey Iron",35,"White 0rchid",33,0.04118715929739552
+"Robert Downey Iron",35,"Gay Pride BOOOOOM",34,0.05415499533146592
+"Robert Downey Iron",35,"Robert Downey Iron",35,1.0
+"Robert Downey Iron",35,"Broodin",36,0.005650216297342633
+"Robert Downey Iron",35,"Xeromus Plague",37,0.04044294655753491
+"Robert Downey Iron",35,"Lucrative Business Opportunity",38,0.04392764857881137
+"Robert Downey Iron",35,"Micromancer",39,0.009748093813338481
+"Robert Downey Iron",35,"Kay-Lynn Tsero",40,0.032175689479060264
+"Robert Downey Iron",35,"Xenuria",41,0.006273894716204293
+"Robert Downey Iron",35,"Reicher514",42,0.014925373134328358
+"Robert Downey Iron",35,"Styxx",43,0.054169202678027994
+"Robert Downey Iron",35,"hurleyalex hurley",44,0.037299338999055714
+"Robert Downey Iron",35,"knockerwrench Alduin",45,0.035016835016835016
+"Robert Downey Iron",35,"TDor Clau",46,0.043010752688172046
+"Broodin",36,"Merkelchen",1,0.7454623287671233
+"Broodin",36,"Gobbins",2,0.005960777176138691
+"Broodin",36,"Innominate",3,0.8178390883386171
+"Broodin",36,"Brisc Rubal",4,0.67106336687517
+"Broodin",36,"Kenneth Feld",5,0.005936976708783681
+"Broodin",36,"I Beast",6,0.5057002808834058
+"Broodin",36,"Suitonia",7,0.5202888005820787
+"Broodin",36,"Vily",8,0.008182270240947516
+"Broodin",36,"Mike Azariah",9,0.07269829594213559
+"Broodin",36,"progodlegend",10,0.003902527567273222
+"Broodin",36,"Arsia Elkin",11,0.04918597639762253
+"Broodin",36,"Mark Resurrectus",12,0.07550260610573344
+"Broodin",36,"Uriel Paradisi Anteovnuecci",13,0.0180605084550788
+"Broodin",36,"Seddow",14,0.010266711304541903
+"Broodin",36,"Stitch Kaneland",15,0.007354907729339395
+"Broodin",36,"Rixx Javix",16,0.013548432153083316
+"Broodin",36,"RonUSMC",17,0.006813020439061317
+"Broodin",36,"Dr Spodumain",18,0.018866657714515914
+"Broodin",36,"teddy Gbyc",19,0.07497748423896727
+"Broodin",36,"Phantomite",20,0.050396962374870555
+"Broodin",36,"Jurius Doctor",21,0.014181870011402508
+"Broodin",36,"Maldavius",22,0.032911012819551694
+"Broodin",36,"Jim Halescott",23,0.016753224995811694
+"Broodin",36,"Shui Jing Jing",24,0.011244569384104269
+"Broodin",36,"Eluwien",25,0.009157198575546888
+"Broodin",36,"Evie Kouvo",26,0.008201289911617168
+"Broodin",36,"Mantis Akiga",27,0.014055179593961478
+"Broodin",36,"Baculus Orden",28,0.7308952906675866
+"Broodin",36,"Rich Richman",29,0.00838500563697858
+"Broodin",36,"Angry Mustache",30,0.6548196423158533
+"Broodin",36,"Winzentowitsch Madeveda",31,0.005945109536607216
+"Broodin",36,"DutchGunner",32,0.010415071220707612
+"Broodin",36,"White 0rchid",33,0.012360446570972886
+"Broodin",36,"Gay Pride BOOOOOM",34,0.00787746170678337
+"Broodin",36,"Robert Downey Iron",35,0.005650216297342633
+"Broodin",36,"Broodin",36,1.0
+"Broodin",36,"Xeromus Plague",37,0.027722772277227723
+"Broodin",36,"Lucrative Business Opportunity",38,0.006107152771351902
+"Broodin",36,"Micromancer",39,0.7877606527651858
+"Broodin",36,"Kay-Lynn Tsero",40,0.006694635365527091
+"Broodin",36,"Xenuria",41,0.7222761358623732
+"Broodin",36,"Reicher514",42,0.00421674045962471
+"Broodin",36,"Styxx",43,0.009739961407700082
+"Broodin",36,"hurleyalex hurley",44,0.0029772329246935203
+"Broodin",36,"knockerwrench Alduin",45,0.004279866021585412
+"Broodin",36,"TDor Clau",46,0.003557095950383072
+"Xeromus Plague",37,"Merkelchen",1,0.012248230811105062
+"Xeromus Plague",37,"Gobbins",2,0.007274149393820884
+"Xeromus Plague",37,"Innominate",3,0.00943237325248442
+"Xeromus Plague",37,"Brisc Rubal",4,0.027240479218258482
+"Xeromus Plague",37,"Kenneth Feld",5,0.010203108610660818
+"Xeromus Plague",37,"I Beast",6,0.01896241278415485
+"Xeromus Plague",37,"Suitonia",7,0.017706146075705125
+"Xeromus Plague",37,"Vily",8,0.010513296227581941
+"Xeromus Plague",37,"Mike Azariah",9,0.03504380475594493
+"Xeromus Plague",37,"progodlegend",10,0.006086617245415529
+"Xeromus Plague",37,"Arsia Elkin",11,0.02174500270124257
+"Xeromus Plague",37,"Mark Resurrectus",12,0.02175191064079953
+"Xeromus Plague",37,"Uriel Paradisi Anteovnuecci",13,0.04995661336308417
+"Xeromus Plague",37,"Seddow",14,0.0120866590649943
+"Xeromus Plague",37,"Stitch Kaneland",15,0.03511883646683221
+"Xeromus Plague",37,"Rixx Javix",16,0.03934684241589612
+"Xeromus Plague",37,"RonUSMC",17,0.009550938337801608
+"Xeromus Plague",37,"Dr Spodumain",18,0.04481546572934974
+"Xeromus Plague",37,"teddy Gbyc",19,0.026814516129032257
+"Xeromus Plague",37,"Phantomite",20,0.013682092555331992
+"Xeromus Plague",37,"Jurius Doctor",21,0.053063802905874924
+"Xeromus Plague",37,"Maldavius",22,0.13049962714392244
+"Xeromus Plague",37,"Jim Halescott",23,0.06015311702515494
+"Xeromus Plague",37,"Shui Jing Jing",24,0.07053100932306446
+"Xeromus Plague",37,"Eluwien",25,0.05570920584749111
+"Xeromus Plague",37,"Evie Kouvo",26,0.05795314426633785
+"Xeromus Plague",37,"Mantis Akiga",27,0.05629565964761495
+"Xeromus Plague",37,"Baculus Orden",28,0.006874767744332962
+"Xeromus Plague",37,"Rich Richman",29,0.030628803245436105
+"Xeromus Plague",37,"Angry Mustache",30,0.011473042362002568
+"Xeromus Plague",37,"Winzentowitsch Madeveda",31,0.04101367122374125
+"Xeromus Plague",37,"DutchGunner",32,0.05369484316852738
+"Xeromus Plague",37,"White 0rchid",33,0.04147880973850315
+"Xeromus Plague",37,"Gay Pride BOOOOOM",34,0.04528819762122598
+"Xeromus Plague",37,"Robert Downey Iron",35,0.04044294655753491
+"Xeromus Plague",37,"Broodin",36,0.027722772277227723
+"Xeromus Plague",37,"Xeromus Plague",37,1.0
+"Xeromus Plague",37,"Lucrative Business Opportunity",38,0.03268384663733501
+"Xeromus Plague",37,"Micromancer",39,0.03329721209733031
+"Xeromus Plague",37,"Kay-Lynn Tsero",40,0.050256410256410255
+"Xeromus Plague",37,"Xenuria",41,0.01529051987767584
+"Xeromus Plague",37,"Reicher514",42,0.009377494014365523
+"Xeromus Plague",37,"Styxx",43,0.048271752085816445
+"Xeromus Plague",37,"hurleyalex hurley",44,0.012289485662266727
+"Xeromus Plague",37,"knockerwrench Alduin",45,0.03713527851458886
+"Xeromus Plague",37,"TDor Clau",46,0.026635784597568036
+"Lucrative Business Opportunity",38,"Merkelchen",1,0.004543733434305188
+"Lucrative Business Opportunity",38,"Gobbins",2,0.006693331156640274
+"Lucrative Business Opportunity",38,"Innominate",3,0.004830493588617601
+"Lucrative Business Opportunity",38,"Brisc Rubal",4,0.008172716747258734
+"Lucrative Business Opportunity",38,"Kenneth Feld",5,0.0103559219786849
+"Lucrative Business Opportunity",38,"I Beast",6,0.009599356210840949
+"Lucrative Business Opportunity",38,"Suitonia",7,0.010166734444896299
+"Lucrative Business Opportunity",38,"Vily",8,0.008940077319587628
+"Lucrative Business Opportunity",38,"Mike Azariah",9,0.02047556142668428
+"Lucrative Business Opportunity",38,"progodlegend",10,0.006521030322791001
+"Lucrative Business Opportunity",38,"Arsia Elkin",11,0.011512587558083084
+"Lucrative Business Opportunity",38,"Mark Resurrectus",12,0.010168758113370835
+"Lucrative Business Opportunity",38,"Uriel Paradisi Anteovnuecci",13,0.009168470648159939
+"Lucrative Business Opportunity",38,"Seddow",14,0.008962092769771104
+"Lucrative Business Opportunity",38,"Stitch Kaneland",15,0.01710880430603614
+"Lucrative Business Opportunity",38,"Rixx Javix",16,0.024653979238754325
+"Lucrative Business Opportunity",38,"RonUSMC",17,0.009210526315789473
+"Lucrative Business Opportunity",38,"Dr Spodumain",18,0.030731055544951327
+"Lucrative Business Opportunity",38,"teddy Gbyc",19,0.014499219272808388
+"Lucrative Business Opportunity",38,"Phantomite",20,0.011174347584675181
+"Lucrative Business Opportunity",38,"Jurius Doctor",21,0.029099307159353348
+"Lucrative Business Opportunity",38,"Maldavius",22,0.023785166240409206
+"Lucrative Business Opportunity",38,"Jim Halescott",23,0.03413566739606127
+"Lucrative Business Opportunity",38,"Shui Jing Jing",24,0.03608502224419179
+"Lucrative Business Opportunity",38,"Eluwien",25,0.02952565343659245
+"Lucrative Business Opportunity",38,"Evie Kouvo",26,0.02086280056577086
+"Lucrative Business Opportunity",38,"Mantis Akiga",27,0.05399449035812672
+"Lucrative Business Opportunity",38,"Baculus Orden",28,0.0024347487339306585
+"Lucrative Business Opportunity",38,"Rich Richman",29,0.02462163993675175
+"Lucrative Business Opportunity",38,"Angry Mustache",30,0.008528428093645485
+"Lucrative Business Opportunity",38,"Winzentowitsch Madeveda",31,0.020594059405940595
+"Lucrative Business Opportunity",38,"DutchGunner",32,0.02765253982566877
+"Lucrative Business Opportunity",38,"White 0rchid",33,0.03472714386959603
+"Lucrative Business Opportunity",38,"Gay Pride BOOOOOM",34,0.06227106227106227
+"Lucrative Business Opportunity",38,"Robert Downey Iron",35,0.04392764857881137
+"Lucrative Business Opportunity",38,"Broodin",36,0.006107152771351902
+"Lucrative Business Opportunity",38,"Xeromus Plague",37,0.03268384663733501
+"Lucrative Business Opportunity",38,"Lucrative Business Opportunity",38,1.0
+"Lucrative Business Opportunity",38,"Micromancer",39,0.006579613321186355
+"Lucrative Business Opportunity",38,"Kay-Lynn Tsero",40,0.03583735354927636
+"Lucrative Business Opportunity",38,"Xenuria",41,0.005156233886769104
+"Lucrative Business Opportunity",38,"Reicher514",42,0.006915012268570154
+"Lucrative Business Opportunity",38,"Styxx",43,0.05749128919860627
+"Lucrative Business Opportunity",38,"hurleyalex hurley",44,0.019429265330904676
+"Lucrative Business Opportunity",38,"knockerwrench Alduin",45,0.04512820512820513
+"Lucrative Business Opportunity",38,"TDor Clau",46,0.030201342281879196
+"Micromancer",39,"Merkelchen",1,0.7794238683127572
+"Micromancer",39,"Gobbins",2,0.006176065371276545
+"Micromancer",39,"Innominate",3,0.722594888341683
+"Micromancer",39,"Brisc Rubal",4,0.5928470398060214
+"Micromancer",39,"Kenneth Feld",5,0.006605934686484471
+"Micromancer",39,"I Beast",6,0.45790781120618274
+"Micromancer",39,"Suitonia",7,0.46656976744186046
+"Micromancer",39,"Vily",8,0.013562858633281168
+"Micromancer",39,"Mike Azariah",9,0.018500307314074985
+"Micromancer",39,"progodlegend",10,0.008565718092700104
+"Micromancer",39,"Arsia Elkin",11,0.01670571899678903
+"Micromancer",39,"Mark Resurrectus",12,0.005879726108961
+"Micromancer",39,"Uriel Paradisi Anteovnuecci",13,0.02493430300067225
+"Micromancer",39,"Seddow",14,0.013930700667020837
+"Micromancer",39,"Stitch Kaneland",15,0.0061921708185053385
+"Micromancer",39,"Rixx Javix",16,0.013807000522427048
+"Micromancer",39,"RonUSMC",17,0.012386827181374988
+"Micromancer",39,"Dr Spodumain",18,0.020194786594099113
+"Micromancer",39,"teddy Gbyc",19,0.00465046504650465
+"Micromancer",39,"Phantomite",20,0.01249675689699905
+"Micromancer",39,"Jurius Doctor",21,0.02543940795559667
+"Micromancer",39,"Maldavius",22,0.03629324945560126
+"Micromancer",39,"Jim Halescott",23,0.015952143569292122
+"Micromancer",39,"Shui Jing Jing",24,0.015687366564559546
+"Micromancer",39,"Eluwien",25,0.01292347456844826
+"Micromancer",39,"Evie Kouvo",26,0.011291156697121186
+"Micromancer",39,"Mantis Akiga",27,0.019520515493224675
+"Micromancer",39,"Baculus Orden",28,0.7742653193659034
+"Micromancer",39,"Rich Richman",29,0.011412591640843473
+"Micromancer",39,"Angry Mustache",30,0.680302177931367
+"Micromancer",39,"Winzentowitsch Madeveda",31,0.007230402962701702
+"Micromancer",39,"DutchGunner",32,0.012882979601948964
+"Micromancer",39,"White 0rchid",33,0.01509792080062117
+"Micromancer",39,"Gay Pride BOOOOOM",34,0.007614696363982486
+"Micromancer",39,"Robert Downey Iron",35,0.009748093813338481
+"Micromancer",39,"Broodin",36,0.7877606527651858
+"Micromancer",39,"Xeromus Plague",37,0.03329721209733031
+"Micromancer",39,"Lucrative Business Opportunity",38,0.006579613321186355
+"Micromancer",39,"Micromancer",39,1.0
+"Micromancer",39,"Kay-Lynn Tsero",40,0.007496105919003115
+"Micromancer",39,"Xenuria",41,0.7876165753292953
+"Micromancer",39,"Reicher514",42,0.003078309182371049
+"Micromancer",39,"Styxx",43,0.010243020686884917
+"Micromancer",39,"hurleyalex hurley",44,0.003719244707228686
+"Micromancer",39,"knockerwrench Alduin",45,0.00488947743709891
+"Micromancer",39,"TDor Clau",46,0.0047875523638539795
+"Kay-Lynn Tsero",40,"Merkelchen",1,0.008882783882783882
+"Kay-Lynn Tsero",40,"Gobbins",2,0.010150674068199842
+"Kay-Lynn Tsero",40,"Innominate",3,0.005517358458534929
+"Kay-Lynn Tsero",40,"Brisc Rubal",4,0.010162736632348058
+"Kay-Lynn Tsero",40,"Kenneth Feld",5,0.011122932585356418
+"Kay-Lynn Tsero",40,"I Beast",6,0.015083041464241328
+"Kay-Lynn Tsero",40,"Suitonia",7,0.014887063655030801
+"Kay-Lynn Tsero",40,"Vily",8,0.01252740369558409
+"Kay-Lynn Tsero",40,"Mike Azariah",9,0.036989795918367346
+"Kay-Lynn Tsero",40,"progodlegend",10,0.008221993833504625
+"Kay-Lynn Tsero",40,"Arsia Elkin",11,0.01806574300461831
+"Kay-Lynn Tsero",40,"Mark Resurrectus",12,0.08488347231131067
+"Kay-Lynn Tsero",40,"Uriel Paradisi Anteovnuecci",13,0.014245708023864606
+"Kay-Lynn Tsero",40,"Seddow",14,0.010175763182238668
+"Kay-Lynn Tsero",40,"Stitch Kaneland",15,0.06967136150234741
+"Kay-Lynn Tsero",40,"Rixx Javix",16,0.050234837655707576
+"Kay-Lynn Tsero",40,"RonUSMC",17,0.012496812037745473
+"Kay-Lynn Tsero",40,"Dr Spodumain",18,0.027615507169410514
+"Kay-Lynn Tsero",40,"teddy Gbyc",19,0.09458563535911602
+"Kay-Lynn Tsero",40,"Phantomite",20,0.021837041080933532
+"Kay-Lynn Tsero",40,"Jurius Doctor",21,0.04223842195540309
+"Kay-Lynn Tsero",40,"Maldavius",22,0.019190751445086706
+"Kay-Lynn Tsero",40,"Jim Halescott",23,0.05648854961832061
+"Kay-Lynn Tsero",40,"Shui Jing Jing",24,0.09213973799126637
+"Kay-Lynn Tsero",40,"Eluwien",25,0.16574585635359115
+"Kay-Lynn Tsero",40,"Evie Kouvo",26,0.17320028510334998
+"Kay-Lynn Tsero",40,"Mantis Akiga",27,0.05989940557841793
+"Kay-Lynn Tsero",40,"Baculus Orden",28,0.0033764772087788407
+"Kay-Lynn Tsero",40,"Rich Richman",29,0.023617153511497825
+"Kay-Lynn Tsero",40,"Angry Mustache",30,0.007108813312868568
+"Kay-Lynn Tsero",40,"Winzentowitsch Madeveda",31,0.13427158615443135
+"Kay-Lynn Tsero",40,"DutchGunner",32,0.032955159373311727
+"Kay-Lynn Tsero",40,"White 0rchid",33,0.05221518987341772
+"Kay-Lynn Tsero",40,"Gay Pride BOOOOOM",34,0.02828379674017258
+"Kay-Lynn Tsero",40,"Robert Downey Iron",35,0.032175689479060264
+"Kay-Lynn Tsero",40,"Broodin",36,0.006694635365527091
+"Kay-Lynn Tsero",40,"Xeromus Plague",37,0.050256410256410255
+"Kay-Lynn Tsero",40,"Lucrative Business Opportunity",38,0.03583735354927636
+"Kay-Lynn Tsero",40,"Micromancer",39,0.007496105919003115
+"Kay-Lynn Tsero",40,"Kay-Lynn Tsero",40,1.0
+"Kay-Lynn Tsero",40,"Xenuria",41,0.00804289544235925
+"Kay-Lynn Tsero",40,"Reicher514",42,0.009025641025641025
+"Kay-Lynn Tsero",40,"Styxx",43,0.0492546986390149
+"Kay-Lynn Tsero",40,"hurleyalex hurley",44,0.01857282502443793
+"Kay-Lynn Tsero",40,"knockerwrench Alduin",45,0.04322344322344322
+"Kay-Lynn Tsero",40,"TDor Clau",46,0.020625
+"Xenuria",41,"Merkelchen",1,0.7654445462878093
+"Xenuria",41,"Gobbins",2,0.012547051442910916
+"Xenuria",41,"Innominate",3,0.7147490611130078
+"Xenuria",41,"Brisc Rubal",4,0.5741710296684118
+"Xenuria",41,"Kenneth Feld",5,0.007815447636500836
+"Xenuria",41,"I Beast",6,0.45458076688308086
+"Xenuria",41,"Suitonia",7,0.4681138990696363
+"Xenuria",41,"Vily",8,0.015197276954791696
+"Xenuria",41,"Mike Azariah",9,0.023758909591096663
+"Xenuria",41,"progodlegend",10,0.008356144647745282
+"Xenuria",41,"Arsia Elkin",11,0.013434528482945128
+"Xenuria",41,"Mark Resurrectus",12,0.011084117825690859
+"Xenuria",41,"Uriel Paradisi Anteovnuecci",13,0.009378806333739342
+"Xenuria",41,"Seddow",14,0.008912655971479501
+"Xenuria",41,"Stitch Kaneland",15,0.014629885726763228
+"Xenuria",41,"Rixx Javix",16,0.020195092211553117
+"Xenuria",41,"RonUSMC",17,0.011290079783230468
+"Xenuria",41,"Dr Spodumain",18,0.014075357297531399
+"Xenuria",41,"teddy Gbyc",19,0.009099250649946475
+"Xenuria",41,"Phantomite",20,0.011809822634767072
+"Xenuria",41,"Jurius Doctor",21,0.016127781654648368
+"Xenuria",41,"Maldavius",22,0.018351577591757887
+"Xenuria",41,"Jim Halescott",23,0.01530518163378204
+"Xenuria",41,"Shui Jing Jing",24,0.01348802112808904
+"Xenuria",41,"Eluwien",25,0.012211159120796544
+"Xenuria",41,"Evie Kouvo",26,0.012551566751514087
+"Xenuria",41,"Mantis Akiga",27,0.017827888599787994
+"Xenuria",41,"Baculus Orden",28,0.7538888888888889
+"Xenuria",41,"Rich Richman",29,0.011197177697676202
+"Xenuria",41,"Angry Mustache",30,0.6615322904131569
+"Xenuria",41,"Winzentowitsch Madeveda",31,0.007810395906275249
+"Xenuria",41,"DutchGunner",32,0.011567476948868399
+"Xenuria",41,"White 0rchid",33,0.012160979877515311
+"Xenuria",41,"Gay Pride BOOOOOM",34,0.011587147030185005
+"Xenuria",41,"Robert Downey Iron",35,0.006273894716204293
+"Xenuria",41,"Broodin",36,0.7222761358623732
+"Xenuria",41,"Xeromus Plague",37,0.01529051987767584
+"Xenuria",41,"Lucrative Business Opportunity",38,0.005156233886769104
+"Xenuria",41,"Micromancer",39,0.7876165753292953
+"Xenuria",41,"Kay-Lynn Tsero",40,0.00804289544235925
+"Xenuria",41,"Xenuria",41,1.0
+"Xenuria",41,"Reicher514",42,0.004809160305343512
+"Xenuria",41,"Styxx",43,0.01055327868852459
+"Xenuria",41,"hurleyalex hurley",44,0.00457153973348896
+"Xenuria",41,"knockerwrench Alduin",45,0.003112678979041295
+"Xenuria",41,"TDor Clau",46,0.004985754985754986
+"Reicher514",42,"Merkelchen",1,0.005663488422109112
+"Reicher514",42,"Gobbins",2,0.2927029467290487
+"Reicher514",42,"Innominate",3,0.002361354742949669
+"Reicher514",42,"Brisc Rubal",4,0.01154849814002554
+"Reicher514",42,"Kenneth Feld",5,0.35421904857688824
+"Reicher514",42,"I Beast",6,0.013428654236305671
+"Reicher514",42,"Suitonia",7,0.015671532490357857
+"Reicher514",42,"Vily",8,0.276665598975016
+"Reicher514",42,"Mike Azariah",9,0.09375613587276654
+"Reicher514",42,"progodlegend",10,0.2755077271623918
+"Reicher514",42,"Arsia Elkin",11,0.18264240194468168
+"Reicher514",42,"Mark Resurrectus",12,0.009363295880149813
+"Reicher514",42,"Uriel Paradisi Anteovnuecci",13,0.4140897755610973
+"Reicher514",42,"Seddow",14,0.29158878504672897
+"Reicher514",42,"Stitch Kaneland",15,0.016935295491707546
+"Reicher514",42,"Rixx Javix",16,0.016201395812562313
+"Reicher514",42,"RonUSMC",17,0.296463637153532
+"Reicher514",42,"Dr Spodumain",18,0.020252285615090845
+"Reicher514",42,"teddy Gbyc",19,0.00797367421845336
+"Reicher514",42,"Phantomite",20,0.17733699921445403
+"Reicher514",42,"Jurius Doctor",21,0.025266996613701485
+"Reicher514",42,"Maldavius",22,0.01048760555706892
+"Reicher514",42,"Jim Halescott",23,0.019763543320981118
+"Reicher514",42,"Shui Jing Jing",24,0.02206564064528092
+"Reicher514",42,"Eluwien",25,0.008368200836820083
+"Reicher514",42,"Evie Kouvo",26,0.015466408893185114
+"Reicher514",42,"Mantis Akiga",27,0.011963539688568173
+"Reicher514",42,"Baculus Orden",28,0.0019733957023826926
+"Reicher514",42,"Rich Richman",29,0.020010261672652643
+"Reicher514",42,"Angry Mustache",30,0.005717998700454841
+"Reicher514",42,"Winzentowitsch Madeveda",31,0.011476793248945148
+"Reicher514",42,"DutchGunner",32,0.016961761642612705
+"Reicher514",42,"White 0rchid",33,0.022265246853823813
+"Reicher514",42,"Gay Pride BOOOOOM",34,0.012171181782489203
+"Reicher514",42,"Robert Downey Iron",35,0.014925373134328358
+"Reicher514",42,"Broodin",36,0.00421674045962471
+"Reicher514",42,"Xeromus Plague",37,0.009377494014365523
+"Reicher514",42,"Lucrative Business Opportunity",38,0.006915012268570154
+"Reicher514",42,"Micromancer",39,0.003078309182371049
+"Reicher514",42,"Kay-Lynn Tsero",40,0.009025641025641025
+"Reicher514",42,"Xenuria",41,0.004809160305343512
+"Reicher514",42,"Reicher514",42,1.0
+"Reicher514",42,"Styxx",43,0.011137803013758463
+"Reicher514",42,"hurleyalex hurley",44,0.019815852682145717
+"Reicher514",42,"knockerwrench Alduin",45,0.008412914961346066
+"Reicher514",42,"TDor Clau",46,0.011103853690398433
+"Styxx",43,"Merkelchen",1,0.008270676691729323
+"Styxx",43,"Gobbins",2,0.011209487450247746
+"Styxx",43,"Innominate",3,0.009344978165938865
+"Styxx",43,"Brisc Rubal",4,0.00872210953346856
+"Styxx",43,"Kenneth Feld",5,0.009033154655548938
+"Styxx",43,"I Beast",6,0.01370334269823978
+"Styxx",43,"Suitonia",7,0.00957434536855462
+"Styxx",43,"Vily",8,0.01509433962264151
+"Styxx",43,"Mike Azariah",9,0.022161387042106635
+"Styxx",43,"progodlegend",10,0.008495832996197104
+"Styxx",43,"Arsia Elkin",11,0.01204736334847859
+"Styxx",43,"Mark Resurrectus",12,0.015276893698281349
+"Styxx",43,"Uriel Paradisi Anteovnuecci",13,0.008149448345035105
+"Styxx",43,"Seddow",14,0.016486161251504212
+"Styxx",43,"Stitch Kaneland",15,0.015208411565903118
+"Styxx",43,"Rixx Javix",16,0.025348542458808618
+"Styxx",43,"RonUSMC",17,0.012635064482398048
+"Styxx",43,"Dr Spodumain",18,0.028337061894108874
+"Styxx",43,"teddy Gbyc",19,0.016786570743405275
+"Styxx",43,"Phantomite",20,0.008793020539946418
+"Styxx",43,"Jurius Doctor",21,0.032753557714027555
+"Styxx",43,"Maldavius",22,0.03129694541812719
+"Styxx",43,"Jim Halescott",23,0.04335016835016835
+"Styxx",43,"Shui Jing Jing",24,0.06192990878540566
+"Styxx",43,"Eluwien",25,0.04617537313432836
+"Styxx",43,"Evie Kouvo",26,0.033734939759036145
+"Styxx",43,"Mantis Akiga",27,0.07639257294429708
+"Styxx",43,"Baculus Orden",28,0.006770480704129994
+"Styxx",43,"Rich Richman",29,0.028293545534924844
+"Styxx",43,"Angry Mustache",30,0.009533283594462406
+"Styxx",43,"Winzentowitsch Madeveda",31,0.02356518434055492
+"Styxx",43,"DutchGunner",32,0.0342305441778818
+"Styxx",43,"White 0rchid",33,0.04437564499484004
+"Styxx",43,"Gay Pride BOOOOOM",34,0.05454545454545454
+"Styxx",43,"Robert Downey Iron",35,0.054169202678027994
+"Styxx",43,"Broodin",36,0.009739961407700082
+"Styxx",43,"Xeromus Plague",37,0.048271752085816445
+"Styxx",43,"Lucrative Business Opportunity",38,0.05749128919860627
+"Styxx",43,"Micromancer",39,0.010243020686884917
+"Styxx",43,"Kay-Lynn Tsero",40,0.0492546986390149
+"Styxx",43,"Xenuria",41,0.01055327868852459
+"Styxx",43,"Reicher514",42,0.011137803013758463
+"Styxx",43,"Styxx",43,1.0
+"Styxx",43,"hurleyalex hurley",44,0.02688787185354691
+"Styxx",43,"knockerwrench Alduin",45,0.02252252252252252
+"Styxx",43,"TDor Clau",46,0.037037037037037035
+"hurleyalex hurley",44,"Merkelchen",1,0.003676470588235294
+"hurleyalex hurley",44,"Gobbins",2,0.06568740716289817
+"hurleyalex hurley",44,"Innominate",3,0.003170894526034713
+"hurleyalex hurley",44,"Brisc Rubal",4,0.009846396218983852
+"hurleyalex hurley",44,"Kenneth Feld",5,0.02477586040682541
+"hurleyalex hurley",44,"I Beast",6,0.010131937872293047
+"hurleyalex hurley",44,"Suitonia",7,0.012908680947012401
+"hurleyalex hurley",44,"Vily",8,0.07787188553572896
+"hurleyalex hurley",44,"Mike Azariah",9,0.025052449709983958
+"hurleyalex hurley",44,"progodlegend",10,0.0760715771951727
+"hurleyalex hurley",44,"Arsia Elkin",11,0.04312538689043263
+"hurleyalex hurley",44,"Mark Resurrectus",12,0.006904487917146145
+"hurleyalex hurley",44,"Uriel Paradisi Anteovnuecci",13,0.007342491710090005
+"hurleyalex hurley",44,"Seddow",14,0.024132383360147093
+"hurleyalex hurley",44,"Stitch Kaneland",15,0.008934707903780068
+"hurleyalex hurley",44,"Rixx Javix",16,0.016628440366972478
+"hurleyalex hurley",44,"RonUSMC",17,0.07775994292848225
+"hurleyalex hurley",44,"Dr Spodumain",18,0.024143835616438358
+"hurleyalex hurley",44,"teddy Gbyc",19,0.006278202864430057
+"hurleyalex hurley",44,"Phantomite",20,0.043029259896729774
+"hurleyalex hurley",44,"Jurius Doctor",21,0.02649276543713063
+"hurleyalex hurley",44,"Maldavius",22,0.007693998681028797
+"hurleyalex hurley",44,"Jim Halescott",23,0.022932592077831826
+"hurleyalex hurley",44,"Shui Jing Jing",24,0.02685078634445723
+"hurleyalex hurley",44,"Eluwien",25,0.013093901982790871
+"hurleyalex hurley",44,"Evie Kouvo",26,0.01910079341757273
+"hurleyalex hurley",44,"Mantis Akiga",27,0.022131147540983605
+"hurleyalex hurley",44,"Baculus Orden",28,0.002951484965873455
+"hurleyalex hurley",44,"Rich Richman",29,0.01911969727145987
+"hurleyalex hurley",44,"Angry Mustache",30,0.005567485882446512
+"hurleyalex hurley",44,"Winzentowitsch Madeveda",31,0.014781491002570694
+"hurleyalex hurley",44,"DutchGunner",32,0.017293997965412006
+"hurleyalex hurley",44,"White 0rchid",33,0.01625544267053701
+"hurleyalex hurley",44,"Gay Pride BOOOOOM",34,0.021566901408450703
+"hurleyalex hurley",44,"Robert Downey Iron",35,0.037299338999055714
+"hurleyalex hurley",44,"Broodin",36,0.0029772329246935203
+"hurleyalex hurley",44,"Xeromus Plague",37,0.012289485662266727
+"hurleyalex hurley",44,"Lucrative Business Opportunity",38,0.019429265330904676
+"hurleyalex hurley",44,"Micromancer",39,0.003719244707228686
+"hurleyalex hurley",44,"Kay-Lynn Tsero",40,0.01857282502443793
+"hurleyalex hurley",44,"Xenuria",41,0.00457153973348896
+"hurleyalex hurley",44,"Reicher514",42,0.019815852682145717
+"hurleyalex hurley",44,"Styxx",43,0.02688787185354691
+"hurleyalex hurley",44,"hurleyalex hurley",44,1.0
+"hurleyalex hurley",44,"knockerwrench Alduin",45,0.017811704834605598
+"hurleyalex hurley",44,"TDor Clau",46,0.24586776859504134
+"knockerwrench Alduin",45,"Merkelchen",1,0.005441008018327606
+"knockerwrench Alduin",45,"Gobbins",2,0.005167746698384054
+"knockerwrench Alduin",45,"Innominate",3,0.003798922166269105
+"knockerwrench Alduin",45,"Brisc Rubal",4,0.006081311923471131
+"knockerwrench Alduin",45,"Kenneth Feld",5,0.009620253164556962
+"knockerwrench Alduin",45,"I Beast",6,0.006099315265550377
+"knockerwrench Alduin",45,"Suitonia",7,0.005226784366107207
+"knockerwrench Alduin",45,"Vily",8,0.006305578011317704
+"knockerwrench Alduin",45,"Mike Azariah",9,0.017567207878626565
+"knockerwrench Alduin",45,"progodlegend",10,0.002696959790781301
+"knockerwrench Alduin",45,"Arsia Elkin",11,0.008411539798401112
+"knockerwrench Alduin",45,"Mark Resurrectus",12,0.011235955056179775
+"knockerwrench Alduin",45,"Uriel Paradisi Anteovnuecci",13,0.01395709485655208
+"knockerwrench Alduin",45,"Seddow",14,0.004503956177723676
+"knockerwrench Alduin",45,"Stitch Kaneland",15,0.013022351797862002
+"knockerwrench Alduin",45,"Rixx Javix",16,0.015032679738562092
+"knockerwrench Alduin",45,"RonUSMC",17,0.006607347370275746
+"knockerwrench Alduin",45,"Dr Spodumain",18,0.037838892139652816
+"knockerwrench Alduin",45,"teddy Gbyc",19,0.009943502824858758
+"knockerwrench Alduin",45,"Phantomite",20,0.0048543689320388345
+"knockerwrench Alduin",45,"Jurius Doctor",21,0.0379416646905383
+"knockerwrench Alduin",45,"Maldavius",22,0.025078369905956112
+"knockerwrench Alduin",45,"Jim Halescott",23,0.056429232192414434
+"knockerwrench Alduin",45,"Shui Jing Jing",24,0.10339168490153172
+"knockerwrench Alduin",45,"Eluwien",25,0.022466300549176237
+"knockerwrench Alduin",45,"Evie Kouvo",26,0.0297029702970297
+"knockerwrench Alduin",45,"Mantis Akiga",27,0.033821871476888386
+"knockerwrench Alduin",45,"Baculus Orden",28,0.00206023741783577
+"knockerwrench Alduin",45,"Rich Richman",29,0.025540727105384263
+"knockerwrench Alduin",45,"Angry Mustache",30,0.007652203161789438
+"knockerwrench Alduin",45,"Winzentowitsch Madeveda",31,0.03052805280528053
+"knockerwrench Alduin",45,"DutchGunner",32,0.03855721393034826
+"knockerwrench Alduin",45,"White 0rchid",33,0.028975009054690328
+"knockerwrench Alduin",45,"Gay Pride BOOOOOM",34,0.02404438964241677
+"knockerwrench Alduin",45,"Robert Downey Iron",35,0.035016835016835016
+"knockerwrench Alduin",45,"Broodin",36,0.004279866021585412
+"knockerwrench Alduin",45,"Xeromus Plague",37,0.03713527851458886
+"knockerwrench Alduin",45,"Lucrative Business Opportunity",38,0.04512820512820513
+"knockerwrench Alduin",45,"Micromancer",39,0.00488947743709891
+"knockerwrench Alduin",45,"Kay-Lynn Tsero",40,0.04322344322344322
+"knockerwrench Alduin",45,"Xenuria",41,0.003112678979041295
+"knockerwrench Alduin",45,"Reicher514",42,0.008412914961346066
+"knockerwrench Alduin",45,"Styxx",43,0.02252252252252252
+"knockerwrench Alduin",45,"hurleyalex hurley",44,0.017811704834605598
+"knockerwrench Alduin",45,"knockerwrench Alduin",45,1.0
+"knockerwrench Alduin",45,"TDor Clau",46,0.02315227070347284
+"TDor Clau",46,"Merkelchen",1,0.0038314176245210726
+"TDor Clau",46,"Gobbins",2,0.029659616655651023
+"TDor Clau",46,"Innominate",3,0.0033818938605619147
+"TDor Clau",46,"Brisc Rubal",4,0.006877486346166813
+"TDor Clau",46,"Kenneth Feld",5,0.013844621513944224
+"TDor Clau",46,"I Beast",6,0.007688364941055869
+"TDor Clau",46,"Suitonia",7,0.005972206270816584
+"TDor Clau",46,"Vily",8,0.03762911952779144
+"TDor Clau",46,"Mike Azariah",9,0.013548387096774193
+"TDor Clau",46,"progodlegend",10,0.03448847620626762
+"TDor Clau",46,"Arsia Elkin",11,0.02201694679816641
+"TDor Clau",46,"Mark Resurrectus",12,0.005658005029337804
+"TDor Clau",46,"Uriel Paradisi Anteovnuecci",13,0.005116046917893686
+"TDor Clau",46,"Seddow",14,0.013900539245056921
+"TDor Clau",46,"Stitch Kaneland",15,0.009497206703910615
+"TDor Clau",46,"Rixx Javix",16,0.011637572734829594
+"TDor Clau",46,"RonUSMC",17,0.03744984395898351
+"TDor Clau",46,"Dr Spodumain",18,0.019918849133161196
+"TDor Clau",46,"teddy Gbyc",19,0.007538229592935602
+"TDor Clau",46,"Phantomite",20,0.020763888888888887
+"TDor Clau",46,"Jurius Doctor",21,0.02320392681838465
+"TDor Clau",46,"Maldavius",22,0.012990196078431373
+"TDor Clau",46,"Jim Halescott",23,0.034010783907092494
+"TDor Clau",46,"Shui Jing Jing",24,0.0392156862745098
+"TDor Clau",46,"Eluwien",25,0.022655188038060717
+"TDor Clau",46,"Evie Kouvo",26,0.021672875042329835
+"TDor Clau",46,"Mantis Akiga",27,0.038109756097560975
+"TDor Clau",46,"Baculus Orden",28,0.002597152751058099
+"TDor Clau",46,"Rich Richman",29,0.01788830715532286
+"TDor Clau",46,"Angry Mustache",30,0.004200642451198419
+"TDor Clau",46,"Winzentowitsch Madeveda",31,0.024602573807721424
+"TDor Clau",46,"DutchGunner",32,0.019827586206896553
+"TDor Clau",46,"White 0rchid",33,0.02109139604954804
+"TDor Clau",46,"Gay Pride BOOOOOM",34,0.02241662110442865
+"TDor Clau",46,"Robert Downey Iron",35,0.043010752688172046
+"TDor Clau",46,"Broodin",36,0.003557095950383072
+"TDor Clau",46,"Xeromus Plague",37,0.026635784597568036
+"TDor Clau",46,"Lucrative Business Opportunity",38,0.030201342281879196
+"TDor Clau",46,"Micromancer",39,0.0047875523638539795
+"TDor Clau",46,"Kay-Lynn Tsero",40,0.020625
+"TDor Clau",46,"Xenuria",41,0.004985754985754986
+"TDor Clau",46,"Reicher514",42,0.011103853690398433
+"TDor Clau",46,"Styxx",43,0.037037037037037035
+"TDor Clau",46,"hurleyalex hurley",44,0.24586776859504134
+"TDor Clau",46,"knockerwrench Alduin",45,0.02315227070347284
+"TDor Clau",46,"TDor Clau",46,1.0

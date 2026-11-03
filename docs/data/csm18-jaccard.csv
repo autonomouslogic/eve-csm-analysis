@@ -1,0 +1,2402 @@
+Candidate,Order,Other,OtherOrder,Jaccard
+"Kazanir",1,"Kazanir",1,1.0
+"Kazanir",1,"Alcoholic Satan",2,0.019491298527443107
+"Kazanir",1,"Luke Anninan",3,0.285265306122449
+"Kazanir",1,"Angry Mustache",4,0.44428388817873615
+"Kazanir",1,"Storm Delay",5,0.011685751830298479
+"Kazanir",1,"Dark Shines",6,0.053368560105680314
+"Kazanir",1,"Mike Azariah",7,0.329493704795071
+"Kazanir",1,"The Oz ",8,0.3556487326863281
+"Kazanir",1,"Mark Resurrectus",9,0.3654423878282779
+"Kazanir",1,"Amelia Duskspace",10,0.023965634184942346
+"Kazanir",1,"Dujek Oneye",11,0.39775879285476534
+"Kazanir",1,"Torvald Uruz",12,0.03108880524187927
+"Kazanir",1,"Arhont Sibirskii",13,0.02187160864846815
+"Kazanir",1,"Phantomite ",14,0.023373983739837397
+"Kazanir",1,"Pandoralica ",15,0.35344746936102533
+"Kazanir",1,"White 0rchid",16,0.02040816326530612
+"Kazanir",1,"Stitch Kaneland",17,0.021095633538708813
+"Kazanir",1,"Kelmac",18,0.014527096641252834
+"Kazanir",1,"Kshal Aideron",19,0.01393425888117599
+"Kazanir",1,"DutchGunner",20,0.014929905359582975
+"Kazanir",1,"Velonad Tyldamere",21,0.006980974386706652
+"Kazanir",1,"Larkness",22,0.014326647564469915
+"Kazanir",1,"Nuke Michael",23,0.01585527694349375
+"Kazanir",1,"Lee Adoulin",24,0.012098456403838132
+"Kazanir",1,"RGC Godfather ",25,0.01534667032063579
+"Kazanir",1,"Drake Iddon",26,0.5624753022998499
+"Kazanir",1,"Rots Mijnwerker",27,0.020143757210045257
+"Kazanir",1,"Gustav Mannfred",28,0.022715714527886084
+"Kazanir",1,"MILINT ARC Trooper",29,0.016045218342601877
+"Kazanir",1,"Gideon Zendikar",30,0.018872569131041274
+"Kazanir",1,"Twan Molenaar",31,0.015397695068959003
+"Kazanir",1,"Gabriell Bemenacth",32,0.014376555156206802
+"Kazanir",1,"Gornilo STrubanov",33,0.012611203441196598
+"Kazanir",1,"Nala Queen",34,0.021308272075928166
+"Kazanir",1,"Yondu Quill",35,0.024607129168263703
+"Kazanir",1,"Rico Shikkoken",36,0.017556431386599784
+"Kazanir",1,"Lady Death Strike",37,0.023741073912640267
+"Kazanir",1,"Cael Caderu",38,0.015455950540958269
+"Kazanir",1,"Kontan Rekor",39,0.5429356707770019
+"Kazanir",1,"Kilyavi Alaailaa",40,0.018913857677902622
+"Kazanir",1,"Corporal Fillip",41,0.01851352565830862
+"Kazanir",1,"Dario Kaelenter",42,0.013922183293380047
+"Kazanir",1,"Styxx ",43,0.02474190103239587
+"Kazanir",1,"Sol Weintroub ",44,0.015055171123994763
+"Kazanir",1,"Grima The Mad",45,0.019286856712766958
+"Kazanir",1,"Dhuras",46,0.015665796344647518
+"Kazanir",1,"SeriesPro ",47,0.014167073766487542
+"Kazanir",1,"Melicien Tetro",48,0.014298135445850643
+"Kazanir",1,"William Chen",49,0.021127455819922994
+"Alcoholic Satan",2,"Kazanir",1,0.019491298527443107
+"Alcoholic Satan",2,"Alcoholic Satan",2,1.0
+"Alcoholic Satan",2,"Luke Anninan",3,0.267397540178396
+"Alcoholic Satan",2,"Angry Mustache",4,0.02872524514516439
+"Alcoholic Satan",2,"Storm Delay",5,0.5468089529485136
+"Alcoholic Satan",2,"Dark Shines",6,0.03454038997214485
+"Alcoholic Satan",2,"Mike Azariah",7,0.26866043613707163
+"Alcoholic Satan",2,"The Oz ",8,0.060872688094810556
+"Alcoholic Satan",2,"Mark Resurrectus",9,0.01804305008441193
+"Alcoholic Satan",2,"Amelia Duskspace",10,0.03970264317180617
+"Alcoholic Satan",2,"Dujek Oneye",11,0.011257401059520099
+"Alcoholic Satan",2,"Torvald Uruz",12,0.04178664702337106
+"Alcoholic Satan",2,"Arhont Sibirskii",13,0.03898386323693881
+"Alcoholic Satan",2,"Phantomite ",14,0.02965015587114652
+"Alcoholic Satan",2,"Pandoralica ",15,0.02128610729023384
+"Alcoholic Satan",2,"White 0rchid",16,0.020141185762946143
+"Alcoholic Satan",2,"Stitch Kaneland",17,0.019547914676854506
+"Alcoholic Satan",2,"Kelmac",18,0.4947760648790823
+"Alcoholic Satan",2,"Kshal Aideron",19,0.40493053663851813
+"Alcoholic Satan",2,"DutchGunner",20,0.40783067351906954
+"Alcoholic Satan",2,"Velonad Tyldamere",21,0.5023686629427986
+"Alcoholic Satan",2,"Larkness",22,0.4493992606284658
+"Alcoholic Satan",2,"Nuke Michael",23,0.021962616822429906
+"Alcoholic Satan",2,"Lee Adoulin",24,0.58483657796035
+"Alcoholic Satan",2,"RGC Godfather ",25,0.018431204457779682
+"Alcoholic Satan",2,"Drake Iddon",26,0.014524974062546317
+"Alcoholic Satan",2,"Rots Mijnwerker",27,0.01869391824526421
+"Alcoholic Satan",2,"Gustav Mannfred",28,0.025495524296675193
+"Alcoholic Satan",2,"MILINT ARC Trooper",29,0.02398761929326799
+"Alcoholic Satan",2,"Gideon Zendikar",30,0.02012072434607646
+"Alcoholic Satan",2,"Twan Molenaar",31,0.022103861517976033
+"Alcoholic Satan",2,"Gabriell Bemenacth",32,0.015352768673451785
+"Alcoholic Satan",2,"Gornilo STrubanov",33,0.017378578615201683
+"Alcoholic Satan",2,"Nala Queen",34,0.028288667016990718
+"Alcoholic Satan",2,"Yondu Quill",35,0.02495104083556974
+"Alcoholic Satan",2,"Rico Shikkoken",36,0.0178811282740094
+"Alcoholic Satan",2,"Lady Death Strike",37,0.03434980722046968
+"Alcoholic Satan",2,"Cael Caderu",38,0.018195050946142648
+"Alcoholic Satan",2,"Kontan Rekor",39,0.008806445568671538
+"Alcoholic Satan",2,"Kilyavi Alaailaa",40,0.022833055238429788
+"Alcoholic Satan",2,"Corporal Fillip",41,0.02377930100702378
+"Alcoholic Satan",2,"Dario Kaelenter",42,0.021184233373849625
+"Alcoholic Satan",2,"Styxx ",43,0.044399081398315894
+"Alcoholic Satan",2,"Sol Weintroub ",44,0.0210896309314587
+"Alcoholic Satan",2,"Grima The Mad",45,0.027733475101896155
+"Alcoholic Satan",2,"Dhuras",46,0.015867291741795887
+"Alcoholic Satan",2,"SeriesPro ",47,0.02153987167736022
+"Alcoholic Satan",2,"Melicien Tetro",48,0.015049112372713346
+"Alcoholic Satan",2,"William Chen",49,0.01526368704871584
+"Luke Anninan",3,"Kazanir",1,0.285265306122449
+"Luke Anninan",3,"Alcoholic Satan",2,0.267397540178396
+"Luke Anninan",3,"Luke Anninan",3,1.0
+"Luke Anninan",3,"Angry Mustache",4,0.42916514764855995
+"Luke Anninan",3,"Storm Delay",5,0.3959052589321558
+"Luke Anninan",3,"Dark Shines",6,0.11650076569678407
+"Luke Anninan",3,"Mike Azariah",7,0.44412347586577544
+"Luke Anninan",3,"The Oz ",8,0.3826599492903948
+"Luke Anninan",3,"Mark Resurrectus",9,0.4675955470467276
+"Luke Anninan",3,"Amelia Duskspace",10,0.12172854534388314
+"Luke Anninan",3,"Dujek Oneye",11,0.5176814571891422
+"Luke Anninan",3,"Torvald Uruz",12,0.02122151321786691
+"Luke Anninan",3,"Arhont Sibirskii",13,0.010680112756580776
+"Luke Anninan",3,"Phantomite ",14,0.018457752255947497
+"Luke Anninan",3,"Pandoralica ",15,0.48359732488560364
+"Luke Anninan",3,"White 0rchid",16,0.24539300488905605
+"Luke Anninan",3,"Stitch Kaneland",17,0.03171783811215428
+"Luke Anninan",3,"Kelmac",18,0.3809323989761235
+"Luke Anninan",3,"Kshal Aideron",19,0.2653966796725576
+"Luke Anninan",3,"DutchGunner",20,0.26546215290985165
+"Luke Anninan",3,"Velonad Tyldamere",21,0.42275701921047076
+"Luke Anninan",3,"Larkness",22,0.2256104730921491
+"Luke Anninan",3,"Nuke Michael",23,0.11441647597254005
+"Luke Anninan",3,"Lee Adoulin",24,0.26915479342663806
+"Luke Anninan",3,"RGC Godfather ",25,0.011348048385085421
+"Luke Anninan",3,"Drake Iddon",26,0.2680198362357283
+"Luke Anninan",3,"Rots Mijnwerker",27,0.027698066126013724
+"Luke Anninan",3,"Gustav Mannfred",28,0.011118665760108786
+"Luke Anninan",3,"MILINT ARC Trooper",29,0.009280742459396751
+"Luke Anninan",3,"Gideon Zendikar",30,0.007467966354846317
+"Luke Anninan",3,"Twan Molenaar",31,0.008458527963640954
+"Luke Anninan",3,"Gabriell Bemenacth",32,0.005604683024037863
+"Luke Anninan",3,"Gornilo STrubanov",33,0.00631803628601921
+"Luke Anninan",3,"Nala Queen",34,0.00955679826391787
+"Luke Anninan",3,"Yondu Quill",35,0.06901266840941082
+"Luke Anninan",3,"Rico Shikkoken",36,0.009323147691802201
+"Luke Anninan",3,"Lady Death Strike",37,0.009279680412800133
+"Luke Anninan",3,"Cael Caderu",38,0.00683526999316473
+"Luke Anninan",3,"Kontan Rekor",39,0.41455090318821275
+"Luke Anninan",3,"Kilyavi Alaailaa",40,0.007062855232363758
+"Luke Anninan",3,"Corporal Fillip",41,0.011954819028774013
+"Luke Anninan",3,"Dario Kaelenter",42,0.011277253362292206
+"Luke Anninan",3,"Styxx ",43,0.031836768755737294
+"Luke Anninan",3,"Sol Weintroub ",44,0.005808365718106222
+"Luke Anninan",3,"Grima The Mad",45,0.008936063097835208
+"Luke Anninan",3,"Dhuras",46,0.0058524173027989825
+"Luke Anninan",3,"SeriesPro ",47,0.006312108158826289
+"Luke Anninan",3,"Melicien Tetro",48,0.006878396739130435
+"Luke Anninan",3,"William Chen",49,0.007311754393466456
+"Angry Mustache",4,"Kazanir",1,0.44428388817873615
+"Angry Mustache",4,"Alcoholic Satan",2,0.02872524514516439
+"Angry Mustache",4,"Luke Anninan",3,0.42916514764855995
+"Angry Mustache",4,"Angry Mustache",4,1.0
+"Angry Mustache",4,"Storm Delay",5,0.11734615971904107
+"Angry Mustache",4,"Dark Shines",6,0.1848865741899945
+"Angry Mustache",4,"Mike Azariah",7,0.31395226579749763
+"Angry Mustache",4,"The Oz ",8,0.45619986430937465
+"Angry Mustache",4,"Mark Resurrectus",9,0.5865711886133581
+"Angry Mustache",4,"Amelia Duskspace",10,0.15416238437821173
+"Angry Mustache",4,"Dujek Oneye",11,0.5918061333075361
+"Angry Mustache",4,"Torvald Uruz",12,0.0683091237064464
+"Angry Mustache",4,"Arhont Sibirskii",13,0.026968605249614
+"Angry Mustache",4,"Phantomite ",14,0.05387514495554697
+"Angry Mustache",4,"Pandoralica ",15,0.576147262483334
+"Angry Mustache",4,"White 0rchid",16,0.2639842534102353
+"Angry Mustache",4,"Stitch Kaneland",17,0.07249626307922272
+"Angry Mustache",4,"Kelmac",18,0.113924565111364
+"Angry Mustache",4,"Kshal Aideron",19,0.03860204120061763
+"Angry Mustache",4,"DutchGunner",20,0.037708348905000376
+"Angry Mustache",4,"Velonad Tyldamere",21,0.10681059862610402
+"Angry Mustache",4,"Larkness",22,0.024451335877862596
+"Angry Mustache",4,"Nuke Michael",23,0.16236682682264467
+"Angry Mustache",4,"Lee Adoulin",24,0.015377657168701944
+"Angry Mustache",4,"RGC Godfather ",25,0.02476460022859631
+"Angry Mustache",4,"Drake Iddon",26,0.3886615128088525
+"Angry Mustache",4,"Rots Mijnwerker",27,0.03130033286803393
+"Angry Mustache",4,"Gustav Mannfred",28,0.034574746312375775
+"Angry Mustache",4,"MILINT ARC Trooper",29,0.024891304347826087
+"Angry Mustache",4,"Gideon Zendikar",30,0.031831462401968325
+"Angry Mustache",4,"Twan Molenaar",31,0.016685940855773997
+"Angry Mustache",4,"Gabriell Bemenacth",32,0.016286644951140065
+"Angry Mustache",4,"Gornilo STrubanov",33,0.010738855640695788
+"Angry Mustache",4,"Nala Queen",34,0.01952975833287873
+"Angry Mustache",4,"Yondu Quill",35,0.05022171291913707
+"Angry Mustache",4,"Rico Shikkoken",36,0.02169487893721877
+"Angry Mustache",4,"Lady Death Strike",37,0.026831672325046546
+"Angry Mustache",4,"Cael Caderu",38,0.023305750497538493
+"Angry Mustache",4,"Kontan Rekor",39,0.5022414429618691
+"Angry Mustache",4,"Kilyavi Alaailaa",40,0.014900120074227705
+"Angry Mustache",4,"Corporal Fillip",41,0.027680353963200777
+"Angry Mustache",4,"Dario Kaelenter",42,0.02089812844437169
+"Angry Mustache",4,"Styxx ",43,0.02544
+"Angry Mustache",4,"Sol Weintroub ",44,0.016978858582539162
+"Angry Mustache",4,"Grima The Mad",45,0.02333921871551534
+"Angry Mustache",4,"Dhuras",46,0.01612093490266079
+"Angry Mustache",4,"SeriesPro ",47,0.011742996141586982
+"Angry Mustache",4,"Melicien Tetro",48,0.013636110647297825
+"Angry Mustache",4,"William Chen",49,0.017296749112626065
+"Storm Delay",5,"Kazanir",1,0.011685751830298479
+"Storm Delay",5,"Alcoholic Satan",2,0.5468089529485136
+"Storm Delay",5,"Luke Anninan",3,0.3959052589321558
+"Storm Delay",5,"Angry Mustache",4,0.11734615971904107
+"Storm Delay",5,"Storm Delay",5,1.0
+"Storm Delay",5,"Dark Shines",6,0.024615056742500932
+"Storm Delay",5,"Mike Azariah",7,0.25273767572278427
+"Storm Delay",5,"The Oz ",8,0.06749691984948886
+"Storm Delay",5,"Mark Resurrectus",9,0.1119632443894681
+"Storm Delay",5,"Amelia Duskspace",10,0.0537226708686232
+"Storm Delay",5,"Dujek Oneye",11,0.10688328345446772
+"Storm Delay",5,"Torvald Uruz",12,0.032149383280036546
+"Storm Delay",5,"Arhont Sibirskii",13,0.01470684358454801
+"Storm Delay",5,"Phantomite ",14,0.03230979390627784
+"Storm Delay",5,"Pandoralica ",15,0.11204307756031893
+"Storm Delay",5,"White 0rchid",16,0.15132101708382995
+"Storm Delay",5,"Stitch Kaneland",17,0.02539981185324553
+"Storm Delay",5,"Kelmac",18,0.6814489571899012
+"Storm Delay",5,"Kshal Aideron",19,0.3509191712868398
+"Storm Delay",5,"DutchGunner",20,0.3547544409613375
+"Storm Delay",5,"Velonad Tyldamere",21,0.7513633014001474
+"Storm Delay",5,"Larkness",22,0.3845305301408085
+"Storm Delay",5,"Nuke Michael",23,0.1921225090276849
+"Storm Delay",5,"Lee Adoulin",24,0.48179292190699036
+"Storm Delay",5,"RGC Godfather ",25,0.012090538450724027
+"Storm Delay",5,"Drake Iddon",26,0.012606518492488799
+"Storm Delay",5,"Rots Mijnwerker",27,0.011290543314629807
+"Storm Delay",5,"Gustav Mannfred",28,0.020613072677704635
+"Storm Delay",5,"MILINT ARC Trooper",29,0.016700725812134453
+"Storm Delay",5,"Gideon Zendikar",30,0.01683937823834197
+"Storm Delay",5,"Twan Molenaar",31,0.01710640765439258
+"Storm Delay",5,"Gabriell Bemenacth",32,0.010608203677510608
+"Storm Delay",5,"Gornilo STrubanov",33,0.010070344316919659
+"Storm Delay",5,"Nala Queen",34,0.0185
+"Storm Delay",5,"Yondu Quill",35,0.015554471147980968
+"Storm Delay",5,"Rico Shikkoken",36,0.014058171745152354
+"Storm Delay",5,"Lady Death Strike",37,0.02183219178082192
+"Storm Delay",5,"Cael Caderu",38,0.013414715943389898
+"Storm Delay",5,"Kontan Rekor",39,0.005896374357044286
+"Storm Delay",5,"Kilyavi Alaailaa",40,0.013233190271816882
+"Storm Delay",5,"Corporal Fillip",41,0.016482370123096182
+"Storm Delay",5,"Dario Kaelenter",42,0.013700574998225313
+"Storm Delay",5,"Styxx ",43,0.059046664758087605
+"Storm Delay",5,"Sol Weintroub ",44,0.012170675830469645
+"Storm Delay",5,"Grima The Mad",45,0.015976970133141418
+"Storm Delay",5,"Dhuras",46,0.013080540858318637
+"Storm Delay",5,"SeriesPro ",47,0.013350144626566788
+"Storm Delay",5,"Melicien Tetro",48,0.012117206433135052
+"Storm Delay",5,"William Chen",49,0.012859585222626924
+"Dark Shines",6,"Kazanir",1,0.053368560105680314
+"Dark Shines",6,"Alcoholic Satan",2,0.03454038997214485
+"Dark Shines",6,"Luke Anninan",3,0.11650076569678407
+"Dark Shines",6,"Angry Mustache",4,0.1848865741899945
+"Dark Shines",6,"Storm Delay",5,0.024615056742500932
+"Dark Shines",6,"Dark Shines",6,1.0
+"Dark Shines",6,"Mike Azariah",7,0.051035644549944484
+"Dark Shines",6,"The Oz ",8,0.16198049380546525
+"Dark Shines",6,"Mark Resurrectus",9,0.17368803341202108
+"Dark Shines",6,"Amelia Duskspace",10,0.3147377185678601
+"Dark Shines",6,"Dujek Oneye",11,0.17012023535431056
+"Dark Shines",6,"Torvald Uruz",12,0.06940036029853307
+"Dark Shines",6,"Arhont Sibirskii",13,0.057148949781426595
+"Dark Shines",6,"Phantomite ",14,0.07349990880904614
+"Dark Shines",6,"Pandoralica ",15,0.22702328798708785
+"Dark Shines",6,"White 0rchid",16,0.23891434614028903
+"Dark Shines",6,"Stitch Kaneland",17,0.1107195048568727
+"Dark Shines",6,"Kelmac",18,0.016147905452843437
+"Dark Shines",6,"Kshal Aideron",19,0.024294808152776966
+"Dark Shines",6,"DutchGunner",20,0.03099738296016284
+"Dark Shines",6,"Velonad Tyldamere",21,0.008834314923880432
+"Dark Shines",6,"Larkness",22,0.02904998691442031
+"Dark Shines",6,"Nuke Michael",23,0.033671742808798644
+"Dark Shines",6,"Lee Adoulin",24,0.018626633305532388
+"Dark Shines",6,"RGC Godfather ",25,0.027592657547059512
+"Dark Shines",6,"Drake Iddon",26,0.036236188665795414
+"Dark Shines",6,"Rots Mijnwerker",27,0.09872993050563145
+"Dark Shines",6,"Gustav Mannfred",28,0.05240410588870881
+"Dark Shines",6,"MILINT ARC Trooper",29,0.0330326812697669
+"Dark Shines",6,"Gideon Zendikar",30,0.05455115477061344
+"Dark Shines",6,"Twan Molenaar",31,0.02482053777831853
+"Dark Shines",6,"Gabriell Bemenacth",32,0.024669499527856468
+"Dark Shines",6,"Gornilo STrubanov",33,0.030271934325295024
+"Dark Shines",6,"Nala Queen",34,0.03779244151169766
+"Dark Shines",6,"Yondu Quill",35,0.09090909090909091
+"Dark Shines",6,"Rico Shikkoken",36,0.032103278875814004
+"Dark Shines",6,"Lady Death Strike",37,0.037385403024169546
+"Dark Shines",6,"Cael Caderu",38,0.03238426429037166
+"Dark Shines",6,"Kontan Rekor",39,0.17125984251968504
+"Dark Shines",6,"Kilyavi Alaailaa",40,0.030222757375075255
+"Dark Shines",6,"Corporal Fillip",41,0.035763569457221714
+"Dark Shines",6,"Dario Kaelenter",42,0.034725536992840096
+"Dark Shines",6,"Styxx ",43,0.03854413925624506
+"Dark Shines",6,"Sol Weintroub ",44,0.031068665377176015
+"Dark Shines",6,"Grima The Mad",45,0.02915205032055159
+"Dark Shines",6,"Dhuras",46,0.026101141924959218
+"Dark Shines",6,"SeriesPro ",47,0.030318536522962774
+"Dark Shines",6,"Melicien Tetro",48,0.028050314465408805
+"Dark Shines",6,"William Chen",49,0.04238720582499025
+"Mike Azariah",7,"Kazanir",1,0.329493704795071
+"Mike Azariah",7,"Alcoholic Satan",2,0.26866043613707163
+"Mike Azariah",7,"Luke Anninan",3,0.44412347586577544
+"Mike Azariah",7,"Angry Mustache",4,0.31395226579749763
+"Mike Azariah",7,"Storm Delay",5,0.25273767572278427
+"Mike Azariah",7,"Dark Shines",6,0.051035644549944484
+"Mike Azariah",7,"Mike Azariah",7,1.0
+"Mike Azariah",7,"The Oz ",8,0.38306493149744186
+"Mike Azariah",7,"Mark Resurrectus",9,0.30060304142632405
+"Mike Azariah",7,"Amelia Duskspace",10,0.07494102703683542
+"Mike Azariah",7,"Dujek Oneye",11,0.27536836252432584
+"Mike Azariah",7,"Torvald Uruz",12,0.10668742898026178
+"Mike Azariah",7,"Arhont Sibirskii",13,0.025214800742627694
+"Mike Azariah",7,"Phantomite ",14,0.06790689914073579
+"Mike Azariah",7,"Pandoralica ",15,0.28701464035646085
+"Mike Azariah",7,"White 0rchid",16,0.07107776261937244
+"Mike Azariah",7,"Stitch Kaneland",17,0.104135710747895
+"Mike Azariah",7,"Kelmac",18,0.24508121483018716
+"Mike Azariah",7,"Kshal Aideron",19,0.333375839496727
+"Mike Azariah",7,"DutchGunner",20,0.32892575904324756
+"Mike Azariah",7,"Velonad Tyldamere",21,0.2422135922330097
+"Mike Azariah",7,"Larkness",22,0.3166733484787741
+"Mike Azariah",7,"Nuke Michael",23,0.03566458590115701
+"Mike Azariah",7,"Lee Adoulin",24,0.2806725711459785
+"Mike Azariah",7,"RGC Godfather ",25,0.03386964073498492
+"Mike Azariah",7,"Drake Iddon",26,0.35110381474921154
+"Mike Azariah",7,"Rots Mijnwerker",27,0.02623594502944851
+"Mike Azariah",7,"Gustav Mannfred",28,0.04204429904062956
+"Mike Azariah",7,"MILINT ARC Trooper",29,0.03434260400968169
+"Mike Azariah",7,"Gideon Zendikar",30,0.0431275074132217
+"Mike Azariah",7,"Twan Molenaar",31,0.020311783585511233
+"Mike Azariah",7,"Gabriell Bemenacth",32,0.0359410952600092
+"Mike Azariah",7,"Gornilo STrubanov",33,0.012082773945650663
+"Mike Azariah",7,"Nala Queen",34,0.01839267917006433
+"Mike Azariah",7,"Yondu Quill",35,0.051585623678646934
+"Mike Azariah",7,"Rico Shikkoken",36,0.04012373760349377
+"Mike Azariah",7,"Lady Death Strike",37,0.02277573612812486
+"Mike Azariah",7,"Cael Caderu",38,0.04948268106162843
+"Mike Azariah",7,"Kontan Rekor",39,0.2869846080229683
+"Mike Azariah",7,"Kilyavi Alaailaa",40,0.017545454545454545
+"Mike Azariah",7,"Corporal Fillip",41,0.04732859435909195
+"Mike Azariah",7,"Dario Kaelenter",42,0.03772540700087626
+"Mike Azariah",7,"Styxx ",43,0.024433664159508657
+"Mike Azariah",7,"Sol Weintroub ",44,0.018494055482166448
+"Mike Azariah",7,"Grima The Mad",45,0.02543150936467132
+"Mike Azariah",7,"Dhuras",46,0.018418251654403257
+"Mike Azariah",7,"SeriesPro ",47,0.011930084157958014
+"Mike Azariah",7,"Melicien Tetro",48,0.021068263028446797
+"Mike Azariah",7,"William Chen",49,0.014865053189018441
+"The Oz ",8,"Kazanir",1,0.3556487326863281
+"The Oz ",8,"Alcoholic Satan",2,0.060872688094810556
+"The Oz ",8,"Luke Anninan",3,0.3826599492903948
+"The Oz ",8,"Angry Mustache",4,0.45619986430937465
+"The Oz ",8,"Storm Delay",5,0.06749691984948886
+"The Oz ",8,"Dark Shines",6,0.16198049380546525
+"The Oz ",8,"Mike Azariah",7,0.38306493149744186
+"The Oz ",8,"The Oz ",8,1.0
+"The Oz ",8,"Mark Resurrectus",9,0.4819738707329221
+"The Oz ",8,"Amelia Duskspace",10,0.19781507680716587
+"The Oz ",8,"Dujek Oneye",11,0.45476403944901783
+"The Oz ",8,"Torvald Uruz",12,0.12879903601553086
+"The Oz ",8,"Arhont Sibirskii",13,0.03189799900176959
+"The Oz ",8,"Phantomite ",14,0.08255952118998372
+"The Oz ",8,"Pandoralica ",15,0.46778575948189227
+"The Oz ",8,"White 0rchid",16,0.21076108168385838
+"The Oz ",8,"Stitch Kaneland",17,0.12421953455879142
+"The Oz ",8,"Kelmac",18,0.04242905475384934
+"The Oz ",8,"Kshal Aideron",19,0.12179984484096198
+"The Oz ",8,"DutchGunner",20,0.12280895160401278
+"The Oz ",8,"Velonad Tyldamere",21,0.05359085963003264
+"The Oz ",8,"Larkness",22,0.06136633957775795
+"The Oz ",8,"Nuke Michael",23,0.035430792128328094
+"The Oz ",8,"Lee Adoulin",24,0.04573646360488566
+"The Oz ",8,"RGC Godfather ",25,0.03634097228881005
+"The Oz ",8,"Drake Iddon",26,0.38078730100807373
+"The Oz ",8,"Rots Mijnwerker",27,0.03676297308761842
+"The Oz ",8,"Gustav Mannfred",28,0.06357809407107173
+"The Oz ",8,"MILINT ARC Trooper",29,0.03569377990430622
+"The Oz ",8,"Gideon Zendikar",30,0.04935897435897436
+"The Oz ",8,"Twan Molenaar",31,0.020996492576754913
+"The Oz ",8,"Gabriell Bemenacth",32,0.03783053464582127
+"The Oz ",8,"Gornilo STrubanov",33,0.015827408201032435
+"The Oz ",8,"Nala Queen",34,0.029726231001582202
+"The Oz ",8,"Yondu Quill",35,0.10480025922325603
+"The Oz ",8,"Rico Shikkoken",36,0.043185722466119486
+"The Oz ",8,"Lady Death Strike",37,0.029784385906200698
+"The Oz ",8,"Cael Caderu",38,0.05157309721175584
+"The Oz ",8,"Kontan Rekor",39,0.4954093343534813
+"The Oz ",8,"Kilyavi Alaailaa",40,0.01838357860646759
+"The Oz ",8,"Corporal Fillip",41,0.03946679362056653
+"The Oz ",8,"Dario Kaelenter",42,0.033259636643275976
+"The Oz ",8,"Styxx ",43,0.056229909322074556
+"The Oz ",8,"Sol Weintroub ",44,0.021671530402334594
+"The Oz ",8,"Grima The Mad",45,0.030377668308702793
+"The Oz ",8,"Dhuras",46,0.019661148599446576
+"The Oz ",8,"SeriesPro ",47,0.01600817438692098
+"The Oz ",8,"Melicien Tetro",48,0.021649233763074677
+"The Oz ",8,"William Chen",49,0.020364205991775994
+"Mark Resurrectus",9,"Kazanir",1,0.3654423878282779
+"Mark Resurrectus",9,"Alcoholic Satan",2,0.01804305008441193
+"Mark Resurrectus",9,"Luke Anninan",3,0.4675955470467276
+"Mark Resurrectus",9,"Angry Mustache",4,0.5865711886133581
+"Mark Resurrectus",9,"Storm Delay",5,0.1119632443894681
+"Mark Resurrectus",9,"Dark Shines",6,0.17368803341202108
+"Mark Resurrectus",9,"Mike Azariah",7,0.30060304142632405
+"Mark Resurrectus",9,"The Oz ",8,0.4819738707329221
+"Mark Resurrectus",9,"Mark Resurrectus",9,1.0
+"Mark Resurrectus",9,"Amelia Duskspace",10,0.20286744505494506
+"Mark Resurrectus",9,"Dujek Oneye",11,0.6558328223029388
+"Mark Resurrectus",9,"Torvald Uruz",12,0.07079991328853241
+"Mark Resurrectus",9,"Arhont Sibirskii",13,0.01433544013923239
+"Mark Resurrectus",9,"Phantomite ",14,0.10393671817512877
+"Mark Resurrectus",9,"Pandoralica ",15,0.6387494198557023
+"Mark Resurrectus",9,"White 0rchid",16,0.32066108378749614
+"Mark Resurrectus",9,"Stitch Kaneland",17,0.14165758896151054
+"Mark Resurrectus",9,"Kelmac",18,0.10654205607476636
+"Mark Resurrectus",9,"Kshal Aideron",19,0.06450459470089749
+"Mark Resurrectus",9,"DutchGunner",20,0.075569915634536
+"Mark Resurrectus",9,"Velonad Tyldamere",21,0.10389044280576847
+"Mark Resurrectus",9,"Larkness",22,0.026884089907448214
+"Mark Resurrectus",9,"Nuke Michael",23,0.16963260619977039
+"Mark Resurrectus",9,"Lee Adoulin",24,0.011055125216214184
+"Mark Resurrectus",9,"RGC Godfather ",25,0.013255567338282079
+"Mark Resurrectus",9,"Drake Iddon",26,0.4083143507972665
+"Mark Resurrectus",9,"Rots Mijnwerker",27,0.04501953125
+"Mark Resurrectus",9,"Gustav Mannfred",28,0.037197885196374625
+"Mark Resurrectus",9,"MILINT ARC Trooper",29,0.02462886347043076
+"Mark Resurrectus",9,"Gideon Zendikar",30,0.06875089768755685
+"Mark Resurrectus",9,"Twan Molenaar",31,0.015336970948237723
+"Mark Resurrectus",9,"Gabriell Bemenacth",32,0.015440640932265113
+"Mark Resurrectus",9,"Gornilo STrubanov",33,0.008460236886632826
+"Mark Resurrectus",9,"Nala Queen",34,0.010158668730650154
+"Mark Resurrectus",9,"Yondu Quill",35,0.08981923761356186
+"Mark Resurrectus",9,"Rico Shikkoken",36,0.033735174022943806
+"Mark Resurrectus",9,"Lady Death Strike",37,0.014187487894634903
+"Mark Resurrectus",9,"Cael Caderu",38,0.05839380509423854
+"Mark Resurrectus",9,"Kontan Rekor",39,0.5088780679750136
+"Mark Resurrectus",9,"Kilyavi Alaailaa",40,0.018370646156860824
+"Mark Resurrectus",9,"Corporal Fillip",41,0.015394176985227328
+"Mark Resurrectus",9,"Dario Kaelenter",42,0.012349864393645873
+"Mark Resurrectus",9,"Styxx ",43,0.016273663234805714
+"Mark Resurrectus",9,"Sol Weintroub ",44,0.024627381304905736
+"Mark Resurrectus",9,"Grima The Mad",45,0.015273154493831995
+"Mark Resurrectus",9,"Dhuras",46,0.02136923230907817
+"Mark Resurrectus",9,"SeriesPro ",47,0.007399314694343745
+"Mark Resurrectus",9,"Melicien Tetro",48,0.018162766329025498
+"Mark Resurrectus",9,"William Chen",49,0.011287019927083853
+"Amelia Duskspace",10,"Kazanir",1,0.023965634184942346
+"Amelia Duskspace",10,"Alcoholic Satan",2,0.03970264317180617
+"Amelia Duskspace",10,"Luke Anninan",3,0.12172854534388314
+"Amelia Duskspace",10,"Angry Mustache",4,0.15416238437821173
+"Amelia Duskspace",10,"Storm Delay",5,0.0537226708686232
+"Amelia Duskspace",10,"Dark Shines",6,0.3147377185678601
+"Amelia Duskspace",10,"Mike Azariah",7,0.07494102703683542
+"Amelia Duskspace",10,"The Oz ",8,0.19781507680716587
+"Amelia Duskspace",10,"Mark Resurrectus",9,0.20286744505494506
+"Amelia Duskspace",10,"Amelia Duskspace",10,1.0
+"Amelia Duskspace",10,"Dujek Oneye",11,0.14821608731541777
+"Amelia Duskspace",10,"Torvald Uruz",12,0.10846841387668535
+"Amelia Duskspace",10,"Arhont Sibirskii",13,0.059540512101017184
+"Amelia Duskspace",10,"Phantomite ",14,0.1715270190772334
+"Amelia Duskspace",10,"Pandoralica ",15,0.20396636124011547
+"Amelia Duskspace",10,"White 0rchid",16,0.2397638784225069
+"Amelia Duskspace",10,"Stitch Kaneland",17,0.2317551020408163
+"Amelia Duskspace",10,"Kelmac",18,0.017552997551955832
+"Amelia Duskspace",10,"Kshal Aideron",19,0.04685258964143426
+"Amelia Duskspace",10,"DutchGunner",20,0.04578186596583443
+"Amelia Duskspace",10,"Velonad Tyldamere",21,0.040706605222734255
+"Amelia Duskspace",10,"Larkness",22,0.04258665889892223
+"Amelia Duskspace",10,"Nuke Michael",23,0.07566920891281591
+"Amelia Duskspace",10,"Lee Adoulin",24,0.013982642237222759
+"Amelia Duskspace",10,"RGC Godfather ",25,0.024593229848513184
+"Amelia Duskspace",10,"Drake Iddon",26,0.07122569368582041
+"Amelia Duskspace",10,"Rots Mijnwerker",27,0.08238663484486873
+"Amelia Duskspace",10,"Gustav Mannfred",28,0.08392499544875295
+"Amelia Duskspace",10,"MILINT ARC Trooper",29,0.0454848225330669
+"Amelia Duskspace",10,"Gideon Zendikar",30,0.125608300431549
+"Amelia Duskspace",10,"Twan Molenaar",31,0.03346994535519126
+"Amelia Duskspace",10,"Gabriell Bemenacth",32,0.042872248389887534
+"Amelia Duskspace",10,"Gornilo STrubanov",33,0.02491961414790997
+"Amelia Duskspace",10,"Nala Queen",34,0.04139391605698883
+"Amelia Duskspace",10,"Yondu Quill",35,0.07034035656401945
+"Amelia Duskspace",10,"Rico Shikkoken",36,0.05829003306565895
+"Amelia Duskspace",10,"Lady Death Strike",37,0.04554626693571635
+"Amelia Duskspace",10,"Cael Caderu",38,0.07519351271654995
+"Amelia Duskspace",10,"Kontan Rekor",39,0.1397843516726569
+"Amelia Duskspace",10,"Kilyavi Alaailaa",40,0.043089193658204454
+"Amelia Duskspace",10,"Corporal Fillip",41,0.029953917050691243
+"Amelia Duskspace",10,"Dario Kaelenter",42,0.030617096130075117
+"Amelia Duskspace",10,"Styxx ",43,0.08224530639473936
+"Amelia Duskspace",10,"Sol Weintroub ",44,0.04228783006918055
+"Amelia Duskspace",10,"Grima The Mad",45,0.02921045020726887
+"Amelia Duskspace",10,"Dhuras",46,0.030789159027500998
+"Amelia Duskspace",10,"SeriesPro ",47,0.02046520914445443
+"Amelia Duskspace",10,"Melicien Tetro",48,0.031006979062811565
+"Amelia Duskspace",10,"William Chen",49,0.025576477696103113
+"Dujek Oneye",11,"Kazanir",1,0.39775879285476534
+"Dujek Oneye",11,"Alcoholic Satan",2,0.011257401059520099
+"Dujek Oneye",11,"Luke Anninan",3,0.5176814571891422
+"Dujek Oneye",11,"Angry Mustache",4,0.5918061333075361
+"Dujek Oneye",11,"Storm Delay",5,0.10688328345446772
+"Dujek Oneye",11,"Dark Shines",6,0.17012023535431056
+"Dujek Oneye",11,"Mike Azariah",7,0.27536836252432584
+"Dujek Oneye",11,"The Oz ",8,0.45476403944901783
+"Dujek Oneye",11,"Mark Resurrectus",9,0.6558328223029388
+"Dujek Oneye",11,"Amelia Duskspace",10,0.14821608731541777
+"Dujek Oneye",11,"Dujek Oneye",11,1.0
+"Dujek Oneye",11,"Torvald Uruz",12,0.03949447077409163
+"Dujek Oneye",11,"Arhont Sibirskii",13,0.01628128977513789
+"Dujek Oneye",11,"Phantomite ",14,0.03905091448344043
+"Dujek Oneye",11,"Pandoralica ",15,0.6552488228233774
+"Dujek Oneye",11,"White 0rchid",16,0.36290650406504066
+"Dujek Oneye",11,"Stitch Kaneland",17,0.0687460830159572
+"Dujek Oneye",11,"Kelmac",18,0.11210462541261021
+"Dujek Oneye",11,"Kshal Aideron",19,0.07126574685062988
+"Dujek Oneye",11,"DutchGunner",20,0.06217269756270426
+"Dujek Oneye",11,"Velonad Tyldamere",21,0.1093345207253886
+"Dujek Oneye",11,"Larkness",22,0.017186609106459232
+"Dujek Oneye",11,"Nuke Michael",23,0.15988544874912194
+"Dujek Oneye",11,"Lee Adoulin",24,0.011210288083252253
+"Dujek Oneye",11,"RGC Godfather ",25,0.013599325653273391
+"Dujek Oneye",11,"Drake Iddon",26,0.39252921535893154
+"Dujek Oneye",11,"Rots Mijnwerker",27,0.057472584256760634
+"Dujek Oneye",11,"Gustav Mannfred",28,0.01686927649547475
+"Dujek Oneye",11,"MILINT ARC Trooper",29,0.012497197937682135
+"Dujek Oneye",11,"Gideon Zendikar",30,0.03800118082765284
+"Dujek Oneye",11,"Twan Molenaar",31,0.013768573231598875
+"Dujek Oneye",11,"Gabriell Bemenacth",32,0.011680397246360457
+"Dujek Oneye",11,"Gornilo STrubanov",33,0.010999297917154224
+"Dujek Oneye",11,"Nala Queen",34,0.01112931472798147
+"Dujek Oneye",11,"Yondu Quill",35,0.13926325247079965
+"Dujek Oneye",11,"Rico Shikkoken",36,0.021797451374916163
+"Dujek Oneye",11,"Lady Death Strike",37,0.010748452447945976
+"Dujek Oneye",11,"Cael Caderu",38,0.029092106707651774
+"Dujek Oneye",11,"Kontan Rekor",39,0.6002889338341519
+"Dujek Oneye",11,"Kilyavi Alaailaa",40,0.010385335679019352
+"Dujek Oneye",11,"Corporal Fillip",41,0.019661509244260737
+"Dujek Oneye",11,"Dario Kaelenter",42,0.01598911379486307
+"Dujek Oneye",11,"Styxx ",43,0.012744451768842013
+"Dujek Oneye",11,"Sol Weintroub ",44,0.012588288904078378
+"Dujek Oneye",11,"Grima The Mad",45,0.012372427162323963
+"Dujek Oneye",11,"Dhuras",46,0.011846001974333662
+"Dujek Oneye",11,"SeriesPro ",47,0.009392684207455808
+"Dujek Oneye",11,"Melicien Tetro",48,0.014027939464493598
+"Dujek Oneye",11,"William Chen",49,0.012966439802863178
+"Torvald Uruz",12,"Kazanir",1,0.03108880524187927
+"Torvald Uruz",12,"Alcoholic Satan",2,0.04178664702337106
+"Torvald Uruz",12,"Luke Anninan",3,0.02122151321786691
+"Torvald Uruz",12,"Angry Mustache",4,0.0683091237064464
+"Torvald Uruz",12,"Storm Delay",5,0.032149383280036546
+"Torvald Uruz",12,"Dark Shines",6,0.06940036029853307
+"Torvald Uruz",12,"Mike Azariah",7,0.10668742898026178
+"Torvald Uruz",12,"The Oz ",8,0.12879903601553086
+"Torvald Uruz",12,"Mark Resurrectus",9,0.07079991328853241
+"Torvald Uruz",12,"Amelia Duskspace",10,0.10846841387668535
+"Torvald Uruz",12,"Dujek Oneye",11,0.03949447077409163
+"Torvald Uruz",12,"Torvald Uruz",12,1.0
+"Torvald Uruz",12,"Arhont Sibirskii",13,0.05951372928510947
+"Torvald Uruz",12,"Phantomite ",14,0.13382462885827193
+"Torvald Uruz",12,"Pandoralica ",15,0.0731090311156084
+"Torvald Uruz",12,"White 0rchid",16,0.06127989657401422
+"Torvald Uruz",12,"Stitch Kaneland",17,0.13342967244701348
+"Torvald Uruz",12,"Kelmac",18,0.023484848484848483
+"Torvald Uruz",12,"Kshal Aideron",19,0.0735910878112713
+"Torvald Uruz",12,"DutchGunner",20,0.09704753078247054
+"Torvald Uruz",12,"Velonad Tyldamere",21,0.02187894452124782
+"Torvald Uruz",12,"Larkness",22,0.06202171853363458
+"Torvald Uruz",12,"Nuke Michael",23,0.04536004536004536
+"Torvald Uruz",12,"Lee Adoulin",24,0.02810143934201508
+"Torvald Uruz",12,"RGC Godfather ",25,0.06844904815229563
+"Torvald Uruz",12,"Drake Iddon",26,0.058143311895017216
+"Torvald Uruz",12,"Rots Mijnwerker",27,0.041184877224892814
+"Torvald Uruz",12,"Gustav Mannfred",28,0.17766497461928935
+"Torvald Uruz",12,"MILINT ARC Trooper",29,0.07070001397233477
+"Torvald Uruz",12,"Gideon Zendikar",30,0.08342427549411907
+"Torvald Uruz",12,"Twan Molenaar",31,0.04470960322024152
+"Torvald Uruz",12,"Gabriell Bemenacth",32,0.046883695047301055
+"Torvald Uruz",12,"Gornilo STrubanov",33,0.03694767003468557
+"Torvald Uruz",12,"Nala Queen",34,0.04855183993283895
+"Torvald Uruz",12,"Yondu Quill",35,0.07097193628778849
+"Torvald Uruz",12,"Rico Shikkoken",36,0.08169710284223534
+"Torvald Uruz",12,"Lady Death Strike",37,0.05250696378830084
+"Torvald Uruz",12,"Cael Caderu",38,0.08152948801036941
+"Torvald Uruz",12,"Kontan Rekor",39,0.02150664697193501
+"Torvald Uruz",12,"Kilyavi Alaailaa",40,0.04815864022662889
+"Torvald Uruz",12,"Corporal Fillip",41,0.07137008733624454
+"Torvald Uruz",12,"Dario Kaelenter",42,0.0692942515651679
+"Torvald Uruz",12,"Styxx ",43,0.05642509535709588
+"Torvald Uruz",12,"Sol Weintroub ",44,0.05358673906830523
+"Torvald Uruz",12,"Grima The Mad",45,0.06104777024101602
+"Torvald Uruz",12,"Dhuras",46,0.048379871584291474
+"Torvald Uruz",12,"SeriesPro ",47,0.03294399520814615
+"Torvald Uruz",12,"Melicien Tetro",48,0.053761826100015016
+"Torvald Uruz",12,"William Chen",49,0.034529553679131485
+"Arhont Sibirskii",13,"Kazanir",1,0.02187160864846815
+"Arhont Sibirskii",13,"Alcoholic Satan",2,0.03898386323693881
+"Arhont Sibirskii",13,"Luke Anninan",3,0.010680112756580776
+"Arhont Sibirskii",13,"Angry Mustache",4,0.026968605249614
+"Arhont Sibirskii",13,"Storm Delay",5,0.01470684358454801
+"Arhont Sibirskii",13,"Dark Shines",6,0.057148949781426595
+"Arhont Sibirskii",13,"Mike Azariah",7,0.025214800742627694
+"Arhont Sibirskii",13,"The Oz ",8,0.03189799900176959
+"Arhont Sibirskii",13,"Mark Resurrectus",9,0.01433544013923239
+"Arhont Sibirskii",13,"Amelia Duskspace",10,0.059540512101017184
+"Arhont Sibirskii",13,"Dujek Oneye",11,0.01628128977513789
+"Arhont Sibirskii",13,"Torvald Uruz",12,0.05951372928510947
+"Arhont Sibirskii",13,"Arhont Sibirskii",13,1.0
+"Arhont Sibirskii",13,"Phantomite ",14,0.044689119170984455
+"Arhont Sibirskii",13,"Pandoralica ",15,0.03549466449629228
+"Arhont Sibirskii",13,"White 0rchid",16,0.034619115123479816
+"Arhont Sibirskii",13,"Stitch Kaneland",17,0.04042457091237579
+"Arhont Sibirskii",13,"Kelmac",18,0.0199342989398238
+"Arhont Sibirskii",13,"Kshal Aideron",19,0.03246995596028962
+"Arhont Sibirskii",13,"DutchGunner",20,0.022162280382007727
+"Arhont Sibirskii",13,"Velonad Tyldamere",21,0.013821651582123062
+"Arhont Sibirskii",13,"Larkness",22,0.027435897435897437
+"Arhont Sibirskii",13,"Nuke Michael",23,0.05334158415841584
+"Arhont Sibirskii",13,"Lee Adoulin",24,0.018511627906976743
+"Arhont Sibirskii",13,"RGC Godfather ",25,0.04589421691706112
+"Arhont Sibirskii",13,"Drake Iddon",26,0.019746121297602257
+"Arhont Sibirskii",13,"Rots Mijnwerker",27,0.05851579151327262
+"Arhont Sibirskii",13,"Gustav Mannfred",28,0.07674460110655006
+"Arhont Sibirskii",13,"MILINT ARC Trooper",29,0.038180341186027617
+"Arhont Sibirskii",13,"Gideon Zendikar",30,0.03670022734654108
+"Arhont Sibirskii",13,"Twan Molenaar",31,0.04290137107474569
+"Arhont Sibirskii",13,"Gabriell Bemenacth",32,0.04167539267015707
+"Arhont Sibirskii",13,"Gornilo STrubanov",33,0.06790123456790123
+"Arhont Sibirskii",13,"Nala Queen",34,0.060957286971453105
+"Arhont Sibirskii",13,"Yondu Quill",35,0.05177854274239816
+"Arhont Sibirskii",13,"Rico Shikkoken",36,0.03921186110027312
+"Arhont Sibirskii",13,"Lady Death Strike",37,0.044004171011470285
+"Arhont Sibirskii",13,"Cael Caderu",38,0.03372591006423983
+"Arhont Sibirskii",13,"Kontan Rekor",39,0.013966288269693842
+"Arhont Sibirskii",13,"Kilyavi Alaailaa",40,0.0955716222322639
+"Arhont Sibirskii",13,"Corporal Fillip",41,0.04763787309745009
+"Arhont Sibirskii",13,"Dario Kaelenter",42,0.046153846153846156
+"Arhont Sibirskii",13,"Styxx ",43,0.05262147109660073
+"Arhont Sibirskii",13,"Sol Weintroub ",44,0.11054813450023031
+"Arhont Sibirskii",13,"Grima The Mad",45,0.043015424723006734
+"Arhont Sibirskii",13,"Dhuras",46,0.042200979249242244
+"Arhont Sibirskii",13,"SeriesPro ",47,0.12791904514789829
+"Arhont Sibirskii",13,"Melicien Tetro",48,0.03619489559164733
+"Arhont Sibirskii",13,"William Chen",49,0.039806996381182146
+"Phantomite ",14,"Kazanir",1,0.023373983739837397
+"Phantomite ",14,"Alcoholic Satan",2,0.02965015587114652
+"Phantomite ",14,"Luke Anninan",3,0.018457752255947497
+"Phantomite ",14,"Angry Mustache",4,0.05387514495554697
+"Phantomite ",14,"Storm Delay",5,0.03230979390627784
+"Phantomite ",14,"Dark Shines",6,0.07349990880904614
+"Phantomite ",14,"Mike Azariah",7,0.06790689914073579
+"Phantomite ",14,"The Oz ",8,0.08255952118998372
+"Phantomite ",14,"Mark Resurrectus",9,0.10393671817512877
+"Phantomite ",14,"Amelia Duskspace",10,0.1715270190772334
+"Phantomite ",14,"Dujek Oneye",11,0.03905091448344043
+"Phantomite ",14,"Torvald Uruz",12,0.13382462885827193
+"Phantomite ",14,"Arhont Sibirskii",13,0.044689119170984455
+"Phantomite ",14,"Phantomite ",14,1.0
+"Phantomite ",14,"Pandoralica ",15,0.07863895787043088
+"Phantomite ",14,"White 0rchid",16,0.09133814547473626
+"Phantomite ",14,"Stitch Kaneland",17,0.26323596531264265
+"Phantomite ",14,"Kelmac",18,0.021727679747168816
+"Phantomite ",14,"Kshal Aideron",19,0.03626155878467635
+"Phantomite ",14,"DutchGunner",20,0.05340675379818218
+"Phantomite ",14,"Velonad Tyldamere",21,0.02001626321386126
+"Phantomite ",14,"Larkness",22,0.04802899864068872
+"Phantomite ",14,"Nuke Michael",23,0.13497536945812807
+"Phantomite ",14,"Lee Adoulin",24,0.01812688821752266
+"Phantomite ",14,"RGC Godfather ",25,0.033820023837902266
+"Phantomite ",14,"Drake Iddon",26,0.10926163038839096
+"Phantomite ",14,"Rots Mijnwerker",27,0.057956352073999136
+"Phantomite ",14,"Gustav Mannfred",28,0.09355509355509356
+"Phantomite ",14,"MILINT ARC Trooper",29,0.07264891488379252
+"Phantomite ",14,"Gideon Zendikar",30,0.21441202475685234
+"Phantomite ",14,"Twan Molenaar",31,0.058113329040566646
+"Phantomite ",14,"Gabriell Bemenacth",32,0.07253886010362694
+"Phantomite ",14,"Gornilo STrubanov",33,0.029646902065289808
+"Phantomite ",14,"Nala Queen",34,0.037059630928778405
+"Phantomite ",14,"Yondu Quill",35,0.034793379123972526
+"Phantomite ",14,"Rico Shikkoken",36,0.09345509893455099
+"Phantomite ",14,"Lady Death Strike",37,0.044596651445966515
+"Phantomite ",14,"Cael Caderu",38,0.16173120728929385
+"Phantomite ",14,"Kontan Rekor",39,0.016227801592161667
+"Phantomite ",14,"Kilyavi Alaailaa",40,0.038562800061948274
+"Phantomite ",14,"Corporal Fillip",41,0.036645422943221324
+"Phantomite ",14,"Dario Kaelenter",42,0.03317176613147531
+"Phantomite ",14,"Styxx ",43,0.051741436147341266
+"Phantomite ",14,"Sol Weintroub ",44,0.03824032333281517
+"Phantomite ",14,"Grima The Mad",45,0.045376040194693046
+"Phantomite ",14,"Dhuras",46,0.03704310768726438
+"Phantomite ",14,"SeriesPro ",47,0.030051469367424873
+"Phantomite ",14,"Melicien Tetro",48,0.03962512331469911
+"Phantomite ",14,"William Chen",49,0.02663559180955552
+"Pandoralica ",15,"Kazanir",1,0.35344746936102533
+"Pandoralica ",15,"Alcoholic Satan",2,0.02128610729023384
+"Pandoralica ",15,"Luke Anninan",3,0.48359732488560364
+"Pandoralica ",15,"Angry Mustache",4,0.576147262483334
+"Pandoralica ",15,"Storm Delay",5,0.11204307756031893
+"Pandoralica ",15,"Dark Shines",6,0.22702328798708785
+"Pandoralica ",15,"Mike Azariah",7,0.28701464035646085
+"Pandoralica ",15,"The Oz ",8,0.46778575948189227
+"Pandoralica ",15,"Mark Resurrectus",9,0.6387494198557023
+"Pandoralica ",15,"Amelia Duskspace",10,0.20396636124011547
+"Pandoralica ",15,"Dujek Oneye",11,0.6552488228233774
+"Pandoralica ",15,"Torvald Uruz",12,0.0731090311156084
+"Pandoralica ",15,"Arhont Sibirskii",13,0.03549466449629228
+"Pandoralica ",15,"Phantomite ",14,0.07863895787043088
+"Pandoralica ",15,"Pandoralica ",15,1.0
+"Pandoralica ",15,"White 0rchid",16,0.3398220000876847
+"Pandoralica ",15,"Stitch Kaneland",17,0.10425813051447082
+"Pandoralica ",15,"Kelmac",18,0.10619533527696794
+"Pandoralica ",15,"Kshal Aideron",19,0.07342546682139466
+"Pandoralica ",15,"DutchGunner",20,0.07009964462406801
+"Pandoralica ",15,"Velonad Tyldamere",21,0.11447895791583167
+"Pandoralica ",15,"Larkness",22,0.025243689077730568
+"Pandoralica ",15,"Nuke Michael",23,0.15901775039087648
+"Pandoralica ",15,"Lee Adoulin",24,0.011046086320409656
+"Pandoralica ",15,"RGC Godfather ",25,0.011567406856824305
+"Pandoralica ",15,"Drake Iddon",26,0.3595139168118662
+"Pandoralica ",15,"Rots Mijnwerker",27,0.044650855768777406
+"Pandoralica ",15,"Gustav Mannfred",28,0.04482552526320629
+"Pandoralica ",15,"MILINT ARC Trooper",29,0.02313250750750751
+"Pandoralica ",15,"Gideon Zendikar",30,0.057850103140041256
+"Pandoralica ",15,"Twan Molenaar",31,0.01325192862889867
+"Pandoralica ",15,"Gabriell Bemenacth",32,0.015085500117123448
+"Pandoralica ",15,"Gornilo STrubanov",33,0.012671645386653819
+"Pandoralica ",15,"Nala Queen",34,0.02297872340425532
+"Pandoralica ",15,"Yondu Quill",35,0.10423752183105064
+"Pandoralica ",15,"Rico Shikkoken",36,0.015448466682038276
+"Pandoralica ",15,"Lady Death Strike",37,0.020553099426206378
+"Pandoralica ",15,"Cael Caderu",38,0.038038962238020495
+"Pandoralica ",15,"Kontan Rekor",39,0.5035878300803674
+"Pandoralica ",15,"Kilyavi Alaailaa",40,0.02259565176113168
+"Pandoralica ",15,"Corporal Fillip",41,0.012848853274385189
+"Pandoralica ",15,"Dario Kaelenter",42,0.0104040309788187
+"Pandoralica ",15,"Styxx ",43,0.020526509572901325
+"Pandoralica ",15,"Sol Weintroub ",44,0.01966824644549763
+"Pandoralica ",15,"Grima The Mad",45,0.016793604238611096
+"Pandoralica ",15,"Dhuras",46,0.01209947393591583
+"Pandoralica ",15,"SeriesPro ",47,0.013682790518404316
+"Pandoralica ",15,"Melicien Tetro",48,0.010265469824293353
+"Pandoralica ",15,"William Chen",49,0.017094430992736078
+"White 0rchid",16,"Kazanir",1,0.02040816326530612
+"White 0rchid",16,"Alcoholic Satan",2,0.020141185762946143
+"White 0rchid",16,"Luke Anninan",3,0.24539300488905605
+"White 0rchid",16,"Angry Mustache",4,0.2639842534102353
+"White 0rchid",16,"Storm Delay",5,0.15132101708382995
+"White 0rchid",16,"Dark Shines",6,0.23891434614028903
+"White 0rchid",16,"Mike Azariah",7,0.07107776261937244
+"White 0rchid",16,"The Oz ",8,0.21076108168385838
+"White 0rchid",16,"Mark Resurrectus",9,0.32066108378749614
+"White 0rchid",16,"Amelia Duskspace",10,0.2397638784225069
+"White 0rchid",16,"Dujek Oneye",11,0.36290650406504066
+"White 0rchid",16,"Torvald Uruz",12,0.06127989657401422
+"White 0rchid",16,"Arhont Sibirskii",13,0.034619115123479816
+"White 0rchid",16,"Phantomite ",14,0.09133814547473626
+"White 0rchid",16,"Pandoralica ",15,0.3398220000876847
+"White 0rchid",16,"White 0rchid",16,1.0
+"White 0rchid",16,"Stitch Kaneland",17,0.16061356445178154
+"White 0rchid",16,"Kelmac",18,0.15075295514654288
+"White 0rchid",16,"Kshal Aideron",19,0.1330732324563716
+"White 0rchid",16,"DutchGunner",20,0.10674358058093829
+"White 0rchid",16,"Velonad Tyldamere",21,0.14394370569669374
+"White 0rchid",16,"Larkness",22,0.041324937827398274
+"White 0rchid",16,"Nuke Michael",23,0.2760416666666667
+"White 0rchid",16,"Lee Adoulin",24,0.01317652183382337
+"White 0rchid",16,"RGC Godfather ",25,0.023455699252952045
+"White 0rchid",16,"Drake Iddon",26,0.06136217074259636
+"White 0rchid",16,"Rots Mijnwerker",27,0.09104514841606386
+"White 0rchid",16,"Gustav Mannfred",28,0.03017079226544278
+"White 0rchid",16,"MILINT ARC Trooper",29,0.025042138213339754
+"White 0rchid",16,"Gideon Zendikar",30,0.06297782151237605
+"White 0rchid",16,"Twan Molenaar",31,0.019189589853401415
+"White 0rchid",16,"Gabriell Bemenacth",32,0.06231079717457114
+"White 0rchid",16,"Gornilo STrubanov",33,0.014132182449014132
+"White 0rchid",16,"Nala Queen",34,0.033204886447487085
+"White 0rchid",16,"Yondu Quill",35,0.19069176395838297
+"White 0rchid",16,"Rico Shikkoken",36,0.036723614881047424
+"White 0rchid",16,"Lady Death Strike",37,0.03964866196026925
+"White 0rchid",16,"Cael Caderu",38,0.07909513877747473
+"White 0rchid",16,"Kontan Rekor",39,0.18339849941878897
+"White 0rchid",16,"Kilyavi Alaailaa",40,0.03133245382585752
+"White 0rchid",16,"Corporal Fillip",41,0.028818672594474435
+"White 0rchid",16,"Dario Kaelenter",42,0.026009916280581972
+"White 0rchid",16,"Styxx ",43,0.03431989924433249
+"White 0rchid",16,"Sol Weintroub ",44,0.020773697554592296
+"White 0rchid",16,"Grima The Mad",45,0.02898670410438517
+"White 0rchid",16,"Dhuras",46,0.019072424802554194
+"White 0rchid",16,"SeriesPro ",47,0.015220700152207
+"White 0rchid",16,"Melicien Tetro",48,0.019335855401429174
+"White 0rchid",16,"William Chen",49,0.024567711008388976
+"Stitch Kaneland",17,"Kazanir",1,0.021095633538708813
+"Stitch Kaneland",17,"Alcoholic Satan",2,0.019547914676854506
+"Stitch Kaneland",17,"Luke Anninan",3,0.03171783811215428
+"Stitch Kaneland",17,"Angry Mustache",4,0.07249626307922272
+"Stitch Kaneland",17,"Storm Delay",5,0.02539981185324553
+"Stitch Kaneland",17,"Dark Shines",6,0.1107195048568727
+"Stitch Kaneland",17,"Mike Azariah",7,0.104135710747895
+"Stitch Kaneland",17,"The Oz ",8,0.12421953455879142
+"Stitch Kaneland",17,"Mark Resurrectus",9,0.14165758896151054
+"Stitch Kaneland",17,"Amelia Duskspace",10,0.2317551020408163
+"Stitch Kaneland",17,"Dujek Oneye",11,0.0687460830159572
+"Stitch Kaneland",17,"Torvald Uruz",12,0.13342967244701348
+"Stitch Kaneland",17,"Arhont Sibirskii",13,0.04042457091237579
+"Stitch Kaneland",17,"Phantomite ",14,0.26323596531264265
+"Stitch Kaneland",17,"Pandoralica ",15,0.10425813051447082
+"Stitch Kaneland",17,"White 0rchid",16,0.16061356445178154
+"Stitch Kaneland",17,"Stitch Kaneland",17,1.0
+"Stitch Kaneland",17,"Kelmac",18,0.012637462786317517
+"Stitch Kaneland",17,"Kshal Aideron",19,0.08255111225408256
+"Stitch Kaneland",17,"DutchGunner",20,0.07799936688825578
+"Stitch Kaneland",17,"Velonad Tyldamere",21,0.0171308705279105
+"Stitch Kaneland",17,"Larkness",22,0.07014670274889617
+"Stitch Kaneland",17,"Nuke Michael",23,0.11125048243921266
+"Stitch Kaneland",17,"Lee Adoulin",24,0.016239440722400234
+"Stitch Kaneland",17,"RGC Godfather ",25,0.03229100191448628
+"Stitch Kaneland",17,"Drake Iddon",26,0.14678082191780822
+"Stitch Kaneland",17,"Rots Mijnwerker",27,0.12709608730369976
+"Stitch Kaneland",17,"Gustav Mannfred",28,0.07786787502981159
+"Stitch Kaneland",17,"MILINT ARC Trooper",29,0.05813347236704901
+"Stitch Kaneland",17,"Gideon Zendikar",30,0.2084942084942085
+"Stitch Kaneland",17,"Twan Molenaar",31,0.03678839957035446
+"Stitch Kaneland",17,"Gabriell Bemenacth",32,0.09450006857769853
+"Stitch Kaneland",17,"Gornilo STrubanov",33,0.01890201528839472
+"Stitch Kaneland",17,"Nala Queen",34,0.021853708702918112
+"Stitch Kaneland",17,"Yondu Quill",35,0.10957286971453102
+"Stitch Kaneland",17,"Rico Shikkoken",36,0.06874438886751315
+"Stitch Kaneland",17,"Lady Death Strike",37,0.028102142948800205
+"Stitch Kaneland",17,"Cael Caderu",38,0.21064942212438084
+"Stitch Kaneland",17,"Kontan Rekor",39,0.01748953495039853
+"Stitch Kaneland",17,"Kilyavi Alaailaa",40,0.02773779929347115
+"Stitch Kaneland",17,"Corporal Fillip",41,0.031032770605759683
+"Stitch Kaneland",17,"Dario Kaelenter",42,0.03345435684647303
+"Stitch Kaneland",17,"Styxx ",43,0.03575787161337564
+"Stitch Kaneland",17,"Sol Weintroub ",44,0.03367225670143932
+"Stitch Kaneland",17,"Grima The Mad",45,0.026021816270206336
+"Stitch Kaneland",17,"Dhuras",46,0.03088803088803089
+"Stitch Kaneland",17,"SeriesPro ",47,0.01616915422885572
+"Stitch Kaneland",17,"Melicien Tetro",48,0.03275742916378715
+"Stitch Kaneland",17,"William Chen",49,0.02050495187613335
+"Kelmac",18,"Kazanir",1,0.014527096641252834
+"Kelmac",18,"Alcoholic Satan",2,0.4947760648790823
+"Kelmac",18,"Luke Anninan",3,0.3809323989761235
+"Kelmac",18,"Angry Mustache",4,0.113924565111364
+"Kelmac",18,"Storm Delay",5,0.6814489571899012
+"Kelmac",18,"Dark Shines",6,0.016147905452843437
+"Kelmac",18,"Mike Azariah",7,0.24508121483018716
+"Kelmac",18,"The Oz ",8,0.04242905475384934
+"Kelmac",18,"Mark Resurrectus",9,0.10654205607476636
+"Kelmac",18,"Amelia Duskspace",10,0.017552997551955832
+"Kelmac",18,"Dujek Oneye",11,0.11210462541261021
+"Kelmac",18,"Torvald Uruz",12,0.023484848484848483
+"Kelmac",18,"Arhont Sibirskii",13,0.0199342989398238
+"Kelmac",18,"Phantomite ",14,0.021727679747168816
+"Kelmac",18,"Pandoralica ",15,0.10619533527696794
+"Kelmac",18,"White 0rchid",16,0.15075295514654288
+"Kelmac",18,"Stitch Kaneland",17,0.012637462786317517
+"Kelmac",18,"Kelmac",18,1.0
+"Kelmac",18,"Kshal Aideron",19,0.3740236266219095
+"Kelmac",18,"DutchGunner",20,0.3753042141667734
+"Kelmac",18,"Velonad Tyldamere",21,0.720175920835624
+"Kelmac",18,"Larkness",22,0.4124900268368753
+"Kelmac",18,"Nuke Michael",23,0.20747295968534907
+"Kelmac",18,"Lee Adoulin",24,0.5408188897261994
+"Kelmac",18,"RGC Godfather ",25,0.012274892998465639
+"Kelmac",18,"Drake Iddon",26,0.009913258983890954
+"Kelmac",18,"Rots Mijnwerker",27,0.0115122562455948
+"Kelmac",18,"Gustav Mannfred",28,0.016737032569360676
+"Kelmac",18,"MILINT ARC Trooper",29,0.01576394502829426
+"Kelmac",18,"Gideon Zendikar",30,0.0136996336996337
+"Kelmac",18,"Twan Molenaar",31,0.016964733411332106
+"Kelmac",18,"Gabriell Bemenacth",32,0.01048951048951049
+"Kelmac",18,"Gornilo STrubanov",33,0.012987012987012988
+"Kelmac",18,"Nala Queen",34,0.014734774066797643
+"Kelmac",18,"Yondu Quill",35,0.014546452586798408
+"Kelmac",18,"Rico Shikkoken",36,0.01364213197969543
+"Kelmac",18,"Lady Death Strike",37,0.02089478859390364
+"Kelmac",18,"Cael Caderu",38,0.012691131498470948
+"Kelmac",18,"Kontan Rekor",39,0.007033944454528953
+"Kelmac",18,"Kilyavi Alaailaa",40,0.013177400757700544
+"Kelmac",18,"Corporal Fillip",41,0.01439707286032453
+"Kelmac",18,"Dario Kaelenter",42,0.01346718903036239
+"Kelmac",18,"Styxx ",43,0.026507936507936508
+"Kelmac",18,"Sol Weintroub ",44,0.012371134020618556
+"Kelmac",18,"Grima The Mad",45,0.016339056149954383
+"Kelmac",18,"Dhuras",46,0.013257414804113198
+"Kelmac",18,"SeriesPro ",47,0.014268523293794052
+"Kelmac",18,"Melicien Tetro",48,0.009400406504065041
+"Kelmac",18,"William Chen",49,0.016329704510108865
+"Kshal Aideron",19,"Kazanir",1,0.01393425888117599
+"Kshal Aideron",19,"Alcoholic Satan",2,0.40493053663851813
+"Kshal Aideron",19,"Luke Anninan",3,0.2653966796725576
+"Kshal Aideron",19,"Angry Mustache",4,0.03860204120061763
+"Kshal Aideron",19,"Storm Delay",5,0.3509191712868398
+"Kshal Aideron",19,"Dark Shines",6,0.024294808152776966
+"Kshal Aideron",19,"Mike Azariah",7,0.333375839496727
+"Kshal Aideron",19,"The Oz ",8,0.12179984484096198
+"Kshal Aideron",19,"Mark Resurrectus",9,0.06450459470089749
+"Kshal Aideron",19,"Amelia Duskspace",10,0.04685258964143426
+"Kshal Aideron",19,"Dujek Oneye",11,0.07126574685062988
+"Kshal Aideron",19,"Torvald Uruz",12,0.0735910878112713
+"Kshal Aideron",19,"Arhont Sibirskii",13,0.03246995596028962
+"Kshal Aideron",19,"Phantomite ",14,0.03626155878467635
+"Kshal Aideron",19,"Pandoralica ",15,0.07342546682139466
+"Kshal Aideron",19,"White 0rchid",16,0.1330732324563716
+"Kshal Aideron",19,"Stitch Kaneland",17,0.08255111225408256
+"Kshal Aideron",19,"Kelmac",18,0.3740236266219095
+"Kshal Aideron",19,"Kshal Aideron",19,1.0
+"Kshal Aideron",19,"DutchGunner",20,0.579696394686907
+"Kshal Aideron",19,"Velonad Tyldamere",21,0.3578986220472441
+"Kshal Aideron",19,"Larkness",22,0.5024856596558317
+"Kshal Aideron",19,"Nuke Michael",23,0.028296475686699383
+"Kshal Aideron",19,"Lee Adoulin",24,0.4703134895503483
+"Kshal Aideron",19,"RGC Godfather ",25,0.04344255563767759
+"Kshal Aideron",19,"Drake Iddon",26,0.042661199785229656
+"Kshal Aideron",19,"Rots Mijnwerker",27,0.03169097359085534
+"Kshal Aideron",19,"Gustav Mannfred",28,0.0293186614410612
+"Kshal Aideron",19,"MILINT ARC Trooper",29,0.028756058158319872
+"Kshal Aideron",19,"Gideon Zendikar",30,0.03242924528301887
+"Kshal Aideron",19,"Twan Molenaar",31,0.029190992493744787
+"Kshal Aideron",19,"Gabriell Bemenacth",32,0.053961348615410354
+"Kshal Aideron",19,"Gornilo STrubanov",33,0.015035677879714576
+"Kshal Aideron",19,"Nala Queen",34,0.03585558852621167
+"Kshal Aideron",19,"Yondu Quill",35,0.14393881453154875
+"Kshal Aideron",19,"Rico Shikkoken",36,0.04536282185809993
+"Kshal Aideron",19,"Lady Death Strike",37,0.03882217469978615
+"Kshal Aideron",19,"Cael Caderu",38,0.05479559748427673
+"Kshal Aideron",19,"Kontan Rekor",39,0.0624792131895282
+"Kshal Aideron",19,"Kilyavi Alaailaa",40,0.03881069376197218
+"Kshal Aideron",19,"Corporal Fillip",41,0.05398793019083347
+"Kshal Aideron",19,"Dario Kaelenter",42,0.04716745695033691
+"Kshal Aideron",19,"Styxx ",43,0.027601348702266132
+"Kshal Aideron",19,"Sol Weintroub ",44,0.023940765117235707
+"Kshal Aideron",19,"Grima The Mad",45,0.032662898936170214
+"Kshal Aideron",19,"Dhuras",46,0.017328398384925975
+"Kshal Aideron",19,"SeriesPro ",47,0.016645435244161358
+"Kshal Aideron",19,"Melicien Tetro",48,0.026577226797996095
+"Kshal Aideron",19,"William Chen",49,0.019041926393988558
+"DutchGunner",20,"Kazanir",1,0.014929905359582975
+"DutchGunner",20,"Alcoholic Satan",2,0.40783067351906954
+"DutchGunner",20,"Luke Anninan",3,0.26546215290985165
+"DutchGunner",20,"Angry Mustache",4,0.037708348905000376
+"DutchGunner",20,"Storm Delay",5,0.3547544409613375
+"DutchGunner",20,"Dark Shines",6,0.03099738296016284
+"DutchGunner",20,"Mike Azariah",7,0.32892575904324756
+"DutchGunner",20,"The Oz ",8,0.12280895160401278
+"DutchGunner",20,"Mark Resurrectus",9,0.075569915634536
+"DutchGunner",20,"Amelia Duskspace",10,0.04578186596583443
+"DutchGunner",20,"Dujek Oneye",11,0.06217269756270426
+"DutchGunner",20,"Torvald Uruz",12,0.09704753078247054
+"DutchGunner",20,"Arhont Sibirskii",13,0.022162280382007727
+"DutchGunner",20,"Phantomite ",14,0.05340675379818218
+"DutchGunner",20,"Pandoralica ",15,0.07009964462406801
+"DutchGunner",20,"White 0rchid",16,0.10674358058093829
+"DutchGunner",20,"Stitch Kaneland",17,0.07799936688825578
+"DutchGunner",20,"Kelmac",18,0.3753042141667734
+"DutchGunner",20,"Kshal Aideron",19,0.579696394686907
+"DutchGunner",20,"DutchGunner",20,1.0
+"DutchGunner",20,"Velonad Tyldamere",21,0.3630686340537562
+"DutchGunner",20,"Larkness",22,0.4854703415218694
+"DutchGunner",20,"Nuke Michael",23,0.019421719852619746
+"DutchGunner",20,"Lee Adoulin",24,0.4599642051202241
+"DutchGunner",20,"RGC Godfather ",25,0.045568799156733966
+"DutchGunner",20,"Drake Iddon",26,0.05204061706697911
+"DutchGunner",20,"Rots Mijnwerker",27,0.025411292191241216
+"DutchGunner",20,"Gustav Mannfred",28,0.05517451607986587
+"DutchGunner",20,"MILINT ARC Trooper",29,0.03333866325551647
+"DutchGunner",20,"Gideon Zendikar",30,0.027353643534264418
+"DutchGunner",20,"Twan Molenaar",31,0.024531850519257502
+"DutchGunner",20,"Gabriell Bemenacth",32,0.05512005941084248
+"DutchGunner",20,"Gornilo STrubanov",33,0.017094017094017096
+"DutchGunner",20,"Nala Queen",34,0.027301280502536846
+"DutchGunner",20,"Yondu Quill",35,0.12134448804323685
+"DutchGunner",20,"Rico Shikkoken",36,0.036931818181818184
+"DutchGunner",20,"Lady Death Strike",37,0.027904738994467163
+"DutchGunner",20,"Cael Caderu",38,0.05407499225286644
+"DutchGunner",20,"Kontan Rekor",39,0.06117359183097266
+"DutchGunner",20,"Kilyavi Alaailaa",40,0.025678412312677198
+"DutchGunner",20,"Corporal Fillip",41,0.04427809190093175
+"DutchGunner",20,"Dario Kaelenter",42,0.03793663688058489
+"DutchGunner",20,"Styxx ",43,0.03078235248507405
+"DutchGunner",20,"Sol Weintroub ",44,0.02556818181818182
+"DutchGunner",20,"Grima The Mad",45,0.030639758150175667
+"DutchGunner",20,"Dhuras",46,0.024095381023845255
+"DutchGunner",20,"SeriesPro ",47,0.016977502718073096
+"DutchGunner",20,"Melicien Tetro",48,0.028391959798994976
+"DutchGunner",20,"William Chen",49,0.01515659018589851
+"Velonad Tyldamere",21,"Kazanir",1,0.006980974386706652
+"Velonad Tyldamere",21,"Alcoholic Satan",2,0.5023686629427986
+"Velonad Tyldamere",21,"Luke Anninan",3,0.42275701921047076
+"Velonad Tyldamere",21,"Angry Mustache",4,0.10681059862610402
+"Velonad Tyldamere",21,"Storm Delay",5,0.7513633014001474
+"Velonad Tyldamere",21,"Dark Shines",6,0.008834314923880432
+"Velonad Tyldamere",21,"Mike Azariah",7,0.2422135922330097
+"Velonad Tyldamere",21,"The Oz ",8,0.05359085963003264
+"Velonad Tyldamere",21,"Mark Resurrectus",9,0.10389044280576847
+"Velonad Tyldamere",21,"Amelia Duskspace",10,0.040706605222734255
+"Velonad Tyldamere",21,"Dujek Oneye",11,0.1093345207253886
+"Velonad Tyldamere",21,"Torvald Uruz",12,0.02187894452124782
+"Velonad Tyldamere",21,"Arhont Sibirskii",13,0.013821651582123062
+"Velonad Tyldamere",21,"Phantomite ",14,0.02001626321386126
+"Velonad Tyldamere",21,"Pandoralica ",15,0.11447895791583167
+"Velonad Tyldamere",21,"White 0rchid",16,0.14394370569669374
+"Velonad Tyldamere",21,"Stitch Kaneland",17,0.0171308705279105
+"Velonad Tyldamere",21,"Kelmac",18,0.720175920835624
+"Velonad Tyldamere",21,"Kshal Aideron",19,0.3578986220472441
+"Velonad Tyldamere",21,"DutchGunner",20,0.3630686340537562
+"Velonad Tyldamere",21,"Velonad Tyldamere",21,1.0
+"Velonad Tyldamere",21,"Larkness",22,0.39207199780159385
+"Velonad Tyldamere",21,"Nuke Michael",23,0.1962156372724027
+"Velonad Tyldamere",21,"Lee Adoulin",24,0.5045864366914935
+"Velonad Tyldamere",21,"RGC Godfather ",25,0.00862982588947767
+"Velonad Tyldamere",21,"Drake Iddon",26,0.006871592835219204
+"Velonad Tyldamere",21,"Rots Mijnwerker",27,0.00831371394938199
+"Velonad Tyldamere",21,"Gustav Mannfred",28,0.012195986669502943
+"Velonad Tyldamere",21,"MILINT ARC Trooper",29,0.011513407059536435
+"Velonad Tyldamere",21,"Gideon Zendikar",30,0.01078092605390463
+"Velonad Tyldamere",21,"Twan Molenaar",31,0.014801472315764742
+"Velonad Tyldamere",21,"Gabriell Bemenacth",32,0.00916310323762981
+"Velonad Tyldamere",21,"Gornilo STrubanov",33,0.007294004488618147
+"Velonad Tyldamere",21,"Nala Queen",34,0.0108870658590815
+"Velonad Tyldamere",21,"Yondu Quill",35,0.010248427061036519
+"Velonad Tyldamere",21,"Rico Shikkoken",36,0.009447998809700937
+"Velonad Tyldamere",21,"Lady Death Strike",37,0.009602194787379973
+"Velonad Tyldamere",21,"Cael Caderu",38,0.008986340762041696
+"Velonad Tyldamere",21,"Kontan Rekor",39,0.003756442736088058
+"Velonad Tyldamere",21,"Kilyavi Alaailaa",40,0.008396240949006317
+"Velonad Tyldamere",21,"Corporal Fillip",41,0.009241317633030257
+"Velonad Tyldamere",21,"Dario Kaelenter",42,0.010173640327392335
+"Velonad Tyldamere",21,"Styxx ",43,0.04931946780853341
+"Velonad Tyldamere",21,"Sol Weintroub ",44,0.007713668620796051
+"Velonad Tyldamere",21,"Grima The Mad",45,0.009832765562093528
+"Velonad Tyldamere",21,"Dhuras",46,0.007849044636486165
+"Velonad Tyldamere",21,"SeriesPro ",47,0.008329995995194232
+"Velonad Tyldamere",21,"Melicien Tetro",48,0.010656911086368697
+"Velonad Tyldamere",21,"William Chen",49,0.009571302179683102
+"Larkness",22,"Kazanir",1,0.014326647564469915
+"Larkness",22,"Alcoholic Satan",2,0.4493992606284658
+"Larkness",22,"Luke Anninan",3,0.2256104730921491
+"Larkness",22,"Angry Mustache",4,0.024451335877862596
+"Larkness",22,"Storm Delay",5,0.3845305301408085
+"Larkness",22,"Dark Shines",6,0.02904998691442031
+"Larkness",22,"Mike Azariah",7,0.3166733484787741
+"Larkness",22,"The Oz ",8,0.06136633957775795
+"Larkness",22,"Mark Resurrectus",9,0.026884089907448214
+"Larkness",22,"Amelia Duskspace",10,0.04258665889892223
+"Larkness",22,"Dujek Oneye",11,0.017186609106459232
+"Larkness",22,"Torvald Uruz",12,0.06202171853363458
+"Larkness",22,"Arhont Sibirskii",13,0.027435897435897437
+"Larkness",22,"Phantomite ",14,0.04802899864068872
+"Larkness",22,"Pandoralica ",15,0.025243689077730568
+"Larkness",22,"White 0rchid",16,0.041324937827398274
+"Larkness",22,"Stitch Kaneland",17,0.07014670274889617
+"Larkness",22,"Kelmac",18,0.4124900268368753
+"Larkness",22,"Kshal Aideron",19,0.5024856596558317
+"Larkness",22,"DutchGunner",20,0.4854703415218694
+"Larkness",22,"Velonad Tyldamere",21,0.39207199780159385
+"Larkness",22,"Larkness",22,1.0
+"Larkness",22,"Nuke Michael",23,0.02139189960068454
+"Larkness",22,"Lee Adoulin",24,0.5309160653941
+"Larkness",22,"RGC Godfather ",25,0.04108934543717153
+"Larkness",22,"Drake Iddon",26,0.04562229234636573
+"Larkness",22,"Rots Mijnwerker",27,0.020637219406227373
+"Larkness",22,"Gustav Mannfred",28,0.03080403759136791
+"Larkness",22,"MILINT ARC Trooper",29,0.035348749052312355
+"Larkness",22,"Gideon Zendikar",30,0.05101249461439035
+"Larkness",22,"Twan Molenaar",31,0.02772083943387018
+"Larkness",22,"Gabriell Bemenacth",32,0.05506651017214397
+"Larkness",22,"Gornilo STrubanov",33,0.01981691982697918
+"Larkness",22,"Nala Queen",34,0.030070867649875502
+"Larkness",22,"Yondu Quill",35,0.033734371313989146
+"Larkness",22,"Rico Shikkoken",36,0.037243947858473
+"Larkness",22,"Lady Death Strike",37,0.033925840978593275
+"Larkness",22,"Cael Caderu",38,0.06311257671521481
+"Larkness",22,"Kontan Rekor",39,0.009777908805031446
+"Larkness",22,"Kilyavi Alaailaa",40,0.018046405041535377
+"Larkness",22,"Corporal Fillip",41,0.05326509335607999
+"Larkness",22,"Dario Kaelenter",42,0.04296912803638827
+"Larkness",22,"Styxx ",43,0.03576669112252384
+"Larkness",22,"Sol Weintroub ",44,0.01926394479585969
+"Larkness",22,"Grima The Mad",45,0.03541117939713199
+"Larkness",22,"Dhuras",46,0.021659215101838054
+"Larkness",22,"SeriesPro ",47,0.021618903971845148
+"Larkness",22,"Melicien Tetro",48,0.025438946528332004
+"Larkness",22,"William Chen",49,0.017386934673366834
+"Nuke Michael",23,"Kazanir",1,0.01585527694349375
+"Nuke Michael",23,"Alcoholic Satan",2,0.021962616822429906
+"Nuke Michael",23,"Luke Anninan",3,0.11441647597254005
+"Nuke Michael",23,"Angry Mustache",4,0.16236682682264467
+"Nuke Michael",23,"Storm Delay",5,0.1921225090276849
+"Nuke Michael",23,"Dark Shines",6,0.033671742808798644
+"Nuke Michael",23,"Mike Azariah",7,0.03566458590115701
+"Nuke Michael",23,"The Oz ",8,0.035430792128328094
+"Nuke Michael",23,"Mark Resurrectus",9,0.16963260619977039
+"Nuke Michael",23,"Amelia Duskspace",10,0.07566920891281591
+"Nuke Michael",23,"Dujek Oneye",11,0.15988544874912194
+"Nuke Michael",23,"Torvald Uruz",12,0.04536004536004536
+"Nuke Michael",23,"Arhont Sibirskii",13,0.05334158415841584
+"Nuke Michael",23,"Phantomite ",14,0.13497536945812807
+"Nuke Michael",23,"Pandoralica ",15,0.15901775039087648
+"Nuke Michael",23,"White 0rchid",16,0.2760416666666667
+"Nuke Michael",23,"Stitch Kaneland",17,0.11125048243921266
+"Nuke Michael",23,"Kelmac",18,0.20747295968534907
+"Nuke Michael",23,"Kshal Aideron",19,0.028296475686699383
+"Nuke Michael",23,"DutchGunner",20,0.019421719852619746
+"Nuke Michael",23,"Velonad Tyldamere",21,0.1962156372724027
+"Nuke Michael",23,"Larkness",22,0.02139189960068454
+"Nuke Michael",23,"Nuke Michael",23,1.0
+"Nuke Michael",23,"Lee Adoulin",24,0.012221203788573174
+"Nuke Michael",23,"RGC Godfather ",25,0.022428353869583275
+"Nuke Michael",23,"Drake Iddon",26,0.057350032959789056
+"Nuke Michael",23,"Rots Mijnwerker",27,0.04860923575479341
+"Nuke Michael",23,"Gustav Mannfred",28,0.03079015704216644
+"Nuke Michael",23,"MILINT ARC Trooper",29,0.04998583970546587
+"Nuke Michael",23,"Gideon Zendikar",30,0.09421841541755889
+"Nuke Michael",23,"Twan Molenaar",31,0.039236008291382886
+"Nuke Michael",23,"Gabriell Bemenacth",32,0.024640946212334553
+"Nuke Michael",23,"Gornilo STrubanov",33,0.020477290223248654
+"Nuke Michael",23,"Nala Queen",34,0.02765565168061268
+"Nuke Michael",23,"Yondu Quill",35,0.03914590747330961
+"Nuke Michael",23,"Rico Shikkoken",36,0.04577850877192982
+"Nuke Michael",23,"Lady Death Strike",37,0.0327822523668221
+"Nuke Michael",23,"Cael Caderu",38,0.10119695321001088
+"Nuke Michael",23,"Kontan Rekor",39,0.00977719838824366
+"Nuke Michael",23,"Kilyavi Alaailaa",40,0.037122969837587005
+"Nuke Michael",23,"Corporal Fillip",41,0.02632289416846652
+"Nuke Michael",23,"Dario Kaelenter",42,0.031511710432931155
+"Nuke Michael",23,"Styxx ",43,0.03772830289294761
+"Nuke Michael",23,"Sol Weintroub ",44,0.037419918462434476
+"Nuke Michael",23,"Grima The Mad",45,0.030461270670147953
+"Nuke Michael",23,"Dhuras",46,0.021722733443958364
+"Nuke Michael",23,"SeriesPro ",47,0.027185665739882608
+"Nuke Michael",23,"Melicien Tetro",48,0.022198731501057084
+"Nuke Michael",23,"William Chen",49,0.030383296977251482
+"Lee Adoulin",24,"Kazanir",1,0.012098456403838132
+"Lee Adoulin",24,"Alcoholic Satan",2,0.58483657796035
+"Lee Adoulin",24,"Luke Anninan",3,0.26915479342663806
+"Lee Adoulin",24,"Angry Mustache",4,0.015377657168701944
+"Lee Adoulin",24,"Storm Delay",5,0.48179292190699036
+"Lee Adoulin",24,"Dark Shines",6,0.018626633305532388
+"Lee Adoulin",24,"Mike Azariah",7,0.2806725711459785
+"Lee Adoulin",24,"The Oz ",8,0.04573646360488566
+"Lee Adoulin",24,"Mark Resurrectus",9,0.011055125216214184
+"Lee Adoulin",24,"Amelia Duskspace",10,0.013982642237222759
+"Lee Adoulin",24,"Dujek Oneye",11,0.011210288083252253
+"Lee Adoulin",24,"Torvald Uruz",12,0.02810143934201508
+"Lee Adoulin",24,"Arhont Sibirskii",13,0.018511627906976743
+"Lee Adoulin",24,"Phantomite ",14,0.01812688821752266
+"Lee Adoulin",24,"Pandoralica ",15,0.011046086320409656
+"Lee Adoulin",24,"White 0rchid",16,0.01317652183382337
+"Lee Adoulin",24,"Stitch Kaneland",17,0.016239440722400234
+"Lee Adoulin",24,"Kelmac",18,0.5408188897261994
+"Lee Adoulin",24,"Kshal Aideron",19,0.4703134895503483
+"Lee Adoulin",24,"DutchGunner",20,0.4599642051202241
+"Lee Adoulin",24,"Velonad Tyldamere",21,0.5045864366914935
+"Lee Adoulin",24,"Larkness",22,0.5309160653941
+"Lee Adoulin",24,"Nuke Michael",23,0.012221203788573174
+"Lee Adoulin",24,"Lee Adoulin",24,1.0
+"Lee Adoulin",24,"RGC Godfather ",25,0.02708071936428273
+"Lee Adoulin",24,"Drake Iddon",26,0.009726775956284153
+"Lee Adoulin",24,"Rots Mijnwerker",27,0.014314115308151094
+"Lee Adoulin",24,"Gustav Mannfred",28,0.021910272218533623
+"Lee Adoulin",24,"MILINT ARC Trooper",29,0.020613217319245907
+"Lee Adoulin",24,"Gideon Zendikar",30,0.024307154037381457
+"Lee Adoulin",24,"Twan Molenaar",31,0.028605612355884272
+"Lee Adoulin",24,"Gabriell Bemenacth",32,0.013562858633281168
+"Lee Adoulin",24,"Gornilo STrubanov",33,0.013980539089587294
+"Lee Adoulin",24,"Nala Queen",34,0.03032237472071497
+"Lee Adoulin",24,"Yondu Quill",35,0.03346743131045108
+"Lee Adoulin",24,"Rico Shikkoken",36,0.02431580018313155
+"Lee Adoulin",24,"Lady Death Strike",37,0.02084206116464181
+"Lee Adoulin",24,"Cael Caderu",38,0.013859480269489894
+"Lee Adoulin",24,"Kontan Rekor",39,0.0059388556083453834
+"Lee Adoulin",24,"Kilyavi Alaailaa",40,0.015459551037695892
+"Lee Adoulin",24,"Corporal Fillip",41,0.03547488914097143
+"Lee Adoulin",24,"Dario Kaelenter",42,0.026223961087025485
+"Lee Adoulin",24,"Styxx ",43,0.019956096587507483
+"Lee Adoulin",24,"Sol Weintroub ",44,0.013136984850090051
+"Lee Adoulin",24,"Grima The Mad",45,0.021080791867308723
+"Lee Adoulin",24,"Dhuras",46,0.013422818791946308
+"Lee Adoulin",24,"SeriesPro ",47,0.015759472448865542
+"Lee Adoulin",24,"Melicien Tetro",48,0.01701093560145808
+"Lee Adoulin",24,"William Chen",49,0.015710919088766692
+"RGC Godfather ",25,"Kazanir",1,0.01534667032063579
+"RGC Godfather ",25,"Alcoholic Satan",2,0.018431204457779682
+"RGC Godfather ",25,"Luke Anninan",3,0.011348048385085421
+"RGC Godfather ",25,"Angry Mustache",4,0.02476460022859631
+"RGC Godfather ",25,"Storm Delay",5,0.012090538450724027
+"RGC Godfather ",25,"Dark Shines",6,0.027592657547059512
+"RGC Godfather ",25,"Mike Azariah",7,0.03386964073498492
+"RGC Godfather ",25,"The Oz ",8,0.03634097228881005
+"RGC Godfather ",25,"Mark Resurrectus",9,0.013255567338282079
+"RGC Godfather ",25,"Amelia Duskspace",10,0.024593229848513184
+"RGC Godfather ",25,"Dujek Oneye",11,0.013599325653273391
+"RGC Godfather ",25,"Torvald Uruz",12,0.06844904815229563
+"RGC Godfather ",25,"Arhont Sibirskii",13,0.04589421691706112
+"RGC Godfather ",25,"Phantomite ",14,0.033820023837902266
+"RGC Godfather ",25,"Pandoralica ",15,0.011567406856824305
+"RGC Godfather ",25,"White 0rchid",16,0.023455699252952045
+"RGC Godfather ",25,"Stitch Kaneland",17,0.03229100191448628
+"RGC Godfather ",25,"Kelmac",18,0.012274892998465639
+"RGC Godfather ",25,"Kshal Aideron",19,0.04344255563767759
+"RGC Godfather ",25,"DutchGunner",20,0.045568799156733966
+"RGC Godfather ",25,"Velonad Tyldamere",21,0.00862982588947767
+"RGC Godfather ",25,"Larkness",22,0.04108934543717153
+"RGC Godfather ",25,"Nuke Michael",23,0.022428353869583275
+"RGC Godfather ",25,"Lee Adoulin",24,0.02708071936428273
+"RGC Godfather ",25,"RGC Godfather ",25,1.0
+"RGC Godfather ",25,"Drake Iddon",26,0.01586917995811181
+"RGC Godfather ",25,"Rots Mijnwerker",27,0.032864967849487975
+"RGC Godfather ",25,"Gustav Mannfred",28,0.050074898352236254
+"RGC Godfather ",25,"MILINT ARC Trooper",29,0.06806002143622722
+"RGC Godfather ",25,"Gideon Zendikar",30,0.03280298566097034
+"RGC Godfather ",25,"Twan Molenaar",31,0.05032182562902282
+"RGC Godfather ",25,"Gabriell Bemenacth",32,0.03413061005106154
+"RGC Godfather ",25,"Gornilo STrubanov",33,0.05230263157894737
+"RGC Godfather ",25,"Nala Queen",34,0.07551422936038321
+"RGC Godfather ",25,"Yondu Quill",35,0.05382003395585738
+"RGC Godfather ",25,"Rico Shikkoken",36,0.06678517013712544
+"RGC Godfather ",25,"Lady Death Strike",37,0.07152720243026787
+"RGC Godfather ",25,"Cael Caderu",38,0.02256792287467134
+"RGC Godfather ",25,"Kontan Rekor",39,0.014307004470938897
+"RGC Godfather ",25,"Kilyavi Alaailaa",40,0.04461279461279461
+"RGC Godfather ",25,"Corporal Fillip",41,0.1423097974822113
+"RGC Godfather ",25,"Dario Kaelenter",42,0.1371851851851852
+"RGC Godfather ",25,"Styxx ",43,0.056269706524375455
+"RGC Godfather ",25,"Sol Weintroub ",44,0.04024767801857585
+"RGC Godfather ",25,"Grima The Mad",45,0.08247422680412371
+"RGC Godfather ",25,"Dhuras",46,0.041744548286604365
+"RGC Godfather ",25,"SeriesPro ",47,0.05021193348549071
+"RGC Godfather ",25,"Melicien Tetro",48,0.07430041814088131
+"RGC Godfather ",25,"William Chen",49,0.04359226483120288
+"Drake Iddon",26,"Kazanir",1,0.5624753022998499
+"Drake Iddon",26,"Alcoholic Satan",2,0.014524974062546317
+"Drake Iddon",26,"Luke Anninan",3,0.2680198362357283
+"Drake Iddon",26,"Angry Mustache",4,0.3886615128088525
+"Drake Iddon",26,"Storm Delay",5,0.012606518492488799
+"Drake Iddon",26,"Dark Shines",6,0.036236188665795414
+"Drake Iddon",26,"Mike Azariah",7,0.35110381474921154
+"Drake Iddon",26,"The Oz ",8,0.38078730100807373
+"Drake Iddon",26,"Mark Resurrectus",9,0.4083143507972665
+"Drake Iddon",26,"Amelia Duskspace",10,0.07122569368582041
+"Drake Iddon",26,"Dujek Oneye",11,0.39252921535893154
+"Drake Iddon",26,"Torvald Uruz",12,0.058143311895017216
+"Drake Iddon",26,"Arhont Sibirskii",13,0.019746121297602257
+"Drake Iddon",26,"Phantomite ",14,0.10926163038839096
+"Drake Iddon",26,"Pandoralica ",15,0.3595139168118662
+"Drake Iddon",26,"White 0rchid",16,0.06136217074259636
+"Drake Iddon",26,"Stitch Kaneland",17,0.14678082191780822
+"Drake Iddon",26,"Kelmac",18,0.009913258983890954
+"Drake Iddon",26,"Kshal Aideron",19,0.042661199785229656
+"Drake Iddon",26,"DutchGunner",20,0.05204061706697911
+"Drake Iddon",26,"Velonad Tyldamere",21,0.006871592835219204
+"Drake Iddon",26,"Larkness",22,0.04562229234636573
+"Drake Iddon",26,"Nuke Michael",23,0.057350032959789056
+"Drake Iddon",26,"Lee Adoulin",24,0.009726775956284153
+"Drake Iddon",26,"RGC Godfather ",25,0.01586917995811181
+"Drake Iddon",26,"Drake Iddon",26,1.0
+"Drake Iddon",26,"Rots Mijnwerker",27,0.01818181818181818
+"Drake Iddon",26,"Gustav Mannfred",28,0.026335704555774178
+"Drake Iddon",26,"MILINT ARC Trooper",29,0.027305973181633483
+"Drake Iddon",26,"Gideon Zendikar",30,0.09036050156739812
+"Drake Iddon",26,"Twan Molenaar",31,0.020331639030080825
+"Drake Iddon",26,"Gabriell Bemenacth",32,0.06963812131063393
+"Drake Iddon",26,"Gornilo STrubanov",33,0.01394234881532803
+"Drake Iddon",26,"Nala Queen",34,0.01762402088772846
+"Drake Iddon",26,"Yondu Quill",35,0.01655266757865937
+"Drake Iddon",26,"Rico Shikkoken",36,0.029880637667227428
+"Drake Iddon",26,"Lady Death Strike",37,0.020017902188949468
+"Drake Iddon",26,"Cael Caderu",38,0.10721409574468085
+"Drake Iddon",26,"Kontan Rekor",39,0.469284064665127
+"Drake Iddon",26,"Kilyavi Alaailaa",40,0.018178827013243398
+"Drake Iddon",26,"Corporal Fillip",41,0.018255417096594968
+"Drake Iddon",26,"Dario Kaelenter",42,0.020003265839320706
+"Drake Iddon",26,"Styxx ",43,0.019352816735877146
+"Drake Iddon",26,"Sol Weintroub ",44,0.01754819574888779
+"Drake Iddon",26,"Grima The Mad",45,0.0182508877694277
+"Drake Iddon",26,"Dhuras",46,0.018677307071907633
+"Drake Iddon",26,"SeriesPro ",47,0.011584327086882453
+"Drake Iddon",26,"Melicien Tetro",48,0.027673063742289238
+"Drake Iddon",26,"William Chen",49,0.015003429355281208
+"Rots Mijnwerker",27,"Kazanir",1,0.020143757210045257
+"Rots Mijnwerker",27,"Alcoholic Satan",2,0.01869391824526421
+"Rots Mijnwerker",27,"Luke Anninan",3,0.027698066126013724
+"Rots Mijnwerker",27,"Angry Mustache",4,0.03130033286803393
+"Rots Mijnwerker",27,"Storm Delay",5,0.011290543314629807
+"Rots Mijnwerker",27,"Dark Shines",6,0.09872993050563145
+"Rots Mijnwerker",27,"Mike Azariah",7,0.02623594502944851
+"Rots Mijnwerker",27,"The Oz ",8,0.03676297308761842
+"Rots Mijnwerker",27,"Mark Resurrectus",9,0.04501953125
+"Rots Mijnwerker",27,"Amelia Duskspace",10,0.08238663484486873
+"Rots Mijnwerker",27,"Dujek Oneye",11,0.057472584256760634
+"Rots Mijnwerker",27,"Torvald Uruz",12,0.041184877224892814
+"Rots Mijnwerker",27,"Arhont Sibirskii",13,0.05851579151327262
+"Rots Mijnwerker",27,"Phantomite ",14,0.057956352073999136
+"Rots Mijnwerker",27,"Pandoralica ",15,0.044650855768777406
+"Rots Mijnwerker",27,"White 0rchid",16,0.09104514841606386
+"Rots Mijnwerker",27,"Stitch Kaneland",17,0.12709608730369976
+"Rots Mijnwerker",27,"Kelmac",18,0.0115122562455948
+"Rots Mijnwerker",27,"Kshal Aideron",19,0.03169097359085534
+"Rots Mijnwerker",27,"DutchGunner",20,0.025411292191241216
+"Rots Mijnwerker",27,"Velonad Tyldamere",21,0.00831371394938199
+"Rots Mijnwerker",27,"Larkness",22,0.020637219406227373
+"Rots Mijnwerker",27,"Nuke Michael",23,0.04860923575479341
+"Rots Mijnwerker",27,"Lee Adoulin",24,0.014314115308151094
+"Rots Mijnwerker",27,"RGC Godfather ",25,0.032864967849487975
+"Rots Mijnwerker",27,"Drake Iddon",26,0.01818181818181818
+"Rots Mijnwerker",27,"Rots Mijnwerker",27,1.0
+"Rots Mijnwerker",27,"Gustav Mannfred",28,0.043409629044988164
+"Rots Mijnwerker",27,"MILINT ARC Trooper",29,0.046489336208962374
+"Rots Mijnwerker",27,"Gideon Zendikar",30,0.05244494214259052
+"Rots Mijnwerker",27,"Twan Molenaar",31,0.04335260115606936
+"Rots Mijnwerker",27,"Gabriell Bemenacth",32,0.03651960784313726
+"Rots Mijnwerker",27,"Gornilo STrubanov",33,0.026965002868617326
+"Rots Mijnwerker",27,"Nala Queen",34,0.044278606965174126
+"Rots Mijnwerker",27,"Yondu Quill",35,0.1707837213435223
+"Rots Mijnwerker",27,"Rico Shikkoken",36,0.04302299112223993
+"Rots Mijnwerker",27,"Lady Death Strike",37,0.04899064500246184
+"Rots Mijnwerker",27,"Cael Caderu",38,0.03889689236468409
+"Rots Mijnwerker",27,"Kontan Rekor",39,0.015899520836358358
+"Rots Mijnwerker",27,"Kilyavi Alaailaa",40,0.03219315895372234
+"Rots Mijnwerker",27,"Corporal Fillip",41,0.035698044565711684
+"Rots Mijnwerker",27,"Dario Kaelenter",42,0.03028083028083028
+"Rots Mijnwerker",27,"Styxx ",43,0.035643997375902035
+"Rots Mijnwerker",27,"Sol Weintroub ",44,0.03372210953346856
+"Rots Mijnwerker",27,"Grima The Mad",45,0.037871033776867964
+"Rots Mijnwerker",27,"Dhuras",46,0.036738101864736986
+"Rots Mijnwerker",27,"SeriesPro ",47,0.03357245337159254
+"Rots Mijnwerker",27,"Melicien Tetro",48,0.03389830508474576
+"Rots Mijnwerker",27,"William Chen",49,0.043923865300146414
+"Gustav Mannfred",28,"Kazanir",1,0.022715714527886084
+"Gustav Mannfred",28,"Alcoholic Satan",2,0.025495524296675193
+"Gustav Mannfred",28,"Luke Anninan",3,0.011118665760108786
+"Gustav Mannfred",28,"Angry Mustache",4,0.034574746312375775
+"Gustav Mannfred",28,"Storm Delay",5,0.020613072677704635
+"Gustav Mannfred",28,"Dark Shines",6,0.05240410588870881
+"Gustav Mannfred",28,"Mike Azariah",7,0.04204429904062956
+"Gustav Mannfred",28,"The Oz ",8,0.06357809407107173
+"Gustav Mannfred",28,"Mark Resurrectus",9,0.037197885196374625
+"Gustav Mannfred",28,"Amelia Duskspace",10,0.08392499544875295
+"Gustav Mannfred",28,"Dujek Oneye",11,0.01686927649547475
+"Gustav Mannfred",28,"Torvald Uruz",12,0.17766497461928935
+"Gustav Mannfred",28,"Arhont Sibirskii",13,0.07674460110655006
+"Gustav Mannfred",28,"Phantomite ",14,0.09355509355509356
+"Gustav Mannfred",28,"Pandoralica ",15,0.04482552526320629
+"Gustav Mannfred",28,"White 0rchid",16,0.03017079226544278
+"Gustav Mannfred",28,"Stitch Kaneland",17,0.07786787502981159
+"Gustav Mannfred",28,"Kelmac",18,0.016737032569360676
+"Gustav Mannfred",28,"Kshal Aideron",19,0.0293186614410612
+"Gustav Mannfred",28,"DutchGunner",20,0.05517451607986587
+"Gustav Mannfred",28,"Velonad Tyldamere",21,0.012195986669502943
+"Gustav Mannfred",28,"Larkness",22,0.03080403759136791
+"Gustav Mannfred",28,"Nuke Michael",23,0.03079015704216644
+"Gustav Mannfred",28,"Lee Adoulin",24,0.021910272218533623
+"Gustav Mannfred",28,"RGC Godfather ",25,0.050074898352236254
+"Gustav Mannfred",28,"Drake Iddon",26,0.026335704555774178
+"Gustav Mannfred",28,"Rots Mijnwerker",27,0.043409629044988164
+"Gustav Mannfred",28,"Gustav Mannfred",28,1.0
+"Gustav Mannfred",28,"MILINT ARC Trooper",29,0.05559119093435963
+"Gustav Mannfred",28,"Gideon Zendikar",30,0.05973715651135006
+"Gustav Mannfred",28,"Twan Molenaar",31,0.046072333563695
+"Gustav Mannfred",28,"Gabriell Bemenacth",32,0.041901867129830656
+"Gustav Mannfred",28,"Gornilo STrubanov",33,0.042975622015581805
+"Gustav Mannfred",28,"Nala Queen",34,0.06026239715365799
+"Gustav Mannfred",28,"Yondu Quill",35,0.04587960257159556
+"Gustav Mannfred",28,"Rico Shikkoken",36,0.06139266584260404
+"Gustav Mannfred",28,"Lady Death Strike",37,0.05411302640192014
+"Gustav Mannfred",28,"Cael Caderu",38,0.04017774486206258
+"Gustav Mannfred",28,"Kontan Rekor",39,0.016543347759318722
+"Gustav Mannfred",28,"Kilyavi Alaailaa",40,0.06106696935300795
+"Gustav Mannfred",28,"Corporal Fillip",41,0.051929392446633825
+"Gustav Mannfred",28,"Dario Kaelenter",42,0.04472076788830716
+"Gustav Mannfred",28,"Styxx ",43,0.06631832797427653
+"Gustav Mannfred",28,"Sol Weintroub ",44,0.06363012130922407
+"Gustav Mannfred",28,"Grima The Mad",45,0.06467203682393556
+"Gustav Mannfred",28,"Dhuras",46,0.05218030377266046
+"Gustav Mannfred",28,"SeriesPro ",47,0.04039900249376559
+"Gustav Mannfred",28,"Melicien Tetro",48,0.03873154199951585
+"Gustav Mannfred",28,"William Chen",49,0.04498357341420268
+"MILINT ARC Trooper",29,"Kazanir",1,0.016045218342601877
+"MILINT ARC Trooper",29,"Alcoholic Satan",2,0.02398761929326799
+"MILINT ARC Trooper",29,"Luke Anninan",3,0.009280742459396751
+"MILINT ARC Trooper",29,"Angry Mustache",4,0.024891304347826087
+"MILINT ARC Trooper",29,"Storm Delay",5,0.016700725812134453
+"MILINT ARC Trooper",29,"Dark Shines",6,0.0330326812697669
+"MILINT ARC Trooper",29,"Mike Azariah",7,0.03434260400968169
+"MILINT ARC Trooper",29,"The Oz ",8,0.03569377990430622
+"MILINT ARC Trooper",29,"Mark Resurrectus",9,0.02462886347043076
+"MILINT ARC Trooper",29,"Amelia Duskspace",10,0.0454848225330669
+"MILINT ARC Trooper",29,"Dujek Oneye",11,0.012497197937682135
+"MILINT ARC Trooper",29,"Torvald Uruz",12,0.07070001397233477
+"MILINT ARC Trooper",29,"Arhont Sibirskii",13,0.038180341186027617
+"MILINT ARC Trooper",29,"Phantomite ",14,0.07264891488379252
+"MILINT ARC Trooper",29,"Pandoralica ",15,0.02313250750750751
+"MILINT ARC Trooper",29,"White 0rchid",16,0.025042138213339754
+"MILINT ARC Trooper",29,"Stitch Kaneland",17,0.05813347236704901
+"MILINT ARC Trooper",29,"Kelmac",18,0.01576394502829426
+"MILINT ARC Trooper",29,"Kshal Aideron",19,0.028756058158319872
+"MILINT ARC Trooper",29,"DutchGunner",20,0.03333866325551647
+"MILINT ARC Trooper",29,"Velonad Tyldamere",21,0.011513407059536435
+"MILINT ARC Trooper",29,"Larkness",22,0.035348749052312355
+"MILINT ARC Trooper",29,"Nuke Michael",23,0.04998583970546587
+"MILINT ARC Trooper",29,"Lee Adoulin",24,0.020613217319245907
+"MILINT ARC Trooper",29,"RGC Godfather ",25,0.06806002143622722
+"MILINT ARC Trooper",29,"Drake Iddon",26,0.027305973181633483
+"MILINT ARC Trooper",29,"Rots Mijnwerker",27,0.046489336208962374
+"MILINT ARC Trooper",29,"Gustav Mannfred",28,0.05559119093435963
+"MILINT ARC Trooper",29,"MILINT ARC Trooper",29,1.0
+"MILINT ARC Trooper",29,"Gideon Zendikar",30,0.05464698843238931
+"MILINT ARC Trooper",29,"Twan Molenaar",31,0.03903559127439724
+"MILINT ARC Trooper",29,"Gabriell Bemenacth",32,0.039399624765478425
+"MILINT ARC Trooper",29,"Gornilo STrubanov",33,0.03593198588386269
+"MILINT ARC Trooper",29,"Nala Queen",34,0.04566458276705627
+"MILINT ARC Trooper",29,"Yondu Quill",35,0.03759773748128431
+"MILINT ARC Trooper",29,"Rico Shikkoken",36,0.05563872255489022
+"MILINT ARC Trooper",29,"Lady Death Strike",37,0.056471223993515264
+"MILINT ARC Trooper",29,"Cael Caderu",38,0.050078247261345854
+"MILINT ARC Trooper",29,"Kontan Rekor",39,0.01164256581386726
+"MILINT ARC Trooper",29,"Kilyavi Alaailaa",40,0.04979020979020979
+"MILINT ARC Trooper",29,"Corporal Fillip",41,0.06376518218623482
+"MILINT ARC Trooper",29,"Dario Kaelenter",42,0.06147091108671789
+"MILINT ARC Trooper",29,"Styxx ",43,0.0545935545935546
+"MILINT ARC Trooper",29,"Sol Weintroub ",44,0.048691246833661696
+"MILINT ARC Trooper",29,"Grima The Mad",45,0.06741573033707865
+"MILINT ARC Trooper",29,"Dhuras",46,0.04652605459057072
+"MILINT ARC Trooper",29,"SeriesPro ",47,0.044330228075811114
+"MILINT ARC Trooper",29,"Melicien Tetro",48,0.046258925799441165
+"MILINT ARC Trooper",29,"William Chen",49,0.04554326610279766
+"Gideon Zendikar",30,"Kazanir",1,0.018872569131041274
+"Gideon Zendikar",30,"Alcoholic Satan",2,0.02012072434607646
+"Gideon Zendikar",30,"Luke Anninan",3,0.007467966354846317
+"Gideon Zendikar",30,"Angry Mustache",4,0.031831462401968325
+"Gideon Zendikar",30,"Storm Delay",5,0.01683937823834197
+"Gideon Zendikar",30,"Dark Shines",6,0.05455115477061344
+"Gideon Zendikar",30,"Mike Azariah",7,0.0431275074132217
+"Gideon Zendikar",30,"The Oz ",8,0.04935897435897436
+"Gideon Zendikar",30,"Mark Resurrectus",9,0.06875089768755685
+"Gideon Zendikar",30,"Amelia Duskspace",10,0.125608300431549
+"Gideon Zendikar",30,"Dujek Oneye",11,0.03800118082765284
+"Gideon Zendikar",30,"Torvald Uruz",12,0.08342427549411907
+"Gideon Zendikar",30,"Arhont Sibirskii",13,0.03670022734654108
+"Gideon Zendikar",30,"Phantomite ",14,0.21441202475685234
+"Gideon Zendikar",30,"Pandoralica ",15,0.057850103140041256
+"Gideon Zendikar",30,"White 0rchid",16,0.06297782151237605
+"Gideon Zendikar",30,"Stitch Kaneland",17,0.2084942084942085
+"Gideon Zendikar",30,"Kelmac",18,0.0136996336996337
+"Gideon Zendikar",30,"Kshal Aideron",19,0.03242924528301887
+"Gideon Zendikar",30,"DutchGunner",20,0.027353643534264418
+"Gideon Zendikar",30,"Velonad Tyldamere",21,0.01078092605390463
+"Gideon Zendikar",30,"Larkness",22,0.05101249461439035
+"Gideon Zendikar",30,"Nuke Michael",23,0.09421841541755889
+"Gideon Zendikar",30,"Lee Adoulin",24,0.024307154037381457
+"Gideon Zendikar",30,"RGC Godfather ",25,0.03280298566097034
+"Gideon Zendikar",30,"Drake Iddon",26,0.09036050156739812
+"Gideon Zendikar",30,"Rots Mijnwerker",27,0.05244494214259052
+"Gideon Zendikar",30,"Gustav Mannfred",28,0.05973715651135006
+"Gideon Zendikar",30,"MILINT ARC Trooper",29,0.05464698843238931
+"Gideon Zendikar",30,"Gideon Zendikar",30,1.0
+"Gideon Zendikar",30,"Twan Molenaar",31,0.06370950206566645
+"Gideon Zendikar",30,"Gabriell Bemenacth",32,0.0720233139050791
+"Gideon Zendikar",30,"Gornilo STrubanov",33,0.03733579165706384
+"Gideon Zendikar",30,"Nala Queen",34,0.047687269750307
+"Gideon Zendikar",30,"Yondu Quill",35,0.042916666666666665
+"Gideon Zendikar",30,"Rico Shikkoken",36,0.07333723425004876
+"Gideon Zendikar",30,"Lady Death Strike",37,0.04139871382636656
+"Gideon Zendikar",30,"Cael Caderu",38,0.17292198860286892
+"Gideon Zendikar",30,"Kontan Rekor",39,0.013454743136721936
+"Gideon Zendikar",30,"Kilyavi Alaailaa",40,0.039081885856079406
+"Gideon Zendikar",30,"Corporal Fillip",41,0.05409047160731473
+"Gideon Zendikar",30,"Dario Kaelenter",42,0.04090724989874443
+"Gideon Zendikar",30,"Styxx ",43,0.04084636614535419
+"Gideon Zendikar",30,"Sol Weintroub ",44,0.04103311810039575
+"Gideon Zendikar",30,"Grima The Mad",45,0.03925662977657131
+"Gideon Zendikar",30,"Dhuras",46,0.03914113173786625
+"Gideon Zendikar",30,"SeriesPro ",47,0.02772097250624858
+"Gideon Zendikar",30,"Melicien Tetro",48,0.037318435754189944
+"Gideon Zendikar",30,"William Chen",49,0.035549399815327794
+"Twan Molenaar",31,"Kazanir",1,0.015397695068959003
+"Twan Molenaar",31,"Alcoholic Satan",2,0.022103861517976033
+"Twan Molenaar",31,"Luke Anninan",3,0.008458527963640954
+"Twan Molenaar",31,"Angry Mustache",4,0.016685940855773997
+"Twan Molenaar",31,"Storm Delay",5,0.01710640765439258
+"Twan Molenaar",31,"Dark Shines",6,0.02482053777831853
+"Twan Molenaar",31,"Mike Azariah",7,0.020311783585511233
+"Twan Molenaar",31,"The Oz ",8,0.020996492576754913
+"Twan Molenaar",31,"Mark Resurrectus",9,0.015336970948237723
+"Twan Molenaar",31,"Amelia Duskspace",10,0.03346994535519126
+"Twan Molenaar",31,"Dujek Oneye",11,0.013768573231598875
+"Twan Molenaar",31,"Torvald Uruz",12,0.04470960322024152
+"Twan Molenaar",31,"Arhont Sibirskii",13,0.04290137107474569
+"Twan Molenaar",31,"Phantomite ",14,0.058113329040566646
+"Twan Molenaar",31,"Pandoralica ",15,0.01325192862889867
+"Twan Molenaar",31,"White 0rchid",16,0.019189589853401415
+"Twan Molenaar",31,"Stitch Kaneland",17,0.03678839957035446
+"Twan Molenaar",31,"Kelmac",18,0.016964733411332106
+"Twan Molenaar",31,"Kshal Aideron",19,0.029190992493744787
+"Twan Molenaar",31,"DutchGunner",20,0.024531850519257502
+"Twan Molenaar",31,"Velonad Tyldamere",21,0.014801472315764742
+"Twan Molenaar",31,"Larkness",22,0.02772083943387018
+"Twan Molenaar",31,"Nuke Michael",23,0.039236008291382886
+"Twan Molenaar",31,"Lee Adoulin",24,0.028605612355884272
+"Twan Molenaar",31,"RGC Godfather ",25,0.05032182562902282
+"Twan Molenaar",31,"Drake Iddon",26,0.020331639030080825
+"Twan Molenaar",31,"Rots Mijnwerker",27,0.04335260115606936
+"Twan Molenaar",31,"Gustav Mannfred",28,0.046072333563695
+"Twan Molenaar",31,"MILINT ARC Trooper",29,0.03903559127439724
+"Twan Molenaar",31,"Gideon Zendikar",30,0.06370950206566645
+"Twan Molenaar",31,"Twan Molenaar",31,1.0
+"Twan Molenaar",31,"Gabriell Bemenacth",32,0.051963746223564956
+"Twan Molenaar",31,"Gornilo STrubanov",33,0.05042639970337412
+"Twan Molenaar",31,"Nala Queen",34,0.055351681957186545
+"Twan Molenaar",31,"Yondu Quill",35,0.04396782841823056
+"Twan Molenaar",31,"Rico Shikkoken",36,0.08732633966543805
+"Twan Molenaar",31,"Lady Death Strike",37,0.05939101597829364
+"Twan Molenaar",31,"Cael Caderu",38,0.055978394303952864
+"Twan Molenaar",31,"Kontan Rekor",39,0.01052792187976808
+"Twan Molenaar",31,"Kilyavi Alaailaa",40,0.05004691898654989
+"Twan Molenaar",31,"Corporal Fillip",41,0.07601017236507487
+"Twan Molenaar",31,"Dario Kaelenter",42,0.054037644201578625
+"Twan Molenaar",31,"Styxx ",43,0.04424083769633508
+"Twan Molenaar",31,"Sol Weintroub ",44,0.0438871473354232
+"Twan Molenaar",31,"Grima The Mad",45,0.051811824539097266
+"Twan Molenaar",31,"Dhuras",46,0.04674868189806678
+"Twan Molenaar",31,"SeriesPro ",47,0.04847594564818215
+"Twan Molenaar",31,"Melicien Tetro",48,0.06100606493043168
+"Twan Molenaar",31,"William Chen",49,0.0437037037037037
+"Gabriell Bemenacth",32,"Kazanir",1,0.014376555156206802
+"Gabriell Bemenacth",32,"Alcoholic Satan",2,0.015352768673451785
+"Gabriell Bemenacth",32,"Luke Anninan",3,0.005604683024037863
+"Gabriell Bemenacth",32,"Angry Mustache",4,0.016286644951140065
+"Gabriell Bemenacth",32,"Storm Delay",5,0.010608203677510608
+"Gabriell Bemenacth",32,"Dark Shines",6,0.024669499527856468
+"Gabriell Bemenacth",32,"Mike Azariah",7,0.0359410952600092
+"Gabriell Bemenacth",32,"The Oz ",8,0.03783053464582127
+"Gabriell Bemenacth",32,"Mark Resurrectus",9,0.015440640932265113
+"Gabriell Bemenacth",32,"Amelia Duskspace",10,0.042872248389887534
+"Gabriell Bemenacth",32,"Dujek Oneye",11,0.011680397246360457
+"Gabriell Bemenacth",32,"Torvald Uruz",12,0.046883695047301055
+"Gabriell Bemenacth",32,"Arhont Sibirskii",13,0.04167539267015707
+"Gabriell Bemenacth",32,"Phantomite ",14,0.07253886010362694
+"Gabriell Bemenacth",32,"Pandoralica ",15,0.015085500117123448
+"Gabriell Bemenacth",32,"White 0rchid",16,0.06231079717457114
+"Gabriell Bemenacth",32,"Stitch Kaneland",17,0.09450006857769853
+"Gabriell Bemenacth",32,"Kelmac",18,0.01048951048951049
+"Gabriell Bemenacth",32,"Kshal Aideron",19,0.053961348615410354
+"Gabriell Bemenacth",32,"DutchGunner",20,0.05512005941084248
+"Gabriell Bemenacth",32,"Velonad Tyldamere",21,0.00916310323762981
+"Gabriell Bemenacth",32,"Larkness",22,0.05506651017214397
+"Gabriell Bemenacth",32,"Nuke Michael",23,0.024640946212334553
+"Gabriell Bemenacth",32,"Lee Adoulin",24,0.013562858633281168
+"Gabriell Bemenacth",32,"RGC Godfather ",25,0.03413061005106154
+"Gabriell Bemenacth",32,"Drake Iddon",26,0.06963812131063393
+"Gabriell Bemenacth",32,"Rots Mijnwerker",27,0.03651960784313726
+"Gabriell Bemenacth",32,"Gustav Mannfred",28,0.041901867129830656
+"Gabriell Bemenacth",32,"MILINT ARC Trooper",29,0.039399624765478425
+"Gabriell Bemenacth",32,"Gideon Zendikar",30,0.0720233139050791
+"Gabriell Bemenacth",32,"Twan Molenaar",31,0.051963746223564956
+"Gabriell Bemenacth",32,"Gabriell Bemenacth",32,1.0
+"Gabriell Bemenacth",32,"Gornilo STrubanov",33,0.03864247311827957
+"Gabriell Bemenacth",32,"Nala Queen",34,0.0447887323943662
+"Gabriell Bemenacth",32,"Yondu Quill",35,0.02745956873315364
+"Gabriell Bemenacth",32,"Rico Shikkoken",36,0.04333418302319653
+"Gabriell Bemenacth",32,"Lady Death Strike",37,0.05422023476802683
+"Gabriell Bemenacth",32,"Cael Caderu",38,0.1383270911360799
+"Gabriell Bemenacth",32,"Kontan Rekor",39,0.015949443274149863
+"Gabriell Bemenacth",32,"Kilyavi Alaailaa",40,0.04329004329004329
+"Gabriell Bemenacth",32,"Corporal Fillip",41,0.040429887410440124
+"Gabriell Bemenacth",32,"Dario Kaelenter",42,0.03410036041031328
+"Gabriell Bemenacth",32,"Styxx ",43,0.04093137254901961
+"Gabriell Bemenacth",32,"Sol Weintroub ",44,0.046674445740956826
+"Gabriell Bemenacth",32,"Grima The Mad",45,0.04757709251101322
+"Gabriell Bemenacth",32,"Dhuras",46,0.03717948717948718
+"Gabriell Bemenacth",32,"SeriesPro ",47,0.03490691489361702
+"Gabriell Bemenacth",32,"Melicien Tetro",48,0.09782608695652174
+"Gabriell Bemenacth",32,"William Chen",49,0.04625850340136054
+"Gornilo STrubanov",33,"Kazanir",1,0.012611203441196598
+"Gornilo STrubanov",33,"Alcoholic Satan",2,0.017378578615201683
+"Gornilo STrubanov",33,"Luke Anninan",3,0.00631803628601921
+"Gornilo STrubanov",33,"Angry Mustache",4,0.010738855640695788
+"Gornilo STrubanov",33,"Storm Delay",5,0.010070344316919659
+"Gornilo STrubanov",33,"Dark Shines",6,0.030271934325295024
+"Gornilo STrubanov",33,"Mike Azariah",7,0.012082773945650663
+"Gornilo STrubanov",33,"The Oz ",8,0.015827408201032435
+"Gornilo STrubanov",33,"Mark Resurrectus",9,0.008460236886632826
+"Gornilo STrubanov",33,"Amelia Duskspace",10,0.02491961414790997
+"Gornilo STrubanov",33,"Dujek Oneye",11,0.010999297917154224
+"Gornilo STrubanov",33,"Torvald Uruz",12,0.03694767003468557
+"Gornilo STrubanov",33,"Arhont Sibirskii",13,0.06790123456790123
+"Gornilo STrubanov",33,"Phantomite ",14,0.029646902065289808
+"Gornilo STrubanov",33,"Pandoralica ",15,0.012671645386653819
+"Gornilo STrubanov",33,"White 0rchid",16,0.014132182449014132
+"Gornilo STrubanov",33,"Stitch Kaneland",17,0.01890201528839472
+"Gornilo STrubanov",33,"Kelmac",18,0.012987012987012988
+"Gornilo STrubanov",33,"Kshal Aideron",19,0.015035677879714576
+"Gornilo STrubanov",33,"DutchGunner",20,0.017094017094017096
+"Gornilo STrubanov",33,"Velonad Tyldamere",21,0.007294004488618147
+"Gornilo STrubanov",33,"Larkness",22,0.01981691982697918
+"Gornilo STrubanov",33,"Nuke Michael",23,0.020477290223248654
+"Gornilo STrubanov",33,"Lee Adoulin",24,0.013980539089587294
+"Gornilo STrubanov",33,"RGC Godfather ",25,0.05230263157894737
+"Gornilo STrubanov",33,"Drake Iddon",26,0.01394234881532803
+"Gornilo STrubanov",33,"Rots Mijnwerker",27,0.026965002868617326
+"Gornilo STrubanov",33,"Gustav Mannfred",28,0.042975622015581805
+"Gornilo STrubanov",33,"MILINT ARC Trooper",29,0.03593198588386269
+"Gornilo STrubanov",33,"Gideon Zendikar",30,0.03733579165706384
+"Gornilo STrubanov",33,"Twan Molenaar",31,0.05042639970337412
+"Gornilo STrubanov",33,"Gabriell Bemenacth",32,0.03864247311827957
+"Gornilo STrubanov",33,"Gornilo STrubanov",33,1.0
+"Gornilo STrubanov",33,"Nala Queen",34,0.04258943781942078
+"Gornilo STrubanov",33,"Yondu Quill",35,0.02985638699924414
+"Gornilo STrubanov",33,"Rico Shikkoken",36,0.05
+"Gornilo STrubanov",33,"Lady Death Strike",37,0.044132397191574725
+"Gornilo STrubanov",33,"Cael Caderu",38,0.026785714285714284
+"Gornilo STrubanov",33,"Kontan Rekor",39,0.009422850412249705
+"Gornilo STrubanov",33,"Kilyavi Alaailaa",40,0.05551601423487545
+"Gornilo STrubanov",33,"Corporal Fillip",41,0.053329223181257705
+"Gornilo STrubanov",33,"Dario Kaelenter",42,0.050102249488752554
+"Gornilo STrubanov",33,"Styxx ",43,0.03958393527882115
+"Gornilo STrubanov",33,"Sol Weintroub ",44,0.057955363570914326
+"Gornilo STrubanov",33,"Grima The Mad",45,0.05801305293691081
+"Gornilo STrubanov",33,"Dhuras",46,0.0477926285945727
+"Gornilo STrubanov",33,"SeriesPro ",47,0.05389221556886228
+"Gornilo STrubanov",33,"Melicien Tetro",48,0.05299633102323685
+"Gornilo STrubanov",33,"William Chen",49,0.034968017057569294
+"Nala Queen",34,"Kazanir",1,0.021308272075928166
+"Nala Queen",34,"Alcoholic Satan",2,0.028288667016990718
+"Nala Queen",34,"Luke Anninan",3,0.00955679826391787
+"Nala Queen",34,"Angry Mustache",4,0.01952975833287873
+"Nala Queen",34,"Storm Delay",5,0.0185
+"Nala Queen",34,"Dark Shines",6,0.03779244151169766
+"Nala Queen",34,"Mike Azariah",7,0.01839267917006433
+"Nala Queen",34,"The Oz ",8,0.029726231001582202
+"Nala Queen",34,"Mark Resurrectus",9,0.010158668730650154
+"Nala Queen",34,"Amelia Duskspace",10,0.04139391605698883
+"Nala Queen",34,"Dujek Oneye",11,0.01112931472798147
+"Nala Queen",34,"Torvald Uruz",12,0.04855183993283895
+"Nala Queen",34,"Arhont Sibirskii",13,0.060957286971453105
+"Nala Queen",34,"Phantomite ",14,0.037059630928778405
+"Nala Queen",34,"Pandoralica ",15,0.02297872340425532
+"Nala Queen",34,"White 0rchid",16,0.033204886447487085
+"Nala Queen",34,"Stitch Kaneland",17,0.021853708702918112
+"Nala Queen",34,"Kelmac",18,0.014734774066797643
+"Nala Queen",34,"Kshal Aideron",19,0.03585558852621167
+"Nala Queen",34,"DutchGunner",20,0.027301280502536846
+"Nala Queen",34,"Velonad Tyldamere",21,0.0108870658590815
+"Nala Queen",34,"Larkness",22,0.030070867649875502
+"Nala Queen",34,"Nuke Michael",23,0.02765565168061268
+"Nala Queen",34,"Lee Adoulin",24,0.03032237472071497
+"Nala Queen",34,"RGC Godfather ",25,0.07551422936038321
+"Nala Queen",34,"Drake Iddon",26,0.01762402088772846
+"Nala Queen",34,"Rots Mijnwerker",27,0.044278606965174126
+"Nala Queen",34,"Gustav Mannfred",28,0.06026239715365799
+"Nala Queen",34,"MILINT ARC Trooper",29,0.04566458276705627
+"Nala Queen",34,"Gideon Zendikar",30,0.047687269750307
+"Nala Queen",34,"Twan Molenaar",31,0.055351681957186545
+"Nala Queen",34,"Gabriell Bemenacth",32,0.0447887323943662
+"Nala Queen",34,"Gornilo STrubanov",33,0.04258943781942078
+"Nala Queen",34,"Nala Queen",34,1.0
+"Nala Queen",34,"Yondu Quill",35,0.04656778199379096
+"Nala Queen",34,"Rico Shikkoken",36,0.04636785162287481
+"Nala Queen",34,"Lady Death Strike",37,0.13055303717135086
+"Nala Queen",34,"Cael Caderu",38,0.030730707944457092
+"Nala Queen",34,"Kontan Rekor",39,0.010272945410917816
+"Nala Queen",34,"Kilyavi Alaailaa",40,0.08147254073627037
+"Nala Queen",34,"Corporal Fillip",41,0.06972428419936373
+"Nala Queen",34,"Dario Kaelenter",42,0.05595204110762204
+"Nala Queen",34,"Styxx ",43,0.08019472200871125
+"Nala Queen",34,"Sol Weintroub ",44,0.05423829282750445
+"Nala Queen",34,"Grima The Mad",45,0.08566165182683451
+"Nala Queen",34,"Dhuras",46,0.043294270833333336
+"Nala Queen",34,"SeriesPro ",47,0.06019951840385277
+"Nala Queen",34,"Melicien Tetro",48,0.051576872536136666
+"Nala Queen",34,"William Chen",49,0.06654991243432574
+"Yondu Quill",35,"Kazanir",1,0.024607129168263703
+"Yondu Quill",35,"Alcoholic Satan",2,0.02495104083556974
+"Yondu Quill",35,"Luke Anninan",3,0.06901266840941082
+"Yondu Quill",35,"Angry Mustache",4,0.05022171291913707
+"Yondu Quill",35,"Storm Delay",5,0.015554471147980968
+"Yondu Quill",35,"Dark Shines",6,0.09090909090909091
+"Yondu Quill",35,"Mike Azariah",7,0.051585623678646934
+"Yondu Quill",35,"The Oz ",8,0.10480025922325603
+"Yondu Quill",35,"Mark Resurrectus",9,0.08981923761356186
+"Yondu Quill",35,"Amelia Duskspace",10,0.07034035656401945
+"Yondu Quill",35,"Dujek Oneye",11,0.13926325247079965
+"Yondu Quill",35,"Torvald Uruz",12,0.07097193628778849
+"Yondu Quill",35,"Arhont Sibirskii",13,0.05177854274239816
+"Yondu Quill",35,"Phantomite ",14,0.034793379123972526
+"Yondu Quill",35,"Pandoralica ",15,0.10423752183105064
+"Yondu Quill",35,"White 0rchid",16,0.19069176395838297
+"Yondu Quill",35,"Stitch Kaneland",17,0.10957286971453102
+"Yondu Quill",35,"Kelmac",18,0.014546452586798408
+"Yondu Quill",35,"Kshal Aideron",19,0.14393881453154875
+"Yondu Quill",35,"DutchGunner",20,0.12134448804323685
+"Yondu Quill",35,"Velonad Tyldamere",21,0.010248427061036519
+"Yondu Quill",35,"Larkness",22,0.033734371313989146
+"Yondu Quill",35,"Nuke Michael",23,0.03914590747330961
+"Yondu Quill",35,"Lee Adoulin",24,0.03346743131045108
+"Yondu Quill",35,"RGC Godfather ",25,0.05382003395585738
+"Yondu Quill",35,"Drake Iddon",26,0.01655266757865937
+"Yondu Quill",35,"Rots Mijnwerker",27,0.1707837213435223
+"Yondu Quill",35,"Gustav Mannfred",28,0.04587960257159556
+"Yondu Quill",35,"MILINT ARC Trooper",29,0.03759773748128431
+"Yondu Quill",35,"Gideon Zendikar",30,0.042916666666666665
+"Yondu Quill",35,"Twan Molenaar",31,0.04396782841823056
+"Yondu Quill",35,"Gabriell Bemenacth",32,0.02745956873315364
+"Yondu Quill",35,"Gornilo STrubanov",33,0.02985638699924414
+"Yondu Quill",35,"Nala Queen",34,0.04656778199379096
+"Yondu Quill",35,"Yondu Quill",35,1.0
+"Yondu Quill",35,"Rico Shikkoken",36,0.06328279499011207
+"Yondu Quill",35,"Lady Death Strike",37,0.04499744332708369
+"Yondu Quill",35,"Cael Caderu",38,0.02915798869384112
+"Yondu Quill",35,"Kontan Rekor",39,0.09054035473669737
+"Yondu Quill",35,"Kilyavi Alaailaa",40,0.03715277777777778
+"Yondu Quill",35,"Corporal Fillip",41,0.06479946967185947
+"Yondu Quill",35,"Dario Kaelenter",42,0.05987815491731941
+"Yondu Quill",35,"Styxx ",43,0.0429428481212504
+"Yondu Quill",35,"Sol Weintroub ",44,0.030497314156991855
+"Yondu Quill",35,"Grima The Mad",45,0.03294404741153913
+"Yondu Quill",35,"Dhuras",46,0.03152654867256637
+"Yondu Quill",35,"SeriesPro ",47,0.03186875353573449
+"Yondu Quill",35,"Melicien Tetro",48,0.0317401734637387
+"Yondu Quill",35,"William Chen",49,0.034449942900647124
+"Rico Shikkoken",36,"Kazanir",1,0.017556431386599784
+"Rico Shikkoken",36,"Alcoholic Satan",2,0.0178811282740094
+"Rico Shikkoken",36,"Luke Anninan",3,0.009323147691802201
+"Rico Shikkoken",36,"Angry Mustache",4,0.02169487893721877
+"Rico Shikkoken",36,"Storm Delay",5,0.014058171745152354
+"Rico Shikkoken",36,"Dark Shines",6,0.032103278875814004
+"Rico Shikkoken",36,"Mike Azariah",7,0.04012373760349377
+"Rico Shikkoken",36,"The Oz ",8,0.043185722466119486
+"Rico Shikkoken",36,"Mark Resurrectus",9,0.033735174022943806
+"Rico Shikkoken",36,"Amelia Duskspace",10,0.05829003306565895
+"Rico Shikkoken",36,"Dujek Oneye",11,0.021797451374916163
+"Rico Shikkoken",36,"Torvald Uruz",12,0.08169710284223534
+"Rico Shikkoken",36,"Arhont Sibirskii",13,0.03921186110027312
+"Rico Shikkoken",36,"Phantomite ",14,0.09345509893455099
+"Rico Shikkoken",36,"Pandoralica ",15,0.015448466682038276
+"Rico Shikkoken",36,"White 0rchid",16,0.036723614881047424
+"Rico Shikkoken",36,"Stitch Kaneland",17,0.06874438886751315
+"Rico Shikkoken",36,"Kelmac",18,0.01364213197969543
+"Rico Shikkoken",36,"Kshal Aideron",19,0.04536282185809993
+"Rico Shikkoken",36,"DutchGunner",20,0.036931818181818184
+"Rico Shikkoken",36,"Velonad Tyldamere",21,0.009447998809700937
+"Rico Shikkoken",36,"Larkness",22,0.037243947858473
+"Rico Shikkoken",36,"Nuke Michael",23,0.04577850877192982
+"Rico Shikkoken",36,"Lee Adoulin",24,0.02431580018313155
+"Rico Shikkoken",36,"RGC Godfather ",25,0.06678517013712544
+"Rico Shikkoken",36,"Drake Iddon",26,0.029880637667227428
+"Rico Shikkoken",36,"Rots Mijnwerker",27,0.04302299112223993
+"Rico Shikkoken",36,"Gustav Mannfred",28,0.06139266584260404
+"Rico Shikkoken",36,"MILINT ARC Trooper",29,0.05563872255489022
+"Rico Shikkoken",36,"Gideon Zendikar",30,0.07333723425004876
+"Rico Shikkoken",36,"Twan Molenaar",31,0.08732633966543805
+"Rico Shikkoken",36,"Gabriell Bemenacth",32,0.04333418302319653
+"Rico Shikkoken",36,"Gornilo STrubanov",33,0.05
+"Rico Shikkoken",36,"Nala Queen",34,0.04636785162287481
+"Rico Shikkoken",36,"Yondu Quill",35,0.06328279499011207
+"Rico Shikkoken",36,"Rico Shikkoken",36,1.0
+"Rico Shikkoken",36,"Lady Death Strike",37,0.05175930647628761
+"Rico Shikkoken",36,"Cael Caderu",38,0.06389430366038554
+"Rico Shikkoken",36,"Kontan Rekor",39,0.011607533946561542
+"Rico Shikkoken",36,"Kilyavi Alaailaa",40,0.058133333333333335
+"Rico Shikkoken",36,"Corporal Fillip",41,0.09652605459057072
+"Rico Shikkoken",36,"Dario Kaelenter",42,0.08850973073846974
+"Rico Shikkoken",36,"Styxx ",43,0.04831358249772106
+"Rico Shikkoken",36,"Sol Weintroub ",44,0.06455969746083198
+"Rico Shikkoken",36,"Grima The Mad",45,0.05603448275862069
+"Rico Shikkoken",36,"Dhuras",46,0.07358659886329644
+"Rico Shikkoken",36,"SeriesPro ",47,0.04146634615384615
+"Rico Shikkoken",36,"Melicien Tetro",48,0.06951073985680191
+"Rico Shikkoken",36,"William Chen",49,0.050873429359485134
+"Lady Death Strike",37,"Kazanir",1,0.023741073912640267
+"Lady Death Strike",37,"Alcoholic Satan",2,0.03434980722046968
+"Lady Death Strike",37,"Luke Anninan",3,0.009279680412800133
+"Lady Death Strike",37,"Angry Mustache",4,0.026831672325046546
+"Lady Death Strike",37,"Storm Delay",5,0.02183219178082192
+"Lady Death Strike",37,"Dark Shines",6,0.037385403024169546
+"Lady Death Strike",37,"Mike Azariah",7,0.02277573612812486
+"Lady Death Strike",37,"The Oz ",8,0.029784385906200698
+"Lady Death Strike",37,"Mark Resurrectus",9,0.014187487894634903
+"Lady Death Strike",37,"Amelia Duskspace",10,0.04554626693571635
+"Lady Death Strike",37,"Dujek Oneye",11,0.010748452447945976
+"Lady Death Strike",37,"Torvald Uruz",12,0.05250696378830084
+"Lady Death Strike",37,"Arhont Sibirskii",13,0.044004171011470285
+"Lady Death Strike",37,"Phantomite ",14,0.044596651445966515
+"Lady Death Strike",37,"Pandoralica ",15,0.020553099426206378
+"Lady Death Strike",37,"White 0rchid",16,0.03964866196026925
+"Lady Death Strike",37,"Stitch Kaneland",17,0.028102142948800205
+"Lady Death Strike",37,"Kelmac",18,0.02089478859390364
+"Lady Death Strike",37,"Kshal Aideron",19,0.03882217469978615
+"Lady Death Strike",37,"DutchGunner",20,0.027904738994467163
+"Lady Death Strike",37,"Velonad Tyldamere",21,0.009602194787379973
+"Lady Death Strike",37,"Larkness",22,0.033925840978593275
+"Lady Death Strike",37,"Nuke Michael",23,0.0327822523668221
+"Lady Death Strike",37,"Lee Adoulin",24,0.02084206116464181
+"Lady Death Strike",37,"RGC Godfather ",25,0.07152720243026787
+"Lady Death Strike",37,"Drake Iddon",26,0.020017902188949468
+"Lady Death Strike",37,"Rots Mijnwerker",27,0.04899064500246184
+"Lady Death Strike",37,"Gustav Mannfred",28,0.05411302640192014
+"Lady Death Strike",37,"MILINT ARC Trooper",29,0.056471223993515264
+"Lady Death Strike",37,"Gideon Zendikar",30,0.04139871382636656
+"Lady Death Strike",37,"Twan Molenaar",31,0.05939101597829364
+"Lady Death Strike",37,"Gabriell Bemenacth",32,0.05422023476802683
+"Lady Death Strike",37,"Gornilo STrubanov",33,0.044132397191574725
+"Lady Death Strike",37,"Nala Queen",34,0.13055303717135086
+"Lady Death Strike",37,"Yondu Quill",35,0.04499744332708369
+"Lady Death Strike",37,"Rico Shikkoken",36,0.05175930647628761
+"Lady Death Strike",37,"Lady Death Strike",37,1.0
+"Lady Death Strike",37,"Cael Caderu",38,0.03354344889689329
+"Lady Death Strike",37,"Kontan Rekor",39,0.011432414256893073
+"Lady Death Strike",37,"Kilyavi Alaailaa",40,0.09191616766467066
+"Lady Death Strike",37,"Corporal Fillip",41,0.0663544106167057
+"Lady Death Strike",37,"Dario Kaelenter",42,0.05703849395897724
+"Lady Death Strike",37,"Styxx ",43,0.10028284906145539
+"Lady Death Strike",37,"Sol Weintroub ",44,0.05079825834542816
+"Lady Death Strike",37,"Grima The Mad",45,0.11148857319332922
+"Lady Death Strike",37,"Dhuras",46,0.05080385852090032
+"Lady Death Strike",37,"SeriesPro ",47,0.05749831876260928
+"Lady Death Strike",37,"Melicien Tetro",48,0.05290322580645161
+"Lady Death Strike",37,"William Chen",49,0.061113007852509386
+"Cael Caderu",38,"Kazanir",1,0.015455950540958269
+"Cael Caderu",38,"Alcoholic Satan",2,0.018195050946142648
+"Cael Caderu",38,"Luke Anninan",3,0.00683526999316473
+"Cael Caderu",38,"Angry Mustache",4,0.023305750497538493
+"Cael Caderu",38,"Storm Delay",5,0.013414715943389898
+"Cael Caderu",38,"Dark Shines",6,0.03238426429037166
+"Cael Caderu",38,"Mike Azariah",7,0.04948268106162843
+"Cael Caderu",38,"The Oz ",8,0.05157309721175584
+"Cael Caderu",38,"Mark Resurrectus",9,0.05839380509423854
+"Cael Caderu",38,"Amelia Duskspace",10,0.07519351271654995
+"Cael Caderu",38,"Dujek Oneye",11,0.029092106707651774
+"Cael Caderu",38,"Torvald Uruz",12,0.08152948801036941
+"Cael Caderu",38,"Arhont Sibirskii",13,0.03372591006423983
+"Cael Caderu",38,"Phantomite ",14,0.16173120728929385
+"Cael Caderu",38,"Pandoralica ",15,0.038038962238020495
+"Cael Caderu",38,"White 0rchid",16,0.07909513877747473
+"Cael Caderu",38,"Stitch Kaneland",17,0.21064942212438084
+"Cael Caderu",38,"Kelmac",18,0.012691131498470948
+"Cael Caderu",38,"Kshal Aideron",19,0.05479559748427673
+"Cael Caderu",38,"DutchGunner",20,0.05407499225286644
+"Cael Caderu",38,"Velonad Tyldamere",21,0.008986340762041696
+"Cael Caderu",38,"Larkness",22,0.06311257671521481
+"Cael Caderu",38,"Nuke Michael",23,0.10119695321001088
+"Cael Caderu",38,"Lee Adoulin",24,0.013859480269489894
+"Cael Caderu",38,"RGC Godfather ",25,0.02256792287467134
+"Cael Caderu",38,"Drake Iddon",26,0.10721409574468085
+"Cael Caderu",38,"Rots Mijnwerker",27,0.03889689236468409
+"Cael Caderu",38,"Gustav Mannfred",28,0.04017774486206258
+"Cael Caderu",38,"MILINT ARC Trooper",29,0.050078247261345854
+"Cael Caderu",38,"Gideon Zendikar",30,0.17292198860286892
+"Cael Caderu",38,"Twan Molenaar",31,0.055978394303952864
+"Cael Caderu",38,"Gabriell Bemenacth",32,0.1383270911360799
+"Cael Caderu",38,"Gornilo STrubanov",33,0.026785714285714284
+"Cael Caderu",38,"Nala Queen",34,0.030730707944457092
+"Cael Caderu",38,"Yondu Quill",35,0.02915798869384112
+"Cael Caderu",38,"Rico Shikkoken",36,0.06389430366038554
+"Cael Caderu",38,"Lady Death Strike",37,0.03354344889689329
+"Cael Caderu",38,"Cael Caderu",38,1.0
+"Cael Caderu",38,"Kontan Rekor",39,0.009230552423900789
+"Cael Caderu",38,"Kilyavi Alaailaa",40,0.0562172463077656
+"Cael Caderu",38,"Corporal Fillip",41,0.03958288997659076
+"Cael Caderu",38,"Dario Kaelenter",42,0.035039817974971556
+"Cael Caderu",38,"Styxx ",43,0.03917948717948718
+"Cael Caderu",38,"Sol Weintroub ",44,0.05734165067178503
+"Cael Caderu",38,"Grima The Mad",45,0.031029619181946404
+"Cael Caderu",38,"Dhuras",46,0.05957669192579044
+"Cael Caderu",38,"SeriesPro ",47,0.027168234064785787
+"Cael Caderu",38,"Melicien Tetro",48,0.03473818646232439
+"Cael Caderu",38,"William Chen",49,0.03015075376884422
+"Kontan Rekor",39,"Kazanir",1,0.5429356707770019
+"Kontan Rekor",39,"Alcoholic Satan",2,0.008806445568671538
+"Kontan Rekor",39,"Luke Anninan",3,0.41455090318821275
+"Kontan Rekor",39,"Angry Mustache",4,0.5022414429618691
+"Kontan Rekor",39,"Storm Delay",5,0.005896374357044286
+"Kontan Rekor",39,"Dark Shines",6,0.17125984251968504
+"Kontan Rekor",39,"Mike Azariah",7,0.2869846080229683
+"Kontan Rekor",39,"The Oz ",8,0.4954093343534813
+"Kontan Rekor",39,"Mark Resurrectus",9,0.5088780679750136
+"Kontan Rekor",39,"Amelia Duskspace",10,0.1397843516726569
+"Kontan Rekor",39,"Dujek Oneye",11,0.6002889338341519
+"Kontan Rekor",39,"Torvald Uruz",12,0.02150664697193501
+"Kontan Rekor",39,"Arhont Sibirskii",13,0.013966288269693842
+"Kontan Rekor",39,"Phantomite ",14,0.016227801592161667
+"Kontan Rekor",39,"Pandoralica ",15,0.5035878300803674
+"Kontan Rekor",39,"White 0rchid",16,0.18339849941878897
+"Kontan Rekor",39,"Stitch Kaneland",17,0.01748953495039853
+"Kontan Rekor",39,"Kelmac",18,0.007033944454528953
+"Kontan Rekor",39,"Kshal Aideron",19,0.0624792131895282
+"Kontan Rekor",39,"DutchGunner",20,0.06117359183097266
+"Kontan Rekor",39,"Velonad Tyldamere",21,0.003756442736088058
+"Kontan Rekor",39,"Larkness",22,0.009777908805031446
+"Kontan Rekor",39,"Nuke Michael",23,0.00977719838824366
+"Kontan Rekor",39,"Lee Adoulin",24,0.0059388556083453834
+"Kontan Rekor",39,"RGC Godfather ",25,0.014307004470938897
+"Kontan Rekor",39,"Drake Iddon",26,0.469284064665127
+"Kontan Rekor",39,"Rots Mijnwerker",27,0.015899520836358358
+"Kontan Rekor",39,"Gustav Mannfred",28,0.016543347759318722
+"Kontan Rekor",39,"MILINT ARC Trooper",29,0.01164256581386726
+"Kontan Rekor",39,"Gideon Zendikar",30,0.013454743136721936
+"Kontan Rekor",39,"Twan Molenaar",31,0.01052792187976808
+"Kontan Rekor",39,"Gabriell Bemenacth",32,0.015949443274149863
+"Kontan Rekor",39,"Gornilo STrubanov",33,0.009422850412249705
+"Kontan Rekor",39,"Nala Queen",34,0.010272945410917816
+"Kontan Rekor",39,"Yondu Quill",35,0.09054035473669737
+"Kontan Rekor",39,"Rico Shikkoken",36,0.011607533946561542
+"Kontan Rekor",39,"Lady Death Strike",37,0.011432414256893073
+"Kontan Rekor",39,"Cael Caderu",38,0.009230552423900789
+"Kontan Rekor",39,"Kontan Rekor",39,1.0
+"Kontan Rekor",39,"Kilyavi Alaailaa",40,0.00958345910051313
+"Kontan Rekor",39,"Corporal Fillip",41,0.017360600264822716
+"Kontan Rekor",39,"Dario Kaelenter",42,0.014357663684883108
+"Kontan Rekor",39,"Styxx ",43,0.010384365760438451
+"Kontan Rekor",39,"Sol Weintroub ",44,0.00899266984055014
+"Kontan Rekor",39,"Grima The Mad",45,0.01153350026557402
+"Kontan Rekor",39,"Dhuras",46,0.008455511597238383
+"Kontan Rekor",39,"SeriesPro ",47,0.00901112678263595
+"Kontan Rekor",39,"Melicien Tetro",48,0.01777742971258517
+"Kontan Rekor",39,"William Chen",49,0.012778040700425935
+"Kilyavi Alaailaa",40,"Kazanir",1,0.018913857677902622
+"Kilyavi Alaailaa",40,"Alcoholic Satan",2,0.022833055238429788
+"Kilyavi Alaailaa",40,"Luke Anninan",3,0.007062855232363758
+"Kilyavi Alaailaa",40,"Angry Mustache",4,0.014900120074227705
+"Kilyavi Alaailaa",40,"Storm Delay",5,0.013233190271816882
+"Kilyavi Alaailaa",40,"Dark Shines",6,0.030222757375075255
+"Kilyavi Alaailaa",40,"Mike Azariah",7,0.017545454545454545
+"Kilyavi Alaailaa",40,"The Oz ",8,0.01838357860646759
+"Kilyavi Alaailaa",40,"Mark Resurrectus",9,0.018370646156860824
+"Kilyavi Alaailaa",40,"Amelia Duskspace",10,0.043089193658204454
+"Kilyavi Alaailaa",40,"Dujek Oneye",11,0.010385335679019352
+"Kilyavi Alaailaa",40,"Torvald Uruz",12,0.04815864022662889
+"Kilyavi Alaailaa",40,"Arhont Sibirskii",13,0.0955716222322639
+"Kilyavi Alaailaa",40,"Phantomite ",14,0.038562800061948274
+"Kilyavi Alaailaa",40,"Pandoralica ",15,0.02259565176113168
+"Kilyavi Alaailaa",40,"White 0rchid",16,0.03133245382585752
+"Kilyavi Alaailaa",40,"Stitch Kaneland",17,0.02773779929347115
+"Kilyavi Alaailaa",40,"Kelmac",18,0.013177400757700544
+"Kilyavi Alaailaa",40,"Kshal Aideron",19,0.03881069376197218
+"Kilyavi Alaailaa",40,"DutchGunner",20,0.025678412312677198
+"Kilyavi Alaailaa",40,"Velonad Tyldamere",21,0.008396240949006317
+"Kilyavi Alaailaa",40,"Larkness",22,0.018046405041535377
+"Kilyavi Alaailaa",40,"Nuke Michael",23,0.037122969837587005
+"Kilyavi Alaailaa",40,"Lee Adoulin",24,0.015459551037695892
+"Kilyavi Alaailaa",40,"RGC Godfather ",25,0.04461279461279461
+"Kilyavi Alaailaa",40,"Drake Iddon",26,0.018178827013243398
+"Kilyavi Alaailaa",40,"Rots Mijnwerker",27,0.03219315895372234
+"Kilyavi Alaailaa",40,"Gustav Mannfred",28,0.06106696935300795
+"Kilyavi Alaailaa",40,"MILINT ARC Trooper",29,0.04979020979020979
+"Kilyavi Alaailaa",40,"Gideon Zendikar",30,0.039081885856079406
+"Kilyavi Alaailaa",40,"Twan Molenaar",31,0.05004691898654989
+"Kilyavi Alaailaa",40,"Gabriell Bemenacth",32,0.04329004329004329
+"Kilyavi Alaailaa",40,"Gornilo STrubanov",33,0.05551601423487545
+"Kilyavi Alaailaa",40,"Nala Queen",34,0.08147254073627037
+"Kilyavi Alaailaa",40,"Yondu Quill",35,0.03715277777777778
+"Kilyavi Alaailaa",40,"Rico Shikkoken",36,0.058133333333333335
+"Kilyavi Alaailaa",40,"Lady Death Strike",37,0.09191616766467066
+"Kilyavi Alaailaa",40,"Cael Caderu",38,0.0562172463077656
+"Kilyavi Alaailaa",40,"Kontan Rekor",39,0.00958345910051313
+"Kilyavi Alaailaa",40,"Kilyavi Alaailaa",40,1.0
+"Kilyavi Alaailaa",40,"Corporal Fillip",41,0.05037313432835821
+"Kilyavi Alaailaa",40,"Dario Kaelenter",42,0.04644412191582003
+"Kilyavi Alaailaa",40,"Styxx ",43,0.0582798459563543
+"Kilyavi Alaailaa",40,"Sol Weintroub ",44,0.1671722278395686
+"Kilyavi Alaailaa",40,"Grima The Mad",45,0.08170961659333752
+"Kilyavi Alaailaa",40,"Dhuras",46,0.09735449735449736
+"Kilyavi Alaailaa",40,"SeriesPro ",47,0.09370424597364568
+"Kilyavi Alaailaa",40,"Melicien Tetro",48,0.06659800892550635
+"Kilyavi Alaailaa",40,"William Chen",49,0.054305108967488386
+"Corporal Fillip",41,"Kazanir",1,0.01851352565830862
+"Corporal Fillip",41,"Alcoholic Satan",2,0.02377930100702378
+"Corporal Fillip",41,"Luke Anninan",3,0.011954819028774013
+"Corporal Fillip",41,"Angry Mustache",4,0.027680353963200777
+"Corporal Fillip",41,"Storm Delay",5,0.016482370123096182
+"Corporal Fillip",41,"Dark Shines",6,0.035763569457221714
+"Corporal Fillip",41,"Mike Azariah",7,0.04732859435909195
+"Corporal Fillip",41,"The Oz ",8,0.03946679362056653
+"Corporal Fillip",41,"Mark Resurrectus",9,0.015394176985227328
+"Corporal Fillip",41,"Amelia Duskspace",10,0.029953917050691243
+"Corporal Fillip",41,"Dujek Oneye",11,0.019661509244260737
+"Corporal Fillip",41,"Torvald Uruz",12,0.07137008733624454
+"Corporal Fillip",41,"Arhont Sibirskii",13,0.04763787309745009
+"Corporal Fillip",41,"Phantomite ",14,0.036645422943221324
+"Corporal Fillip",41,"Pandoralica ",15,0.012848853274385189
+"Corporal Fillip",41,"White 0rchid",16,0.028818672594474435
+"Corporal Fillip",41,"Stitch Kaneland",17,0.031032770605759683
+"Corporal Fillip",41,"Kelmac",18,0.01439707286032453
+"Corporal Fillip",41,"Kshal Aideron",19,0.05398793019083347
+"Corporal Fillip",41,"DutchGunner",20,0.04427809190093175
+"Corporal Fillip",41,"Velonad Tyldamere",21,0.009241317633030257
+"Corporal Fillip",41,"Larkness",22,0.05326509335607999
+"Corporal Fillip",41,"Nuke Michael",23,0.02632289416846652
+"Corporal Fillip",41,"Lee Adoulin",24,0.03547488914097143
+"Corporal Fillip",41,"RGC Godfather ",25,0.1423097974822113
+"Corporal Fillip",41,"Drake Iddon",26,0.018255417096594968
+"Corporal Fillip",41,"Rots Mijnwerker",27,0.035698044565711684
+"Corporal Fillip",41,"Gustav Mannfred",28,0.051929392446633825
+"Corporal Fillip",41,"MILINT ARC Trooper",29,0.06376518218623482
+"Corporal Fillip",41,"Gideon Zendikar",30,0.05409047160731473
+"Corporal Fillip",41,"Twan Molenaar",31,0.07601017236507487
+"Corporal Fillip",41,"Gabriell Bemenacth",32,0.040429887410440124
+"Corporal Fillip",41,"Gornilo STrubanov",33,0.053329223181257705
+"Corporal Fillip",41,"Nala Queen",34,0.06972428419936373
+"Corporal Fillip",41,"Yondu Quill",35,0.06479946967185947
+"Corporal Fillip",41,"Rico Shikkoken",36,0.09652605459057072
+"Corporal Fillip",41,"Lady Death Strike",37,0.0663544106167057
+"Corporal Fillip",41,"Cael Caderu",38,0.03958288997659076
+"Corporal Fillip",41,"Kontan Rekor",39,0.017360600264822716
+"Corporal Fillip",41,"Kilyavi Alaailaa",40,0.05037313432835821
+"Corporal Fillip",41,"Corporal Fillip",41,1.0
+"Corporal Fillip",41,"Dario Kaelenter",42,0.15227272727272728
+"Corporal Fillip",41,"Styxx ",43,0.06324110671936758
+"Corporal Fillip",41,"Sol Weintroub ",44,0.05783783783783784
+"Corporal Fillip",41,"Grima The Mad",45,0.09108744394618834
+"Corporal Fillip",41,"Dhuras",46,0.0712781954887218
+"Corporal Fillip",41,"SeriesPro ",47,0.04592457420924574
+"Corporal Fillip",41,"Melicien Tetro",48,0.07104154124021674
+"Corporal Fillip",41,"William Chen",49,0.05357695881077733
+"Dario Kaelenter",42,"Kazanir",1,0.013922183293380047
+"Dario Kaelenter",42,"Alcoholic Satan",2,0.021184233373849625
+"Dario Kaelenter",42,"Luke Anninan",3,0.011277253362292206
+"Dario Kaelenter",42,"Angry Mustache",4,0.02089812844437169
+"Dario Kaelenter",42,"Storm Delay",5,0.013700574998225313
+"Dario Kaelenter",42,"Dark Shines",6,0.034725536992840096
+"Dario Kaelenter",42,"Mike Azariah",7,0.03772540700087626
+"Dario Kaelenter",42,"The Oz ",8,0.033259636643275976
+"Dario Kaelenter",42,"Mark Resurrectus",9,0.012349864393645873
+"Dario Kaelenter",42,"Amelia Duskspace",10,0.030617096130075117
+"Dario Kaelenter",42,"Dujek Oneye",11,0.01598911379486307
+"Dario Kaelenter",42,"Torvald Uruz",12,0.0692942515651679
+"Dario Kaelenter",42,"Arhont Sibirskii",13,0.046153846153846156
+"Dario Kaelenter",42,"Phantomite ",14,0.03317176613147531
+"Dario Kaelenter",42,"Pandoralica ",15,0.0104040309788187
+"Dario Kaelenter",42,"White 0rchid",16,0.026009916280581972
+"Dario Kaelenter",42,"Stitch Kaneland",17,0.03345435684647303
+"Dario Kaelenter",42,"Kelmac",18,0.01346718903036239
+"Dario Kaelenter",42,"Kshal Aideron",19,0.04716745695033691
+"Dario Kaelenter",42,"DutchGunner",20,0.03793663688058489
+"Dario Kaelenter",42,"Velonad Tyldamere",21,0.010173640327392335
+"Dario Kaelenter",42,"Larkness",22,0.04296912803638827
+"Dario Kaelenter",42,"Nuke Michael",23,0.031511710432931155
+"Dario Kaelenter",42,"Lee Adoulin",24,0.026223961087025485
+"Dario Kaelenter",42,"RGC Godfather ",25,0.1371851851851852
+"Dario Kaelenter",42,"Drake Iddon",26,0.020003265839320706
+"Dario Kaelenter",42,"Rots Mijnwerker",27,0.03028083028083028
+"Dario Kaelenter",42,"Gustav Mannfred",28,0.04472076788830716
+"Dario Kaelenter",42,"MILINT ARC Trooper",29,0.06147091108671789
+"Dario Kaelenter",42,"Gideon Zendikar",30,0.04090724989874443
+"Dario Kaelenter",42,"Twan Molenaar",31,0.054037644201578625
+"Dario Kaelenter",42,"Gabriell Bemenacth",32,0.03410036041031328
+"Dario Kaelenter",42,"Gornilo STrubanov",33,0.050102249488752554
+"Dario Kaelenter",42,"Nala Queen",34,0.05595204110762204
+"Dario Kaelenter",42,"Yondu Quill",35,0.05987815491731941
+"Dario Kaelenter",42,"Rico Shikkoken",36,0.08850973073846974
+"Dario Kaelenter",42,"Lady Death Strike",37,0.05703849395897724
+"Dario Kaelenter",42,"Cael Caderu",38,0.035039817974971556
+"Dario Kaelenter",42,"Kontan Rekor",39,0.014357663684883108
+"Dario Kaelenter",42,"Kilyavi Alaailaa",40,0.04644412191582003
+"Dario Kaelenter",42,"Corporal Fillip",41,0.15227272727272728
+"Dario Kaelenter",42,"Dario Kaelenter",42,1.0
+"Dario Kaelenter",42,"Styxx ",43,0.05058269278452765
+"Dario Kaelenter",42,"Sol Weintroub ",44,0.04988262910798122
+"Dario Kaelenter",42,"Grima The Mad",45,0.0791868932038835
+"Dario Kaelenter",42,"Dhuras",46,0.05666557484441533
+"Dario Kaelenter",42,"SeriesPro ",47,0.04689608636977058
+"Dario Kaelenter",42,"Melicien Tetro",48,0.07256990679094541
+"Dario Kaelenter",42,"William Chen",49,0.04964053406367682
+"Styxx ",43,"Kazanir",1,0.02474190103239587
+"Styxx ",43,"Alcoholic Satan",2,0.044399081398315894
+"Styxx ",43,"Luke Anninan",3,0.031836768755737294
+"Styxx ",43,"Angry Mustache",4,0.02544
+"Styxx ",43,"Storm Delay",5,0.059046664758087605
+"Styxx ",43,"Dark Shines",6,0.03854413925624506
+"Styxx ",43,"Mike Azariah",7,0.024433664159508657
+"Styxx ",43,"The Oz ",8,0.056229909322074556
+"Styxx ",43,"Mark Resurrectus",9,0.016273663234805714
+"Styxx ",43,"Amelia Duskspace",10,0.08224530639473936
+"Styxx ",43,"Dujek Oneye",11,0.012744451768842013
+"Styxx ",43,"Torvald Uruz",12,0.05642509535709588
+"Styxx ",43,"Arhont Sibirskii",13,0.05262147109660073
+"Styxx ",43,"Phantomite ",14,0.051741436147341266
+"Styxx ",43,"Pandoralica ",15,0.020526509572901325
+"Styxx ",43,"White 0rchid",16,0.03431989924433249
+"Styxx ",43,"Stitch Kaneland",17,0.03575787161337564
+"Styxx ",43,"Kelmac",18,0.026507936507936508
+"Styxx ",43,"Kshal Aideron",19,0.027601348702266132
+"Styxx ",43,"DutchGunner",20,0.03078235248507405
+"Styxx ",43,"Velonad Tyldamere",21,0.04931946780853341
+"Styxx ",43,"Larkness",22,0.03576669112252384
+"Styxx ",43,"Nuke Michael",23,0.03772830289294761
+"Styxx ",43,"Lee Adoulin",24,0.019956096587507483
+"Styxx ",43,"RGC Godfather ",25,0.056269706524375455
+"Styxx ",43,"Drake Iddon",26,0.019352816735877146
+"Styxx ",43,"Rots Mijnwerker",27,0.035643997375902035
+"Styxx ",43,"Gustav Mannfred",28,0.06631832797427653
+"Styxx ",43,"MILINT ARC Trooper",29,0.0545935545935546
+"Styxx ",43,"Gideon Zendikar",30,0.04084636614535419
+"Styxx ",43,"Twan Molenaar",31,0.04424083769633508
+"Styxx ",43,"Gabriell Bemenacth",32,0.04093137254901961
+"Styxx ",43,"Gornilo STrubanov",33,0.03958393527882115
+"Styxx ",43,"Nala Queen",34,0.08019472200871125
+"Styxx ",43,"Yondu Quill",35,0.0429428481212504
+"Styxx ",43,"Rico Shikkoken",36,0.04831358249772106
+"Styxx ",43,"Lady Death Strike",37,0.10028284906145539
+"Styxx ",43,"Cael Caderu",38,0.03917948717948718
+"Styxx ",43,"Kontan Rekor",39,0.010384365760438451
+"Styxx ",43,"Kilyavi Alaailaa",40,0.0582798459563543
+"Styxx ",43,"Corporal Fillip",41,0.06324110671936758
+"Styxx ",43,"Dario Kaelenter",42,0.05058269278452765
+"Styxx ",43,"Styxx ",43,1.0
+"Styxx ",43,"Sol Weintroub ",44,0.05269922879177378
+"Styxx ",43,"Grima The Mad",45,0.07606973058637084
+"Styxx ",43,"Dhuras",46,0.06395679363274588
+"Styxx ",43,"SeriesPro ",47,0.06816169961640602
+"Styxx ",43,"Melicien Tetro",48,0.03976640711902114
+"Styxx ",43,"William Chen",49,0.06923306475678902
+"Sol Weintroub ",44,"Kazanir",1,0.015055171123994763
+"Sol Weintroub ",44,"Alcoholic Satan",2,0.0210896309314587
+"Sol Weintroub ",44,"Luke Anninan",3,0.005808365718106222
+"Sol Weintroub ",44,"Angry Mustache",4,0.016978858582539162
+"Sol Weintroub ",44,"Storm Delay",5,0.012170675830469645
+"Sol Weintroub ",44,"Dark Shines",6,0.031068665377176015
+"Sol Weintroub ",44,"Mike Azariah",7,0.018494055482166448
+"Sol Weintroub ",44,"The Oz ",8,0.021671530402334594
+"Sol Weintroub ",44,"Mark Resurrectus",9,0.024627381304905736
+"Sol Weintroub ",44,"Amelia Duskspace",10,0.04228783006918055
+"Sol Weintroub ",44,"Dujek Oneye",11,0.012588288904078378
+"Sol Weintroub ",44,"Torvald Uruz",12,0.05358673906830523
+"Sol Weintroub ",44,"Arhont Sibirskii",13,0.11054813450023031
+"Sol Weintroub ",44,"Phantomite ",14,0.03824032333281517
+"Sol Weintroub ",44,"Pandoralica ",15,0.01966824644549763
+"Sol Weintroub ",44,"White 0rchid",16,0.020773697554592296
+"Sol Weintroub ",44,"Stitch Kaneland",17,0.03367225670143932
+"Sol Weintroub ",44,"Kelmac",18,0.012371134020618556
+"Sol Weintroub ",44,"Kshal Aideron",19,0.023940765117235707
+"Sol Weintroub ",44,"DutchGunner",20,0.02556818181818182
+"Sol Weintroub ",44,"Velonad Tyldamere",21,0.007713668620796051
+"Sol Weintroub ",44,"Larkness",22,0.01926394479585969
+"Sol Weintroub ",44,"Nuke Michael",23,0.037419918462434476
+"Sol Weintroub ",44,"Lee Adoulin",24,0.013136984850090051
+"Sol Weintroub ",44,"RGC Godfather ",25,0.04024767801857585
+"Sol Weintroub ",44,"Drake Iddon",26,0.01754819574888779
+"Sol Weintroub ",44,"Rots Mijnwerker",27,0.03372210953346856
+"Sol Weintroub ",44,"Gustav Mannfred",28,0.06363012130922407
+"Sol Weintroub ",44,"MILINT ARC Trooper",29,0.048691246833661696
+"Sol Weintroub ",44,"Gideon Zendikar",30,0.04103311810039575
+"Sol Weintroub ",44,"Twan Molenaar",31,0.0438871473354232
+"Sol Weintroub ",44,"Gabriell Bemenacth",32,0.046674445740956826
+"Sol Weintroub ",44,"Gornilo STrubanov",33,0.057955363570914326
+"Sol Weintroub ",44,"Nala Queen",34,0.05423829282750445
+"Sol Weintroub ",44,"Yondu Quill",35,0.030497314156991855
+"Sol Weintroub ",44,"Rico Shikkoken",36,0.06455969746083198
+"Sol Weintroub ",44,"Lady Death Strike",37,0.05079825834542816
+"Sol Weintroub ",44,"Cael Caderu",38,0.05734165067178503
+"Sol Weintroub ",44,"Kontan Rekor",39,0.00899266984055014
+"Sol Weintroub ",44,"Kilyavi Alaailaa",40,0.1671722278395686
+"Sol Weintroub ",44,"Corporal Fillip",41,0.05783783783783784
+"Sol Weintroub ",44,"Dario Kaelenter",42,0.04988262910798122
+"Sol Weintroub ",44,"Styxx ",43,0.05269922879177378
+"Sol Weintroub ",44,"Sol Weintroub ",44,1.0
+"Sol Weintroub ",44,"Grima The Mad",45,0.06088847468157813
+"Sol Weintroub ",44,"Dhuras",46,0.11577424023154848
+"Sol Weintroub ",44,"SeriesPro ",47,0.08940397350993377
+"Sol Weintroub ",44,"Melicien Tetro",48,0.07617051013277429
+"Sol Weintroub ",44,"William Chen",49,0.046528274874731566
+"Grima The Mad",45,"Kazanir",1,0.019286856712766958
+"Grima The Mad",45,"Alcoholic Satan",2,0.027733475101896155
+"Grima The Mad",45,"Luke Anninan",3,0.008936063097835208
+"Grima The Mad",45,"Angry Mustache",4,0.02333921871551534
+"Grima The Mad",45,"Storm Delay",5,0.015976970133141418
+"Grima The Mad",45,"Dark Shines",6,0.02915205032055159
+"Grima The Mad",45,"Mike Azariah",7,0.02543150936467132
+"Grima The Mad",45,"The Oz ",8,0.030377668308702793
+"Grima The Mad",45,"Mark Resurrectus",9,0.015273154493831995
+"Grima The Mad",45,"Amelia Duskspace",10,0.02921045020726887
+"Grima The Mad",45,"Dujek Oneye",11,0.012372427162323963
+"Grima The Mad",45,"Torvald Uruz",12,0.06104777024101602
+"Grima The Mad",45,"Arhont Sibirskii",13,0.043015424723006734
+"Grima The Mad",45,"Phantomite ",14,0.045376040194693046
+"Grima The Mad",45,"Pandoralica ",15,0.016793604238611096
+"Grima The Mad",45,"White 0rchid",16,0.02898670410438517
+"Grima The Mad",45,"Stitch Kaneland",17,0.026021816270206336
+"Grima The Mad",45,"Kelmac",18,0.016339056149954383
+"Grima The Mad",45,"Kshal Aideron",19,0.032662898936170214
+"Grima The Mad",45,"DutchGunner",20,0.030639758150175667
+"Grima The Mad",45,"Velonad Tyldamere",21,0.009832765562093528
+"Grima The Mad",45,"Larkness",22,0.03541117939713199
+"Grima The Mad",45,"Nuke Michael",23,0.030461270670147953
+"Grima The Mad",45,"Lee Adoulin",24,0.021080791867308723
+"Grima The Mad",45,"RGC Godfather ",25,0.08247422680412371
+"Grima The Mad",45,"Drake Iddon",26,0.0182508877694277
+"Grima The Mad",45,"Rots Mijnwerker",27,0.037871033776867964
+"Grima The Mad",45,"Gustav Mannfred",28,0.06467203682393556
+"Grima The Mad",45,"MILINT ARC Trooper",29,0.06741573033707865
+"Grima The Mad",45,"Gideon Zendikar",30,0.03925662977657131
+"Grima The Mad",45,"Twan Molenaar",31,0.051811824539097266
+"Grima The Mad",45,"Gabriell Bemenacth",32,0.04757709251101322
+"Grima The Mad",45,"Gornilo STrubanov",33,0.05801305293691081
+"Grima The Mad",45,"Nala Queen",34,0.08566165182683451
+"Grima The Mad",45,"Yondu Quill",35,0.03294404741153913
+"Grima The Mad",45,"Rico Shikkoken",36,0.05603448275862069
+"Grima The Mad",45,"Lady Death Strike",37,0.11148857319332922
+"Grima The Mad",45,"Cael Caderu",38,0.031029619181946404
+"Grima The Mad",45,"Kontan Rekor",39,0.01153350026557402
+"Grima The Mad",45,"Kilyavi Alaailaa",40,0.08170961659333752
+"Grima The Mad",45,"Corporal Fillip",41,0.09108744394618834
+"Grima The Mad",45,"Dario Kaelenter",42,0.0791868932038835
+"Grima The Mad",45,"Styxx ",43,0.07606973058637084
+"Grima The Mad",45,"Sol Weintroub ",44,0.06088847468157813
+"Grima The Mad",45,"Grima The Mad",45,1.0
+"Grima The Mad",45,"Dhuras",46,0.06576200417536535
+"Grima The Mad",45,"SeriesPro ",47,0.051126206649982124
+"Grima The Mad",45,"Melicien Tetro",48,0.07220469681037504
+"Grima The Mad",45,"William Chen",49,0.048771676300578035
+"Dhuras",46,"Kazanir",1,0.015665796344647518
+"Dhuras",46,"Alcoholic Satan",2,0.015867291741795887
+"Dhuras",46,"Luke Anninan",3,0.0058524173027989825
+"Dhuras",46,"Angry Mustache",4,0.01612093490266079
+"Dhuras",46,"Storm Delay",5,0.013080540858318637
+"Dhuras",46,"Dark Shines",6,0.026101141924959218
+"Dhuras",46,"Mike Azariah",7,0.018418251654403257
+"Dhuras",46,"The Oz ",8,0.019661148599446576
+"Dhuras",46,"Mark Resurrectus",9,0.02136923230907817
+"Dhuras",46,"Amelia Duskspace",10,0.030789159027500998
+"Dhuras",46,"Dujek Oneye",11,0.011846001974333662
+"Dhuras",46,"Torvald Uruz",12,0.048379871584291474
+"Dhuras",46,"Arhont Sibirskii",13,0.042200979249242244
+"Dhuras",46,"Phantomite ",14,0.03704310768726438
+"Dhuras",46,"Pandoralica ",15,0.01209947393591583
+"Dhuras",46,"White 0rchid",16,0.019072424802554194
+"Dhuras",46,"Stitch Kaneland",17,0.03088803088803089
+"Dhuras",46,"Kelmac",18,0.013257414804113198
+"Dhuras",46,"Kshal Aideron",19,0.017328398384925975
+"Dhuras",46,"DutchGunner",20,0.024095381023845255
+"Dhuras",46,"Velonad Tyldamere",21,0.007849044636486165
+"Dhuras",46,"Larkness",22,0.021659215101838054
+"Dhuras",46,"Nuke Michael",23,0.021722733443958364
+"Dhuras",46,"Lee Adoulin",24,0.013422818791946308
+"Dhuras",46,"RGC Godfather ",25,0.041744548286604365
+"Dhuras",46,"Drake Iddon",26,0.018677307071907633
+"Dhuras",46,"Rots Mijnwerker",27,0.036738101864736986
+"Dhuras",46,"Gustav Mannfred",28,0.05218030377266046
+"Dhuras",46,"MILINT ARC Trooper",29,0.04652605459057072
+"Dhuras",46,"Gideon Zendikar",30,0.03914113173786625
+"Dhuras",46,"Twan Molenaar",31,0.04674868189806678
+"Dhuras",46,"Gabriell Bemenacth",32,0.03717948717948718
+"Dhuras",46,"Gornilo STrubanov",33,0.0477926285945727
+"Dhuras",46,"Nala Queen",34,0.043294270833333336
+"Dhuras",46,"Yondu Quill",35,0.03152654867256637
+"Dhuras",46,"Rico Shikkoken",36,0.07358659886329644
+"Dhuras",46,"Lady Death Strike",37,0.05080385852090032
+"Dhuras",46,"Cael Caderu",38,0.05957669192579044
+"Dhuras",46,"Kontan Rekor",39,0.008455511597238383
+"Dhuras",46,"Kilyavi Alaailaa",40,0.09735449735449736
+"Dhuras",46,"Corporal Fillip",41,0.0712781954887218
+"Dhuras",46,"Dario Kaelenter",42,0.05666557484441533
+"Dhuras",46,"Styxx ",43,0.06395679363274588
+"Dhuras",46,"Sol Weintroub ",44,0.11577424023154848
+"Dhuras",46,"Grima The Mad",45,0.06576200417536535
+"Dhuras",46,"Dhuras",46,1.0
+"Dhuras",46,"SeriesPro ",47,0.0436
+"Dhuras",46,"Melicien Tetro",48,0.06729264475743349
+"Dhuras",46,"William Chen",49,0.0468050468050468
+"SeriesPro ",47,"Kazanir",1,0.014167073766487542
+"SeriesPro ",47,"Alcoholic Satan",2,0.02153987167736022
+"SeriesPro ",47,"Luke Anninan",3,0.006312108158826289
+"SeriesPro ",47,"Angry Mustache",4,0.011742996141586982
+"SeriesPro ",47,"Storm Delay",5,0.013350144626566788
+"SeriesPro ",47,"Dark Shines",6,0.030318536522962774
+"SeriesPro ",47,"Mike Azariah",7,0.011930084157958014
+"SeriesPro ",47,"The Oz ",8,0.01600817438692098
+"SeriesPro ",47,"Mark Resurrectus",9,0.007399314694343745
+"SeriesPro ",47,"Amelia Duskspace",10,0.02046520914445443
+"SeriesPro ",47,"Dujek Oneye",11,0.009392684207455808
+"SeriesPro ",47,"Torvald Uruz",12,0.03294399520814615
+"SeriesPro ",47,"Arhont Sibirskii",13,0.12791904514789829
+"SeriesPro ",47,"Phantomite ",14,0.030051469367424873
+"SeriesPro ",47,"Pandoralica ",15,0.013682790518404316
+"SeriesPro ",47,"White 0rchid",16,0.015220700152207
+"SeriesPro ",47,"Stitch Kaneland",17,0.01616915422885572
+"SeriesPro ",47,"Kelmac",18,0.014268523293794052
+"SeriesPro ",47,"Kshal Aideron",19,0.016645435244161358
+"SeriesPro ",47,"DutchGunner",20,0.016977502718073096
+"SeriesPro ",47,"Velonad Tyldamere",21,0.008329995995194232
+"SeriesPro ",47,"Larkness",22,0.021618903971845148
+"SeriesPro ",47,"Nuke Michael",23,0.027185665739882608
+"SeriesPro ",47,"Lee Adoulin",24,0.015759472448865542
+"SeriesPro ",47,"RGC Godfather ",25,0.05021193348549071
+"SeriesPro ",47,"Drake Iddon",26,0.011584327086882453
+"SeriesPro ",47,"Rots Mijnwerker",27,0.03357245337159254
+"SeriesPro ",47,"Gustav Mannfred",28,0.04039900249376559
+"SeriesPro ",47,"MILINT ARC Trooper",29,0.044330228075811114
+"SeriesPro ",47,"Gideon Zendikar",30,0.02772097250624858
+"SeriesPro ",47,"Twan Molenaar",31,0.04847594564818215
+"SeriesPro ",47,"Gabriell Bemenacth",32,0.03490691489361702
+"SeriesPro ",47,"Gornilo STrubanov",33,0.05389221556886228
+"SeriesPro ",47,"Nala Queen",34,0.06019951840385277
+"SeriesPro ",47,"Yondu Quill",35,0.03186875353573449
+"SeriesPro ",47,"Rico Shikkoken",36,0.04146634615384615
+"SeriesPro ",47,"Lady Death Strike",37,0.05749831876260928
+"SeriesPro ",47,"Cael Caderu",38,0.027168234064785787
+"SeriesPro ",47,"Kontan Rekor",39,0.00901112678263595
+"SeriesPro ",47,"Kilyavi Alaailaa",40,0.09370424597364568
+"SeriesPro ",47,"Corporal Fillip",41,0.04592457420924574
+"SeriesPro ",47,"Dario Kaelenter",42,0.04689608636977058
+"SeriesPro ",47,"Styxx ",43,0.06816169961640602
+"SeriesPro ",47,"Sol Weintroub ",44,0.08940397350993377
+"SeriesPro ",47,"Grima The Mad",45,0.051126206649982124
+"SeriesPro ",47,"Dhuras",46,0.0436
+"SeriesPro ",47,"SeriesPro ",47,1.0
+"SeriesPro ",47,"Melicien Tetro",48,0.046605062274005626
+"SeriesPro ",47,"William Chen",49,0.05560344827586207
+"Melicien Tetro",48,"Kazanir",1,0.014298135445850643
+"Melicien Tetro",48,"Alcoholic Satan",2,0.015049112372713346
+"Melicien Tetro",48,"Luke Anninan",3,0.006878396739130435
+"Melicien Tetro",48,"Angry Mustache",4,0.013636110647297825
+"Melicien Tetro",48,"Storm Delay",5,0.012117206433135052
+"Melicien Tetro",48,"Dark Shines",6,0.028050314465408805
+"Melicien Tetro",48,"Mike Azariah",7,0.021068263028446797
+"Melicien Tetro",48,"The Oz ",8,0.021649233763074677
+"Melicien Tetro",48,"Mark Resurrectus",9,0.018162766329025498
+"Melicien Tetro",48,"Amelia Duskspace",10,0.031006979062811565
+"Melicien Tetro",48,"Dujek Oneye",11,0.014027939464493598
+"Melicien Tetro",48,"Torvald Uruz",12,0.053761826100015016
+"Melicien Tetro",48,"Arhont Sibirskii",13,0.03619489559164733
+"Melicien Tetro",48,"Phantomite ",14,0.03962512331469911
+"Melicien Tetro",48,"Pandoralica ",15,0.010265469824293353
+"Melicien Tetro",48,"White 0rchid",16,0.019335855401429174
+"Melicien Tetro",48,"Stitch Kaneland",17,0.03275742916378715
+"Melicien Tetro",48,"Kelmac",18,0.009400406504065041
+"Melicien Tetro",48,"Kshal Aideron",19,0.026577226797996095
+"Melicien Tetro",48,"DutchGunner",20,0.028391959798994976
+"Melicien Tetro",48,"Velonad Tyldamere",21,0.010656911086368697
+"Melicien Tetro",48,"Larkness",22,0.025438946528332004
+"Melicien Tetro",48,"Nuke Michael",23,0.022198731501057084
+"Melicien Tetro",48,"Lee Adoulin",24,0.01701093560145808
+"Melicien Tetro",48,"RGC Godfather ",25,0.07430041814088131
+"Melicien Tetro",48,"Drake Iddon",26,0.027673063742289238
+"Melicien Tetro",48,"Rots Mijnwerker",27,0.03389830508474576
+"Melicien Tetro",48,"Gustav Mannfred",28,0.03873154199951585
+"Melicien Tetro",48,"MILINT ARC Trooper",29,0.046258925799441165
+"Melicien Tetro",48,"Gideon Zendikar",30,0.037318435754189944
+"Melicien Tetro",48,"Twan Molenaar",31,0.06100606493043168
+"Melicien Tetro",48,"Gabriell Bemenacth",32,0.09782608695652174
+"Melicien Tetro",48,"Gornilo STrubanov",33,0.05299633102323685
+"Melicien Tetro",48,"Nala Queen",34,0.051576872536136666
+"Melicien Tetro",48,"Yondu Quill",35,0.0317401734637387
+"Melicien Tetro",48,"Rico Shikkoken",36,0.06951073985680191
+"Melicien Tetro",48,"Lady Death Strike",37,0.05290322580645161
+"Melicien Tetro",48,"Cael Caderu",38,0.03473818646232439
+"Melicien Tetro",48,"Kontan Rekor",39,0.01777742971258517
+"Melicien Tetro",48,"Kilyavi Alaailaa",40,0.06659800892550635
+"Melicien Tetro",48,"Corporal Fillip",41,0.07104154124021674
+"Melicien Tetro",48,"Dario Kaelenter",42,0.07256990679094541
+"Melicien Tetro",48,"Styxx ",43,0.03976640711902114
+"Melicien Tetro",48,"Sol Weintroub ",44,0.07617051013277429
+"Melicien Tetro",48,"Grima The Mad",45,0.07220469681037504
+"Melicien Tetro",48,"Dhuras",46,0.06729264475743349
+"Melicien Tetro",48,"SeriesPro ",47,0.046605062274005626
+"Melicien Tetro",48,"Melicien Tetro",48,1.0
+"Melicien Tetro",48,"William Chen",49,0.049019607843137254
+"William Chen",49,"Kazanir",1,0.021127455819922994
+"William Chen",49,"Alcoholic Satan",2,0.01526368704871584
+"William Chen",49,"Luke Anninan",3,0.007311754393466456
+"William Chen",49,"Angry Mustache",4,0.017296749112626065
+"William Chen",49,"Storm Delay",5,0.012859585222626924
+"William Chen",49,"Dark Shines",6,0.04238720582499025
+"William Chen",49,"Mike Azariah",7,0.014865053189018441
+"William Chen",49,"The Oz ",8,0.020364205991775994
+"William Chen",49,"Mark Resurrectus",9,0.011287019927083853
+"William Chen",49,"Amelia Duskspace",10,0.025576477696103113
+"William Chen",49,"Dujek Oneye",11,0.012966439802863178
+"William Chen",49,"Torvald Uruz",12,0.034529553679131485
+"William Chen",49,"Arhont Sibirskii",13,0.039806996381182146
+"William Chen",49,"Phantomite ",14,0.02663559180955552
+"William Chen",49,"Pandoralica ",15,0.017094430992736078
+"William Chen",49,"White 0rchid",16,0.024567711008388976
+"William Chen",49,"Stitch Kaneland",17,0.02050495187613335
+"William Chen",49,"Kelmac",18,0.016329704510108865
+"William Chen",49,"Kshal Aideron",19,0.019041926393988558
+"William Chen",49,"DutchGunner",20,0.01515659018589851
+"William Chen",49,"Velonad Tyldamere",21,0.009571302179683102
+"William Chen",49,"Larkness",22,0.017386934673366834
+"William Chen",49,"Nuke Michael",23,0.030383296977251482
+"William Chen",49,"Lee Adoulin",24,0.015710919088766692
+"William Chen",49,"RGC Godfather ",25,0.04359226483120288
+"William Chen",49,"Drake Iddon",26,0.015003429355281208
+"William Chen",49,"Rots Mijnwerker",27,0.043923865300146414
+"William Chen",49,"Gustav Mannfred",28,0.04498357341420268
+"William Chen",49,"MILINT ARC Trooper",29,0.04554326610279766
+"William Chen",49,"Gideon Zendikar",30,0.035549399815327794
+"William Chen",49,"Twan Molenaar",31,0.0437037037037037
+"William Chen",49,"Gabriell Bemenacth",32,0.04625850340136054
+"William Chen",49,"Gornilo STrubanov",33,0.034968017057569294
+"William Chen",49,"Nala Queen",34,0.06654991243432574
+"William Chen",49,"Yondu Quill",35,0.034449942900647124
+"William Chen",49,"Rico Shikkoken",36,0.050873429359485134
+"William Chen",49,"Lady Death Strike",37,0.061113007852509386
+"William Chen",49,"Cael Caderu",38,0.03015075376884422
+"William Chen",49,"Kontan Rekor",39,0.012778040700425935
+"William Chen",49,"Kilyavi Alaailaa",40,0.054305108967488386
+"William Chen",49,"Corporal Fillip",41,0.05357695881077733
+"William Chen",49,"Dario Kaelenter",42,0.04964053406367682
+"William Chen",49,"Styxx ",43,0.06923306475678902
+"William Chen",49,"Sol Weintroub ",44,0.046528274874731566
+"William Chen",49,"Grima The Mad",45,0.048771676300578035
+"William Chen",49,"Dhuras",46,0.0468050468050468
+"William Chen",49,"SeriesPro ",47,0.05560344827586207
+"William Chen",49,"Melicien Tetro",48,0.049019607843137254
+"William Chen",49,"William Chen",49,1.0

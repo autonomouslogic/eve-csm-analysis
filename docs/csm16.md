@@ -317,19 +317,18 @@
 
 ## Candidate Statistics
 
-Ballots are the ballots ranking each candidate at any position. First choice is the number of ballots ranking them first.
-Mean and median rank are across the ballots they appear on.
+See [candidate statistics](/candidate-statistics) for how each column is calculated.
 
 <table>
     <thead>
         <tr>
             <th>Candidate</th>
-            <th>Ballots</th>
-            <th>Ballots %</th>
-            <th>First choice</th>
-            <th>First choice %</th>
-            <th>Mean rank</th>
-            <th>Median rank</th>
+            <th><a href="/candidate-statistics#ballots">Ballots</a></th>
+            <th><a href="/candidate-statistics#ballots">Ballots %</a></th>
+            <th><a href="/candidate-statistics#first-choice">First choice</a></th>
+            <th><a href="/candidate-statistics#first-choice">First choice %</a></th>
+            <th><a href="/candidate-statistics#mean-rank">Mean rank</a></th>
+            <th><a href="/candidate-statistics#median-rank">Median rank</a></th>
         </tr>
     </thead>
     <tbody>
@@ -845,3 +844,49 @@ Number of ballots placing each candidate at each rank.
 ```
 
 [Source data](data/csm16-rank-distribution.csv)
+
+## Candidate Overlap
+
+How often pairs of candidates appear on the same ballots. Each cell is the [Jaccard index](/jaccard-index)
+for two candidates, from 0 (never on the same ballot) to 1 (on exactly the same ballots). Candidates are in the same order as the vote distribution.
+
+```vegalite
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "data/csm16-jaccard.csv",
+    "format": {"type": "csv", "parse": {"Order": "number", "OtherOrder": "number", "Jaccard": "number"}}
+  },
+  "width": {"step": 18},
+  "height": {"step": 18},
+  "mark": {"type": "rect", "tooltip": true},
+  "encoding": {
+    "y": {
+      "field": "Candidate",
+      "type": "nominal",
+      "title": null,
+      "sort": {"op": "min", "field": "Order", "order": "ascending"}
+    },
+    "x": {
+      "field": "Other",
+      "type": "nominal",
+      "title": null,
+      "axis": {"labelAngle": -90},
+      "sort": {"op": "min", "field": "OtherOrder", "order": "ascending"}
+    },
+    "color": {
+      "field": "Jaccard",
+      "type": "quantitative",
+      "title": "Jaccard index",
+      "scale": {"domain": [0, 1], "range": ["#ffffff", "#08306b"], "interpolate": "lab"}
+    },
+    "tooltip": [
+      {"field": "Candidate", "type": "nominal"},
+      {"field": "Other", "type": "nominal", "title": "Compared with"},
+      {"field": "Jaccard", "type": "quantitative", "format": ".3f"}
+    ]
+  }
+}
+```
+
+[Source data](data/csm16-jaccard.csv)

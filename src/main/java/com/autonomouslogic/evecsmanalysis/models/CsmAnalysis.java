@@ -39,6 +39,12 @@ public class CsmAnalysis {
 	List<CandidateStatistics> candidateStatistics;
 
 	/**
+	 * Jaccard index for each pair of candidates, indexed as [row][column] in the same order as {@link #rankDistribution}.
+	 * Null where the pair has no ballots at all.
+	 */
+	List<List<Double>> jaccardIndex;
+
+	/**
 	 * Ballots per ballot size. Index is the number of ranks a ballot defines.
 	 */
 	List<Integer> ballotSizes;

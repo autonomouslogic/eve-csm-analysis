@@ -1,0 +1,2210 @@
+Candidate,Order,Other,OtherOrder,Jaccard
+"Aryth",1,"Aryth",1,1.0
+"Aryth",1,"Sort Dragon",2,0.021791141286776592
+"Aryth",1,"Merkelchen",3,0.7799071421515361
+"Aryth",1,"Jin'taan",4,0.5019738839963559
+"Aryth",1,"Innominate",5,0.7403000976649206
+"Aryth",1,"Killah Bee",6,0.03142034666503338
+"Aryth",1,"Steve Ronuken",7,0.4695679398872887
+"Aryth",1,"Brisc Rubal",8,0.5735219071225487
+"Aryth",1,"Suitonia",9,0.06793243743064974
+"Aryth",1,"The Judge",10,0.6760432505490792
+"Aryth",1,"Tikktokk Tokkzikk",11,0.024065405155930638
+"Aryth",1,"ExookiZ",12,0.017276422764227643
+"Aryth",1,"Tifida",13,0.01285687275477406
+"Aryth",1,"Lorelei Ierendi",14,0.010013531799729363
+"Aryth",1,"Silver Suspiria",15,0.008752117447769622
+"Aryth",1,"bastet 666",16,0.013816102906145784
+"Aryth",1,"Otto Bismarck",17,0.01969327291739282
+"Aryth",1,"Mawderator",18,0.5676437847866419
+"Aryth",1,"Sullen Decimus",19,0.7308754882347337
+"Aryth",1,"Afropty",20,0.008127111679298695
+"Aryth",1,"Arielle en Distel",21,0.010272358872867779
+"Aryth",1,"Damian Blackie",22,0.005716463414634146
+"Aryth",1,"Winter duFallen",23,0.011385199240986717
+"Aryth",1,"Bei ArtJay",24,0.010674257249599715
+"Aryth",1,"Jaha Preynar",25,0.008764241893076249
+"Aryth",1,"Raphendyr Nardieu",26,0.007246376811594203
+"Aryth",1,"commander aze",27,0.7066287878787879
+"Aryth",1,"aspecialpinecone",28,0.005556116779472674
+"Aryth",1,"Xenuria",29,0.04964282484853965
+"Aryth",1,"Malakai Asamov",30,0.00666776424102733
+"Aryth",1,"Carbon Alabel",31,0.007065057403591404
+"Aryth",1,"Razorblade92",32,0.0038434307676747242
+"Aryth",1,"Saint Michaels Soul",33,0.007054337464251668
+"Aryth",1,"Syncopee Farnsworth",34,0.004061584962690092
+"Aryth",1,"Chainsaw Plankton",35,0.007477906186267845
+"Aryth",1,"Claevyan",36,0.006125112963148911
+"Aryth",1,"Eurzadahn",37,0.005054672993604291
+"Aryth",1,"Kali Omega",38,0.007667031763417305
+"Aryth",1,"The Ludocrat",39,0.011483354403708386
+"Aryth",1,"Vincent Eneticum",40,0.008361691784151677
+"Aryth",1,"Cacique Yuhasz",41,0.005052958896122826
+"Aryth",1,"Parobro",42,0.006885919835560124
+"Aryth",1,"Solar Taranogas",43,0.005710966992546704
+"Aryth",1,"Kalen Tsero",44,0.005746547030950701
+"Aryth",1,"Cwittofur Cesaille",45,0.0021175224986765486
+"Aryth",1,"ZepWunderbar",46,0.004559431661541724
+"Aryth",1,"Creecher Virpio",47,0.014401212733703891
+"Sort Dragon",2,"Aryth",1,0.021791141286776592
+"Sort Dragon",2,"Sort Dragon",2,1.0
+"Sort Dragon",2,"Merkelchen",3,0.013100436681222707
+"Sort Dragon",2,"Jin'taan",4,0.11333535537357194
+"Sort Dragon",2,"Innominate",5,0.019121727590782966
+"Sort Dragon",2,"Killah Bee",6,0.5647071847669656
+"Sort Dragon",2,"Steve Ronuken",7,0.11743178515688069
+"Sort Dragon",2,"Brisc Rubal",8,0.08562884582207142
+"Sort Dragon",2,"Suitonia",9,0.16944
+"Sort Dragon",2,"The Judge",10,0.039682058127540804
+"Sort Dragon",2,"Tikktokk Tokkzikk",11,0.3445853863088374
+"Sort Dragon",2,"ExookiZ",12,0.1439511653718091
+"Sort Dragon",2,"Tifida",13,0.024827233171231124
+"Sort Dragon",2,"Lorelei Ierendi",14,0.04325387072990907
+"Sort Dragon",2,"Silver Suspiria",15,0.0291548933984074
+"Sort Dragon",2,"bastet 666",16,0.02665631469979296
+"Sort Dragon",2,"Otto Bismarck",17,0.08229066410009625
+"Sort Dragon",2,"Mawderator",18,0.08821270310192024
+"Sort Dragon",2,"Sullen Decimus",19,0.018642951251646903
+"Sort Dragon",2,"Afropty",20,0.19329896907216496
+"Sort Dragon",2,"Arielle en Distel",21,0.025988989886058123
+"Sort Dragon",2,"Damian Blackie",22,0.12900906083704874
+"Sort Dragon",2,"Winter duFallen",23,0.140879150423444
+"Sort Dragon",2,"Bei ArtJay",24,0.03963487869325006
+"Sort Dragon",2,"Jaha Preynar",25,0.02463515865577721
+"Sort Dragon",2,"Raphendyr Nardieu",26,0.02274131751328637
+"Sort Dragon",2,"commander aze",27,0.020930542594320756
+"Sort Dragon",2,"aspecialpinecone",28,0.015126050420168067
+"Sort Dragon",2,"Xenuria",29,0.0569935882213251
+"Sort Dragon",2,"Malakai Asamov",30,0.3688371424464568
+"Sort Dragon",2,"Carbon Alabel",31,0.01887555615477956
+"Sort Dragon",2,"Razorblade92",32,0.013477467359258739
+"Sort Dragon",2,"Saint Michaels Soul",33,0.02718954248366013
+"Sort Dragon",2,"Syncopee Farnsworth",34,0.017985611510791366
+"Sort Dragon",2,"Chainsaw Plankton",35,0.025682182985553772
+"Sort Dragon",2,"Claevyan",36,0.015551235767842266
+"Sort Dragon",2,"Eurzadahn",37,0.008888888888888889
+"Sort Dragon",2,"Kali Omega",38,0.03215926493108729
+"Sort Dragon",2,"The Ludocrat",39,0.011293634496919919
+"Sort Dragon",2,"Vincent Eneticum",40,0.016039236479321314
+"Sort Dragon",2,"Cacique Yuhasz",41,0.016369443705083843
+"Sort Dragon",2,"Parobro",42,0.018090452261306532
+"Sort Dragon",2,"Solar Taranogas",43,0.01855779427359491
+"Sort Dragon",2,"Kalen Tsero",44,0.015079586707623568
+"Sort Dragon",2,"Cwittofur Cesaille",45,0.007302533532041729
+"Sort Dragon",2,"ZepWunderbar",46,0.006394052044609666
+"Sort Dragon",2,"Creecher Virpio",47,0.02637652489284537
+"Merkelchen",3,"Aryth",1,0.7799071421515361
+"Merkelchen",3,"Sort Dragon",2,0.013100436681222707
+"Merkelchen",3,"Merkelchen",3,1.0
+"Merkelchen",3,"Jin'taan",4,0.470606078990475
+"Merkelchen",3,"Innominate",5,0.7243526121086349
+"Merkelchen",3,"Killah Bee",6,0.01945379723157501
+"Merkelchen",3,"Steve Ronuken",7,0.46896375375567345
+"Merkelchen",3,"Brisc Rubal",8,0.5732398568019093
+"Merkelchen",3,"Suitonia",9,0.04048457877495519
+"Merkelchen",3,"The Judge",10,0.652801503245644
+"Merkelchen",3,"Tikktokk Tokkzikk",11,0.012043329072192693
+"Merkelchen",3,"ExookiZ",12,0.012614215250262796
+"Merkelchen",3,"Tifida",13,0.01771849492335258
+"Merkelchen",3,"Lorelei Ierendi",14,0.017777355261907025
+"Merkelchen",3,"Silver Suspiria",15,0.013374281751535566
+"Merkelchen",3,"bastet 666",16,0.014188649080735413
+"Merkelchen",3,"Otto Bismarck",17,0.01594780717651323
+"Merkelchen",3,"Mawderator",18,0.5719945147036416
+"Merkelchen",3,"Sullen Decimus",19,0.7298434442270059
+"Merkelchen",3,"Afropty",20,0.008411393614987574
+"Merkelchen",3,"Arielle en Distel",21,0.013573763994847915
+"Merkelchen",3,"Damian Blackie",22,0.0050923614578132805
+"Merkelchen",3,"Winter duFallen",23,0.019818961410195332
+"Merkelchen",3,"Bei ArtJay",24,0.007506255212677231
+"Merkelchen",3,"Jaha Preynar",25,0.007246376811594203
+"Merkelchen",3,"Raphendyr Nardieu",26,0.009526558891454965
+"Merkelchen",3,"commander aze",27,0.729335174590649
+"Merkelchen",3,"aspecialpinecone",28,0.007451564828614009
+"Merkelchen",3,"Xenuria",29,0.04042672655811342
+"Merkelchen",3,"Malakai Asamov",30,0.003504872627799624
+"Merkelchen",3,"Carbon Alabel",31,0.009398884527990085
+"Merkelchen",3,"Razorblade92",32,0.0059707857980594945
+"Merkelchen",3,"Saint Michaels Soul",33,0.007601520304060812
+"Merkelchen",3,"Syncopee Farnsworth",34,0.00735148023047884
+"Merkelchen",3,"Chainsaw Plankton",35,0.009911106569939716
+"Merkelchen",3,"Claevyan",36,0.004744333157617291
+"Merkelchen",3,"Eurzadahn",37,0.003579175704989154
+"Merkelchen",3,"Kali Omega",38,0.007638380244846709
+"Merkelchen",3,"The Ludocrat",39,0.013121316579561882
+"Merkelchen",3,"Vincent Eneticum",40,0.008882989585460487
+"Merkelchen",3,"Cacique Yuhasz",41,0.009528688524590163
+"Merkelchen",3,"Parobro",42,0.010532030401737242
+"Merkelchen",3,"Solar Taranogas",43,0.005178190679256778
+"Merkelchen",3,"Kalen Tsero",44,0.007113281664720247
+"Merkelchen",3,"Cwittofur Cesaille",45,0.002905352553357917
+"Merkelchen",3,"ZepWunderbar",46,0.006385123781785594
+"Merkelchen",3,"Creecher Virpio",47,0.008113767230849764
+"Jin'taan",4,"Aryth",1,0.5019738839963559
+"Jin'taan",4,"Sort Dragon",2,0.11333535537357194
+"Jin'taan",4,"Merkelchen",3,0.470606078990475
+"Jin'taan",4,"Jin'taan",4,1.0
+"Jin'taan",4,"Innominate",5,0.5061533974919802
+"Jin'taan",4,"Killah Bee",6,0.14588095001490609
+"Jin'taan",4,"Steve Ronuken",7,0.6263694127957932
+"Jin'taan",4,"Brisc Rubal",8,0.5645079615146571
+"Jin'taan",4,"Suitonia",9,0.2501858341297653
+"Jin'taan",4,"The Judge",10,0.5056614673599076
+"Jin'taan",4,"Tikktokk Tokkzikk",11,0.10893612682877096
+"Jin'taan",4,"ExookiZ",12,0.12472225470705181
+"Jin'taan",4,"Tifida",13,0.02326143435441967
+"Jin'taan",4,"Lorelei Ierendi",14,0.04474568138195777
+"Jin'taan",4,"Silver Suspiria",15,0.039006439742410304
+"Jin'taan",4,"bastet 666",16,0.0272937736078957
+"Jin'taan",4,"Otto Bismarck",17,0.07956393422875384
+"Jin'taan",4,"Mawderator",18,0.6258026159334126
+"Jin'taan",4,"Sullen Decimus",19,0.5233901692586347
+"Jin'taan",4,"Afropty",20,0.06103632675640789
+"Jin'taan",4,"Arielle en Distel",21,0.03804913914588567
+"Jin'taan",4,"Damian Blackie",22,0.013041903151793263
+"Jin'taan",4,"Winter duFallen",23,0.02846512726628477
+"Jin'taan",4,"Bei ArtJay",24,0.09163148745964737
+"Jin'taan",4,"Jaha Preynar",25,0.02345534226282328
+"Jin'taan",4,"Raphendyr Nardieu",26,0.026799570251880147
+"Jin'taan",4,"commander aze",27,0.49737508492372307
+"Jin'taan",4,"aspecialpinecone",28,0.019281663516068054
+"Jin'taan",4,"Xenuria",29,0.08487982963188317
+"Jin'taan",4,"Malakai Asamov",30,0.053019061750941676
+"Jin'taan",4,"Carbon Alabel",31,0.03471001757469244
+"Jin'taan",4,"Razorblade92",32,0.0154707251116282
+"Jin'taan",4,"Saint Michaels Soul",33,0.04527056479232829
+"Jin'taan",4,"Syncopee Farnsworth",34,0.013837083383467693
+"Jin'taan",4,"Chainsaw Plankton",35,0.030295505338962008
+"Jin'taan",4,"Claevyan",36,0.020803217899566337
+"Jin'taan",4,"Eurzadahn",37,0.012622098185969809
+"Jin'taan",4,"Kali Omega",38,0.019527107118347993
+"Jin'taan",4,"The Ludocrat",39,0.008991200102027802
+"Jin'taan",4,"Vincent Eneticum",40,0.014180062343377544
+"Jin'taan",4,"Cacique Yuhasz",41,0.010245776666463377
+"Jin'taan",4,"Parobro",42,0.011109007132487534
+"Jin'taan",4,"Solar Taranogas",43,0.014287458786176578
+"Jin'taan",4,"Kalen Tsero",44,0.023376295173110944
+"Jin'taan",4,"Cwittofur Cesaille",45,0.0037110499712073707
+"Jin'taan",4,"ZepWunderbar",46,0.004479713298348906
+"Jin'taan",4,"Creecher Virpio",47,0.12578577591519782
+"Innominate",5,"Aryth",1,0.7403000976649206
+"Innominate",5,"Sort Dragon",2,0.019121727590782966
+"Innominate",5,"Merkelchen",3,0.7243526121086349
+"Innominate",5,"Jin'taan",4,0.5061533974919802
+"Innominate",5,"Innominate",5,1.0
+"Innominate",5,"Killah Bee",6,0.027384703523345745
+"Innominate",5,"Steve Ronuken",7,0.48195969590925547
+"Innominate",5,"Brisc Rubal",8,0.5262484856642886
+"Innominate",5,"Suitonia",9,0.08667689402879396
+"Innominate",5,"The Judge",10,0.7022280045535859
+"Innominate",5,"Tikktokk Tokkzikk",11,0.019250812335233892
+"Innominate",5,"ExookiZ",12,0.01416349126464879
+"Innominate",5,"Tifida",13,0.01330243734981119
+"Innominate",5,"Lorelei Ierendi",14,0.013860242554244699
+"Innominate",5,"Silver Suspiria",15,0.008968992910224651
+"Innominate",5,"bastet 666",16,0.012687726566545831
+"Innominate",5,"Otto Bismarck",17,0.02049768703142447
+"Innominate",5,"Mawderator",18,0.5693296602387512
+"Innominate",5,"Sullen Decimus",19,0.6729199235713045
+"Innominate",5,"Afropty",20,0.008059155865736125
+"Innominate",5,"Arielle en Distel",21,0.00957183146739595
+"Innominate",5,"Damian Blackie",22,0.00535082419953396
+"Innominate",5,"Winter duFallen",23,0.013947346702979285
+"Innominate",5,"Bei ArtJay",24,0.04208500669344043
+"Innominate",5,"Jaha Preynar",25,0.007300554138446653
+"Innominate",5,"Raphendyr Nardieu",26,0.055327331526964424
+"Innominate",5,"commander aze",27,0.6464254952627045
+"Innominate",5,"aspecialpinecone",28,0.008305951077035415
+"Innominate",5,"Xenuria",29,0.05105925190334326
+"Innominate",5,"Malakai Asamov",30,0.0055098497999849045
+"Innominate",5,"Carbon Alabel",31,0.007809726659566915
+"Innominate",5,"Razorblade92",32,0.004467134652201659
+"Innominate",5,"Saint Michaels Soul",33,0.005087083979996551
+"Innominate",5,"Syncopee Farnsworth",34,0.05451110911217055
+"Innominate",5,"Chainsaw Plankton",35,0.010308370044052863
+"Innominate",5,"Claevyan",36,0.00679470918644682
+"Innominate",5,"Eurzadahn",37,0.0038910505836575876
+"Innominate",5,"Kali Omega",38,0.007276320517427237
+"Innominate",5,"The Ludocrat",39,0.012785301638412728
+"Innominate",5,"Vincent Eneticum",40,0.059813256910418784
+"Innominate",5,"Cacique Yuhasz",41,0.057029300305018946
+"Innominate",5,"Parobro",42,0.008146639511201629
+"Innominate",5,"Solar Taranogas",43,0.05707447298168093
+"Innominate",5,"Kalen Tsero",44,0.007555070089204442
+"Innominate",5,"Cwittofur Cesaille",45,0.001992977128214862
+"Innominate",5,"ZepWunderbar",46,0.005519078884765439
+"Innominate",5,"Creecher Virpio",47,0.05255568017945842
+"Killah Bee",6,"Aryth",1,0.03142034666503338
+"Killah Bee",6,"Sort Dragon",2,0.5647071847669656
+"Killah Bee",6,"Merkelchen",3,0.01945379723157501
+"Killah Bee",6,"Jin'taan",4,0.14588095001490609
+"Killah Bee",6,"Innominate",5,0.027384703523345745
+"Killah Bee",6,"Killah Bee",6,1.0
+"Killah Bee",6,"Steve Ronuken",7,0.1322253960010387
+"Killah Bee",6,"Brisc Rubal",8,0.10601432776142611
+"Killah Bee",6,"Suitonia",9,0.223125
+"Killah Bee",6,"The Judge",10,0.04316629355375696
+"Killah Bee",6,"Tikktokk Tokkzikk",11,0.3923872652405343
+"Killah Bee",6,"ExookiZ",12,0.1729735318444996
+"Killah Bee",6,"Tifida",13,0.03182388502338314
+"Killah Bee",6,"Lorelei Ierendi",14,0.046228176128252994
+"Killah Bee",6,"Silver Suspiria",15,0.030630835800501025
+"Killah Bee",6,"bastet 666",16,0.033164440350069095
+"Killah Bee",6,"Otto Bismarck",17,0.12413174994398386
+"Killah Bee",6,"Mawderator",18,0.11951205477875597
+"Killah Bee",6,"Sullen Decimus",19,0.029061428125974433
+"Killah Bee",6,"Afropty",20,0.15191740412979352
+"Killah Bee",6,"Arielle en Distel",21,0.024097748614096616
+"Killah Bee",6,"Damian Blackie",22,0.1174251948705054
+"Killah Bee",6,"Winter duFallen",23,0.1331192005710207
+"Killah Bee",6,"Bei ArtJay",24,0.06527472527472528
+"Killah Bee",6,"Jaha Preynar",25,0.024036762106751503
+"Killah Bee",6,"Raphendyr Nardieu",26,0.02004381161007667
+"Killah Bee",6,"commander aze",27,0.024045084533500315
+"Killah Bee",6,"aspecialpinecone",28,0.020066477902252862
+"Killah Bee",6,"Xenuria",29,0.0840876867706402
+"Killah Bee",6,"Malakai Asamov",30,0.3376820772640912
+"Killah Bee",6,"Carbon Alabel",31,0.02541159627773801
+"Killah Bee",6,"Razorblade92",32,0.020642768850432633
+"Killah Bee",6,"Saint Michaels Soul",33,0.04794439863352574
+"Killah Bee",6,"Syncopee Farnsworth",34,0.01875639422530408
+"Killah Bee",6,"Chainsaw Plankton",35,0.02993020229504318
+"Killah Bee",6,"Claevyan",36,0.016058394160583942
+"Killah Bee",6,"Eurzadahn",37,0.009627406851712927
+"Killah Bee",6,"Kali Omega",38,0.03060602365565175
+"Killah Bee",6,"The Ludocrat",39,0.013154533844189017
+"Killah Bee",6,"Vincent Eneticum",40,0.022799388882359856
+"Killah Bee",6,"Cacique Yuhasz",41,0.015807962529274005
+"Killah Bee",6,"Parobro",42,0.02509457755359395
+"Killah Bee",6,"Solar Taranogas",43,0.013714551371455138
+"Killah Bee",6,"Kalen Tsero",44,0.024161735700197237
+"Killah Bee",6,"Cwittofur Cesaille",45,0.00412105602060528
+"Killah Bee",6,"ZepWunderbar",46,0.009179056237879768
+"Killah Bee",6,"Creecher Virpio",47,0.06485377116469984
+"Steve Ronuken",7,"Aryth",1,0.4695679398872887
+"Steve Ronuken",7,"Sort Dragon",2,0.11743178515688069
+"Steve Ronuken",7,"Merkelchen",3,0.46896375375567345
+"Steve Ronuken",7,"Jin'taan",4,0.6263694127957932
+"Steve Ronuken",7,"Innominate",5,0.48195969590925547
+"Steve Ronuken",7,"Killah Bee",6,0.1322253960010387
+"Steve Ronuken",7,"Steve Ronuken",7,1.0
+"Steve Ronuken",7,"Brisc Rubal",8,0.53892979303148
+"Steve Ronuken",7,"Suitonia",9,0.188723529097989
+"Steve Ronuken",7,"The Judge",10,0.4609177121988573
+"Steve Ronuken",7,"Tikktokk Tokkzikk",11,0.10593631948192121
+"Steve Ronuken",7,"ExookiZ",12,0.13465059024051512
+"Steve Ronuken",7,"Tifida",13,0.0205078125
+"Steve Ronuken",7,"Lorelei Ierendi",14,0.06893814091961628
+"Steve Ronuken",7,"Silver Suspiria",15,0.041168658698539175
+"Steve Ronuken",7,"bastet 666",16,0.020206643996861104
+"Steve Ronuken",7,"Otto Bismarck",17,0.06896330510649218
+"Steve Ronuken",7,"Mawderator",18,0.5996197951799841
+"Steve Ronuken",7,"Sullen Decimus",19,0.48975911374468634
+"Steve Ronuken",7,"Afropty",20,0.07729078300679998
+"Steve Ronuken",7,"Arielle en Distel",21,0.05361822213263455
+"Steve Ronuken",7,"Damian Blackie",22,0.01570989068534398
+"Steve Ronuken",7,"Winter duFallen",23,0.04896103896103896
+"Steve Ronuken",7,"Bei ArtJay",24,0.08292974192264313
+"Steve Ronuken",7,"Jaha Preynar",25,0.04061948104877055
+"Steve Ronuken",7,"Raphendyr Nardieu",26,0.039311558771758265
+"Steve Ronuken",7,"commander aze",27,0.4982398956975228
+"Steve Ronuken",7,"aspecialpinecone",28,0.017741385192766974
+"Steve Ronuken",7,"Xenuria",29,0.07507137295613807
+"Steve Ronuken",7,"Malakai Asamov",30,0.07450931366420803
+"Steve Ronuken",7,"Carbon Alabel",31,0.03733987462523849
+"Steve Ronuken",7,"Razorblade92",32,0.014723926380368098
+"Steve Ronuken",7,"Saint Michaels Soul",33,0.03755931297199759
+"Steve Ronuken",7,"Syncopee Farnsworth",34,0.028090999010880316
+"Steve Ronuken",7,"Chainsaw Plankton",35,0.04454737415707377
+"Steve Ronuken",7,"Claevyan",36,0.02175692265720911
+"Steve Ronuken",7,"Eurzadahn",37,0.015820379965457685
+"Steve Ronuken",7,"Kali Omega",38,0.02466367713004484
+"Steve Ronuken",7,"The Ludocrat",39,0.005940867642995303
+"Steve Ronuken",7,"Vincent Eneticum",40,0.01657605092162843
+"Steve Ronuken",7,"Cacique Yuhasz",41,0.00943209550821186
+"Steve Ronuken",7,"Parobro",42,0.012069674941708956
+"Steve Ronuken",7,"Solar Taranogas",43,0.011864741941862765
+"Steve Ronuken",7,"Kalen Tsero",44,0.02406417112299465
+"Steve Ronuken",7,"Cwittofur Cesaille",45,0.0044562038713271135
+"Steve Ronuken",7,"ZepWunderbar",46,0.0034060892534408453
+"Steve Ronuken",7,"Creecher Virpio",47,0.07646537536397012
+"Brisc Rubal",8,"Aryth",1,0.5735219071225487
+"Brisc Rubal",8,"Sort Dragon",2,0.08562884582207142
+"Brisc Rubal",8,"Merkelchen",3,0.5732398568019093
+"Brisc Rubal",8,"Jin'taan",4,0.5645079615146571
+"Brisc Rubal",8,"Innominate",5,0.5262484856642886
+"Brisc Rubal",8,"Killah Bee",6,0.10601432776142611
+"Brisc Rubal",8,"Steve Ronuken",7,0.53892979303148
+"Brisc Rubal",8,"Brisc Rubal",8,1.0
+"Brisc Rubal",8,"Suitonia",9,0.11171662125340599
+"Brisc Rubal",8,"The Judge",10,0.5243448184116004
+"Brisc Rubal",8,"Tikktokk Tokkzikk",11,0.07498555748122472
+"Brisc Rubal",8,"ExookiZ",12,0.11342560553633219
+"Brisc Rubal",8,"Tifida",13,0.0167367101673671
+"Brisc Rubal",8,"Lorelei Ierendi",14,0.02469844916714532
+"Brisc Rubal",8,"Silver Suspiria",15,0.025117039459017613
+"Brisc Rubal",8,"bastet 666",16,0.01856527550868855
+"Brisc Rubal",8,"Otto Bismarck",17,0.04949932533200767
+"Brisc Rubal",8,"Mawderator",18,0.6135484731297506
+"Brisc Rubal",8,"Sullen Decimus",19,0.5747535393966348
+"Brisc Rubal",8,"Afropty",20,0.07673531655225019
+"Brisc Rubal",8,"Arielle en Distel",21,0.01762926901231836
+"Brisc Rubal",8,"Damian Blackie",22,0.011050953051991396
+"Brisc Rubal",8,"Winter duFallen",23,0.03159340659340659
+"Brisc Rubal",8,"Bei ArtJay",24,0.047750362844702465
+"Brisc Rubal",8,"Jaha Preynar",25,0.01564862413063199
+"Brisc Rubal",8,"Raphendyr Nardieu",26,0.015459076789713212
+"Brisc Rubal",8,"commander aze",27,0.5770668261324563
+"Brisc Rubal",8,"aspecialpinecone",28,0.0105475414921669
+"Brisc Rubal",8,"Xenuria",29,0.05397645707723227
+"Brisc Rubal",8,"Malakai Asamov",30,0.06692227256883931
+"Brisc Rubal",8,"Carbon Alabel",31,0.01622733506018589
+"Brisc Rubal",8,"Razorblade92",32,0.005957907768492727
+"Brisc Rubal",8,"Saint Michaels Soul",33,0.026799156880457694
+"Brisc Rubal",8,"Syncopee Farnsworth",34,0.008461481862997573
+"Brisc Rubal",8,"Chainsaw Plankton",35,0.017013232514177693
+"Brisc Rubal",8,"Claevyan",36,0.009636882275846118
+"Brisc Rubal",8,"Eurzadahn",37,0.007624587329036315
+"Brisc Rubal",8,"Kali Omega",38,0.010568234032776841
+"Brisc Rubal",8,"The Ludocrat",39,0.008672819859961808
+"Brisc Rubal",8,"Vincent Eneticum",40,0.0071904726237735
+"Brisc Rubal",8,"Cacique Yuhasz",41,0.005846638183044749
+"Brisc Rubal",8,"Parobro",42,0.008618663323669984
+"Brisc Rubal",8,"Solar Taranogas",43,0.0068790189920741734
+"Brisc Rubal",8,"Kalen Tsero",44,0.01564080616294452
+"Brisc Rubal",8,"Cwittofur Cesaille",45,0.002718477652514592
+"Brisc Rubal",8,"ZepWunderbar",46,0.003839385698288274
+"Brisc Rubal",8,"Creecher Virpio",47,0.04448435449333425
+"Suitonia",9,"Aryth",1,0.06793243743064974
+"Suitonia",9,"Sort Dragon",2,0.16944
+"Suitonia",9,"Merkelchen",3,0.04048457877495519
+"Suitonia",9,"Jin'taan",4,0.2501858341297653
+"Suitonia",9,"Innominate",5,0.08667689402879396
+"Suitonia",9,"Killah Bee",6,0.223125
+"Suitonia",9,"Steve Ronuken",7,0.188723529097989
+"Suitonia",9,"Brisc Rubal",8,0.11171662125340599
+"Suitonia",9,"Suitonia",9,1.0
+"Suitonia",9,"The Judge",10,0.08294636638031112
+"Suitonia",9,"Tikktokk Tokkzikk",11,0.3062636562272396
+"Suitonia",9,"ExookiZ",12,0.1415749855240301
+"Suitonia",9,"Tifida",13,0.040620222756060274
+"Suitonia",9,"Lorelei Ierendi",14,0.06295785115192695
+"Suitonia",9,"Silver Suspiria",15,0.07849790747652981
+"Suitonia",9,"bastet 666",16,0.03912087912087912
+"Suitonia",9,"Otto Bismarck",17,0.10529634300126103
+"Suitonia",9,"Mawderator",18,0.1681312243702402
+"Suitonia",9,"Sullen Decimus",19,0.062093546773386694
+"Suitonia",9,"Afropty",20,0.035838150289017344
+"Suitonia",9,"Arielle en Distel",21,0.05779256794231836
+"Suitonia",9,"Damian Blackie",22,0.10505836575875487
+"Suitonia",9,"Winter duFallen",23,0.04587251828631139
+"Suitonia",9,"Bei ArtJay",24,0.15882955709894114
+"Suitonia",9,"Jaha Preynar",25,0.03989572707695795
+"Suitonia",9,"Raphendyr Nardieu",26,0.04223404255319149
+"Suitonia",9,"commander aze",27,0.05879393825064453
+"Suitonia",9,"aspecialpinecone",28,0.03115814226925338
+"Suitonia",9,"Xenuria",29,0.14865013774104682
+"Suitonia",9,"Malakai Asamov",30,0.10849056603773585
+"Suitonia",9,"Carbon Alabel",31,0.04983811285846439
+"Suitonia",9,"Razorblade92",32,0.02956419316843345
+"Suitonia",9,"Saint Michaels Soul",33,0.06651506537805571
+"Suitonia",9,"Syncopee Farnsworth",34,0.020196565503834106
+"Suitonia",9,"Chainsaw Plankton",35,0.053174421269768506
+"Suitonia",9,"Claevyan",36,0.0347815903501581
+"Suitonia",9,"Eurzadahn",37,0.0230695672961989
+"Suitonia",9,"Kali Omega",38,0.031275245239469125
+"Suitonia",9,"The Ludocrat",39,0.010929618063896229
+"Suitonia",9,"Vincent Eneticum",40,0.01851441241685144
+"Suitonia",9,"Cacique Yuhasz",41,0.01800600200066689
+"Suitonia",9,"Parobro",42,0.016883116883116882
+"Suitonia",9,"Solar Taranogas",43,0.022548039542374766
+"Suitonia",9,"Kalen Tsero",44,0.044180522565320665
+"Suitonia",9,"Cwittofur Cesaille",45,0.007298382191947452
+"Suitonia",9,"ZepWunderbar",46,0.005579815623483746
+"Suitonia",9,"Creecher Virpio",47,0.12923684757745893
+"The Judge",10,"Aryth",1,0.6760432505490792
+"The Judge",10,"Sort Dragon",2,0.039682058127540804
+"The Judge",10,"Merkelchen",3,0.652801503245644
+"The Judge",10,"Jin'taan",4,0.5056614673599076
+"The Judge",10,"Innominate",5,0.7022280045535859
+"The Judge",10,"Killah Bee",6,0.04316629355375696
+"The Judge",10,"Steve Ronuken",7,0.4609177121988573
+"The Judge",10,"Brisc Rubal",8,0.5243448184116004
+"The Judge",10,"Suitonia",9,0.08294636638031112
+"The Judge",10,"The Judge",10,1.0
+"The Judge",10,"Tikktokk Tokkzikk",11,0.03219291266295367
+"The Judge",10,"ExookiZ",12,0.029051000645577793
+"The Judge",10,"Tifida",13,0.018773784355179703
+"The Judge",10,"Lorelei Ierendi",14,0.022274804177545692
+"The Judge",10,"Silver Suspiria",15,0.014734360528753052
+"The Judge",10,"bastet 666",16,0.023245876420818733
+"The Judge",10,"Otto Bismarck",17,0.03616852146263911
+"The Judge",10,"Mawderator",18,0.5301853366039793
+"The Judge",10,"Sullen Decimus",19,0.6506136267456623
+"The Judge",10,"Afropty",20,0.012603322694164825
+"The Judge",10,"Arielle en Distel",21,0.017044975107585857
+"The Judge",10,"Damian Blackie",22,0.007798592862592184
+"The Judge",10,"Winter duFallen",23,0.018622428234528747
+"The Judge",10,"Bei ArtJay",24,0.024368595174695393
+"The Judge",10,"Jaha Preynar",25,0.012645071886367574
+"The Judge",10,"Raphendyr Nardieu",26,0.05863136176066025
+"The Judge",10,"commander aze",27,0.6345747825352589
+"The Judge",10,"aspecialpinecone",28,0.009660971464352804
+"The Judge",10,"Xenuria",29,0.056580666231221426
+"The Judge",10,"Malakai Asamov",30,0.008552093403733174
+"The Judge",10,"Carbon Alabel",31,0.014079580236117184
+"The Judge",10,"Razorblade92",32,0.008962179602079226
+"The Judge",10,"Saint Michaels Soul",33,0.016663818150743463
+"The Judge",10,"Syncopee Farnsworth",34,0.05624227441285538
+"The Judge",10,"Chainsaw Plankton",35,0.015263203538288092
+"The Judge",10,"Claevyan",36,0.01014325117893051
+"The Judge",10,"Eurzadahn",37,0.007366984993178717
+"The Judge",10,"Kali Omega",38,0.011123863335393308
+"The Judge",10,"The Ludocrat",39,0.014944769330734242
+"The Judge",10,"Vincent Eneticum",40,0.06091370558375635
+"The Judge",10,"Cacique Yuhasz",41,0.05789616743680348
+"The Judge",10,"Parobro",42,0.010623808226641242
+"The Judge",10,"Solar Taranogas",43,0.058605743182228644
+"The Judge",10,"Kalen Tsero",44,0.01144799212950541
+"The Judge",10,"Cwittofur Cesaille",45,0.00427827380952381
+"The Judge",10,"ZepWunderbar",46,0.006894624056647722
+"The Judge",10,"Creecher Virpio",47,0.03257178141401667
+"Tikktokk Tokkzikk",11,"Aryth",1,0.024065405155930638
+"Tikktokk Tokkzikk",11,"Sort Dragon",2,0.3445853863088374
+"Tikktokk Tokkzikk",11,"Merkelchen",3,0.012043329072192693
+"Tikktokk Tokkzikk",11,"Jin'taan",4,0.10893612682877096
+"Tikktokk Tokkzikk",11,"Innominate",5,0.019250812335233892
+"Tikktokk Tokkzikk",11,"Killah Bee",6,0.3923872652405343
+"Tikktokk Tokkzikk",11,"Steve Ronuken",7,0.10593631948192121
+"Tikktokk Tokkzikk",11,"Brisc Rubal",8,0.07498555748122472
+"Tikktokk Tokkzikk",11,"Suitonia",9,0.3062636562272396
+"Tikktokk Tokkzikk",11,"The Judge",10,0.03219291266295367
+"Tikktokk Tokkzikk",11,"Tikktokk Tokkzikk",11,1.0
+"Tikktokk Tokkzikk",11,"ExookiZ",12,0.1306747775149262
+"Tikktokk Tokkzikk",11,"Tifida",13,0.03269718403843588
+"Tikktokk Tokkzikk",11,"Lorelei Ierendi",14,0.029688087185268695
+"Tikktokk Tokkzikk",11,"Silver Suspiria",15,0.04947140146381133
+"Tikktokk Tokkzikk",11,"bastet 666",16,0.026245313336904125
+"Tikktokk Tokkzikk",11,"Otto Bismarck",17,0.08370591157476404
+"Tikktokk Tokkzikk",11,"Mawderator",18,0.1105807478122514
+"Tikktokk Tokkzikk",11,"Sullen Decimus",19,0.020966332907734694
+"Tikktokk Tokkzikk",11,"Afropty",20,0.05013673655423884
+"Tikktokk Tokkzikk",11,"Arielle en Distel",21,0.02298546895640687
+"Tikktokk Tokkzikk",11,"Damian Blackie",22,0.12898421209413166
+"Tikktokk Tokkzikk",11,"Winter duFallen",23,0.06700428515777172
+"Tikktokk Tokkzikk",11,"Bei ArtJay",24,0.09235378403022014
+"Tikktokk Tokkzikk",11,"Jaha Preynar",25,0.01764300482425913
+"Tikktokk Tokkzikk",11,"Raphendyr Nardieu",26,0.022480521139353685
+"Tikktokk Tokkzikk",11,"commander aze",27,0.02263304560592673
+"Tikktokk Tokkzikk",11,"aspecialpinecone",28,0.020324608860944584
+"Tikktokk Tokkzikk",11,"Xenuria",29,0.08238244514106582
+"Tikktokk Tokkzikk",11,"Malakai Asamov",30,0.16097867001254706
+"Tikktokk Tokkzikk",11,"Carbon Alabel",31,0.02561576354679803
+"Tikktokk Tokkzikk",11,"Razorblade92",32,0.022814247865763908
+"Tikktokk Tokkzikk",11,"Saint Michaels Soul",33,0.039736914223074814
+"Tikktokk Tokkzikk",11,"Syncopee Farnsworth",34,0.012166093626024862
+"Tikktokk Tokkzikk",11,"Chainsaw Plankton",35,0.030649205906937867
+"Tikktokk Tokkzikk",11,"Claevyan",36,0.023390963242772046
+"Tikktokk Tokkzikk",11,"Eurzadahn",37,0.00969859743360191
+"Tikktokk Tokkzikk",11,"Kali Omega",38,0.02496413199426112
+"Tikktokk Tokkzikk",11,"The Ludocrat",39,0.006838905775075988
+"Tikktokk Tokkzikk",11,"Vincent Eneticum",40,0.013569078947368422
+"Tikktokk Tokkzikk",11,"Cacique Yuhasz",41,0.01000822593912805
+"Tikktokk Tokkzikk",11,"Parobro",42,0.013521545319465082
+"Tikktokk Tokkzikk",11,"Solar Taranogas",43,0.01519923319183897
+"Tikktokk Tokkzikk",11,"Kalen Tsero",44,0.03996434407963156
+"Tikktokk Tokkzikk",11,"Cwittofur Cesaille",45,0.004022899582237351
+"Tikktokk Tokkzikk",11,"ZepWunderbar",46,0.004793567341889593
+"Tikktokk Tokkzikk",11,"Creecher Virpio",47,0.04193474264705882
+"ExookiZ",12,"Aryth",1,0.017276422764227643
+"ExookiZ",12,"Sort Dragon",2,0.1439511653718091
+"ExookiZ",12,"Merkelchen",3,0.012614215250262796
+"ExookiZ",12,"Jin'taan",4,0.12472225470705181
+"ExookiZ",12,"Innominate",5,0.01416349126464879
+"ExookiZ",12,"Killah Bee",6,0.1729735318444996
+"ExookiZ",12,"Steve Ronuken",7,0.13465059024051512
+"ExookiZ",12,"Brisc Rubal",8,0.11342560553633219
+"ExookiZ",12,"Suitonia",9,0.1415749855240301
+"ExookiZ",12,"The Judge",10,0.029051000645577793
+"ExookiZ",12,"Tikktokk Tokkzikk",11,0.1306747775149262
+"ExookiZ",12,"ExookiZ",12,1.0
+"ExookiZ",12,"Tifida",13,0.06098800569221387
+"ExookiZ",12,"Lorelei Ierendi",14,0.03654545454545455
+"ExookiZ",12,"Silver Suspiria",15,0.0585612968591692
+"ExookiZ",12,"bastet 666",16,0.02347324447980903
+"ExookiZ",12,"Otto Bismarck",17,0.11117078410311493
+"ExookiZ",12,"Mawderator",18,0.11899477339442972
+"ExookiZ",12,"Sullen Decimus",19,0.0402166776099803
+"ExookiZ",12,"Afropty",20,0.21361348216239878
+"ExookiZ",12,"Arielle en Distel",21,0.06894435351882161
+"ExookiZ",12,"Damian Blackie",22,0.028031687995124923
+"ExookiZ",12,"Winter duFallen",23,0.07651615341016436
+"ExookiZ",12,"Bei ArtJay",24,0.11180595035057798
+"ExookiZ",12,"Jaha Preynar",25,0.03291569335315354
+"ExookiZ",12,"Raphendyr Nardieu",26,0.08269192816262089
+"ExookiZ",12,"commander aze",27,0.023531334259334912
+"ExookiZ",12,"aspecialpinecone",28,0.030268022181146027
+"ExookiZ",12,"Xenuria",29,0.07908208296557812
+"ExookiZ",12,"Malakai Asamov",30,0.17562849162011174
+"ExookiZ",12,"Carbon Alabel",31,0.024054982817869417
+"ExookiZ",12,"Razorblade92",32,0.07134220072551391
+"ExookiZ",12,"Saint Michaels Soul",33,0.09081127609210243
+"ExookiZ",12,"Syncopee Farnsworth",34,0.01622798337621215
+"ExookiZ",12,"Chainsaw Plankton",35,0.038527032779906344
+"ExookiZ",12,"Claevyan",36,0.06999290612437929
+"ExookiZ",12,"Eurzadahn",37,0.017241379310344827
+"ExookiZ",12,"Kali Omega",38,0.03490713806220631
+"ExookiZ",12,"The Ludocrat",39,0.007607361963190184
+"ExookiZ",12,"Vincent Eneticum",40,0.019017763845350054
+"ExookiZ",12,"Cacique Yuhasz",41,0.011475067807218861
+"ExookiZ",12,"Parobro",42,0.01702127659574468
+"ExookiZ",12,"Solar Taranogas",43,0.0322648671446647
+"ExookiZ",12,"Kalen Tsero",44,0.04647361046240075
+"ExookiZ",12,"Cwittofur Cesaille",45,0.011464968152866241
+"ExookiZ",12,"ZepWunderbar",46,0.007596859964547987
+"ExookiZ",12,"Creecher Virpio",47,0.04349211406722957
+"Tifida",13,"Aryth",1,0.01285687275477406
+"Tifida",13,"Sort Dragon",2,0.024827233171231124
+"Tifida",13,"Merkelchen",3,0.01771849492335258
+"Tifida",13,"Jin'taan",4,0.02326143435441967
+"Tifida",13,"Innominate",5,0.01330243734981119
+"Tifida",13,"Killah Bee",6,0.03182388502338314
+"Tifida",13,"Steve Ronuken",7,0.0205078125
+"Tifida",13,"Brisc Rubal",8,0.0167367101673671
+"Tifida",13,"Suitonia",9,0.040620222756060274
+"Tifida",13,"The Judge",10,0.018773784355179703
+"Tifida",13,"Tikktokk Tokkzikk",11,0.03269718403843588
+"Tifida",13,"ExookiZ",12,0.06098800569221387
+"Tifida",13,"Tifida",13,1.0
+"Tifida",13,"Lorelei Ierendi",14,0.08759590792838874
+"Tifida",13,"Silver Suspiria",15,0.05901520637219406
+"Tifida",13,"bastet 666",16,0.1415964701163257
+"Tifida",13,"Otto Bismarck",17,0.06340136054421769
+"Tifida",13,"Mawderator",18,0.01623846916215598
+"Tifida",13,"Sullen Decimus",19,0.013777604064881767
+"Tifida",13,"Afropty",20,0.02982233502538071
+"Tifida",13,"Arielle en Distel",21,0.09057025717480433
+"Tifida",13,"Damian Blackie",22,0.036397748592870545
+"Tifida",13,"Winter duFallen",23,0.06819610307982402
+"Tifida",13,"Bei ArtJay",24,0.01855552383671139
+"Tifida",13,"Jaha Preynar",25,0.04736627194773377
+"Tifida",13,"Raphendyr Nardieu",26,0.07378706199460916
+"Tifida",13,"commander aze",27,0.014783212620299633
+"Tifida",13,"aspecialpinecone",28,0.02857142857142857
+"Tifida",13,"Xenuria",29,0.05504840940525588
+"Tifida",13,"Malakai Asamov",30,0.018603582912264584
+"Tifida",13,"Carbon Alabel",31,0.05965665236051502
+"Tifida",13,"Razorblade92",32,0.09506680369989723
+"Tifida",13,"Saint Michaels Soul",33,0.03706476974915762
+"Tifida",13,"Syncopee Farnsworth",34,0.047654229774658295
+"Tifida",13,"Chainsaw Plankton",35,0.04116222760290557
+"Tifida",13,"Claevyan",36,0.08957415565345081
+"Tifida",13,"Eurzadahn",37,0.030671602326811213
+"Tifida",13,"Kali Omega",38,0.05439709882139619
+"Tifida",13,"The Ludocrat",39,0.026704545454545453
+"Tifida",13,"Vincent Eneticum",40,0.02587579617834395
+"Tifida",13,"Cacique Yuhasz",41,0.06252605252188412
+"Tifida",13,"Parobro",42,0.03943954333160353
+"Tifida",13,"Solar Taranogas",43,0.04593070104754231
+"Tifida",13,"Kalen Tsero",44,0.030703826169107228
+"Tifida",13,"Cwittofur Cesaille",45,0.018902439024390243
+"Tifida",13,"ZepWunderbar",46,0.02878138395590937
+"Tifida",13,"Creecher Virpio",47,0.020158387329013677
+"Lorelei Ierendi",14,"Aryth",1,0.010013531799729363
+"Lorelei Ierendi",14,"Sort Dragon",2,0.04325387072990907
+"Lorelei Ierendi",14,"Merkelchen",3,0.017777355261907025
+"Lorelei Ierendi",14,"Jin'taan",4,0.04474568138195777
+"Lorelei Ierendi",14,"Innominate",5,0.013860242554244699
+"Lorelei Ierendi",14,"Killah Bee",6,0.046228176128252994
+"Lorelei Ierendi",14,"Steve Ronuken",7,0.06893814091961628
+"Lorelei Ierendi",14,"Brisc Rubal",8,0.02469844916714532
+"Lorelei Ierendi",14,"Suitonia",9,0.06295785115192695
+"Lorelei Ierendi",14,"The Judge",10,0.022274804177545692
+"Lorelei Ierendi",14,"Tikktokk Tokkzikk",11,0.029688087185268695
+"Lorelei Ierendi",14,"ExookiZ",12,0.03654545454545455
+"Lorelei Ierendi",14,"Tifida",13,0.08759590792838874
+"Lorelei Ierendi",14,"Lorelei Ierendi",14,1.0
+"Lorelei Ierendi",14,"Silver Suspiria",15,0.08468640560331105
+"Lorelei Ierendi",14,"bastet 666",16,0.07737131757850436
+"Lorelei Ierendi",14,"Otto Bismarck",17,0.08368304122438903
+"Lorelei Ierendi",14,"Mawderator",18,0.020239326340670705
+"Lorelei Ierendi",14,"Sullen Decimus",19,0.017144463181562677
+"Lorelei Ierendi",14,"Afropty",20,0.048663853727144865
+"Lorelei Ierendi",14,"Arielle en Distel",21,0.18292259632072197
+"Lorelei Ierendi",14,"Damian Blackie",22,0.03974358974358974
+"Lorelei Ierendi",14,"Winter duFallen",23,0.10538308174309313
+"Lorelei Ierendi",14,"Bei ArtJay",24,0.04462213051328347
+"Lorelei Ierendi",14,"Jaha Preynar",25,0.1446280991735537
+"Lorelei Ierendi",14,"Raphendyr Nardieu",26,0.11148136928203575
+"Lorelei Ierendi",14,"commander aze",27,0.03458268933539413
+"Lorelei Ierendi",14,"aspecialpinecone",28,0.05342902711323764
+"Lorelei Ierendi",14,"Xenuria",29,0.06918865107018417
+"Lorelei Ierendi",14,"Malakai Asamov",30,0.022457891453524642
+"Lorelei Ierendi",14,"Carbon Alabel",31,0.10939849624060151
+"Lorelei Ierendi",14,"Razorblade92",32,0.03979307600477517
+"Lorelei Ierendi",14,"Saint Michaels Soul",33,0.06344015696533682
+"Lorelei Ierendi",14,"Syncopee Farnsworth",34,0.14138286893704852
+"Lorelei Ierendi",14,"Chainsaw Plankton",35,0.1493993993993994
+"Lorelei Ierendi",14,"Claevyan",36,0.0541066562864928
+"Lorelei Ierendi",14,"Eurzadahn",37,0.05879790940766551
+"Lorelei Ierendi",14,"Kali Omega",38,0.12680577849117175
+"Lorelei Ierendi",14,"The Ludocrat",39,0.025997310623038995
+"Lorelei Ierendi",14,"Vincent Eneticum",40,0.06622516556291391
+"Lorelei Ierendi",14,"Cacique Yuhasz",41,0.07102473498233215
+"Lorelei Ierendi",14,"Parobro",42,0.08610139860139861
+"Lorelei Ierendi",14,"Solar Taranogas",43,0.04480651731160896
+"Lorelei Ierendi",14,"Kalen Tsero",44,0.05463182897862233
+"Lorelei Ierendi",14,"Cwittofur Cesaille",45,0.02768496420047733
+"Lorelei Ierendi",14,"ZepWunderbar",46,0.02318977756743966
+"Lorelei Ierendi",14,"Creecher Virpio",47,0.025568797399783315
+"Silver Suspiria",15,"Aryth",1,0.008752117447769622
+"Silver Suspiria",15,"Sort Dragon",2,0.0291548933984074
+"Silver Suspiria",15,"Merkelchen",3,0.013374281751535566
+"Silver Suspiria",15,"Jin'taan",4,0.039006439742410304
+"Silver Suspiria",15,"Innominate",5,0.008968992910224651
+"Silver Suspiria",15,"Killah Bee",6,0.030630835800501025
+"Silver Suspiria",15,"Steve Ronuken",7,0.041168658698539175
+"Silver Suspiria",15,"Brisc Rubal",8,0.025117039459017613
+"Silver Suspiria",15,"Suitonia",9,0.07849790747652981
+"Silver Suspiria",15,"The Judge",10,0.014734360528753052
+"Silver Suspiria",15,"Tikktokk Tokkzikk",11,0.04947140146381133
+"Silver Suspiria",15,"ExookiZ",12,0.0585612968591692
+"Silver Suspiria",15,"Tifida",13,0.05901520637219406
+"Silver Suspiria",15,"Lorelei Ierendi",14,0.08468640560331105
+"Silver Suspiria",15,"Silver Suspiria",15,1.0
+"Silver Suspiria",15,"bastet 666",16,0.04165144318597004
+"Silver Suspiria",15,"Otto Bismarck",17,0.056140350877192984
+"Silver Suspiria",15,"Mawderator",18,0.030207045735475897
+"Silver Suspiria",15,"Sullen Decimus",19,0.01140017538731365
+"Silver Suspiria",15,"Afropty",20,0.0172090112640801
+"Silver Suspiria",15,"Arielle en Distel",21,0.09324878776575904
+"Silver Suspiria",15,"Damian Blackie",22,0.028242289111854328
+"Silver Suspiria",15,"Winter duFallen",23,0.06441525953721075
+"Silver Suspiria",15,"Bei ArtJay",24,0.081089258698941
+"Silver Suspiria",15,"Jaha Preynar",25,0.07711651299245599
+"Silver Suspiria",15,"Raphendyr Nardieu",26,0.034348671419313026
+"Silver Suspiria",15,"commander aze",27,0.023607082124637392
+"Silver Suspiria",15,"aspecialpinecone",28,0.0686080947680158
+"Silver Suspiria",15,"Xenuria",29,0.057308970099667775
+"Silver Suspiria",15,"Malakai Asamov",30,0.012311901504787962
+"Silver Suspiria",15,"Carbon Alabel",31,0.06637931034482758
+"Silver Suspiria",15,"Razorblade92",32,0.038405444822557123
+"Silver Suspiria",15,"Saint Michaels Soul",33,0.24327956989247312
+"Silver Suspiria",15,"Syncopee Farnsworth",34,0.04371785451873622
+"Silver Suspiria",15,"Chainsaw Plankton",35,0.06510094767202307
+"Silver Suspiria",15,"Claevyan",36,0.05985748218527316
+"Silver Suspiria",15,"Eurzadahn",37,0.0718595721338453
+"Silver Suspiria",15,"Kali Omega",38,0.048582995951417005
+"Silver Suspiria",15,"The Ludocrat",39,0.01569506726457399
+"Silver Suspiria",15,"Vincent Eneticum",40,0.025824394119984106
+"Silver Suspiria",15,"Cacique Yuhasz",41,0.045008183306055646
+"Silver Suspiria",15,"Parobro",42,0.026584867075664622
+"Silver Suspiria",15,"Solar Taranogas",43,0.033783783783783786
+"Silver Suspiria",15,"Kalen Tsero",44,0.12557900154400412
+"Silver Suspiria",15,"Cwittofur Cesaille",45,0.02444987775061125
+"Silver Suspiria",15,"ZepWunderbar",46,0.016284680337756333
+"Silver Suspiria",15,"Creecher Virpio",47,0.014541120381406437
+"bastet 666",16,"Aryth",1,0.013816102906145784
+"bastet 666",16,"Sort Dragon",2,0.02665631469979296
+"bastet 666",16,"Merkelchen",3,0.014188649080735413
+"bastet 666",16,"Jin'taan",4,0.0272937736078957
+"bastet 666",16,"Innominate",5,0.012687726566545831
+"bastet 666",16,"Killah Bee",6,0.033164440350069095
+"bastet 666",16,"Steve Ronuken",7,0.020206643996861104
+"bastet 666",16,"Brisc Rubal",8,0.01856527550868855
+"bastet 666",16,"Suitonia",9,0.03912087912087912
+"bastet 666",16,"The Judge",10,0.023245876420818733
+"bastet 666",16,"Tikktokk Tokkzikk",11,0.026245313336904125
+"bastet 666",16,"ExookiZ",12,0.02347324447980903
+"bastet 666",16,"Tifida",13,0.1415964701163257
+"bastet 666",16,"Lorelei Ierendi",14,0.07737131757850436
+"bastet 666",16,"Silver Suspiria",15,0.04165144318597004
+"bastet 666",16,"bastet 666",16,1.0
+"bastet 666",16,"Otto Bismarck",17,0.05999447055570915
+"bastet 666",16,"Mawderator",18,0.01750076757752533
+"bastet 666",16,"Sullen Decimus",19,0.009703979611840816
+"bastet 666",16,"Afropty",20,0.038637851997380485
+"bastet 666",16,"Arielle en Distel",21,0.053175775480059084
+"bastet 666",16,"Damian Blackie",22,0.03863987635239567
+"bastet 666",16,"Winter duFallen",23,0.05022109917877448
+"bastet 666",16,"Bei ArtJay",24,0.048619447779111646
+"bastet 666",16,"Jaha Preynar",25,0.037484381507705125
+"bastet 666",16,"Raphendyr Nardieu",26,0.031819688432217434
+"bastet 666",16,"commander aze",27,0.01054936305732484
+"bastet 666",16,"aspecialpinecone",28,0.04039900249376559
+"bastet 666",16,"Xenuria",29,0.03257868580894534
+"bastet 666",16,"Malakai Asamov",30,0.015130353817504655
+"bastet 666",16,"Carbon Alabel",31,0.044027898866608545
+"bastet 666",16,"Razorblade92",32,0.036272040302267
+"bastet 666",16,"Saint Michaels Soul",33,0.027439024390243903
+"bastet 666",16,"Syncopee Farnsworth",34,0.04700530705079606
+"bastet 666",16,"Chainsaw Plankton",35,0.03897180762852405
+"bastet 666",16,"Claevyan",36,0.04061895551257253
+"bastet 666",16,"Eurzadahn",37,0.031920748486516236
+"bastet 666",16,"Kali Omega",38,0.048417132216014895
+"bastet 666",16,"The Ludocrat",39,0.027876631079478055
+"bastet 666",16,"Vincent Eneticum",40,0.036009933774834434
+"bastet 666",16,"Cacique Yuhasz",41,0.0737527114967462
+"bastet 666",16,"Parobro",42,0.04213938411669368
+"bastet 666",16,"Solar Taranogas",43,0.03403034030340303
+"bastet 666",16,"Kalen Tsero",44,0.044598612487611496
+"bastet 666",16,"Cwittofur Cesaille",45,0.017845761631612493
+"bastet 666",16,"ZepWunderbar",46,0.023581899298916506
+"bastet 666",16,"Creecher Virpio",47,0.09231171548117155
+"Otto Bismarck",17,"Aryth",1,0.01969327291739282
+"Otto Bismarck",17,"Sort Dragon",2,0.08229066410009625
+"Otto Bismarck",17,"Merkelchen",3,0.01594780717651323
+"Otto Bismarck",17,"Jin'taan",4,0.07956393422875384
+"Otto Bismarck",17,"Innominate",5,0.02049768703142447
+"Otto Bismarck",17,"Killah Bee",6,0.12413174994398386
+"Otto Bismarck",17,"Steve Ronuken",7,0.06896330510649218
+"Otto Bismarck",17,"Brisc Rubal",8,0.04949932533200767
+"Otto Bismarck",17,"Suitonia",9,0.10529634300126103
+"Otto Bismarck",17,"The Judge",10,0.03616852146263911
+"Otto Bismarck",17,"Tikktokk Tokkzikk",11,0.08370591157476404
+"Otto Bismarck",17,"ExookiZ",12,0.11117078410311493
+"Otto Bismarck",17,"Tifida",13,0.06340136054421769
+"Otto Bismarck",17,"Lorelei Ierendi",14,0.08368304122438903
+"Otto Bismarck",17,"Silver Suspiria",15,0.056140350877192984
+"Otto Bismarck",17,"bastet 666",16,0.05999447055570915
+"Otto Bismarck",17,"Otto Bismarck",17,1.0
+"Otto Bismarck",17,"Mawderator",18,0.056523022432113344
+"Otto Bismarck",17,"Sullen Decimus",19,0.032812215960734414
+"Otto Bismarck",17,"Afropty",20,0.046465645081562035
+"Otto Bismarck",17,"Arielle en Distel",21,0.07942636514065085
+"Otto Bismarck",17,"Damian Blackie",22,0.03763143331488655
+"Otto Bismarck",17,"Winter duFallen",23,0.08347740182761175
+"Otto Bismarck",17,"Bei ArtJay",24,0.11121951219512195
+"Otto Bismarck",17,"Jaha Preynar",25,0.05933214072748957
+"Otto Bismarck",17,"Raphendyr Nardieu",26,0.0344400396432111
+"Otto Bismarck",17,"commander aze",27,0.029652070136785093
+"Otto Bismarck",17,"aspecialpinecone",28,0.059219380888290714
+"Otto Bismarck",17,"Xenuria",29,0.10011454753722795
+"Otto Bismarck",17,"Malakai Asamov",30,0.08308368284401838
+"Otto Bismarck",17,"Carbon Alabel",31,0.06140620202640467
+"Otto Bismarck",17,"Razorblade92",32,0.0431438127090301
+"Otto Bismarck",17,"Saint Michaels Soul",33,0.11183431952662722
+"Otto Bismarck",17,"Syncopee Farnsworth",34,0.039412883935852135
+"Otto Bismarck",17,"Chainsaw Plankton",35,0.08383961117861483
+"Otto Bismarck",17,"Claevyan",36,0.03878474466709761
+"Otto Bismarck",17,"Eurzadahn",37,0.047058823529411764
+"Otto Bismarck",17,"Kali Omega",38,0.06903225806451613
+"Otto Bismarck",17,"The Ludocrat",39,0.027573529411764705
+"Otto Bismarck",17,"Vincent Eneticum",40,0.02767368117613145
+"Otto Bismarck",17,"Cacique Yuhasz",41,0.02939464493597206
+"Otto Bismarck",17,"Parobro",42,0.037460978147762745
+"Otto Bismarck",17,"Solar Taranogas",43,0.03673705525021695
+"Otto Bismarck",17,"Kalen Tsero",44,0.033583306162373656
+"Otto Bismarck",17,"Cwittofur Cesaille",45,0.013338414634146341
+"Otto Bismarck",17,"ZepWunderbar",46,0.026943802925327175
+"Otto Bismarck",17,"Creecher Virpio",47,0.08490370677158832
+"Mawderator",18,"Aryth",1,0.5676437847866419
+"Mawderator",18,"Sort Dragon",2,0.08821270310192024
+"Mawderator",18,"Merkelchen",3,0.5719945147036416
+"Mawderator",18,"Jin'taan",4,0.6258026159334126
+"Mawderator",18,"Innominate",5,0.5693296602387512
+"Mawderator",18,"Killah Bee",6,0.11951205477875597
+"Mawderator",18,"Steve Ronuken",7,0.5996197951799841
+"Mawderator",18,"Brisc Rubal",8,0.6135484731297506
+"Mawderator",18,"Suitonia",9,0.1681312243702402
+"Mawderator",18,"The Judge",10,0.5301853366039793
+"Mawderator",18,"Tikktokk Tokkzikk",11,0.1105807478122514
+"Mawderator",18,"ExookiZ",12,0.11899477339442972
+"Mawderator",18,"Tifida",13,0.01623846916215598
+"Mawderator",18,"Lorelei Ierendi",14,0.020239326340670705
+"Mawderator",18,"Silver Suspiria",15,0.030207045735475897
+"Mawderator",18,"bastet 666",16,0.01750076757752533
+"Mawderator",18,"Otto Bismarck",17,0.056523022432113344
+"Mawderator",18,"Mawderator",18,1.0
+"Mawderator",18,"Sullen Decimus",19,0.5888243387861183
+"Mawderator",18,"Afropty",20,0.06980023501762632
+"Mawderator",18,"Arielle en Distel",21,0.013065937405044059
+"Mawderator",18,"Damian Blackie",22,0.006802721088435374
+"Mawderator",18,"Winter duFallen",23,0.029753914988814318
+"Mawderator",18,"Bei ArtJay",24,0.0933124755572937
+"Mawderator",18,"Jaha Preynar",25,0.013909510041415957
+"Mawderator",18,"Raphendyr Nardieu",26,0.018425586098419593
+"Mawderator",18,"commander aze",27,0.5683562580743218
+"Mawderator",18,"aspecialpinecone",28,0.010856453558504222
+"Mawderator",18,"Xenuria",29,0.061175768427335124
+"Mawderator",18,"Malakai Asamov",30,0.06141856141856142
+"Mawderator",18,"Carbon Alabel",31,0.01858589054096805
+"Mawderator",18,"Razorblade92",32,0.009904976646803027
+"Mawderator",18,"Saint Michaels Soul",33,0.03364442004548663
+"Mawderator",18,"Syncopee Farnsworth",34,0.005770690964312832
+"Mawderator",18,"Chainsaw Plankton",35,0.014209868831980013
+"Mawderator",18,"Claevyan",36,0.011365455418600928
+"Mawderator",18,"Eurzadahn",37,0.00463339294423671
+"Mawderator",18,"Kali Omega",38,0.01015228426395939
+"Mawderator",18,"The Ludocrat",39,0.008169664961214722
+"Mawderator",18,"Vincent Eneticum",40,0.007447056085641145
+"Mawderator",18,"Cacique Yuhasz",41,0.005743112145906093
+"Mawderator",18,"Parobro",42,0.005834211166031926
+"Mawderator",18,"Solar Taranogas",43,0.007592190889370932
+"Mawderator",18,"Kalen Tsero",44,0.02240987333549854
+"Mawderator",18,"Cwittofur Cesaille",45,0.0027390438247011954
+"Mawderator",18,"ZepWunderbar",46,0.0034027720142750435
+"Mawderator",18,"Creecher Virpio",47,0.08463416438558852
+"Sullen Decimus",19,"Aryth",1,0.7308754882347337
+"Sullen Decimus",19,"Sort Dragon",2,0.018642951251646903
+"Sullen Decimus",19,"Merkelchen",3,0.7298434442270059
+"Sullen Decimus",19,"Jin'taan",4,0.5233901692586347
+"Sullen Decimus",19,"Innominate",5,0.6729199235713045
+"Sullen Decimus",19,"Killah Bee",6,0.029061428125974433
+"Sullen Decimus",19,"Steve Ronuken",7,0.48975911374468634
+"Sullen Decimus",19,"Brisc Rubal",8,0.5747535393966348
+"Sullen Decimus",19,"Suitonia",9,0.062093546773386694
+"Sullen Decimus",19,"The Judge",10,0.6506136267456623
+"Sullen Decimus",19,"Tikktokk Tokkzikk",11,0.020966332907734694
+"Sullen Decimus",19,"ExookiZ",12,0.0402166776099803
+"Sullen Decimus",19,"Tifida",13,0.013777604064881767
+"Sullen Decimus",19,"Lorelei Ierendi",14,0.017144463181562677
+"Sullen Decimus",19,"Silver Suspiria",15,0.01140017538731365
+"Sullen Decimus",19,"bastet 666",16,0.009703979611840816
+"Sullen Decimus",19,"Otto Bismarck",17,0.032812215960734414
+"Sullen Decimus",19,"Mawderator",18,0.5888243387861183
+"Sullen Decimus",19,"Sullen Decimus",19,1.0
+"Sullen Decimus",19,"Afropty",20,0.00563856780377784
+"Sullen Decimus",19,"Arielle en Distel",21,0.017246447819696226
+"Sullen Decimus",19,"Damian Blackie",22,0.00333889816360601
+"Sullen Decimus",19,"Winter duFallen",23,0.014202952719117921
+"Sullen Decimus",19,"Bei ArtJay",24,0.03531511223818916
+"Sullen Decimus",19,"Jaha Preynar",25,0.01059001512859304
+"Sullen Decimus",19,"Raphendyr Nardieu",26,0.022089896273530543
+"Sullen Decimus",19,"commander aze",27,0.7582778164462564
+"Sullen Decimus",19,"aspecialpinecone",28,0.005437624176513646
+"Sullen Decimus",19,"Xenuria",29,0.03976748477578889
+"Sullen Decimus",19,"Malakai Asamov",30,0.005751987819319912
+"Sullen Decimus",19,"Carbon Alabel",31,0.012136664966853646
+"Sullen Decimus",19,"Razorblade92",32,0.00979669229958917
+"Sullen Decimus",19,"Saint Michaels Soul",33,0.024036054081121683
+"Sullen Decimus",19,"Syncopee Farnsworth",34,0.004293939689665268
+"Sullen Decimus",19,"Chainsaw Plankton",35,0.014558689717925387
+"Sullen Decimus",19,"Claevyan",36,0.010964912280701754
+"Sullen Decimus",19,"Eurzadahn",37,0.005667843011442626
+"Sullen Decimus",19,"Kali Omega",38,0.008246572518297083
+"Sullen Decimus",19,"The Ludocrat",39,0.007505710866963994
+"Sullen Decimus",19,"Vincent Eneticum",40,0.011494252873563218
+"Sullen Decimus",19,"Cacique Yuhasz",41,0.003208985158443642
+"Sullen Decimus",19,"Parobro",42,0.0044604927782497875
+"Sullen Decimus",19,"Solar Taranogas",43,0.008832680919401786
+"Sullen Decimus",19,"Kalen Tsero",44,0.007527443805541035
+"Sullen Decimus",19,"Cwittofur Cesaille",45,0.0024165202108963092
+"Sullen Decimus",19,"ZepWunderbar",46,0.0032948929159802307
+"Sullen Decimus",19,"Creecher Virpio",47,0.025133549347578596
+"Afropty",20,"Aryth",1,0.008127111679298695
+"Afropty",20,"Sort Dragon",2,0.19329896907216496
+"Afropty",20,"Merkelchen",3,0.008411393614987574
+"Afropty",20,"Jin'taan",4,0.06103632675640789
+"Afropty",20,"Innominate",5,0.008059155865736125
+"Afropty",20,"Killah Bee",6,0.15191740412979352
+"Afropty",20,"Steve Ronuken",7,0.07729078300679998
+"Afropty",20,"Brisc Rubal",8,0.07673531655225019
+"Afropty",20,"Suitonia",9,0.035838150289017344
+"Afropty",20,"The Judge",10,0.012603322694164825
+"Afropty",20,"Tikktokk Tokkzikk",11,0.05013673655423884
+"Afropty",20,"ExookiZ",12,0.21361348216239878
+"Afropty",20,"Tifida",13,0.02982233502538071
+"Afropty",20,"Lorelei Ierendi",14,0.048663853727144865
+"Afropty",20,"Silver Suspiria",15,0.0172090112640801
+"Afropty",20,"bastet 666",16,0.038637851997380485
+"Afropty",20,"Otto Bismarck",17,0.046465645081562035
+"Afropty",20,"Mawderator",18,0.06980023501762632
+"Afropty",20,"Sullen Decimus",19,0.00563856780377784
+"Afropty",20,"Afropty",20,1.0
+"Afropty",20,"Arielle en Distel",21,0.04700579523502898
+"Afropty",20,"Damian Blackie",22,0.03312144529943125
+"Afropty",20,"Winter duFallen",23,0.09752504419563936
+"Afropty",20,"Bei ArtJay",24,0.017773131207527444
+"Afropty",20,"Jaha Preynar",25,0.03806104129263914
+"Afropty",20,"Raphendyr Nardieu",26,0.03904170363797693
+"Afropty",20,"commander aze",27,0.01053236307927997
+"Afropty",20,"aspecialpinecone",28,0.020525451559934318
+"Afropty",20,"Xenuria",29,0.031133250311332503
+"Afropty",20,"Malakai Asamov",30,0.2571956693952997
+"Afropty",20,"Carbon Alabel",31,0.038261515601783064
+"Afropty",20,"Razorblade92",32,0.02204658901830283
+"Afropty",20,"Saint Michaels Soul",33,0.016748768472906402
+"Afropty",20,"Syncopee Farnsworth",34,0.03876478318002628
+"Afropty",20,"Chainsaw Plankton",35,0.03306078919303235
+"Afropty",20,"Claevyan",36,0.023666265543521862
+"Afropty",20,"Eurzadahn",37,0.016987036209208762
+"Afropty",20,"Kali Omega",38,0.04739336492890995
+"Afropty",20,"The Ludocrat",39,0.017652671755725192
+"Afropty",20,"Vincent Eneticum",40,0.022543148996125396
+"Afropty",20,"Cacique Yuhasz",41,0.03380079108234448
+"Afropty",20,"Parobro",42,0.031443755535872454
+"Afropty",20,"Solar Taranogas",43,0.02239328201539538
+"Afropty",20,"Kalen Tsero",44,0.01868399675060926
+"Afropty",20,"Cwittofur Cesaille",45,0.013191273465246067
+"Afropty",20,"ZepWunderbar",46,0.015182186234817813
+"Afropty",20,"Creecher Virpio",47,0.016885136636303043
+"Arielle en Distel",21,"Aryth",1,0.010272358872867779
+"Arielle en Distel",21,"Sort Dragon",2,0.025988989886058123
+"Arielle en Distel",21,"Merkelchen",3,0.013573763994847915
+"Arielle en Distel",21,"Jin'taan",4,0.03804913914588567
+"Arielle en Distel",21,"Innominate",5,0.00957183146739595
+"Arielle en Distel",21,"Killah Bee",6,0.024097748614096616
+"Arielle en Distel",21,"Steve Ronuken",7,0.05361822213263455
+"Arielle en Distel",21,"Brisc Rubal",8,0.01762926901231836
+"Arielle en Distel",21,"Suitonia",9,0.05779256794231836
+"Arielle en Distel",21,"The Judge",10,0.017044975107585857
+"Arielle en Distel",21,"Tikktokk Tokkzikk",11,0.02298546895640687
+"Arielle en Distel",21,"ExookiZ",12,0.06894435351882161
+"Arielle en Distel",21,"Tifida",13,0.09057025717480433
+"Arielle en Distel",21,"Lorelei Ierendi",14,0.18292259632072197
+"Arielle en Distel",21,"Silver Suspiria",15,0.09324878776575904
+"Arielle en Distel",21,"bastet 666",16,0.053175775480059084
+"Arielle en Distel",21,"Otto Bismarck",17,0.07942636514065085
+"Arielle en Distel",21,"Mawderator",18,0.013065937405044059
+"Arielle en Distel",21,"Sullen Decimus",19,0.017246447819696226
+"Arielle en Distel",21,"Afropty",20,0.04700579523502898
+"Arielle en Distel",21,"Arielle en Distel",21,1.0
+"Arielle en Distel",21,"Damian Blackie",22,0.045317220543806644
+"Arielle en Distel",21,"Winter duFallen",23,0.08267090620031796
+"Arielle en Distel",21,"Bei ArtJay",24,0.05334512231063955
+"Arielle en Distel",21,"Jaha Preynar",25,0.1487935656836461
+"Arielle en Distel",21,"Raphendyr Nardieu",26,0.13791874554526015
+"Arielle en Distel",21,"commander aze",27,0.02084788029925187
+"Arielle en Distel",21,"aspecialpinecone",28,0.06437346437346438
+"Arielle en Distel",21,"Xenuria",29,0.05583195135433942
+"Arielle en Distel",21,"Malakai Asamov",30,0.01881165404909383
+"Arielle en Distel",21,"Carbon Alabel",31,0.12551159618008187
+"Arielle en Distel",21,"Razorblade92",32,0.09589743589743589
+"Arielle en Distel",21,"Saint Michaels Soul",33,0.09723320158102766
+"Arielle en Distel",21,"Syncopee Farnsworth",34,0.1184573002754821
+"Arielle en Distel",21,"Chainsaw Plankton",35,0.11369509043927649
+"Arielle en Distel",21,"Claevyan",36,0.11432850723914129
+"Arielle en Distel",21,"Eurzadahn",37,0.08011049723756906
+"Arielle en Distel",21,"Kali Omega",38,0.08971962616822429
+"Arielle en Distel",21,"The Ludocrat",39,0.01968503937007874
+"Arielle en Distel",21,"Vincent Eneticum",40,0.03693295865114412
+"Arielle en Distel",21,"Cacique Yuhasz",41,0.05187319884726225
+"Arielle en Distel",21,"Parobro",42,0.0425531914893617
+"Arielle en Distel",21,"Solar Taranogas",43,0.061174551386623165
+"Arielle en Distel",21,"Kalen Tsero",44,0.042897998093422304
+"Arielle en Distel",21,"Cwittofur Cesaille",45,0.025688073394495414
+"Arielle en Distel",21,"ZepWunderbar",46,0.019347037484885126
+"Arielle en Distel",21,"Creecher Virpio",47,0.0213531669865643
+"Damian Blackie",22,"Aryth",1,0.005716463414634146
+"Damian Blackie",22,"Sort Dragon",2,0.12900906083704874
+"Damian Blackie",22,"Merkelchen",3,0.0050923614578132805
+"Damian Blackie",22,"Jin'taan",4,0.013041903151793263
+"Damian Blackie",22,"Innominate",5,0.00535082419953396
+"Damian Blackie",22,"Killah Bee",6,0.1174251948705054
+"Damian Blackie",22,"Steve Ronuken",7,0.01570989068534398
+"Damian Blackie",22,"Brisc Rubal",8,0.011050953051991396
+"Damian Blackie",22,"Suitonia",9,0.10505836575875487
+"Damian Blackie",22,"The Judge",10,0.007798592862592184
+"Damian Blackie",22,"Tikktokk Tokkzikk",11,0.12898421209413166
+"Damian Blackie",22,"ExookiZ",12,0.028031687995124923
+"Damian Blackie",22,"Tifida",13,0.036397748592870545
+"Damian Blackie",22,"Lorelei Ierendi",14,0.03974358974358974
+"Damian Blackie",22,"Silver Suspiria",15,0.028242289111854328
+"Damian Blackie",22,"bastet 666",16,0.03863987635239567
+"Damian Blackie",22,"Otto Bismarck",17,0.03763143331488655
+"Damian Blackie",22,"Mawderator",18,0.006802721088435374
+"Damian Blackie",22,"Sullen Decimus",19,0.00333889816360601
+"Damian Blackie",22,"Afropty",20,0.03312144529943125
+"Damian Blackie",22,"Arielle en Distel",21,0.045317220543806644
+"Damian Blackie",22,"Damian Blackie",22,1.0
+"Damian Blackie",22,"Winter duFallen",23,0.03414167198468411
+"Damian Blackie",22,"Bei ArtJay",24,0.020958083832335328
+"Damian Blackie",22,"Jaha Preynar",25,0.03929188255613126
+"Damian Blackie",22,"Raphendyr Nardieu",26,0.03449453551912568
+"Damian Blackie",22,"commander aze",27,0.007100710071007101
+"Damian Blackie",22,"aspecialpinecone",28,0.020907700152983173
+"Damian Blackie",22,"Xenuria",29,0.019520356943669825
+"Damian Blackie",22,"Malakai Asamov",30,0.2404292343387471
+"Damian Blackie",22,"Carbon Alabel",31,0.033080017881090745
+"Damian Blackie",22,"Razorblade92",32,0.01805985552115583
+"Damian Blackie",22,"Saint Michaels Soul",33,0.023110066588327458
+"Damian Blackie",22,"Syncopee Farnsworth",34,0.04040404040404041
+"Damian Blackie",22,"Chainsaw Plankton",35,0.0301999149298171
+"Damian Blackie",22,"Claevyan",36,0.02936784469885515
+"Damian Blackie",22,"Eurzadahn",37,0.01588201928530913
+"Damian Blackie",22,"Kali Omega",38,0.049878934624697335
+"Damian Blackie",22,"The Ludocrat",39,0.021052631578947368
+"Damian Blackie",22,"Vincent Eneticum",40,0.018955349620893007
+"Damian Blackie",22,"Cacique Yuhasz",41,0.01918158567774936
+"Damian Blackie",22,"Parobro",42,0.03535353535353535
+"Damian Blackie",22,"Solar Taranogas",43,0.024800336275746113
+"Damian Blackie",22,"Kalen Tsero",44,0.03741670937980523
+"Damian Blackie",22,"Cwittofur Cesaille",45,0.014755197853789403
+"Damian Blackie",22,"ZepWunderbar",46,0.013990672884743505
+"Damian Blackie",22,"Creecher Virpio",47,0.015128968253968254
+"Winter duFallen",23,"Aryth",1,0.011385199240986717
+"Winter duFallen",23,"Sort Dragon",2,0.140879150423444
+"Winter duFallen",23,"Merkelchen",3,0.019818961410195332
+"Winter duFallen",23,"Jin'taan",4,0.02846512726628477
+"Winter duFallen",23,"Innominate",5,0.013947346702979285
+"Winter duFallen",23,"Killah Bee",6,0.1331192005710207
+"Winter duFallen",23,"Steve Ronuken",7,0.04896103896103896
+"Winter duFallen",23,"Brisc Rubal",8,0.03159340659340659
+"Winter duFallen",23,"Suitonia",9,0.04587251828631139
+"Winter duFallen",23,"The Judge",10,0.018622428234528747
+"Winter duFallen",23,"Tikktokk Tokkzikk",11,0.06700428515777172
+"Winter duFallen",23,"ExookiZ",12,0.07651615341016436
+"Winter duFallen",23,"Tifida",13,0.06819610307982402
+"Winter duFallen",23,"Lorelei Ierendi",14,0.10538308174309313
+"Winter duFallen",23,"Silver Suspiria",15,0.06441525953721075
+"Winter duFallen",23,"bastet 666",16,0.05022109917877448
+"Winter duFallen",23,"Otto Bismarck",17,0.08347740182761175
+"Winter duFallen",23,"Mawderator",18,0.029753914988814318
+"Winter duFallen",23,"Sullen Decimus",19,0.014202952719117921
+"Winter duFallen",23,"Afropty",20,0.09752504419563936
+"Winter duFallen",23,"Arielle en Distel",21,0.08267090620031796
+"Winter duFallen",23,"Damian Blackie",22,0.03414167198468411
+"Winter duFallen",23,"Winter duFallen",23,1.0
+"Winter duFallen",23,"Bei ArtJay",24,0.03689469638739431
+"Winter duFallen",23,"Jaha Preynar",25,0.06994727592267136
+"Winter duFallen",23,"Raphendyr Nardieu",26,0.03093363329583802
+"Winter duFallen",23,"commander aze",27,0.02166030534351145
+"Winter duFallen",23,"aspecialpinecone",28,0.03247261345852895
+"Winter duFallen",23,"Xenuria",29,0.054532056005895356
+"Winter duFallen",23,"Malakai Asamov",30,0.2226922119930331
+"Winter duFallen",23,"Carbon Alabel",31,0.028970331588132635
+"Winter duFallen",23,"Razorblade92",32,0.02999210734017364
+"Winter duFallen",23,"Saint Michaels Soul",33,0.04001280409731114
+"Winter duFallen",23,"Syncopee Farnsworth",34,0.0690099967752338
+"Winter duFallen",23,"Chainsaw Plankton",35,0.05591991715567829
+"Winter duFallen",23,"Claevyan",36,0.03639846743295019
+"Winter duFallen",23,"Eurzadahn",37,0.03143585386576041
+"Winter duFallen",23,"Kali Omega",38,0.07306809487375669
+"Winter duFallen",23,"The Ludocrat",39,0.023276633840644583
+"Winter duFallen",23,"Vincent Eneticum",40,0.028956228956228958
+"Winter duFallen",23,"Cacique Yuhasz",41,0.058001397624039136
+"Winter duFallen",23,"Parobro",42,0.041981528127623846
+"Winter duFallen",23,"Solar Taranogas",43,0.032225579053373615
+"Winter duFallen",23,"Kalen Tsero",44,0.03904724716907458
+"Winter duFallen",23,"Cwittofur Cesaille",45,0.023322227510709188
+"Winter duFallen",23,"ZepWunderbar",46,0.020803782505910164
+"Winter duFallen",23,"Creecher Virpio",47,0.020276100086281276
+"Bei ArtJay",24,"Aryth",1,0.010674257249599715
+"Bei ArtJay",24,"Sort Dragon",2,0.03963487869325006
+"Bei ArtJay",24,"Merkelchen",3,0.007506255212677231
+"Bei ArtJay",24,"Jin'taan",4,0.09163148745964737
+"Bei ArtJay",24,"Innominate",5,0.04208500669344043
+"Bei ArtJay",24,"Killah Bee",6,0.06527472527472528
+"Bei ArtJay",24,"Steve Ronuken",7,0.08292974192264313
+"Bei ArtJay",24,"Brisc Rubal",8,0.047750362844702465
+"Bei ArtJay",24,"Suitonia",9,0.15882955709894114
+"Bei ArtJay",24,"The Judge",10,0.024368595174695393
+"Bei ArtJay",24,"Tikktokk Tokkzikk",11,0.09235378403022014
+"Bei ArtJay",24,"ExookiZ",12,0.11180595035057798
+"Bei ArtJay",24,"Tifida",13,0.01855552383671139
+"Bei ArtJay",24,"Lorelei Ierendi",14,0.04462213051328347
+"Bei ArtJay",24,"Silver Suspiria",15,0.081089258698941
+"Bei ArtJay",24,"bastet 666",16,0.048619447779111646
+"Bei ArtJay",24,"Otto Bismarck",17,0.11121951219512195
+"Bei ArtJay",24,"Mawderator",18,0.0933124755572937
+"Bei ArtJay",24,"Sullen Decimus",19,0.03531511223818916
+"Bei ArtJay",24,"Afropty",20,0.017773131207527444
+"Bei ArtJay",24,"Arielle en Distel",21,0.05334512231063955
+"Bei ArtJay",24,"Damian Blackie",22,0.020958083832335328
+"Bei ArtJay",24,"Winter duFallen",23,0.03689469638739431
+"Bei ArtJay",24,"Bei ArtJay",24,1.0
+"Bei ArtJay",24,"Jaha Preynar",25,0.03812600969305331
+"Bei ArtJay",24,"Raphendyr Nardieu",26,0.02677376171352075
+"Bei ArtJay",24,"commander aze",27,0.018542798276830866
+"Bei ArtJay",24,"aspecialpinecone",28,0.03159441587068332
+"Bei ArtJay",24,"Xenuria",29,0.06695361071257772
+"Bei ArtJay",24,"Malakai Asamov",30,0.013761467889908258
+"Bei ArtJay",24,"Carbon Alabel",31,0.07519834425664022
+"Bei ArtJay",24,"Razorblade92",32,0.028116907140214576
+"Bei ArtJay",24,"Saint Michaels Soul",33,0.13933333333333334
+"Bei ArtJay",24,"Syncopee Farnsworth",34,0.01603966170895305
+"Bei ArtJay",24,"Chainsaw Plankton",35,0.04229899903132063
+"Bei ArtJay",24,"Claevyan",36,0.02459893048128342
+"Bei ArtJay",24,"Eurzadahn",37,0.0429718875502008
+"Bei ArtJay",24,"Kali Omega",38,0.027643400138217002
+"Bei ArtJay",24,"The Ludocrat",39,0.008627773212818405
+"Bei ArtJay",24,"Vincent Eneticum",40,0.0273972602739726
+"Bei ArtJay",24,"Cacique Yuhasz",41,0.01912655403251514
+"Bei ArtJay",24,"Parobro",42,0.014154552410099464
+"Bei ArtJay",24,"Solar Taranogas",43,0.015336463223787167
+"Bei ArtJay",24,"Kalen Tsero",44,0.05557627750839239
+"Bei ArtJay",24,"Cwittofur Cesaille",45,0.01310615989515072
+"Bei ArtJay",24,"ZepWunderbar",46,0.00822867042009528
+"Bei ArtJay",24,"Creecher Virpio",47,0.1573352232459249
+"Jaha Preynar",25,"Aryth",1,0.008764241893076249
+"Jaha Preynar",25,"Sort Dragon",2,0.02463515865577721
+"Jaha Preynar",25,"Merkelchen",3,0.007246376811594203
+"Jaha Preynar",25,"Jin'taan",4,0.02345534226282328
+"Jaha Preynar",25,"Innominate",5,0.007300554138446653
+"Jaha Preynar",25,"Killah Bee",6,0.024036762106751503
+"Jaha Preynar",25,"Steve Ronuken",7,0.04061948104877055
+"Jaha Preynar",25,"Brisc Rubal",8,0.01564862413063199
+"Jaha Preynar",25,"Suitonia",9,0.03989572707695795
+"Jaha Preynar",25,"The Judge",10,0.012645071886367574
+"Jaha Preynar",25,"Tikktokk Tokkzikk",11,0.01764300482425913
+"Jaha Preynar",25,"ExookiZ",12,0.03291569335315354
+"Jaha Preynar",25,"Tifida",13,0.04736627194773377
+"Jaha Preynar",25,"Lorelei Ierendi",14,0.1446280991735537
+"Jaha Preynar",25,"Silver Suspiria",15,0.07711651299245599
+"Jaha Preynar",25,"bastet 666",16,0.037484381507705125
+"Jaha Preynar",25,"Otto Bismarck",17,0.05933214072748957
+"Jaha Preynar",25,"Mawderator",18,0.013909510041415957
+"Jaha Preynar",25,"Sullen Decimus",19,0.01059001512859304
+"Jaha Preynar",25,"Afropty",20,0.03806104129263914
+"Jaha Preynar",25,"Arielle en Distel",21,0.1487935656836461
+"Jaha Preynar",25,"Damian Blackie",22,0.03929188255613126
+"Jaha Preynar",25,"Winter duFallen",23,0.06994727592267136
+"Jaha Preynar",25,"Bei ArtJay",24,0.03812600969305331
+"Jaha Preynar",25,"Jaha Preynar",25,1.0
+"Jaha Preynar",25,"Raphendyr Nardieu",26,0.06827612221803094
+"Jaha Preynar",25,"commander aze",27,0.020359652749069864
+"Jaha Preynar",25,"aspecialpinecone",28,0.061764705882352944
+"Jaha Preynar",25,"Xenuria",29,0.04945388349514563
+"Jaha Preynar",25,"Malakai Asamov",30,0.013664596273291925
+"Jaha Preynar",25,"Carbon Alabel",31,0.07582697201017811
+"Jaha Preynar",25,"Razorblade92",32,0.041031652989449004
+"Jaha Preynar",25,"Saint Michaels Soul",33,0.06107205623901582
+"Jaha Preynar",25,"Syncopee Farnsworth",34,0.09488084730803177
+"Jaha Preynar",25,"Chainsaw Plankton",35,0.11584754262788365
+"Jaha Preynar",25,"Claevyan",36,0.07405281285878301
+"Jaha Preynar",25,"Eurzadahn",37,0.06764902880107167
+"Jaha Preynar",25,"Kali Omega",38,0.10482062780269058
+"Jaha Preynar",25,"The Ludocrat",39,0.01680672268907563
+"Jaha Preynar",25,"Vincent Eneticum",40,0.042702956358517126
+"Jaha Preynar",25,"Cacique Yuhasz",41,0.03784295175023652
+"Jaha Preynar",25,"Parobro",42,0.05102040816326531
+"Jaha Preynar",25,"Solar Taranogas",43,0.06816015252621545
+"Jaha Preynar",25,"Kalen Tsero",44,0.04699140401146132
+"Jaha Preynar",25,"Cwittofur Cesaille",45,0.028125
+"Jaha Preynar",25,"ZepWunderbar",46,0.020015396458814474
+"Jaha Preynar",25,"Creecher Virpio",47,0.02149973780807551
+"Raphendyr Nardieu",26,"Aryth",1,0.007246376811594203
+"Raphendyr Nardieu",26,"Sort Dragon",2,0.02274131751328637
+"Raphendyr Nardieu",26,"Merkelchen",3,0.009526558891454965
+"Raphendyr Nardieu",26,"Jin'taan",4,0.026799570251880147
+"Raphendyr Nardieu",26,"Innominate",5,0.055327331526964424
+"Raphendyr Nardieu",26,"Killah Bee",6,0.02004381161007667
+"Raphendyr Nardieu",26,"Steve Ronuken",7,0.039311558771758265
+"Raphendyr Nardieu",26,"Brisc Rubal",8,0.015459076789713212
+"Raphendyr Nardieu",26,"Suitonia",9,0.04223404255319149
+"Raphendyr Nardieu",26,"The Judge",10,0.05863136176066025
+"Raphendyr Nardieu",26,"Tikktokk Tokkzikk",11,0.022480521139353685
+"Raphendyr Nardieu",26,"ExookiZ",12,0.08269192816262089
+"Raphendyr Nardieu",26,"Tifida",13,0.07378706199460916
+"Raphendyr Nardieu",26,"Lorelei Ierendi",14,0.11148136928203575
+"Raphendyr Nardieu",26,"Silver Suspiria",15,0.034348671419313026
+"Raphendyr Nardieu",26,"bastet 666",16,0.031819688432217434
+"Raphendyr Nardieu",26,"Otto Bismarck",17,0.0344400396432111
+"Raphendyr Nardieu",26,"Mawderator",18,0.018425586098419593
+"Raphendyr Nardieu",26,"Sullen Decimus",19,0.022089896273530543
+"Raphendyr Nardieu",26,"Afropty",20,0.03904170363797693
+"Raphendyr Nardieu",26,"Arielle en Distel",21,0.13791874554526015
+"Raphendyr Nardieu",26,"Damian Blackie",22,0.03449453551912568
+"Raphendyr Nardieu",26,"Winter duFallen",23,0.03093363329583802
+"Raphendyr Nardieu",26,"Bei ArtJay",24,0.02677376171352075
+"Raphendyr Nardieu",26,"Jaha Preynar",25,0.06827612221803094
+"Raphendyr Nardieu",26,"Raphendyr Nardieu",26,1.0
+"Raphendyr Nardieu",26,"commander aze",27,0.01685883150857475
+"Raphendyr Nardieu",26,"aspecialpinecone",28,0.027084214980956412
+"Raphendyr Nardieu",26,"Xenuria",29,0.03238047052871237
+"Raphendyr Nardieu",26,"Malakai Asamov",30,0.009229448379480575
+"Raphendyr Nardieu",26,"Carbon Alabel",31,0.051094890510948905
+"Raphendyr Nardieu",26,"Razorblade92",32,0.09899175068744272
+"Raphendyr Nardieu",26,"Saint Michaels Soul",33,0.03299319727891156
+"Raphendyr Nardieu",26,"Syncopee Farnsworth",34,0.32098765432098764
+"Raphendyr Nardieu",26,"Chainsaw Plankton",35,0.06749156355455568
+"Raphendyr Nardieu",26,"Claevyan",36,0.09486166007905138
+"Raphendyr Nardieu",26,"Eurzadahn",37,0.03165735567970205
+"Raphendyr Nardieu",26,"Kali Omega",38,0.062269561655059404
+"Raphendyr Nardieu",26,"The Ludocrat",39,0.008754863813229572
+"Raphendyr Nardieu",26,"Vincent Eneticum",40,0.2927272727272727
+"Raphendyr Nardieu",26,"Cacique Yuhasz",41,0.28291571753986333
+"Raphendyr Nardieu",26,"Parobro",42,0.037951531778692274
+"Raphendyr Nardieu",26,"Solar Taranogas",43,0.31813996316758747
+"Raphendyr Nardieu",26,"Kalen Tsero",44,0.024686192468619247
+"Raphendyr Nardieu",26,"Cwittofur Cesaille",45,0.01839201261166579
+"Raphendyr Nardieu",26,"ZepWunderbar",46,0.01990570979570456
+"Raphendyr Nardieu",26,"Creecher Virpio",47,0.007357859531772575
+"commander aze",27,"Aryth",1,0.7066287878787879
+"commander aze",27,"Sort Dragon",2,0.020930542594320756
+"commander aze",27,"Merkelchen",3,0.729335174590649
+"commander aze",27,"Jin'taan",4,0.49737508492372307
+"commander aze",27,"Innominate",5,0.6464254952627045
+"commander aze",27,"Killah Bee",6,0.024045084533500315
+"commander aze",27,"Steve Ronuken",7,0.4982398956975228
+"commander aze",27,"Brisc Rubal",8,0.5770668261324563
+"commander aze",27,"Suitonia",9,0.05879393825064453
+"commander aze",27,"The Judge",10,0.6345747825352589
+"commander aze",27,"Tikktokk Tokkzikk",11,0.02263304560592673
+"commander aze",27,"ExookiZ",12,0.023531334259334912
+"commander aze",27,"Tifida",13,0.014783212620299633
+"commander aze",27,"Lorelei Ierendi",14,0.03458268933539413
+"commander aze",27,"Silver Suspiria",15,0.023607082124637392
+"commander aze",27,"bastet 666",16,0.01054936305732484
+"commander aze",27,"Otto Bismarck",17,0.029652070136785093
+"commander aze",27,"Mawderator",18,0.5683562580743218
+"commander aze",27,"Sullen Decimus",19,0.7582778164462564
+"commander aze",27,"Afropty",20,0.01053236307927997
+"commander aze",27,"Arielle en Distel",21,0.02084788029925187
+"commander aze",27,"Damian Blackie",22,0.007100710071007101
+"commander aze",27,"Winter duFallen",23,0.02166030534351145
+"commander aze",27,"Bei ArtJay",24,0.018542798276830866
+"commander aze",27,"Jaha Preynar",25,0.020359652749069864
+"commander aze",27,"Raphendyr Nardieu",26,0.01685883150857475
+"commander aze",27,"commander aze",27,1.0
+"commander aze",27,"aspecialpinecone",28,0.00992
+"commander aze",27,"Xenuria",29,0.0406062874251497
+"commander aze",27,"Malakai Asamov",30,0.0059967446243467835
+"commander aze",27,"Carbon Alabel",31,0.017060230937272443
+"commander aze",27,"Razorblade92",32,0.007578992314261315
+"commander aze",27,"Saint Michaels Soul",33,0.020556962025316455
+"commander aze",27,"Syncopee Farnsworth",34,0.011971268954509178
+"commander aze",27,"Chainsaw Plankton",35,0.02668466410549268
+"commander aze",27,"Claevyan",36,0.014363230130864985
+"commander aze",27,"Eurzadahn",37,0.012690077672027131
+"commander aze",27,"Kali Omega",38,0.014318803958728154
+"commander aze",27,"The Ludocrat",39,0.009860403279415023
+"commander aze",27,"Vincent Eneticum",40,0.012807377049180328
+"commander aze",27,"Cacique Yuhasz",41,0.006946572683624476
+"commander aze",27,"Parobro",42,0.008338748104829976
+"commander aze",27,"Solar Taranogas",43,0.011231366142536246
+"commander aze",27,"Kalen Tsero",44,0.010972621710876745
+"commander aze",27,"Cwittofur Cesaille",45,0.004811996418979409
+"commander aze",27,"ZepWunderbar",46,0.004470272686633884
+"commander aze",27,"Creecher Virpio",47,0.010932307154101801
+"aspecialpinecone",28,"Aryth",1,0.005556116779472674
+"aspecialpinecone",28,"Sort Dragon",2,0.015126050420168067
+"aspecialpinecone",28,"Merkelchen",3,0.007451564828614009
+"aspecialpinecone",28,"Jin'taan",4,0.019281663516068054
+"aspecialpinecone",28,"Innominate",5,0.008305951077035415
+"aspecialpinecone",28,"Killah Bee",6,0.020066477902252862
+"aspecialpinecone",28,"Steve Ronuken",7,0.017741385192766974
+"aspecialpinecone",28,"Brisc Rubal",8,0.0105475414921669
+"aspecialpinecone",28,"Suitonia",9,0.03115814226925338
+"aspecialpinecone",28,"The Judge",10,0.009660971464352804
+"aspecialpinecone",28,"Tikktokk Tokkzikk",11,0.020324608860944584
+"aspecialpinecone",28,"ExookiZ",12,0.030268022181146027
+"aspecialpinecone",28,"Tifida",13,0.02857142857142857
+"aspecialpinecone",28,"Lorelei Ierendi",14,0.05342902711323764
+"aspecialpinecone",28,"Silver Suspiria",15,0.0686080947680158
+"aspecialpinecone",28,"bastet 666",16,0.04039900249376559
+"aspecialpinecone",28,"Otto Bismarck",17,0.059219380888290714
+"aspecialpinecone",28,"Mawderator",18,0.010856453558504222
+"aspecialpinecone",28,"Sullen Decimus",19,0.005437624176513646
+"aspecialpinecone",28,"Afropty",20,0.020525451559934318
+"aspecialpinecone",28,"Arielle en Distel",21,0.06437346437346438
+"aspecialpinecone",28,"Damian Blackie",22,0.020907700152983173
+"aspecialpinecone",28,"Winter duFallen",23,0.03247261345852895
+"aspecialpinecone",28,"Bei ArtJay",24,0.03159441587068332
+"aspecialpinecone",28,"Jaha Preynar",25,0.061764705882352944
+"aspecialpinecone",28,"Raphendyr Nardieu",26,0.027084214980956412
+"aspecialpinecone",28,"commander aze",27,0.00992
+"aspecialpinecone",28,"aspecialpinecone",28,1.0
+"aspecialpinecone",28,"Xenuria",29,0.05165289256198347
+"aspecialpinecone",28,"Malakai Asamov",30,0.008783969256107603
+"aspecialpinecone",28,"Carbon Alabel",31,0.04654011022657685
+"aspecialpinecone",28,"Razorblade92",32,0.02696629213483146
+"aspecialpinecone",28,"Saint Michaels Soul",33,0.07142857142857142
+"aspecialpinecone",28,"Syncopee Farnsworth",34,0.030272952853598014
+"aspecialpinecone",28,"Chainsaw Plankton",35,0.06619800820152313
+"aspecialpinecone",28,"Claevyan",36,0.03604240282685512
+"aspecialpinecone",28,"Eurzadahn",37,0.02677029360967185
+"aspecialpinecone",28,"Kali Omega",38,0.04819277108433735
+"aspecialpinecone",28,"The Ludocrat",39,0.021463414634146343
+"aspecialpinecone",28,"Vincent Eneticum",40,0.017357222844344905
+"aspecialpinecone",28,"Cacique Yuhasz",41,0.02345537757437071
+"aspecialpinecone",28,"Parobro",42,0.03669724770642202
+"aspecialpinecone",28,"Solar Taranogas",43,0.03262092238470191
+"aspecialpinecone",28,"Kalen Tsero",44,0.050221565731166914
+"aspecialpinecone",28,"Cwittofur Cesaille",45,0.020156774916013438
+"aspecialpinecone",28,"ZepWunderbar",46,0.018826135105204873
+"aspecialpinecone",28,"Creecher Virpio",47,0.012764722947490571
+"Xenuria",29,"Aryth",1,0.04964282484853965
+"Xenuria",29,"Sort Dragon",2,0.0569935882213251
+"Xenuria",29,"Merkelchen",3,0.04042672655811342
+"Xenuria",29,"Jin'taan",4,0.08487982963188317
+"Xenuria",29,"Innominate",5,0.05105925190334326
+"Xenuria",29,"Killah Bee",6,0.0840876867706402
+"Xenuria",29,"Steve Ronuken",7,0.07507137295613807
+"Xenuria",29,"Brisc Rubal",8,0.05397645707723227
+"Xenuria",29,"Suitonia",9,0.14865013774104682
+"Xenuria",29,"The Judge",10,0.056580666231221426
+"Xenuria",29,"Tikktokk Tokkzikk",11,0.08238244514106582
+"Xenuria",29,"ExookiZ",12,0.07908208296557812
+"Xenuria",29,"Tifida",13,0.05504840940525588
+"Xenuria",29,"Lorelei Ierendi",14,0.06918865107018417
+"Xenuria",29,"Silver Suspiria",15,0.057308970099667775
+"Xenuria",29,"bastet 666",16,0.03257868580894534
+"Xenuria",29,"Otto Bismarck",17,0.10011454753722795
+"Xenuria",29,"Mawderator",18,0.061175768427335124
+"Xenuria",29,"Sullen Decimus",19,0.03976748477578889
+"Xenuria",29,"Afropty",20,0.031133250311332503
+"Xenuria",29,"Arielle en Distel",21,0.05583195135433942
+"Xenuria",29,"Damian Blackie",22,0.019520356943669825
+"Xenuria",29,"Winter duFallen",23,0.054532056005895356
+"Xenuria",29,"Bei ArtJay",24,0.06695361071257772
+"Xenuria",29,"Jaha Preynar",25,0.04945388349514563
+"Xenuria",29,"Raphendyr Nardieu",26,0.03238047052871237
+"Xenuria",29,"commander aze",27,0.0406062874251497
+"Xenuria",29,"aspecialpinecone",28,0.05165289256198347
+"Xenuria",29,"Xenuria",29,1.0
+"Xenuria",29,"Malakai Asamov",30,0.022644406064095183
+"Xenuria",29,"Carbon Alabel",31,0.04311414392059553
+"Xenuria",29,"Razorblade92",32,0.033481380252818584
+"Xenuria",29,"Saint Michaels Soul",33,0.05590778097982709
+"Xenuria",29,"Syncopee Farnsworth",34,0.027548209366391185
+"Xenuria",29,"Chainsaw Plankton",35,0.0725532571781414
+"Xenuria",29,"Claevyan",36,0.02766798418972332
+"Xenuria",29,"Eurzadahn",37,0.03948811700182815
+"Xenuria",29,"Kali Omega",38,0.041734066645098676
+"Xenuria",29,"The Ludocrat",39,0.030129672006102212
+"Xenuria",29,"Vincent Eneticum",40,0.01759014951627089
+"Xenuria",29,"Cacique Yuhasz",41,0.027454491196657715
+"Xenuria",29,"Parobro",42,0.03390435403283369
+"Xenuria",29,"Solar Taranogas",43,0.01897810218978102
+"Xenuria",29,"Kalen Tsero",44,0.04129993229519296
+"Xenuria",29,"Cwittofur Cesaille",45,0.01745339151130504
+"Xenuria",29,"ZepWunderbar",46,0.020214030915576695
+"Xenuria",29,"Creecher Virpio",47,0.0770357965250157
+"Malakai Asamov",30,"Aryth",1,0.00666776424102733
+"Malakai Asamov",30,"Sort Dragon",2,0.3688371424464568
+"Malakai Asamov",30,"Merkelchen",3,0.003504872627799624
+"Malakai Asamov",30,"Jin'taan",4,0.053019061750941676
+"Malakai Asamov",30,"Innominate",5,0.0055098497999849045
+"Malakai Asamov",30,"Killah Bee",6,0.3376820772640912
+"Malakai Asamov",30,"Steve Ronuken",7,0.07450931366420803
+"Malakai Asamov",30,"Brisc Rubal",8,0.06692227256883931
+"Malakai Asamov",30,"Suitonia",9,0.10849056603773585
+"Malakai Asamov",30,"The Judge",10,0.008552093403733174
+"Malakai Asamov",30,"Tikktokk Tokkzikk",11,0.16097867001254706
+"Malakai Asamov",30,"ExookiZ",12,0.17562849162011174
+"Malakai Asamov",30,"Tifida",13,0.018603582912264584
+"Malakai Asamov",30,"Lorelei Ierendi",14,0.022457891453524642
+"Malakai Asamov",30,"Silver Suspiria",15,0.012311901504787962
+"Malakai Asamov",30,"bastet 666",16,0.015130353817504655
+"Malakai Asamov",30,"Otto Bismarck",17,0.08308368284401838
+"Malakai Asamov",30,"Mawderator",18,0.06141856141856142
+"Malakai Asamov",30,"Sullen Decimus",19,0.005751987819319912
+"Malakai Asamov",30,"Afropty",20,0.2571956693952997
+"Malakai Asamov",30,"Arielle en Distel",21,0.01881165404909383
+"Malakai Asamov",30,"Damian Blackie",22,0.2404292343387471
+"Malakai Asamov",30,"Winter duFallen",23,0.2226922119930331
+"Malakai Asamov",30,"Bei ArtJay",24,0.013761467889908258
+"Malakai Asamov",30,"Jaha Preynar",25,0.013664596273291925
+"Malakai Asamov",30,"Raphendyr Nardieu",26,0.009229448379480575
+"Malakai Asamov",30,"commander aze",27,0.0059967446243467835
+"Malakai Asamov",30,"aspecialpinecone",28,0.008783969256107603
+"Malakai Asamov",30,"Xenuria",29,0.022644406064095183
+"Malakai Asamov",30,"Malakai Asamov",30,1.0
+"Malakai Asamov",30,"Carbon Alabel",31,0.012709710218607015
+"Malakai Asamov",30,"Razorblade92",32,0.012496528742016106
+"Malakai Asamov",30,"Saint Michaels Soul",33,0.012045347189418989
+"Malakai Asamov",30,"Syncopee Farnsworth",34,0.015402567094515752
+"Malakai Asamov",30,"Chainsaw Plankton",35,0.016886019369257512
+"Malakai Asamov",30,"Claevyan",36,0.012449255751014885
+"Malakai Asamov",30,"Eurzadahn",37,0.007855688100087285
+"Malakai Asamov",30,"Kali Omega",38,0.02975871313672922
+"Malakai Asamov",30,"The Ludocrat",39,0.009419629292008508
+"Malakai Asamov",30,"Vincent Eneticum",40,0.01161928306551298
+"Malakai Asamov",30,"Cacique Yuhasz",41,0.011448481831757094
+"Malakai Asamov",30,"Parobro",42,0.015882183078255847
+"Malakai Asamov",30,"Solar Taranogas",43,0.009329732383992144
+"Malakai Asamov",30,"Kalen Tsero",44,0.01259928786633799
+"Malakai Asamov",30,"Cwittofur Cesaille",45,0.0031486146095717885
+"Malakai Asamov",30,"ZepWunderbar",46,0.009478672985781991
+"Malakai Asamov",30,"Creecher Virpio",47,0.014069644741470278
+"Carbon Alabel",31,"Aryth",1,0.007065057403591404
+"Carbon Alabel",31,"Sort Dragon",2,0.01887555615477956
+"Carbon Alabel",31,"Merkelchen",3,0.009398884527990085
+"Carbon Alabel",31,"Jin'taan",4,0.03471001757469244
+"Carbon Alabel",31,"Innominate",5,0.007809726659566915
+"Carbon Alabel",31,"Killah Bee",6,0.02541159627773801
+"Carbon Alabel",31,"Steve Ronuken",7,0.03733987462523849
+"Carbon Alabel",31,"Brisc Rubal",8,0.01622733506018589
+"Carbon Alabel",31,"Suitonia",9,0.04983811285846439
+"Carbon Alabel",31,"The Judge",10,0.014079580236117184
+"Carbon Alabel",31,"Tikktokk Tokkzikk",11,0.02561576354679803
+"Carbon Alabel",31,"ExookiZ",12,0.024054982817869417
+"Carbon Alabel",31,"Tifida",13,0.05965665236051502
+"Carbon Alabel",31,"Lorelei Ierendi",14,0.10939849624060151
+"Carbon Alabel",31,"Silver Suspiria",15,0.06637931034482758
+"Carbon Alabel",31,"bastet 666",16,0.044027898866608545
+"Carbon Alabel",31,"Otto Bismarck",17,0.06140620202640467
+"Carbon Alabel",31,"Mawderator",18,0.01858589054096805
+"Carbon Alabel",31,"Sullen Decimus",19,0.012136664966853646
+"Carbon Alabel",31,"Afropty",20,0.038261515601783064
+"Carbon Alabel",31,"Arielle en Distel",21,0.12551159618008187
+"Carbon Alabel",31,"Damian Blackie",22,0.033080017881090745
+"Carbon Alabel",31,"Winter duFallen",23,0.028970331588132635
+"Carbon Alabel",31,"Bei ArtJay",24,0.07519834425664022
+"Carbon Alabel",31,"Jaha Preynar",25,0.07582697201017811
+"Carbon Alabel",31,"Raphendyr Nardieu",26,0.051094890510948905
+"Carbon Alabel",31,"commander aze",27,0.017060230937272443
+"Carbon Alabel",31,"aspecialpinecone",28,0.04654011022657685
+"Carbon Alabel",31,"Xenuria",29,0.04311414392059553
+"Carbon Alabel",31,"Malakai Asamov",30,0.012709710218607015
+"Carbon Alabel",31,"Carbon Alabel",31,1.0
+"Carbon Alabel",31,"Razorblade92",32,0.03194103194103194
+"Carbon Alabel",31,"Saint Michaels Soul",33,0.07610208816705337
+"Carbon Alabel",31,"Syncopee Farnsworth",34,0.05112384310268841
+"Carbon Alabel",31,"Chainsaw Plankton",35,0.07038712921065862
+"Carbon Alabel",31,"Claevyan",36,0.05843768634466309
+"Carbon Alabel",31,"Eurzadahn",37,0.08472121650977553
+"Carbon Alabel",31,"Kali Omega",38,0.059920859242509894
+"Carbon Alabel",31,"The Ludocrat",39,0.0311787072243346
+"Carbon Alabel",31,"Vincent Eneticum",40,0.06406406406406406
+"Carbon Alabel",31,"Cacique Yuhasz",41,0.05215646940822467
+"Carbon Alabel",31,"Parobro",42,0.06228610540725531
+"Carbon Alabel",31,"Solar Taranogas",43,0.03924418604651163
+"Carbon Alabel",31,"Kalen Tsero",44,0.05613178767541183
+"Carbon Alabel",31,"Cwittofur Cesaille",45,0.032148900169204735
+"Carbon Alabel",31,"ZepWunderbar",46,0.028451882845188285
+"Carbon Alabel",31,"Creecher Virpio",47,0.025364274150026983
+"Razorblade92",32,"Aryth",1,0.0038434307676747242
+"Razorblade92",32,"Sort Dragon",2,0.013477467359258739
+"Razorblade92",32,"Merkelchen",3,0.0059707857980594945
+"Razorblade92",32,"Jin'taan",4,0.0154707251116282
+"Razorblade92",32,"Innominate",5,0.004467134652201659
+"Razorblade92",32,"Killah Bee",6,0.020642768850432633
+"Razorblade92",32,"Steve Ronuken",7,0.014723926380368098
+"Razorblade92",32,"Brisc Rubal",8,0.005957907768492727
+"Razorblade92",32,"Suitonia",9,0.02956419316843345
+"Razorblade92",32,"The Judge",10,0.008962179602079226
+"Razorblade92",32,"Tikktokk Tokkzikk",11,0.022814247865763908
+"Razorblade92",32,"ExookiZ",12,0.07134220072551391
+"Razorblade92",32,"Tifida",13,0.09506680369989723
+"Razorblade92",32,"Lorelei Ierendi",14,0.03979307600477517
+"Razorblade92",32,"Silver Suspiria",15,0.038405444822557123
+"Razorblade92",32,"bastet 666",16,0.036272040302267
+"Razorblade92",32,"Otto Bismarck",17,0.0431438127090301
+"Razorblade92",32,"Mawderator",18,0.009904976646803027
+"Razorblade92",32,"Sullen Decimus",19,0.00979669229958917
+"Razorblade92",32,"Afropty",20,0.02204658901830283
+"Razorblade92",32,"Arielle en Distel",21,0.09589743589743589
+"Razorblade92",32,"Damian Blackie",22,0.01805985552115583
+"Razorblade92",32,"Winter duFallen",23,0.02999210734017364
+"Razorblade92",32,"Bei ArtJay",24,0.028116907140214576
+"Razorblade92",32,"Jaha Preynar",25,0.041031652989449004
+"Razorblade92",32,"Raphendyr Nardieu",26,0.09899175068744272
+"Razorblade92",32,"commander aze",27,0.007578992314261315
+"Razorblade92",32,"aspecialpinecone",28,0.02696629213483146
+"Razorblade92",32,"Xenuria",29,0.033481380252818584
+"Razorblade92",32,"Malakai Asamov",30,0.012496528742016106
+"Razorblade92",32,"Carbon Alabel",31,0.03194103194103194
+"Razorblade92",32,"Razorblade92",32,1.0
+"Razorblade92",32,"Saint Michaels Soul",33,0.04263157894736842
+"Razorblade92",32,"Syncopee Farnsworth",34,0.022477522477522476
+"Razorblade92",32,"Chainsaw Plankton",35,0.042491268917345754
+"Razorblade92",32,"Claevyan",36,0.1422893481717011
+"Razorblade92",32,"Eurzadahn",37,0.014873140857392825
+"Razorblade92",32,"Kali Omega",38,0.05273972602739726
+"Razorblade92",32,"The Ludocrat",39,0.01901901901901902
+"Razorblade92",32,"Vincent Eneticum",40,0.02522935779816514
+"Razorblade92",32,"Cacique Yuhasz",41,0.022067363530778164
+"Razorblade92",32,"Parobro",42,0.03849443969204448
+"Razorblade92",32,"Solar Taranogas",43,0.07049763033175356
+"Razorblade92",32,"Kalen Tsero",44,0.03723008190618019
+"Razorblade92",32,"Cwittofur Cesaille",45,0.0220162224797219
+"Razorblade92",32,"ZepWunderbar",46,0.02413793103448276
+"Razorblade92",32,"Creecher Virpio",47,0.011393514460999123
+"Saint Michaels Soul",33,"Aryth",1,0.007054337464251668
+"Saint Michaels Soul",33,"Sort Dragon",2,0.02718954248366013
+"Saint Michaels Soul",33,"Merkelchen",3,0.007601520304060812
+"Saint Michaels Soul",33,"Jin'taan",4,0.04527056479232829
+"Saint Michaels Soul",33,"Innominate",5,0.005087083979996551
+"Saint Michaels Soul",33,"Killah Bee",6,0.04794439863352574
+"Saint Michaels Soul",33,"Steve Ronuken",7,0.03755931297199759
+"Saint Michaels Soul",33,"Brisc Rubal",8,0.026799156880457694
+"Saint Michaels Soul",33,"Suitonia",9,0.06651506537805571
+"Saint Michaels Soul",33,"The Judge",10,0.016663818150743463
+"Saint Michaels Soul",33,"Tikktokk Tokkzikk",11,0.039736914223074814
+"Saint Michaels Soul",33,"ExookiZ",12,0.09081127609210243
+"Saint Michaels Soul",33,"Tifida",13,0.03706476974915762
+"Saint Michaels Soul",33,"Lorelei Ierendi",14,0.06344015696533682
+"Saint Michaels Soul",33,"Silver Suspiria",15,0.24327956989247312
+"Saint Michaels Soul",33,"bastet 666",16,0.027439024390243903
+"Saint Michaels Soul",33,"Otto Bismarck",17,0.11183431952662722
+"Saint Michaels Soul",33,"Mawderator",18,0.03364442004548663
+"Saint Michaels Soul",33,"Sullen Decimus",19,0.024036054081121683
+"Saint Michaels Soul",33,"Afropty",20,0.016748768472906402
+"Saint Michaels Soul",33,"Arielle en Distel",21,0.09723320158102766
+"Saint Michaels Soul",33,"Damian Blackie",22,0.023110066588327458
+"Saint Michaels Soul",33,"Winter duFallen",23,0.04001280409731114
+"Saint Michaels Soul",33,"Bei ArtJay",24,0.13933333333333334
+"Saint Michaels Soul",33,"Jaha Preynar",25,0.06107205623901582
+"Saint Michaels Soul",33,"Raphendyr Nardieu",26,0.03299319727891156
+"Saint Michaels Soul",33,"commander aze",27,0.020556962025316455
+"Saint Michaels Soul",33,"aspecialpinecone",28,0.07142857142857142
+"Saint Michaels Soul",33,"Xenuria",29,0.05590778097982709
+"Saint Michaels Soul",33,"Malakai Asamov",30,0.012045347189418989
+"Saint Michaels Soul",33,"Carbon Alabel",31,0.07610208816705337
+"Saint Michaels Soul",33,"Razorblade92",32,0.04263157894736842
+"Saint Michaels Soul",33,"Saint Michaels Soul",33,1.0
+"Saint Michaels Soul",33,"Syncopee Farnsworth",34,0.02479969477298741
+"Saint Michaels Soul",33,"Chainsaw Plankton",35,0.0975609756097561
+"Saint Michaels Soul",33,"Claevyan",36,0.05220476431829701
+"Saint Michaels Soul",33,"Eurzadahn",37,0.07402985074626865
+"Saint Michaels Soul",33,"Kali Omega",38,0.03965599617773531
+"Saint Michaels Soul",33,"The Ludocrat",39,0.01843884449907806
+"Saint Michaels Soul",33,"Vincent Eneticum",40,0.030135823429541596
+"Saint Michaels Soul",33,"Cacique Yuhasz",41,0.019982993197278913
+"Saint Michaels Soul",33,"Parobro",42,0.026592797783933517
+"Saint Michaels Soul",33,"Solar Taranogas",43,0.031197301854974706
+"Saint Michaels Soul",33,"Kalen Tsero",44,0.1091703056768559
+"Saint Michaels Soul",33,"Cwittofur Cesaille",45,0.024932614555256066
+"Saint Michaels Soul",33,"ZepWunderbar",46,0.015262110152621102
+"Saint Michaels Soul",33,"Creecher Virpio",47,0.04510703363914373
+"Syncopee Farnsworth",34,"Aryth",1,0.004061584962690092
+"Syncopee Farnsworth",34,"Sort Dragon",2,0.017985611510791366
+"Syncopee Farnsworth",34,"Merkelchen",3,0.00735148023047884
+"Syncopee Farnsworth",34,"Jin'taan",4,0.013837083383467693
+"Syncopee Farnsworth",34,"Innominate",5,0.05451110911217055
+"Syncopee Farnsworth",34,"Killah Bee",6,0.01875639422530408
+"Syncopee Farnsworth",34,"Steve Ronuken",7,0.028090999010880316
+"Syncopee Farnsworth",34,"Brisc Rubal",8,0.008461481862997573
+"Syncopee Farnsworth",34,"Suitonia",9,0.020196565503834106
+"Syncopee Farnsworth",34,"The Judge",10,0.05624227441285538
+"Syncopee Farnsworth",34,"Tikktokk Tokkzikk",11,0.012166093626024862
+"Syncopee Farnsworth",34,"ExookiZ",12,0.01622798337621215
+"Syncopee Farnsworth",34,"Tifida",13,0.047654229774658295
+"Syncopee Farnsworth",34,"Lorelei Ierendi",14,0.14138286893704852
+"Syncopee Farnsworth",34,"Silver Suspiria",15,0.04371785451873622
+"Syncopee Farnsworth",34,"bastet 666",16,0.04700530705079606
+"Syncopee Farnsworth",34,"Otto Bismarck",17,0.039412883935852135
+"Syncopee Farnsworth",34,"Mawderator",18,0.005770690964312832
+"Syncopee Farnsworth",34,"Sullen Decimus",19,0.004293939689665268
+"Syncopee Farnsworth",34,"Afropty",20,0.03876478318002628
+"Syncopee Farnsworth",34,"Arielle en Distel",21,0.1184573002754821
+"Syncopee Farnsworth",34,"Damian Blackie",22,0.04040404040404041
+"Syncopee Farnsworth",34,"Winter duFallen",23,0.0690099967752338
+"Syncopee Farnsworth",34,"Bei ArtJay",24,0.01603966170895305
+"Syncopee Farnsworth",34,"Jaha Preynar",25,0.09488084730803177
+"Syncopee Farnsworth",34,"Raphendyr Nardieu",26,0.32098765432098764
+"Syncopee Farnsworth",34,"commander aze",27,0.011971268954509178
+"Syncopee Farnsworth",34,"aspecialpinecone",28,0.030272952853598014
+"Syncopee Farnsworth",34,"Xenuria",29,0.027548209366391185
+"Syncopee Farnsworth",34,"Malakai Asamov",30,0.015402567094515752
+"Syncopee Farnsworth",34,"Carbon Alabel",31,0.05112384310268841
+"Syncopee Farnsworth",34,"Razorblade92",32,0.022477522477522476
+"Syncopee Farnsworth",34,"Saint Michaels Soul",33,0.02479969477298741
+"Syncopee Farnsworth",34,"Syncopee Farnsworth",34,1.0
+"Syncopee Farnsworth",34,"Chainsaw Plankton",35,0.06940874035989718
+"Syncopee Farnsworth",34,"Claevyan",36,0.035783365570599614
+"Syncopee Farnsworth",34,"Eurzadahn",37,0.04657687991021325
+"Syncopee Farnsworth",34,"Kali Omega",38,0.07170172084130019
+"Syncopee Farnsworth",34,"The Ludocrat",39,0.020734597156398103
+"Syncopee Farnsworth",34,"Vincent Eneticum",40,0.3288912579957356
+"Syncopee Farnsworth",34,"Cacique Yuhasz",41,0.37402452619843923
+"Syncopee Farnsworth",34,"Parobro",42,0.05150684931506849
+"Syncopee Farnsworth",34,"Solar Taranogas",43,0.3291005291005291
+"Syncopee Farnsworth",34,"Kalen Tsero",44,0.031972454500737824
+"Syncopee Farnsworth",34,"Cwittofur Cesaille",45,0.027184466019417475
+"Syncopee Farnsworth",34,"ZepWunderbar",46,0.016560509554140127
+"Syncopee Farnsworth",34,"Creecher Virpio",47,0.017085672443251158
+"Chainsaw Plankton",35,"Aryth",1,0.007477906186267845
+"Chainsaw Plankton",35,"Sort Dragon",2,0.025682182985553772
+"Chainsaw Plankton",35,"Merkelchen",3,0.009911106569939716
+"Chainsaw Plankton",35,"Jin'taan",4,0.030295505338962008
+"Chainsaw Plankton",35,"Innominate",5,0.010308370044052863
+"Chainsaw Plankton",35,"Killah Bee",6,0.02993020229504318
+"Chainsaw Plankton",35,"Steve Ronuken",7,0.04454737415707377
+"Chainsaw Plankton",35,"Brisc Rubal",8,0.017013232514177693
+"Chainsaw Plankton",35,"Suitonia",9,0.053174421269768506
+"Chainsaw Plankton",35,"The Judge",10,0.015263203538288092
+"Chainsaw Plankton",35,"Tikktokk Tokkzikk",11,0.030649205906937867
+"Chainsaw Plankton",35,"ExookiZ",12,0.038527032779906344
+"Chainsaw Plankton",35,"Tifida",13,0.04116222760290557
+"Chainsaw Plankton",35,"Lorelei Ierendi",14,0.1493993993993994
+"Chainsaw Plankton",35,"Silver Suspiria",15,0.06510094767202307
+"Chainsaw Plankton",35,"bastet 666",16,0.03897180762852405
+"Chainsaw Plankton",35,"Otto Bismarck",17,0.08383961117861483
+"Chainsaw Plankton",35,"Mawderator",18,0.014209868831980013
+"Chainsaw Plankton",35,"Sullen Decimus",19,0.014558689717925387
+"Chainsaw Plankton",35,"Afropty",20,0.03306078919303235
+"Chainsaw Plankton",35,"Arielle en Distel",21,0.11369509043927649
+"Chainsaw Plankton",35,"Damian Blackie",22,0.0301999149298171
+"Chainsaw Plankton",35,"Winter duFallen",23,0.05591991715567829
+"Chainsaw Plankton",35,"Bei ArtJay",24,0.04229899903132063
+"Chainsaw Plankton",35,"Jaha Preynar",25,0.11584754262788365
+"Chainsaw Plankton",35,"Raphendyr Nardieu",26,0.06749156355455568
+"Chainsaw Plankton",35,"commander aze",27,0.02668466410549268
+"Chainsaw Plankton",35,"aspecialpinecone",28,0.06619800820152313
+"Chainsaw Plankton",35,"Xenuria",29,0.0725532571781414
+"Chainsaw Plankton",35,"Malakai Asamov",30,0.016886019369257512
+"Chainsaw Plankton",35,"Carbon Alabel",31,0.07038712921065862
+"Chainsaw Plankton",35,"Razorblade92",32,0.042491268917345754
+"Chainsaw Plankton",35,"Saint Michaels Soul",33,0.0975609756097561
+"Chainsaw Plankton",35,"Syncopee Farnsworth",34,0.06940874035989718
+"Chainsaw Plankton",35,"Chainsaw Plankton",35,1.0
+"Chainsaw Plankton",35,"Claevyan",36,0.06734578381437464
+"Chainsaw Plankton",35,"Eurzadahn",37,0.08496291301416048
+"Chainsaw Plankton",35,"Kali Omega",38,0.09966777408637874
+"Chainsaw Plankton",35,"The Ludocrat",39,0.036016949152542374
+"Chainsaw Plankton",35,"Vincent Eneticum",40,0.036127836961556276
+"Chainsaw Plankton",35,"Cacique Yuhasz",41,0.02458256029684601
+"Chainsaw Plankton",35,"Parobro",42,0.05587301587301587
+"Chainsaw Plankton",35,"Solar Taranogas",43,0.03202195791399817
+"Chainsaw Plankton",35,"Kalen Tsero",44,0.0653556969346443
+"Chainsaw Plankton",35,"Cwittofur Cesaille",45,0.033385093167701864
+"Chainsaw Plankton",35,"ZepWunderbar",46,0.021341463414634148
+"Chainsaw Plankton",35,"Creecher Virpio",47,0.01822442072376985
+"Claevyan",36,"Aryth",1,0.006125112963148911
+"Claevyan",36,"Sort Dragon",2,0.015551235767842266
+"Claevyan",36,"Merkelchen",3,0.004744333157617291
+"Claevyan",36,"Jin'taan",4,0.020803217899566337
+"Claevyan",36,"Innominate",5,0.00679470918644682
+"Claevyan",36,"Killah Bee",6,0.016058394160583942
+"Claevyan",36,"Steve Ronuken",7,0.02175692265720911
+"Claevyan",36,"Brisc Rubal",8,0.009636882275846118
+"Claevyan",36,"Suitonia",9,0.0347815903501581
+"Claevyan",36,"The Judge",10,0.01014325117893051
+"Claevyan",36,"Tikktokk Tokkzikk",11,0.023390963242772046
+"Claevyan",36,"ExookiZ",12,0.06999290612437929
+"Claevyan",36,"Tifida",13,0.08957415565345081
+"Claevyan",36,"Lorelei Ierendi",14,0.0541066562864928
+"Claevyan",36,"Silver Suspiria",15,0.05985748218527316
+"Claevyan",36,"bastet 666",16,0.04061895551257253
+"Claevyan",36,"Otto Bismarck",17,0.03878474466709761
+"Claevyan",36,"Mawderator",18,0.011365455418600928
+"Claevyan",36,"Sullen Decimus",19,0.010964912280701754
+"Claevyan",36,"Afropty",20,0.023666265543521862
+"Claevyan",36,"Arielle en Distel",21,0.11432850723914129
+"Claevyan",36,"Damian Blackie",22,0.02936784469885515
+"Claevyan",36,"Winter duFallen",23,0.03639846743295019
+"Claevyan",36,"Bei ArtJay",24,0.02459893048128342
+"Claevyan",36,"Jaha Preynar",25,0.07405281285878301
+"Claevyan",36,"Raphendyr Nardieu",26,0.09486166007905138
+"Claevyan",36,"commander aze",27,0.014363230130864985
+"Claevyan",36,"aspecialpinecone",28,0.03604240282685512
+"Claevyan",36,"Xenuria",29,0.02766798418972332
+"Claevyan",36,"Malakai Asamov",30,0.012449255751014885
+"Claevyan",36,"Carbon Alabel",31,0.05843768634466309
+"Claevyan",36,"Razorblade92",32,0.1422893481717011
+"Claevyan",36,"Saint Michaels Soul",33,0.05220476431829701
+"Claevyan",36,"Syncopee Farnsworth",34,0.035783365570599614
+"Claevyan",36,"Chainsaw Plankton",35,0.06734578381437464
+"Claevyan",36,"Claevyan",36,1.0
+"Claevyan",36,"Eurzadahn",37,0.044962531223980015
+"Claevyan",36,"Kali Omega",38,0.058365758754863814
+"Claevyan",36,"The Ludocrat",39,0.025806451612903226
+"Claevyan",36,"Vincent Eneticum",40,0.03746556473829201
+"Claevyan",36,"Cacique Yuhasz",41,0.018671059857221308
+"Claevyan",36,"Parobro",42,0.04636290967226219
+"Claevyan",36,"Solar Taranogas",43,0.07457627118644068
+"Claevyan",36,"Kalen Tsero",44,0.048625792811839326
+"Claevyan",36,"Cwittofur Cesaille",45,0.03167898627243928
+"Claevyan",36,"ZepWunderbar",46,0.022821576763485476
+"Claevyan",36,"Creecher Virpio",47,0.015415358264344847
+"Eurzadahn",37,"Aryth",1,0.005054672993604291
+"Eurzadahn",37,"Sort Dragon",2,0.008888888888888889
+"Eurzadahn",37,"Merkelchen",3,0.003579175704989154
+"Eurzadahn",37,"Jin'taan",4,0.012622098185969809
+"Eurzadahn",37,"Innominate",5,0.0038910505836575876
+"Eurzadahn",37,"Killah Bee",6,0.009627406851712927
+"Eurzadahn",37,"Steve Ronuken",7,0.015820379965457685
+"Eurzadahn",37,"Brisc Rubal",8,0.007624587329036315
+"Eurzadahn",37,"Suitonia",9,0.0230695672961989
+"Eurzadahn",37,"The Judge",10,0.007366984993178717
+"Eurzadahn",37,"Tikktokk Tokkzikk",11,0.00969859743360191
+"Eurzadahn",37,"ExookiZ",12,0.017241379310344827
+"Eurzadahn",37,"Tifida",13,0.030671602326811213
+"Eurzadahn",37,"Lorelei Ierendi",14,0.05879790940766551
+"Eurzadahn",37,"Silver Suspiria",15,0.0718595721338453
+"Eurzadahn",37,"bastet 666",16,0.031920748486516236
+"Eurzadahn",37,"Otto Bismarck",17,0.047058823529411764
+"Eurzadahn",37,"Mawderator",18,0.00463339294423671
+"Eurzadahn",37,"Sullen Decimus",19,0.005667843011442626
+"Eurzadahn",37,"Afropty",20,0.016987036209208762
+"Eurzadahn",37,"Arielle en Distel",21,0.08011049723756906
+"Eurzadahn",37,"Damian Blackie",22,0.01588201928530913
+"Eurzadahn",37,"Winter duFallen",23,0.03143585386576041
+"Eurzadahn",37,"Bei ArtJay",24,0.0429718875502008
+"Eurzadahn",37,"Jaha Preynar",25,0.06764902880107167
+"Eurzadahn",37,"Raphendyr Nardieu",26,0.03165735567970205
+"Eurzadahn",37,"commander aze",27,0.012690077672027131
+"Eurzadahn",37,"aspecialpinecone",28,0.02677029360967185
+"Eurzadahn",37,"Xenuria",29,0.03948811700182815
+"Eurzadahn",37,"Malakai Asamov",30,0.007855688100087285
+"Eurzadahn",37,"Carbon Alabel",31,0.08472121650977553
+"Eurzadahn",37,"Razorblade92",32,0.014873140857392825
+"Eurzadahn",37,"Saint Michaels Soul",33,0.07402985074626865
+"Eurzadahn",37,"Syncopee Farnsworth",34,0.04657687991021325
+"Eurzadahn",37,"Chainsaw Plankton",35,0.08496291301416048
+"Eurzadahn",37,"Claevyan",36,0.044962531223980015
+"Eurzadahn",37,"Eurzadahn",37,1.0
+"Eurzadahn",37,"Kali Omega",38,0.053654743390357695
+"Eurzadahn",37,"The Ludocrat",39,0.03593556381660471
+"Eurzadahn",37,"Vincent Eneticum",40,0.032133676092544985
+"Eurzadahn",37,"Cacique Yuhasz",41,0.032047089601046436
+"Eurzadahn",37,"Parobro",42,0.04878048780487805
+"Eurzadahn",37,"Solar Taranogas",43,0.030437539632213063
+"Eurzadahn",37,"Kalen Tsero",44,0.038593481989708404
+"Eurzadahn",37,"Cwittofur Cesaille",45,0.05580693815987934
+"Eurzadahn",37,"ZepWunderbar",46,0.061377245508982034
+"Eurzadahn",37,"Creecher Virpio",47,0.011721159777914868
+"Kali Omega",38,"Aryth",1,0.007667031763417305
+"Kali Omega",38,"Sort Dragon",2,0.03215926493108729
+"Kali Omega",38,"Merkelchen",3,0.007638380244846709
+"Kali Omega",38,"Jin'taan",4,0.019527107118347993
+"Kali Omega",38,"Innominate",5,0.007276320517427237
+"Kali Omega",38,"Killah Bee",6,0.03060602365565175
+"Kali Omega",38,"Steve Ronuken",7,0.02466367713004484
+"Kali Omega",38,"Brisc Rubal",8,0.010568234032776841
+"Kali Omega",38,"Suitonia",9,0.031275245239469125
+"Kali Omega",38,"The Judge",10,0.011123863335393308
+"Kali Omega",38,"Tikktokk Tokkzikk",11,0.02496413199426112
+"Kali Omega",38,"ExookiZ",12,0.03490713806220631
+"Kali Omega",38,"Tifida",13,0.05439709882139619
+"Kali Omega",38,"Lorelei Ierendi",14,0.12680577849117175
+"Kali Omega",38,"Silver Suspiria",15,0.048582995951417005
+"Kali Omega",38,"bastet 666",16,0.048417132216014895
+"Kali Omega",38,"Otto Bismarck",17,0.06903225806451613
+"Kali Omega",38,"Mawderator",18,0.01015228426395939
+"Kali Omega",38,"Sullen Decimus",19,0.008246572518297083
+"Kali Omega",38,"Afropty",20,0.04739336492890995
+"Kali Omega",38,"Arielle en Distel",21,0.08971962616822429
+"Kali Omega",38,"Damian Blackie",22,0.049878934624697335
+"Kali Omega",38,"Winter duFallen",23,0.07306809487375669
+"Kali Omega",38,"Bei ArtJay",24,0.027643400138217002
+"Kali Omega",38,"Jaha Preynar",25,0.10482062780269058
+"Kali Omega",38,"Raphendyr Nardieu",26,0.062269561655059404
+"Kali Omega",38,"commander aze",27,0.014318803958728154
+"Kali Omega",38,"aspecialpinecone",28,0.04819277108433735
+"Kali Omega",38,"Xenuria",29,0.041734066645098676
+"Kali Omega",38,"Malakai Asamov",30,0.02975871313672922
+"Kali Omega",38,"Carbon Alabel",31,0.059920859242509894
+"Kali Omega",38,"Razorblade92",32,0.05273972602739726
+"Kali Omega",38,"Saint Michaels Soul",33,0.03965599617773531
+"Kali Omega",38,"Syncopee Farnsworth",34,0.07170172084130019
+"Kali Omega",38,"Chainsaw Plankton",35,0.09966777408637874
+"Kali Omega",38,"Claevyan",36,0.058365758754863814
+"Kali Omega",38,"Eurzadahn",37,0.053654743390357695
+"Kali Omega",38,"Kali Omega",38,1.0
+"Kali Omega",38,"The Ludocrat",39,0.02883799830364716
+"Kali Omega",38,"Vincent Eneticum",40,0.035509138381201046
+"Kali Omega",38,"Cacique Yuhasz",41,0.04378003203416978
+"Kali Omega",38,"Parobro",42,0.077217125382263
+"Kali Omega",38,"Solar Taranogas",43,0.057022175290390706
+"Kali Omega",38,"Kalen Tsero",44,0.056553559547571526
+"Kali Omega",38,"Cwittofur Cesaille",45,0.02865329512893983
+"Kali Omega",38,"ZepWunderbar",46,0.03231939163498099
+"Kali Omega",38,"Creecher Virpio",47,0.01526929483620211
+"The Ludocrat",39,"Aryth",1,0.011483354403708386
+"The Ludocrat",39,"Sort Dragon",2,0.011293634496919919
+"The Ludocrat",39,"Merkelchen",3,0.013121316579561882
+"The Ludocrat",39,"Jin'taan",4,0.008991200102027802
+"The Ludocrat",39,"Innominate",5,0.012785301638412728
+"The Ludocrat",39,"Killah Bee",6,0.013154533844189017
+"The Ludocrat",39,"Steve Ronuken",7,0.005940867642995303
+"The Ludocrat",39,"Brisc Rubal",8,0.008672819859961808
+"The Ludocrat",39,"Suitonia",9,0.010929618063896229
+"The Ludocrat",39,"The Judge",10,0.014944769330734242
+"The Ludocrat",39,"Tikktokk Tokkzikk",11,0.006838905775075988
+"The Ludocrat",39,"ExookiZ",12,0.007607361963190184
+"The Ludocrat",39,"Tifida",13,0.026704545454545453
+"The Ludocrat",39,"Lorelei Ierendi",14,0.025997310623038995
+"The Ludocrat",39,"Silver Suspiria",15,0.01569506726457399
+"The Ludocrat",39,"bastet 666",16,0.027876631079478055
+"The Ludocrat",39,"Otto Bismarck",17,0.027573529411764705
+"The Ludocrat",39,"Mawderator",18,0.008169664961214722
+"The Ludocrat",39,"Sullen Decimus",19,0.007505710866963994
+"The Ludocrat",39,"Afropty",20,0.017652671755725192
+"The Ludocrat",39,"Arielle en Distel",21,0.01968503937007874
+"The Ludocrat",39,"Damian Blackie",22,0.021052631578947368
+"The Ludocrat",39,"Winter duFallen",23,0.023276633840644583
+"The Ludocrat",39,"Bei ArtJay",24,0.008627773212818405
+"The Ludocrat",39,"Jaha Preynar",25,0.01680672268907563
+"The Ludocrat",39,"Raphendyr Nardieu",26,0.008754863813229572
+"The Ludocrat",39,"commander aze",27,0.009860403279415023
+"The Ludocrat",39,"aspecialpinecone",28,0.021463414634146343
+"The Ludocrat",39,"Xenuria",29,0.030129672006102212
+"The Ludocrat",39,"Malakai Asamov",30,0.009419629292008508
+"The Ludocrat",39,"Carbon Alabel",31,0.0311787072243346
+"The Ludocrat",39,"Razorblade92",32,0.01901901901901902
+"The Ludocrat",39,"Saint Michaels Soul",33,0.01843884449907806
+"The Ludocrat",39,"Syncopee Farnsworth",34,0.020734597156398103
+"The Ludocrat",39,"Chainsaw Plankton",35,0.036016949152542374
+"The Ludocrat",39,"Claevyan",36,0.025806451612903226
+"The Ludocrat",39,"Eurzadahn",37,0.03593556381660471
+"The Ludocrat",39,"Kali Omega",38,0.02883799830364716
+"The Ludocrat",39,"The Ludocrat",39,1.0
+"The Ludocrat",39,"Vincent Eneticum",40,0.02092050209205021
+"The Ludocrat",39,"Cacique Yuhasz",41,0.013408609738884969
+"The Ludocrat",39,"Parobro",42,0.05200945626477541
+"The Ludocrat",39,"Solar Taranogas",43,0.022053756030323914
+"The Ludocrat",39,"Kalen Tsero",44,0.037864077669902914
+"The Ludocrat",39,"Cwittofur Cesaille",45,0.058823529411764705
+"The Ludocrat",39,"ZepWunderbar",46,0.04805914972273567
+"The Ludocrat",39,"Creecher Virpio",47,0.01160541586073501
+"Vincent Eneticum",40,"Aryth",1,0.008361691784151677
+"Vincent Eneticum",40,"Sort Dragon",2,0.016039236479321314
+"Vincent Eneticum",40,"Merkelchen",3,0.008882989585460487
+"Vincent Eneticum",40,"Jin'taan",4,0.014180062343377544
+"Vincent Eneticum",40,"Innominate",5,0.059813256910418784
+"Vincent Eneticum",40,"Killah Bee",6,0.022799388882359856
+"Vincent Eneticum",40,"Steve Ronuken",7,0.01657605092162843
+"Vincent Eneticum",40,"Brisc Rubal",8,0.0071904726237735
+"Vincent Eneticum",40,"Suitonia",9,0.01851441241685144
+"Vincent Eneticum",40,"The Judge",10,0.06091370558375635
+"Vincent Eneticum",40,"Tikktokk Tokkzikk",11,0.013569078947368422
+"Vincent Eneticum",40,"ExookiZ",12,0.019017763845350054
+"Vincent Eneticum",40,"Tifida",13,0.02587579617834395
+"Vincent Eneticum",40,"Lorelei Ierendi",14,0.06622516556291391
+"Vincent Eneticum",40,"Silver Suspiria",15,0.025824394119984106
+"Vincent Eneticum",40,"bastet 666",16,0.036009933774834434
+"Vincent Eneticum",40,"Otto Bismarck",17,0.02767368117613145
+"Vincent Eneticum",40,"Mawderator",18,0.007447056085641145
+"Vincent Eneticum",40,"Sullen Decimus",19,0.011494252873563218
+"Vincent Eneticum",40,"Afropty",20,0.022543148996125396
+"Vincent Eneticum",40,"Arielle en Distel",21,0.03693295865114412
+"Vincent Eneticum",40,"Damian Blackie",22,0.018955349620893007
+"Vincent Eneticum",40,"Winter duFallen",23,0.028956228956228958
+"Vincent Eneticum",40,"Bei ArtJay",24,0.0273972602739726
+"Vincent Eneticum",40,"Jaha Preynar",25,0.042702956358517126
+"Vincent Eneticum",40,"Raphendyr Nardieu",26,0.2927272727272727
+"Vincent Eneticum",40,"commander aze",27,0.012807377049180328
+"Vincent Eneticum",40,"aspecialpinecone",28,0.017357222844344905
+"Vincent Eneticum",40,"Xenuria",29,0.01759014951627089
+"Vincent Eneticum",40,"Malakai Asamov",30,0.01161928306551298
+"Vincent Eneticum",40,"Carbon Alabel",31,0.06406406406406406
+"Vincent Eneticum",40,"Razorblade92",32,0.02522935779816514
+"Vincent Eneticum",40,"Saint Michaels Soul",33,0.030135823429541596
+"Vincent Eneticum",40,"Syncopee Farnsworth",34,0.3288912579957356
+"Vincent Eneticum",40,"Chainsaw Plankton",35,0.036127836961556276
+"Vincent Eneticum",40,"Claevyan",36,0.03746556473829201
+"Vincent Eneticum",40,"Eurzadahn",37,0.032133676092544985
+"Vincent Eneticum",40,"Kali Omega",38,0.035509138381201046
+"Vincent Eneticum",40,"The Ludocrat",39,0.02092050209205021
+"Vincent Eneticum",40,"Vincent Eneticum",40,1.0
+"Vincent Eneticum",40,"Cacique Yuhasz",41,0.36933581626319056
+"Vincent Eneticum",40,"Parobro",42,0.05263157894736842
+"Vincent Eneticum",40,"Solar Taranogas",43,0.3596861798430899
+"Vincent Eneticum",40,"Kalen Tsero",44,0.030829596412556053
+"Vincent Eneticum",40,"Cwittofur Cesaille",45,0.016067329762815608
+"Vincent Eneticum",40,"ZepWunderbar",46,0.022953328232593728
+"Vincent Eneticum",40,"Creecher Virpio",47,0.011910926980838944
+"Cacique Yuhasz",41,"Aryth",1,0.005052958896122826
+"Cacique Yuhasz",41,"Sort Dragon",2,0.016369443705083843
+"Cacique Yuhasz",41,"Merkelchen",3,0.009528688524590163
+"Cacique Yuhasz",41,"Jin'taan",4,0.010245776666463377
+"Cacique Yuhasz",41,"Innominate",5,0.057029300305018946
+"Cacique Yuhasz",41,"Killah Bee",6,0.015807962529274005
+"Cacique Yuhasz",41,"Steve Ronuken",7,0.00943209550821186
+"Cacique Yuhasz",41,"Brisc Rubal",8,0.005846638183044749
+"Cacique Yuhasz",41,"Suitonia",9,0.01800600200066689
+"Cacique Yuhasz",41,"The Judge",10,0.05789616743680348
+"Cacique Yuhasz",41,"Tikktokk Tokkzikk",11,0.01000822593912805
+"Cacique Yuhasz",41,"ExookiZ",12,0.011475067807218861
+"Cacique Yuhasz",41,"Tifida",13,0.06252605252188412
+"Cacique Yuhasz",41,"Lorelei Ierendi",14,0.07102473498233215
+"Cacique Yuhasz",41,"Silver Suspiria",15,0.045008183306055646
+"Cacique Yuhasz",41,"bastet 666",16,0.0737527114967462
+"Cacique Yuhasz",41,"Otto Bismarck",17,0.02939464493597206
+"Cacique Yuhasz",41,"Mawderator",18,0.005743112145906093
+"Cacique Yuhasz",41,"Sullen Decimus",19,0.003208985158443642
+"Cacique Yuhasz",41,"Afropty",20,0.03380079108234448
+"Cacique Yuhasz",41,"Arielle en Distel",21,0.05187319884726225
+"Cacique Yuhasz",41,"Damian Blackie",22,0.01918158567774936
+"Cacique Yuhasz",41,"Winter duFallen",23,0.058001397624039136
+"Cacique Yuhasz",41,"Bei ArtJay",24,0.01912655403251514
+"Cacique Yuhasz",41,"Jaha Preynar",25,0.03784295175023652
+"Cacique Yuhasz",41,"Raphendyr Nardieu",26,0.28291571753986333
+"Cacique Yuhasz",41,"commander aze",27,0.006946572683624476
+"Cacique Yuhasz",41,"aspecialpinecone",28,0.02345537757437071
+"Cacique Yuhasz",41,"Xenuria",29,0.027454491196657715
+"Cacique Yuhasz",41,"Malakai Asamov",30,0.011448481831757094
+"Cacique Yuhasz",41,"Carbon Alabel",31,0.05215646940822467
+"Cacique Yuhasz",41,"Razorblade92",32,0.022067363530778164
+"Cacique Yuhasz",41,"Saint Michaels Soul",33,0.019982993197278913
+"Cacique Yuhasz",41,"Syncopee Farnsworth",34,0.37402452619843923
+"Cacique Yuhasz",41,"Chainsaw Plankton",35,0.02458256029684601
+"Cacique Yuhasz",41,"Claevyan",36,0.018671059857221308
+"Cacique Yuhasz",41,"Eurzadahn",37,0.032047089601046436
+"Cacique Yuhasz",41,"Kali Omega",38,0.04378003203416978
+"Cacique Yuhasz",41,"The Ludocrat",39,0.013408609738884969
+"Cacique Yuhasz",41,"Vincent Eneticum",40,0.36933581626319056
+"Cacique Yuhasz",41,"Cacique Yuhasz",41,1.0
+"Cacique Yuhasz",41,"Parobro",42,0.03949044585987261
+"Cacique Yuhasz",41,"Solar Taranogas",43,0.380272952853598
+"Cacique Yuhasz",41,"Kalen Tsero",44,0.020856820744081173
+"Cacique Yuhasz",41,"Cwittofur Cesaille",45,0.01483216237314598
+"Cacique Yuhasz",41,"ZepWunderbar",46,0.027472527472527472
+"Cacique Yuhasz",41,"Creecher Virpio",47,0.032738887410167686
+"Parobro",42,"Aryth",1,0.006885919835560124
+"Parobro",42,"Sort Dragon",2,0.018090452261306532
+"Parobro",42,"Merkelchen",3,0.010532030401737242
+"Parobro",42,"Jin'taan",4,0.011109007132487534
+"Parobro",42,"Innominate",5,0.008146639511201629
+"Parobro",42,"Killah Bee",6,0.02509457755359395
+"Parobro",42,"Steve Ronuken",7,0.012069674941708956
+"Parobro",42,"Brisc Rubal",8,0.008618663323669984
+"Parobro",42,"Suitonia",9,0.016883116883116882
+"Parobro",42,"The Judge",10,0.010623808226641242
+"Parobro",42,"Tikktokk Tokkzikk",11,0.013521545319465082
+"Parobro",42,"ExookiZ",12,0.01702127659574468
+"Parobro",42,"Tifida",13,0.03943954333160353
+"Parobro",42,"Lorelei Ierendi",14,0.08610139860139861
+"Parobro",42,"Silver Suspiria",15,0.026584867075664622
+"Parobro",42,"bastet 666",16,0.04213938411669368
+"Parobro",42,"Otto Bismarck",17,0.037460978147762745
+"Parobro",42,"Mawderator",18,0.005834211166031926
+"Parobro",42,"Sullen Decimus",19,0.0044604927782497875
+"Parobro",42,"Afropty",20,0.031443755535872454
+"Parobro",42,"Arielle en Distel",21,0.0425531914893617
+"Parobro",42,"Damian Blackie",22,0.03535353535353535
+"Parobro",42,"Winter duFallen",23,0.041981528127623846
+"Parobro",42,"Bei ArtJay",24,0.014154552410099464
+"Parobro",42,"Jaha Preynar",25,0.05102040816326531
+"Parobro",42,"Raphendyr Nardieu",26,0.037951531778692274
+"Parobro",42,"commander aze",27,0.008338748104829976
+"Parobro",42,"aspecialpinecone",28,0.03669724770642202
+"Parobro",42,"Xenuria",29,0.03390435403283369
+"Parobro",42,"Malakai Asamov",30,0.015882183078255847
+"Parobro",42,"Carbon Alabel",31,0.06228610540725531
+"Parobro",42,"Razorblade92",32,0.03849443969204448
+"Parobro",42,"Saint Michaels Soul",33,0.026592797783933517
+"Parobro",42,"Syncopee Farnsworth",34,0.05150684931506849
+"Parobro",42,"Chainsaw Plankton",35,0.05587301587301587
+"Parobro",42,"Claevyan",36,0.04636290967226219
+"Parobro",42,"Eurzadahn",37,0.04878048780487805
+"Parobro",42,"Kali Omega",38,0.077217125382263
+"Parobro",42,"The Ludocrat",39,0.05200945626477541
+"Parobro",42,"Vincent Eneticum",40,0.05263157894736842
+"Parobro",42,"Cacique Yuhasz",41,0.03949044585987261
+"Parobro",42,"Parobro",42,1.0
+"Parobro",42,"Solar Taranogas",43,0.02565668906536347
+"Parobro",42,"Kalen Tsero",44,0.03773584905660377
+"Parobro",42,"Cwittofur Cesaille",45,0.024456521739130436
+"Parobro",42,"ZepWunderbar",46,0.05678670360110803
+"Parobro",42,"Creecher Virpio",47,0.011529126213592233
+"Solar Taranogas",43,"Aryth",1,0.005710966992546704
+"Solar Taranogas",43,"Sort Dragon",2,0.01855779427359491
+"Solar Taranogas",43,"Merkelchen",3,0.005178190679256778
+"Solar Taranogas",43,"Jin'taan",4,0.014287458786176578
+"Solar Taranogas",43,"Innominate",5,0.05707447298168093
+"Solar Taranogas",43,"Killah Bee",6,0.013714551371455138
+"Solar Taranogas",43,"Steve Ronuken",7,0.011864741941862765
+"Solar Taranogas",43,"Brisc Rubal",8,0.0068790189920741734
+"Solar Taranogas",43,"Suitonia",9,0.022548039542374766
+"Solar Taranogas",43,"The Judge",10,0.058605743182228644
+"Solar Taranogas",43,"Tikktokk Tokkzikk",11,0.01519923319183897
+"Solar Taranogas",43,"ExookiZ",12,0.0322648671446647
+"Solar Taranogas",43,"Tifida",13,0.04593070104754231
+"Solar Taranogas",43,"Lorelei Ierendi",14,0.04480651731160896
+"Solar Taranogas",43,"Silver Suspiria",15,0.033783783783783786
+"Solar Taranogas",43,"bastet 666",16,0.03403034030340303
+"Solar Taranogas",43,"Otto Bismarck",17,0.03673705525021695
+"Solar Taranogas",43,"Mawderator",18,0.007592190889370932
+"Solar Taranogas",43,"Sullen Decimus",19,0.008832680919401786
+"Solar Taranogas",43,"Afropty",20,0.02239328201539538
+"Solar Taranogas",43,"Arielle en Distel",21,0.061174551386623165
+"Solar Taranogas",43,"Damian Blackie",22,0.024800336275746113
+"Solar Taranogas",43,"Winter duFallen",23,0.032225579053373615
+"Solar Taranogas",43,"Bei ArtJay",24,0.015336463223787167
+"Solar Taranogas",43,"Jaha Preynar",25,0.06816015252621545
+"Solar Taranogas",43,"Raphendyr Nardieu",26,0.31813996316758747
+"Solar Taranogas",43,"commander aze",27,0.011231366142536246
+"Solar Taranogas",43,"aspecialpinecone",28,0.03262092238470191
+"Solar Taranogas",43,"Xenuria",29,0.01897810218978102
+"Solar Taranogas",43,"Malakai Asamov",30,0.009329732383992144
+"Solar Taranogas",43,"Carbon Alabel",31,0.03924418604651163
+"Solar Taranogas",43,"Razorblade92",32,0.07049763033175356
+"Solar Taranogas",43,"Saint Michaels Soul",33,0.031197301854974706
+"Solar Taranogas",43,"Syncopee Farnsworth",34,0.3291005291005291
+"Solar Taranogas",43,"Chainsaw Plankton",35,0.03202195791399817
+"Solar Taranogas",43,"Claevyan",36,0.07457627118644068
+"Solar Taranogas",43,"Eurzadahn",37,0.030437539632213063
+"Solar Taranogas",43,"Kali Omega",38,0.057022175290390706
+"Solar Taranogas",43,"The Ludocrat",39,0.022053756030323914
+"Solar Taranogas",43,"Vincent Eneticum",40,0.3596861798430899
+"Solar Taranogas",43,"Cacique Yuhasz",41,0.380272952853598
+"Solar Taranogas",43,"Parobro",42,0.02565668906536347
+"Solar Taranogas",43,"Solar Taranogas",43,1.0
+"Solar Taranogas",43,"Kalen Tsero",44,0.03856903297931805
+"Solar Taranogas",43,"Cwittofur Cesaille",45,0.026676829268292682
+"Solar Taranogas",43,"ZepWunderbar",46,0.015730337078651686
+"Solar Taranogas",43,"Creecher Virpio",47,0.015515903801396431
+"Kalen Tsero",44,"Aryth",1,0.005746547030950701
+"Kalen Tsero",44,"Sort Dragon",2,0.015079586707623568
+"Kalen Tsero",44,"Merkelchen",3,0.007113281664720247
+"Kalen Tsero",44,"Jin'taan",4,0.023376295173110944
+"Kalen Tsero",44,"Innominate",5,0.007555070089204442
+"Kalen Tsero",44,"Killah Bee",6,0.024161735700197237
+"Kalen Tsero",44,"Steve Ronuken",7,0.02406417112299465
+"Kalen Tsero",44,"Brisc Rubal",8,0.01564080616294452
+"Kalen Tsero",44,"Suitonia",9,0.044180522565320665
+"Kalen Tsero",44,"The Judge",10,0.01144799212950541
+"Kalen Tsero",44,"Tikktokk Tokkzikk",11,0.03996434407963156
+"Kalen Tsero",44,"ExookiZ",12,0.04647361046240075
+"Kalen Tsero",44,"Tifida",13,0.030703826169107228
+"Kalen Tsero",44,"Lorelei Ierendi",14,0.05463182897862233
+"Kalen Tsero",44,"Silver Suspiria",15,0.12557900154400412
+"Kalen Tsero",44,"bastet 666",16,0.044598612487611496
+"Kalen Tsero",44,"Otto Bismarck",17,0.033583306162373656
+"Kalen Tsero",44,"Mawderator",18,0.02240987333549854
+"Kalen Tsero",44,"Sullen Decimus",19,0.007527443805541035
+"Kalen Tsero",44,"Afropty",20,0.01868399675060926
+"Kalen Tsero",44,"Arielle en Distel",21,0.042897998093422304
+"Kalen Tsero",44,"Damian Blackie",22,0.03741670937980523
+"Kalen Tsero",44,"Winter duFallen",23,0.03904724716907458
+"Kalen Tsero",44,"Bei ArtJay",24,0.05557627750839239
+"Kalen Tsero",44,"Jaha Preynar",25,0.04699140401146132
+"Kalen Tsero",44,"Raphendyr Nardieu",26,0.024686192468619247
+"Kalen Tsero",44,"commander aze",27,0.010972621710876745
+"Kalen Tsero",44,"aspecialpinecone",28,0.050221565731166914
+"Kalen Tsero",44,"Xenuria",29,0.04129993229519296
+"Kalen Tsero",44,"Malakai Asamov",30,0.01259928786633799
+"Kalen Tsero",44,"Carbon Alabel",31,0.05613178767541183
+"Kalen Tsero",44,"Razorblade92",32,0.03723008190618019
+"Kalen Tsero",44,"Saint Michaels Soul",33,0.1091703056768559
+"Kalen Tsero",44,"Syncopee Farnsworth",34,0.031972454500737824
+"Kalen Tsero",44,"Chainsaw Plankton",35,0.0653556969346443
+"Kalen Tsero",44,"Claevyan",36,0.048625792811839326
+"Kalen Tsero",44,"Eurzadahn",37,0.038593481989708404
+"Kalen Tsero",44,"Kali Omega",38,0.056553559547571526
+"Kalen Tsero",44,"The Ludocrat",39,0.037864077669902914
+"Kalen Tsero",44,"Vincent Eneticum",40,0.030829596412556053
+"Kalen Tsero",44,"Cacique Yuhasz",41,0.020856820744081173
+"Kalen Tsero",44,"Parobro",42,0.03773584905660377
+"Kalen Tsero",44,"Solar Taranogas",43,0.03856903297931805
+"Kalen Tsero",44,"Kalen Tsero",44,1.0
+"Kalen Tsero",44,"Cwittofur Cesaille",45,0.02866593164277839
+"Kalen Tsero",44,"ZepWunderbar",46,0.026143790849673203
+"Kalen Tsero",44,"Creecher Virpio",47,0.012683770539060248
+"Cwittofur Cesaille",45,"Aryth",1,0.0021175224986765486
+"Cwittofur Cesaille",45,"Sort Dragon",2,0.007302533532041729
+"Cwittofur Cesaille",45,"Merkelchen",3,0.002905352553357917
+"Cwittofur Cesaille",45,"Jin'taan",4,0.0037110499712073707
+"Cwittofur Cesaille",45,"Innominate",5,0.001992977128214862
+"Cwittofur Cesaille",45,"Killah Bee",6,0.00412105602060528
+"Cwittofur Cesaille",45,"Steve Ronuken",7,0.0044562038713271135
+"Cwittofur Cesaille",45,"Brisc Rubal",8,0.002718477652514592
+"Cwittofur Cesaille",45,"Suitonia",9,0.007298382191947452
+"Cwittofur Cesaille",45,"The Judge",10,0.00427827380952381
+"Cwittofur Cesaille",45,"Tikktokk Tokkzikk",11,0.004022899582237351
+"Cwittofur Cesaille",45,"ExookiZ",12,0.011464968152866241
+"Cwittofur Cesaille",45,"Tifida",13,0.018902439024390243
+"Cwittofur Cesaille",45,"Lorelei Ierendi",14,0.02768496420047733
+"Cwittofur Cesaille",45,"Silver Suspiria",15,0.02444987775061125
+"Cwittofur Cesaille",45,"bastet 666",16,0.017845761631612493
+"Cwittofur Cesaille",45,"Otto Bismarck",17,0.013338414634146341
+"Cwittofur Cesaille",45,"Mawderator",18,0.0027390438247011954
+"Cwittofur Cesaille",45,"Sullen Decimus",19,0.0024165202108963092
+"Cwittofur Cesaille",45,"Afropty",20,0.013191273465246067
+"Cwittofur Cesaille",45,"Arielle en Distel",21,0.025688073394495414
+"Cwittofur Cesaille",45,"Damian Blackie",22,0.014755197853789403
+"Cwittofur Cesaille",45,"Winter duFallen",23,0.023322227510709188
+"Cwittofur Cesaille",45,"Bei ArtJay",24,0.01310615989515072
+"Cwittofur Cesaille",45,"Jaha Preynar",25,0.028125
+"Cwittofur Cesaille",45,"Raphendyr Nardieu",26,0.01839201261166579
+"Cwittofur Cesaille",45,"commander aze",27,0.004811996418979409
+"Cwittofur Cesaille",45,"aspecialpinecone",28,0.020156774916013438
+"Cwittofur Cesaille",45,"Xenuria",29,0.01745339151130504
+"Cwittofur Cesaille",45,"Malakai Asamov",30,0.0031486146095717885
+"Cwittofur Cesaille",45,"Carbon Alabel",31,0.032148900169204735
+"Cwittofur Cesaille",45,"Razorblade92",32,0.0220162224797219
+"Cwittofur Cesaille",45,"Saint Michaels Soul",33,0.024932614555256066
+"Cwittofur Cesaille",45,"Syncopee Farnsworth",34,0.027184466019417475
+"Cwittofur Cesaille",45,"Chainsaw Plankton",35,0.033385093167701864
+"Cwittofur Cesaille",45,"Claevyan",36,0.03167898627243928
+"Cwittofur Cesaille",45,"Eurzadahn",37,0.05580693815987934
+"Cwittofur Cesaille",45,"Kali Omega",38,0.02865329512893983
+"Cwittofur Cesaille",45,"The Ludocrat",39,0.058823529411764705
+"Cwittofur Cesaille",45,"Vincent Eneticum",40,0.016067329762815608
+"Cwittofur Cesaille",45,"Cacique Yuhasz",41,0.01483216237314598
+"Cwittofur Cesaille",45,"Parobro",42,0.024456521739130436
+"Cwittofur Cesaille",45,"Solar Taranogas",43,0.026676829268292682
+"Cwittofur Cesaille",45,"Kalen Tsero",44,0.02866593164277839
+"Cwittofur Cesaille",45,"Cwittofur Cesaille",45,1.0
+"Cwittofur Cesaille",45,"ZepWunderbar",46,0.043583535108958835
+"Cwittofur Cesaille",45,"Creecher Virpio",47,0.0036776997659645604
+"ZepWunderbar",46,"Aryth",1,0.004559431661541724
+"ZepWunderbar",46,"Sort Dragon",2,0.006394052044609666
+"ZepWunderbar",46,"Merkelchen",3,0.006385123781785594
+"ZepWunderbar",46,"Jin'taan",4,0.004479713298348906
+"ZepWunderbar",46,"Innominate",5,0.005519078884765439
+"ZepWunderbar",46,"Killah Bee",6,0.009179056237879768
+"ZepWunderbar",46,"Steve Ronuken",7,0.0034060892534408453
+"ZepWunderbar",46,"Brisc Rubal",8,0.003839385698288274
+"ZepWunderbar",46,"Suitonia",9,0.005579815623483746
+"ZepWunderbar",46,"The Judge",10,0.006894624056647722
+"ZepWunderbar",46,"Tikktokk Tokkzikk",11,0.004793567341889593
+"ZepWunderbar",46,"ExookiZ",12,0.007596859964547987
+"ZepWunderbar",46,"Tifida",13,0.02878138395590937
+"ZepWunderbar",46,"Lorelei Ierendi",14,0.02318977756743966
+"ZepWunderbar",46,"Silver Suspiria",15,0.016284680337756333
+"ZepWunderbar",46,"bastet 666",16,0.023581899298916506
+"ZepWunderbar",46,"Otto Bismarck",17,0.026943802925327175
+"ZepWunderbar",46,"Mawderator",18,0.0034027720142750435
+"ZepWunderbar",46,"Sullen Decimus",19,0.0032948929159802307
+"ZepWunderbar",46,"Afropty",20,0.015182186234817813
+"ZepWunderbar",46,"Arielle en Distel",21,0.019347037484885126
+"ZepWunderbar",46,"Damian Blackie",22,0.013990672884743505
+"ZepWunderbar",46,"Winter duFallen",23,0.020803782505910164
+"ZepWunderbar",46,"Bei ArtJay",24,0.00822867042009528
+"ZepWunderbar",46,"Jaha Preynar",25,0.020015396458814474
+"ZepWunderbar",46,"Raphendyr Nardieu",26,0.01990570979570456
+"ZepWunderbar",46,"commander aze",27,0.004470272686633884
+"ZepWunderbar",46,"aspecialpinecone",28,0.018826135105204873
+"ZepWunderbar",46,"Xenuria",29,0.020214030915576695
+"ZepWunderbar",46,"Malakai Asamov",30,0.009478672985781991
+"ZepWunderbar",46,"Carbon Alabel",31,0.028451882845188285
+"ZepWunderbar",46,"Razorblade92",32,0.02413793103448276
+"ZepWunderbar",46,"Saint Michaels Soul",33,0.015262110152621102
+"ZepWunderbar",46,"Syncopee Farnsworth",34,0.016560509554140127
+"ZepWunderbar",46,"Chainsaw Plankton",35,0.021341463414634148
+"ZepWunderbar",46,"Claevyan",36,0.022821576763485476
+"ZepWunderbar",46,"Eurzadahn",37,0.061377245508982034
+"ZepWunderbar",46,"Kali Omega",38,0.03231939163498099
+"ZepWunderbar",46,"The Ludocrat",39,0.04805914972273567
+"ZepWunderbar",46,"Vincent Eneticum",40,0.022953328232593728
+"ZepWunderbar",46,"Cacique Yuhasz",41,0.027472527472527472
+"ZepWunderbar",46,"Parobro",42,0.05678670360110803
+"ZepWunderbar",46,"Solar Taranogas",43,0.015730337078651686
+"ZepWunderbar",46,"Kalen Tsero",44,0.026143790849673203
+"ZepWunderbar",46,"Cwittofur Cesaille",45,0.043583535108958835
+"ZepWunderbar",46,"ZepWunderbar",46,1.0
+"ZepWunderbar",46,"Creecher Virpio",47,0.005342237061769616
+"Creecher Virpio",47,"Aryth",1,0.014401212733703891
+"Creecher Virpio",47,"Sort Dragon",2,0.02637652489284537
+"Creecher Virpio",47,"Merkelchen",3,0.008113767230849764
+"Creecher Virpio",47,"Jin'taan",4,0.12578577591519782
+"Creecher Virpio",47,"Innominate",5,0.05255568017945842
+"Creecher Virpio",47,"Killah Bee",6,0.06485377116469984
+"Creecher Virpio",47,"Steve Ronuken",7,0.07646537536397012
+"Creecher Virpio",47,"Brisc Rubal",8,0.04448435449333425
+"Creecher Virpio",47,"Suitonia",9,0.12923684757745893
+"Creecher Virpio",47,"The Judge",10,0.03257178141401667
+"Creecher Virpio",47,"Tikktokk Tokkzikk",11,0.04193474264705882
+"Creecher Virpio",47,"ExookiZ",12,0.04349211406722957
+"Creecher Virpio",47,"Tifida",13,0.020158387329013677
+"Creecher Virpio",47,"Lorelei Ierendi",14,0.025568797399783315
+"Creecher Virpio",47,"Silver Suspiria",15,0.014541120381406437
+"Creecher Virpio",47,"bastet 666",16,0.09231171548117155
+"Creecher Virpio",47,"Otto Bismarck",17,0.08490370677158832
+"Creecher Virpio",47,"Mawderator",18,0.08463416438558852
+"Creecher Virpio",47,"Sullen Decimus",19,0.025133549347578596
+"Creecher Virpio",47,"Afropty",20,0.016885136636303043
+"Creecher Virpio",47,"Arielle en Distel",21,0.0213531669865643
+"Creecher Virpio",47,"Damian Blackie",22,0.015128968253968254
+"Creecher Virpio",47,"Winter duFallen",23,0.020276100086281276
+"Creecher Virpio",47,"Bei ArtJay",24,0.1573352232459249
+"Creecher Virpio",47,"Jaha Preynar",25,0.02149973780807551
+"Creecher Virpio",47,"Raphendyr Nardieu",26,0.007357859531772575
+"Creecher Virpio",47,"commander aze",27,0.010932307154101801
+"Creecher Virpio",47,"aspecialpinecone",28,0.012764722947490571
+"Creecher Virpio",47,"Xenuria",29,0.0770357965250157
+"Creecher Virpio",47,"Malakai Asamov",30,0.014069644741470278
+"Creecher Virpio",47,"Carbon Alabel",31,0.025364274150026983
+"Creecher Virpio",47,"Razorblade92",32,0.011393514460999123
+"Creecher Virpio",47,"Saint Michaels Soul",33,0.04510703363914373
+"Creecher Virpio",47,"Syncopee Farnsworth",34,0.017085672443251158
+"Creecher Virpio",47,"Chainsaw Plankton",35,0.01822442072376985
+"Creecher Virpio",47,"Claevyan",36,0.015415358264344847
+"Creecher Virpio",47,"Eurzadahn",37,0.011721159777914868
+"Creecher Virpio",47,"Kali Omega",38,0.01526929483620211
+"Creecher Virpio",47,"The Ludocrat",39,0.01160541586073501
+"Creecher Virpio",47,"Vincent Eneticum",40,0.011910926980838944
+"Creecher Virpio",47,"Cacique Yuhasz",41,0.032738887410167686
+"Creecher Virpio",47,"Parobro",42,0.011529126213592233
+"Creecher Virpio",47,"Solar Taranogas",43,0.015515903801396431
+"Creecher Virpio",47,"Kalen Tsero",44,0.012683770539060248
+"Creecher Virpio",47,"Cwittofur Cesaille",45,0.0036776997659645604
+"Creecher Virpio",47,"ZepWunderbar",46,0.005342237061769616
+"Creecher Virpio",47,"Creecher Virpio",47,1.0
