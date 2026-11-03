@@ -104,7 +104,9 @@ Run `make format` before committing Java or Gradle changes; CI fails on `spotles
    }
    ```
 3. `make test` then `make process thymeleaf`.
-4. Add `docs/csmNN.md` to git along with the regenerated `docs/` files.
+4. Add a `csmNN.md` entry to the `nav:` list in `mkdocs.yml`. The sidebar is not auto-sorted (`csm9` would
+   otherwise sort after `csm20`), so the explicit list controls the order.
+5. Add `docs/csmNN.md` to git along with the regenerated `docs/` files.
 
 ## Conventions
 
