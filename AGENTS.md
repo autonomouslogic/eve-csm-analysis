@@ -65,7 +65,9 @@ Run `make format` before committing Java or Gradle changes; CI fails on `spotles
 
 - **Docker is required for `make process`.** The least-significant-rank calculation runs `WrightTalley.py` in a
   `python:2` container 9 times per election (ranks 2–10, in parallel on virtual threads), with a relative bind mount
-  (`-v .:/data`). It reprocesses every election on each run, so it is slow. `make test` does not need Docker.
+  (`-v .:/data`). It is slow, so it is skipped when `build/csm/csmNN-analysis.json` is newer than `votes.blt`,
+  `auditLog.txt` and `WrightTalley.py` (mtime based, so touched inputs can cause a needless rerun). The rank is then read
+  from that file's `leastSignificantRank`. `make test` does not need Docker.
 - **Every directory in the repo root whose name starts with `csm` is treated as an election**, and its suffix is
   parsed as an integer. Do not create other `csm*` directories (scratch, backups, etc.).
 - **Each election dir must be complete** (`votes.blt`, `auditLog.txt`, `WrightTalley.py`, `csm.json`). The
