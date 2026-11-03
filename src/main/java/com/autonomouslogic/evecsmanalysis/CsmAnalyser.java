@@ -8,6 +8,9 @@ import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.autonomouslogic.evecsmanalysis.models.Round;
 import com.autonomouslogic.evecsmanalysis.models.Votes;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -16,6 +19,8 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.List;
+import java.util.Optional;
+import java.util.stream.Stream;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
@@ -23,6 +28,8 @@ import lombok.extern.log4j.Log4j2;
 @RequiredArgsConstructor
 @Log4j2
 public class CsmAnalyser {
+	private static final ObjectMapper objectMapper = new ObjectMapper();
+
 	@NonNull
 	private final CsmConfig csmConfig;
 
@@ -219,10 +226,43 @@ public class CsmAnalyser {
 	}
 
 	private int findLeastSignificantRank() {
+		var previous = previousLeastSignificantRank();
+		if (previous.isPresent()) {
+			log.info("Reusing least significant rank from previous analysis: {}", previous.get());
+			return previous.get();
+		}
 		log.info("Finding least significant rank");
 		var rank = new LeastSignificantRankRunner(
 						csmConfig.getTalleyScriptFile(), ballotFile, auditLog.getFinalResults())
 				.findLeastSignificantRank();
 		return rank;
+	}
+
+	/**
+	 * Reuses the rank from the previous analysis file if it is newer than every input file. Mtime based, so it can
+	 * give false positives (e.g. a touched input that did not change), but never reuses a rank computed before an input
+	 * was modified.
+	 */
+	private Optional<Integer> previousLeastSignificantRank() {
+		var analysisFile = csmConfig.getAnalysisJson();
+		if (analysisFile == null || !analysisFile.exists()) {
+			return Optional.empty();
+		}
+		var newestInput = Stream.of(
+						csmConfig.getVotesBlt(), csmConfig.getAuditLogTxt(), csmConfig.getTalleyScriptFile())
+				.mapToLong(File::lastModified)
+				.max()
+				.orElseThrow();
+		if (analysisFile.lastModified() <= newestInput) {
+			log.debug("Analysis file older than inputs");
+			return Optional.empty();
+		}
+		try {
+			return Optional.of(
+					objectMapper.readValue(analysisFile, CsmAnalysis.class).getLeastSignificantRank());
+		} catch (IOException e) {
+			log.warn("Unable to read previous analysis: {}", analysisFile, e);
+			return Optional.empty();
+		}
 	}
 }
