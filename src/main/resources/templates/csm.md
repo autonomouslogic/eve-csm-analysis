@@ -64,6 +64,33 @@
 </table>
 [/]
 
+[# th:if="${data.resigned.size() + data.replacements.size()} > 0"]
+## Resigned and Replacements
+
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+            <th>Change</th>
+        </tr>
+    </thead>
+    <tbody>
+        [# th:each="name : ${data.resigned}"]
+        <tr>
+            <td>[(${name})]</td>
+            <td>resigned</td>
+        </tr>
+        [/]
+        [# th:each="name : ${data.replacements}"]
+        <tr>
+            <td>[(${name})]</td>
+            <td>replacement</td>
+        </tr>
+        [/]
+    </tbody>
+</table>
+[/]
+
 ## Eliminated Candidates
 <table>
     <thead>

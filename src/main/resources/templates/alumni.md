@@ -2,6 +2,7 @@
 
 * &#x1F7E2; = Elected
 * &#x1F535; = CCP pick
+* <span style="color: #9e9e9e;">&#x2B24;</span> = Resigned
 
 [View JSON](/data/alumni.json)
 
@@ -24,8 +25,14 @@
                         [# th:if="${ alumnus.value.elections.get(csm) } == 'elected'"]
                             &#x1F7E2;
                         [/]
+                        [# th:if="${ alumnus.value.elections.get(csm) } == 'replacement'"]
+                            &#x1F7E2;
+                        [/]
                         [# th:if="${ alumnus.value.elections.get(csm) } == 'picked'"]
                            &#x1F535;
+                        [/]
+                        [# th:if="${ alumnus.value.elections.get(csm) } == 'resigned'"]
+                           <span style="color: #9e9e9e;">&#x2B24;</span>
                         [/]
                     [/]
                 </td>

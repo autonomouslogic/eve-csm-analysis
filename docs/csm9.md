@@ -12,6 +12,7 @@
 ## Posts
 
 * [ CSM 9 Results - EVE General Discussion ]( https://forums-archive.eveonline.com/default.aspx?g=posts&m=4547076 )
+* [ CSM 9 - Matias Otero Resigns. Asayanami Dei his successor ]( https://forums-archive.eveonline.com/topic/372269 )
 
 
 
@@ -102,6 +103,33 @@
     </tbody>
 </table>
 
+
+
+
+## Resigned and Replacements
+
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+            <th>Change</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        <tr>
+            <td>Matias Otero</td>
+            <td>resigned</td>
+        </tr>
+        
+        
+        <tr>
+            <td>Asayanami Dei</td>
+            <td>replacement</td>
+        </tr>
+        
+    </tbody>
+</table>
 
 
 ## Eliminated Candidates
