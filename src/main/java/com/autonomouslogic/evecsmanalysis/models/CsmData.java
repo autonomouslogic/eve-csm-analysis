@@ -25,6 +25,18 @@ public class CsmData {
 	@Builder.Default
 	List<String> ccpPicks = List.of();
 
+	/**
+	 * Elected members who resigned during the term. Optional.
+	 */
+	@Builder.Default
+	List<String> resigned = List.of();
+
+	/**
+	 * Members who joined during the term to replace a resigned member. Optional.
+	 */
+	@Builder.Default
+	List<String> replacements = List.of();
+
 	@Builder.Default
 	Map<String, String> urls = Map.of();
 

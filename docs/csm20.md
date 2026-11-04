@@ -98,6 +98,8 @@
 
 
 
+
+
 ## Eliminated Candidates
 <table>
     <thead>

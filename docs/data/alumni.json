@@ -162,6 +162,7 @@
       "elections" : {
         "16" : "elected",
         "18" : "elected",
+        "9" : "elected",
         "10" : "elected",
         "15" : "elected"
       }
@@ -252,7 +253,8 @@
     "progodlegend" : {
       "name" : "progodlegend",
       "elections" : {
-        "16" : "elected"
+        "16" : "elected",
+        "9" : "elected"
       }
     },
     "Maria Taylor" : {
@@ -310,6 +312,7 @@
     "Steve Ronuken" : {
       "name" : "Steve Ronuken",
       "elections" : {
+        "9" : "elected",
         "10" : "elected",
         "11" : "elected",
         "12" : "elected",
@@ -452,12 +455,14 @@
     "Sion Kumitomo" : {
       "name" : "Sion Kumitomo",
       "elections" : {
+        "9" : "elected",
         "10" : "elected"
       }
     },
     "Sugar Kyle" : {
       "name" : "Sugar Kyle",
       "elections" : {
+        "9" : "elected",
         "10" : "elected"
       }
     },
@@ -470,13 +475,63 @@
     "corbexx" : {
       "name" : "corbexx",
       "elections" : {
+        "9" : "elected",
         "10" : "elected"
       }
     },
     "corebloodbrothers" : {
       "name" : "corebloodbrothers",
       "elections" : {
+        "9" : "elected",
         "10" : "elected"
+      }
+    },
+    "Ali Aras" : {
+      "name" : "Ali Aras",
+      "elections" : {
+        "9" : "elected"
+      }
+    },
+    "Asayanami Dei" : {
+      "name" : "Asayanami Dei",
+      "elections" : {
+        "9" : "replacement"
+      }
+    },
+    "DJ FunkyBacon" : {
+      "name" : "DJ FunkyBacon",
+      "elections" : {
+        "9" : "elected"
+      }
+    },
+    "Major JSilva" : {
+      "name" : "Major JSilva",
+      "elections" : {
+        "9" : "elected"
+      }
+    },
+    "Mangala Solaris" : {
+      "name" : "Mangala Solaris",
+      "elections" : {
+        "9" : "elected"
+      }
+    },
+    "Matias Otero" : {
+      "name" : "Matias Otero",
+      "elections" : {
+        "9" : "resigned"
+      }
+    },
+    "Xander Phoena" : {
+      "name" : "Xander Phoena",
+      "elections" : {
+        "9" : "elected"
+      }
+    },
+    "mynnna" : {
+      "name" : "mynnna",
+      "elections" : {
+        "9" : "elected"
       }
     }
   }

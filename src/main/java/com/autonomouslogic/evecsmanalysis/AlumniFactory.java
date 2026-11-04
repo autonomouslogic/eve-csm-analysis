@@ -29,8 +29,12 @@ public class AlumniFactory {
 			Optional.ofNullable(csm.getCcpPicks())
 					.ifPresent(p -> p.forEach(c -> addCandidate(c, alumni, csm.getCsmNumber(), "picked")));
 			Optional.ofNullable(csm.getAnalysis().getWinners())
-					.ifPresent(r -> r.forEach(
-							c -> addCandidate(c.getCandidate().trim(), alumni, csm.getCsmNumber(), "elected")));
+					.ifPresent(r -> r.forEach(c -> addCandidate(
+							c.getCandidate().trim(),
+							alumni,
+							csm.getCsmNumber(),
+							csm.getResigned().contains(c.getCandidate().trim()) ? "resigned" : "elected")));
+			csm.getReplacements().forEach(c -> addCandidate(c, alumni, csm.getCsmNumber(), "replacement"));
 		}
 	}
 

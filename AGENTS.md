@@ -15,7 +15,7 @@ csmNN/                    One directory per election (csm12 … csm20). Raw inpu
   votes.blt               Ballots in BLT format (see Meek's method PDF, section 3.1)
   auditLog.txt            Official audit log produced by CCP's WrightTalley.py
   WrightTalley.py         CCP's STV tally script (Python 2). Copied verbatim per election.
-  csm.json                Hand-written metadata: years served, CCP picks, and news-post URLs
+  csm.json                Hand-written metadata: years served, CCP picks, resignations, replacements, and news-post URLs
 src/main/java/com/autonomouslogic/evecsmanalysis/
   Main.java               Entry point. Commands: `process`, `thymeleaf`. Discovers csm* dirs.
   Processor.java          `process`: parse inputs, run analysis, write build/csm/*.json
@@ -59,9 +59,11 @@ per metric, e.g. `/glossary#least-significant-rank`).
 | Full regenerate | `make process thymeleaf` |
 | Local site | `make mkdocs-serve` |
 
-Run `make format` before committing Java or Gradle changes; CI fails on `spotlessCheck`.
+**Always run `make format` as the last step of every task that touches Java or Gradle files, and before committing.** CI fails on `spotlessCheck`. `make format` needs JDK 21 (see gotchas); on newer JDKs Palantir Java Format fails with `NoSuchFieldError`.
 
 ## Requirements and gotchas
+
+- **Spotless (`make format`, `make lint`) must run on JDK 21**, matching CI. Palantir Java Format 2.99.0 breaks on JDK 27 with `NoSuchFieldError: ... JCCompilationUnit ... endPositions`, and the newer 2.103.0 does too. Run as `JAVA_HOME=<jdk-21> make format`.
 
 - **Docker is required for `make process`.** The least-significant-rank calculation runs `WrightTalley.py` in a
   `python:2` container 9 times per election (ranks 2–10, in parallel on virtual threads), with a relative bind mount
@@ -87,6 +89,9 @@ Run `make format` before committing Java or Gradle changes; CI fails on `spotles
 - Thymeleaf templates use TEXT mode with inline syntax (`[(${...})]`, `[# th:each ...]`), not HTML attributes.
 - Name matching between `csm.json` `ccpPicks` and audit-log winners is by exact string (winners are trimmed).
 - `csm.json` `years` is optional free text (e.g. `"2025-2026"`), shown as a `Years:` bullet on `docs/csmNN.md` only when set.
+- `csm.json` `resigned` (elected members who left mid-term) and `replacements` (members who joined to replace them) are optional
+  string arrays. They show in a "Resigned and Replacements" section on `docs/csmNN.md`. On `docs/alumni.md` a resigned member gets a gray circle (&#x26AB;) and a replacement gets the normal green elected marker. In `docs/data/alumni.json` the values are `elected`, `picked`, `resigned`, and `replacement`. Names match by exact string, as for `ccpPicks`.
+  Not to be confused with withdrawals (`BallotFile` `-N` lines), which happen before the election.
 
 ## Adding a new election
 
@@ -104,7 +109,9 @@ Run `make format` before committing Java or Gradle changes; CI fails on `spotles
    }
    ```
 3. `make test` then `make process thymeleaf`.
-4. Add `docs/csmNN.md` to git along with the regenerated `docs/` files.
+4. Add a `csmNN.md` entry to the `nav:` list in `mkdocs.yml`. The sidebar is not auto-sorted (`csm9` would
+   otherwise sort after `csm20`), so the explicit list controls the order.
+5. Add `docs/csmNN.md` to git along with the regenerated `docs/` files.
 
 ## Conventions
 
@@ -114,7 +121,7 @@ Run `make format` before committing Java or Gradle changes; CI fails on `spotles
   `@Log4j2`, `@SneakyThrows`). Follow the existing style.
 - Logging is Log4j2 (via Lombok `@Log4j2`) bridged to SLF4J.
 - Formatting: Palantir Java Format, **indentation is tabs**, not spaces (Spotless). Gradle files use tabs too.
-  Run `make format` before committing.
+  Run `make format` before committing (see the rule above).
 - Use imports, not fully-qualified class names inline (e.g. `FileUtils`, not `org.apache.commons.io.FileUtils`).
 - Concurrency: prefer plain synchronous code on virtual threads (`util/VirtualThreads`) for new work. RxJava3 is
   still used in `LeastSignificantRankRunner`; don't spread it further. Use thread-safe collections for any state
