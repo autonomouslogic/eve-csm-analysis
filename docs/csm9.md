@@ -11,6 +11,7 @@
 
 ## Posts
 
+* [ CSM9: Presenting the New Council Members, Election Data, and Officer Changes ]( https://www.eveonline.com/news/view/csm9-presenting-the-new-council-members-election-data-and-officer-changes )
 * [ CSM 9 Results - EVE General Discussion ]( https://forums-archive.eveonline.com/default.aspx?g=posts&m=4547076 )
 * [ CSM 9 - Matias Otero Resigns. Asayanami Dei his successor ]( https://forums-archive.eveonline.com/topic/372269 )
 

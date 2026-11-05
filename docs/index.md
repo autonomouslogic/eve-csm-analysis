@@ -13,7 +13,7 @@ Official CSM pages are found [here](https://community.eveonline.com/community/cs
 ```vegalite
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "data": {"url": "data/csm-votes.csv"},
+  "data": {"url": "data/csm-votes.csv", "format": {"type": "csv", "parse": {"CSM": "number"}}},
   "mark": {
     "type": "bar",
     "point": true
@@ -30,7 +30,7 @@ Official CSM pages are found [here](https://community.eveonline.com/community/cs
 ```vegalite
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "data": {"url": "data/csm-candidates.csv"},
+  "data": {"url": "data/csm-candidates.csv", "format": {"type": "csv", "parse": {"CSM": "number"}}},
   "mark": {
     "type": "bar",
     "point": true
