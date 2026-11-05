@@ -162,6 +162,7 @@
       "elections" : {
         "16" : "elected",
         "18" : "elected",
+        "8" : "elected",
         "9" : "elected",
         "10" : "elected",
         "15" : "elected"
@@ -254,6 +255,7 @@
       "name" : "progodlegend",
       "elections" : {
         "16" : "elected",
+        "8" : "elected",
         "9" : "elected"
       }
     },
@@ -331,6 +333,7 @@
     "Sort Dragon" : {
       "name" : "Sort Dragon",
       "elections" : {
+        "8" : "elected",
         "10" : "elected",
         "13" : "elected"
       }
@@ -489,6 +492,7 @@
     "Ali Aras" : {
       "name" : "Ali Aras",
       "elections" : {
+        "8" : "elected",
         "9" : "elected"
       }
     },
@@ -513,6 +517,7 @@
     "Mangala Solaris" : {
       "name" : "Mangala Solaris",
       "elections" : {
+        "8" : "elected",
         "9" : "elected"
       }
     },
@@ -531,7 +536,56 @@
     "mynnna" : {
       "name" : "mynnna",
       "elections" : {
+        "8" : "elected",
         "9" : "elected"
+      }
+    },
+    "Chitsa Jason" : {
+      "name" : "Chitsa Jason",
+      "elections" : {
+        "8" : "elected"
+      }
+    },
+    "James Arget" : {
+      "name" : "James Arget",
+      "elections" : {
+        "8" : "elected"
+      }
+    },
+    "Kesper North" : {
+      "name" : "Kesper North",
+      "elections" : {
+        "8" : "elected"
+      }
+    },
+    "Korvin" : {
+      "name" : "Korvin",
+      "elections" : {
+        "8" : "elected"
+      }
+    },
+    "Malcanis" : {
+      "name" : "Malcanis",
+      "elections" : {
+        "8" : "elected"
+      }
+    },
+    "Ripard Teg" : {
+      "name" : "Ripard Teg",
+      "elections" : {
+        "8" : "elected"
+      }
+    },
+    "Sala Cameron" : {
+      "name" : "Sala Cameron",
+      "elections" : {
+        "8" : "elected"
+      }
+    },
+    "Trebor Daehdoow" : {
+      "name" : "Trebor Daehdoow",
+      "elections" : {
+        "8" : "elected"
       }
     }
   }
