@@ -12,6 +12,7 @@
 ## Posts
 
 * [ CSM X - Voting Results ]( https://www.eveonline.com/news/view/csm-x-voting-results )
+* [ CSM Whitepaper ]( https://data.everef.net/ccp/csm/CSM-WHITEPAPER.pdf )
 
 
 

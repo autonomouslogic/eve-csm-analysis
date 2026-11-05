@@ -19,6 +19,8 @@ public class CsmCandidatesCsv {
 		try (var writer = new FileWriter(file, StandardCharsets.UTF_8)) {
 			writer.write("CSM,Candidates\n");
 			var csms = allAnalysis.stream()
+					// Candidate counts are not known for first-past-the-post elections, as only the winners are listed.
+					.filter(csm -> !csm.isFirstPastThePost())
 					.sorted(Ordering.natural().onResultOf(CsmAnalysis::getCsmNumber))
 					.toList();
 			for (var csm : csms) {

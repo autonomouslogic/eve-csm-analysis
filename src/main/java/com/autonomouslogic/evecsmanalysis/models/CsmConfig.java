@@ -19,6 +19,11 @@ public class CsmConfig {
 
 	File auditLogTxt;
 
+	/**
+	 * Results of a first-past-the-post election. Only present for those elections, instead of the ballot files.
+	 */
+	File resultsCsv;
+
 	File votesJson;
 
 	File auditLogJson;

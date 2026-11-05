@@ -58,6 +58,14 @@ public class AnalysisRenderer {
 	@SneakyThrows
 	public void renderCsm(CsmConfig csmConfig, CsmData data) {
 		log.info("Rendering analysis for {} to {}", csmConfig.getCsmNumber(), csmConfig.getMarkdownFile());
+		var engine = createEngine();
+		if (data.getAnalysis().isFirstPastThePost()) {
+			// First-past-the-post elections have no ballots, so there is no ballot data to chart.
+			try (var writer = new FileWriter(csmConfig.getMarkdownFile(), StandardCharsets.UTF_8)) {
+				engine.process("csm-fptp.md", createCsmContext(data, data.getAnalysis()), writer);
+			}
+			return;
+		}
 		var rankDistributionFile = new File("docs/data/csm%d-rank-distribution.csv".formatted(data.getCsmNumber()));
 		new CsmRankDistributionCsv(data.getAnalysis(), rankDistributionFile).write();
 		new CsmBallotSizesCsv(
@@ -65,7 +73,6 @@ public class AnalysisRenderer {
 				.write();
 		new CsmJaccardCsv(data.getAnalysis(), new File("docs/data/csm%d-jaccard.csv".formatted(data.getCsmNumber())))
 				.write();
-		var engine = createEngine();
 		try (var writer = new FileWriter(csmConfig.getMarkdownFile(), StandardCharsets.UTF_8)) {
 			engine.process("csm.md", createCsmContext(data, data.getAnalysis()), writer);
 		}

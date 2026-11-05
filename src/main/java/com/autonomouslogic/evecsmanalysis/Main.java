@@ -63,6 +63,7 @@ public class Main {
 							.talleyScriptFile(new File(csmDir, "WrightTalley.py"))
 							.votesBlt(new File(csmDir, "votes.blt"))
 							.auditLogTxt(new File(csmDir, "auditLog.txt"))
+							.resultsCsv(new File(csmDir, "results.csv"))
 							.votesJson(new File(buildDir, csmDir.getName() + "-votes.json"))
 							.auditLogJson(new File(buildDir, csmDir.getName() + "-auditLog.json"))
 							.analysisJson(new File(buildDir, csmDir.getName() + "-analysis.json"))

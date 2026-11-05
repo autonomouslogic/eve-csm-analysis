@@ -561,6 +561,8 @@
     "Korvin" : {
       "name" : "Korvin",
       "elections" : {
+        "4" : "elected",
+        "5" : "elected",
         "8" : "elected"
       }
     },
@@ -585,7 +587,241 @@
     "Trebor Daehdoow" : {
       "name" : "Trebor Daehdoow",
       "elections" : {
+        "5" : "elected",
+        "6" : "elected",
+        "7" : "elected",
         "8" : "elected"
+      }
+    },
+    "Alekseyev Karrde" : {
+      "name" : "Alekseyev Karrde",
+      "elections" : {
+        "4" : "elected",
+        "7" : "elected"
+      }
+    },
+    "Darius III" : {
+      "name" : "Darius III",
+      "elections" : {
+        "6" : "elected",
+        "7" : "elected"
+      }
+    },
+    "Dovinian" : {
+      "name" : "Dovinian",
+      "elections" : {
+        "7" : "elected"
+      }
+    },
+    "Elise Randolph" : {
+      "name" : "Elise Randolph",
+      "elections" : {
+        "6" : "elected",
+        "7" : "elected"
+      }
+    },
+    "Greene Lee" : {
+      "name" : "Greene Lee",
+      "elections" : {
+        "7" : "elected"
+      }
+    },
+    "Hans Jagerblitzen" : {
+      "name" : "Hans Jagerblitzen",
+      "elections" : {
+        "7" : "elected"
+      }
+    },
+    "Issler Dainze" : {
+      "name" : "Issler Dainze",
+      "elections" : {
+        "7" : "elected"
+      }
+    },
+    "Kelduum Revaan" : {
+      "name" : "Kelduum Revaan",
+      "elections" : {
+        "7" : "elected"
+      }
+    },
+    "Meissa Anunthiel" : {
+      "name" : "Meissa Anunthiel",
+      "elections" : {
+        "4" : "elected",
+        "5" : "elected",
+        "6" : "elected",
+        "7" : "elected"
+      }
+    },
+    "Seleene" : {
+      "name" : "Seleene",
+      "elections" : {
+        "6" : "elected",
+        "7" : "elected"
+      }
+    },
+    "The Mittani" : {
+      "name" : "The Mittani",
+      "elections" : {
+        "6" : "elected",
+        "7" : "elected"
+      }
+    },
+    "Two Step" : {
+      "name" : "Two Step",
+      "elections" : {
+        "6" : "elected",
+        "7" : "elected"
+      }
+    },
+    "UAxDEATH" : {
+      "name" : "UAxDEATH",
+      "elections" : {
+        "6" : "elected",
+        "7" : "elected"
+      }
+    },
+    "Draco Llasa" : {
+      "name" : "Draco Llasa",
+      "elections" : {
+        "6" : "elected"
+      }
+    },
+    "Killer2" : {
+      "name" : "Killer2",
+      "elections" : {
+        "6" : "elected"
+      }
+    },
+    "Krutoj" : {
+      "name" : "Krutoj",
+      "elections" : {
+        "6" : "elected"
+      }
+    },
+    "Prometheus Exenthal" : {
+      "name" : "Prometheus Exenthal",
+      "elections" : {
+        "6" : "elected"
+      }
+    },
+    "Vile Rat" : {
+      "name" : "Vile Rat",
+      "elections" : {
+        "6" : "elected"
+      }
+    },
+    "White Tree" : {
+      "name" : "White Tree",
+      "elections" : {
+        "6" : "elected"
+      }
+    },
+    "ALPHA12125" : {
+      "name" : "ALPHA12125",
+      "elections" : {
+        "5" : "elected"
+      }
+    },
+    "Ankhesentapemkah" : {
+      "name" : "Ankhesentapemkah",
+      "elections" : {
+        "5" : "elected"
+      }
+    },
+    "Dierdra Vaal" : {
+      "name" : "Dierdra Vaal",
+      "elections" : {
+        "5" : "elected"
+      }
+    },
+    "ElvenLord" : {
+      "name" : "ElvenLord",
+      "elections" : {
+        "4" : "elected",
+        "5" : "elected"
+      }
+    },
+    "Helen Highwater" : {
+      "name" : "Helen Highwater",
+      "elections" : {
+        "4" : "elected",
+        "5" : "elected"
+      }
+    },
+    "Mynxee" : {
+      "name" : "Mynxee",
+      "elections" : {
+        "5" : "elected"
+      }
+    },
+    "Sokratesz" : {
+      "name" : "Sokratesz",
+      "elections" : {
+        "4" : "elected",
+        "5" : "elected"
+      }
+    },
+    "T'Amber" : {
+      "name" : "T'Amber",
+      "elections" : {
+        "4" : "elected",
+        "5" : "elected"
+      }
+    },
+    "TeaDaze" : {
+      "name" : "TeaDaze",
+      "elections" : {
+        "4" : "elected",
+        "5" : "elected"
+      }
+    },
+    "Vuk Lau" : {
+      "name" : "Vuk Lau",
+      "elections" : {
+        "5" : "elected"
+      }
+    },
+    "mazzilliu" : {
+      "name" : "mazzilliu",
+      "elections" : {
+        "5" : "elected"
+      }
+    },
+    "Farscape Hw" : {
+      "name" : "Farscape Hw",
+      "elections" : {
+        "4" : "elected"
+      }
+    },
+    "Mrs Trzzbk" : {
+      "name" : "Mrs Trzzbk",
+      "elections" : {
+        "4" : "elected"
+      }
+    },
+    "Serenity Steele" : {
+      "name" : "Serenity Steele",
+      "elections" : {
+        "4" : "elected"
+      }
+    },
+    "Song Li" : {
+      "name" : "Song Li",
+      "elections" : {
+        "4" : "elected"
+      }
+    },
+    "Z0D" : {
+      "name" : "Z0D",
+      "elections" : {
+        "4" : "elected"
+      }
+    },
+    "Zastrow" : {
+      "name" : "Zastrow",
+      "elections" : {
+        "4" : "elected"
       }
     }
   }
