@@ -1,13 +1,16 @@
 # CSM 7
 
-* Method: First-past-the-post
+* Years: 2012-2013
+* Method: [First-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting)
 * Elected: 14
-* Total votes: 44,296
+* Total votes: 59,109
 
 
 ## Posts
 
+* [ CSM 7 - The Results ]( https://www.eveonline.com/news/view/csm-7-the-results )
 * [ CSM Whitepaper ]( https://data.everef.net/ccp/csm/CSM-WHITEPAPER.pdf )
+* [ CSM 7 Elections - Final candidate list ]( https://www.eveonline.com/news/view/csm-7-elections-final )
 
 
 

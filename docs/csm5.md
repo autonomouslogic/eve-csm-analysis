@@ -1,12 +1,14 @@
 # CSM 5
 
-* Method: First-past-the-post
+* Years: 2010-2011
+* Method: [First-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting)
 * Elected: 14
-* Total votes: 25,268
+* Total votes: 39,433
 
 
 ## Posts
 
+* [ CSM5 Election - The results are in! ]( https://www.eveonline.com/news/view/csm5-election-the-results-are-in )
 * [ CSM Whitepaper ]( https://data.everef.net/ccp/csm/CSM-WHITEPAPER.pdf )
 
 

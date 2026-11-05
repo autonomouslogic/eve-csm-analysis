@@ -1,7 +1,7 @@
 # CSM [(${analysis.csmNumber})]
 
 [# th:if="${data.years != null and data.years != ''}"]* Years: [(${data.years})]
-[/]* Method: First-past-the-post
+[/]* Method: [First-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting)
 * Elected: [(${analysis.winners.size() + data.ccpPicks.size()})]
 * Total votes: [(${#numbers.formatInteger(analysis.totalVotes, 1, 'COMMA')})]
 

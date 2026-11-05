@@ -1,12 +1,14 @@
 # CSM 6
 
-* Method: First-past-the-post
+* Years: 2011-2012
+* Method: [First-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting)
 * Elected: 14
-* Total votes: 33,635
+* Total votes: 49,096
 
 
 ## Posts
 
+* [ CSM6 Elections - The Results! ]( https://www.eveonline.com/news/view/csm6-elections-the-results )
 * [ CSM Whitepaper ]( https://data.everef.net/ccp/csm/CSM-WHITEPAPER.pdf )
 
 

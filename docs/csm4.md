@@ -1,12 +1,14 @@
 # CSM 4
 
-* Method: First-past-the-post
+* Years: 2009-2010
+* Method: [First-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting)
 * Elected: 14
-* Total votes: 12,996
+* Total votes: 21,158
 
 
 ## Posts
 
+* [ The 4th CSM - results! ]( https://www.eveonline.com/news/view/the-4th-csm-results )
 * [ CSM Whitepaper ]( https://data.everef.net/ccp/csm/CSM-WHITEPAPER.pdf )
 
 

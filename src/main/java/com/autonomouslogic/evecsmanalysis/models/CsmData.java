@@ -22,6 +22,11 @@ public class CsmData {
 	 */
 	String years;
 
+	/**
+	 * Total votes for the election. Overrides the total derived from the ballots or results when set. Optional.
+	 */
+	Integer votes;
+
 	@Builder.Default
 	List<String> ccpPicks = List.of();
 

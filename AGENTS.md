@@ -94,6 +94,7 @@ per metric, e.g. `/glossary#least-significant-rank`).
   piecemeal.
 - Thymeleaf templates use TEXT mode with inline syntax (`[(${...})]`, `[# th:each ...]`), not HTML attributes.
 - Name matching between `csm.json` `ccpPicks` and audit-log winners is by exact string (winners are trimmed).
+- `csm.json` `votes` is an optional integer total for the election. It overrides `totalVotes` (derived from `votes.blt` or `results.csv`) at render time in `AnalysisRenderer`, so percentages and `docs/data/csm-votes.csv` use it. The derived value is logged when it differs.
 - `csm.json` `years` is optional free text (e.g. `"2025-2026"`), shown as a `Years:` bullet on `docs/csmNN.md` only when set.
 - `csm.json` `resigned` (elected members who left mid-term) and `replacements` (members who joined to replace them) are optional
   string arrays. They show in a "Resigned and Replacements" section on `docs/csmNN.md`. On `docs/alumni.md` a resigned member gets a gray circle (&#x26AB;) and a replacement gets the normal green elected marker. In `docs/data/alumni.json` the values are `elected`, `picked`, `resigned`, and `replacement`. Names match by exact string, as for `ccpPicks`.

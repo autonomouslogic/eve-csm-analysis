@@ -41,18 +41,37 @@ public class AnalysisRenderer {
 	public void renderAll() {
 		var all = new ArrayList<CsmData>();
 		for (var csmConfig : csmConfigs) {
-			var analysis = objectMapper.readValue(csmConfig.getAnalysisJson(), CsmAnalysis.class).toBuilder()
-					.csmNumber(csmConfig.getCsmNumber())
-					.build();
 			var data = objectMapper.readValue(csmConfig.getCsmData(), CsmData.class).toBuilder()
 					.csmNumber(csmConfig.getCsmNumber())
-					.analysis(analysis)
 					.build();
+			var analysis = applyVotesOverride(
+					objectMapper.readValue(csmConfig.getAnalysisJson(), CsmAnalysis.class).toBuilder()
+							.csmNumber(csmConfig.getCsmNumber())
+							.build(),
+					data.getVotes());
+			data = data.toBuilder().analysis(analysis).build();
 			all.add(data);
 			renderCsm(csmConfig, data);
 		}
 		renderAlumni(all);
 		renderIndex(all);
+	}
+
+	/**
+	 * Replaces the derived total votes with the official total from csm.json, when one is given.
+	 */
+	static CsmAnalysis applyVotesOverride(CsmAnalysis analysis, Integer votes) {
+		if (votes == null) {
+			return analysis;
+		}
+		if (votes != analysis.getTotalVotes()) {
+			log.info(
+					"Overriding total votes for CSM {}: {} derived, {} from csm.json",
+					analysis.getCsmNumber(),
+					analysis.getTotalVotes(),
+					votes);
+		}
+		return analysis.toBuilder().totalVotes(votes).build();
 	}
 
 	@SneakyThrows
