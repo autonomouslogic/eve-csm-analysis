@@ -21,8 +21,16 @@ public class FirstPastThePostTest {
 		assertEquals(50, analysis.getTotalVotes());
 		assertEquals(
 				List.of(
-						CandidateRound.builder().candidate("Alice").round(0).votes(30.0).build(),
-						CandidateRound.builder().candidate("Bob").round(0).votes(20.0).build()),
+						CandidateRound.builder()
+								.candidate("Alice")
+								.round(0)
+								.votes(30.0)
+								.build(),
+						CandidateRound.builder()
+								.candidate("Bob")
+								.round(0)
+								.votes(20.0)
+								.build()),
 				analysis.getWinners());
 	}
 
