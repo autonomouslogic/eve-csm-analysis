@@ -21,6 +21,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.List;
+import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Stream;
 import lombok.NonNull;
@@ -68,6 +69,26 @@ public class CsmAnalyser {
 				.ballotSizes(ballotSizes(ballotFile))
 				.popularBallots(popularBallots(ballotFile, POPULAR_BALLOT_COUNT));
 		winnersAndEliminations(data);
+		return data.build();
+	}
+
+	/**
+	 * Analysis of a first-past-the-post election, from its results. Every candidate listed is elected, and the total is
+	 * the sum of their votes. There are no ballots, so the STV statistics are not available.
+	 */
+	static CsmAnalysis firstPastThePost(int csmNumber, Map<String, Integer> votes) {
+		log.info("Calculating first-past-the-post analysis for CSM: {}", csmNumber);
+		var data = CsmAnalysis.builder()
+				.csmNumber(csmNumber)
+				.firstPastThePost(true)
+				.totalVotes(votes.values().stream().mapToInt(Integer::intValue).sum());
+		for (var entry : votes.entrySet()) {
+			data.winner(CandidateRound.builder()
+					.candidate(entry.getKey())
+					.round(0)
+					.votes((double) entry.getValue())
+					.build());
+		}
 		return data.build();
 	}
 

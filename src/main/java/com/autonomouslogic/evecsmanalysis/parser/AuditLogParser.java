@@ -18,7 +18,7 @@ public class AuditLogParser extends AbstractParser {
 	private static final String decimal = "\\d+(\\.\\d+)?";
 
 	private static final Pattern ROUND_HEADER =
-			Pattern.compile("Round (?<round>\\d+) beginning - (?<candidates>\\d+) candidates remain");
+			Pattern.compile("Round (?:(?<round>\\d+) )?beginning - (?<candidates>\\d+) candidates remain");
 	private static final Pattern ROUND_VOTES =
 			Pattern.compile("(?<votes>" + decimal + ") votes, (?<quota>" + decimal + ") quota");
 	private static final Pattern TALLEY = Pattern.compile("  (?<votes>" + decimal + ") \"(?<candidate>" + name + ")\"");
@@ -34,6 +34,7 @@ public class AuditLogParser extends AbstractParser {
 	private AuditLog.AuditLogBuilder auditLog;
 	private Map<String, Integer> transfersBeforeElection;
 	private int transfersInRound;
+	private int previousRoundNumber;
 
 	public AuditLogParser(List<String> lines) {
 		super(lines);
@@ -50,6 +51,7 @@ public class AuditLogParser extends AbstractParser {
 	public AuditLog parse() {
 		initParser();
 		auditLog = AuditLog.builder();
+		previousRoundNumber = 0;
 		parseRounds();
 		parseFinalResult();
 		return auditLog.build();
@@ -79,7 +81,11 @@ public class AuditLogParser extends AbstractParser {
 
 	private void parseRoundCandidates(Round.RoundBuilder round) {
 		var matcher = parseLine(ROUND_HEADER, "Invalid round header");
-		round.roundNumber(Integer.parseInt(matcher.group("round")));
+		// Later EVE audit logs (e.g. csm10) omit the round number, so infer it from the previous round.
+		int roundNumber =
+				matcher.group("round") != null ? Integer.parseInt(matcher.group("round")) : previousRoundNumber + 1;
+		round.roundNumber(roundNumber);
+		previousRoundNumber = roundNumber;
 		round.candidatesLeft(Integer.parseInt(matcher.group("candidates")));
 		lineIndex++;
 	}
@@ -179,9 +185,9 @@ public class AuditLogParser extends AbstractParser {
 
 	@SneakyThrows
 	private void parsePreEliminationTalley(Round.RoundBuilder round) {
+		// csm10 omits this block entirely, so it is optional.
 		if (!lines.get(lineIndex).equals("  Pre-elimination tally:")) {
-			throw new IllegalArgumentException(
-					"Invalid pre-elimination talley on line " + (lineIndex + 1) + ": " + lines.get(lineIndex));
+			return;
 		}
 		lineIndex++;
 		round.preEliminationTalley(parseTalley());

@@ -1,0 +1,962 @@
+Candidate,Order,Other,OtherOrder,Jaccard
+"mynnna",1,"mynnna",1,1.0
+"mynnna",1,"Ripard Teg",2,0.10492455257924904
+"mynnna",1,"Sort Dragon",3,0.5377993426201283
+"mynnna",1,"Kesper North",4,0.6237379666588401
+"mynnna",1,"Mangala Solaris",5,0.4114447507637285
+"mynnna",1,"Ali Aras",6,0.08439844110128651
+"mynnna",1,"progodlegend",7,0.16662051140035078
+"mynnna",1,"Trebor Daehdoow",8,0.10306473553652877
+"mynnna",1,"Sala Cameron",9,0.5343983509404793
+"mynnna",1,"Malcanis",10,0.47297941495124596
+"mynnna",1,"Chitsa Jason",11,0.08124440465532677
+"mynnna",1,"Mike Azariah",12,0.07586388352920541
+"mynnna",1,"Korvin",13,0.06185391585485175
+"mynnna",1,"James Arget",14,0.3156931269762024
+"mynnna",1,"Nathan Jameson",15,0.08236098817091816
+"mynnna",1,"Banlish",16,0.5480523627075351
+"mynnna",1,"Greene Lee",17,0.05177807904891021
+"mynnna",1,"Psychotic Monk",18,0.3711996229083196
+"mynnna",1,"Steve Ronuken",19,0.07150378098975782
+"mynnna",1,"Corebloodbrothers",20,0.062928524466986
+"mynnna",1,"Unforgiven Storm",21,0.5881958762886598
+"mynnna",1,"Travis Musgrat",22,0.17345528022971393
+"mynnna",1,"riverini",23,0.0474991842632732
+"mynnna",1,"Roc Wieler",24,0.07043238957040907
+"mynnna",1,"PsychoBitch",25,0.05637697516930022
+"mynnna",1,"Ayeson",26,0.048292108362779744
+"mynnna",1,"Artctura",27,0.5945367880713762
+"mynnna",1,"Awol Aurix",28,0.5531179138321995
+"mynnna",1,"Kaleb Rysode",29,0.716815881666018
+"mynnna",1,"Cipreh",30,0.05555555555555555
+"mynnna",1,"DaeHan Minhyok",31,0.5230100613204739
+"Ripard Teg",2,"mynnna",1,0.10492455257924904
+"Ripard Teg",2,"Ripard Teg",2,1.0
+"Ripard Teg",2,"Sort Dragon",3,0.08406265259362206
+"Ripard Teg",2,"Kesper North",4,0.09799464155232605
+"Ripard Teg",2,"Mangala Solaris",5,0.3128566396618528
+"Ripard Teg",2,"Ali Aras",6,0.3836674334538285
+"Ripard Teg",2,"progodlegend",7,0.18476172175249808
+"Ripard Teg",2,"Trebor Daehdoow",8,0.4652388976463554
+"Ripard Teg",2,"Sala Cameron",9,0.08087771970792097
+"Ripard Teg",2,"Malcanis",10,0.2842465753424658
+"Ripard Teg",2,"Chitsa Jason",11,0.2380877248343326
+"Ripard Teg",2,"Mike Azariah",12,0.298236092265943
+"Ripard Teg",2,"Korvin",13,0.30037921273300217
+"Ripard Teg",2,"James Arget",14,0.292244863941326
+"Ripard Teg",2,"Nathan Jameson",15,0.39033162320833553
+"Ripard Teg",2,"Banlish",16,0.08113135914958239
+"Ripard Teg",2,"Greene Lee",17,0.09189883311931216
+"Ripard Teg",2,"Psychotic Monk",18,0.25328990801461204
+"Ripard Teg",2,"Steve Ronuken",19,0.21499916299313654
+"Ripard Teg",2,"Corebloodbrothers",20,0.2787456445993031
+"Ripard Teg",2,"Unforgiven Storm",21,0.17379304983285393
+"Ripard Teg",2,"Travis Musgrat",22,0.08031622941739262
+"Ripard Teg",2,"riverini",23,0.2582316371172001
+"Ripard Teg",2,"Roc Wieler",24,0.35240690281562215
+"Ripard Teg",2,"PsychoBitch",25,0.10094253572514442
+"Ripard Teg",2,"Ayeson",26,0.19808269808269807
+"Ripard Teg",2,"Artctura",27,0.06100607978679104
+"Ripard Teg",2,"Awol Aurix",28,0.05586217771820547
+"Ripard Teg",2,"Kaleb Rysode",29,0.04385575253402253
+"Ripard Teg",2,"Cipreh",30,0.19734211454780665
+"Ripard Teg",2,"DaeHan Minhyok",31,0.06573331056855045
+"Sort Dragon",3,"mynnna",1,0.5377993426201283
+"Sort Dragon",3,"Ripard Teg",2,0.08406265259362206
+"Sort Dragon",3,"Sort Dragon",3,1.0
+"Sort Dragon",3,"Kesper North",4,0.547266139657444
+"Sort Dragon",3,"Mangala Solaris",5,0.3868067590987868
+"Sort Dragon",3,"Ali Aras",6,0.04244817374136229
+"Sort Dragon",3,"progodlegend",7,0.2156724154179625
+"Sort Dragon",3,"Trebor Daehdoow",8,0.07776413719020947
+"Sort Dragon",3,"Sala Cameron",9,0.7097229276000225
+"Sort Dragon",3,"Malcanis",10,0.454484153742414
+"Sort Dragon",3,"Chitsa Jason",11,0.06540603548763113
+"Sort Dragon",3,"Mike Azariah",12,0.05029970239342751
+"Sort Dragon",3,"Korvin",13,0.04271685761047463
+"Sort Dragon",3,"James Arget",14,0.2878891070069308
+"Sort Dragon",3,"Nathan Jameson",15,0.055499961511815875
+"Sort Dragon",3,"Banlish",16,0.632254864134928
+"Sort Dragon",3,"Greene Lee",17,0.05792137416287511
+"Sort Dragon",3,"Psychotic Monk",18,0.3094985407269833
+"Sort Dragon",3,"Steve Ronuken",19,0.04664230242119689
+"Sort Dragon",3,"Corebloodbrothers",20,0.04442540140718023
+"Sort Dragon",3,"Unforgiven Storm",21,0.4532721116831316
+"Sort Dragon",3,"Travis Musgrat",22,0.23616963064295485
+"Sort Dragon",3,"riverini",23,0.08867531483761007
+"Sort Dragon",3,"Roc Wieler",24,0.054684340597618515
+"Sort Dragon",3,"PsychoBitch",25,0.055281342546890426
+"Sort Dragon",3,"Ayeson",26,0.04443489881634211
+"Sort Dragon",3,"Artctura",27,0.5446578840461959
+"Sort Dragon",3,"Awol Aurix",28,0.6277985074626866
+"Sort Dragon",3,"Kaleb Rysode",29,0.5671312427409988
+"Sort Dragon",3,"Cipreh",30,0.043995532462487254
+"Sort Dragon",3,"DaeHan Minhyok",31,0.5047844131888403
+"Kesper North",4,"mynnna",1,0.6237379666588401
+"Kesper North",4,"Ripard Teg",2,0.09799464155232605
+"Kesper North",4,"Sort Dragon",3,0.547266139657444
+"Kesper North",4,"Kesper North",4,1.0
+"Kesper North",4,"Mangala Solaris",5,0.40193073858412504
+"Kesper North",4,"Ali Aras",6,0.07470058571553458
+"Kesper North",4,"progodlegend",7,0.1777472257684376
+"Kesper North",4,"Trebor Daehdoow",8,0.08617482951022938
+"Kesper North",4,"Sala Cameron",9,0.542815360450631
+"Kesper North",4,"Malcanis",10,0.4591253904506917
+"Kesper North",4,"Chitsa Jason",11,0.08400891290949604
+"Kesper North",4,"Mike Azariah",12,0.08272778088317496
+"Kesper North",4,"Korvin",13,0.061194297498430916
+"Kesper North",4,"James Arget",14,0.31955803027666607
+"Kesper North",4,"Nathan Jameson",15,0.07060446450965638
+"Kesper North",4,"Banlish",16,0.5553877139979859
+"Kesper North",4,"Greene Lee",17,0.058233381907857866
+"Kesper North",4,"Psychotic Monk",18,0.347029750944859
+"Kesper North",4,"Steve Ronuken",19,0.06507143217729315
+"Kesper North",4,"Corebloodbrothers",20,0.06025532760419254
+"Kesper North",4,"Unforgiven Storm",21,0.5198208401976936
+"Kesper North",4,"Travis Musgrat",22,0.1854852513265248
+"Kesper North",4,"riverini",23,0.047628468272417034
+"Kesper North",4,"Roc Wieler",24,0.0702144480679909
+"Kesper North",4,"PsychoBitch",25,0.06534229828850856
+"Kesper North",4,"Ayeson",26,0.05526052894473947
+"Kesper North",4,"Artctura",27,0.6432357228037631
+"Kesper North",4,"Awol Aurix",28,0.5738485652278755
+"Kesper North",4,"Kaleb Rysode",29,0.6601595990239398
+"Kesper North",4,"Cipreh",30,0.05952637244348762
+"Kesper North",4,"DaeHan Minhyok",31,0.5949051277000853
+"Mangala Solaris",5,"mynnna",1,0.4114447507637285
+"Mangala Solaris",5,"Ripard Teg",2,0.3128566396618528
+"Mangala Solaris",5,"Sort Dragon",3,0.3868067590987868
+"Mangala Solaris",5,"Kesper North",4,0.40193073858412504
+"Mangala Solaris",5,"Mangala Solaris",5,1.0
+"Mangala Solaris",5,"Ali Aras",6,0.2701036193812026
+"Mangala Solaris",5,"progodlegend",7,0.22340235310946607
+"Mangala Solaris",5,"Trebor Daehdoow",8,0.28575957169525557
+"Mangala Solaris",5,"Sala Cameron",9,0.3819707247411639
+"Mangala Solaris",5,"Malcanis",10,0.5661898854265489
+"Mangala Solaris",5,"Chitsa Jason",11,0.18242567181246427
+"Mangala Solaris",5,"Mike Azariah",12,0.20038736056812884
+"Mangala Solaris",5,"Korvin",13,0.22060571140480392
+"Mangala Solaris",5,"James Arget",14,0.46694155092592593
+"Mangala Solaris",5,"Nathan Jameson",15,0.2686302970226927
+"Mangala Solaris",5,"Banlish",16,0.3984920926811328
+"Mangala Solaris",5,"Greene Lee",17,0.08531901405824663
+"Mangala Solaris",5,"Psychotic Monk",18,0.44583444237423475
+"Mangala Solaris",5,"Steve Ronuken",19,0.1721866696605666
+"Mangala Solaris",5,"Corebloodbrothers",20,0.19376796248676448
+"Mangala Solaris",5,"Unforgiven Storm",21,0.47361981387416113
+"Mangala Solaris",5,"Travis Musgrat",22,0.15472288438617401
+"Mangala Solaris",5,"riverini",23,0.15616256810484463
+"Mangala Solaris",5,"Roc Wieler",24,0.22438556067588325
+"Mangala Solaris",5,"PsychoBitch",25,0.08840083441571221
+"Mangala Solaris",5,"Ayeson",26,0.1401580730146782
+"Mangala Solaris",5,"Artctura",27,0.39233612910919424
+"Mangala Solaris",5,"Awol Aurix",28,0.3817220658705408
+"Mangala Solaris",5,"Kaleb Rysode",29,0.3704893913582159
+"Mangala Solaris",5,"Cipreh",30,0.13825779198538646
+"Mangala Solaris",5,"DaeHan Minhyok",31,0.38097143314395454
+"Ali Aras",6,"mynnna",1,0.08439844110128651
+"Ali Aras",6,"Ripard Teg",2,0.3836674334538285
+"Ali Aras",6,"Sort Dragon",3,0.04244817374136229
+"Ali Aras",6,"Kesper North",4,0.07470058571553458
+"Ali Aras",6,"Mangala Solaris",5,0.2701036193812026
+"Ali Aras",6,"Ali Aras",6,1.0
+"Ali Aras",6,"progodlegend",7,0.14014995891536566
+"Ali Aras",6,"Trebor Daehdoow",8,0.3684357541899441
+"Ali Aras",6,"Sala Cameron",9,0.05292215474406499
+"Ali Aras",6,"Malcanis",10,0.24799160308425175
+"Ali Aras",6,"Chitsa Jason",11,0.23650868137024872
+"Ali Aras",6,"Mike Azariah",12,0.3048951048951049
+"Ali Aras",6,"Korvin",13,0.35015422578655153
+"Ali Aras",6,"James Arget",14,0.2609425378737688
+"Ali Aras",6,"Nathan Jameson",15,0.36899563318777295
+"Ali Aras",6,"Banlish",16,0.06570539079141406
+"Ali Aras",6,"Greene Lee",17,0.09093229532257036
+"Ali Aras",6,"Psychotic Monk",18,0.25
+"Ali Aras",6,"Steve Ronuken",19,0.24375321998969604
+"Ali Aras",6,"Corebloodbrothers",20,0.40996251441753173
+"Ali Aras",6,"Unforgiven Storm",21,0.17019660788119145
+"Ali Aras",6,"Travis Musgrat",22,0.048352376221228684
+"Ali Aras",6,"riverini",23,0.18694162281238527
+"Ali Aras",6,"Roc Wieler",24,0.3344524273148459
+"Ali Aras",6,"PsychoBitch",25,0.12433520195486561
+"Ali Aras",6,"Ayeson",26,0.2019325576809308
+"Ali Aras",6,"Artctura",27,0.054903758020164985
+"Ali Aras",6,"Awol Aurix",28,0.04127065673430944
+"Ali Aras",6,"Kaleb Rysode",29,0.03281077500551998
+"Ali Aras",6,"Cipreh",30,0.19555199358845923
+"Ali Aras",6,"DaeHan Minhyok",31,0.06115040075436115
+"progodlegend",7,"mynnna",1,0.16662051140035078
+"progodlegend",7,"Ripard Teg",2,0.18476172175249808
+"progodlegend",7,"Sort Dragon",3,0.2156724154179625
+"progodlegend",7,"Kesper North",4,0.1777472257684376
+"progodlegend",7,"Mangala Solaris",5,0.22340235310946607
+"progodlegend",7,"Ali Aras",6,0.14014995891536566
+"progodlegend",7,"progodlegend",7,1.0
+"progodlegend",7,"Trebor Daehdoow",8,0.16431147061689894
+"progodlegend",7,"Sala Cameron",9,0.21724732988200177
+"progodlegend",7,"Malcanis",10,0.2335897122858422
+"progodlegend",7,"Chitsa Jason",11,0.08613099973481834
+"progodlegend",7,"Mike Azariah",12,0.08061340793700135
+"progodlegend",7,"Korvin",13,0.1356239662807448
+"progodlegend",7,"James Arget",14,0.12164385760725609
+"progodlegend",7,"Nathan Jameson",15,0.14200717903328908
+"progodlegend",7,"Banlish",16,0.18352426189810933
+"progodlegend",7,"Greene Lee",17,0.08741512294811787
+"progodlegend",7,"Psychotic Monk",18,0.11420930334517077
+"progodlegend",7,"Steve Ronuken",19,0.07626826181985506
+"progodlegend",7,"Corebloodbrothers",20,0.14653764741457515
+"progodlegend",7,"Unforgiven Storm",21,0.20348605135938264
+"progodlegend",7,"Travis Musgrat",22,0.4396868884540117
+"progodlegend",7,"riverini",23,0.2839674841177676
+"progodlegend",7,"Roc Wieler",24,0.16081431066674698
+"progodlegend",7,"PsychoBitch",25,0.07904741410228822
+"progodlegend",7,"Ayeson",26,0.07397060609741285
+"progodlegend",7,"Artctura",27,0.16944024205748864
+"progodlegend",7,"Awol Aurix",28,0.17950375416438766
+"progodlegend",7,"Kaleb Rysode",29,0.16260204081632654
+"progodlegend",7,"Cipreh",30,0.05939987752602572
+"progodlegend",7,"DaeHan Minhyok",31,0.16347992351816443
+"Trebor Daehdoow",8,"mynnna",1,0.10306473553652877
+"Trebor Daehdoow",8,"Ripard Teg",2,0.4652388976463554
+"Trebor Daehdoow",8,"Sort Dragon",3,0.07776413719020947
+"Trebor Daehdoow",8,"Kesper North",4,0.08617482951022938
+"Trebor Daehdoow",8,"Mangala Solaris",5,0.28575957169525557
+"Trebor Daehdoow",8,"Ali Aras",6,0.3684357541899441
+"Trebor Daehdoow",8,"progodlegend",7,0.16431147061689894
+"Trebor Daehdoow",8,"Trebor Daehdoow",8,1.0
+"Trebor Daehdoow",8,"Sala Cameron",9,0.07589996210685866
+"Trebor Daehdoow",8,"Malcanis",10,0.2697429906542056
+"Trebor Daehdoow",8,"Chitsa Jason",11,0.22205527233700026
+"Trebor Daehdoow",8,"Mike Azariah",12,0.28401087016804394
+"Trebor Daehdoow",8,"Korvin",13,0.3323727185398655
+"Trebor Daehdoow",8,"James Arget",14,0.2777589994929863
+"Trebor Daehdoow",8,"Nathan Jameson",15,0.3810477324385756
+"Trebor Daehdoow",8,"Banlish",16,0.08018867924528301
+"Trebor Daehdoow",8,"Greene Lee",17,0.10718915733647613
+"Trebor Daehdoow",8,"Psychotic Monk",18,0.23934338238582994
+"Trebor Daehdoow",8,"Steve Ronuken",19,0.22163419598720557
+"Trebor Daehdoow",8,"Corebloodbrothers",20,0.27440633245382584
+"Trebor Daehdoow",8,"Unforgiven Storm",21,0.17270372584180116
+"Trebor Daehdoow",8,"Travis Musgrat",22,0.07031613804522172
+"Trebor Daehdoow",8,"riverini",23,0.22780462246026664
+"Trebor Daehdoow",8,"Roc Wieler",24,0.3244288872512896
+"Trebor Daehdoow",8,"PsychoBitch",25,0.10188127621710945
+"Trebor Daehdoow",8,"Ayeson",26,0.18803520456707898
+"Trebor Daehdoow",8,"Artctura",27,0.06169709989258861
+"Trebor Daehdoow",8,"Awol Aurix",28,0.05259963584867489
+"Trebor Daehdoow",8,"Kaleb Rysode",29,0.044214996461134935
+"Trebor Daehdoow",8,"Cipreh",30,0.1879471322905299
+"Trebor Daehdoow",8,"DaeHan Minhyok",31,0.06280193236714976
+"Sala Cameron",9,"mynnna",1,0.5343983509404793
+"Sala Cameron",9,"Ripard Teg",2,0.08087771970792097
+"Sala Cameron",9,"Sort Dragon",3,0.7097229276000225
+"Sala Cameron",9,"Kesper North",4,0.542815360450631
+"Sala Cameron",9,"Mangala Solaris",5,0.3819707247411639
+"Sala Cameron",9,"Ali Aras",6,0.05292215474406499
+"Sala Cameron",9,"progodlegend",7,0.21724732988200177
+"Sala Cameron",9,"Trebor Daehdoow",8,0.07589996210685866
+"Sala Cameron",9,"Sala Cameron",9,1.0
+"Sala Cameron",9,"Malcanis",10,0.44580114627460754
+"Sala Cameron",9,"Chitsa Jason",11,0.07575692320944054
+"Sala Cameron",9,"Mike Azariah",12,0.05294410763225646
+"Sala Cameron",9,"Korvin",13,0.052322259407395315
+"Sala Cameron",9,"James Arget",14,0.27729008384836434
+"Sala Cameron",9,"Nathan Jameson",15,0.05466580439000266
+"Sala Cameron",9,"Banlish",16,0.6067246750456547
+"Sala Cameron",9,"Greene Lee",17,0.06769058638051162
+"Sala Cameron",9,"Psychotic Monk",18,0.3090455559931732
+"Sala Cameron",9,"Steve Ronuken",19,0.044928645387835954
+"Sala Cameron",9,"Corebloodbrothers",20,0.052308106410659014
+"Sala Cameron",9,"Unforgiven Storm",21,0.4549050269052109
+"Sala Cameron",9,"Travis Musgrat",22,0.23902571041948578
+"Sala Cameron",9,"riverini",23,0.08717972651327764
+"Sala Cameron",9,"Roc Wieler",24,0.04888810448288034
+"Sala Cameron",9,"PsychoBitch",25,0.05752475783321608
+"Sala Cameron",9,"Ayeson",26,0.03979563138651917
+"Sala Cameron",9,"Artctura",27,0.5313193377709506
+"Sala Cameron",9,"Awol Aurix",28,0.6035001988749361
+"Sala Cameron",9,"Kaleb Rysode",29,0.556886910875271
+"Sala Cameron",9,"Cipreh",30,0.04057472910401451
+"Sala Cameron",9,"DaeHan Minhyok",31,0.49222944334557783
+"Malcanis",10,"mynnna",1,0.47297941495124596
+"Malcanis",10,"Ripard Teg",2,0.2842465753424658
+"Malcanis",10,"Sort Dragon",3,0.454484153742414
+"Malcanis",10,"Kesper North",4,0.4591253904506917
+"Malcanis",10,"Mangala Solaris",5,0.5661898854265489
+"Malcanis",10,"Ali Aras",6,0.24799160308425175
+"Malcanis",10,"progodlegend",7,0.2335897122858422
+"Malcanis",10,"Trebor Daehdoow",8,0.2697429906542056
+"Malcanis",10,"Sala Cameron",9,0.44580114627460754
+"Malcanis",10,"Malcanis",10,1.0
+"Malcanis",10,"Chitsa Jason",11,0.14676304211187932
+"Malcanis",10,"Mike Azariah",12,0.16435012009292435
+"Malcanis",10,"Korvin",13,0.20837865055387714
+"Malcanis",10,"James Arget",14,0.44141700086498387
+"Malcanis",10,"Nathan Jameson",15,0.23441425424187376
+"Malcanis",10,"Banlish",16,0.4553518123667377
+"Malcanis",10,"Greene Lee",17,0.055876685934489405
+"Malcanis",10,"Psychotic Monk",18,0.47023091504394277
+"Malcanis",10,"Steve Ronuken",19,0.1358459308345413
+"Malcanis",10,"Corebloodbrothers",20,0.19338422391857507
+"Malcanis",10,"Unforgiven Storm",21,0.5205293518832711
+"Malcanis",10,"Travis Musgrat",22,0.1618586308885936
+"Malcanis",10,"riverini",23,0.1489850471973937
+"Malcanis",10,"Roc Wieler",24,0.20250934559360634
+"Malcanis",10,"PsychoBitch",25,0.06409854423292273
+"Malcanis",10,"Ayeson",26,0.10567981905001257
+"Malcanis",10,"Artctura",27,0.4402035623409669
+"Malcanis",10,"Awol Aurix",28,0.44633221850613153
+"Malcanis",10,"Kaleb Rysode",29,0.4198782961460446
+"Malcanis",10,"Cipreh",30,0.1154802744425386
+"Malcanis",10,"DaeHan Minhyok",31,0.4246033592332387
+"Chitsa Jason",11,"mynnna",1,0.08124440465532677
+"Chitsa Jason",11,"Ripard Teg",2,0.2380877248343326
+"Chitsa Jason",11,"Sort Dragon",3,0.06540603548763113
+"Chitsa Jason",11,"Kesper North",4,0.08400891290949604
+"Chitsa Jason",11,"Mangala Solaris",5,0.18242567181246427
+"Chitsa Jason",11,"Ali Aras",6,0.23650868137024872
+"Chitsa Jason",11,"progodlegend",7,0.08613099973481834
+"Chitsa Jason",11,"Trebor Daehdoow",8,0.22205527233700026
+"Chitsa Jason",11,"Sala Cameron",9,0.07575692320944054
+"Chitsa Jason",11,"Malcanis",10,0.14676304211187932
+"Chitsa Jason",11,"Chitsa Jason",11,1.0
+"Chitsa Jason",11,"Mike Azariah",12,0.2009857612267251
+"Chitsa Jason",11,"Korvin",13,0.19674758145884028
+"Chitsa Jason",11,"James Arget",14,0.26913615289999054
+"Chitsa Jason",11,"Nathan Jameson",15,0.3684992570579495
+"Chitsa Jason",11,"Banlish",16,0.07376795580110497
+"Chitsa Jason",11,"Greene Lee",17,0.11260674482558981
+"Chitsa Jason",11,"Psychotic Monk",18,0.16407111025923618
+"Chitsa Jason",11,"Steve Ronuken",19,0.19723677941877085
+"Chitsa Jason",11,"Corebloodbrothers",20,0.14966161778923623
+"Chitsa Jason",11,"Unforgiven Storm",21,0.08224820069060199
+"Chitsa Jason",11,"Travis Musgrat",22,0.06198118428334256
+"Chitsa Jason",11,"riverini",23,0.11275497355829765
+"Chitsa Jason",11,"Roc Wieler",24,0.16247198206852387
+"Chitsa Jason",11,"PsychoBitch",25,0.12829240619174972
+"Chitsa Jason",11,"Ayeson",26,0.37749500998003993
+"Chitsa Jason",11,"Artctura",27,0.06113907020778315
+"Chitsa Jason",11,"Awol Aurix",28,0.055187225698011017
+"Chitsa Jason",11,"Kaleb Rysode",29,0.04143433955008652
+"Chitsa Jason",11,"Cipreh",30,0.4293665518155314
+"Chitsa Jason",11,"DaeHan Minhyok",31,0.06704656296524462
+"Mike Azariah",12,"mynnna",1,0.07586388352920541
+"Mike Azariah",12,"Ripard Teg",2,0.298236092265943
+"Mike Azariah",12,"Sort Dragon",3,0.05029970239342751
+"Mike Azariah",12,"Kesper North",4,0.08272778088317496
+"Mike Azariah",12,"Mangala Solaris",5,0.20038736056812884
+"Mike Azariah",12,"Ali Aras",6,0.3048951048951049
+"Mike Azariah",12,"progodlegend",7,0.08061340793700135
+"Mike Azariah",12,"Trebor Daehdoow",8,0.28401087016804394
+"Mike Azariah",12,"Sala Cameron",9,0.05294410763225646
+"Mike Azariah",12,"Malcanis",10,0.16435012009292435
+"Mike Azariah",12,"Chitsa Jason",11,0.2009857612267251
+"Mike Azariah",12,"Mike Azariah",12,1.0
+"Mike Azariah",12,"Korvin",13,0.2649630541871921
+"Mike Azariah",12,"James Arget",14,0.18040610898993406
+"Mike Azariah",12,"Nathan Jameson",15,0.2679336792240018
+"Mike Azariah",12,"Banlish",16,0.07484208233500327
+"Mike Azariah",12,"Greene Lee",17,0.10500841750841751
+"Mike Azariah",12,"Psychotic Monk",18,0.16437774316862522
+"Mike Azariah",12,"Steve Ronuken",19,0.29944319907440886
+"Mike Azariah",12,"Corebloodbrothers",20,0.21100917431192662
+"Mike Azariah",12,"Unforgiven Storm",21,0.13469475494411007
+"Mike Azariah",12,"Travis Musgrat",22,0.0523491533508228
+"Mike Azariah",12,"riverini",23,0.11789473684210526
+"Mike Azariah",12,"Roc Wieler",24,0.28893371357028585
+"Mike Azariah",12,"PsychoBitch",25,0.13409992069785884
+"Mike Azariah",12,"Ayeson",26,0.16889747481716572
+"Mike Azariah",12,"Artctura",27,0.05675003656574521
+"Mike Azariah",12,"Awol Aurix",28,0.04602148579752367
+"Mike Azariah",12,"Kaleb Rysode",29,0.03458794818847381
+"Mike Azariah",12,"Cipreh",30,0.1608244531688166
+"Mike Azariah",12,"DaeHan Minhyok",31,0.07611735394315351
+"Korvin",13,"mynnna",1,0.06185391585485175
+"Korvin",13,"Ripard Teg",2,0.30037921273300217
+"Korvin",13,"Sort Dragon",3,0.04271685761047463
+"Korvin",13,"Kesper North",4,0.061194297498430916
+"Korvin",13,"Mangala Solaris",5,0.22060571140480392
+"Korvin",13,"Ali Aras",6,0.35015422578655153
+"Korvin",13,"progodlegend",7,0.1356239662807448
+"Korvin",13,"Trebor Daehdoow",8,0.3323727185398655
+"Korvin",13,"Sala Cameron",9,0.052322259407395315
+"Korvin",13,"Malcanis",10,0.20837865055387714
+"Korvin",13,"Chitsa Jason",11,0.19674758145884028
+"Korvin",13,"Mike Azariah",12,0.2649630541871921
+"Korvin",13,"Korvin",13,1.0
+"Korvin",13,"James Arget",14,0.21522494392893268
+"Korvin",13,"Nathan Jameson",15,0.31161619053071504
+"Korvin",13,"Banlish",16,0.05590845988809894
+"Korvin",13,"Greene Lee",17,0.19914029496776106
+"Korvin",13,"Psychotic Monk",18,0.2106405556627436
+"Korvin",13,"Steve Ronuken",19,0.20786553739084762
+"Korvin",13,"Corebloodbrothers",20,0.2741252050300711
+"Korvin",13,"Unforgiven Storm",21,0.15918226217746467
+"Korvin",13,"Travis Musgrat",22,0.04861070827774233
+"Korvin",13,"riverini",23,0.1858957905544148
+"Korvin",13,"Roc Wieler",24,0.2689424364123159
+"Korvin",13,"PsychoBitch",25,0.10446194225721785
+"Korvin",13,"Ayeson",26,0.1611070258707133
+"Korvin",13,"Artctura",27,0.04535780163647543
+"Korvin",13,"Awol Aurix",28,0.03745401356322858
+"Korvin",13,"Kaleb Rysode",29,0.03054205264606072
+"Korvin",13,"Cipreh",30,0.17008817856158723
+"Korvin",13,"DaeHan Minhyok",31,0.05636283575517393
+"James Arget",14,"mynnna",1,0.3156931269762024
+"James Arget",14,"Ripard Teg",2,0.292244863941326
+"James Arget",14,"Sort Dragon",3,0.2878891070069308
+"James Arget",14,"Kesper North",4,0.31955803027666607
+"James Arget",14,"Mangala Solaris",5,0.46694155092592593
+"James Arget",14,"Ali Aras",6,0.2609425378737688
+"James Arget",14,"progodlegend",7,0.12164385760725609
+"James Arget",14,"Trebor Daehdoow",8,0.2777589994929863
+"James Arget",14,"Sala Cameron",9,0.27729008384836434
+"James Arget",14,"Malcanis",10,0.44141700086498387
+"James Arget",14,"Chitsa Jason",11,0.26913615289999054
+"James Arget",14,"Mike Azariah",12,0.18040610898993406
+"James Arget",14,"Korvin",13,0.21522494392893268
+"James Arget",14,"James Arget",14,1.0
+"James Arget",14,"Nathan Jameson",15,0.39501863295438466
+"James Arget",14,"Banlish",16,0.2948106477518242
+"James Arget",14,"Greene Lee",17,0.06474317143656194
+"James Arget",14,"Psychotic Monk",18,0.496372373504193
+"James Arget",14,"Steve Ronuken",19,0.15755924061157559
+"James Arget",14,"Corebloodbrothers",20,0.19165567903559994
+"James Arget",14,"Unforgiven Storm",21,0.3811979209636169
+"James Arget",14,"Travis Musgrat",22,0.04622150801370153
+"James Arget",14,"riverini",23,0.14566911195151958
+"James Arget",14,"Roc Wieler",24,0.22477173861083224
+"James Arget",14,"PsychoBitch",25,0.0841865179929042
+"James Arget",14,"Ayeson",26,0.2577589365154132
+"James Arget",14,"Artctura",27,0.30803510527033784
+"James Arget",14,"Awol Aurix",28,0.28753104393251694
+"James Arget",14,"Kaleb Rysode",29,0.288304222860933
+"James Arget",14,"Cipreh",30,0.2487063047840321
+"James Arget",14,"DaeHan Minhyok",31,0.3156081206928665
+"Nathan Jameson",15,"mynnna",1,0.08236098817091816
+"Nathan Jameson",15,"Ripard Teg",2,0.39033162320833553
+"Nathan Jameson",15,"Sort Dragon",3,0.055499961511815875
+"Nathan Jameson",15,"Kesper North",4,0.07060446450965638
+"Nathan Jameson",15,"Mangala Solaris",5,0.2686302970226927
+"Nathan Jameson",15,"Ali Aras",6,0.36899563318777295
+"Nathan Jameson",15,"progodlegend",7,0.14200717903328908
+"Nathan Jameson",15,"Trebor Daehdoow",8,0.3810477324385756
+"Nathan Jameson",15,"Sala Cameron",9,0.05466580439000266
+"Nathan Jameson",15,"Malcanis",10,0.23441425424187376
+"Nathan Jameson",15,"Chitsa Jason",11,0.3684992570579495
+"Nathan Jameson",15,"Mike Azariah",12,0.2679336792240018
+"Nathan Jameson",15,"Korvin",13,0.31161619053071504
+"Nathan Jameson",15,"James Arget",14,0.39501863295438466
+"Nathan Jameson",15,"Nathan Jameson",15,1.0
+"Nathan Jameson",15,"Banlish",16,0.061182842117656296
+"Nathan Jameson",15,"Greene Lee",17,0.08289009741229905
+"Nathan Jameson",15,"Psychotic Monk",18,0.2511683864698533
+"Nathan Jameson",15,"Steve Ronuken",19,0.21741993415145167
+"Nathan Jameson",15,"Corebloodbrothers",20,0.28171118998692324
+"Nathan Jameson",15,"Unforgiven Storm",21,0.16014521984671237
+"Nathan Jameson",15,"Travis Musgrat",22,0.05319372829632747
+"Nathan Jameson",15,"riverini",23,0.1965195992265776
+"Nathan Jameson",15,"Roc Wieler",24,0.309726748558536
+"Nathan Jameson",15,"PsychoBitch",25,0.09766216661178795
+"Nathan Jameson",15,"Ayeson",26,0.3346004976499862
+"Nathan Jameson",15,"Artctura",27,0.05097044937926211
+"Nathan Jameson",15,"Awol Aurix",28,0.03634951138733287
+"Nathan Jameson",15,"Kaleb Rysode",29,0.029434089567344186
+"Nathan Jameson",15,"Cipreh",30,0.3370778578493712
+"Nathan Jameson",15,"DaeHan Minhyok",31,0.05326529698760127
+"Banlish",16,"mynnna",1,0.5480523627075351
+"Banlish",16,"Ripard Teg",2,0.08113135914958239
+"Banlish",16,"Sort Dragon",3,0.632254864134928
+"Banlish",16,"Kesper North",4,0.5553877139979859
+"Banlish",16,"Mangala Solaris",5,0.3984920926811328
+"Banlish",16,"Ali Aras",6,0.06570539079141406
+"Banlish",16,"progodlegend",7,0.18352426189810933
+"Banlish",16,"Trebor Daehdoow",8,0.08018867924528301
+"Banlish",16,"Sala Cameron",9,0.6067246750456547
+"Banlish",16,"Malcanis",10,0.4553518123667377
+"Banlish",16,"Chitsa Jason",11,0.07376795580110497
+"Banlish",16,"Mike Azariah",12,0.07484208233500327
+"Banlish",16,"Korvin",13,0.05590845988809894
+"Banlish",16,"James Arget",14,0.2948106477518242
+"Banlish",16,"Nathan Jameson",15,0.061182842117656296
+"Banlish",16,"Banlish",16,1.0
+"Banlish",16,"Greene Lee",17,0.06905990104221497
+"Banlish",16,"Psychotic Monk",18,0.3177494251837158
+"Banlish",16,"Steve Ronuken",19,0.0561676590557457
+"Banlish",16,"Corebloodbrothers",20,0.052794600342101615
+"Banlish",16,"Unforgiven Storm",21,0.47838547886314786
+"Banlish",16,"Travis Musgrat",22,0.2021328425269312
+"Banlish",16,"riverini",23,0.05995687230451903
+"Banlish",16,"Roc Wieler",24,0.06357103372028745
+"Banlish",16,"PsychoBitch",25,0.06518300948938092
+"Banlish",16,"Ayeson",26,0.03829807785183039
+"Banlish",16,"Artctura",27,0.5658091088163314
+"Banlish",16,"Awol Aurix",28,0.7171364430032428
+"Banlish",16,"Kaleb Rysode",29,0.5794098438520454
+"Banlish",16,"Cipreh",30,0.044521395003710114
+"Banlish",16,"DaeHan Minhyok",31,0.5291005291005291
+"Greene Lee",17,"mynnna",1,0.05177807904891021
+"Greene Lee",17,"Ripard Teg",2,0.09189883311931216
+"Greene Lee",17,"Sort Dragon",3,0.05792137416287511
+"Greene Lee",17,"Kesper North",4,0.058233381907857866
+"Greene Lee",17,"Mangala Solaris",5,0.08531901405824663
+"Greene Lee",17,"Ali Aras",6,0.09093229532257036
+"Greene Lee",17,"progodlegend",7,0.08741512294811787
+"Greene Lee",17,"Trebor Daehdoow",8,0.10718915733647613
+"Greene Lee",17,"Sala Cameron",9,0.06769058638051162
+"Greene Lee",17,"Malcanis",10,0.055876685934489405
+"Greene Lee",17,"Chitsa Jason",11,0.11260674482558981
+"Greene Lee",17,"Mike Azariah",12,0.10500841750841751
+"Greene Lee",17,"Korvin",13,0.19914029496776106
+"Greene Lee",17,"James Arget",14,0.06474317143656194
+"Greene Lee",17,"Nathan Jameson",15,0.08289009741229905
+"Greene Lee",17,"Banlish",16,0.06905990104221497
+"Greene Lee",17,"Greene Lee",17,1.0
+"Greene Lee",17,"Psychotic Monk",18,0.048910236545811385
+"Greene Lee",17,"Steve Ronuken",19,0.10986949429037521
+"Greene Lee",17,"Corebloodbrothers",20,0.07354308741475511
+"Greene Lee",17,"Unforgiven Storm",21,0.052656727828746176
+"Greene Lee",17,"Travis Musgrat",22,0.0822676549645679
+"Greene Lee",17,"riverini",23,0.10643284305802489
+"Greene Lee",17,"Roc Wieler",24,0.08967851099830795
+"Greene Lee",17,"PsychoBitch",25,0.11939626041901329
+"Greene Lee",17,"Ayeson",26,0.08449004224502112
+"Greene Lee",17,"Artctura",27,0.052785210411092194
+"Greene Lee",17,"Awol Aurix",28,0.05604719764011799
+"Greene Lee",17,"Kaleb Rysode",29,0.048257054778278394
+"Greene Lee",17,"Cipreh",30,0.07901256414793842
+"Greene Lee",17,"DaeHan Minhyok",31,0.05986626293212213
+"Psychotic Monk",18,"mynnna",1,0.3711996229083196
+"Psychotic Monk",18,"Ripard Teg",2,0.25328990801461204
+"Psychotic Monk",18,"Sort Dragon",3,0.3094985407269833
+"Psychotic Monk",18,"Kesper North",4,0.347029750944859
+"Psychotic Monk",18,"Mangala Solaris",5,0.44583444237423475
+"Psychotic Monk",18,"Ali Aras",6,0.25
+"Psychotic Monk",18,"progodlegend",7,0.11420930334517077
+"Psychotic Monk",18,"Trebor Daehdoow",8,0.23934338238582994
+"Psychotic Monk",18,"Sala Cameron",9,0.3090455559931732
+"Psychotic Monk",18,"Malcanis",10,0.47023091504394277
+"Psychotic Monk",18,"Chitsa Jason",11,0.16407111025923618
+"Psychotic Monk",18,"Mike Azariah",12,0.16437774316862522
+"Psychotic Monk",18,"Korvin",13,0.2106405556627436
+"Psychotic Monk",18,"James Arget",14,0.496372373504193
+"Psychotic Monk",18,"Nathan Jameson",15,0.2511683864698533
+"Psychotic Monk",18,"Banlish",16,0.3177494251837158
+"Psychotic Monk",18,"Greene Lee",17,0.048910236545811385
+"Psychotic Monk",18,"Psychotic Monk",18,1.0
+"Psychotic Monk",18,"Steve Ronuken",19,0.13796413235665572
+"Psychotic Monk",18,"Corebloodbrothers",20,0.2099250836831199
+"Psychotic Monk",18,"Unforgiven Storm",21,0.4085013425567742
+"Psychotic Monk",18,"Travis Musgrat",22,0.043122886133032695
+"Psychotic Monk",18,"riverini",23,0.13606672696211436
+"Psychotic Monk",18,"Roc Wieler",24,0.22718333067559665
+"Psychotic Monk",18,"PsychoBitch",25,0.08274000918695452
+"Psychotic Monk",18,"Ayeson",26,0.1325466231166368
+"Psychotic Monk",18,"Artctura",27,0.33477508650519033
+"Psychotic Monk",18,"Awol Aurix",28,0.31545002866424615
+"Psychotic Monk",18,"Kaleb Rysode",29,0.3197559039491963
+"Psychotic Monk",18,"Cipreh",30,0.13540546354054636
+"Psychotic Monk",18,"DaeHan Minhyok",31,0.32372619660319096
+"Steve Ronuken",19,"mynnna",1,0.07150378098975782
+"Steve Ronuken",19,"Ripard Teg",2,0.21499916299313654
+"Steve Ronuken",19,"Sort Dragon",3,0.04664230242119689
+"Steve Ronuken",19,"Kesper North",4,0.06507143217729315
+"Steve Ronuken",19,"Mangala Solaris",5,0.1721866696605666
+"Steve Ronuken",19,"Ali Aras",6,0.24375321998969604
+"Steve Ronuken",19,"progodlegend",7,0.07626826181985506
+"Steve Ronuken",19,"Trebor Daehdoow",8,0.22163419598720557
+"Steve Ronuken",19,"Sala Cameron",9,0.044928645387835954
+"Steve Ronuken",19,"Malcanis",10,0.1358459308345413
+"Steve Ronuken",19,"Chitsa Jason",11,0.19723677941877085
+"Steve Ronuken",19,"Mike Azariah",12,0.29944319907440886
+"Steve Ronuken",19,"Korvin",13,0.20786553739084762
+"Steve Ronuken",19,"James Arget",14,0.15755924061157559
+"Steve Ronuken",19,"Nathan Jameson",15,0.21741993415145167
+"Steve Ronuken",19,"Banlish",16,0.0561676590557457
+"Steve Ronuken",19,"Greene Lee",17,0.10986949429037521
+"Steve Ronuken",19,"Psychotic Monk",18,0.13796413235665572
+"Steve Ronuken",19,"Steve Ronuken",19,1.0
+"Steve Ronuken",19,"Corebloodbrothers",20,0.15778097982708933
+"Steve Ronuken",19,"Unforgiven Storm",21,0.10727007032605718
+"Steve Ronuken",19,"Travis Musgrat",22,0.05297473512632437
+"Steve Ronuken",19,"riverini",23,0.09506436291044262
+"Steve Ronuken",19,"Roc Wieler",24,0.21613597565501372
+"Steve Ronuken",19,"PsychoBitch",25,0.135450723960766
+"Steve Ronuken",19,"Ayeson",26,0.19505694208868427
+"Steve Ronuken",19,"Artctura",27,0.05664971323449843
+"Steve Ronuken",19,"Awol Aurix",28,0.04305812847343914
+"Steve Ronuken",19,"Kaleb Rysode",29,0.0321058091286307
+"Steve Ronuken",19,"Cipreh",30,0.17524259969012476
+"Steve Ronuken",19,"DaeHan Minhyok",31,0.07288728421527699
+"Corebloodbrothers",20,"mynnna",1,0.062928524466986
+"Corebloodbrothers",20,"Ripard Teg",2,0.2787456445993031
+"Corebloodbrothers",20,"Sort Dragon",3,0.04442540140718023
+"Corebloodbrothers",20,"Kesper North",4,0.06025532760419254
+"Corebloodbrothers",20,"Mangala Solaris",5,0.19376796248676448
+"Corebloodbrothers",20,"Ali Aras",6,0.40996251441753173
+"Corebloodbrothers",20,"progodlegend",7,0.14653764741457515
+"Corebloodbrothers",20,"Trebor Daehdoow",8,0.27440633245382584
+"Corebloodbrothers",20,"Sala Cameron",9,0.052308106410659014
+"Corebloodbrothers",20,"Malcanis",10,0.19338422391857507
+"Corebloodbrothers",20,"Chitsa Jason",11,0.14966161778923623
+"Corebloodbrothers",20,"Mike Azariah",12,0.21100917431192662
+"Corebloodbrothers",20,"Korvin",13,0.2741252050300711
+"Corebloodbrothers",20,"James Arget",14,0.19165567903559994
+"Corebloodbrothers",20,"Nathan Jameson",15,0.28171118998692324
+"Corebloodbrothers",20,"Banlish",16,0.052794600342101615
+"Corebloodbrothers",20,"Greene Lee",17,0.07354308741475511
+"Corebloodbrothers",20,"Psychotic Monk",18,0.2099250836831199
+"Corebloodbrothers",20,"Steve Ronuken",19,0.15778097982708933
+"Corebloodbrothers",20,"Corebloodbrothers",20,1.0
+"Corebloodbrothers",20,"Unforgiven Storm",21,0.15255752670462566
+"Corebloodbrothers",20,"Travis Musgrat",22,0.04470681878482356
+"Corebloodbrothers",20,"riverini",23,0.17843594981032973
+"Corebloodbrothers",20,"Roc Wieler",24,0.3045967994979605
+"Corebloodbrothers",20,"PsychoBitch",25,0.09549469964664312
+"Corebloodbrothers",20,"Ayeson",26,0.11612376641685836
+"Corebloodbrothers",20,"Artctura",27,0.0527576660988075
+"Corebloodbrothers",20,"Awol Aurix",28,0.03725027064265328
+"Corebloodbrothers",20,"Kaleb Rysode",29,0.029434309366855742
+"Corebloodbrothers",20,"Cipreh",30,0.12124225502945
+"Corebloodbrothers",20,"DaeHan Minhyok",31,0.04118473678521241
+"Unforgiven Storm",21,"mynnna",1,0.5881958762886598
+"Unforgiven Storm",21,"Ripard Teg",2,0.17379304983285393
+"Unforgiven Storm",21,"Sort Dragon",3,0.4532721116831316
+"Unforgiven Storm",21,"Kesper North",4,0.5198208401976936
+"Unforgiven Storm",21,"Mangala Solaris",5,0.47361981387416113
+"Unforgiven Storm",21,"Ali Aras",6,0.17019660788119145
+"Unforgiven Storm",21,"progodlegend",7,0.20348605135938264
+"Unforgiven Storm",21,"Trebor Daehdoow",8,0.17270372584180116
+"Unforgiven Storm",21,"Sala Cameron",9,0.4549050269052109
+"Unforgiven Storm",21,"Malcanis",10,0.5205293518832711
+"Unforgiven Storm",21,"Chitsa Jason",11,0.08224820069060199
+"Unforgiven Storm",21,"Mike Azariah",12,0.13469475494411007
+"Unforgiven Storm",21,"Korvin",13,0.15918226217746467
+"Unforgiven Storm",21,"James Arget",14,0.3811979209636169
+"Unforgiven Storm",21,"Nathan Jameson",15,0.16014521984671237
+"Unforgiven Storm",21,"Banlish",16,0.47838547886314786
+"Unforgiven Storm",21,"Greene Lee",17,0.052656727828746176
+"Unforgiven Storm",21,"Psychotic Monk",18,0.4085013425567742
+"Unforgiven Storm",21,"Steve Ronuken",19,0.10727007032605718
+"Unforgiven Storm",21,"Corebloodbrothers",20,0.15255752670462566
+"Unforgiven Storm",21,"Unforgiven Storm",21,1.0
+"Unforgiven Storm",21,"Travis Musgrat",22,0.1561171240819482
+"Unforgiven Storm",21,"riverini",23,0.10615566466630297
+"Unforgiven Storm",21,"Roc Wieler",24,0.14406935989669803
+"Unforgiven Storm",21,"PsychoBitch",25,0.05193742971066353
+"Unforgiven Storm",21,"Ayeson",26,0.05872965209064794
+"Unforgiven Storm",21,"Artctura",27,0.5286847142466503
+"Unforgiven Storm",21,"Awol Aurix",28,0.48522692659153216
+"Unforgiven Storm",21,"Kaleb Rysode",29,0.5914812317374691
+"Unforgiven Storm",21,"Cipreh",30,0.05346927477394353
+"Unforgiven Storm",21,"DaeHan Minhyok",31,0.4866724455520641
+"Travis Musgrat",22,"mynnna",1,0.17345528022971393
+"Travis Musgrat",22,"Ripard Teg",2,0.08031622941739262
+"Travis Musgrat",22,"Sort Dragon",3,0.23616963064295485
+"Travis Musgrat",22,"Kesper North",4,0.1854852513265248
+"Travis Musgrat",22,"Mangala Solaris",5,0.15472288438617401
+"Travis Musgrat",22,"Ali Aras",6,0.048352376221228684
+"Travis Musgrat",22,"progodlegend",7,0.4396868884540117
+"Travis Musgrat",22,"Trebor Daehdoow",8,0.07031613804522172
+"Travis Musgrat",22,"Sala Cameron",9,0.23902571041948578
+"Travis Musgrat",22,"Malcanis",10,0.1618586308885936
+"Travis Musgrat",22,"Chitsa Jason",11,0.06198118428334256
+"Travis Musgrat",22,"Mike Azariah",12,0.0523491533508228
+"Travis Musgrat",22,"Korvin",13,0.04861070827774233
+"Travis Musgrat",22,"James Arget",14,0.04622150801370153
+"Travis Musgrat",22,"Nathan Jameson",15,0.05319372829632747
+"Travis Musgrat",22,"Banlish",16,0.2021328425269312
+"Travis Musgrat",22,"Greene Lee",17,0.0822676549645679
+"Travis Musgrat",22,"Psychotic Monk",18,0.043122886133032695
+"Travis Musgrat",22,"Steve Ronuken",19,0.05297473512632437
+"Travis Musgrat",22,"Corebloodbrothers",20,0.04470681878482356
+"Travis Musgrat",22,"Unforgiven Storm",21,0.1561171240819482
+"Travis Musgrat",22,"Travis Musgrat",22,1.0
+"Travis Musgrat",22,"riverini",23,0.21771736583079446
+"Travis Musgrat",22,"Roc Wieler",24,0.05739485289277957
+"Travis Musgrat",22,"PsychoBitch",25,0.06756269168320404
+"Travis Musgrat",22,"Ayeson",26,0.05387303436225976
+"Travis Musgrat",22,"Artctura",27,0.18691300049431536
+"Travis Musgrat",22,"Awol Aurix",28,0.20395586336424462
+"Travis Musgrat",22,"Kaleb Rysode",29,0.18891182900170025
+"Travis Musgrat",22,"Cipreh",30,0.04300199837169714
+"Travis Musgrat",22,"DaeHan Minhyok",31,0.18311819792457606
+"riverini",23,"mynnna",1,0.0474991842632732
+"riverini",23,"Ripard Teg",2,0.2582316371172001
+"riverini",23,"Sort Dragon",3,0.08867531483761007
+"riverini",23,"Kesper North",4,0.047628468272417034
+"riverini",23,"Mangala Solaris",5,0.15616256810484463
+"riverini",23,"Ali Aras",6,0.18694162281238527
+"riverini",23,"progodlegend",7,0.2839674841177676
+"riverini",23,"Trebor Daehdoow",8,0.22780462246026664
+"riverini",23,"Sala Cameron",9,0.08717972651327764
+"riverini",23,"Malcanis",10,0.1489850471973937
+"riverini",23,"Chitsa Jason",11,0.11275497355829765
+"riverini",23,"Mike Azariah",12,0.11789473684210526
+"riverini",23,"Korvin",13,0.1858957905544148
+"riverini",23,"James Arget",14,0.14566911195151958
+"riverini",23,"Nathan Jameson",15,0.1965195992265776
+"riverini",23,"Banlish",16,0.05995687230451903
+"riverini",23,"Greene Lee",17,0.10643284305802489
+"riverini",23,"Psychotic Monk",18,0.13606672696211436
+"riverini",23,"Steve Ronuken",19,0.09506436291044262
+"riverini",23,"Corebloodbrothers",20,0.17843594981032973
+"riverini",23,"Unforgiven Storm",21,0.10615566466630297
+"riverini",23,"Travis Musgrat",22,0.21771736583079446
+"riverini",23,"riverini",23,1.0
+"riverini",23,"Roc Wieler",24,0.21686123836264223
+"riverini",23,"PsychoBitch",25,0.0879111111111111
+"riverini",23,"Ayeson",26,0.09945322890498005
+"riverini",23,"Artctura",27,0.041195519456389024
+"riverini",23,"Awol Aurix",28,0.05285146222378819
+"riverini",23,"Kaleb Rysode",29,0.03426323689250039
+"riverini",23,"Cipreh",30,0.08967901976997669
+"riverini",23,"DaeHan Minhyok",31,0.04668493150684932
+"Roc Wieler",24,"mynnna",1,0.07043238957040907
+"Roc Wieler",24,"Ripard Teg",2,0.35240690281562215
+"Roc Wieler",24,"Sort Dragon",3,0.054684340597618515
+"Roc Wieler",24,"Kesper North",4,0.0702144480679909
+"Roc Wieler",24,"Mangala Solaris",5,0.22438556067588325
+"Roc Wieler",24,"Ali Aras",6,0.3344524273148459
+"Roc Wieler",24,"progodlegend",7,0.16081431066674698
+"Roc Wieler",24,"Trebor Daehdoow",8,0.3244288872512896
+"Roc Wieler",24,"Sala Cameron",9,0.04888810448288034
+"Roc Wieler",24,"Malcanis",10,0.20250934559360634
+"Roc Wieler",24,"Chitsa Jason",11,0.16247198206852387
+"Roc Wieler",24,"Mike Azariah",12,0.28893371357028585
+"Roc Wieler",24,"Korvin",13,0.2689424364123159
+"Roc Wieler",24,"James Arget",14,0.22477173861083224
+"Roc Wieler",24,"Nathan Jameson",15,0.309726748558536
+"Roc Wieler",24,"Banlish",16,0.06357103372028745
+"Roc Wieler",24,"Greene Lee",17,0.08967851099830795
+"Roc Wieler",24,"Psychotic Monk",18,0.22718333067559665
+"Roc Wieler",24,"Steve Ronuken",19,0.21613597565501372
+"Roc Wieler",24,"Corebloodbrothers",20,0.3045967994979605
+"Roc Wieler",24,"Unforgiven Storm",21,0.14406935989669803
+"Roc Wieler",24,"Travis Musgrat",22,0.05739485289277957
+"Roc Wieler",24,"riverini",23,0.21686123836264223
+"Roc Wieler",24,"Roc Wieler",24,1.0
+"Roc Wieler",24,"PsychoBitch",25,0.12840535983672022
+"Roc Wieler",24,"Ayeson",26,0.16384994316028798
+"Roc Wieler",24,"Artctura",27,0.05194261179181066
+"Roc Wieler",24,"Awol Aurix",28,0.03970452446906741
+"Roc Wieler",24,"Kaleb Rysode",29,0.03270745003028468
+"Roc Wieler",24,"Cipreh",30,0.14586362592791
+"Roc Wieler",24,"DaeHan Minhyok",31,0.06274765239103294
+"PsychoBitch",25,"mynnna",1,0.05637697516930022
+"PsychoBitch",25,"Ripard Teg",2,0.10094253572514442
+"PsychoBitch",25,"Sort Dragon",3,0.055281342546890426
+"PsychoBitch",25,"Kesper North",4,0.06534229828850856
+"PsychoBitch",25,"Mangala Solaris",5,0.08840083441571221
+"PsychoBitch",25,"Ali Aras",6,0.12433520195486561
+"PsychoBitch",25,"progodlegend",7,0.07904741410228822
+"PsychoBitch",25,"Trebor Daehdoow",8,0.10188127621710945
+"PsychoBitch",25,"Sala Cameron",9,0.05752475783321608
+"PsychoBitch",25,"Malcanis",10,0.06409854423292273
+"PsychoBitch",25,"Chitsa Jason",11,0.12829240619174972
+"PsychoBitch",25,"Mike Azariah",12,0.13409992069785884
+"PsychoBitch",25,"Korvin",13,0.10446194225721785
+"PsychoBitch",25,"James Arget",14,0.0841865179929042
+"PsychoBitch",25,"Nathan Jameson",15,0.09766216661178795
+"PsychoBitch",25,"Banlish",16,0.06518300948938092
+"PsychoBitch",25,"Greene Lee",17,0.11939626041901329
+"PsychoBitch",25,"Psychotic Monk",18,0.08274000918695452
+"PsychoBitch",25,"Steve Ronuken",19,0.135450723960766
+"PsychoBitch",25,"Corebloodbrothers",20,0.09549469964664312
+"PsychoBitch",25,"Unforgiven Storm",21,0.05193742971066353
+"PsychoBitch",25,"Travis Musgrat",22,0.06756269168320404
+"PsychoBitch",25,"riverini",23,0.0879111111111111
+"PsychoBitch",25,"Roc Wieler",24,0.12840535983672022
+"PsychoBitch",25,"PsychoBitch",25,1.0
+"PsychoBitch",25,"Ayeson",26,0.12678481012658227
+"PsychoBitch",25,"Artctura",27,0.058533004071280786
+"PsychoBitch",25,"Awol Aurix",28,0.05533694048204624
+"PsychoBitch",25,"Kaleb Rysode",29,0.04372990353697749
+"PsychoBitch",25,"Cipreh",30,0.1115364718054837
+"PsychoBitch",25,"DaeHan Minhyok",31,0.06435059981970737
+"Ayeson",26,"mynnna",1,0.048292108362779744
+"Ayeson",26,"Ripard Teg",2,0.19808269808269807
+"Ayeson",26,"Sort Dragon",3,0.04443489881634211
+"Ayeson",26,"Kesper North",4,0.05526052894473947
+"Ayeson",26,"Mangala Solaris",5,0.1401580730146782
+"Ayeson",26,"Ali Aras",6,0.2019325576809308
+"Ayeson",26,"progodlegend",7,0.07397060609741285
+"Ayeson",26,"Trebor Daehdoow",8,0.18803520456707898
+"Ayeson",26,"Sala Cameron",9,0.03979563138651917
+"Ayeson",26,"Malcanis",10,0.10567981905001257
+"Ayeson",26,"Chitsa Jason",11,0.37749500998003993
+"Ayeson",26,"Mike Azariah",12,0.16889747481716572
+"Ayeson",26,"Korvin",13,0.1611070258707133
+"Ayeson",26,"James Arget",14,0.2577589365154132
+"Ayeson",26,"Nathan Jameson",15,0.3346004976499862
+"Ayeson",26,"Banlish",16,0.03829807785183039
+"Ayeson",26,"Greene Lee",17,0.08449004224502112
+"Ayeson",26,"Psychotic Monk",18,0.1325466231166368
+"Ayeson",26,"Steve Ronuken",19,0.19505694208868427
+"Ayeson",26,"Corebloodbrothers",20,0.11612376641685836
+"Ayeson",26,"Unforgiven Storm",21,0.05872965209064794
+"Ayeson",26,"Travis Musgrat",22,0.05387303436225976
+"Ayeson",26,"riverini",23,0.09945322890498005
+"Ayeson",26,"Roc Wieler",24,0.16384994316028798
+"Ayeson",26,"PsychoBitch",25,0.12678481012658227
+"Ayeson",26,"Ayeson",26,1.0
+"Ayeson",26,"Artctura",27,0.048096532970768185
+"Ayeson",26,"Awol Aurix",28,0.03680242906501937
+"Ayeson",26,"Kaleb Rysode",29,0.02704909110699902
+"Ayeson",26,"Cipreh",30,0.41569705944573726
+"Ayeson",26,"DaeHan Minhyok",31,0.055008210180623976
+"Artctura",27,"mynnna",1,0.5945367880713762
+"Artctura",27,"Ripard Teg",2,0.06100607978679104
+"Artctura",27,"Sort Dragon",3,0.5446578840461959
+"Artctura",27,"Kesper North",4,0.6432357228037631
+"Artctura",27,"Mangala Solaris",5,0.39233612910919424
+"Artctura",27,"Ali Aras",6,0.054903758020164985
+"Artctura",27,"progodlegend",7,0.16944024205748864
+"Artctura",27,"Trebor Daehdoow",8,0.06169709989258861
+"Artctura",27,"Sala Cameron",9,0.5313193377709506
+"Artctura",27,"Malcanis",10,0.4402035623409669
+"Artctura",27,"Chitsa Jason",11,0.06113907020778315
+"Artctura",27,"Mike Azariah",12,0.05675003656574521
+"Artctura",27,"Korvin",13,0.04535780163647543
+"Artctura",27,"James Arget",14,0.30803510527033784
+"Artctura",27,"Nathan Jameson",15,0.05097044937926211
+"Artctura",27,"Banlish",16,0.5658091088163314
+"Artctura",27,"Greene Lee",17,0.052785210411092194
+"Artctura",27,"Psychotic Monk",18,0.33477508650519033
+"Artctura",27,"Steve Ronuken",19,0.05664971323449843
+"Artctura",27,"Corebloodbrothers",20,0.0527576660988075
+"Artctura",27,"Unforgiven Storm",21,0.5286847142466503
+"Artctura",27,"Travis Musgrat",22,0.18691300049431536
+"Artctura",27,"riverini",23,0.041195519456389024
+"Artctura",27,"Roc Wieler",24,0.05194261179181066
+"Artctura",27,"PsychoBitch",25,0.058533004071280786
+"Artctura",27,"Ayeson",26,0.048096532970768185
+"Artctura",27,"Artctura",27,1.0
+"Artctura",27,"Awol Aurix",28,0.606731272917758
+"Artctura",27,"Kaleb Rysode",29,0.6785663490257431
+"Artctura",27,"Cipreh",30,0.04922684890253084
+"Artctura",27,"DaeHan Minhyok",31,0.6413608783588558
+"Awol Aurix",28,"mynnna",1,0.5531179138321995
+"Awol Aurix",28,"Ripard Teg",2,0.05586217771820547
+"Awol Aurix",28,"Sort Dragon",3,0.6277985074626866
+"Awol Aurix",28,"Kesper North",4,0.5738485652278755
+"Awol Aurix",28,"Mangala Solaris",5,0.3817220658705408
+"Awol Aurix",28,"Ali Aras",6,0.04127065673430944
+"Awol Aurix",28,"progodlegend",7,0.17950375416438766
+"Awol Aurix",28,"Trebor Daehdoow",8,0.05259963584867489
+"Awol Aurix",28,"Sala Cameron",9,0.6035001988749361
+"Awol Aurix",28,"Malcanis",10,0.44633221850613153
+"Awol Aurix",28,"Chitsa Jason",11,0.055187225698011017
+"Awol Aurix",28,"Mike Azariah",12,0.04602148579752367
+"Awol Aurix",28,"Korvin",13,0.03745401356322858
+"Awol Aurix",28,"James Arget",14,0.28753104393251694
+"Awol Aurix",28,"Nathan Jameson",15,0.03634951138733287
+"Awol Aurix",28,"Banlish",16,0.7171364430032428
+"Awol Aurix",28,"Greene Lee",17,0.05604719764011799
+"Awol Aurix",28,"Psychotic Monk",18,0.31545002866424615
+"Awol Aurix",28,"Steve Ronuken",19,0.04305812847343914
+"Awol Aurix",28,"Corebloodbrothers",20,0.03725027064265328
+"Awol Aurix",28,"Unforgiven Storm",21,0.48522692659153216
+"Awol Aurix",28,"Travis Musgrat",22,0.20395586336424462
+"Awol Aurix",28,"riverini",23,0.05285146222378819
+"Awol Aurix",28,"Roc Wieler",24,0.03970452446906741
+"Awol Aurix",28,"PsychoBitch",25,0.05533694048204624
+"Awol Aurix",28,"Ayeson",26,0.03680242906501937
+"Awol Aurix",28,"Artctura",27,0.606731272917758
+"Awol Aurix",28,"Awol Aurix",28,1.0
+"Awol Aurix",28,"Kaleb Rysode",29,0.6274420124142437
+"Awol Aurix",28,"Cipreh",30,0.036228790950805674
+"Awol Aurix",28,"DaeHan Minhyok",31,0.5702895235605516
+"Kaleb Rysode",29,"mynnna",1,0.716815881666018
+"Kaleb Rysode",29,"Ripard Teg",2,0.04385575253402253
+"Kaleb Rysode",29,"Sort Dragon",3,0.5671312427409988
+"Kaleb Rysode",29,"Kesper North",4,0.6601595990239398
+"Kaleb Rysode",29,"Mangala Solaris",5,0.3704893913582159
+"Kaleb Rysode",29,"Ali Aras",6,0.03281077500551998
+"Kaleb Rysode",29,"progodlegend",7,0.16260204081632654
+"Kaleb Rysode",29,"Trebor Daehdoow",8,0.044214996461134935
+"Kaleb Rysode",29,"Sala Cameron",9,0.556886910875271
+"Kaleb Rysode",29,"Malcanis",10,0.4198782961460446
+"Kaleb Rysode",29,"Chitsa Jason",11,0.04143433955008652
+"Kaleb Rysode",29,"Mike Azariah",12,0.03458794818847381
+"Kaleb Rysode",29,"Korvin",13,0.03054205264606072
+"Kaleb Rysode",29,"James Arget",14,0.288304222860933
+"Kaleb Rysode",29,"Nathan Jameson",15,0.029434089567344186
+"Kaleb Rysode",29,"Banlish",16,0.5794098438520454
+"Kaleb Rysode",29,"Greene Lee",17,0.048257054778278394
+"Kaleb Rysode",29,"Psychotic Monk",18,0.3197559039491963
+"Kaleb Rysode",29,"Steve Ronuken",19,0.0321058091286307
+"Kaleb Rysode",29,"Corebloodbrothers",20,0.029434309366855742
+"Kaleb Rysode",29,"Unforgiven Storm",21,0.5914812317374691
+"Kaleb Rysode",29,"Travis Musgrat",22,0.18891182900170025
+"Kaleb Rysode",29,"riverini",23,0.03426323689250039
+"Kaleb Rysode",29,"Roc Wieler",24,0.03270745003028468
+"Kaleb Rysode",29,"PsychoBitch",25,0.04372990353697749
+"Kaleb Rysode",29,"Ayeson",26,0.02704909110699902
+"Kaleb Rysode",29,"Artctura",27,0.6785663490257431
+"Kaleb Rysode",29,"Awol Aurix",28,0.6274420124142437
+"Kaleb Rysode",29,"Kaleb Rysode",29,1.0
+"Kaleb Rysode",29,"Cipreh",30,0.029514952386256055
+"Kaleb Rysode",29,"DaeHan Minhyok",31,0.602122936034411
+"Cipreh",30,"mynnna",1,0.05555555555555555
+"Cipreh",30,"Ripard Teg",2,0.19734211454780665
+"Cipreh",30,"Sort Dragon",3,0.043995532462487254
+"Cipreh",30,"Kesper North",4,0.05952637244348762
+"Cipreh",30,"Mangala Solaris",5,0.13825779198538646
+"Cipreh",30,"Ali Aras",6,0.19555199358845923
+"Cipreh",30,"progodlegend",7,0.05939987752602572
+"Cipreh",30,"Trebor Daehdoow",8,0.1879471322905299
+"Cipreh",30,"Sala Cameron",9,0.04057472910401451
+"Cipreh",30,"Malcanis",10,0.1154802744425386
+"Cipreh",30,"Chitsa Jason",11,0.4293665518155314
+"Cipreh",30,"Mike Azariah",12,0.1608244531688166
+"Cipreh",30,"Korvin",13,0.17008817856158723
+"Cipreh",30,"James Arget",14,0.2487063047840321
+"Cipreh",30,"Nathan Jameson",15,0.3370778578493712
+"Cipreh",30,"Banlish",16,0.044521395003710114
+"Cipreh",30,"Greene Lee",17,0.07901256414793842
+"Cipreh",30,"Psychotic Monk",18,0.13540546354054636
+"Cipreh",30,"Steve Ronuken",19,0.17524259969012476
+"Cipreh",30,"Corebloodbrothers",20,0.12124225502945
+"Cipreh",30,"Unforgiven Storm",21,0.05346927477394353
+"Cipreh",30,"Travis Musgrat",22,0.04300199837169714
+"Cipreh",30,"riverini",23,0.08967901976997669
+"Cipreh",30,"Roc Wieler",24,0.14586362592791
+"Cipreh",30,"PsychoBitch",25,0.1115364718054837
+"Cipreh",30,"Ayeson",26,0.41569705944573726
+"Cipreh",30,"Artctura",27,0.04922684890253084
+"Cipreh",30,"Awol Aurix",28,0.036228790950805674
+"Cipreh",30,"Kaleb Rysode",29,0.029514952386256055
+"Cipreh",30,"Cipreh",30,1.0
+"Cipreh",30,"DaeHan Minhyok",31,0.05292745649183661
+"DaeHan Minhyok",31,"mynnna",1,0.5230100613204739
+"DaeHan Minhyok",31,"Ripard Teg",2,0.06573331056855045
+"DaeHan Minhyok",31,"Sort Dragon",3,0.5047844131888403
+"DaeHan Minhyok",31,"Kesper North",4,0.5949051277000853
+"DaeHan Minhyok",31,"Mangala Solaris",5,0.38097143314395454
+"DaeHan Minhyok",31,"Ali Aras",6,0.06115040075436115
+"DaeHan Minhyok",31,"progodlegend",7,0.16347992351816443
+"DaeHan Minhyok",31,"Trebor Daehdoow",8,0.06280193236714976
+"DaeHan Minhyok",31,"Sala Cameron",9,0.49222944334557783
+"DaeHan Minhyok",31,"Malcanis",10,0.4246033592332387
+"DaeHan Minhyok",31,"Chitsa Jason",11,0.06704656296524462
+"DaeHan Minhyok",31,"Mike Azariah",12,0.07611735394315351
+"DaeHan Minhyok",31,"Korvin",13,0.05636283575517393
+"DaeHan Minhyok",31,"James Arget",14,0.3156081206928665
+"DaeHan Minhyok",31,"Nathan Jameson",15,0.05326529698760127
+"DaeHan Minhyok",31,"Banlish",16,0.5291005291005291
+"DaeHan Minhyok",31,"Greene Lee",17,0.05986626293212213
+"DaeHan Minhyok",31,"Psychotic Monk",18,0.32372619660319096
+"DaeHan Minhyok",31,"Steve Ronuken",19,0.07288728421527699
+"DaeHan Minhyok",31,"Corebloodbrothers",20,0.04118473678521241
+"DaeHan Minhyok",31,"Unforgiven Storm",21,0.4866724455520641
+"DaeHan Minhyok",31,"Travis Musgrat",22,0.18311819792457606
+"DaeHan Minhyok",31,"riverini",23,0.04668493150684932
+"DaeHan Minhyok",31,"Roc Wieler",24,0.06274765239103294
+"DaeHan Minhyok",31,"PsychoBitch",25,0.06435059981970737
+"DaeHan Minhyok",31,"Ayeson",26,0.055008210180623976
+"DaeHan Minhyok",31,"Artctura",27,0.6413608783588558
+"DaeHan Minhyok",31,"Awol Aurix",28,0.5702895235605516
+"DaeHan Minhyok",31,"Kaleb Rysode",29,0.602122936034411
+"DaeHan Minhyok",31,"Cipreh",30,0.05292745649183661
+"DaeHan Minhyok",31,"DaeHan Minhyok",31,1.0

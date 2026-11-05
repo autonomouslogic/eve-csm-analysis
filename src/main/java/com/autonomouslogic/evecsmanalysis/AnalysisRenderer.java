@@ -41,13 +41,15 @@ public class AnalysisRenderer {
 	public void renderAll() {
 		var all = new ArrayList<CsmData>();
 		for (var csmConfig : csmConfigs) {
-			var analysis = objectMapper.readValue(csmConfig.getAnalysisJson(), CsmAnalysis.class).toBuilder()
-					.csmNumber(csmConfig.getCsmNumber())
-					.build();
 			var data = objectMapper.readValue(csmConfig.getCsmData(), CsmData.class).toBuilder()
 					.csmNumber(csmConfig.getCsmNumber())
-					.analysis(analysis)
 					.build();
+			var analysis = applyVotesOverride(
+					objectMapper.readValue(csmConfig.getAnalysisJson(), CsmAnalysis.class).toBuilder()
+							.csmNumber(csmConfig.getCsmNumber())
+							.build(),
+					data.getVotes());
+			data = data.toBuilder().analysis(analysis).build();
 			all.add(data);
 			renderCsm(csmConfig, data);
 		}
@@ -55,9 +57,34 @@ public class AnalysisRenderer {
 		renderIndex(all);
 	}
 
+	/**
+	 * Replaces the derived total votes with the official total from csm.json, when one is given.
+	 */
+	static CsmAnalysis applyVotesOverride(CsmAnalysis analysis, Integer votes) {
+		if (votes == null) {
+			return analysis;
+		}
+		if (votes != analysis.getTotalVotes()) {
+			log.info(
+					"Overriding total votes for CSM {}: {} derived, {} from csm.json",
+					analysis.getCsmNumber(),
+					analysis.getTotalVotes(),
+					votes);
+		}
+		return analysis.toBuilder().totalVotes(votes).build();
+	}
+
 	@SneakyThrows
 	public void renderCsm(CsmConfig csmConfig, CsmData data) {
 		log.info("Rendering analysis for {} to {}", csmConfig.getCsmNumber(), csmConfig.getMarkdownFile());
+		var engine = createEngine();
+		if (data.getAnalysis().isFirstPastThePost()) {
+			// First-past-the-post elections have no ballots, so there is no ballot data to chart.
+			try (var writer = new FileWriter(csmConfig.getMarkdownFile(), StandardCharsets.UTF_8)) {
+				engine.process("csm-fptp.md", createCsmContext(data, data.getAnalysis()), writer);
+			}
+			return;
+		}
 		var rankDistributionFile = new File("docs/data/csm%d-rank-distribution.csv".formatted(data.getCsmNumber()));
 		new CsmRankDistributionCsv(data.getAnalysis(), rankDistributionFile).write();
 		new CsmBallotSizesCsv(
@@ -65,7 +92,6 @@ public class AnalysisRenderer {
 				.write();
 		new CsmJaccardCsv(data.getAnalysis(), new File("docs/data/csm%d-jaccard.csv".formatted(data.getCsmNumber())))
 				.write();
-		var engine = createEngine();
 		try (var writer = new FileWriter(csmConfig.getMarkdownFile(), StandardCharsets.UTF_8)) {
 			engine.process("csm.md", createCsmContext(data, data.getAnalysis()), writer);
 		}

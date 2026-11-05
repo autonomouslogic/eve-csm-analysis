@@ -1,0 +1,2810 @@
+Candidate,Order,Other,OtherOrder,Jaccard
+"Aryth",1,"Aryth",1,1.0
+"Aryth",1,"Mr Hyde113",2,0.034281854259900366
+"Aryth",1,"Innominate",3,0.804130808950086
+"Aryth",1,"Steve Ronuken",4,0.048227089676849036
+"Aryth",1,"Xenuria",5,0.6220947337452192
+"Aryth",1,"NoobMan",6,0.023695054945054944
+"Aryth",1,"Gorski Car",7,0.030033879681347863
+"Aryth",1,"Jin'taan",8,0.04599388379204893
+"Aryth",1,"The Judge",9,0.575627432559388
+"Aryth",1,"Fafer",10,0.009750332397695375
+"Aryth",1,"Kyle Aparthos",11,0.5979240644632614
+"Aryth",1,"Bobmon",12,0.02793642910355103
+"Aryth",1,"Nashh Kadavr",13,0.018383761011106857
+"Aryth",1,"Sullen Decimus",14,0.6510513296227582
+"Aryth",1,"Erika Mizune",15,0.02377661045064971
+"Aryth",1,"Alner Greyl",16,0.01764705882352941
+"Aryth",1,"Joffy Aulx-Gao",17,0.017155877228253586
+"Aryth",1,"Capri Sun KraftFoods",18,0.026902970801989036
+"Aryth",1,"RF Gnaeus Crassus",19,0.018200499045941582
+"Aryth",1,"Tora Bushido",20,0.5099222311611692
+"Aryth",1,"Lorelei Ierendi",21,0.013351335133513352
+"Aryth",1,"Vaari",22,0.013022074003493728
+"Aryth",1,"Falck Longbottom",23,0.014197530864197531
+"Aryth",1,"Annexe",24,0.6787323037323038
+"Aryth",1,"Utari Onzo",25,0.038829487900956666
+"Aryth",1,"Toxic Yaken",26,0.012277470841006752
+"Aryth",1,"Diana Olympos",27,0.01731007006456931
+"Aryth",1,"Nikolai Agnon",28,0.012682613581634292
+"Aryth",1,"DoToo Foo",29,0.011409097644095421
+"Aryth",1,"Niko Lorenzio",30,0.01280388978930308
+"Aryth",1,"Vic Jefferson",31,0.019007881316643487
+"Aryth",1,"Mining Forman",32,0.6825500081314034
+"Aryth",1,"commander aze",33,0.5996906419180201
+"Aryth",1,"Wyld",34,0.7349939456841377
+"Aryth",1,"Xavier Azabu",35,0.017114914425427872
+"Aryth",1,"Petrified",36,0.012223323422530559
+"Aryth",1,"Kane Carnifex",37,0.700068282690338
+"Aryth",1,"Uriel Paradisi Anteovnuecci",38,0.01459622402030779
+"Aryth",1,"Ed Bever",39,0.013172690763052209
+"Aryth",1,"Jugular Vein",40,0.014900933355166202
+"Aryth",1,"Chiimera",41,0.6961245338089833
+"Aryth",1,"Brodit",42,0.008478802992518703
+"Aryth",1,"Viceran Phaedra",43,0.00749126019643749
+"Aryth",1,"John Ellsworth",44,0.007298001737619461
+"Aryth",1,"Sogor",45,0.014461791290057518
+"Aryth",1,"InTheSunset",46,0.0073005698005698
+"Aryth",1,"Harry Saq",47,0.014355742296918767
+"Aryth",1,"Rivver",48,0.012924349474409787
+"Aryth",1,"Borat Guereen",49,0.014139444173573866
+"Aryth",1,"Terandria Starsong",50,0.010008481764206954
+"Aryth",1,"Iirithine",51,0.031512981199641896
+"Aryth",1,"Christy Cloud",52,0.008070175438596491
+"Aryth",1,"Apothne",53,0.451566794942276
+"Mr Hyde113",2,"Aryth",1,0.034281854259900366
+"Mr Hyde113",2,"Mr Hyde113",2,1.0
+"Mr Hyde113",2,"Innominate",3,0.035538592027141644
+"Mr Hyde113",2,"Steve Ronuken",4,0.26675521046178996
+"Mr Hyde113",2,"Xenuria",5,0.06871124518183341
+"Mr Hyde113",2,"NoobMan",6,0.27054060490592996
+"Mr Hyde113",2,"Gorski Car",7,0.44177777777777777
+"Mr Hyde113",2,"Jin'taan",8,0.142
+"Mr Hyde113",2,"The Judge",9,0.06022673594709495
+"Mr Hyde113",2,"Fafer",10,0.06651718983557549
+"Mr Hyde113",2,"Kyle Aparthos",11,0.10747278126031012
+"Mr Hyde113",2,"Bobmon",12,0.19005708848715508
+"Mr Hyde113",2,"Nashh Kadavr",13,0.20247831474597275
+"Mr Hyde113",2,"Sullen Decimus",14,0.03521361815754339
+"Mr Hyde113",2,"Erika Mizune",15,0.09745253544820956
+"Mr Hyde113",2,"Alner Greyl",16,0.06060606060606061
+"Mr Hyde113",2,"Joffy Aulx-Gao",17,0.1551146931184129
+"Mr Hyde113",2,"Capri Sun KraftFoods",18,0.2704247304844785
+"Mr Hyde113",2,"RF Gnaeus Crassus",19,0.06857424765663542
+"Mr Hyde113",2,"Tora Bushido",20,0.10875875021341984
+"Mr Hyde113",2,"Lorelei Ierendi",21,0.04599827352324578
+"Mr Hyde113",2,"Vaari",22,0.03406046689628779
+"Mr Hyde113",2,"Falck Longbottom",23,0.04719242902208202
+"Mr Hyde113",2,"Annexe",24,0.03797900486472647
+"Mr Hyde113",2,"Utari Onzo",25,0.08206650831353919
+"Mr Hyde113",2,"Toxic Yaken",26,0.0671881010385947
+"Mr Hyde113",2,"Diana Olympos",27,0.13384653588279116
+"Mr Hyde113",2,"Nikolai Agnon",28,0.07520406797805433
+"Mr Hyde113",2,"DoToo Foo",29,0.08637114187730217
+"Mr Hyde113",2,"Niko Lorenzio",30,0.04425242210002619
+"Mr Hyde113",2,"Vic Jefferson",31,0.09042065260123182
+"Mr Hyde113",2,"Mining Forman",32,0.038805713302357596
+"Mr Hyde113",2,"commander aze",33,0.051856370925570855
+"Mr Hyde113",2,"Wyld",34,0.027979365218151614
+"Mr Hyde113",2,"Xavier Azabu",35,0.05286110744020087
+"Mr Hyde113",2,"Petrified",36,0.039158618864929225
+"Mr Hyde113",2,"Kane Carnifex",37,0.023830383739267567
+"Mr Hyde113",2,"Uriel Paradisi Anteovnuecci",38,0.06420335429769392
+"Mr Hyde113",2,"Ed Bever",39,0.06354249404289118
+"Mr Hyde113",2,"Jugular Vein",40,0.06076830410922233
+"Mr Hyde113",2,"Chiimera",41,0.04681326232606081
+"Mr Hyde113",2,"Brodit",42,0.038236077804423126
+"Mr Hyde113",2,"Viceran Phaedra",43,0.032245222929936306
+"Mr Hyde113",2,"John Ellsworth",44,0.02353421303224051
+"Mr Hyde113",2,"Sogor",45,0.04969439277172469
+"Mr Hyde113",2,"InTheSunset",46,0.023423423423423424
+"Mr Hyde113",2,"Harry Saq",47,0.03296250515039143
+"Mr Hyde113",2,"Rivver",48,0.02700877785280216
+"Mr Hyde113",2,"Borat Guereen",49,0.060005321979776476
+"Mr Hyde113",2,"Terandria Starsong",50,0.02426990265368716
+"Mr Hyde113",2,"Iirithine",51,0.01656258484930763
+"Mr Hyde113",2,"Christy Cloud",52,0.03232490675507667
+"Mr Hyde113",2,"Apothne",53,0.24036224659355268
+"Innominate",3,"Aryth",1,0.804130808950086
+"Innominate",3,"Mr Hyde113",2,0.035538592027141644
+"Innominate",3,"Innominate",3,1.0
+"Innominate",3,"Steve Ronuken",4,0.043580683156654886
+"Innominate",3,"Xenuria",5,0.6152602175830638
+"Innominate",3,"NoobMan",6,0.02533686513877692
+"Innominate",3,"Gorski Car",7,0.029387455230048674
+"Innominate",3,"Jin'taan",8,0.04506385068762279
+"Innominate",3,"The Judge",9,0.580867450344548
+"Innominate",3,"Fafer",10,0.009358288770053475
+"Innominate",3,"Kyle Aparthos",11,0.5833785985877241
+"Innominate",3,"Bobmon",12,0.02871769259582969
+"Innominate",3,"Nashh Kadavr",13,0.014702122219381232
+"Innominate",3,"Sullen Decimus",14,0.6626035318018441
+"Innominate",3,"Erika Mizune",15,0.01895144556646839
+"Innominate",3,"Alner Greyl",16,0.01701514059120404
+"Innominate",3,"Joffy Aulx-Gao",17,0.01656342580123889
+"Innominate",3,"Capri Sun KraftFoods",18,0.025857654889912953
+"Innominate",3,"RF Gnaeus Crassus",19,0.01815766164747564
+"Innominate",3,"Tora Bushido",20,0.4989313384985306
+"Innominate",3,"Lorelei Ierendi",21,0.014503701465478169
+"Innominate",3,"Vaari",22,0.009073543457497613
+"Innominate",3,"Falck Longbottom",23,0.01098901098901099
+"Innominate",3,"Annexe",24,0.6828557552209811
+"Innominate",3,"Utari Onzo",25,0.03934333427681857
+"Innominate",3,"Toxic Yaken",26,0.012353304508956145
+"Innominate",3,"Diana Olympos",27,0.019941836310760283
+"Innominate",3,"Nikolai Agnon",28,0.015225137674117265
+"Innominate",3,"DoToo Foo",29,0.013440860215053764
+"Innominate",3,"Niko Lorenzio",30,0.018369690011481057
+"Innominate",3,"Vic Jefferson",31,0.015809051456912585
+"Innominate",3,"Mining Forman",32,0.6850882930019621
+"Innominate",3,"commander aze",33,0.6056733167082294
+"Innominate",3,"Wyld",34,0.7376935119151157
+"Innominate",3,"Xavier Azabu",35,0.014066077854105331
+"Innominate",3,"Petrified",36,0.01754972421861942
+"Innominate",3,"Kane Carnifex",37,0.7048814025438295
+"Innominate",3,"Uriel Paradisi Anteovnuecci",38,0.01226505256451099
+"Innominate",3,"Ed Bever",39,0.013257881972514146
+"Innominate",3,"Jugular Vein",40,0.022244355909694556
+"Innominate",3,"Chiimera",41,0.6932076698082548
+"Innominate",3,"Brodit",42,0.008198092688639786
+"Innominate",3,"Viceran Phaedra",43,0.016227180527383367
+"Innominate",3,"John Ellsworth",44,0.0075253762688134405
+"Innominate",3,"Sogor",45,0.013384005287508261
+"Innominate",3,"InTheSunset",46,0.006811256497580211
+"Innominate",3,"Harry Saq",47,0.013028169014084507
+"Innominate",3,"Rivver",48,0.014598540145985401
+"Innominate",3,"Borat Guereen",49,0.007966184360266623
+"Innominate",3,"Terandria Starsong",50,0.011978097193702943
+"Innominate",3,"Iirithine",51,0.03229880909418982
+"Innominate",3,"Christy Cloud",52,0.0067043048694424845
+"Innominate",3,"Apothne",53,0.4487616951018162
+"Steve Ronuken",4,"Aryth",1,0.048227089676849036
+"Steve Ronuken",4,"Mr Hyde113",2,0.26675521046178996
+"Steve Ronuken",4,"Innominate",3,0.043580683156654886
+"Steve Ronuken",4,"Steve Ronuken",4,1.0
+"Steve Ronuken",4,"Xenuria",5,0.05642722117202269
+"Steve Ronuken",4,"NoobMan",6,0.2096581082878808
+"Steve Ronuken",4,"Gorski Car",7,0.33948296122209165
+"Steve Ronuken",4,"Jin'taan",8,0.18558386701185448
+"Steve Ronuken",4,"The Judge",9,0.07165389815232087
+"Steve Ronuken",4,"Fafer",10,0.05243332831098388
+"Steve Ronuken",4,"Kyle Aparthos",11,0.12322274881516587
+"Steve Ronuken",4,"Bobmon",12,0.178716263459656
+"Steve Ronuken",4,"Nashh Kadavr",13,0.26313335405657445
+"Steve Ronuken",4,"Sullen Decimus",14,0.04952510176390773
+"Steve Ronuken",4,"Erika Mizune",15,0.1678516228748068
+"Steve Ronuken",4,"Alner Greyl",16,0.04986229888389622
+"Steve Ronuken",4,"Joffy Aulx-Gao",17,0.24301317057500804
+"Steve Ronuken",4,"Capri Sun KraftFoods",18,0.19661610268378063
+"Steve Ronuken",4,"RF Gnaeus Crassus",19,0.13628346961680296
+"Steve Ronuken",4,"Tora Bushido",20,0.15460892441566326
+"Steve Ronuken",4,"Lorelei Ierendi",21,0.11677179362768883
+"Steve Ronuken",4,"Vaari",22,0.04397185801087304
+"Steve Ronuken",4,"Falck Longbottom",23,0.09425362200879049
+"Steve Ronuken",4,"Annexe",24,0.04388560157790927
+"Steve Ronuken",4,"Utari Onzo",25,0.11350872007094295
+"Steve Ronuken",4,"Toxic Yaken",26,0.11191692764133838
+"Steve Ronuken",4,"Diana Olympos",27,0.20417596429709914
+"Steve Ronuken",4,"Nikolai Agnon",28,0.06638044914134743
+"Steve Ronuken",4,"DoToo Foo",29,0.14604895679316576
+"Steve Ronuken",4,"Niko Lorenzio",30,0.06561199000832639
+"Steve Ronuken",4,"Vic Jefferson",31,0.11067193675889328
+"Steve Ronuken",4,"Mining Forman",32,0.04865620941152962
+"Steve Ronuken",4,"commander aze",33,0.07104940792160065
+"Steve Ronuken",4,"Wyld",34,0.042712281061149236
+"Steve Ronuken",4,"Xavier Azabu",35,0.0515056771433273
+"Steve Ronuken",4,"Petrified",36,0.04650775129188198
+"Steve Ronuken",4,"Kane Carnifex",37,0.03692686429377372
+"Steve Ronuken",4,"Uriel Paradisi Anteovnuecci",38,0.11537150647580095
+"Steve Ronuken",4,"Ed Bever",39,0.05454842397517557
+"Steve Ronuken",4,"Jugular Vein",40,0.05203844879018893
+"Steve Ronuken",4,"Chiimera",41,0.06847935548841894
+"Steve Ronuken",4,"Brodit",42,0.05894378194207837
+"Steve Ronuken",4,"Viceran Phaedra",43,0.04976303317535545
+"Steve Ronuken",4,"John Ellsworth",44,0.03408102938619371
+"Steve Ronuken",4,"Sogor",45,0.06717299578059072
+"Steve Ronuken",4,"InTheSunset",46,0.016097987751531057
+"Steve Ronuken",4,"Harry Saq",47,0.030155979202772965
+"Steve Ronuken",4,"Rivver",48,0.03254539225762247
+"Steve Ronuken",4,"Borat Guereen",49,0.09567901234567901
+"Steve Ronuken",4,"Terandria Starsong",50,0.0405727923627685
+"Steve Ronuken",4,"Iirithine",51,0.018962247888295123
+"Steve Ronuken",4,"Christy Cloud",52,0.02753572673405368
+"Steve Ronuken",4,"Apothne",53,0.21459110342945512
+"Xenuria",5,"Aryth",1,0.6220947337452192
+"Xenuria",5,"Mr Hyde113",2,0.06871124518183341
+"Xenuria",5,"Innominate",3,0.6152602175830638
+"Xenuria",5,"Steve Ronuken",4,0.05642722117202269
+"Xenuria",5,"Xenuria",5,1.0
+"Xenuria",5,"NoobMan",6,0.046753822291158875
+"Xenuria",5,"Gorski Car",7,0.0700045516613564
+"Xenuria",5,"Jin'taan",8,0.02733976176971072
+"Xenuria",5,"The Judge",9,0.4652387220294364
+"Xenuria",5,"Fafer",10,0.02858744394618834
+"Xenuria",5,"Kyle Aparthos",11,0.48479318734793186
+"Xenuria",5,"Bobmon",12,0.050969131371141424
+"Xenuria",5,"Nashh Kadavr",13,0.027872031022782354
+"Xenuria",5,"Sullen Decimus",14,0.5109429883815185
+"Xenuria",5,"Erika Mizune",15,0.03142112125162973
+"Xenuria",5,"Alner Greyl",16,0.02481791205826814
+"Xenuria",5,"Joffy Aulx-Gao",17,0.024556962025316455
+"Xenuria",5,"Capri Sun KraftFoods",18,0.055103550295857985
+"Xenuria",5,"RF Gnaeus Crassus",19,0.019871179936960394
+"Xenuria",5,"Tora Bushido",20,0.47075
+"Xenuria",5,"Lorelei Ierendi",21,0.03286384976525822
+"Xenuria",5,"Vaari",22,0.018041999408459037
+"Xenuria",5,"Falck Longbottom",23,0.01666427237465881
+"Xenuria",5,"Annexe",24,0.544107268877911
+"Xenuria",5,"Utari Onzo",25,0.017016887972154185
+"Xenuria",5,"Toxic Yaken",26,0.0255632582322357
+"Xenuria",5,"Diana Olympos",27,0.02860858257477243
+"Xenuria",5,"Nikolai Agnon",28,0.017929179740026894
+"Xenuria",5,"DoToo Foo",29,0.016500277315585135
+"Xenuria",5,"Niko Lorenzio",30,0.0196256038647343
+"Xenuria",5,"Vic Jefferson",31,0.025126353790613717
+"Xenuria",5,"Mining Forman",32,0.5499214397943151
+"Xenuria",5,"commander aze",33,0.4806169806169806
+"Xenuria",5,"Wyld",34,0.5801709914504275
+"Xenuria",5,"Xavier Azabu",35,0.027105223085122584
+"Xenuria",5,"Petrified",36,0.016707541385652974
+"Xenuria",5,"Kane Carnifex",37,0.5509115162294353
+"Xenuria",5,"Uriel Paradisi Anteovnuecci",38,0.020861074123391034
+"Xenuria",5,"Ed Bever",39,0.024052916416115455
+"Xenuria",5,"Jugular Vein",40,0.020554202192448235
+"Xenuria",5,"Chiimera",41,0.5533361665958351
+"Xenuria",5,"Brodit",42,0.018286068495273516
+"Xenuria",5,"Viceran Phaedra",43,0.014544329258858115
+"Xenuria",5,"John Ellsworth",44,0.012369477911646587
+"Xenuria",5,"Sogor",45,0.015202189115232594
+"Xenuria",5,"InTheSunset",46,0.013653561441026484
+"Xenuria",5,"Harry Saq",47,0.01596774193548387
+"Xenuria",5,"Rivver",48,0.025216832637327338
+"Xenuria",5,"Borat Guereen",49,0.01337139423076923
+"Xenuria",5,"Terandria Starsong",50,0.01893043066729768
+"Xenuria",5,"Iirithine",51,0.036216305606085665
+"Xenuria",5,"Christy Cloud",52,0.02040483186418544
+"Xenuria",5,"Apothne",53,0.4012471887139644
+"NoobMan",6,"Aryth",1,0.023695054945054944
+"NoobMan",6,"Mr Hyde113",2,0.27054060490592996
+"NoobMan",6,"Innominate",3,0.02533686513877692
+"NoobMan",6,"Steve Ronuken",4,0.2096581082878808
+"NoobMan",6,"Xenuria",5,0.046753822291158875
+"NoobMan",6,"NoobMan",6,1.0
+"NoobMan",6,"Gorski Car",7,0.30060524546065903
+"NoobMan",6,"Jin'taan",8,0.12017994858611825
+"NoobMan",6,"The Judge",9,0.02833721283270924
+"NoobMan",6,"Fafer",10,0.08527772042122651
+"NoobMan",6,"Kyle Aparthos",11,0.06829216803884315
+"NoobMan",6,"Bobmon",12,0.19238298629649403
+"NoobMan",6,"Nashh Kadavr",13,0.18789454140363906
+"NoobMan",6,"Sullen Decimus",14,0.023967593113536627
+"NoobMan",6,"Erika Mizune",15,0.0756876499907698
+"NoobMan",6,"Alner Greyl",16,0.06427330631152287
+"NoobMan",6,"Joffy Aulx-Gao",17,0.12210604929051531
+"NoobMan",6,"Capri Sun KraftFoods",18,0.2582588418188885
+"NoobMan",6,"RF Gnaeus Crassus",19,0.06542056074766354
+"NoobMan",6,"Tora Bushido",20,0.08749859597888353
+"NoobMan",6,"Lorelei Ierendi",21,0.05075111652456354
+"NoobMan",6,"Vaari",22,0.028277634961439587
+"NoobMan",6,"Falck Longbottom",23,0.055156382079459006
+"NoobMan",6,"Annexe",24,0.027616616384311905
+"NoobMan",6,"Utari Onzo",25,0.061049168342167795
+"NoobMan",6,"Toxic Yaken",26,0.06926683716965047
+"NoobMan",6,"Diana Olympos",27,0.09408450704225352
+"NoobMan",6,"Nikolai Agnon",28,0.06269662921348315
+"NoobMan",6,"DoToo Foo",29,0.08051894563426688
+"NoobMan",6,"Niko Lorenzio",30,0.039163328882955054
+"NoobMan",6,"Vic Jefferson",31,0.11892012494422133
+"NoobMan",6,"Mining Forman",32,0.03238341968911917
+"NoobMan",6,"commander aze",33,0.023834560112162635
+"NoobMan",6,"Wyld",34,0.03363502935420744
+"NoobMan",6,"Xavier Azabu",35,0.059077482390365824
+"NoobMan",6,"Petrified",36,0.04622815087396504
+"NoobMan",6,"Kane Carnifex",37,0.017484215638659543
+"NoobMan",6,"Uriel Paradisi Anteovnuecci",38,0.06266548984995587
+"NoobMan",6,"Ed Bever",39,0.06823316764572977
+"NoobMan",6,"Jugular Vein",40,0.06748324474231569
+"NoobMan",6,"Chiimera",41,0.046423942500294565
+"NoobMan",6,"Brodit",42,0.07653550863723609
+"NoobMan",6,"Viceran Phaedra",43,0.03445883441258094
+"NoobMan",6,"John Ellsworth",44,0.028278888347147733
+"NoobMan",6,"Sogor",45,0.07487131492746842
+"NoobMan",6,"InTheSunset",46,0.02488062327217894
+"NoobMan",6,"Harry Saq",47,0.03308823529411765
+"NoobMan",6,"Rivver",48,0.03690303907380608
+"NoobMan",6,"Borat Guereen",49,0.05883689232167197
+"NoobMan",6,"Terandria Starsong",50,0.027719050974864927
+"NoobMan",6,"Iirithine",51,0.02324443356985564
+"NoobMan",6,"Christy Cloud",52,0.04962216624685139
+"NoobMan",6,"Apothne",53,0.15159021103735262
+"Gorski Car",7,"Aryth",1,0.030033879681347863
+"Gorski Car",7,"Mr Hyde113",2,0.44177777777777777
+"Gorski Car",7,"Innominate",3,0.029387455230048674
+"Gorski Car",7,"Steve Ronuken",4,0.33948296122209165
+"Gorski Car",7,"Xenuria",5,0.0700045516613564
+"Gorski Car",7,"NoobMan",6,0.30060524546065903
+"Gorski Car",7,"Gorski Car",7,1.0
+"Gorski Car",7,"Jin'taan",8,0.1522603079980129
+"Gorski Car",7,"The Judge",9,0.046503819357004955
+"Gorski Car",7,"Fafer",10,0.08400229357798165
+"Gorski Car",7,"Kyle Aparthos",11,0.10915744377008212
+"Gorski Car",7,"Bobmon",12,0.23505211190345585
+"Gorski Car",7,"Nashh Kadavr",13,0.2558072428221036
+"Gorski Car",7,"Sullen Decimus",14,0.03596730245231607
+"Gorski Car",7,"Erika Mizune",15,0.118707015130674
+"Gorski Car",7,"Alner Greyl",16,0.07373335164080735
+"Gorski Car",7,"Joffy Aulx-Gao",17,0.18952939493634674
+"Gorski Car",7,"Capri Sun KraftFoods",18,0.28096280087527353
+"Gorski Car",7,"RF Gnaeus Crassus",19,0.09096085409252669
+"Gorski Car",7,"Tora Bushido",20,0.12860101675767274
+"Gorski Car",7,"Lorelei Ierendi",21,0.06931542089466915
+"Gorski Car",7,"Vaari",22,0.04269992663242847
+"Gorski Car",7,"Falck Longbottom",23,0.07766130222944043
+"Gorski Car",7,"Annexe",24,0.03189424054728668
+"Gorski Car",7,"Utari Onzo",25,0.07773053414828594
+"Gorski Car",7,"Toxic Yaken",26,0.07945165094339622
+"Gorski Car",7,"Diana Olympos",27,0.15494958102542253
+"Gorski Car",7,"Nikolai Agnon",28,0.06607061676011516
+"Gorski Car",7,"DoToo Foo",29,0.11073529411764706
+"Gorski Car",7,"Niko Lorenzio",30,0.049653927174240144
+"Gorski Car",7,"Vic Jefferson",31,0.12096156790690553
+"Gorski Car",7,"Mining Forman",32,0.03235129591646466
+"Gorski Car",7,"commander aze",33,0.05842417288200421
+"Gorski Car",7,"Wyld",34,0.02760794803209782
+"Gorski Car",7,"Xavier Azabu",35,0.0693783576362241
+"Gorski Car",7,"Petrified",36,0.038479018330555975
+"Gorski Car",7,"Kane Carnifex",37,0.02004581901489118
+"Gorski Car",7,"Uriel Paradisi Anteovnuecci",38,0.08171324422843257
+"Gorski Car",7,"Ed Bever",39,0.07767734027884174
+"Gorski Car",7,"Jugular Vein",40,0.06768424298489054
+"Gorski Car",7,"Chiimera",41,0.050126724866234866
+"Gorski Car",7,"Brodit",42,0.04187116564417178
+"Gorski Car",7,"Viceran Phaedra",43,0.04356527093596059
+"Gorski Car",7,"John Ellsworth",44,0.025624901745008647
+"Gorski Car",7,"Sogor",45,0.059745046843802795
+"Gorski Car",7,"InTheSunset",46,0.022912994712385837
+"Gorski Car",7,"Harry Saq",47,0.03131424956507987
+"Gorski Car",7,"Rivver",48,0.026577556729872553
+"Gorski Car",7,"Borat Guereen",49,0.07881697119851347
+"Gorski Car",7,"Terandria Starsong",50,0.031336832355665326
+"Gorski Car",7,"Iirithine",51,0.01820464532328939
+"Gorski Car",7,"Christy Cloud",52,0.03468670076726343
+"Gorski Car",7,"Apothne",53,0.25080818965517243
+"Jin'taan",8,"Aryth",1,0.04599388379204893
+"Jin'taan",8,"Mr Hyde113",2,0.142
+"Jin'taan",8,"Innominate",3,0.04506385068762279
+"Jin'taan",8,"Steve Ronuken",4,0.18558386701185448
+"Jin'taan",8,"Xenuria",5,0.02733976176971072
+"Jin'taan",8,"NoobMan",6,0.12017994858611825
+"Jin'taan",8,"Gorski Car",7,0.1522603079980129
+"Jin'taan",8,"Jin'taan",8,1.0
+"Jin'taan",8,"The Judge",9,0.057479974020350724
+"Jin'taan",8,"Fafer",10,0.034673473728993834
+"Jin'taan",8,"Kyle Aparthos",11,0.09081735620585267
+"Jin'taan",8,"Bobmon",12,0.11115025541659328
+"Jin'taan",8,"Nashh Kadavr",13,0.14815522844580387
+"Jin'taan",8,"Sullen Decimus",14,0.05602716468590832
+"Jin'taan",8,"Erika Mizune",15,0.11877315767805681
+"Jin'taan",8,"Alner Greyl",16,0.04937512804753125
+"Jin'taan",8,"Joffy Aulx-Gao",17,0.1711486345632687
+"Jin'taan",8,"Capri Sun KraftFoods",18,0.1410617145000938
+"Jin'taan",8,"RF Gnaeus Crassus",19,0.08831908831908832
+"Jin'taan",8,"Tora Bushido",20,0.0684301322599195
+"Jin'taan",8,"Lorelei Ierendi",21,0.0624028425494115
+"Jin'taan",8,"Vaari",22,0.12880921895006403
+"Jin'taan",8,"Falck Longbottom",23,0.052378774016468434
+"Jin'taan",8,"Annexe",24,0.0527363184079602
+"Jin'taan",8,"Utari Onzo",25,0.3897304236200257
+"Jin'taan",8,"Toxic Yaken",26,0.07383329463663803
+"Jin'taan",8,"Diana Olympos",27,0.12926018287614296
+"Jin'taan",8,"Nikolai Agnon",28,0.06638800098352594
+"Jin'taan",8,"DoToo Foo",29,0.09891353553644183
+"Jin'taan",8,"Niko Lorenzio",30,0.07298720842738901
+"Jin'taan",8,"Vic Jefferson",31,0.08140350877192983
+"Jin'taan",8,"Mining Forman",32,0.046613346663334165
+"Jin'taan",8,"commander aze",33,0.07915431223411112
+"Jin'taan",8,"Wyld",34,0.0563638746886879
+"Jin'taan",8,"Xavier Azabu",35,0.053293856402664694
+"Jin'taan",8,"Petrified",36,0.054808424257802586
+"Jin'taan",8,"Kane Carnifex",37,0.05022350775703392
+"Jin'taan",8,"Uriel Paradisi Anteovnuecci",38,0.08885060300270736
+"Jin'taan",8,"Ed Bever",39,0.048355899419729204
+"Jin'taan",8,"Jugular Vein",40,0.045510759337125894
+"Jin'taan",8,"Chiimera",41,0.06699346405228758
+"Jin'taan",8,"Brodit",42,0.03618421052631579
+"Jin'taan",8,"Viceran Phaedra",43,0.057253886010362694
+"Jin'taan",8,"John Ellsworth",44,0.026838432635534086
+"Jin'taan",8,"Sogor",45,0.09971211724679403
+"Jin'taan",8,"InTheSunset",46,0.01486784140969163
+"Jin'taan",8,"Harry Saq",47,0.031570426335671885
+"Jin'taan",8,"Rivver",48,0.02197227308396547
+"Jin'taan",8,"Borat Guereen",49,0.06671664167916042
+"Jin'taan",8,"Terandria Starsong",50,0.03400830737279335
+"Jin'taan",8,"Iirithine",51,0.019639494215765402
+"Jin'taan",8,"Christy Cloud",52,0.02693144722524483
+"Jin'taan",8,"Apothne",53,0.12231437993404617
+"The Judge",9,"Aryth",1,0.575627432559388
+"The Judge",9,"Mr Hyde113",2,0.06022673594709495
+"The Judge",9,"Innominate",3,0.580867450344548
+"The Judge",9,"Steve Ronuken",4,0.07165389815232087
+"The Judge",9,"Xenuria",5,0.4652387220294364
+"The Judge",9,"NoobMan",6,0.02833721283270924
+"The Judge",9,"Gorski Car",7,0.046503819357004955
+"The Judge",9,"Jin'taan",8,0.057479974020350724
+"The Judge",9,"The Judge",9,1.0
+"The Judge",9,"Fafer",10,0.04313471502590674
+"The Judge",9,"Kyle Aparthos",11,0.5846418056918548
+"The Judge",9,"Bobmon",12,0.03599869095669248
+"The Judge",9,"Nashh Kadavr",13,0.04157227004984141
+"The Judge",9,"Sullen Decimus",14,0.6151235405919088
+"The Judge",9,"Erika Mizune",15,0.058679106309845325
+"The Judge",9,"Alner Greyl",16,0.04963374589542814
+"The Judge",9,"Joffy Aulx-Gao",17,0.05183327361758032
+"The Judge",9,"Capri Sun KraftFoods",18,0.023625524398321926
+"The Judge",9,"RF Gnaeus Crassus",19,0.0228270412642669
+"The Judge",9,"Tora Bushido",20,0.47175374454534735
+"The Judge",9,"Lorelei Ierendi",21,0.021655561250640696
+"The Judge",9,"Vaari",22,0.015913345814388875
+"The Judge",9,"Falck Longbottom",23,0.01856694560669456
+"The Judge",9,"Annexe",24,0.5891176871675985
+"The Judge",9,"Utari Onzo",25,0.05133219261794182
+"The Judge",9,"Toxic Yaken",26,0.040895164513121085
+"The Judge",9,"Diana Olympos",27,0.05583445573650055
+"The Judge",9,"Nikolai Agnon",28,0.01730197350635307
+"The Judge",9,"DoToo Foo",29,0.03927648578811369
+"The Judge",9,"Niko Lorenzio",30,0.019664072101597707
+"The Judge",9,"Vic Jefferson",31,0.013492475350285417
+"The Judge",9,"Mining Forman",32,0.5799972673862549
+"The Judge",9,"commander aze",33,0.5152706776772841
+"The Judge",9,"Wyld",34,0.5862360738964885
+"The Judge",9,"Xavier Azabu",35,0.018852459016393444
+"The Judge",9,"Petrified",36,0.02426101505856107
+"The Judge",9,"Kane Carnifex",37,0.5871911388809997
+"The Judge",9,"Uriel Paradisi Anteovnuecci",38,0.024491993002287715
+"The Judge",9,"Ed Bever",39,0.021585663860982894
+"The Judge",9,"Jugular Vein",40,0.020082530949105913
+"The Judge",9,"Chiimera",41,0.5764038876889849
+"The Judge",9,"Brodit",42,0.015616285554935862
+"The Judge",9,"Viceran Phaedra",43,0.025243266111972924
+"The Judge",9,"John Ellsworth",44,0.017699115044247787
+"The Judge",9,"Sogor",45,0.018464930412015985
+"The Judge",9,"InTheSunset",46,0.010583566073790974
+"The Judge",9,"Harry Saq",47,0.01608462541660629
+"The Judge",9,"Rivver",48,0.02647186460292203
+"The Judge",9,"Borat Guereen",49,0.04293105859320375
+"The Judge",9,"Terandria Starsong",50,0.016439909297052153
+"The Judge",9,"Iirithine",51,0.030414882622176287
+"The Judge",9,"Christy Cloud",52,0.010593527789870846
+"The Judge",9,"Apothne",53,0.43354210160055673
+"Fafer",10,"Aryth",1,0.009750332397695375
+"Fafer",10,"Mr Hyde113",2,0.06651718983557549
+"Fafer",10,"Innominate",3,0.009358288770053475
+"Fafer",10,"Steve Ronuken",4,0.05243332831098388
+"Fafer",10,"Xenuria",5,0.02858744394618834
+"Fafer",10,"NoobMan",6,0.08527772042122651
+"Fafer",10,"Gorski Car",7,0.08400229357798165
+"Fafer",10,"Jin'taan",8,0.034673473728993834
+"Fafer",10,"The Judge",9,0.04313471502590674
+"Fafer",10,"Fafer",10,1.0
+"Fafer",10,"Kyle Aparthos",11,0.017265456392027423
+"Fafer",10,"Bobmon",12,0.11375212224108659
+"Fafer",10,"Nashh Kadavr",13,0.072768192048012
+"Fafer",10,"Sullen Decimus",14,0.0060431654676258995
+"Fafer",10,"Erika Mizune",15,0.03708867819297267
+"Fafer",10,"Alner Greyl",16,0.15575161180861893
+"Fafer",10,"Joffy Aulx-Gao",17,0.03721424774056353
+"Fafer",10,"Capri Sun KraftFoods",18,0.09038701622971286
+"Fafer",10,"RF Gnaeus Crassus",19,0.03867050175775008
+"Fafer",10,"Tora Bushido",20,0.024482618693358583
+"Fafer",10,"Lorelei Ierendi",21,0.04424778761061947
+"Fafer",10,"Vaari",22,0.023185100722158875
+"Fafer",10,"Falck Longbottom",23,0.03553481694185212
+"Fafer",10,"Annexe",24,0.010330887857463692
+"Fafer",10,"Utari Onzo",25,0.02466740576496674
+"Fafer",10,"Toxic Yaken",26,0.032292405961674944
+"Fafer",10,"Diana Olympos",27,0.04145658263305322
+"Fafer",10,"Nikolai Agnon",28,0.03760886777513856
+"Fafer",10,"DoToo Foo",29,0.028843002294329727
+"Fafer",10,"Niko Lorenzio",30,0.02891566265060241
+"Fafer",10,"Vic Jefferson",31,0.03599429793300071
+"Fafer",10,"Mining Forman",32,0.016175797344727606
+"Fafer",10,"commander aze",33,0.015255530129672006
+"Fafer",10,"Wyld",34,0.011158935118762953
+"Fafer",10,"Xavier Azabu",35,0.03612012987012987
+"Fafer",10,"Petrified",36,0.028655710071639275
+"Fafer",10,"Kane Carnifex",37,0.010309278350515464
+"Fafer",10,"Uriel Paradisi Anteovnuecci",38,0.0230449565545901
+"Fafer",10,"Ed Bever",39,0.15367679436371642
+"Fafer",10,"Jugular Vein",40,0.04625
+"Fafer",10,"Chiimera",41,0.01696696696696697
+"Fafer",10,"Brodit",42,0.03524804177545692
+"Fafer",10,"Viceran Phaedra",43,0.025585429314830876
+"Fafer",10,"John Ellsworth",44,0.028265107212475632
+"Fafer",10,"Sogor",45,0.03367983367983368
+"Fafer",10,"InTheSunset",46,0.03466386554621849
+"Fafer",10,"Harry Saq",47,0.03487229862475442
+"Fafer",10,"Rivver",48,0.033003300330033
+"Fafer",10,"Borat Guereen",49,0.03068227694792087
+"Fafer",10,"Terandria Starsong",50,0.029986369831894594
+"Fafer",10,"Iirithine",51,0.04221105527638191
+"Fafer",10,"Christy Cloud",52,0.05427547363031234
+"Fafer",10,"Apothne",53,0.05242782878000221
+"Kyle Aparthos",11,"Aryth",1,0.5979240644632614
+"Kyle Aparthos",11,"Mr Hyde113",2,0.10747278126031012
+"Kyle Aparthos",11,"Innominate",3,0.5833785985877241
+"Kyle Aparthos",11,"Steve Ronuken",4,0.12322274881516587
+"Kyle Aparthos",11,"Xenuria",5,0.48479318734793186
+"Kyle Aparthos",11,"NoobMan",6,0.06829216803884315
+"Kyle Aparthos",11,"Gorski Car",7,0.10915744377008212
+"Kyle Aparthos",11,"Jin'taan",8,0.09081735620585267
+"Kyle Aparthos",11,"The Judge",9,0.5846418056918548
+"Kyle Aparthos",11,"Fafer",10,0.017265456392027423
+"Kyle Aparthos",11,"Kyle Aparthos",11,1.0
+"Kyle Aparthos",11,"Bobmon",12,0.06967537608867776
+"Kyle Aparthos",11,"Nashh Kadavr",13,0.06913464907158706
+"Kyle Aparthos",11,"Sullen Decimus",14,0.6083830710797613
+"Kyle Aparthos",11,"Erika Mizune",15,0.06369268897149938
+"Kyle Aparthos",11,"Alner Greyl",16,0.0202294313556186
+"Kyle Aparthos",11,"Joffy Aulx-Gao",17,0.07676246622451487
+"Kyle Aparthos",11,"Capri Sun KraftFoods",18,0.07523876077335197
+"Kyle Aparthos",11,"RF Gnaeus Crassus",19,0.040251249839764136
+"Kyle Aparthos",11,"Tora Bushido",20,0.5052032913843175
+"Kyle Aparthos",11,"Lorelei Ierendi",21,0.03025974025974026
+"Kyle Aparthos",11,"Vaari",22,0.01586234708966259
+"Kyle Aparthos",11,"Falck Longbottom",23,0.03402268178785857
+"Kyle Aparthos",11,"Annexe",24,0.5735772357723578
+"Kyle Aparthos",11,"Utari Onzo",25,0.07279789500062649
+"Kyle Aparthos",11,"Toxic Yaken",26,0.04027833534055935
+"Kyle Aparthos",11,"Diana Olympos",27,0.09032012195121951
+"Kyle Aparthos",11,"Nikolai Agnon",28,0.02716794731064764
+"Kyle Aparthos",11,"DoToo Foo",29,0.047918303220738416
+"Kyle Aparthos",11,"Niko Lorenzio",30,0.016422608457643356
+"Kyle Aparthos",11,"Vic Jefferson",31,0.04084639078612562
+"Kyle Aparthos",11,"Mining Forman",32,0.5760393873085339
+"Kyle Aparthos",11,"commander aze",33,0.5450643776824035
+"Kyle Aparthos",11,"Wyld",34,0.5888857385880352
+"Kyle Aparthos",11,"Xavier Azabu",35,0.029562803608605134
+"Kyle Aparthos",11,"Petrified",36,0.02024856863566541
+"Kyle Aparthos",11,"Kane Carnifex",37,0.5819602272727272
+"Kyle Aparthos",11,"Uriel Paradisi Anteovnuecci",38,0.040819131390874105
+"Kyle Aparthos",11,"Ed Bever",39,0.016569333152247723
+"Kyle Aparthos",11,"Jugular Vein",40,0.024729091414281746
+"Kyle Aparthos",11,"Chiimera",41,0.5838323353293413
+"Kyle Aparthos",11,"Brodit",42,0.016987224484065703
+"Kyle Aparthos",11,"Viceran Phaedra",43,0.021763708309779535
+"Kyle Aparthos",11,"John Ellsworth",44,0.013808139534883721
+"Kyle Aparthos",11,"Sogor",45,0.024101421008637502
+"Kyle Aparthos",11,"InTheSunset",46,0.00989952718676123
+"Kyle Aparthos",11,"Harry Saq",47,0.0210896309314587
+"Kyle Aparthos",11,"Rivver",48,0.019800549212313917
+"Kyle Aparthos",11,"Borat Guereen",49,0.039081103796049864
+"Kyle Aparthos",11,"Terandria Starsong",50,0.01900271467352479
+"Kyle Aparthos",11,"Iirithine",51,0.027847726262775884
+"Kyle Aparthos",11,"Christy Cloud",52,0.010213014298220018
+"Kyle Aparthos",11,"Apothne",53,0.5132063558876144
+"Bobmon",12,"Aryth",1,0.02793642910355103
+"Bobmon",12,"Mr Hyde113",2,0.19005708848715508
+"Bobmon",12,"Innominate",3,0.02871769259582969
+"Bobmon",12,"Steve Ronuken",4,0.178716263459656
+"Bobmon",12,"Xenuria",5,0.050969131371141424
+"Bobmon",12,"NoobMan",6,0.19238298629649403
+"Bobmon",12,"Gorski Car",7,0.23505211190345585
+"Bobmon",12,"Jin'taan",8,0.11115025541659328
+"Bobmon",12,"The Judge",9,0.03599869095669248
+"Bobmon",12,"Fafer",10,0.11375212224108659
+"Bobmon",12,"Kyle Aparthos",11,0.06967537608867776
+"Bobmon",12,"Bobmon",12,1.0
+"Bobmon",12,"Nashh Kadavr",13,0.16521032310505995
+"Bobmon",12,"Sullen Decimus",14,0.030288226673180263
+"Bobmon",12,"Erika Mizune",15,0.08717624763108023
+"Bobmon",12,"Alner Greyl",16,0.08915337974399282
+"Bobmon",12,"Joffy Aulx-Gao",17,0.10340557275541795
+"Bobmon",12,"Capri Sun KraftFoods",18,0.17583974099554836
+"Bobmon",12,"RF Gnaeus Crassus",19,0.09086683709040204
+"Bobmon",12,"Tora Bushido",20,0.0850679821922753
+"Bobmon",12,"Lorelei Ierendi",21,0.06843476201752309
+"Bobmon",12,"Vaari",22,0.04076497232008052
+"Bobmon",12,"Falck Longbottom",23,0.06678166584524396
+"Bobmon",12,"Annexe",24,0.036306135357368756
+"Bobmon",12,"Utari Onzo",25,0.06438923395445134
+"Bobmon",12,"Toxic Yaken",26,0.07375431672422299
+"Bobmon",12,"Diana Olympos",27,0.10440735986307231
+"Bobmon",12,"Nikolai Agnon",28,0.05584415584415584
+"Bobmon",12,"DoToo Foo",29,0.06260143751449107
+"Bobmon",12,"Niko Lorenzio",30,0.0558777016341592
+"Bobmon",12,"Vic Jefferson",31,0.07458631760928625
+"Bobmon",12,"Mining Forman",32,0.035527156549520766
+"Bobmon",12,"commander aze",33,0.03620777891504606
+"Bobmon",12,"Wyld",34,0.023124425174090132
+"Bobmon",12,"Xavier Azabu",35,0.06105654366870188
+"Bobmon",12,"Petrified",36,0.05341648590021692
+"Bobmon",12,"Kane Carnifex",37,0.025518341307814992
+"Bobmon",12,"Uriel Paradisi Anteovnuecci",38,0.07148387096774193
+"Bobmon",12,"Ed Bever",39,0.10705529828384637
+"Bobmon",12,"Jugular Vein",40,0.06546336206896551
+"Bobmon",12,"Chiimera",41,0.039074355083459786
+"Bobmon",12,"Brodit",42,0.04797149122807018
+"Bobmon",12,"Viceran Phaedra",43,0.036744692433315185
+"Bobmon",12,"John Ellsworth",44,0.02865412445730825
+"Bobmon",12,"Sogor",45,0.057019903173749324
+"Bobmon",12,"InTheSunset",46,0.02676691729323308
+"Bobmon",12,"Harry Saq",47,0.04318448883666275
+"Bobmon",12,"Rivver",48,0.04815455594002307
+"Bobmon",12,"Borat Guereen",49,0.044421217663966554
+"Bobmon",12,"Terandria Starsong",50,0.04889768230638779
+"Bobmon",12,"Iirithine",51,0.02475968540635013
+"Bobmon",12,"Christy Cloud",52,0.05862798428528256
+"Bobmon",12,"Apothne",53,0.14550015678896205
+"Nashh Kadavr",13,"Aryth",1,0.018383761011106857
+"Nashh Kadavr",13,"Mr Hyde113",2,0.20247831474597275
+"Nashh Kadavr",13,"Innominate",3,0.014702122219381232
+"Nashh Kadavr",13,"Steve Ronuken",4,0.26313335405657445
+"Nashh Kadavr",13,"Xenuria",5,0.027872031022782354
+"Nashh Kadavr",13,"NoobMan",6,0.18789454140363906
+"Nashh Kadavr",13,"Gorski Car",7,0.2558072428221036
+"Nashh Kadavr",13,"Jin'taan",8,0.14815522844580387
+"Nashh Kadavr",13,"The Judge",9,0.04157227004984141
+"Nashh Kadavr",13,"Fafer",10,0.072768192048012
+"Nashh Kadavr",13,"Kyle Aparthos",11,0.06913464907158706
+"Nashh Kadavr",13,"Bobmon",12,0.16521032310505995
+"Nashh Kadavr",13,"Nashh Kadavr",13,1.0
+"Nashh Kadavr",13,"Sullen Decimus",14,0.020577164366373902
+"Nashh Kadavr",13,"Erika Mizune",15,0.13548236393366037
+"Nashh Kadavr",13,"Alner Greyl",16,0.06361085126286249
+"Nashh Kadavr",13,"Joffy Aulx-Gao",17,0.2544143247948272
+"Nashh Kadavr",13,"Capri Sun KraftFoods",18,0.18142826506540854
+"Nashh Kadavr",13,"RF Gnaeus Crassus",19,0.08070866141732283
+"Nashh Kadavr",13,"Tora Bushido",20,0.11429301968805931
+"Nashh Kadavr",13,"Lorelei Ierendi",21,0.068256787617356
+"Nashh Kadavr",13,"Vaari",22,0.022672712723392906
+"Nashh Kadavr",13,"Falck Longbottom",23,0.06732043466737345
+"Nashh Kadavr",13,"Annexe",24,0.019643318686999225
+"Nashh Kadavr",13,"Utari Onzo",25,0.09281842818428185
+"Nashh Kadavr",13,"Toxic Yaken",26,0.08897849462365591
+"Nashh Kadavr",13,"Diana Olympos",27,0.17875333495027892
+"Nashh Kadavr",13,"Nikolai Agnon",28,0.06
+"Nashh Kadavr",13,"DoToo Foo",29,0.1343402225755167
+"Nashh Kadavr",13,"Niko Lorenzio",30,0.0739344737605103
+"Nashh Kadavr",13,"Vic Jefferson",31,0.10870755750273822
+"Nashh Kadavr",13,"Mining Forman",32,0.01747750097821834
+"Nashh Kadavr",13,"commander aze",33,0.04784303185055772
+"Nashh Kadavr",13,"Wyld",34,0.031133764981402398
+"Nashh Kadavr",13,"Xavier Azabu",35,0.05360707157114343
+"Nashh Kadavr",13,"Petrified",36,0.06510107015457789
+"Nashh Kadavr",13,"Kane Carnifex",37,0.013949671772428883
+"Nashh Kadavr",13,"Uriel Paradisi Anteovnuecci",38,0.09561752988047809
+"Nashh Kadavr",13,"Ed Bever",39,0.07793696275071633
+"Nashh Kadavr",13,"Jugular Vein",40,0.050014371945961485
+"Nashh Kadavr",13,"Chiimera",41,0.052386650711341576
+"Nashh Kadavr",13,"Brodit",42,0.05894736842105263
+"Nashh Kadavr",13,"Viceran Phaedra",43,0.046241050119331745
+"Nashh Kadavr",13,"John Ellsworth",44,0.021677662582469368
+"Nashh Kadavr",13,"Sogor",45,0.09773071104387292
+"Nashh Kadavr",13,"InTheSunset",46,0.01899148657498363
+"Nashh Kadavr",13,"Harry Saq",47,0.02137692549512732
+"Nashh Kadavr",13,"Rivver",48,0.026169950738916255
+"Nashh Kadavr",13,"Borat Guereen",49,0.10761390887290168
+"Nashh Kadavr",13,"Terandria Starsong",50,0.02897675822517356
+"Nashh Kadavr",13,"Iirithine",51,0.022575516693163752
+"Nashh Kadavr",13,"Christy Cloud",52,0.04539516655780536
+"Nashh Kadavr",13,"Apothne",53,0.16444493006993008
+"Sullen Decimus",14,"Aryth",1,0.6510513296227582
+"Sullen Decimus",14,"Mr Hyde113",2,0.03521361815754339
+"Sullen Decimus",14,"Innominate",3,0.6626035318018441
+"Sullen Decimus",14,"Steve Ronuken",4,0.04952510176390773
+"Sullen Decimus",14,"Xenuria",5,0.5109429883815185
+"Sullen Decimus",14,"NoobMan",6,0.023967593113536627
+"Sullen Decimus",14,"Gorski Car",7,0.03596730245231607
+"Sullen Decimus",14,"Jin'taan",8,0.05602716468590832
+"Sullen Decimus",14,"The Judge",9,0.6151235405919088
+"Sullen Decimus",14,"Fafer",10,0.0060431654676258995
+"Sullen Decimus",14,"Kyle Aparthos",11,0.6083830710797613
+"Sullen Decimus",14,"Bobmon",12,0.030288226673180263
+"Sullen Decimus",14,"Nashh Kadavr",13,0.020577164366373902
+"Sullen Decimus",14,"Sullen Decimus",14,1.0
+"Sullen Decimus",14,"Erika Mizune",15,0.04852349923748787
+"Sullen Decimus",14,"Alner Greyl",16,0.033352337514253136
+"Sullen Decimus",14,"Joffy Aulx-Gao",17,0.024332187252049723
+"Sullen Decimus",14,"Capri Sun KraftFoods",18,0.017850502045370024
+"Sullen Decimus",14,"RF Gnaeus Crassus",19,0.03155445688526974
+"Sullen Decimus",14,"Tora Bushido",20,0.49528548978522785
+"Sullen Decimus",14,"Lorelei Ierendi",21,0.026585474528442003
+"Sullen Decimus",14,"Vaari",22,0.01035708764878652
+"Sullen Decimus",14,"Falck Longbottom",23,0.03970951792336218
+"Sullen Decimus",14,"Annexe",24,0.6688199149204348
+"Sullen Decimus",14,"Utari Onzo",25,0.04721566449104291
+"Sullen Decimus",14,"Toxic Yaken",26,0.026135845616167757
+"Sullen Decimus",14,"Diana Olympos",27,0.02535593220338983
+"Sullen Decimus",14,"Nikolai Agnon",28,0.025051530045980656
+"Sullen Decimus",14,"DoToo Foo",29,0.030092934061070956
+"Sullen Decimus",14,"Niko Lorenzio",30,0.03372599644989511
+"Sullen Decimus",14,"Vic Jefferson",31,0.01948051948051948
+"Sullen Decimus",14,"Mining Forman",32,0.6514150943396226
+"Sullen Decimus",14,"commander aze",33,0.6277519379844961
+"Sullen Decimus",14,"Wyld",34,0.6793603692713485
+"Sullen Decimus",14,"Xavier Azabu",35,0.028621964946132818
+"Sullen Decimus",14,"Petrified",36,0.035761371127224786
+"Sullen Decimus",14,"Kane Carnifex",37,0.680119581464873
+"Sullen Decimus",14,"Uriel Paradisi Anteovnuecci",38,0.024870952604411075
+"Sullen Decimus",14,"Ed Bever",39,0.026846703733121525
+"Sullen Decimus",14,"Jugular Vein",40,0.029816885431858692
+"Sullen Decimus",14,"Chiimera",41,0.6491146318732526
+"Sullen Decimus",14,"Brodit",42,0.02167131833853226
+"Sullen Decimus",14,"Viceran Phaedra",43,0.047225501770956316
+"Sullen Decimus",14,"John Ellsworth",44,0.022145922746781115
+"Sullen Decimus",14,"Sogor",45,0.034482758620689655
+"Sullen Decimus",14,"InTheSunset",46,0.008674531575294934
+"Sullen Decimus",14,"Harry Saq",47,0.017960998973657202
+"Sullen Decimus",14,"Rivver",48,0.02063250465076949
+"Sullen Decimus",14,"Borat Guereen",49,0.02812600450016072
+"Sullen Decimus",14,"Terandria Starsong",50,0.03243791180942727
+"Sullen Decimus",14,"Iirithine",51,0.03065134099616858
+"Sullen Decimus",14,"Christy Cloud",52,0.004765957446808511
+"Sullen Decimus",14,"Apothne",53,0.43521701761925224
+"Erika Mizune",15,"Aryth",1,0.02377661045064971
+"Erika Mizune",15,"Mr Hyde113",2,0.09745253544820956
+"Erika Mizune",15,"Innominate",3,0.01895144556646839
+"Erika Mizune",15,"Steve Ronuken",4,0.1678516228748068
+"Erika Mizune",15,"Xenuria",5,0.03142112125162973
+"Erika Mizune",15,"NoobMan",6,0.0756876499907698
+"Erika Mizune",15,"Gorski Car",7,0.118707015130674
+"Erika Mizune",15,"Jin'taan",8,0.11877315767805681
+"Erika Mizune",15,"The Judge",9,0.058679106309845325
+"Erika Mizune",15,"Fafer",10,0.03708867819297267
+"Erika Mizune",15,"Kyle Aparthos",11,0.06369268897149938
+"Erika Mizune",15,"Bobmon",12,0.08717624763108023
+"Erika Mizune",15,"Nashh Kadavr",13,0.13548236393366037
+"Erika Mizune",15,"Sullen Decimus",14,0.04852349923748787
+"Erika Mizune",15,"Erika Mizune",15,1.0
+"Erika Mizune",15,"Alner Greyl",16,0.10810810810810811
+"Erika Mizune",15,"Joffy Aulx-Gao",17,0.2298597745394556
+"Erika Mizune",15,"Capri Sun KraftFoods",18,0.07324494675070636
+"Erika Mizune",15,"RF Gnaeus Crassus",19,0.1062536189924725
+"Erika Mizune",15,"Tora Bushido",20,0.09358216970998925
+"Erika Mizune",15,"Lorelei Ierendi",21,0.127672761078401
+"Erika Mizune",15,"Vaari",22,0.039834289356277884
+"Erika Mizune",15,"Falck Longbottom",23,0.12830558276199805
+"Erika Mizune",15,"Annexe",24,0.04199886104783599
+"Erika Mizune",15,"Utari Onzo",25,0.08849783218566692
+"Erika Mizune",15,"Toxic Yaken",26,0.12439418416801293
+"Erika Mizune",15,"Diana Olympos",27,0.18710213119291447
+"Erika Mizune",15,"Nikolai Agnon",28,0.06081754735792622
+"Erika Mizune",15,"DoToo Foo",29,0.15360696517412936
+"Erika Mizune",15,"Niko Lorenzio",30,0.09125740160222919
+"Erika Mizune",15,"Vic Jefferson",31,0.10588235294117647
+"Erika Mizune",15,"Mining Forman",32,0.033004714959279896
+"Erika Mizune",15,"commander aze",33,0.07115327601541654
+"Erika Mizune",15,"Wyld",34,0.031324582338902146
+"Erika Mizune",15,"Xavier Azabu",35,0.0938375350140056
+"Erika Mizune",15,"Petrified",36,0.08736462093862817
+"Erika Mizune",15,"Kane Carnifex",37,0.02378815080789946
+"Erika Mizune",15,"Uriel Paradisi Anteovnuecci",38,0.10070493454179255
+"Erika Mizune",15,"Ed Bever",39,0.07658569500674764
+"Erika Mizune",15,"Jugular Vein",40,0.09446022727272728
+"Erika Mizune",15,"Chiimera",41,0.04704875962360992
+"Erika Mizune",15,"Brodit",42,0.06729377713458755
+"Erika Mizune",15,"Viceran Phaedra",43,0.10458991723100075
+"Erika Mizune",15,"John Ellsworth",44,0.07670682730923695
+"Erika Mizune",15,"Sogor",45,0.143658810325477
+"Erika Mizune",15,"InTheSunset",46,0.031668696711327646
+"Erika Mizune",15,"Harry Saq",47,0.05308690523004326
+"Erika Mizune",15,"Rivver",48,0.06805877803557618
+"Erika Mizune",15,"Borat Guereen",49,0.20664349169563537
+"Erika Mizune",15,"Terandria Starsong",50,0.12753277711561384
+"Erika Mizune",15,"Iirithine",51,0.04051927616050354
+"Erika Mizune",15,"Christy Cloud",52,0.036249014972419225
+"Erika Mizune",15,"Apothne",53,0.06967865097041044
+"Alner Greyl",16,"Aryth",1,0.01764705882352941
+"Alner Greyl",16,"Mr Hyde113",2,0.06060606060606061
+"Alner Greyl",16,"Innominate",3,0.01701514059120404
+"Alner Greyl",16,"Steve Ronuken",4,0.04986229888389622
+"Alner Greyl",16,"Xenuria",5,0.02481791205826814
+"Alner Greyl",16,"NoobMan",6,0.06427330631152287
+"Alner Greyl",16,"Gorski Car",7,0.07373335164080735
+"Alner Greyl",16,"Jin'taan",8,0.04937512804753125
+"Alner Greyl",16,"The Judge",9,0.04963374589542814
+"Alner Greyl",16,"Fafer",10,0.15575161180861893
+"Alner Greyl",16,"Kyle Aparthos",11,0.0202294313556186
+"Alner Greyl",16,"Bobmon",12,0.08915337974399282
+"Alner Greyl",16,"Nashh Kadavr",13,0.06361085126286249
+"Alner Greyl",16,"Sullen Decimus",14,0.033352337514253136
+"Alner Greyl",16,"Erika Mizune",15,0.10810810810810811
+"Alner Greyl",16,"Alner Greyl",16,1.0
+"Alner Greyl",16,"Joffy Aulx-Gao",17,0.04
+"Alner Greyl",16,"Capri Sun KraftFoods",18,0.05401093892433911
+"Alner Greyl",16,"RF Gnaeus Crassus",19,0.07343941248470012
+"Alner Greyl",16,"Tora Bushido",20,0.027012850773669026
+"Alner Greyl",16,"Lorelei Ierendi",21,0.06500160102465578
+"Alner Greyl",16,"Vaari",22,0.030387705204331122
+"Alner Greyl",16,"Falck Longbottom",23,0.07342896174863388
+"Alner Greyl",16,"Annexe",24,0.037618483412322275
+"Alner Greyl",16,"Utari Onzo",25,0.03805774278215223
+"Alner Greyl",16,"Toxic Yaken",26,0.041091387245233396
+"Alner Greyl",16,"Diana Olympos",27,0.08249387421726109
+"Alner Greyl",16,"Nikolai Agnon",28,0.0438723712835388
+"Alner Greyl",16,"DoToo Foo",29,0.0391557051085959
+"Alner Greyl",16,"Niko Lorenzio",30,0.0475482912332838
+"Alner Greyl",16,"Vic Jefferson",31,0.042833607907743
+"Alner Greyl",16,"Mining Forman",32,0.015712187958883995
+"Alner Greyl",16,"commander aze",33,0.03814386544526205
+"Alner Greyl",16,"Wyld",34,0.015226084281759459
+"Alner Greyl",16,"Xavier Azabu",35,0.07701149425287357
+"Alner Greyl",16,"Petrified",36,0.058016464131713054
+"Alner Greyl",16,"Kane Carnifex",37,0.01808543810414718
+"Alner Greyl",16,"Uriel Paradisi Anteovnuecci",38,0.044366197183098595
+"Alner Greyl",16,"Ed Bever",39,0.08767951625094482
+"Alner Greyl",16,"Jugular Vein",40,0.060513213328226734
+"Alner Greyl",16,"Chiimera",41,0.024329836829836828
+"Alner Greyl",16,"Brodit",42,0.040236686390532544
+"Alner Greyl",16,"Viceran Phaedra",43,0.056809024979854954
+"Alner Greyl",16,"John Ellsworth",44,0.04964539007092199
+"Alner Greyl",16,"Sogor",45,0.06895208414491624
+"Alner Greyl",16,"InTheSunset",46,0.020613834173156206
+"Alner Greyl",16,"Harry Saq",47,0.03956043956043956
+"Alner Greyl",16,"Rivver",48,0.058340535868625754
+"Alner Greyl",16,"Borat Guereen",49,0.0688212927756654
+"Alner Greyl",16,"Terandria Starsong",50,0.07584149978696209
+"Alner Greyl",16,"Iirithine",51,0.0392156862745098
+"Alner Greyl",16,"Christy Cloud",52,0.0692201199815413
+"Alner Greyl",16,"Apothne",53,0.04278702518139138
+"Joffy Aulx-Gao",17,"Aryth",1,0.017155877228253586
+"Joffy Aulx-Gao",17,"Mr Hyde113",2,0.1551146931184129
+"Joffy Aulx-Gao",17,"Innominate",3,0.01656342580123889
+"Joffy Aulx-Gao",17,"Steve Ronuken",4,0.24301317057500804
+"Joffy Aulx-Gao",17,"Xenuria",5,0.024556962025316455
+"Joffy Aulx-Gao",17,"NoobMan",6,0.12210604929051531
+"Joffy Aulx-Gao",17,"Gorski Car",7,0.18952939493634674
+"Joffy Aulx-Gao",17,"Jin'taan",8,0.1711486345632687
+"Joffy Aulx-Gao",17,"The Judge",9,0.05183327361758032
+"Joffy Aulx-Gao",17,"Fafer",10,0.03721424774056353
+"Joffy Aulx-Gao",17,"Kyle Aparthos",11,0.07676246622451487
+"Joffy Aulx-Gao",17,"Bobmon",12,0.10340557275541795
+"Joffy Aulx-Gao",17,"Nashh Kadavr",13,0.2544143247948272
+"Joffy Aulx-Gao",17,"Sullen Decimus",14,0.024332187252049723
+"Joffy Aulx-Gao",17,"Erika Mizune",15,0.2298597745394556
+"Joffy Aulx-Gao",17,"Alner Greyl",16,0.04
+"Joffy Aulx-Gao",17,"Joffy Aulx-Gao",17,1.0
+"Joffy Aulx-Gao",17,"Capri Sun KraftFoods",18,0.13271400132714
+"Joffy Aulx-Gao",17,"RF Gnaeus Crassus",19,0.1162531363256203
+"Joffy Aulx-Gao",17,"Tora Bushido",20,0.12222072496968063
+"Joffy Aulx-Gao",17,"Lorelei Ierendi",21,0.11266375545851529
+"Joffy Aulx-Gao",17,"Vaari",22,0.029886431560071727
+"Joffy Aulx-Gao",17,"Falck Longbottom",23,0.07950163156333433
+"Joffy Aulx-Gao",17,"Annexe",24,0.01943198804185351
+"Joffy Aulx-Gao",17,"Utari Onzo",25,0.13113087674714105
+"Joffy Aulx-Gao",17,"Toxic Yaken",26,0.13090460018524236
+"Joffy Aulx-Gao",17,"Diana Olympos",27,0.2568858909499719
+"Joffy Aulx-Gao",17,"Nikolai Agnon",28,0.08765710602642604
+"Joffy Aulx-Gao",17,"DoToo Foo",29,0.23469711385981604
+"Joffy Aulx-Gao",17,"Niko Lorenzio",30,0.10791847644503842
+"Joffy Aulx-Gao",17,"Vic Jefferson",31,0.11242783348526283
+"Joffy Aulx-Gao",17,"Mining Forman",32,0.014367816091954023
+"Joffy Aulx-Gao",17,"commander aze",33,0.05526278307933343
+"Joffy Aulx-Gao",17,"Wyld",34,0.025726261020378668
+"Joffy Aulx-Gao",17,"Xavier Azabu",35,0.07091968911917099
+"Joffy Aulx-Gao",17,"Petrified",36,0.08341810783316378
+"Joffy Aulx-Gao",17,"Kane Carnifex",37,0.010644418872266973
+"Joffy Aulx-Gao",17,"Uriel Paradisi Anteovnuecci",38,0.13769306605323695
+"Joffy Aulx-Gao",17,"Ed Bever",39,0.048477315102548164
+"Joffy Aulx-Gao",17,"Jugular Vein",40,0.048827497590748475
+"Joffy Aulx-Gao",17,"Chiimera",41,0.048620785734187794
+"Joffy Aulx-Gao",17,"Brodit",42,0.05523745368811048
+"Joffy Aulx-Gao",17,"Viceran Phaedra",43,0.0707174733951253
+"Joffy Aulx-Gao",17,"John Ellsworth",44,0.024686940966010734
+"Joffy Aulx-Gao",17,"Sogor",45,0.10054347826086957
+"Joffy Aulx-Gao",17,"InTheSunset",46,0.028312570781426953
+"Joffy Aulx-Gao",17,"Harry Saq",47,0.038852578068264344
+"Joffy Aulx-Gao",17,"Rivver",48,0.021859819569743234
+"Joffy Aulx-Gao",17,"Borat Guereen",49,0.15347052668294384
+"Joffy Aulx-Gao",17,"Terandria Starsong",50,0.03850120316259883
+"Joffy Aulx-Gao",17,"Iirithine",51,0.017998560115190784
+"Joffy Aulx-Gao",17,"Christy Cloud",52,0.028895391367959034
+"Joffy Aulx-Gao",17,"Apothne",53,0.12759415833973867
+"Capri Sun KraftFoods",18,"Aryth",1,0.026902970801989036
+"Capri Sun KraftFoods",18,"Mr Hyde113",2,0.2704247304844785
+"Capri Sun KraftFoods",18,"Innominate",3,0.025857654889912953
+"Capri Sun KraftFoods",18,"Steve Ronuken",4,0.19661610268378063
+"Capri Sun KraftFoods",18,"Xenuria",5,0.055103550295857985
+"Capri Sun KraftFoods",18,"NoobMan",6,0.2582588418188885
+"Capri Sun KraftFoods",18,"Gorski Car",7,0.28096280087527353
+"Capri Sun KraftFoods",18,"Jin'taan",8,0.1410617145000938
+"Capri Sun KraftFoods",18,"The Judge",9,0.023625524398321926
+"Capri Sun KraftFoods",18,"Fafer",10,0.09038701622971286
+"Capri Sun KraftFoods",18,"Kyle Aparthos",11,0.07523876077335197
+"Capri Sun KraftFoods",18,"Bobmon",12,0.17583974099554836
+"Capri Sun KraftFoods",18,"Nashh Kadavr",13,0.18142826506540854
+"Capri Sun KraftFoods",18,"Sullen Decimus",14,0.017850502045370024
+"Capri Sun KraftFoods",18,"Erika Mizune",15,0.07324494675070636
+"Capri Sun KraftFoods",18,"Alner Greyl",16,0.05401093892433911
+"Capri Sun KraftFoods",18,"Joffy Aulx-Gao",17,0.13271400132714
+"Capri Sun KraftFoods",18,"Capri Sun KraftFoods",18,1.0
+"Capri Sun KraftFoods",18,"RF Gnaeus Crassus",19,0.07479557479557479
+"Capri Sun KraftFoods",18,"Tora Bushido",20,0.06517262265293762
+"Capri Sun KraftFoods",18,"Lorelei Ierendi",21,0.04382761139517896
+"Capri Sun KraftFoods",18,"Vaari",22,0.027048319327731093
+"Capri Sun KraftFoods",18,"Falck Longbottom",23,0.03662541045718616
+"Capri Sun KraftFoods",18,"Annexe",24,0.020494428077366466
+"Capri Sun KraftFoods",18,"Utari Onzo",25,0.059482758620689656
+"Capri Sun KraftFoods",18,"Toxic Yaken",26,0.04984740590030519
+"Capri Sun KraftFoods",18,"Diana Olympos",27,0.10151717983043285
+"Capri Sun KraftFoods",18,"Nikolai Agnon",28,0.0738255033557047
+"Capri Sun KraftFoods",18,"DoToo Foo",29,0.07049864898059445
+"Capri Sun KraftFoods",18,"Niko Lorenzio",30,0.053790412486064657
+"Capri Sun KraftFoods",18,"Vic Jefferson",31,0.14420410427066002
+"Capri Sun KraftFoods",18,"Mining Forman",32,0.025380710659898477
+"Capri Sun KraftFoods",18,"commander aze",33,0.03103312819169831
+"Capri Sun KraftFoods",18,"Wyld",34,0.03193231441048035
+"Capri Sun KraftFoods",18,"Xavier Azabu",35,0.05806451612903226
+"Capri Sun KraftFoods",18,"Petrified",36,0.04511707595659623
+"Capri Sun KraftFoods",18,"Kane Carnifex",37,0.013804303694681283
+"Capri Sun KraftFoods",18,"Uriel Paradisi Anteovnuecci",38,0.04109225874867444
+"Capri Sun KraftFoods",18,"Ed Bever",39,0.07716049382716049
+"Capri Sun KraftFoods",18,"Jugular Vein",40,0.12045659357164314
+"Capri Sun KraftFoods",18,"Chiimera",41,0.04936974789915966
+"Capri Sun KraftFoods",18,"Brodit",42,0.0321285140562249
+"Capri Sun KraftFoods",18,"Viceran Phaedra",43,0.030181086519114688
+"Capri Sun KraftFoods",18,"John Ellsworth",44,0.025569932224276032
+"Capri Sun KraftFoods",18,"Sogor",45,0.0868289821061895
+"Capri Sun KraftFoods",18,"InTheSunset",46,0.026722472633612365
+"Capri Sun KraftFoods",18,"Harry Saq",47,0.041979949874686714
+"Capri Sun KraftFoods",18,"Rivver",48,0.029589371980676328
+"Capri Sun KraftFoods",18,"Borat Guereen",49,0.053631284916201116
+"Capri Sun KraftFoods",18,"Terandria Starsong",50,0.01929824561403509
+"Capri Sun KraftFoods",18,"Iirithine",51,0.016985793699814702
+"Capri Sun KraftFoods",18,"Christy Cloud",52,0.05741935483870968
+"Capri Sun KraftFoods",18,"Apothne",53,0.14986609534011783
+"RF Gnaeus Crassus",19,"Aryth",1,0.018200499045941582
+"RF Gnaeus Crassus",19,"Mr Hyde113",2,0.06857424765663542
+"RF Gnaeus Crassus",19,"Innominate",3,0.01815766164747564
+"RF Gnaeus Crassus",19,"Steve Ronuken",4,0.13628346961680296
+"RF Gnaeus Crassus",19,"Xenuria",5,0.019871179936960394
+"RF Gnaeus Crassus",19,"NoobMan",6,0.06542056074766354
+"RF Gnaeus Crassus",19,"Gorski Car",7,0.09096085409252669
+"RF Gnaeus Crassus",19,"Jin'taan",8,0.08831908831908832
+"RF Gnaeus Crassus",19,"The Judge",9,0.0228270412642669
+"RF Gnaeus Crassus",19,"Fafer",10,0.03867050175775008
+"RF Gnaeus Crassus",19,"Kyle Aparthos",11,0.040251249839764136
+"RF Gnaeus Crassus",19,"Bobmon",12,0.09086683709040204
+"RF Gnaeus Crassus",19,"Nashh Kadavr",13,0.08070866141732283
+"RF Gnaeus Crassus",19,"Sullen Decimus",14,0.03155445688526974
+"RF Gnaeus Crassus",19,"Erika Mizune",15,0.1062536189924725
+"RF Gnaeus Crassus",19,"Alner Greyl",16,0.07343941248470012
+"RF Gnaeus Crassus",19,"Joffy Aulx-Gao",17,0.1162531363256203
+"RF Gnaeus Crassus",19,"Capri Sun KraftFoods",18,0.07479557479557479
+"RF Gnaeus Crassus",19,"RF Gnaeus Crassus",19,1.0
+"RF Gnaeus Crassus",19,"Tora Bushido",20,0.05078713210130048
+"RF Gnaeus Crassus",19,"Lorelei Ierendi",21,0.15693430656934307
+"RF Gnaeus Crassus",19,"Vaari",22,0.02834008097165992
+"RF Gnaeus Crassus",19,"Falck Longbottom",23,0.14400612792033704
+"RF Gnaeus Crassus",19,"Annexe",24,0.024222488038277513
+"RF Gnaeus Crassus",19,"Utari Onzo",25,0.07134799774393683
+"RF Gnaeus Crassus",19,"Toxic Yaken",26,0.09610484164543139
+"RF Gnaeus Crassus",19,"Diana Olympos",27,0.10949753122277084
+"RF Gnaeus Crassus",19,"Nikolai Agnon",28,0.06408753419304415
+"RF Gnaeus Crassus",19,"DoToo Foo",29,0.14200140944326992
+"RF Gnaeus Crassus",19,"Niko Lorenzio",30,0.08868001634654679
+"RF Gnaeus Crassus",19,"Vic Jefferson",31,0.06929637526652452
+"RF Gnaeus Crassus",19,"Mining Forman",32,0.03300229182582124
+"RF Gnaeus Crassus",19,"commander aze",33,0.057433489827856024
+"RF Gnaeus Crassus",19,"Wyld",34,0.017363851617995266
+"RF Gnaeus Crassus",19,"Xavier Azabu",35,0.07751623376623376
+"RF Gnaeus Crassus",19,"Petrified",36,0.05826050769870995
+"RF Gnaeus Crassus",19,"Kane Carnifex",37,0.02098350152170431
+"RF Gnaeus Crassus",19,"Uriel Paradisi Anteovnuecci",38,0.08830364058869093
+"RF Gnaeus Crassus",19,"Ed Bever",39,0.07546424338206242
+"RF Gnaeus Crassus",19,"Jugular Vein",40,0.06349206349206349
+"RF Gnaeus Crassus",19,"Chiimera",41,0.02749962636377223
+"RF Gnaeus Crassus",19,"Brodit",42,0.05529561888558061
+"RF Gnaeus Crassus",19,"Viceran Phaedra",43,0.05834405834405834
+"RF Gnaeus Crassus",19,"John Ellsworth",44,0.050332383665717
+"RF Gnaeus Crassus",19,"Sogor",45,0.06283367556468172
+"RF Gnaeus Crassus",19,"InTheSunset",46,0.022704837117472853
+"RF Gnaeus Crassus",19,"Harry Saq",47,0.05090390104662226
+"RF Gnaeus Crassus",19,"Rivver",48,0.047989031078610606
+"RF Gnaeus Crassus",19,"Borat Guereen",49,0.0498220640569395
+"RF Gnaeus Crassus",19,"Terandria Starsong",50,0.06424079065588499
+"RF Gnaeus Crassus",19,"Iirithine",51,0.03866348448687351
+"RF Gnaeus Crassus",19,"Christy Cloud",52,0.034961685823754786
+"RF Gnaeus Crassus",19,"Apothne",53,0.06488760934558742
+"Tora Bushido",20,"Aryth",1,0.5099222311611692
+"Tora Bushido",20,"Mr Hyde113",2,0.10875875021341984
+"Tora Bushido",20,"Innominate",3,0.4989313384985306
+"Tora Bushido",20,"Steve Ronuken",4,0.15460892441566326
+"Tora Bushido",20,"Xenuria",5,0.47075
+"Tora Bushido",20,"NoobMan",6,0.08749859597888353
+"Tora Bushido",20,"Gorski Car",7,0.12860101675767274
+"Tora Bushido",20,"Jin'taan",8,0.0684301322599195
+"Tora Bushido",20,"The Judge",9,0.47175374454534735
+"Tora Bushido",20,"Fafer",10,0.024482618693358583
+"Tora Bushido",20,"Kyle Aparthos",11,0.5052032913843175
+"Tora Bushido",20,"Bobmon",12,0.0850679821922753
+"Tora Bushido",20,"Nashh Kadavr",13,0.11429301968805931
+"Tora Bushido",20,"Sullen Decimus",14,0.49528548978522785
+"Tora Bushido",20,"Erika Mizune",15,0.09358216970998925
+"Tora Bushido",20,"Alner Greyl",16,0.027012850773669026
+"Tora Bushido",20,"Joffy Aulx-Gao",17,0.12222072496968063
+"Tora Bushido",20,"Capri Sun KraftFoods",18,0.06517262265293762
+"Tora Bushido",20,"RF Gnaeus Crassus",19,0.05078713210130048
+"Tora Bushido",20,"Tora Bushido",20,1.0
+"Tora Bushido",20,"Lorelei Ierendi",21,0.048111888111888115
+"Tora Bushido",20,"Vaari",22,0.018894932722588034
+"Tora Bushido",20,"Falck Longbottom",23,0.03982363817380174
+"Tora Bushido",20,"Annexe",24,0.5112253178252637
+"Tora Bushido",20,"Utari Onzo",25,0.04100986799948737
+"Tora Bushido",20,"Toxic Yaken",26,0.06489547038327526
+"Tora Bushido",20,"Diana Olympos",27,0.08514323784143904
+"Tora Bushido",20,"Nikolai Agnon",28,0.02323217656454189
+"Tora Bushido",20,"DoToo Foo",29,0.06850282485875706
+"Tora Bushido",20,"Niko Lorenzio",30,0.025836758661186142
+"Tora Bushido",20,"Vic Jefferson",31,0.05147691425293949
+"Tora Bushido",20,"Mining Forman",32,0.5087790935075541
+"Tora Bushido",20,"commander aze",33,0.5039359391965255
+"Tora Bushido",20,"Wyld",34,0.5329537366548043
+"Tora Bushido",20,"Xavier Azabu",35,0.028137890394814378
+"Tora Bushido",20,"Petrified",36,0.02172295789317066
+"Tora Bushido",20,"Kane Carnifex",37,0.5274129069103369
+"Tora Bushido",20,"Uriel Paradisi Anteovnuecci",38,0.048655005144789064
+"Tora Bushido",20,"Ed Bever",39,0.030116959064327486
+"Tora Bushido",20,"Jugular Vein",40,0.021348645465253238
+"Tora Bushido",20,"Chiimera",41,0.5376905121515859
+"Tora Bushido",20,"Brodit",42,0.022232236743277754
+"Tora Bushido",20,"Viceran Phaedra",43,0.02304911117806568
+"Tora Bushido",20,"John Ellsworth",44,0.023168440826549782
+"Tora Bushido",20,"Sogor",45,0.033338316639258486
+"Tora Bushido",20,"InTheSunset",46,0.008673710771171739
+"Tora Bushido",20,"Harry Saq",47,0.013025275236470771
+"Tora Bushido",20,"Rivver",48,0.01441054729418979
+"Tora Bushido",20,"Borat Guereen",49,0.06484589563625268
+"Tora Bushido",20,"Terandria Starsong",50,0.018101612412534225
+"Tora Bushido",20,"Iirithine",51,0.028155646947168617
+"Tora Bushido",20,"Christy Cloud",52,0.01328125
+"Tora Bushido",20,"Apothne",53,0.48974139773455866
+"Lorelei Ierendi",21,"Aryth",1,0.013351335133513352
+"Lorelei Ierendi",21,"Mr Hyde113",2,0.04599827352324578
+"Lorelei Ierendi",21,"Innominate",3,0.014503701465478169
+"Lorelei Ierendi",21,"Steve Ronuken",4,0.11677179362768883
+"Lorelei Ierendi",21,"Xenuria",5,0.03286384976525822
+"Lorelei Ierendi",21,"NoobMan",6,0.05075111652456354
+"Lorelei Ierendi",21,"Gorski Car",7,0.06931542089466915
+"Lorelei Ierendi",21,"Jin'taan",8,0.0624028425494115
+"Lorelei Ierendi",21,"The Judge",9,0.021655561250640696
+"Lorelei Ierendi",21,"Fafer",10,0.04424778761061947
+"Lorelei Ierendi",21,"Kyle Aparthos",11,0.03025974025974026
+"Lorelei Ierendi",21,"Bobmon",12,0.06843476201752309
+"Lorelei Ierendi",21,"Nashh Kadavr",13,0.068256787617356
+"Lorelei Ierendi",21,"Sullen Decimus",14,0.026585474528442003
+"Lorelei Ierendi",21,"Erika Mizune",15,0.127672761078401
+"Lorelei Ierendi",21,"Alner Greyl",16,0.06500160102465578
+"Lorelei Ierendi",21,"Joffy Aulx-Gao",17,0.11266375545851529
+"Lorelei Ierendi",21,"Capri Sun KraftFoods",18,0.04382761139517896
+"Lorelei Ierendi",21,"RF Gnaeus Crassus",19,0.15693430656934307
+"Lorelei Ierendi",21,"Tora Bushido",20,0.048111888111888115
+"Lorelei Ierendi",21,"Lorelei Ierendi",21,1.0
+"Lorelei Ierendi",21,"Vaari",22,0.035275465715418154
+"Lorelei Ierendi",21,"Falck Longbottom",23,0.15957007027697395
+"Lorelei Ierendi",21,"Annexe",24,0.036369288156667706
+"Lorelei Ierendi",21,"Utari Onzo",25,0.05884074941451991
+"Lorelei Ierendi",21,"Toxic Yaken",26,0.13024370755093886
+"Lorelei Ierendi",21,"Diana Olympos",27,0.15017388555169142
+"Lorelei Ierendi",21,"Nikolai Agnon",28,0.06719865602687947
+"Lorelei Ierendi",21,"DoToo Foo",29,0.1375976199330606
+"Lorelei Ierendi",21,"Niko Lorenzio",30,0.10952168082253018
+"Lorelei Ierendi",21,"Vic Jefferson",31,0.0603900975243811
+"Lorelei Ierendi",21,"Mining Forman",32,0.03802461344272641
+"Lorelei Ierendi",21,"commander aze",33,0.0535170645729851
+"Lorelei Ierendi",21,"Wyld",34,0.014251012145748988
+"Lorelei Ierendi",21,"Xavier Azabu",35,0.08132925229558373
+"Lorelei Ierendi",21,"Petrified",36,0.06687754179846363
+"Lorelei Ierendi",21,"Kane Carnifex",37,0.02499586161231584
+"Lorelei Ierendi",21,"Uriel Paradisi Anteovnuecci",38,0.10466582597730138
+"Lorelei Ierendi",21,"Ed Bever",39,0.0543794105437941
+"Lorelei Ierendi",21,"Jugular Vein",40,0.055121527777777776
+"Lorelei Ierendi",21,"Chiimera",41,0.026533742331288343
+"Lorelei Ierendi",21,"Brodit",42,0.08494572911750826
+"Lorelei Ierendi",21,"Viceran Phaedra",43,0.07833883907503539
+"Lorelei Ierendi",21,"John Ellsworth",44,0.07293868921775898
+"Lorelei Ierendi",21,"Sogor",45,0.0501964207769533
+"Lorelei Ierendi",21,"InTheSunset",46,0.03618421052631579
+"Lorelei Ierendi",21,"Harry Saq",47,0.07078711040676175
+"Lorelei Ierendi",21,"Rivver",48,0.11989389920424404
+"Lorelei Ierendi",21,"Borat Guereen",49,0.06917423259835712
+"Lorelei Ierendi",21,"Terandria Starsong",50,0.11809815950920245
+"Lorelei Ierendi",21,"Iirithine",51,0.07783783783783783
+"Lorelei Ierendi",21,"Christy Cloud",52,0.06397849462365592
+"Lorelei Ierendi",21,"Apothne",53,0.04242625124295658
+"Vaari",22,"Aryth",1,0.013022074003493728
+"Vaari",22,"Mr Hyde113",2,0.03406046689628779
+"Vaari",22,"Innominate",3,0.009073543457497613
+"Vaari",22,"Steve Ronuken",4,0.04397185801087304
+"Vaari",22,"Xenuria",5,0.018041999408459037
+"Vaari",22,"NoobMan",6,0.028277634961439587
+"Vaari",22,"Gorski Car",7,0.04269992663242847
+"Vaari",22,"Jin'taan",8,0.12880921895006403
+"Vaari",22,"The Judge",9,0.015913345814388875
+"Vaari",22,"Fafer",10,0.023185100722158875
+"Vaari",22,"Kyle Aparthos",11,0.01586234708966259
+"Vaari",22,"Bobmon",12,0.04076497232008052
+"Vaari",22,"Nashh Kadavr",13,0.022672712723392906
+"Vaari",22,"Sullen Decimus",14,0.01035708764878652
+"Vaari",22,"Erika Mizune",15,0.039834289356277884
+"Vaari",22,"Alner Greyl",16,0.030387705204331122
+"Vaari",22,"Joffy Aulx-Gao",17,0.029886431560071727
+"Vaari",22,"Capri Sun KraftFoods",18,0.027048319327731093
+"Vaari",22,"RF Gnaeus Crassus",19,0.02834008097165992
+"Vaari",22,"Tora Bushido",20,0.018894932722588034
+"Vaari",22,"Lorelei Ierendi",21,0.035275465715418154
+"Vaari",22,"Vaari",22,1.0
+"Vaari",22,"Falck Longbottom",23,0.02923728813559322
+"Vaari",22,"Annexe",24,0.014511447920025799
+"Vaari",22,"Utari Onzo",25,0.17215189873417722
+"Vaari",22,"Toxic Yaken",26,0.02980688497061293
+"Vaari",22,"Diana Olympos",27,0.03852276345113021
+"Vaari",22,"Nikolai Agnon",28,0.032919847328244274
+"Vaari",22,"DoToo Foo",29,0.029942418426103647
+"Vaari",22,"Niko Lorenzio",30,0.03488943488943489
+"Vaari",22,"Vic Jefferson",31,0.04342273307790549
+"Vaari",22,"Mining Forman",32,0.016218872870249017
+"Vaari",22,"commander aze",33,0.01572996886776995
+"Vaari",22,"Wyld",34,0.008911739502999142
+"Vaari",22,"Xavier Azabu",35,0.053768844221105526
+"Vaari",22,"Petrified",36,0.03709508881922675
+"Vaari",22,"Kane Carnifex",37,0.015185896316983766
+"Vaari",22,"Uriel Paradisi Anteovnuecci",38,0.05678085405912717
+"Vaari",22,"Ed Bever",39,0.029495718363463368
+"Vaari",22,"Jugular Vein",40,0.036308623298033284
+"Vaari",22,"Chiimera",41,0.011043533930857875
+"Vaari",22,"Brodit",42,0.03276047261009667
+"Vaari",22,"Viceran Phaedra",43,0.031334413830361965
+"Vaari",22,"John Ellsworth",44,0.039597737272155875
+"Vaari",22,"Sogor",45,0.03571428571428571
+"Vaari",22,"InTheSunset",46,0.027834351663272233
+"Vaari",22,"Harry Saq",47,0.032520325203252036
+"Vaari",22,"Rivver",48,0.046441495778045835
+"Vaari",22,"Borat Guereen",49,0.04276479363500746
+"Vaari",22,"Terandria Starsong",50,0.03190883190883191
+"Vaari",22,"Iirithine",51,0.03784477228992944
+"Vaari",22,"Christy Cloud",52,0.026905829596412557
+"Vaari",22,"Apothne",53,0.019010123734533185
+"Falck Longbottom",23,"Aryth",1,0.014197530864197531
+"Falck Longbottom",23,"Mr Hyde113",2,0.04719242902208202
+"Falck Longbottom",23,"Innominate",3,0.01098901098901099
+"Falck Longbottom",23,"Steve Ronuken",4,0.09425362200879049
+"Falck Longbottom",23,"Xenuria",5,0.01666427237465881
+"Falck Longbottom",23,"NoobMan",6,0.055156382079459006
+"Falck Longbottom",23,"Gorski Car",7,0.07766130222944043
+"Falck Longbottom",23,"Jin'taan",8,0.052378774016468434
+"Falck Longbottom",23,"The Judge",9,0.01856694560669456
+"Falck Longbottom",23,"Fafer",10,0.03553481694185212
+"Falck Longbottom",23,"Kyle Aparthos",11,0.03402268178785857
+"Falck Longbottom",23,"Bobmon",12,0.06678166584524396
+"Falck Longbottom",23,"Nashh Kadavr",13,0.06732043466737345
+"Falck Longbottom",23,"Sullen Decimus",14,0.03970951792336218
+"Falck Longbottom",23,"Erika Mizune",15,0.12830558276199805
+"Falck Longbottom",23,"Alner Greyl",16,0.07342896174863388
+"Falck Longbottom",23,"Joffy Aulx-Gao",17,0.07950163156333433
+"Falck Longbottom",23,"Capri Sun KraftFoods",18,0.03662541045718616
+"Falck Longbottom",23,"RF Gnaeus Crassus",19,0.14400612792033704
+"Falck Longbottom",23,"Tora Bushido",20,0.03982363817380174
+"Falck Longbottom",23,"Lorelei Ierendi",21,0.15957007027697395
+"Falck Longbottom",23,"Vaari",22,0.02923728813559322
+"Falck Longbottom",23,"Falck Longbottom",23,1.0
+"Falck Longbottom",23,"Annexe",24,0.029691965703397903
+"Falck Longbottom",23,"Utari Onzo",25,0.041868932038834954
+"Falck Longbottom",23,"Toxic Yaken",26,0.08665297741273101
+"Falck Longbottom",23,"Diana Olympos",27,0.09717370593839314
+"Falck Longbottom",23,"Nikolai Agnon",28,0.07279344858962693
+"Falck Longbottom",23,"DoToo Foo",29,0.11085361143298571
+"Falck Longbottom",23,"Niko Lorenzio",30,0.07129543336439888
+"Falck Longbottom",23,"Vic Jefferson",31,0.07261663286004057
+"Falck Longbottom",23,"Mining Forman",32,0.02205177372962608
+"Falck Longbottom",23,"commander aze",33,0.05583085563263958
+"Falck Longbottom",23,"Wyld",34,0.014516936425830134
+"Falck Longbottom",23,"Xavier Azabu",35,0.0847939365229749
+"Falck Longbottom",23,"Petrified",36,0.0787518573551263
+"Falck Longbottom",23,"Kane Carnifex",37,0.024552429667519183
+"Falck Longbottom",23,"Uriel Paradisi Anteovnuecci",38,0.08281665190434012
+"Falck Longbottom",23,"Ed Bever",39,0.08818097876269622
+"Falck Longbottom",23,"Jugular Vein",40,0.09020368574199807
+"Falck Longbottom",23,"Chiimera",41,0.014650872817955112
+"Falck Longbottom",23,"Brodit",42,0.07247845919918905
+"Falck Longbottom",23,"Viceran Phaedra",43,0.1127580730545262
+"Falck Longbottom",23,"John Ellsworth",44,0.09419431279620853
+"Falck Longbottom",23,"Sogor",45,0.08704156479217603
+"Falck Longbottom",23,"InTheSunset",46,0.04021937842778794
+"Falck Longbottom",23,"Harry Saq",47,0.04121964991530209
+"Falck Longbottom",23,"Rivver",48,0.06225895316804408
+"Falck Longbottom",23,"Borat Guereen",49,0.08685334598955861
+"Falck Longbottom",23,"Terandria Starsong",50,0.10413223140495868
+"Falck Longbottom",23,"Iirithine",51,0.05107370864770749
+"Falck Longbottom",23,"Christy Cloud",52,0.03815028901734104
+"Falck Longbottom",23,"Apothne",53,0.04648795385137428
+"Annexe",24,"Aryth",1,0.6787323037323038
+"Annexe",24,"Mr Hyde113",2,0.03797900486472647
+"Annexe",24,"Innominate",3,0.6828557552209811
+"Annexe",24,"Steve Ronuken",4,0.04388560157790927
+"Annexe",24,"Xenuria",5,0.544107268877911
+"Annexe",24,"NoobMan",6,0.027616616384311905
+"Annexe",24,"Gorski Car",7,0.03189424054728668
+"Annexe",24,"Jin'taan",8,0.0527363184079602
+"Annexe",24,"The Judge",9,0.5891176871675985
+"Annexe",24,"Fafer",10,0.010330887857463692
+"Annexe",24,"Kyle Aparthos",11,0.5735772357723578
+"Annexe",24,"Bobmon",12,0.036306135357368756
+"Annexe",24,"Nashh Kadavr",13,0.019643318686999225
+"Annexe",24,"Sullen Decimus",14,0.6688199149204348
+"Annexe",24,"Erika Mizune",15,0.04199886104783599
+"Annexe",24,"Alner Greyl",16,0.037618483412322275
+"Annexe",24,"Joffy Aulx-Gao",17,0.01943198804185351
+"Annexe",24,"Capri Sun KraftFoods",18,0.020494428077366466
+"Annexe",24,"RF Gnaeus Crassus",19,0.024222488038277513
+"Annexe",24,"Tora Bushido",20,0.5112253178252637
+"Annexe",24,"Lorelei Ierendi",21,0.036369288156667706
+"Annexe",24,"Vaari",22,0.014511447920025799
+"Annexe",24,"Falck Longbottom",23,0.029691965703397903
+"Annexe",24,"Annexe",24,1.0
+"Annexe",24,"Utari Onzo",25,0.048570196867366
+"Annexe",24,"Toxic Yaken",26,0.02310594152782144
+"Annexe",24,"Diana Olympos",27,0.04111537914354816
+"Annexe",24,"Nikolai Agnon",28,0.015341929165986616
+"Annexe",24,"DoToo Foo",29,0.02276521475185916
+"Annexe",24,"Niko Lorenzio",30,0.021721107610678164
+"Annexe",24,"Vic Jefferson",31,0.022148916116870875
+"Annexe",24,"Mining Forman",32,0.6851182654402103
+"Annexe",24,"commander aze",33,0.628553279339368
+"Annexe",24,"Wyld",34,0.7011120615911035
+"Annexe",24,"Xavier Azabu",35,0.03481331987891019
+"Annexe",24,"Petrified",36,0.023204607046070462
+"Annexe",24,"Kane Carnifex",37,0.7252708843061867
+"Annexe",24,"Uriel Paradisi Anteovnuecci",38,0.025691056910569107
+"Annexe",24,"Ed Bever",39,0.01800327332242226
+"Annexe",24,"Jugular Vein",40,0.02020033388981636
+"Annexe",24,"Chiimera",41,0.7021660649819494
+"Annexe",24,"Brodit",42,0.020655513827244794
+"Annexe",24,"Viceran Phaedra",43,0.02986878453038674
+"Annexe",24,"John Ellsworth",44,0.02293084915800788
+"Annexe",24,"Sogor",45,0.019601273245099683
+"Annexe",24,"InTheSunset",46,0.009240804493567675
+"Annexe",24,"Harry Saq",47,0.02129563350035791
+"Annexe",24,"Rivver",48,0.03762766529295825
+"Annexe",24,"Borat Guereen",49,0.019552609776304887
+"Annexe",24,"Terandria Starsong",50,0.03128845139743364
+"Annexe",24,"Iirithine",51,0.04033736707004034
+"Annexe",24,"Christy Cloud",52,0.01835522764081339
+"Annexe",24,"Apothne",53,0.4431117957746479
+"Utari Onzo",25,"Aryth",1,0.038829487900956666
+"Utari Onzo",25,"Mr Hyde113",2,0.08206650831353919
+"Utari Onzo",25,"Innominate",3,0.03934333427681857
+"Utari Onzo",25,"Steve Ronuken",4,0.11350872007094295
+"Utari Onzo",25,"Xenuria",5,0.017016887972154185
+"Utari Onzo",25,"NoobMan",6,0.061049168342167795
+"Utari Onzo",25,"Gorski Car",7,0.07773053414828594
+"Utari Onzo",25,"Jin'taan",8,0.3897304236200257
+"Utari Onzo",25,"The Judge",9,0.05133219261794182
+"Utari Onzo",25,"Fafer",10,0.02466740576496674
+"Utari Onzo",25,"Kyle Aparthos",11,0.07279789500062649
+"Utari Onzo",25,"Bobmon",12,0.06438923395445134
+"Utari Onzo",25,"Nashh Kadavr",13,0.09281842818428185
+"Utari Onzo",25,"Sullen Decimus",14,0.04721566449104291
+"Utari Onzo",25,"Erika Mizune",15,0.08849783218566692
+"Utari Onzo",25,"Alner Greyl",16,0.03805774278215223
+"Utari Onzo",25,"Joffy Aulx-Gao",17,0.13113087674714105
+"Utari Onzo",25,"Capri Sun KraftFoods",18,0.059482758620689656
+"Utari Onzo",25,"RF Gnaeus Crassus",19,0.07134799774393683
+"Utari Onzo",25,"Tora Bushido",20,0.04100986799948737
+"Utari Onzo",25,"Lorelei Ierendi",21,0.05884074941451991
+"Utari Onzo",25,"Vaari",22,0.17215189873417722
+"Utari Onzo",25,"Falck Longbottom",23,0.041868932038834954
+"Utari Onzo",25,"Annexe",24,0.048570196867366
+"Utari Onzo",25,"Utari Onzo",25,1.0
+"Utari Onzo",25,"Toxic Yaken",26,0.0709197894084856
+"Utari Onzo",25,"Diana Olympos",27,0.13635153129161118
+"Utari Onzo",25,"Nikolai Agnon",28,0.08636052090472926
+"Utari Onzo",25,"DoToo Foo",29,0.07994143484626647
+"Utari Onzo",25,"Niko Lorenzio",30,0.07238883143743537
+"Utari Onzo",25,"Vic Jefferson",31,0.06371191135734072
+"Utari Onzo",25,"Mining Forman",32,0.04478909986954631
+"Utari Onzo",25,"commander aze",33,0.06410635155096012
+"Utari Onzo",25,"Wyld",34,0.03936057909817524
+"Utari Onzo",25,"Xavier Azabu",35,0.05725971370143149
+"Utari Onzo",25,"Petrified",36,0.07015032211882606
+"Utari Onzo",25,"Kane Carnifex",37,0.04954608401292507
+"Utari Onzo",25,"Uriel Paradisi Anteovnuecci",38,0.12582094711372277
+"Utari Onzo",25,"Ed Bever",39,0.03765553372626064
+"Utari Onzo",25,"Jugular Vein",40,0.03308575286968265
+"Utari Onzo",25,"Chiimera",41,0.04674767691208006
+"Utari Onzo",25,"Brodit",42,0.04758497316636851
+"Utari Onzo",25,"Viceran Phaedra",43,0.04971181556195965
+"Utari Onzo",25,"John Ellsworth",44,0.023873700423565652
+"Utari Onzo",25,"Sogor",45,0.07624113475177305
+"Utari Onzo",25,"InTheSunset",46,0.02025111381125962
+"Utari Onzo",25,"Harry Saq",47,0.0306558013193636
+"Utari Onzo",25,"Rivver",48,0.03474320241691843
+"Utari Onzo",25,"Borat Guereen",49,0.05834186284544524
+"Utari Onzo",25,"Terandria Starsong",50,0.046451133407655144
+"Utari Onzo",25,"Iirithine",51,0.033490937746256895
+"Utari Onzo",25,"Christy Cloud",52,0.02034428794992175
+"Utari Onzo",25,"Apothne",53,0.08029197080291971
+"Toxic Yaken",26,"Aryth",1,0.012277470841006752
+"Toxic Yaken",26,"Mr Hyde113",2,0.0671881010385947
+"Toxic Yaken",26,"Innominate",3,0.012353304508956145
+"Toxic Yaken",26,"Steve Ronuken",4,0.11191692764133838
+"Toxic Yaken",26,"Xenuria",5,0.0255632582322357
+"Toxic Yaken",26,"NoobMan",6,0.06926683716965047
+"Toxic Yaken",26,"Gorski Car",7,0.07945165094339622
+"Toxic Yaken",26,"Jin'taan",8,0.07383329463663803
+"Toxic Yaken",26,"The Judge",9,0.040895164513121085
+"Toxic Yaken",26,"Fafer",10,0.032292405961674944
+"Toxic Yaken",26,"Kyle Aparthos",11,0.04027833534055935
+"Toxic Yaken",26,"Bobmon",12,0.07375431672422299
+"Toxic Yaken",26,"Nashh Kadavr",13,0.08897849462365591
+"Toxic Yaken",26,"Sullen Decimus",14,0.026135845616167757
+"Toxic Yaken",26,"Erika Mizune",15,0.12439418416801293
+"Toxic Yaken",26,"Alner Greyl",16,0.041091387245233396
+"Toxic Yaken",26,"Joffy Aulx-Gao",17,0.13090460018524236
+"Toxic Yaken",26,"Capri Sun KraftFoods",18,0.04984740590030519
+"Toxic Yaken",26,"RF Gnaeus Crassus",19,0.09610484164543139
+"Toxic Yaken",26,"Tora Bushido",20,0.06489547038327526
+"Toxic Yaken",26,"Lorelei Ierendi",21,0.13024370755093886
+"Toxic Yaken",26,"Vaari",22,0.02980688497061293
+"Toxic Yaken",26,"Falck Longbottom",23,0.08665297741273101
+"Toxic Yaken",26,"Annexe",24,0.02310594152782144
+"Toxic Yaken",26,"Utari Onzo",25,0.0709197894084856
+"Toxic Yaken",26,"Toxic Yaken",26,1.0
+"Toxic Yaken",26,"Diana Olympos",27,0.14028187479514914
+"Toxic Yaken",26,"Nikolai Agnon",28,0.06672637707120466
+"Toxic Yaken",26,"DoToo Foo",29,0.13016367887763056
+"Toxic Yaken",26,"Niko Lorenzio",30,0.07347504621072089
+"Toxic Yaken",26,"Vic Jefferson",31,0.07320997586484312
+"Toxic Yaken",26,"Mining Forman",32,0.026214833759590793
+"Toxic Yaken",26,"commander aze",33,0.035339680490559945
+"Toxic Yaken",26,"Wyld",34,0.014290461947490861
+"Toxic Yaken",26,"Xavier Azabu",35,0.06244260789715335
+"Toxic Yaken",26,"Petrified",36,0.06841339155749636
+"Toxic Yaken",26,"Kane Carnifex",37,0.02063948570461851
+"Toxic Yaken",26,"Uriel Paradisi Anteovnuecci",38,0.08910454344949272
+"Toxic Yaken",26,"Ed Bever",39,0.050750220653133275
+"Toxic Yaken",26,"Jugular Vein",40,0.055271713887598696
+"Toxic Yaken",26,"Chiimera",41,0.018867924528301886
+"Toxic Yaken",26,"Brodit",42,0.06414719045251119
+"Toxic Yaken",26,"Viceran Phaedra",43,0.051434223541048464
+"Toxic Yaken",26,"John Ellsworth",44,0.0588568194680249
+"Toxic Yaken",26,"Sogor",45,0.08184882041405873
+"Toxic Yaken",26,"InTheSunset",46,0.03220035778175313
+"Toxic Yaken",26,"Harry Saq",47,0.07479861910241657
+"Toxic Yaken",26,"Rivver",48,0.07076247942951179
+"Toxic Yaken",26,"Borat Guereen",49,0.10611854684512428
+"Toxic Yaken",26,"Terandria Starsong",50,0.06568575932737783
+"Toxic Yaken",26,"Iirithine",51,0.05399195864445721
+"Toxic Yaken",26,"Christy Cloud",52,0.033503691084611015
+"Toxic Yaken",26,"Apothne",53,0.050271739130434784
+"Diana Olympos",27,"Aryth",1,0.01731007006456931
+"Diana Olympos",27,"Mr Hyde113",2,0.13384653588279116
+"Diana Olympos",27,"Innominate",3,0.019941836310760283
+"Diana Olympos",27,"Steve Ronuken",4,0.20417596429709914
+"Diana Olympos",27,"Xenuria",5,0.02860858257477243
+"Diana Olympos",27,"NoobMan",6,0.09408450704225352
+"Diana Olympos",27,"Gorski Car",7,0.15494958102542253
+"Diana Olympos",27,"Jin'taan",8,0.12926018287614296
+"Diana Olympos",27,"The Judge",9,0.05583445573650055
+"Diana Olympos",27,"Fafer",10,0.04145658263305322
+"Diana Olympos",27,"Kyle Aparthos",11,0.09032012195121951
+"Diana Olympos",27,"Bobmon",12,0.10440735986307231
+"Diana Olympos",27,"Nashh Kadavr",13,0.17875333495027892
+"Diana Olympos",27,"Sullen Decimus",14,0.02535593220338983
+"Diana Olympos",27,"Erika Mizune",15,0.18710213119291447
+"Diana Olympos",27,"Alner Greyl",16,0.08249387421726109
+"Diana Olympos",27,"Joffy Aulx-Gao",17,0.2568858909499719
+"Diana Olympos",27,"Capri Sun KraftFoods",18,0.10151717983043285
+"Diana Olympos",27,"RF Gnaeus Crassus",19,0.10949753122277084
+"Diana Olympos",27,"Tora Bushido",20,0.08514323784143904
+"Diana Olympos",27,"Lorelei Ierendi",21,0.15017388555169142
+"Diana Olympos",27,"Vaari",22,0.03852276345113021
+"Diana Olympos",27,"Falck Longbottom",23,0.09717370593839314
+"Diana Olympos",27,"Annexe",24,0.04111537914354816
+"Diana Olympos",27,"Utari Onzo",25,0.13635153129161118
+"Diana Olympos",27,"Toxic Yaken",26,0.14028187479514914
+"Diana Olympos",27,"Diana Olympos",27,1.0
+"Diana Olympos",27,"Nikolai Agnon",28,0.0711648204095334
+"Diana Olympos",27,"DoToo Foo",29,0.2433791485082132
+"Diana Olympos",27,"Niko Lorenzio",30,0.08674531575294935
+"Diana Olympos",27,"Vic Jefferson",31,0.07547169811320754
+"Diana Olympos",27,"Mining Forman",32,0.028453549580310145
+"Diana Olympos",27,"commander aze",33,0.06657809270741069
+"Diana Olympos",27,"Wyld",34,0.014528911065453478
+"Diana Olympos",27,"Xavier Azabu",35,0.07172271791352093
+"Diana Olympos",27,"Petrified",36,0.08192597915918073
+"Diana Olympos",27,"Kane Carnifex",37,0.018609498287926157
+"Diana Olympos",27,"Uriel Paradisi Anteovnuecci",38,0.1437543614794138
+"Diana Olympos",27,"Ed Bever",39,0.046587926509186355
+"Diana Olympos",27,"Jugular Vein",40,0.057309540150995195
+"Diana Olympos",27,"Chiimera",41,0.03568406205923837
+"Diana Olympos",27,"Brodit",42,0.06809127127852227
+"Diana Olympos",27,"Viceran Phaedra",43,0.06649709302325581
+"Diana Olympos",27,"John Ellsworth",44,0.041990668740279936
+"Diana Olympos",27,"Sogor",45,0.07303370786516854
+"Diana Olympos",27,"InTheSunset",46,0.03168155970755483
+"Diana Olympos",27,"Harry Saq",47,0.05393700787401575
+"Diana Olympos",27,"Rivver",48,0.07264957264957266
+"Diana Olympos",27,"Borat Guereen",49,0.15752409191994068
+"Diana Olympos",27,"Terandria Starsong",50,0.08614088820826953
+"Diana Olympos",27,"Iirithine",51,0.04795877923107412
+"Diana Olympos",27,"Christy Cloud",52,0.05667202572347267
+"Diana Olympos",27,"Apothne",53,0.11819492183168866
+"Nikolai Agnon",28,"Aryth",1,0.012682613581634292
+"Nikolai Agnon",28,"Mr Hyde113",2,0.07520406797805433
+"Nikolai Agnon",28,"Innominate",3,0.015225137674117265
+"Nikolai Agnon",28,"Steve Ronuken",4,0.06638044914134743
+"Nikolai Agnon",28,"Xenuria",5,0.017929179740026894
+"Nikolai Agnon",28,"NoobMan",6,0.06269662921348315
+"Nikolai Agnon",28,"Gorski Car",7,0.06607061676011516
+"Nikolai Agnon",28,"Jin'taan",8,0.06638800098352594
+"Nikolai Agnon",28,"The Judge",9,0.01730197350635307
+"Nikolai Agnon",28,"Fafer",10,0.03760886777513856
+"Nikolai Agnon",28,"Kyle Aparthos",11,0.02716794731064764
+"Nikolai Agnon",28,"Bobmon",12,0.05584415584415584
+"Nikolai Agnon",28,"Nashh Kadavr",13,0.06
+"Nikolai Agnon",28,"Sullen Decimus",14,0.025051530045980656
+"Nikolai Agnon",28,"Erika Mizune",15,0.06081754735792622
+"Nikolai Agnon",28,"Alner Greyl",16,0.0438723712835388
+"Nikolai Agnon",28,"Joffy Aulx-Gao",17,0.08765710602642604
+"Nikolai Agnon",28,"Capri Sun KraftFoods",18,0.0738255033557047
+"Nikolai Agnon",28,"RF Gnaeus Crassus",19,0.06408753419304415
+"Nikolai Agnon",28,"Tora Bushido",20,0.02323217656454189
+"Nikolai Agnon",28,"Lorelei Ierendi",21,0.06719865602687947
+"Nikolai Agnon",28,"Vaari",22,0.032919847328244274
+"Nikolai Agnon",28,"Falck Longbottom",23,0.07279344858962693
+"Nikolai Agnon",28,"Annexe",24,0.015341929165986616
+"Nikolai Agnon",28,"Utari Onzo",25,0.08636052090472926
+"Nikolai Agnon",28,"Toxic Yaken",26,0.06672637707120466
+"Nikolai Agnon",28,"Diana Olympos",27,0.0711648204095334
+"Nikolai Agnon",28,"Nikolai Agnon",28,1.0
+"Nikolai Agnon",28,"DoToo Foo",29,0.08471760797342193
+"Nikolai Agnon",28,"Niko Lorenzio",30,0.10417797069994574
+"Nikolai Agnon",28,"Vic Jefferson",31,0.07158937415578569
+"Nikolai Agnon",28,"Mining Forman",32,0.016578249336870028
+"Nikolai Agnon",28,"commander aze",33,0.033912603340644505
+"Nikolai Agnon",28,"Wyld",34,0.011302382194400974
+"Nikolai Agnon",28,"Xavier Azabu",35,0.06351706036745407
+"Nikolai Agnon",28,"Petrified",36,0.11020881670533643
+"Nikolai Agnon",28,"Kane Carnifex",37,0.015735502121640734
+"Nikolai Agnon",28,"Uriel Paradisi Anteovnuecci",38,0.08023774145616643
+"Nikolai Agnon",28,"Ed Bever",39,0.047547547547547545
+"Nikolai Agnon",28,"Jugular Vein",40,0.0782608695652174
+"Nikolai Agnon",28,"Chiimera",41,0.012317666126418152
+"Nikolai Agnon",28,"Brodit",42,0.05707762557077625
+"Nikolai Agnon",28,"Viceran Phaedra",43,0.07674282366725249
+"Nikolai Agnon",28,"John Ellsworth",44,0.05815508021390375
+"Nikolai Agnon",28,"Sogor",45,0.09319196428571429
+"Nikolai Agnon",28,"InTheSunset",46,0.08170914542728636
+"Nikolai Agnon",28,"Harry Saq",47,0.05263157894736842
+"Nikolai Agnon",28,"Rivver",48,0.04785894206549118
+"Nikolai Agnon",28,"Borat Guereen",49,0.060732984293193716
+"Nikolai Agnon",28,"Terandria Starsong",50,0.05968331303288672
+"Nikolai Agnon",28,"Iirithine",51,0.03825503355704698
+"Nikolai Agnon",28,"Christy Cloud",52,0.0485968514715948
+"Nikolai Agnon",28,"Apothne",53,0.03835489833641405
+"DoToo Foo",29,"Aryth",1,0.011409097644095421
+"DoToo Foo",29,"Mr Hyde113",2,0.08637114187730217
+"DoToo Foo",29,"Innominate",3,0.013440860215053764
+"DoToo Foo",29,"Steve Ronuken",4,0.14604895679316576
+"DoToo Foo",29,"Xenuria",5,0.016500277315585135
+"DoToo Foo",29,"NoobMan",6,0.08051894563426688
+"DoToo Foo",29,"Gorski Car",7,0.11073529411764706
+"DoToo Foo",29,"Jin'taan",8,0.09891353553644183
+"DoToo Foo",29,"The Judge",9,0.03927648578811369
+"DoToo Foo",29,"Fafer",10,0.028843002294329727
+"DoToo Foo",29,"Kyle Aparthos",11,0.047918303220738416
+"DoToo Foo",29,"Bobmon",12,0.06260143751449107
+"DoToo Foo",29,"Nashh Kadavr",13,0.1343402225755167
+"DoToo Foo",29,"Sullen Decimus",14,0.030092934061070956
+"DoToo Foo",29,"Erika Mizune",15,0.15360696517412936
+"DoToo Foo",29,"Alner Greyl",16,0.0391557051085959
+"DoToo Foo",29,"Joffy Aulx-Gao",17,0.23469711385981604
+"DoToo Foo",29,"Capri Sun KraftFoods",18,0.07049864898059445
+"DoToo Foo",29,"RF Gnaeus Crassus",19,0.14200140944326992
+"DoToo Foo",29,"Tora Bushido",20,0.06850282485875706
+"DoToo Foo",29,"Lorelei Ierendi",21,0.1375976199330606
+"DoToo Foo",29,"Vaari",22,0.029942418426103647
+"DoToo Foo",29,"Falck Longbottom",23,0.11085361143298571
+"DoToo Foo",29,"Annexe",24,0.02276521475185916
+"DoToo Foo",29,"Utari Onzo",25,0.07994143484626647
+"DoToo Foo",29,"Toxic Yaken",26,0.13016367887763056
+"DoToo Foo",29,"Diana Olympos",27,0.2433791485082132
+"DoToo Foo",29,"Nikolai Agnon",28,0.08471760797342193
+"DoToo Foo",29,"DoToo Foo",29,1.0
+"DoToo Foo",29,"Niko Lorenzio",30,0.10663198959687907
+"DoToo Foo",29,"Vic Jefferson",31,0.053052325581395346
+"DoToo Foo",29,"Mining Forman",32,0.016664118636294144
+"DoToo Foo",29,"commander aze",33,0.07003703107390115
+"DoToo Foo",29,"Wyld",34,0.011497923985946982
+"DoToo Foo",29,"Xavier Azabu",35,0.0707070707070707
+"DoToo Foo",29,"Petrified",36,0.10244786944696282
+"DoToo Foo",29,"Kane Carnifex",37,0.017050990581357582
+"DoToo Foo",29,"Uriel Paradisi Anteovnuecci",38,0.09448499594484996
+"DoToo Foo",29,"Ed Bever",39,0.05622977346278317
+"DoToo Foo",29,"Jugular Vein",40,0.06831767719897523
+"DoToo Foo",29,"Chiimera",41,0.026403641881638847
+"DoToo Foo",29,"Brodit",42,0.09773043075497916
+"DoToo Foo",29,"Viceran Phaedra",43,0.10870588235294118
+"DoToo Foo",29,"John Ellsworth",44,0.04997501249375312
+"DoToo Foo",29,"Sogor",45,0.0755536257056014
+"DoToo Foo",29,"InTheSunset",46,0.027239392352016764
+"DoToo Foo",29,"Harry Saq",47,0.05110220440881764
+"DoToo Foo",29,"Rivver",48,0.05665859564164649
+"DoToo Foo",29,"Borat Guereen",49,0.1357142857142857
+"DoToo Foo",29,"Terandria Starsong",50,0.0521901211556384
+"DoToo Foo",29,"Iirithine",51,0.02838645418326693
+"DoToo Foo",29,"Christy Cloud",52,0.03170608958228485
+"DoToo Foo",29,"Apothne",53,0.07998182231311066
+"Niko Lorenzio",30,"Aryth",1,0.01280388978930308
+"Niko Lorenzio",30,"Mr Hyde113",2,0.04425242210002619
+"Niko Lorenzio",30,"Innominate",3,0.018369690011481057
+"Niko Lorenzio",30,"Steve Ronuken",4,0.06561199000832639
+"Niko Lorenzio",30,"Xenuria",5,0.0196256038647343
+"Niko Lorenzio",30,"NoobMan",6,0.039163328882955054
+"Niko Lorenzio",30,"Gorski Car",7,0.049653927174240144
+"Niko Lorenzio",30,"Jin'taan",8,0.07298720842738901
+"Niko Lorenzio",30,"The Judge",9,0.019664072101597707
+"Niko Lorenzio",30,"Fafer",10,0.02891566265060241
+"Niko Lorenzio",30,"Kyle Aparthos",11,0.016422608457643356
+"Niko Lorenzio",30,"Bobmon",12,0.0558777016341592
+"Niko Lorenzio",30,"Nashh Kadavr",13,0.0739344737605103
+"Niko Lorenzio",30,"Sullen Decimus",14,0.03372599644989511
+"Niko Lorenzio",30,"Erika Mizune",15,0.09125740160222919
+"Niko Lorenzio",30,"Alner Greyl",16,0.0475482912332838
+"Niko Lorenzio",30,"Joffy Aulx-Gao",17,0.10791847644503842
+"Niko Lorenzio",30,"Capri Sun KraftFoods",18,0.053790412486064657
+"Niko Lorenzio",30,"RF Gnaeus Crassus",19,0.08868001634654679
+"Niko Lorenzio",30,"Tora Bushido",20,0.025836758661186142
+"Niko Lorenzio",30,"Lorelei Ierendi",21,0.10952168082253018
+"Niko Lorenzio",30,"Vaari",22,0.03488943488943489
+"Niko Lorenzio",30,"Falck Longbottom",23,0.07129543336439888
+"Niko Lorenzio",30,"Annexe",24,0.021721107610678164
+"Niko Lorenzio",30,"Utari Onzo",25,0.07238883143743537
+"Niko Lorenzio",30,"Toxic Yaken",26,0.07347504621072089
+"Niko Lorenzio",30,"Diana Olympos",27,0.08674531575294935
+"Niko Lorenzio",30,"Nikolai Agnon",28,0.10417797069994574
+"Niko Lorenzio",30,"DoToo Foo",29,0.10663198959687907
+"Niko Lorenzio",30,"Niko Lorenzio",30,1.0
+"Niko Lorenzio",30,"Vic Jefferson",31,0.06467889908256881
+"Niko Lorenzio",30,"Mining Forman",32,0.021358896737302388
+"Niko Lorenzio",30,"commander aze",33,0.04891116488074663
+"Niko Lorenzio",30,"Wyld",34,0.012843068261787473
+"Niko Lorenzio",30,"Xavier Azabu",35,0.09035476718403547
+"Niko Lorenzio",30,"Petrified",36,0.14013521819299324
+"Niko Lorenzio",30,"Kane Carnifex",37,0.014451382694023194
+"Niko Lorenzio",30,"Uriel Paradisi Anteovnuecci",38,0.07715736040609138
+"Niko Lorenzio",30,"Ed Bever",39,0.06436420722135008
+"Niko Lorenzio",30,"Jugular Vein",40,0.06707317073170732
+"Niko Lorenzio",30,"Chiimera",41,0.01843621399176955
+"Niko Lorenzio",30,"Brodit",42,0.06599286563614744
+"Niko Lorenzio",30,"Viceran Phaedra",43,0.09611829944547134
+"Niko Lorenzio",30,"John Ellsworth",44,0.059805285118219746
+"Niko Lorenzio",30,"Sogor",45,0.0989010989010989
+"Niko Lorenzio",30,"InTheSunset",46,0.05407463823305408
+"Niko Lorenzio",30,"Harry Saq",47,0.05845511482254697
+"Niko Lorenzio",30,"Rivver",48,0.0664451827242525
+"Niko Lorenzio",30,"Borat Guereen",49,0.06324324324324325
+"Niko Lorenzio",30,"Terandria Starsong",50,0.05923125393824827
+"Niko Lorenzio",30,"Iirithine",51,0.053824362606232294
+"Niko Lorenzio",30,"Christy Cloud",52,0.02576601671309192
+"Niko Lorenzio",30,"Apothne",53,0.03368835378559852
+"Vic Jefferson",31,"Aryth",1,0.019007881316643487
+"Vic Jefferson",31,"Mr Hyde113",2,0.09042065260123182
+"Vic Jefferson",31,"Innominate",3,0.015809051456912585
+"Vic Jefferson",31,"Steve Ronuken",4,0.11067193675889328
+"Vic Jefferson",31,"Xenuria",5,0.025126353790613717
+"Vic Jefferson",31,"NoobMan",6,0.11892012494422133
+"Vic Jefferson",31,"Gorski Car",7,0.12096156790690553
+"Vic Jefferson",31,"Jin'taan",8,0.08140350877192983
+"Vic Jefferson",31,"The Judge",9,0.013492475350285417
+"Vic Jefferson",31,"Fafer",10,0.03599429793300071
+"Vic Jefferson",31,"Kyle Aparthos",11,0.04084639078612562
+"Vic Jefferson",31,"Bobmon",12,0.07458631760928625
+"Vic Jefferson",31,"Nashh Kadavr",13,0.10870755750273822
+"Vic Jefferson",31,"Sullen Decimus",14,0.01948051948051948
+"Vic Jefferson",31,"Erika Mizune",15,0.10588235294117647
+"Vic Jefferson",31,"Alner Greyl",16,0.042833607907743
+"Vic Jefferson",31,"Joffy Aulx-Gao",17,0.11242783348526283
+"Vic Jefferson",31,"Capri Sun KraftFoods",18,0.14420410427066002
+"Vic Jefferson",31,"RF Gnaeus Crassus",19,0.06929637526652452
+"Vic Jefferson",31,"Tora Bushido",20,0.05147691425293949
+"Vic Jefferson",31,"Lorelei Ierendi",21,0.0603900975243811
+"Vic Jefferson",31,"Vaari",22,0.04342273307790549
+"Vic Jefferson",31,"Falck Longbottom",23,0.07261663286004057
+"Vic Jefferson",31,"Annexe",24,0.022148916116870875
+"Vic Jefferson",31,"Utari Onzo",25,0.06371191135734072
+"Vic Jefferson",31,"Toxic Yaken",26,0.07320997586484312
+"Vic Jefferson",31,"Diana Olympos",27,0.07547169811320754
+"Vic Jefferson",31,"Nikolai Agnon",28,0.07158937415578569
+"Vic Jefferson",31,"DoToo Foo",29,0.053052325581395346
+"Vic Jefferson",31,"Niko Lorenzio",30,0.06467889908256881
+"Vic Jefferson",31,"Vic Jefferson",31,1.0
+"Vic Jefferson",31,"Mining Forman",32,0.019701302828090246
+"Vic Jefferson",31,"commander aze",33,0.028708901363271852
+"Vic Jefferson",31,"Wyld",34,0.03458799593082401
+"Vic Jefferson",31,"Xavier Azabu",35,0.07385044124477473
+"Vic Jefferson",31,"Petrified",36,0.07003891050583658
+"Vic Jefferson",31,"Kane Carnifex",37,0.014124768790987053
+"Vic Jefferson",31,"Uriel Paradisi Anteovnuecci",38,0.07214254671881791
+"Vic Jefferson",31,"Ed Bever",39,0.07162162162162163
+"Vic Jefferson",31,"Jugular Vein",40,0.09555984555984556
+"Vic Jefferson",31,"Chiimera",41,0.03600317208564631
+"Vic Jefferson",31,"Brodit",42,0.04958271968581247
+"Vic Jefferson",31,"Viceran Phaedra",43,0.03863080684596577
+"Vic Jefferson",31,"John Ellsworth",44,0.042387060791968766
+"Vic Jefferson",31,"Sogor",45,0.11580516898608349
+"Vic Jefferson",31,"InTheSunset",46,0.050425273390036454
+"Vic Jefferson",31,"Harry Saq",47,0.06811677160847167
+"Vic Jefferson",31,"Rivver",48,0.039445628997867806
+"Vic Jefferson",31,"Borat Guereen",49,0.08442776735459662
+"Vic Jefferson",31,"Terandria Starsong",50,0.05301455301455302
+"Vic Jefferson",31,"Iirithine",51,0.03209459459459459
+"Vic Jefferson",31,"Christy Cloud",52,0.038857142857142854
+"Vic Jefferson",31,"Apothne",53,0.05111640031735237
+"Mining Forman",32,"Aryth",1,0.6825500081314034
+"Mining Forman",32,"Mr Hyde113",2,0.038805713302357596
+"Mining Forman",32,"Innominate",3,0.6850882930019621
+"Mining Forman",32,"Steve Ronuken",4,0.04865620941152962
+"Mining Forman",32,"Xenuria",5,0.5499214397943151
+"Mining Forman",32,"NoobMan",6,0.03238341968911917
+"Mining Forman",32,"Gorski Car",7,0.03235129591646466
+"Mining Forman",32,"Jin'taan",8,0.046613346663334165
+"Mining Forman",32,"The Judge",9,0.5799972673862549
+"Mining Forman",32,"Fafer",10,0.016175797344727606
+"Mining Forman",32,"Kyle Aparthos",11,0.5760393873085339
+"Mining Forman",32,"Bobmon",12,0.035527156549520766
+"Mining Forman",32,"Nashh Kadavr",13,0.01747750097821834
+"Mining Forman",32,"Sullen Decimus",14,0.6514150943396226
+"Mining Forman",32,"Erika Mizune",15,0.033004714959279896
+"Mining Forman",32,"Alner Greyl",16,0.015712187958883995
+"Mining Forman",32,"Joffy Aulx-Gao",17,0.014367816091954023
+"Mining Forman",32,"Capri Sun KraftFoods",18,0.025380710659898477
+"Mining Forman",32,"RF Gnaeus Crassus",19,0.03300229182582124
+"Mining Forman",32,"Tora Bushido",20,0.5087790935075541
+"Mining Forman",32,"Lorelei Ierendi",21,0.03802461344272641
+"Mining Forman",32,"Vaari",22,0.016218872870249017
+"Mining Forman",32,"Falck Longbottom",23,0.02205177372962608
+"Mining Forman",32,"Annexe",24,0.6851182654402103
+"Mining Forman",32,"Utari Onzo",25,0.04478909986954631
+"Mining Forman",32,"Toxic Yaken",26,0.026214833759590793
+"Mining Forman",32,"Diana Olympos",27,0.028453549580310145
+"Mining Forman",32,"Nikolai Agnon",28,0.016578249336870028
+"Mining Forman",32,"DoToo Foo",29,0.016664118636294144
+"Mining Forman",32,"Niko Lorenzio",30,0.021358896737302388
+"Mining Forman",32,"Vic Jefferson",31,0.019701302828090246
+"Mining Forman",32,"Mining Forman",32,1.0
+"Mining Forman",32,"commander aze",33,0.6121154456073581
+"Mining Forman",32,"Wyld",34,0.717622450758236
+"Mining Forman",32,"Xavier Azabu",35,0.02397838568051334
+"Mining Forman",32,"Petrified",36,0.01639344262295082
+"Mining Forman",32,"Kane Carnifex",37,0.7330380868024801
+"Mining Forman",32,"Uriel Paradisi Anteovnuecci",38,0.013857189435930877
+"Mining Forman",32,"Ed Bever",39,0.016918228561950573
+"Mining Forman",32,"Jugular Vein",40,0.02397551436830471
+"Mining Forman",32,"Chiimera",41,0.6839692156541674
+"Mining Forman",32,"Brodit",42,0.02115117891816921
+"Mining Forman",32,"Viceran Phaedra",43,0.012579700155092194
+"Mining Forman",32,"John Ellsworth",44,0.017928286852589643
+"Mining Forman",32,"Sogor",45,0.018512228260869564
+"Mining Forman",32,"InTheSunset",46,0.012749445676274944
+"Mining Forman",32,"Harry Saq",47,0.023688046647230322
+"Mining Forman",32,"Rivver",48,0.03203619909502262
+"Mining Forman",32,"Borat Guereen",49,0.010835139189864977
+"Mining Forman",32,"Terandria Starsong",50,0.01904761904761905
+"Mining Forman",32,"Iirithine",51,0.0445109407144193
+"Mining Forman",32,"Christy Cloud",52,0.014017840888403422
+"Mining Forman",32,"Apothne",53,0.4515266324938712
+"commander aze",33,"Aryth",1,0.5996906419180201
+"commander aze",33,"Mr Hyde113",2,0.051856370925570855
+"commander aze",33,"Innominate",3,0.6056733167082294
+"commander aze",33,"Steve Ronuken",4,0.07104940792160065
+"commander aze",33,"Xenuria",5,0.4806169806169806
+"commander aze",33,"NoobMan",6,0.023834560112162635
+"commander aze",33,"Gorski Car",7,0.05842417288200421
+"commander aze",33,"Jin'taan",8,0.07915431223411112
+"commander aze",33,"The Judge",9,0.5152706776772841
+"commander aze",33,"Fafer",10,0.015255530129672006
+"commander aze",33,"Kyle Aparthos",11,0.5450643776824035
+"commander aze",33,"Bobmon",12,0.03620777891504606
+"commander aze",33,"Nashh Kadavr",13,0.04784303185055772
+"commander aze",33,"Sullen Decimus",14,0.6277519379844961
+"commander aze",33,"Erika Mizune",15,0.07115327601541654
+"commander aze",33,"Alner Greyl",16,0.03814386544526205
+"commander aze",33,"Joffy Aulx-Gao",17,0.05526278307933343
+"commander aze",33,"Capri Sun KraftFoods",18,0.03103312819169831
+"commander aze",33,"RF Gnaeus Crassus",19,0.057433489827856024
+"commander aze",33,"Tora Bushido",20,0.5039359391965255
+"commander aze",33,"Lorelei Ierendi",21,0.0535170645729851
+"commander aze",33,"Vaari",22,0.01572996886776995
+"commander aze",33,"Falck Longbottom",23,0.05583085563263958
+"commander aze",33,"Annexe",24,0.628553279339368
+"commander aze",33,"Utari Onzo",25,0.06410635155096012
+"commander aze",33,"Toxic Yaken",26,0.035339680490559945
+"commander aze",33,"Diana Olympos",27,0.06657809270741069
+"commander aze",33,"Nikolai Agnon",28,0.033912603340644505
+"commander aze",33,"DoToo Foo",29,0.07003703107390115
+"commander aze",33,"Niko Lorenzio",30,0.04891116488074663
+"commander aze",33,"Vic Jefferson",31,0.028708901363271852
+"commander aze",33,"Mining Forman",32,0.6121154456073581
+"commander aze",33,"commander aze",33,1.0
+"commander aze",33,"Wyld",34,0.6313348790990394
+"commander aze",33,"Xavier Azabu",35,0.03465938193614478
+"commander aze",33,"Petrified",36,0.04460835967685283
+"commander aze",33,"Kane Carnifex",37,0.641047155563014
+"commander aze",33,"Uriel Paradisi Anteovnuecci",38,0.033937780735318585
+"commander aze",33,"Ed Bever",39,0.02905609674168626
+"commander aze",33,"Jugular Vein",40,0.03722854188210962
+"commander aze",33,"Chiimera",41,0.6067521100343858
+"commander aze",33,"Brodit",42,0.019044321329639888
+"commander aze",33,"Viceran Phaedra",43,0.05101127617683909
+"commander aze",33,"John Ellsworth",44,0.02631098118033985
+"commander aze",33,"Sogor",45,0.03792864565292691
+"commander aze",33,"InTheSunset",46,0.011823388139663773
+"commander aze",33,"Harry Saq",47,0.017766497461928935
+"commander aze",33,"Rivver",48,0.018227305218012867
+"commander aze",33,"Borat Guereen",49,0.035897435897435895
+"commander aze",33,"Terandria Starsong",50,0.03217733285663211
+"commander aze",33,"Iirithine",51,0.010318609703113686
+"commander aze",33,"Christy Cloud",52,0.010163339382940109
+"commander aze",33,"Apothne",53,0.4611759425493716
+"Wyld",34,"Aryth",1,0.7349939456841377
+"Wyld",34,"Mr Hyde113",2,0.027979365218151614
+"Wyld",34,"Innominate",3,0.7376935119151157
+"Wyld",34,"Steve Ronuken",4,0.042712281061149236
+"Wyld",34,"Xenuria",5,0.5801709914504275
+"Wyld",34,"NoobMan",6,0.03363502935420744
+"Wyld",34,"Gorski Car",7,0.02760794803209782
+"Wyld",34,"Jin'taan",8,0.0563638746886879
+"Wyld",34,"The Judge",9,0.5862360738964885
+"Wyld",34,"Fafer",10,0.011158935118762953
+"Wyld",34,"Kyle Aparthos",11,0.5888857385880352
+"Wyld",34,"Bobmon",12,0.023124425174090132
+"Wyld",34,"Nashh Kadavr",13,0.031133764981402398
+"Wyld",34,"Sullen Decimus",14,0.6793603692713485
+"Wyld",34,"Erika Mizune",15,0.031324582338902146
+"Wyld",34,"Alner Greyl",16,0.015226084281759459
+"Wyld",34,"Joffy Aulx-Gao",17,0.025726261020378668
+"Wyld",34,"Capri Sun KraftFoods",18,0.03193231441048035
+"Wyld",34,"RF Gnaeus Crassus",19,0.017363851617995266
+"Wyld",34,"Tora Bushido",20,0.5329537366548043
+"Wyld",34,"Lorelei Ierendi",21,0.014251012145748988
+"Wyld",34,"Vaari",22,0.008911739502999142
+"Wyld",34,"Falck Longbottom",23,0.014516936425830134
+"Wyld",34,"Annexe",24,0.7011120615911035
+"Wyld",34,"Utari Onzo",25,0.03936057909817524
+"Wyld",34,"Toxic Yaken",26,0.014290461947490861
+"Wyld",34,"Diana Olympos",27,0.014528911065453478
+"Wyld",34,"Nikolai Agnon",28,0.011302382194400974
+"Wyld",34,"DoToo Foo",29,0.011497923985946982
+"Wyld",34,"Niko Lorenzio",30,0.012843068261787473
+"Wyld",34,"Vic Jefferson",31,0.03458799593082401
+"Wyld",34,"Mining Forman",32,0.717622450758236
+"Wyld",34,"commander aze",33,0.6313348790990394
+"Wyld",34,"Wyld",34,1.0
+"Wyld",34,"Xavier Azabu",35,0.015188979159307664
+"Wyld",34,"Petrified",36,0.014398848092152628
+"Wyld",34,"Kane Carnifex",37,0.7495841803733136
+"Wyld",34,"Uriel Paradisi Anteovnuecci",38,0.007337883959044369
+"Wyld",34,"Ed Bever",39,0.010952712100139083
+"Wyld",34,"Jugular Vein",40,0.012779552715654952
+"Wyld",34,"Chiimera",41,0.7746127826241767
+"Wyld",34,"Brodit",42,0.011431682090364725
+"Wyld",34,"Viceran Phaedra",43,0.00925757850789617
+"Wyld",34,"John Ellsworth",44,0.010668698799771385
+"Wyld",34,"Sogor",45,0.039143954636912386
+"Wyld",34,"InTheSunset",46,0.007215288611544462
+"Wyld",34,"Harry Saq",47,0.015319800842589047
+"Wyld",34,"Rivver",48,0.018339950841368878
+"Wyld",34,"Borat Guereen",49,0.019691325172964343
+"Wyld",34,"Terandria Starsong",50,0.010545790934320074
+"Wyld",34,"Iirithine",51,0.0365925634467834
+"Wyld",34,"Christy Cloud",52,0.009607993850883935
+"Wyld",34,"Apothne",53,0.45807043707697603
+"Xavier Azabu",35,"Aryth",1,0.017114914425427872
+"Xavier Azabu",35,"Mr Hyde113",2,0.05286110744020087
+"Xavier Azabu",35,"Innominate",3,0.014066077854105331
+"Xavier Azabu",35,"Steve Ronuken",4,0.0515056771433273
+"Xavier Azabu",35,"Xenuria",5,0.027105223085122584
+"Xavier Azabu",35,"NoobMan",6,0.059077482390365824
+"Xavier Azabu",35,"Gorski Car",7,0.0693783576362241
+"Xavier Azabu",35,"Jin'taan",8,0.053293856402664694
+"Xavier Azabu",35,"The Judge",9,0.018852459016393444
+"Xavier Azabu",35,"Fafer",10,0.03612012987012987
+"Xavier Azabu",35,"Kyle Aparthos",11,0.029562803608605134
+"Xavier Azabu",35,"Bobmon",12,0.06105654366870188
+"Xavier Azabu",35,"Nashh Kadavr",13,0.05360707157114343
+"Xavier Azabu",35,"Sullen Decimus",14,0.028621964946132818
+"Xavier Azabu",35,"Erika Mizune",15,0.0938375350140056
+"Xavier Azabu",35,"Alner Greyl",16,0.07701149425287357
+"Xavier Azabu",35,"Joffy Aulx-Gao",17,0.07091968911917099
+"Xavier Azabu",35,"Capri Sun KraftFoods",18,0.05806451612903226
+"Xavier Azabu",35,"RF Gnaeus Crassus",19,0.07751623376623376
+"Xavier Azabu",35,"Tora Bushido",20,0.028137890394814378
+"Xavier Azabu",35,"Lorelei Ierendi",21,0.08132925229558373
+"Xavier Azabu",35,"Vaari",22,0.053768844221105526
+"Xavier Azabu",35,"Falck Longbottom",23,0.0847939365229749
+"Xavier Azabu",35,"Annexe",24,0.03481331987891019
+"Xavier Azabu",35,"Utari Onzo",25,0.05725971370143149
+"Xavier Azabu",35,"Toxic Yaken",26,0.06244260789715335
+"Xavier Azabu",35,"Diana Olympos",27,0.07172271791352093
+"Xavier Azabu",35,"Nikolai Agnon",28,0.06351706036745407
+"Xavier Azabu",35,"DoToo Foo",29,0.0707070707070707
+"Xavier Azabu",35,"Niko Lorenzio",30,0.09035476718403547
+"Xavier Azabu",35,"Vic Jefferson",31,0.07385044124477473
+"Xavier Azabu",35,"Mining Forman",32,0.02397838568051334
+"Xavier Azabu",35,"commander aze",33,0.03465938193614478
+"Xavier Azabu",35,"Wyld",34,0.015188979159307664
+"Xavier Azabu",35,"Xavier Azabu",35,1.0
+"Xavier Azabu",35,"Petrified",36,0.06275187104202648
+"Xavier Azabu",35,"Kane Carnifex",37,0.021410579345088162
+"Xavier Azabu",35,"Uriel Paradisi Anteovnuecci",38,0.05755755755755756
+"Xavier Azabu",35,"Ed Bever",39,0.07370095440084835
+"Xavier Azabu",35,"Jugular Vein",40,0.06385341476957246
+"Xavier Azabu",35,"Chiimera",41,0.022170747849106553
+"Xavier Azabu",35,"Brodit",42,0.06698564593301436
+"Xavier Azabu",35,"Viceran Phaedra",43,0.0838946723821188
+"Xavier Azabu",35,"John Ellsworth",44,0.05501392757660167
+"Xavier Azabu",35,"Sogor",45,0.06715575620767494
+"Xavier Azabu",35,"InTheSunset",46,0.052833078101071976
+"Xavier Azabu",35,"Harry Saq",47,0.06779661016949153
+"Xavier Azabu",35,"Rivver",48,0.06684491978609626
+"Xavier Azabu",35,"Borat Guereen",49,0.08416389811738649
+"Xavier Azabu",35,"Terandria Starsong",50,0.07042253521126761
+"Xavier Azabu",35,"Iirithine",51,0.05042613636363636
+"Xavier Azabu",35,"Christy Cloud",52,0.044967880085653104
+"Xavier Azabu",35,"Apothne",53,0.02836061793866728
+"Petrified",36,"Aryth",1,0.012223323422530559
+"Petrified",36,"Mr Hyde113",2,0.039158618864929225
+"Petrified",36,"Innominate",3,0.01754972421861942
+"Petrified",36,"Steve Ronuken",4,0.04650775129188198
+"Petrified",36,"Xenuria",5,0.016707541385652974
+"Petrified",36,"NoobMan",6,0.04622815087396504
+"Petrified",36,"Gorski Car",7,0.038479018330555975
+"Petrified",36,"Jin'taan",8,0.054808424257802586
+"Petrified",36,"The Judge",9,0.02426101505856107
+"Petrified",36,"Fafer",10,0.028655710071639275
+"Petrified",36,"Kyle Aparthos",11,0.02024856863566541
+"Petrified",36,"Bobmon",12,0.05341648590021692
+"Petrified",36,"Nashh Kadavr",13,0.06510107015457789
+"Petrified",36,"Sullen Decimus",14,0.035761371127224786
+"Petrified",36,"Erika Mizune",15,0.08736462093862817
+"Petrified",36,"Alner Greyl",16,0.058016464131713054
+"Petrified",36,"Joffy Aulx-Gao",17,0.08341810783316378
+"Petrified",36,"Capri Sun KraftFoods",18,0.04511707595659623
+"Petrified",36,"RF Gnaeus Crassus",19,0.05826050769870995
+"Petrified",36,"Tora Bushido",20,0.02172295789317066
+"Petrified",36,"Lorelei Ierendi",21,0.06687754179846363
+"Petrified",36,"Vaari",22,0.03709508881922675
+"Petrified",36,"Falck Longbottom",23,0.0787518573551263
+"Petrified",36,"Annexe",24,0.023204607046070462
+"Petrified",36,"Utari Onzo",25,0.07015032211882606
+"Petrified",36,"Toxic Yaken",26,0.06841339155749636
+"Petrified",36,"Diana Olympos",27,0.08192597915918073
+"Petrified",36,"Nikolai Agnon",28,0.11020881670533643
+"Petrified",36,"DoToo Foo",29,0.10244786944696282
+"Petrified",36,"Niko Lorenzio",30,0.14013521819299324
+"Petrified",36,"Vic Jefferson",31,0.07003891050583658
+"Petrified",36,"Mining Forman",32,0.01639344262295082
+"Petrified",36,"commander aze",33,0.04460835967685283
+"Petrified",36,"Wyld",34,0.014398848092152628
+"Petrified",36,"Xavier Azabu",35,0.06275187104202648
+"Petrified",36,"Petrified",36,1.0
+"Petrified",36,"Kane Carnifex",37,0.015696294944332907
+"Petrified",36,"Uriel Paradisi Anteovnuecci",38,0.09165302782324058
+"Petrified",36,"Ed Bever",39,0.06692693809258227
+"Petrified",36,"Jugular Vein",40,0.0718954248366013
+"Petrified",36,"Chiimera",41,0.015910232791827166
+"Petrified",36,"Brodit",42,0.06564690885914595
+"Petrified",36,"Viceran Phaedra",43,0.14979195561719832
+"Petrified",36,"John Ellsworth",44,0.0833976833976834
+"Petrified",36,"Sogor",45,0.15145631067961166
+"Petrified",36,"InTheSunset",46,0.041220115416323165
+"Petrified",36,"Harry Saq",47,0.07444359171143515
+"Petrified",36,"Rivver",48,0.05698005698005698
+"Petrified",36,"Borat Guereen",49,0.08716136631330977
+"Petrified",36,"Terandria Starsong",50,0.10325318246110325
+"Petrified",36,"Iirithine",51,0.03954372623574144
+"Petrified",36,"Christy Cloud",52,0.0289193302891933
+"Petrified",36,"Apothne",53,0.026812776871065515
+"Kane Carnifex",37,"Aryth",1,0.700068282690338
+"Kane Carnifex",37,"Mr Hyde113",2,0.023830383739267567
+"Kane Carnifex",37,"Innominate",3,0.7048814025438295
+"Kane Carnifex",37,"Steve Ronuken",4,0.03692686429377372
+"Kane Carnifex",37,"Xenuria",5,0.5509115162294353
+"Kane Carnifex",37,"NoobMan",6,0.017484215638659543
+"Kane Carnifex",37,"Gorski Car",7,0.02004581901489118
+"Kane Carnifex",37,"Jin'taan",8,0.05022350775703392
+"Kane Carnifex",37,"The Judge",9,0.5871911388809997
+"Kane Carnifex",37,"Fafer",10,0.010309278350515464
+"Kane Carnifex",37,"Kyle Aparthos",11,0.5819602272727272
+"Kane Carnifex",37,"Bobmon",12,0.025518341307814992
+"Kane Carnifex",37,"Nashh Kadavr",13,0.013949671772428883
+"Kane Carnifex",37,"Sullen Decimus",14,0.680119581464873
+"Kane Carnifex",37,"Erika Mizune",15,0.02378815080789946
+"Kane Carnifex",37,"Alner Greyl",16,0.01808543810414718
+"Kane Carnifex",37,"Joffy Aulx-Gao",17,0.010644418872266973
+"Kane Carnifex",37,"Capri Sun KraftFoods",18,0.013804303694681283
+"Kane Carnifex",37,"RF Gnaeus Crassus",19,0.02098350152170431
+"Kane Carnifex",37,"Tora Bushido",20,0.5274129069103369
+"Kane Carnifex",37,"Lorelei Ierendi",21,0.02499586161231584
+"Kane Carnifex",37,"Vaari",22,0.015185896316983766
+"Kane Carnifex",37,"Falck Longbottom",23,0.024552429667519183
+"Kane Carnifex",37,"Annexe",24,0.7252708843061867
+"Kane Carnifex",37,"Utari Onzo",25,0.04954608401292507
+"Kane Carnifex",37,"Toxic Yaken",26,0.02063948570461851
+"Kane Carnifex",37,"Diana Olympos",27,0.018609498287926157
+"Kane Carnifex",37,"Nikolai Agnon",28,0.015735502121640734
+"Kane Carnifex",37,"DoToo Foo",29,0.017050990581357582
+"Kane Carnifex",37,"Niko Lorenzio",30,0.014451382694023194
+"Kane Carnifex",37,"Vic Jefferson",31,0.014124768790987053
+"Kane Carnifex",37,"Mining Forman",32,0.7330380868024801
+"Kane Carnifex",37,"commander aze",33,0.641047155563014
+"Kane Carnifex",37,"Wyld",34,0.7495841803733136
+"Kane Carnifex",37,"Xavier Azabu",35,0.021410579345088162
+"Kane Carnifex",37,"Petrified",36,0.015696294944332907
+"Kane Carnifex",37,"Kane Carnifex",37,1.0
+"Kane Carnifex",37,"Uriel Paradisi Anteovnuecci",38,0.015143603133159269
+"Kane Carnifex",37,"Ed Bever",39,0.02061122956645345
+"Kane Carnifex",37,"Jugular Vein",40,0.013489208633093525
+"Kane Carnifex",37,"Chiimera",41,0.7078515962036238
+"Kane Carnifex",37,"Brodit",42,0.020207638116425657
+"Kane Carnifex",37,"Viceran Phaedra",43,0.016293279022403257
+"Kane Carnifex",37,"John Ellsworth",44,0.018486086787312707
+"Kane Carnifex",37,"Sogor",45,0.014099783080260303
+"Kane Carnifex",37,"InTheSunset",46,0.006321612011062821
+"Kane Carnifex",37,"Harry Saq",47,0.013956193060670672
+"Kane Carnifex",37,"Rivver",48,0.02250865717583686
+"Kane Carnifex",37,"Borat Guereen",49,0.013388075687254551
+"Kane Carnifex",37,"Terandria Starsong",50,0.01697792869269949
+"Kane Carnifex",37,"Iirithine",51,0.03711093375897845
+"Kane Carnifex",37,"Christy Cloud",52,0.00974089226573154
+"Kane Carnifex",37,"Apothne",53,0.44942660550458713
+"Uriel Paradisi Anteovnuecci",38,"Aryth",1,0.01459622402030779
+"Uriel Paradisi Anteovnuecci",38,"Mr Hyde113",2,0.06420335429769392
+"Uriel Paradisi Anteovnuecci",38,"Innominate",3,0.01226505256451099
+"Uriel Paradisi Anteovnuecci",38,"Steve Ronuken",4,0.11537150647580095
+"Uriel Paradisi Anteovnuecci",38,"Xenuria",5,0.020861074123391034
+"Uriel Paradisi Anteovnuecci",38,"NoobMan",6,0.06266548984995587
+"Uriel Paradisi Anteovnuecci",38,"Gorski Car",7,0.08171324422843257
+"Uriel Paradisi Anteovnuecci",38,"Jin'taan",8,0.08885060300270736
+"Uriel Paradisi Anteovnuecci",38,"The Judge",9,0.024491993002287715
+"Uriel Paradisi Anteovnuecci",38,"Fafer",10,0.0230449565545901
+"Uriel Paradisi Anteovnuecci",38,"Kyle Aparthos",11,0.040819131390874105
+"Uriel Paradisi Anteovnuecci",38,"Bobmon",12,0.07148387096774193
+"Uriel Paradisi Anteovnuecci",38,"Nashh Kadavr",13,0.09561752988047809
+"Uriel Paradisi Anteovnuecci",38,"Sullen Decimus",14,0.024870952604411075
+"Uriel Paradisi Anteovnuecci",38,"Erika Mizune",15,0.10070493454179255
+"Uriel Paradisi Anteovnuecci",38,"Alner Greyl",16,0.044366197183098595
+"Uriel Paradisi Anteovnuecci",38,"Joffy Aulx-Gao",17,0.13769306605323695
+"Uriel Paradisi Anteovnuecci",38,"Capri Sun KraftFoods",18,0.04109225874867444
+"Uriel Paradisi Anteovnuecci",38,"RF Gnaeus Crassus",19,0.08830364058869093
+"Uriel Paradisi Anteovnuecci",38,"Tora Bushido",20,0.048655005144789064
+"Uriel Paradisi Anteovnuecci",38,"Lorelei Ierendi",21,0.10466582597730138
+"Uriel Paradisi Anteovnuecci",38,"Vaari",22,0.05678085405912717
+"Uriel Paradisi Anteovnuecci",38,"Falck Longbottom",23,0.08281665190434012
+"Uriel Paradisi Anteovnuecci",38,"Annexe",24,0.025691056910569107
+"Uriel Paradisi Anteovnuecci",38,"Utari Onzo",25,0.12582094711372277
+"Uriel Paradisi Anteovnuecci",38,"Toxic Yaken",26,0.08910454344949272
+"Uriel Paradisi Anteovnuecci",38,"Diana Olympos",27,0.1437543614794138
+"Uriel Paradisi Anteovnuecci",38,"Nikolai Agnon",28,0.08023774145616643
+"Uriel Paradisi Anteovnuecci",38,"DoToo Foo",29,0.09448499594484996
+"Uriel Paradisi Anteovnuecci",38,"Niko Lorenzio",30,0.07715736040609138
+"Uriel Paradisi Anteovnuecci",38,"Vic Jefferson",31,0.07214254671881791
+"Uriel Paradisi Anteovnuecci",38,"Mining Forman",32,0.013857189435930877
+"Uriel Paradisi Anteovnuecci",38,"commander aze",33,0.033937780735318585
+"Uriel Paradisi Anteovnuecci",38,"Wyld",34,0.007337883959044369
+"Uriel Paradisi Anteovnuecci",38,"Xavier Azabu",35,0.05755755755755756
+"Uriel Paradisi Anteovnuecci",38,"Petrified",36,0.09165302782324058
+"Uriel Paradisi Anteovnuecci",38,"Kane Carnifex",37,0.015143603133159269
+"Uriel Paradisi Anteovnuecci",38,"Uriel Paradisi Anteovnuecci",38,1.0
+"Uriel Paradisi Anteovnuecci",38,"Ed Bever",39,0.044561571633924296
+"Uriel Paradisi Anteovnuecci",38,"Jugular Vein",40,0.05287239450940519
+"Uriel Paradisi Anteovnuecci",38,"Chiimera",41,0.019806763285024155
+"Uriel Paradisi Anteovnuecci",38,"Brodit",42,0.06014215418261345
+"Uriel Paradisi Anteovnuecci",38,"Viceran Phaedra",43,0.0974914481185861
+"Uriel Paradisi Anteovnuecci",38,"John Ellsworth",44,0.056293485135989876
+"Uriel Paradisi Anteovnuecci",38,"Sogor",45,0.06175402179553711
+"Uriel Paradisi Anteovnuecci",38,"InTheSunset",46,0.03169251517194875
+"Uriel Paradisi Anteovnuecci",38,"Harry Saq",47,0.0471105527638191
+"Uriel Paradisi Anteovnuecci",38,"Rivver",48,0.06056935190793458
+"Uriel Paradisi Anteovnuecci",38,"Borat Guereen",49,0.09198966408268734
+"Uriel Paradisi Anteovnuecci",38,"Terandria Starsong",50,0.06592765460910152
+"Uriel Paradisi Anteovnuecci",38,"Iirithine",51,0.05487411233053583
+"Uriel Paradisi Anteovnuecci",38,"Christy Cloud",52,0.04048843187660668
+"Uriel Paradisi Anteovnuecci",38,"Apothne",53,0.0502256683254253
+"Ed Bever",39,"Aryth",1,0.013172690763052209
+"Ed Bever",39,"Mr Hyde113",2,0.06354249404289118
+"Ed Bever",39,"Innominate",3,0.013257881972514146
+"Ed Bever",39,"Steve Ronuken",4,0.05454842397517557
+"Ed Bever",39,"Xenuria",5,0.024052916416115455
+"Ed Bever",39,"NoobMan",6,0.06823316764572977
+"Ed Bever",39,"Gorski Car",7,0.07767734027884174
+"Ed Bever",39,"Jin'taan",8,0.048355899419729204
+"Ed Bever",39,"The Judge",9,0.021585663860982894
+"Ed Bever",39,"Fafer",10,0.15367679436371642
+"Ed Bever",39,"Kyle Aparthos",11,0.016569333152247723
+"Ed Bever",39,"Bobmon",12,0.10705529828384637
+"Ed Bever",39,"Nashh Kadavr",13,0.07793696275071633
+"Ed Bever",39,"Sullen Decimus",14,0.026846703733121525
+"Ed Bever",39,"Erika Mizune",15,0.07658569500674764
+"Ed Bever",39,"Alner Greyl",16,0.08767951625094482
+"Ed Bever",39,"Joffy Aulx-Gao",17,0.048477315102548164
+"Ed Bever",39,"Capri Sun KraftFoods",18,0.07716049382716049
+"Ed Bever",39,"RF Gnaeus Crassus",19,0.07546424338206242
+"Ed Bever",39,"Tora Bushido",20,0.030116959064327486
+"Ed Bever",39,"Lorelei Ierendi",21,0.0543794105437941
+"Ed Bever",39,"Vaari",22,0.029495718363463368
+"Ed Bever",39,"Falck Longbottom",23,0.08818097876269622
+"Ed Bever",39,"Annexe",24,0.01800327332242226
+"Ed Bever",39,"Utari Onzo",25,0.03765553372626064
+"Ed Bever",39,"Toxic Yaken",26,0.050750220653133275
+"Ed Bever",39,"Diana Olympos",27,0.046587926509186355
+"Ed Bever",39,"Nikolai Agnon",28,0.047547547547547545
+"Ed Bever",39,"DoToo Foo",29,0.05622977346278317
+"Ed Bever",39,"Niko Lorenzio",30,0.06436420722135008
+"Ed Bever",39,"Vic Jefferson",31,0.07162162162162163
+"Ed Bever",39,"Mining Forman",32,0.016918228561950573
+"Ed Bever",39,"commander aze",33,0.02905609674168626
+"Ed Bever",39,"Wyld",34,0.010952712100139083
+"Ed Bever",39,"Xavier Azabu",35,0.07370095440084835
+"Ed Bever",39,"Petrified",36,0.06692693809258227
+"Ed Bever",39,"Kane Carnifex",37,0.02061122956645345
+"Ed Bever",39,"Uriel Paradisi Anteovnuecci",38,0.044561571633924296
+"Ed Bever",39,"Ed Bever",39,1.0
+"Ed Bever",39,"Jugular Vein",40,0.1396551724137931
+"Ed Bever",39,"Chiimera",41,0.01346965271015904
+"Ed Bever",39,"Brodit",42,0.0547008547008547
+"Ed Bever",39,"Viceran Phaedra",43,0.08569739952718676
+"Ed Bever",39,"John Ellsworth",44,0.05116279069767442
+"Ed Bever",39,"Sogor",45,0.06528835690968444
+"Ed Bever",39,"InTheSunset",46,0.04720406681190995
+"Ed Bever",39,"Harry Saq",47,0.049867021276595744
+"Ed Bever",39,"Rivver",48,0.04459798994974874
+"Ed Bever",39,"Borat Guereen",49,0.07370095440084835
+"Ed Bever",39,"Terandria Starsong",50,0.08959899749373433
+"Ed Bever",39,"Iirithine",51,0.050271739130434784
+"Ed Bever",39,"Christy Cloud",52,0.08197879858657244
+"Ed Bever",39,"Apothne",53,0.035130154342317435
+"Jugular Vein",40,"Aryth",1,0.014900933355166202
+"Jugular Vein",40,"Mr Hyde113",2,0.06076830410922233
+"Jugular Vein",40,"Innominate",3,0.022244355909694556
+"Jugular Vein",40,"Steve Ronuken",4,0.05203844879018893
+"Jugular Vein",40,"Xenuria",5,0.020554202192448235
+"Jugular Vein",40,"NoobMan",6,0.06748324474231569
+"Jugular Vein",40,"Gorski Car",7,0.06768424298489054
+"Jugular Vein",40,"Jin'taan",8,0.045510759337125894
+"Jugular Vein",40,"The Judge",9,0.020082530949105913
+"Jugular Vein",40,"Fafer",10,0.04625
+"Jugular Vein",40,"Kyle Aparthos",11,0.024729091414281746
+"Jugular Vein",40,"Bobmon",12,0.06546336206896551
+"Jugular Vein",40,"Nashh Kadavr",13,0.050014371945961485
+"Jugular Vein",40,"Sullen Decimus",14,0.029816885431858692
+"Jugular Vein",40,"Erika Mizune",15,0.09446022727272728
+"Jugular Vein",40,"Alner Greyl",16,0.060513213328226734
+"Jugular Vein",40,"Joffy Aulx-Gao",17,0.048827497590748475
+"Jugular Vein",40,"Capri Sun KraftFoods",18,0.12045659357164314
+"Jugular Vein",40,"RF Gnaeus Crassus",19,0.06349206349206349
+"Jugular Vein",40,"Tora Bushido",20,0.021348645465253238
+"Jugular Vein",40,"Lorelei Ierendi",21,0.055121527777777776
+"Jugular Vein",40,"Vaari",22,0.036308623298033284
+"Jugular Vein",40,"Falck Longbottom",23,0.09020368574199807
+"Jugular Vein",40,"Annexe",24,0.02020033388981636
+"Jugular Vein",40,"Utari Onzo",25,0.03308575286968265
+"Jugular Vein",40,"Toxic Yaken",26,0.055271713887598696
+"Jugular Vein",40,"Diana Olympos",27,0.057309540150995195
+"Jugular Vein",40,"Nikolai Agnon",28,0.0782608695652174
+"Jugular Vein",40,"DoToo Foo",29,0.06831767719897523
+"Jugular Vein",40,"Niko Lorenzio",30,0.06707317073170732
+"Jugular Vein",40,"Vic Jefferson",31,0.09555984555984556
+"Jugular Vein",40,"Mining Forman",32,0.02397551436830471
+"Jugular Vein",40,"commander aze",33,0.03722854188210962
+"Jugular Vein",40,"Wyld",34,0.012779552715654952
+"Jugular Vein",40,"Xavier Azabu",35,0.06385341476957246
+"Jugular Vein",40,"Petrified",36,0.0718954248366013
+"Jugular Vein",40,"Kane Carnifex",37,0.013489208633093525
+"Jugular Vein",40,"Uriel Paradisi Anteovnuecci",38,0.05287239450940519
+"Jugular Vein",40,"Ed Bever",39,0.1396551724137931
+"Jugular Vein",40,"Jugular Vein",40,1.0
+"Jugular Vein",40,"Chiimera",41,0.015053763440860216
+"Jugular Vein",40,"Brodit",42,0.060255629945222156
+"Jugular Vein",40,"Viceran Phaedra",43,0.0759651307596513
+"Jugular Vein",40,"John Ellsworth",44,0.05289492494639028
+"Jugular Vein",40,"Sogor",45,0.06755196304849885
+"Jugular Vein",40,"InTheSunset",46,0.06130573248407643
+"Jugular Vein",40,"Harry Saq",47,0.05527638190954774
+"Jugular Vein",40,"Rivver",48,0.07172413793103448
+"Jugular Vein",40,"Borat Guereen",49,0.05506607929515418
+"Jugular Vein",40,"Terandria Starsong",50,0.09764309764309764
+"Jugular Vein",40,"Iirithine",51,0.03306973400431344
+"Jugular Vein",40,"Christy Cloud",52,0.06357516828721017
+"Jugular Vein",40,"Apothne",53,0.029572074683984692
+"Chiimera",41,"Aryth",1,0.6961245338089833
+"Chiimera",41,"Mr Hyde113",2,0.04681326232606081
+"Chiimera",41,"Innominate",3,0.6932076698082548
+"Chiimera",41,"Steve Ronuken",4,0.06847935548841894
+"Chiimera",41,"Xenuria",5,0.5533361665958351
+"Chiimera",41,"NoobMan",6,0.046423942500294565
+"Chiimera",41,"Gorski Car",7,0.050126724866234866
+"Chiimera",41,"Jin'taan",8,0.06699346405228758
+"Chiimera",41,"The Judge",9,0.5764038876889849
+"Chiimera",41,"Fafer",10,0.01696696696696697
+"Chiimera",41,"Kyle Aparthos",11,0.5838323353293413
+"Chiimera",41,"Bobmon",12,0.039074355083459786
+"Chiimera",41,"Nashh Kadavr",13,0.052386650711341576
+"Chiimera",41,"Sullen Decimus",14,0.6491146318732526
+"Chiimera",41,"Erika Mizune",15,0.04704875962360992
+"Chiimera",41,"Alner Greyl",16,0.024329836829836828
+"Chiimera",41,"Joffy Aulx-Gao",17,0.048620785734187794
+"Chiimera",41,"Capri Sun KraftFoods",18,0.04936974789915966
+"Chiimera",41,"RF Gnaeus Crassus",19,0.02749962636377223
+"Chiimera",41,"Tora Bushido",20,0.5376905121515859
+"Chiimera",41,"Lorelei Ierendi",21,0.026533742331288343
+"Chiimera",41,"Vaari",22,0.011043533930857875
+"Chiimera",41,"Falck Longbottom",23,0.014650872817955112
+"Chiimera",41,"Annexe",24,0.7021660649819494
+"Chiimera",41,"Utari Onzo",25,0.04674767691208006
+"Chiimera",41,"Toxic Yaken",26,0.018867924528301886
+"Chiimera",41,"Diana Olympos",27,0.03568406205923837
+"Chiimera",41,"Nikolai Agnon",28,0.012317666126418152
+"Chiimera",41,"DoToo Foo",29,0.026403641881638847
+"Chiimera",41,"Niko Lorenzio",30,0.01843621399176955
+"Chiimera",41,"Vic Jefferson",31,0.03600317208564631
+"Chiimera",41,"Mining Forman",32,0.6839692156541674
+"Chiimera",41,"commander aze",33,0.6067521100343858
+"Chiimera",41,"Wyld",34,0.7746127826241767
+"Chiimera",41,"Xavier Azabu",35,0.022170747849106553
+"Chiimera",41,"Petrified",36,0.015910232791827166
+"Chiimera",41,"Kane Carnifex",37,0.7078515962036238
+"Chiimera",41,"Uriel Paradisi Anteovnuecci",38,0.019806763285024155
+"Chiimera",41,"Ed Bever",39,0.01346965271015904
+"Chiimera",41,"Jugular Vein",40,0.015053763440860216
+"Chiimera",41,"Chiimera",41,1.0
+"Chiimera",41,"Brodit",42,0.013162335470806615
+"Chiimera",41,"Viceran Phaedra",43,0.01766904519198097
+"Chiimera",41,"John Ellsworth",44,0.010572687224669603
+"Chiimera",41,"Sogor",45,0.03383522246658772
+"Chiimera",41,"InTheSunset",46,0.008653326122228232
+"Chiimera",41,"Harry Saq",47,0.01559177888022679
+"Chiimera",41,"Rivver",48,0.025026436376454
+"Chiimera",41,"Borat Guereen",49,0.02915209062135599
+"Chiimera",41,"Terandria Starsong",50,0.018320082958866227
+"Chiimera",41,"Iirithine",51,0.03467683369644154
+"Chiimera",41,"Christy Cloud",52,0.015544041450777202
+"Chiimera",41,"Apothne",53,0.4777327935222672
+"Brodit",42,"Aryth",1,0.008478802992518703
+"Brodit",42,"Mr Hyde113",2,0.038236077804423126
+"Brodit",42,"Innominate",3,0.008198092688639786
+"Brodit",42,"Steve Ronuken",4,0.05894378194207837
+"Brodit",42,"Xenuria",5,0.018286068495273516
+"Brodit",42,"NoobMan",6,0.07653550863723609
+"Brodit",42,"Gorski Car",7,0.04187116564417178
+"Brodit",42,"Jin'taan",8,0.03618421052631579
+"Brodit",42,"The Judge",9,0.015616285554935862
+"Brodit",42,"Fafer",10,0.03524804177545692
+"Brodit",42,"Kyle Aparthos",11,0.016987224484065703
+"Brodit",42,"Bobmon",12,0.04797149122807018
+"Brodit",42,"Nashh Kadavr",13,0.05894736842105263
+"Brodit",42,"Sullen Decimus",14,0.02167131833853226
+"Brodit",42,"Erika Mizune",15,0.06729377713458755
+"Brodit",42,"Alner Greyl",16,0.040236686390532544
+"Brodit",42,"Joffy Aulx-Gao",17,0.05523745368811048
+"Brodit",42,"Capri Sun KraftFoods",18,0.0321285140562249
+"Brodit",42,"RF Gnaeus Crassus",19,0.05529561888558061
+"Brodit",42,"Tora Bushido",20,0.022232236743277754
+"Brodit",42,"Lorelei Ierendi",21,0.08494572911750826
+"Brodit",42,"Vaari",22,0.03276047261009667
+"Brodit",42,"Falck Longbottom",23,0.07247845919918905
+"Brodit",42,"Annexe",24,0.020655513827244794
+"Brodit",42,"Utari Onzo",25,0.04758497316636851
+"Brodit",42,"Toxic Yaken",26,0.06414719045251119
+"Brodit",42,"Diana Olympos",27,0.06809127127852227
+"Brodit",42,"Nikolai Agnon",28,0.05707762557077625
+"Brodit",42,"DoToo Foo",29,0.09773043075497916
+"Brodit",42,"Niko Lorenzio",30,0.06599286563614744
+"Brodit",42,"Vic Jefferson",31,0.04958271968581247
+"Brodit",42,"Mining Forman",32,0.02115117891816921
+"Brodit",42,"commander aze",33,0.019044321329639888
+"Brodit",42,"Wyld",34,0.011431682090364725
+"Brodit",42,"Xavier Azabu",35,0.06698564593301436
+"Brodit",42,"Petrified",36,0.06564690885914595
+"Brodit",42,"Kane Carnifex",37,0.020207638116425657
+"Brodit",42,"Uriel Paradisi Anteovnuecci",38,0.06014215418261345
+"Brodit",42,"Ed Bever",39,0.0547008547008547
+"Brodit",42,"Jugular Vein",40,0.060255629945222156
+"Brodit",42,"Chiimera",41,0.013162335470806615
+"Brodit",42,"Brodit",42,1.0
+"Brodit",42,"Viceran Phaedra",43,0.07692307692307693
+"Brodit",42,"John Ellsworth",44,0.05176470588235294
+"Brodit",42,"Sogor",45,0.06184291898577613
+"Brodit",42,"InTheSunset",46,0.03802938634399308
+"Brodit",42,"Harry Saq",47,0.05687203791469194
+"Brodit",42,"Rivver",48,0.07159005275056518
+"Brodit",42,"Borat Guereen",49,0.08647990255785627
+"Brodit",42,"Terandria Starsong",50,0.07229778095919828
+"Brodit",42,"Iirithine",51,0.05411954765751212
+"Brodit",42,"Christy Cloud",52,0.053061224489795916
+"Brodit",42,"Apothne",53,0.021609625043803295
+"Viceran Phaedra",43,"Aryth",1,0.00749126019643749
+"Viceran Phaedra",43,"Mr Hyde113",2,0.032245222929936306
+"Viceran Phaedra",43,"Innominate",3,0.016227180527383367
+"Viceran Phaedra",43,"Steve Ronuken",4,0.04976303317535545
+"Viceran Phaedra",43,"Xenuria",5,0.014544329258858115
+"Viceran Phaedra",43,"NoobMan",6,0.03445883441258094
+"Viceran Phaedra",43,"Gorski Car",7,0.04356527093596059
+"Viceran Phaedra",43,"Jin'taan",8,0.057253886010362694
+"Viceran Phaedra",43,"The Judge",9,0.025243266111972924
+"Viceran Phaedra",43,"Fafer",10,0.025585429314830876
+"Viceran Phaedra",43,"Kyle Aparthos",11,0.021763708309779535
+"Viceran Phaedra",43,"Bobmon",12,0.036744692433315185
+"Viceran Phaedra",43,"Nashh Kadavr",13,0.046241050119331745
+"Viceran Phaedra",43,"Sullen Decimus",14,0.047225501770956316
+"Viceran Phaedra",43,"Erika Mizune",15,0.10458991723100075
+"Viceran Phaedra",43,"Alner Greyl",16,0.056809024979854954
+"Viceran Phaedra",43,"Joffy Aulx-Gao",17,0.0707174733951253
+"Viceran Phaedra",43,"Capri Sun KraftFoods",18,0.030181086519114688
+"Viceran Phaedra",43,"RF Gnaeus Crassus",19,0.05834405834405834
+"Viceran Phaedra",43,"Tora Bushido",20,0.02304911117806568
+"Viceran Phaedra",43,"Lorelei Ierendi",21,0.07833883907503539
+"Viceran Phaedra",43,"Vaari",22,0.031334413830361965
+"Viceran Phaedra",43,"Falck Longbottom",23,0.1127580730545262
+"Viceran Phaedra",43,"Annexe",24,0.02986878453038674
+"Viceran Phaedra",43,"Utari Onzo",25,0.04971181556195965
+"Viceran Phaedra",43,"Toxic Yaken",26,0.051434223541048464
+"Viceran Phaedra",43,"Diana Olympos",27,0.06649709302325581
+"Viceran Phaedra",43,"Nikolai Agnon",28,0.07674282366725249
+"Viceran Phaedra",43,"DoToo Foo",29,0.10870588235294118
+"Viceran Phaedra",43,"Niko Lorenzio",30,0.09611829944547134
+"Viceran Phaedra",43,"Vic Jefferson",31,0.03863080684596577
+"Viceran Phaedra",43,"Mining Forman",32,0.012579700155092194
+"Viceran Phaedra",43,"commander aze",33,0.05101127617683909
+"Viceran Phaedra",43,"Wyld",34,0.00925757850789617
+"Viceran Phaedra",43,"Xavier Azabu",35,0.0838946723821188
+"Viceran Phaedra",43,"Petrified",36,0.14979195561719832
+"Viceran Phaedra",43,"Kane Carnifex",37,0.016293279022403257
+"Viceran Phaedra",43,"Uriel Paradisi Anteovnuecci",38,0.0974914481185861
+"Viceran Phaedra",43,"Ed Bever",39,0.08569739952718676
+"Viceran Phaedra",43,"Jugular Vein",40,0.0759651307596513
+"Viceran Phaedra",43,"Chiimera",41,0.01766904519198097
+"Viceran Phaedra",43,"Brodit",42,0.07692307692307693
+"Viceran Phaedra",43,"Viceran Phaedra",43,1.0
+"Viceran Phaedra",43,"John Ellsworth",44,0.1012448132780083
+"Viceran Phaedra",43,"Sogor",45,0.10728218465539661
+"Viceran Phaedra",43,"InTheSunset",46,0.03127715030408341
+"Viceran Phaedra",43,"Harry Saq",47,0.035183737294761534
+"Viceran Phaedra",43,"Rivver",48,0.04373610081541883
+"Viceran Phaedra",43,"Borat Guereen",49,0.0932674490426189
+"Viceran Phaedra",43,"Terandria Starsong",50,0.12254160363086233
+"Viceran Phaedra",43,"Iirithine",51,0.04449838187702265
+"Viceran Phaedra",43,"Christy Cloud",52,0.040783034257748776
+"Viceran Phaedra",43,"Apothne",53,0.023321223485292395
+"John Ellsworth",44,"Aryth",1,0.007298001737619461
+"John Ellsworth",44,"Mr Hyde113",2,0.02353421303224051
+"John Ellsworth",44,"Innominate",3,0.0075253762688134405
+"John Ellsworth",44,"Steve Ronuken",4,0.03408102938619371
+"John Ellsworth",44,"Xenuria",5,0.012369477911646587
+"John Ellsworth",44,"NoobMan",6,0.028278888347147733
+"John Ellsworth",44,"Gorski Car",7,0.025624901745008647
+"John Ellsworth",44,"Jin'taan",8,0.026838432635534086
+"John Ellsworth",44,"The Judge",9,0.017699115044247787
+"John Ellsworth",44,"Fafer",10,0.028265107212475632
+"John Ellsworth",44,"Kyle Aparthos",11,0.013808139534883721
+"John Ellsworth",44,"Bobmon",12,0.02865412445730825
+"John Ellsworth",44,"Nashh Kadavr",13,0.021677662582469368
+"John Ellsworth",44,"Sullen Decimus",14,0.022145922746781115
+"John Ellsworth",44,"Erika Mizune",15,0.07670682730923695
+"John Ellsworth",44,"Alner Greyl",16,0.04964539007092199
+"John Ellsworth",44,"Joffy Aulx-Gao",17,0.024686940966010734
+"John Ellsworth",44,"Capri Sun KraftFoods",18,0.025569932224276032
+"John Ellsworth",44,"RF Gnaeus Crassus",19,0.050332383665717
+"John Ellsworth",44,"Tora Bushido",20,0.023168440826549782
+"John Ellsworth",44,"Lorelei Ierendi",21,0.07293868921775898
+"John Ellsworth",44,"Vaari",22,0.039597737272155875
+"John Ellsworth",44,"Falck Longbottom",23,0.09419431279620853
+"John Ellsworth",44,"Annexe",24,0.02293084915800788
+"John Ellsworth",44,"Utari Onzo",25,0.023873700423565652
+"John Ellsworth",44,"Toxic Yaken",26,0.0588568194680249
+"John Ellsworth",44,"Diana Olympos",27,0.041990668740279936
+"John Ellsworth",44,"Nikolai Agnon",28,0.05815508021390375
+"John Ellsworth",44,"DoToo Foo",29,0.04997501249375312
+"John Ellsworth",44,"Niko Lorenzio",30,0.059805285118219746
+"John Ellsworth",44,"Vic Jefferson",31,0.042387060791968766
+"John Ellsworth",44,"Mining Forman",32,0.017928286852589643
+"John Ellsworth",44,"commander aze",33,0.02631098118033985
+"John Ellsworth",44,"Wyld",34,0.010668698799771385
+"John Ellsworth",44,"Xavier Azabu",35,0.05501392757660167
+"John Ellsworth",44,"Petrified",36,0.0833976833976834
+"John Ellsworth",44,"Kane Carnifex",37,0.018486086787312707
+"John Ellsworth",44,"Uriel Paradisi Anteovnuecci",38,0.056293485135989876
+"John Ellsworth",44,"Ed Bever",39,0.05116279069767442
+"John Ellsworth",44,"Jugular Vein",40,0.05289492494639028
+"John Ellsworth",44,"Chiimera",41,0.010572687224669603
+"John Ellsworth",44,"Brodit",42,0.05176470588235294
+"John Ellsworth",44,"Viceran Phaedra",43,0.1012448132780083
+"John Ellsworth",44,"John Ellsworth",44,1.0
+"John Ellsworth",44,"Sogor",45,0.07021433850702144
+"John Ellsworth",44,"InTheSunset",46,0.06758304696449026
+"John Ellsworth",44,"Harry Saq",47,0.06793206793206794
+"John Ellsworth",44,"Rivver",48,0.07156133828996282
+"John Ellsworth",44,"Borat Guereen",49,0.0646521433591005
+"John Ellsworth",44,"Terandria Starsong",50,0.10422282120395328
+"John Ellsworth",44,"Iirithine",51,0.06365503080082136
+"John Ellsworth",44,"Christy Cloud",52,0.05257731958762887
+"John Ellsworth",44,"Apothne",53,0.013025812619502869
+"Sogor",45,"Aryth",1,0.014461791290057518
+"Sogor",45,"Mr Hyde113",2,0.04969439277172469
+"Sogor",45,"Innominate",3,0.013384005287508261
+"Sogor",45,"Steve Ronuken",4,0.06717299578059072
+"Sogor",45,"Xenuria",5,0.015202189115232594
+"Sogor",45,"NoobMan",6,0.07487131492746842
+"Sogor",45,"Gorski Car",7,0.059745046843802795
+"Sogor",45,"Jin'taan",8,0.09971211724679403
+"Sogor",45,"The Judge",9,0.018464930412015985
+"Sogor",45,"Fafer",10,0.03367983367983368
+"Sogor",45,"Kyle Aparthos",11,0.024101421008637502
+"Sogor",45,"Bobmon",12,0.057019903173749324
+"Sogor",45,"Nashh Kadavr",13,0.09773071104387292
+"Sogor",45,"Sullen Decimus",14,0.034482758620689655
+"Sogor",45,"Erika Mizune",15,0.143658810325477
+"Sogor",45,"Alner Greyl",16,0.06895208414491624
+"Sogor",45,"Joffy Aulx-Gao",17,0.10054347826086957
+"Sogor",45,"Capri Sun KraftFoods",18,0.0868289821061895
+"Sogor",45,"RF Gnaeus Crassus",19,0.06283367556468172
+"Sogor",45,"Tora Bushido",20,0.033338316639258486
+"Sogor",45,"Lorelei Ierendi",21,0.0501964207769533
+"Sogor",45,"Vaari",22,0.03571428571428571
+"Sogor",45,"Falck Longbottom",23,0.08704156479217603
+"Sogor",45,"Annexe",24,0.019601273245099683
+"Sogor",45,"Utari Onzo",25,0.07624113475177305
+"Sogor",45,"Toxic Yaken",26,0.08184882041405873
+"Sogor",45,"Diana Olympos",27,0.07303370786516854
+"Sogor",45,"Nikolai Agnon",28,0.09319196428571429
+"Sogor",45,"DoToo Foo",29,0.0755536257056014
+"Sogor",45,"Niko Lorenzio",30,0.0989010989010989
+"Sogor",45,"Vic Jefferson",31,0.11580516898608349
+"Sogor",45,"Mining Forman",32,0.018512228260869564
+"Sogor",45,"commander aze",33,0.03792864565292691
+"Sogor",45,"Wyld",34,0.039143954636912386
+"Sogor",45,"Xavier Azabu",35,0.06715575620767494
+"Sogor",45,"Petrified",36,0.15145631067961166
+"Sogor",45,"Kane Carnifex",37,0.014099783080260303
+"Sogor",45,"Uriel Paradisi Anteovnuecci",38,0.06175402179553711
+"Sogor",45,"Ed Bever",39,0.06528835690968444
+"Sogor",45,"Jugular Vein",40,0.06755196304849885
+"Sogor",45,"Chiimera",41,0.03383522246658772
+"Sogor",45,"Brodit",42,0.06184291898577613
+"Sogor",45,"Viceran Phaedra",43,0.10728218465539661
+"Sogor",45,"John Ellsworth",44,0.07021433850702144
+"Sogor",45,"Sogor",45,1.0
+"Sogor",45,"InTheSunset",46,0.04223107569721116
+"Sogor",45,"Harry Saq",47,0.045586107091172216
+"Sogor",45,"Rivver",48,0.06624825662482567
+"Sogor",45,"Borat Guereen",49,0.10584795321637427
+"Sogor",45,"Terandria Starsong",50,0.08739837398373984
+"Sogor",45,"Iirithine",51,0.04206642066420664
+"Sogor",45,"Christy Cloud",52,0.03099630996309963
+"Sogor",45,"Apothne",53,0.0290596303615018
+"InTheSunset",46,"Aryth",1,0.0073005698005698
+"InTheSunset",46,"Mr Hyde113",2,0.023423423423423424
+"InTheSunset",46,"Innominate",3,0.006811256497580211
+"InTheSunset",46,"Steve Ronuken",4,0.016097987751531057
+"InTheSunset",46,"Xenuria",5,0.013653561441026484
+"InTheSunset",46,"NoobMan",6,0.02488062327217894
+"InTheSunset",46,"Gorski Car",7,0.022912994712385837
+"InTheSunset",46,"Jin'taan",8,0.01486784140969163
+"InTheSunset",46,"The Judge",9,0.010583566073790974
+"InTheSunset",46,"Fafer",10,0.03466386554621849
+"InTheSunset",46,"Kyle Aparthos",11,0.00989952718676123
+"InTheSunset",46,"Bobmon",12,0.02676691729323308
+"InTheSunset",46,"Nashh Kadavr",13,0.01899148657498363
+"InTheSunset",46,"Sullen Decimus",14,0.008674531575294934
+"InTheSunset",46,"Erika Mizune",15,0.031668696711327646
+"InTheSunset",46,"Alner Greyl",16,0.020613834173156206
+"InTheSunset",46,"Joffy Aulx-Gao",17,0.028312570781426953
+"InTheSunset",46,"Capri Sun KraftFoods",18,0.026722472633612365
+"InTheSunset",46,"RF Gnaeus Crassus",19,0.022704837117472853
+"InTheSunset",46,"Tora Bushido",20,0.008673710771171739
+"InTheSunset",46,"Lorelei Ierendi",21,0.03618421052631579
+"InTheSunset",46,"Vaari",22,0.027834351663272233
+"InTheSunset",46,"Falck Longbottom",23,0.04021937842778794
+"InTheSunset",46,"Annexe",24,0.009240804493567675
+"InTheSunset",46,"Utari Onzo",25,0.02025111381125962
+"InTheSunset",46,"Toxic Yaken",26,0.03220035778175313
+"InTheSunset",46,"Diana Olympos",27,0.03168155970755483
+"InTheSunset",46,"Nikolai Agnon",28,0.08170914542728636
+"InTheSunset",46,"DoToo Foo",29,0.027239392352016764
+"InTheSunset",46,"Niko Lorenzio",30,0.05407463823305408
+"InTheSunset",46,"Vic Jefferson",31,0.050425273390036454
+"InTheSunset",46,"Mining Forman",32,0.012749445676274944
+"InTheSunset",46,"commander aze",33,0.011823388139663773
+"InTheSunset",46,"Wyld",34,0.007215288611544462
+"InTheSunset",46,"Xavier Azabu",35,0.052833078101071976
+"InTheSunset",46,"Petrified",36,0.041220115416323165
+"InTheSunset",46,"Kane Carnifex",37,0.006321612011062821
+"InTheSunset",46,"Uriel Paradisi Anteovnuecci",38,0.03169251517194875
+"InTheSunset",46,"Ed Bever",39,0.04720406681190995
+"InTheSunset",46,"Jugular Vein",40,0.06130573248407643
+"InTheSunset",46,"Chiimera",41,0.008653326122228232
+"InTheSunset",46,"Brodit",42,0.03802938634399308
+"InTheSunset",46,"Viceran Phaedra",43,0.03127715030408341
+"InTheSunset",46,"John Ellsworth",44,0.06758304696449026
+"InTheSunset",46,"Sogor",45,0.04223107569721116
+"InTheSunset",46,"InTheSunset",46,1.0
+"InTheSunset",46,"Harry Saq",47,0.067816091954023
+"InTheSunset",46,"Rivver",48,0.0596234309623431
+"InTheSunset",46,"Borat Guereen",49,0.02459016393442623
+"InTheSunset",46,"Terandria Starsong",50,0.05319148936170213
+"InTheSunset",46,"Iirithine",51,0.04307334109429569
+"InTheSunset",46,"Christy Cloud",52,0.08899876390605686
+"InTheSunset",46,"Apothne",53,0.01349380014587892
+"Harry Saq",47,"Aryth",1,0.014355742296918767
+"Harry Saq",47,"Mr Hyde113",2,0.03296250515039143
+"Harry Saq",47,"Innominate",3,0.013028169014084507
+"Harry Saq",47,"Steve Ronuken",4,0.030155979202772965
+"Harry Saq",47,"Xenuria",5,0.01596774193548387
+"Harry Saq",47,"NoobMan",6,0.03308823529411765
+"Harry Saq",47,"Gorski Car",7,0.03131424956507987
+"Harry Saq",47,"Jin'taan",8,0.031570426335671885
+"Harry Saq",47,"The Judge",9,0.01608462541660629
+"Harry Saq",47,"Fafer",10,0.03487229862475442
+"Harry Saq",47,"Kyle Aparthos",11,0.0210896309314587
+"Harry Saq",47,"Bobmon",12,0.04318448883666275
+"Harry Saq",47,"Nashh Kadavr",13,0.02137692549512732
+"Harry Saq",47,"Sullen Decimus",14,0.017960998973657202
+"Harry Saq",47,"Erika Mizune",15,0.05308690523004326
+"Harry Saq",47,"Alner Greyl",16,0.03956043956043956
+"Harry Saq",47,"Joffy Aulx-Gao",17,0.038852578068264344
+"Harry Saq",47,"Capri Sun KraftFoods",18,0.041979949874686714
+"Harry Saq",47,"RF Gnaeus Crassus",19,0.05090390104662226
+"Harry Saq",47,"Tora Bushido",20,0.013025275236470771
+"Harry Saq",47,"Lorelei Ierendi",21,0.07078711040676175
+"Harry Saq",47,"Vaari",22,0.032520325203252036
+"Harry Saq",47,"Falck Longbottom",23,0.04121964991530209
+"Harry Saq",47,"Annexe",24,0.02129563350035791
+"Harry Saq",47,"Utari Onzo",25,0.0306558013193636
+"Harry Saq",47,"Toxic Yaken",26,0.07479861910241657
+"Harry Saq",47,"Diana Olympos",27,0.05393700787401575
+"Harry Saq",47,"Nikolai Agnon",28,0.05263157894736842
+"Harry Saq",47,"DoToo Foo",29,0.05110220440881764
+"Harry Saq",47,"Niko Lorenzio",30,0.05845511482254697
+"Harry Saq",47,"Vic Jefferson",31,0.06811677160847167
+"Harry Saq",47,"Mining Forman",32,0.023688046647230322
+"Harry Saq",47,"commander aze",33,0.017766497461928935
+"Harry Saq",47,"Wyld",34,0.015319800842589047
+"Harry Saq",47,"Xavier Azabu",35,0.06779661016949153
+"Harry Saq",47,"Petrified",36,0.07444359171143515
+"Harry Saq",47,"Kane Carnifex",37,0.013956193060670672
+"Harry Saq",47,"Uriel Paradisi Anteovnuecci",38,0.0471105527638191
+"Harry Saq",47,"Ed Bever",39,0.049867021276595744
+"Harry Saq",47,"Jugular Vein",40,0.05527638190954774
+"Harry Saq",47,"Chiimera",41,0.01559177888022679
+"Harry Saq",47,"Brodit",42,0.05687203791469194
+"Harry Saq",47,"Viceran Phaedra",43,0.035183737294761534
+"Harry Saq",47,"John Ellsworth",44,0.06793206793206794
+"Harry Saq",47,"Sogor",45,0.045586107091172216
+"Harry Saq",47,"InTheSunset",46,0.067816091954023
+"Harry Saq",47,"Harry Saq",47,1.0
+"Harry Saq",47,"Rivver",48,0.09108159392789374
+"Harry Saq",47,"Borat Guereen",49,0.039889958734525444
+"Harry Saq",47,"Terandria Starsong",50,0.059636992221261884
+"Harry Saq",47,"Iirithine",51,0.07268951194184839
+"Harry Saq",47,"Christy Cloud",52,0.052740434332988625
+"Harry Saq",47,"Apothne",53,0.01802018260451706
+"Rivver",48,"Aryth",1,0.012924349474409787
+"Rivver",48,"Mr Hyde113",2,0.02700877785280216
+"Rivver",48,"Innominate",3,0.014598540145985401
+"Rivver",48,"Steve Ronuken",4,0.03254539225762247
+"Rivver",48,"Xenuria",5,0.025216832637327338
+"Rivver",48,"NoobMan",6,0.03690303907380608
+"Rivver",48,"Gorski Car",7,0.026577556729872553
+"Rivver",48,"Jin'taan",8,0.02197227308396547
+"Rivver",48,"The Judge",9,0.02647186460292203
+"Rivver",48,"Fafer",10,0.033003300330033
+"Rivver",48,"Kyle Aparthos",11,0.019800549212313917
+"Rivver",48,"Bobmon",12,0.04815455594002307
+"Rivver",48,"Nashh Kadavr",13,0.026169950738916255
+"Rivver",48,"Sullen Decimus",14,0.02063250465076949
+"Rivver",48,"Erika Mizune",15,0.06805877803557618
+"Rivver",48,"Alner Greyl",16,0.058340535868625754
+"Rivver",48,"Joffy Aulx-Gao",17,0.021859819569743234
+"Rivver",48,"Capri Sun KraftFoods",18,0.029589371980676328
+"Rivver",48,"RF Gnaeus Crassus",19,0.047989031078610606
+"Rivver",48,"Tora Bushido",20,0.01441054729418979
+"Rivver",48,"Lorelei Ierendi",21,0.11989389920424404
+"Rivver",48,"Vaari",22,0.046441495778045835
+"Rivver",48,"Falck Longbottom",23,0.06225895316804408
+"Rivver",48,"Annexe",24,0.03762766529295825
+"Rivver",48,"Utari Onzo",25,0.03474320241691843
+"Rivver",48,"Toxic Yaken",26,0.07076247942951179
+"Rivver",48,"Diana Olympos",27,0.07264957264957266
+"Rivver",48,"Nikolai Agnon",28,0.04785894206549118
+"Rivver",48,"DoToo Foo",29,0.05665859564164649
+"Rivver",48,"Niko Lorenzio",30,0.0664451827242525
+"Rivver",48,"Vic Jefferson",31,0.039445628997867806
+"Rivver",48,"Mining Forman",32,0.03203619909502262
+"Rivver",48,"commander aze",33,0.018227305218012867
+"Rivver",48,"Wyld",34,0.018339950841368878
+"Rivver",48,"Xavier Azabu",35,0.06684491978609626
+"Rivver",48,"Petrified",36,0.05698005698005698
+"Rivver",48,"Kane Carnifex",37,0.02250865717583686
+"Rivver",48,"Uriel Paradisi Anteovnuecci",38,0.06056935190793458
+"Rivver",48,"Ed Bever",39,0.04459798994974874
+"Rivver",48,"Jugular Vein",40,0.07172413793103448
+"Rivver",48,"Chiimera",41,0.025026436376454
+"Rivver",48,"Brodit",42,0.07159005275056518
+"Rivver",48,"Viceran Phaedra",43,0.04373610081541883
+"Rivver",48,"John Ellsworth",44,0.07156133828996282
+"Rivver",48,"Sogor",45,0.06624825662482567
+"Rivver",48,"InTheSunset",46,0.0596234309623431
+"Rivver",48,"Harry Saq",47,0.09108159392789374
+"Rivver",48,"Rivver",48,1.0
+"Rivver",48,"Borat Guereen",49,0.030342156229825695
+"Rivver",48,"Terandria Starsong",50,0.13028472821397757
+"Rivver",48,"Iirithine",51,0.06992337164750957
+"Rivver",48,"Christy Cloud",52,0.09542743538767395
+"Rivver",48,"Apothne",53,0.016027543630535438
+"Borat Guereen",49,"Aryth",1,0.014139444173573866
+"Borat Guereen",49,"Mr Hyde113",2,0.060005321979776476
+"Borat Guereen",49,"Innominate",3,0.007966184360266623
+"Borat Guereen",49,"Steve Ronuken",4,0.09567901234567901
+"Borat Guereen",49,"Xenuria",5,0.01337139423076923
+"Borat Guereen",49,"NoobMan",6,0.05883689232167197
+"Borat Guereen",49,"Gorski Car",7,0.07881697119851347
+"Borat Guereen",49,"Jin'taan",8,0.06671664167916042
+"Borat Guereen",49,"The Judge",9,0.04293105859320375
+"Borat Guereen",49,"Fafer",10,0.03068227694792087
+"Borat Guereen",49,"Kyle Aparthos",11,0.039081103796049864
+"Borat Guereen",49,"Bobmon",12,0.044421217663966554
+"Borat Guereen",49,"Nashh Kadavr",13,0.10761390887290168
+"Borat Guereen",49,"Sullen Decimus",14,0.02812600450016072
+"Borat Guereen",49,"Erika Mizune",15,0.20664349169563537
+"Borat Guereen",49,"Alner Greyl",16,0.0688212927756654
+"Borat Guereen",49,"Joffy Aulx-Gao",17,0.15347052668294384
+"Borat Guereen",49,"Capri Sun KraftFoods",18,0.053631284916201116
+"Borat Guereen",49,"RF Gnaeus Crassus",19,0.0498220640569395
+"Borat Guereen",49,"Tora Bushido",20,0.06484589563625268
+"Borat Guereen",49,"Lorelei Ierendi",21,0.06917423259835712
+"Borat Guereen",49,"Vaari",22,0.04276479363500746
+"Borat Guereen",49,"Falck Longbottom",23,0.08685334598955861
+"Borat Guereen",49,"Annexe",24,0.019552609776304887
+"Borat Guereen",49,"Utari Onzo",25,0.05834186284544524
+"Borat Guereen",49,"Toxic Yaken",26,0.10611854684512428
+"Borat Guereen",49,"Diana Olympos",27,0.15752409191994068
+"Borat Guereen",49,"Nikolai Agnon",28,0.060732984293193716
+"Borat Guereen",49,"DoToo Foo",29,0.1357142857142857
+"Borat Guereen",49,"Niko Lorenzio",30,0.06324324324324325
+"Borat Guereen",49,"Vic Jefferson",31,0.08442776735459662
+"Borat Guereen",49,"Mining Forman",32,0.010835139189864977
+"Borat Guereen",49,"commander aze",33,0.035897435897435895
+"Borat Guereen",49,"Wyld",34,0.019691325172964343
+"Borat Guereen",49,"Xavier Azabu",35,0.08416389811738649
+"Borat Guereen",49,"Petrified",36,0.08716136631330977
+"Borat Guereen",49,"Kane Carnifex",37,0.013388075687254551
+"Borat Guereen",49,"Uriel Paradisi Anteovnuecci",38,0.09198966408268734
+"Borat Guereen",49,"Ed Bever",39,0.07370095440084835
+"Borat Guereen",49,"Jugular Vein",40,0.05506607929515418
+"Borat Guereen",49,"Chiimera",41,0.02915209062135599
+"Borat Guereen",49,"Brodit",42,0.08647990255785627
+"Borat Guereen",49,"Viceran Phaedra",43,0.0932674490426189
+"Borat Guereen",49,"John Ellsworth",44,0.0646521433591005
+"Borat Guereen",49,"Sogor",45,0.10584795321637427
+"Borat Guereen",49,"InTheSunset",46,0.02459016393442623
+"Borat Guereen",49,"Harry Saq",47,0.039889958734525444
+"Borat Guereen",49,"Rivver",48,0.030342156229825695
+"Borat Guereen",49,"Borat Guereen",49,1.0
+"Borat Guereen",49,"Terandria Starsong",50,0.07042253521126761
+"Borat Guereen",49,"Iirithine",51,0.03571428571428571
+"Borat Guereen",49,"Christy Cloud",52,0.0442225392296719
+"Borat Guereen",49,"Apothne",53,0.047194177036863114
+"Terandria Starsong",50,"Aryth",1,0.010008481764206954
+"Terandria Starsong",50,"Mr Hyde113",2,0.02426990265368716
+"Terandria Starsong",50,"Innominate",3,0.011978097193702943
+"Terandria Starsong",50,"Steve Ronuken",4,0.0405727923627685
+"Terandria Starsong",50,"Xenuria",5,0.01893043066729768
+"Terandria Starsong",50,"NoobMan",6,0.027719050974864927
+"Terandria Starsong",50,"Gorski Car",7,0.031336832355665326
+"Terandria Starsong",50,"Jin'taan",8,0.03400830737279335
+"Terandria Starsong",50,"The Judge",9,0.016439909297052153
+"Terandria Starsong",50,"Fafer",10,0.029986369831894594
+"Terandria Starsong",50,"Kyle Aparthos",11,0.01900271467352479
+"Terandria Starsong",50,"Bobmon",12,0.04889768230638779
+"Terandria Starsong",50,"Nashh Kadavr",13,0.02897675822517356
+"Terandria Starsong",50,"Sullen Decimus",14,0.03243791180942727
+"Terandria Starsong",50,"Erika Mizune",15,0.12753277711561384
+"Terandria Starsong",50,"Alner Greyl",16,0.07584149978696209
+"Terandria Starsong",50,"Joffy Aulx-Gao",17,0.03850120316259883
+"Terandria Starsong",50,"Capri Sun KraftFoods",18,0.01929824561403509
+"Terandria Starsong",50,"RF Gnaeus Crassus",19,0.06424079065588499
+"Terandria Starsong",50,"Tora Bushido",20,0.018101612412534225
+"Terandria Starsong",50,"Lorelei Ierendi",21,0.11809815950920245
+"Terandria Starsong",50,"Vaari",22,0.03190883190883191
+"Terandria Starsong",50,"Falck Longbottom",23,0.10413223140495868
+"Terandria Starsong",50,"Annexe",24,0.03128845139743364
+"Terandria Starsong",50,"Utari Onzo",25,0.046451133407655144
+"Terandria Starsong",50,"Toxic Yaken",26,0.06568575932737783
+"Terandria Starsong",50,"Diana Olympos",27,0.08614088820826953
+"Terandria Starsong",50,"Nikolai Agnon",28,0.05968331303288672
+"Terandria Starsong",50,"DoToo Foo",29,0.0521901211556384
+"Terandria Starsong",50,"Niko Lorenzio",30,0.05923125393824827
+"Terandria Starsong",50,"Vic Jefferson",31,0.05301455301455302
+"Terandria Starsong",50,"Mining Forman",32,0.01904761904761905
+"Terandria Starsong",50,"commander aze",33,0.03217733285663211
+"Terandria Starsong",50,"Wyld",34,0.010545790934320074
+"Terandria Starsong",50,"Xavier Azabu",35,0.07042253521126761
+"Terandria Starsong",50,"Petrified",36,0.10325318246110325
+"Terandria Starsong",50,"Kane Carnifex",37,0.01697792869269949
+"Terandria Starsong",50,"Uriel Paradisi Anteovnuecci",38,0.06592765460910152
+"Terandria Starsong",50,"Ed Bever",39,0.08959899749373433
+"Terandria Starsong",50,"Jugular Vein",40,0.09764309764309764
+"Terandria Starsong",50,"Chiimera",41,0.018320082958866227
+"Terandria Starsong",50,"Brodit",42,0.07229778095919828
+"Terandria Starsong",50,"Viceran Phaedra",43,0.12254160363086233
+"Terandria Starsong",50,"John Ellsworth",44,0.10422282120395328
+"Terandria Starsong",50,"Sogor",45,0.08739837398373984
+"Terandria Starsong",50,"InTheSunset",46,0.05319148936170213
+"Terandria Starsong",50,"Harry Saq",47,0.059636992221261884
+"Terandria Starsong",50,"Rivver",48,0.13028472821397757
+"Terandria Starsong",50,"Borat Guereen",49,0.07042253521126761
+"Terandria Starsong",50,"Terandria Starsong",50,1.0
+"Terandria Starsong",50,"Iirithine",51,0.05110132158590308
+"Terandria Starsong",50,"Christy Cloud",52,0.07285974499089254
+"Terandria Starsong",50,"Apothne",53,0.013975337639459778
+"Iirithine",51,"Aryth",1,0.031512981199641896
+"Iirithine",51,"Mr Hyde113",2,0.01656258484930763
+"Iirithine",51,"Innominate",3,0.03229880909418982
+"Iirithine",51,"Steve Ronuken",4,0.018962247888295123
+"Iirithine",51,"Xenuria",5,0.036216305606085665
+"Iirithine",51,"NoobMan",6,0.02324443356985564
+"Iirithine",51,"Gorski Car",7,0.01820464532328939
+"Iirithine",51,"Jin'taan",8,0.019639494215765402
+"Iirithine",51,"The Judge",9,0.030414882622176287
+"Iirithine",51,"Fafer",10,0.04221105527638191
+"Iirithine",51,"Kyle Aparthos",11,0.027847726262775884
+"Iirithine",51,"Bobmon",12,0.02475968540635013
+"Iirithine",51,"Nashh Kadavr",13,0.022575516693163752
+"Iirithine",51,"Sullen Decimus",14,0.03065134099616858
+"Iirithine",51,"Erika Mizune",15,0.04051927616050354
+"Iirithine",51,"Alner Greyl",16,0.0392156862745098
+"Iirithine",51,"Joffy Aulx-Gao",17,0.017998560115190784
+"Iirithine",51,"Capri Sun KraftFoods",18,0.016985793699814702
+"Iirithine",51,"RF Gnaeus Crassus",19,0.03866348448687351
+"Iirithine",51,"Tora Bushido",20,0.028155646947168617
+"Iirithine",51,"Lorelei Ierendi",21,0.07783783783783783
+"Iirithine",51,"Vaari",22,0.03784477228992944
+"Iirithine",51,"Falck Longbottom",23,0.05107370864770749
+"Iirithine",51,"Annexe",24,0.04033736707004034
+"Iirithine",51,"Utari Onzo",25,0.033490937746256895
+"Iirithine",51,"Toxic Yaken",26,0.05399195864445721
+"Iirithine",51,"Diana Olympos",27,0.04795877923107412
+"Iirithine",51,"Nikolai Agnon",28,0.03825503355704698
+"Iirithine",51,"DoToo Foo",29,0.02838645418326693
+"Iirithine",51,"Niko Lorenzio",30,0.053824362606232294
+"Iirithine",51,"Vic Jefferson",31,0.03209459459459459
+"Iirithine",51,"Mining Forman",32,0.0445109407144193
+"Iirithine",51,"commander aze",33,0.010318609703113686
+"Iirithine",51,"Wyld",34,0.0365925634467834
+"Iirithine",51,"Xavier Azabu",35,0.05042613636363636
+"Iirithine",51,"Petrified",36,0.03954372623574144
+"Iirithine",51,"Kane Carnifex",37,0.03711093375897845
+"Iirithine",51,"Uriel Paradisi Anteovnuecci",38,0.05487411233053583
+"Iirithine",51,"Ed Bever",39,0.050271739130434784
+"Iirithine",51,"Jugular Vein",40,0.03306973400431344
+"Iirithine",51,"Chiimera",41,0.03467683369644154
+"Iirithine",51,"Brodit",42,0.05411954765751212
+"Iirithine",51,"Viceran Phaedra",43,0.04449838187702265
+"Iirithine",51,"John Ellsworth",44,0.06365503080082136
+"Iirithine",51,"Sogor",45,0.04206642066420664
+"Iirithine",51,"InTheSunset",46,0.04307334109429569
+"Iirithine",51,"Harry Saq",47,0.07268951194184839
+"Iirithine",51,"Rivver",48,0.06992337164750957
+"Iirithine",51,"Borat Guereen",49,0.03571428571428571
+"Iirithine",51,"Terandria Starsong",50,0.05110132158590308
+"Iirithine",51,"Iirithine",51,1.0
+"Iirithine",51,"Christy Cloud",52,0.04898828541001065
+"Iirithine",51,"Apothne",53,0.023151515151515152
+"Christy Cloud",52,"Aryth",1,0.008070175438596491
+"Christy Cloud",52,"Mr Hyde113",2,0.03232490675507667
+"Christy Cloud",52,"Innominate",3,0.0067043048694424845
+"Christy Cloud",52,"Steve Ronuken",4,0.02753572673405368
+"Christy Cloud",52,"Xenuria",5,0.02040483186418544
+"Christy Cloud",52,"NoobMan",6,0.04962216624685139
+"Christy Cloud",52,"Gorski Car",7,0.03468670076726343
+"Christy Cloud",52,"Jin'taan",8,0.02693144722524483
+"Christy Cloud",52,"The Judge",9,0.010593527789870846
+"Christy Cloud",52,"Fafer",10,0.05427547363031234
+"Christy Cloud",52,"Kyle Aparthos",11,0.010213014298220018
+"Christy Cloud",52,"Bobmon",12,0.05862798428528256
+"Christy Cloud",52,"Nashh Kadavr",13,0.04539516655780536
+"Christy Cloud",52,"Sullen Decimus",14,0.004765957446808511
+"Christy Cloud",52,"Erika Mizune",15,0.036249014972419225
+"Christy Cloud",52,"Alner Greyl",16,0.0692201199815413
+"Christy Cloud",52,"Joffy Aulx-Gao",17,0.028895391367959034
+"Christy Cloud",52,"Capri Sun KraftFoods",18,0.05741935483870968
+"Christy Cloud",52,"RF Gnaeus Crassus",19,0.034961685823754786
+"Christy Cloud",52,"Tora Bushido",20,0.01328125
+"Christy Cloud",52,"Lorelei Ierendi",21,0.06397849462365592
+"Christy Cloud",52,"Vaari",22,0.026905829596412557
+"Christy Cloud",52,"Falck Longbottom",23,0.03815028901734104
+"Christy Cloud",52,"Annexe",24,0.01835522764081339
+"Christy Cloud",52,"Utari Onzo",25,0.02034428794992175
+"Christy Cloud",52,"Toxic Yaken",26,0.033503691084611015
+"Christy Cloud",52,"Diana Olympos",27,0.05667202572347267
+"Christy Cloud",52,"Nikolai Agnon",28,0.0485968514715948
+"Christy Cloud",52,"DoToo Foo",29,0.03170608958228485
+"Christy Cloud",52,"Niko Lorenzio",30,0.02576601671309192
+"Christy Cloud",52,"Vic Jefferson",31,0.038857142857142854
+"Christy Cloud",52,"Mining Forman",32,0.014017840888403422
+"Christy Cloud",52,"commander aze",33,0.010163339382940109
+"Christy Cloud",52,"Wyld",34,0.009607993850883935
+"Christy Cloud",52,"Xavier Azabu",35,0.044967880085653104
+"Christy Cloud",52,"Petrified",36,0.0289193302891933
+"Christy Cloud",52,"Kane Carnifex",37,0.00974089226573154
+"Christy Cloud",52,"Uriel Paradisi Anteovnuecci",38,0.04048843187660668
+"Christy Cloud",52,"Ed Bever",39,0.08197879858657244
+"Christy Cloud",52,"Jugular Vein",40,0.06357516828721017
+"Christy Cloud",52,"Chiimera",41,0.015544041450777202
+"Christy Cloud",52,"Brodit",42,0.053061224489795916
+"Christy Cloud",52,"Viceran Phaedra",43,0.040783034257748776
+"Christy Cloud",52,"John Ellsworth",44,0.05257731958762887
+"Christy Cloud",52,"Sogor",45,0.03099630996309963
+"Christy Cloud",52,"InTheSunset",46,0.08899876390605686
+"Christy Cloud",52,"Harry Saq",47,0.052740434332988625
+"Christy Cloud",52,"Rivver",48,0.09542743538767395
+"Christy Cloud",52,"Borat Guereen",49,0.0442225392296719
+"Christy Cloud",52,"Terandria Starsong",50,0.07285974499089254
+"Christy Cloud",52,"Iirithine",51,0.04898828541001065
+"Christy Cloud",52,"Christy Cloud",52,1.0
+"Christy Cloud",52,"Apothne",53,0.02605942523136873
+"Apothne",53,"Aryth",1,0.451566794942276
+"Apothne",53,"Mr Hyde113",2,0.24036224659355268
+"Apothne",53,"Innominate",3,0.4487616951018162
+"Apothne",53,"Steve Ronuken",4,0.21459110342945512
+"Apothne",53,"Xenuria",5,0.4012471887139644
+"Apothne",53,"NoobMan",6,0.15159021103735262
+"Apothne",53,"Gorski Car",7,0.25080818965517243
+"Apothne",53,"Jin'taan",8,0.12231437993404617
+"Apothne",53,"The Judge",9,0.43354210160055673
+"Apothne",53,"Fafer",10,0.05242782878000221
+"Apothne",53,"Kyle Aparthos",11,0.5132063558876144
+"Apothne",53,"Bobmon",12,0.14550015678896205
+"Apothne",53,"Nashh Kadavr",13,0.16444493006993008
+"Apothne",53,"Sullen Decimus",14,0.43521701761925224
+"Apothne",53,"Erika Mizune",15,0.06967865097041044
+"Apothne",53,"Alner Greyl",16,0.04278702518139138
+"Apothne",53,"Joffy Aulx-Gao",17,0.12759415833973867
+"Apothne",53,"Capri Sun KraftFoods",18,0.14986609534011783
+"Apothne",53,"RF Gnaeus Crassus",19,0.06488760934558742
+"Apothne",53,"Tora Bushido",20,0.48974139773455866
+"Apothne",53,"Lorelei Ierendi",21,0.04242625124295658
+"Apothne",53,"Vaari",22,0.019010123734533185
+"Apothne",53,"Falck Longbottom",23,0.04648795385137428
+"Apothne",53,"Annexe",24,0.4431117957746479
+"Apothne",53,"Utari Onzo",25,0.08029197080291971
+"Apothne",53,"Toxic Yaken",26,0.050271739130434784
+"Apothne",53,"Diana Olympos",27,0.11819492183168866
+"Apothne",53,"Nikolai Agnon",28,0.03835489833641405
+"Apothne",53,"DoToo Foo",29,0.07998182231311066
+"Apothne",53,"Niko Lorenzio",30,0.03368835378559852
+"Apothne",53,"Vic Jefferson",31,0.05111640031735237
+"Apothne",53,"Mining Forman",32,0.4515266324938712
+"Apothne",53,"commander aze",33,0.4611759425493716
+"Apothne",53,"Wyld",34,0.45807043707697603
+"Apothne",53,"Xavier Azabu",35,0.02836061793866728
+"Apothne",53,"Petrified",36,0.026812776871065515
+"Apothne",53,"Kane Carnifex",37,0.44942660550458713
+"Apothne",53,"Uriel Paradisi Anteovnuecci",38,0.0502256683254253
+"Apothne",53,"Ed Bever",39,0.035130154342317435
+"Apothne",53,"Jugular Vein",40,0.029572074683984692
+"Apothne",53,"Chiimera",41,0.4777327935222672
+"Apothne",53,"Brodit",42,0.021609625043803295
+"Apothne",53,"Viceran Phaedra",43,0.023321223485292395
+"Apothne",53,"John Ellsworth",44,0.013025812619502869
+"Apothne",53,"Sogor",45,0.0290596303615018
+"Apothne",53,"InTheSunset",46,0.01349380014587892
+"Apothne",53,"Harry Saq",47,0.01802018260451706
+"Apothne",53,"Rivver",48,0.016027543630535438
+"Apothne",53,"Borat Guereen",49,0.047194177036863114
+"Apothne",53,"Terandria Starsong",50,0.013975337639459778
+"Apothne",53,"Iirithine",51,0.023151515151515152
+"Apothne",53,"Christy Cloud",52,0.02605942523136873
+"Apothne",53,"Apothne",53,1.0

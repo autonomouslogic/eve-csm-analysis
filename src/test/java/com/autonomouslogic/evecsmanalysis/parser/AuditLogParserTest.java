@@ -1,6 +1,7 @@
 package com.autonomouslogic.evecsmanalysis.parser;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNull;
 
 import com.autonomouslogic.evecsmanalysis.Main;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -69,6 +70,24 @@ public class AuditLogParserTest {
 						"Dark Shines",
 						"Luke Anninan"),
 				auditLog.getFinalResults());
+	}
+
+	@Test
+	@SneakyThrows
+	public void shouldParseRoundHeadersWithoutRoundNumber() {
+		var auditLog = new AuditLogParser(new File("csm10/auditLog.txt")).parse();
+
+		var round1 = auditLog.getRounds().get(0);
+		assertEquals(1, round1.getRoundNumber());
+		assertEquals(75, round1.getCandidatesLeft());
+
+		var round2 = auditLog.getRounds().get(1);
+		assertEquals(2, round2.getRoundNumber());
+		assertEquals(74, round2.getCandidatesLeft());
+
+		// csm10 also omits the pre-elimination tally.
+		assertEquals("Raiealatar", round1.getElimination().getCandidate());
+		assertNull(round1.getPreEliminationTalley());
 	}
 
 	@ParameterizedTest

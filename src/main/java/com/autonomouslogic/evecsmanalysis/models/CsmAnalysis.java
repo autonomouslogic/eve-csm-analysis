@@ -14,6 +14,12 @@ public class CsmAnalysis {
 
 	int candidateCount;
 
+	/**
+	 * Whether the election used first-past-the-post voting. Only {@link #totalVotes}, {@link #winners} and the elected
+	 * count are set for these elections.
+	 */
+	boolean firstPastThePost;
+
 	int totalVotes;
 
 	/**

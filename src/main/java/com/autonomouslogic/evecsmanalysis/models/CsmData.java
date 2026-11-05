@@ -17,8 +17,30 @@ public class CsmData {
 	@JsonIgnore
 	int csmNumber;
 
+	/**
+	 * Years the CSM served, as free text, e.g. {@code 2025-2026}. Optional.
+	 */
+	String years;
+
+	/**
+	 * Total votes for the election. Overrides the total derived from the ballots or results when set. Optional.
+	 */
+	Integer votes;
+
 	@Builder.Default
 	List<String> ccpPicks = List.of();
+
+	/**
+	 * Elected members who resigned during the term. Optional.
+	 */
+	@Builder.Default
+	List<String> resigned = List.of();
+
+	/**
+	 * Members who joined during the term to replace a resigned member. Optional.
+	 */
+	@Builder.Default
+	List<String> replacements = List.of();
 
 	@Builder.Default
 	Map<String, String> urls = Map.of();

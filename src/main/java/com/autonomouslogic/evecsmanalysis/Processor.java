@@ -5,6 +5,7 @@ import com.autonomouslogic.evecsmanalysis.models.BallotFile;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.autonomouslogic.evecsmanalysis.parser.AuditLogParser;
 import com.autonomouslogic.evecsmanalysis.parser.BallotParser;
+import com.autonomouslogic.evecsmanalysis.parser.ResultsCsvParser;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.File;
 import java.util.List;
@@ -40,6 +41,11 @@ public class Processor {
 					"Invalid CSM number: " + csmConfig.getCsmNumber() + " on dir: " + csmConfig);
 		}
 
+		if (csmConfig.getResultsCsv().exists()) {
+			processFirstPastThePost(csmConfig);
+			return;
+		}
+
 		var ballotFile = parseBallotFile(csmConfig.getVotesBlt());
 		objectMapper.writerWithDefaultPrettyPrinter().writeValue(csmConfig.getVotesJson(), ballotFile);
 
@@ -47,6 +53,14 @@ public class Processor {
 		objectMapper.writerWithDefaultPrettyPrinter().writeValue(csmConfig.getAuditLogJson(), auditLog);
 
 		var csmAnalysis = new CsmAnalyser(csmConfig, ballotFile, auditLog).run();
+		objectMapper.writerWithDefaultPrettyPrinter().writeValue(csmConfig.getAnalysisJson(), csmAnalysis);
+	}
+
+	@SneakyThrows
+	private void processFirstPastThePost(CsmConfig csmConfig) {
+		log.info("Parsing results file: {}", csmConfig.getResultsCsv());
+		var votes = new ResultsCsvParser(csmConfig.getResultsCsv()).parse();
+		var csmAnalysis = CsmAnalyser.firstPastThePost(csmConfig.getCsmNumber(), votes);
 		objectMapper.writerWithDefaultPrettyPrinter().writeValue(csmConfig.getAnalysisJson(), csmAnalysis);
 	}
 

@@ -15,6 +15,28 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+nav:
+  - Home: index.md
+  - CSM 20: csm20.md
+  - CSM 19: csm19.md
+  - CSM 18: csm18.md
+  - CSM 17: csm17.md
+  - CSM 16: csm16.md
+  - CSM 15: csm15.md
+  - CSM 14: csm14.md
+  - CSM 13: csm13.md
+  - CSM 12: csm12.md
+  - CSM 11: csm11.md
+  - CSM 10: csm10.md
+  - CSM 9: csm9.md
+  - CSM 8: csm8.md
+  - CSM 7: csm7.md
+  - CSM 6: csm6.md
+  - CSM 5: csm5.md
+  - CSM 4: csm4.md
+  - Alumni: alumni.md
+  - Glossary: glossary.md
+
 plugins:
   - charts
   - search

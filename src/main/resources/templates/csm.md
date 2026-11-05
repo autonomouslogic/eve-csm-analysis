@@ -1,6 +1,7 @@
 # CSM [(${analysis.csmNumber})]
 
-* Method: [Wright single transferable vote](https://en.wikipedia.org/wiki/Wright_system)
+[# th:if="${data.years != null}"]* Years: [(${data.years})]
+[/]* Method: [Wright single transferable vote](https://en.wikipedia.org/wiki/Wright_system)
 * Elected: [(${analysis.winners.size() + data.ccpPicks.size()})]
 * Candidates: [(${analysis.candidateCount})]
 * Total votes: [(${#numbers.formatInteger(analysis.totalVotes, 1, 'COMMA')})]
@@ -57,6 +58,33 @@
         [# th:each="name : ${analysis.withdrawnCandidates}"]
         <tr>
             <td>[(${name})]</td>
+        </tr>
+        [/]
+    </tbody>
+</table>
+[/]
+
+[# th:if="${data.resigned.size() + data.replacements.size()} > 0"]
+## Resigned and Replacements
+
+<table>
+    <thead>
+        <tr>
+            <th>Candidate</th>
+            <th>Change</th>
+        </tr>
+    </thead>
+    <tbody>
+        [# th:each="name : ${data.resigned}"]
+        <tr>
+            <td>[(${name})]</td>
+            <td>resigned</td>
+        </tr>
+        [/]
+        [# th:each="name : ${data.replacements}"]
+        <tr>
+            <td>[(${name})]</td>
+            <td>replacement</td>
         </tr>
         [/]
     </tbody>
