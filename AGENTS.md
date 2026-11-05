@@ -11,10 +11,11 @@ Markdown pages and CSV/JSON data into `docs/`, which MkDocs (Material theme + Ve
 ## Repository layout
 
 ```
-csmNN/                    One directory per election (csm12 … csm20). Raw inputs, committed.
-  votes.blt               Ballots in BLT format (see Meek's method PDF, section 3.1)
-  auditLog.txt            Official audit log produced by CCP's WrightTalley.py
-  WrightTalley.py         CCP's STV tally script (Python 2). Copied verbatim per election.
+csmNN/                    One directory per election (csm4 … csm20). Raw inputs, committed.
+  votes.blt               Ballots in BLT format (see Meek's method PDF, section 3.1). STV elections only.
+  auditLog.txt            Official audit log produced by CCP's WrightTalley.py. STV elections only.
+  WrightTalley.py         CCP's STV tally script (Python 2). Copied verbatim per election. STV elections only.
+  results.csv             First-past-the-post results (`Character,Votes`), one row per elected candidate. FPTP elections only (csm4 … csm7).
   csm.json                Hand-written metadata: years served, CCP picks, resignations, replacements, and news-post URLs
 src/main/java/com/autonomouslogic/evecsmanalysis/
   Main.java               Entry point. Commands: `process`, `thymeleaf`. Discovers csm* dirs.
@@ -23,7 +24,7 @@ src/main/java/com/autonomouslogic/evecsmanalysis/
   LeastSignificantRankRunner.java  Re-runs WrightTalley.py in Docker on truncated ballots
   AnalysisRenderer.java   `thymeleaf`: render docs/*.md and docs/data/* from build JSON
   AlumniFactory.java      Builds the cross-election alumni table
-  parser/                 Hand-written line parsers for .blt and auditLog.txt
+  parser/                 Hand-written line parsers for .blt, auditLog.txt, and results.csv
   models/                 Lombok @Value/@Builder + Jackson models
   csv/                    CSV writers for docs/data/
 src/main/resources/templates/  Thymeleaf TEXT-mode templates: csm.md, index.md, alumni.md
@@ -36,9 +37,10 @@ build/csm/                Intermediate JSON (gitignored)
 ## Pipeline
 
 1. `make process` (`./gradlew csmProcess`) — for every `csm*` dir: parse `votes.blt` and `auditLog.txt`, write
-   `build/csm/csmNN-{votes,auditLog,analysis}.json`.
+   `build/csm/csmNN-{votes,auditLog,analysis}.json`. A dir with `results.csv` is FPTP: only `results.csv` is parsed
+   (`CsmAnalyser.firstPastThePost`), and only `build/csm/csmNN-analysis.json` is written.
 2. `make thymeleaf` (`./gradlew csmThymeleaf`) — read the analysis JSON plus `csm.json`, render:
-   - `docs/csmNN.md`
+   - `docs/csmNN.md` (FPTP elections use `templates/csm-fptp.md`: header, posts and the elected table with votes only)
    - `docs/index.md`, `docs/alumni.md`
    - `docs/data/csm-votes.csv`, `docs/data/csm-candidates.csv`, `docs/data/alumni.json`, and per election
      `docs/data/csmNN-rank-distribution.csv` and `docs/data/csmNN-jaccard.csv` (heatmap sources on `docs/csmNN.md`)
@@ -65,6 +67,10 @@ per metric, e.g. `/glossary#least-significant-rank`).
 
 - **Spotless (`make format`, `make lint`) must run on JDK 21**, matching CI. Palantir Java Format 2.99.0 breaks on JDK 27 with `NoSuchFieldError: ... JCCompilationUnit ... endPositions`, and the newer 2.103.0 does too. Run as `JAVA_HOME=<jdk-21> make format`.
 
+- **FPTP elections (csm4 … csm7) have no ballots.** Their analysis sets `firstPastThePost`, with the elected candidates
+  as `winners` (round 0) and `totalVotes` as the sum of `results.csv`. All other fields are empty or zero. They are
+  left out of `docs/data/csm-candidates.csv` (candidate count is unknown) and of the per-election CSVs and charts.
+  Every row in `results.csv` is treated as elected.
 - **Docker is required for `make process`.** The least-significant-rank calculation runs `WrightTalley.py` in a
   `python:2` container 9 times per election (ranks 2–10, in parallel on virtual threads), with a relative bind mount
   (`-v .:/data`). It is slow, so it is skipped when `build/csm/csmNN-analysis.json` is newer than `votes.blt`,
@@ -88,6 +94,7 @@ per metric, e.g. `/glossary#least-significant-rank`).
   piecemeal.
 - Thymeleaf templates use TEXT mode with inline syntax (`[(${...})]`, `[# th:each ...]`), not HTML attributes.
 - Name matching between `csm.json` `ccpPicks` and audit-log winners is by exact string (winners are trimmed).
+- `csm.json` `votes` is an optional integer total for the election. It overrides `totalVotes` (derived from `votes.blt` or `results.csv`) at render time in `AnalysisRenderer`, so percentages and `docs/data/csm-votes.csv` use it. The derived value is logged when it differs.
 - `csm.json` `years` is optional free text (e.g. `"2025-2026"`), shown as a `Years:` bullet on `docs/csmNN.md` only when set.
 - `csm.json` `resigned` (elected members who left mid-term) and `replacements` (members who joined to replace them) are optional
   string arrays. They show in a "Resigned and Replacements" section on `docs/csmNN.md`. On `docs/alumni.md` a resigned member gets a gray circle (&#x26AB;) and a replacement gets the normal green elected marker. In `docs/data/alumni.json` the values are `elected`, `picked`, `resigned`, and `replacement`. Names match by exact string, as for `ccpPicks`.
@@ -96,7 +103,8 @@ per metric, e.g. `/glossary#least-significant-rank`).
 ## Adding a new election
 
 1. Create `csmNN/` with `votes.blt`, `auditLog.txt`, `WrightTalley.py` from CCP's published results, using these
-   exact file names.
+   exact file names. For a first-past-the-post election, use `results.csv` (`Character,Votes`) instead of the three
+   STV files.
 2. Create `csmNN/csm.json`:
    ```json
    {

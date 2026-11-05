@@ -12,6 +12,7 @@
 ## Posts
 
 * [ CSM8 Election Results ]( https://www.eveonline.com/news/view/csm8-election-results )
+* [ CSM Whitepaper ]( https://data.everef.net/ccp/csm/CSM-WHITEPAPER.pdf )
 
 
 
