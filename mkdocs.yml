@@ -17,6 +17,8 @@ theme:
 
 nav:
   - Home: index.md
+  - Alumni: alumni.md
+  - CSM 21: csm21.md
   - CSM 20: csm20.md
   - CSM 19: csm19.md
   - CSM 18: csm18.md
@@ -34,7 +36,6 @@ nav:
   - CSM 6: csm6.md
   - CSM 5: csm5.md
   - CSM 4: csm4.md
-  - Alumni: alumni.md
   - Glossary: glossary.md
 
 plugins:
