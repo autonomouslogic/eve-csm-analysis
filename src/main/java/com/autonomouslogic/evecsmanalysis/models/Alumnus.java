@@ -16,4 +16,14 @@ public class Alumnus {
 	@Singular
 	@JsonProperty
 	private Map<Integer, String> elections = new HashMap<>();
+
+	/**
+	 * Number of CSMs in which this alumnus won a seat, including seats later resigned.
+	 * Replacements and CCP picks are not counted.
+	 */
+	public long electedCount() {
+		return elections.values().stream()
+				.filter(t -> t.equals("elected") || t.equals("resigned"))
+				.count();
+	}
 }

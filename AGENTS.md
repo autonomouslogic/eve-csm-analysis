@@ -99,6 +99,8 @@ per metric, e.g. `/glossary#least-significant-rank`).
 - `csm.json` `resigned` (elected members who left mid-term) and `replacements` (members who joined to replace them) are optional
   string arrays. They show in a "Resigned and Replacements" section on `docs/csmNN.md`. On `docs/alumni.md` a resigned member gets a gray circle (&#x26AB;) and a replacement gets the normal green elected marker. In `docs/data/alumni.json` the values are `elected`, `picked`, `resigned`, and `replacement`. Names match by exact string, as for `ccpPicks`.
   Not to be confused with withdrawals (`BallotFile` `-N` lines), which happen before the election.
+- `docs/alumni.md` ends with a "Elected five or more times" list, from `AlumniFactory.frequentlyElected`. It counts
+  `elected` and `resigned` seats (not CCP picks or replacements), ordered by count descending, then name.
 
 ## Adding a new election
 

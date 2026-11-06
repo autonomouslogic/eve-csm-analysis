@@ -9077,3 +9077,17 @@
         
     </tbody>
 </table>
+
+## Most elected
+
+
+1. Mike Azariah: 7 times
+1. Innominate: 6 times
+1. Steve Ronuken: 6 times
+1. Aryth: 4 times
+1. Brisc Rubal: 4 times
+1. Kenneth Feld: 4 times
+1. Meissa Anunthiel: 4 times
+1. Merkelchen: 4 times
+1. Trebor Daehdoow: 4 times
+

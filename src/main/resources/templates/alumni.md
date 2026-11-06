@@ -41,3 +41,9 @@
         [/]
     </tbody>
 </table>
+
+## Most elected
+
+[# th:each="alumnus : ${frequent}"]
+1. [(${alumnus.name})]: [(${alumnus.electedCount()})] times
+[/]

@@ -47,6 +47,46 @@ public class AlumniFactoryTest {
 				alumni.get("Asayanami Dei").getElections());
 	}
 
+	@Test
+	public void shouldListAlumniElectedFiveOrMoreTimesOrderedByCountDescending() {
+		var alumni = new AlumniFactory(List.of(
+						csm(9).analysis(analysis(9, "Four Times", "Five Times", "Six Times")).build(),
+						csm(10).analysis(analysis(10, "Five Times", "Six Times")).build(),
+						csm(11).analysis(analysis(11, "Five Times", "Six Times")).build(),
+						csm(12).analysis(analysis(12, "Five Times", "Six Times")).build(),
+						csm(13).analysis(analysis(13, "Five Times", "Six Times")).build(),
+						csm(14).analysis(analysis(14, "Six Times")).build(),
+						csm(15).analysis(analysis(15, "Four Times")).build()))
+				.create();
+		var frequent = AlumniFactory.frequentlyElected(alumni, 5);
+		assertEquals(
+				List.of("Six Times", "Five Times"),
+				frequent.stream().map(Alumnus::getName).toList());
+	}
+
+	@Test
+	public void shouldCountResignedAsElectedButNotPicksOrReplacements() {
+		var alumni = new AlumniFactory(List.of(
+						csm(9).resigned(List.of("Resigner"))
+								.analysis(analysis(9, "Resigner"))
+								.ccpPicks(List.of("Picked"))
+								.replacements(List.of("Replacement"))
+								.build(),
+						csm(10).analysis(analysis(10, "Resigner")).build(),
+						csm(11).analysis(analysis(11, "Resigner")).build(),
+						csm(12).analysis(analysis(12, "Resigner")).build(),
+						csm(13).analysis(analysis(13, "Resigner")).build(),
+						csm(14).analysis(analysis(14)).ccpPicks(List.of("Picked")).build(),
+						csm(15).analysis(analysis(15)).ccpPicks(List.of("Picked")).build(),
+						csm(16).analysis(analysis(16)).ccpPicks(List.of("Picked")).build(),
+						csm(17).analysis(analysis(17)).ccpPicks(List.of("Picked")).build()))
+				.create();
+		var frequent = AlumniFactory.frequentlyElected(alumni, 5);
+		assertEquals(
+				List.of("Resigner"),
+				frequent.stream().map(Alumnus::getName).toList());
+	}
+
 	private static Map<String, Alumnus> create(CsmData... csms) {
 		return new AlumniFactory(List.of(csms)).create().getAlumni();
 	}

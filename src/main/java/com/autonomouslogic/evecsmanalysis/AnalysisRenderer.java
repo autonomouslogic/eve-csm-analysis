@@ -31,6 +31,8 @@ import org.thymeleaf.templateresolver.ClassLoaderTemplateResolver;
 @RequiredArgsConstructor
 @Log4j2
 public class AnalysisRenderer {
+	private static final int FREQUENT_ELECTED_MINIMUM = 4;
+
 	@NonNull
 	private final List<CsmConfig> csmConfigs;
 
@@ -149,6 +151,7 @@ public class AnalysisRenderer {
 		var context = new Context(Locale.ENGLISH);
 		context.setVariable("alumni", alumni);
 		context.setVariable("csmNumbers", csmNumbers);
+		context.setVariable("frequent", AlumniFactory.frequentlyElected(alumni, FREQUENT_ELECTED_MINIMUM));
 		return context;
 	}
 

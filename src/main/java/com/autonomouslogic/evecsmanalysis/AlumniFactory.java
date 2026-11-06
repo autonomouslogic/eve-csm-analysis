@@ -24,6 +24,18 @@ public class AlumniFactory {
 		return alumni;
 	}
 
+	/**
+	 * Returns alumni elected at least {@code minimum} times, most elections first, then by name.
+	 */
+	public static List<Alumnus> frequentlyElected(Alumni alumni, int minimum) {
+		return alumni.getAlumni().values().stream()
+				.filter(a -> a.electedCount() >= minimum)
+				.sorted(Comparator.<Alumnus>comparingLong(Alumnus::electedCount)
+						.reversed()
+						.thenComparing(Alumnus::getName))
+				.toList();
+	}
+
 	private void populateElections(Alumni alumni) {
 		for (CsmData csm : csms) {
 			Optional.ofNullable(csm.getCcpPicks())
