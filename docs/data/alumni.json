@@ -1,5 +1,92 @@
 {
   "alumni" : {
+    "Arhont Sibirskii" : {
+      "name" : "Arhont Sibirskii",
+      "elections" : {
+        "21" : "elected"
+      }
+    },
+    "Arrowspeeed Bounty" : {
+      "name" : "Arrowspeeed Bounty",
+      "elections" : {
+        "20" : "elected",
+        "21" : "elected"
+      }
+    },
+    "Dujek Oneye" : {
+      "name" : "Dujek Oneye",
+      "elections" : {
+        "19" : "elected",
+        "21" : "elected"
+      }
+    },
+    "Itaer" : {
+      "name" : "Itaer",
+      "elections" : {
+        "20" : "elected",
+        "21" : "elected"
+      }
+    },
+    "Kshal Aideron" : {
+      "name" : "Kshal Aideron",
+      "elections" : {
+        "18" : "picked",
+        "20" : "elected",
+        "21" : "elected"
+      }
+    },
+    "Limited Liability" : {
+      "name" : "Limited Liability",
+      "elections" : {
+        "21" : "picked"
+      }
+    },
+    "Mike Azariah" : {
+      "name" : "Mike Azariah",
+      "elections" : {
+        "16" : "elected",
+        "18" : "elected",
+        "21" : "elected",
+        "8" : "elected",
+        "9" : "elected",
+        "10" : "elected",
+        "15" : "elected"
+      }
+    },
+    "Pandoralica" : {
+      "name" : "Pandoralica",
+      "elections" : {
+        "17" : "elected",
+        "21" : "elected"
+      }
+    },
+    "Sopleb" : {
+      "name" : "Sopleb",
+      "elections" : {
+        "21" : "elected"
+      }
+    },
+    "Switch 4" : {
+      "name" : "Switch 4",
+      "elections" : {
+        "21" : "picked"
+      }
+    },
+    "Zintage Enaka" : {
+      "name" : "Zintage Enaka",
+      "elections" : {
+        "19" : "elected",
+        "20" : "elected",
+        "21" : "elected"
+      }
+    },
+    "hyprviper1" : {
+      "name" : "hyprviper1",
+      "elections" : {
+        "20" : "elected",
+        "21" : "elected"
+      }
+    },
     "Angry Mustache" : {
       "name" : "Angry Mustache",
       "elections" : {
@@ -12,25 +99,6 @@
       "name" : "Ariel Rin",
       "elections" : {
         "19" : "elected",
-        "20" : "elected"
-      }
-    },
-    "Arrowspeeed Bounty" : {
-      "name" : "Arrowspeeed Bounty",
-      "elections" : {
-        "20" : "elected"
-      }
-    },
-    "Itaer" : {
-      "name" : "Itaer",
-      "elections" : {
-        "20" : "elected"
-      }
-    },
-    "Kshal Aideron" : {
-      "name" : "Kshal Aideron",
-      "elections" : {
-        "18" : "picked",
         "20" : "elected"
       }
     },
@@ -61,19 +129,6 @@
         "20" : "picked"
       }
     },
-    "Zintage Enaka" : {
-      "name" : "Zintage Enaka",
-      "elections" : {
-        "19" : "elected",
-        "20" : "elected"
-      }
-    },
-    "hyprviper1" : {
-      "name" : "hyprviper1",
-      "elections" : {
-        "20" : "elected"
-      }
-    },
     "youngpuke2" : {
       "name" : "youngpuke2",
       "elections" : {
@@ -85,12 +140,6 @@
       "name" : "Drake Iddon",
       "elections" : {
         "19" : "picked"
-      }
-    },
-    "Dujek Oneye" : {
-      "name" : "Dujek Oneye",
-      "elections" : {
-        "19" : "elected"
       }
     },
     "Kazanir" : {
@@ -157,17 +206,6 @@
         "18" : "elected"
       }
     },
-    "Mike Azariah" : {
-      "name" : "Mike Azariah",
-      "elections" : {
-        "16" : "elected",
-        "18" : "elected",
-        "8" : "elected",
-        "9" : "elected",
-        "10" : "elected",
-        "15" : "elected"
-      }
-    },
     "Stitch Kaneland" : {
       "name" : "Stitch Kaneland",
       "elections" : {
@@ -191,12 +229,6 @@
     },
     "Jinx De'Caire" : {
       "name" : "Jinx De'Caire",
-      "elections" : {
-        "17" : "elected"
-      }
-    },
-    "Pandoralica" : {
-      "name" : "Pandoralica",
       "elections" : {
         "17" : "elected"
       }
