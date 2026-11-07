@@ -28,6 +28,7 @@
 ## Vote Distribution
 
 Share of ballots at each rank for each election they ran in.
+The percentage is number of ballots for them divided by total number of ballots in that election.
 
 ```vegalite
 {
