@@ -138,7 +138,7 @@ public class AnalysisRenderer {
 				.toList();
 		var engine = createEngine();
 		try (var writer = new FileWriter(file, StandardCharsets.UTF_8)) {
-			engine.process("alumni.md", createAlukniContext(alumni, csmNumbers), writer);
+			engine.process("alumni.md", createAlukniContext(alumni, csmNumbers, csms), writer);
 		}
 		objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File("docs/data/alumni.json"), alumni);
 	}
@@ -191,11 +191,13 @@ public class AnalysisRenderer {
 	}
 
 	@SneakyThrows
-	private IContext createAlukniContext(Alumni alumni, List<Integer> csmNumbers) {
+	private IContext createAlukniContext(Alumni alumni, List<Integer> csmNumbers, List<CsmData> csms) {
 		var context = new Context(Locale.ENGLISH);
 		context.setVariable("alumni", alumni);
 		context.setVariable("links", new AlumniLinks(alumni));
 		context.setVariable("csmNumbers", csmNumbers);
+		context.setVariable("ranCount", AlumniFactory.countRan(csms));
+		context.setVariable("electedCount", AlumniFactory.countElected(alumni));
 		context.setVariable("frequent", AlumniFactory.frequentlyElected(alumni, FREQUENT_ELECTED_MINIMUM));
 		return context;
 	}

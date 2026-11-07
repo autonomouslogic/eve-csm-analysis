@@ -1,5 +1,8 @@
 # Alumni
 
+* 493 people have run for CSM (data incomplete).
+* 121 have been elected.
+
 ## Most elected
 
 

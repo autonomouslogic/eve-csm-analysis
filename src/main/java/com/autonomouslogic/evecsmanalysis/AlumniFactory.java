@@ -38,6 +38,31 @@ public class AlumniFactory {
 				.toList();
 	}
 
+	/**
+	 * Number of distinct people who stood in at least one election and either won a seat or were eliminated. CCP picks,
+	 * replacements, and withdrawn candidates only count if they also stood in another election.
+	 */
+	public static long countRan(List<CsmData> csms) {
+		var names = new HashSet<String>();
+		for (var csm : csms) {
+			Optional.ofNullable(csm.getAnalysis().getWinners())
+					.ifPresent(r -> r.forEach(c -> names.add(c.getCandidate())));
+			Optional.ofNullable(csm.getAnalysis().getEliminations())
+					.ifPresent(r -> r.forEach(c -> names.add(c.getCandidate())));
+		}
+		return names.size();
+	}
+
+	/**
+	 * Number of distinct people who were elected at least once. CCP picks and replacements only count if they were also
+	 * elected in another election.
+	 */
+	public static long countElected(Alumni alumni) {
+		return alumni.getAlumni().values().stream()
+				.filter(a -> a.electedCount() > 0)
+				.count();
+	}
+
 	private void populateElections(Alumni alumni) {
 		for (CsmData csm : csms) {
 			Optional.ofNullable(csm.getCcpPicks())

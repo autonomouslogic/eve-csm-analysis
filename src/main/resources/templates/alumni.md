@@ -1,5 +1,8 @@
 # Alumni
 
+* [(${ranCount})] people have run for CSM (data incomplete).
+* [(${electedCount})] have been elected.
+
 ## Most elected
 
 [# th:each="alumnus : ${frequent}"]

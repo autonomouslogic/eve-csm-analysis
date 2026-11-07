@@ -107,6 +107,8 @@ per metric, e.g. `/glossary#least-significant-rank`).
   string arrays. They show in a "Resigned and Replacements" section on `docs/csmNN.md`. On `docs/alumni.md` a resigned member gets a gray circle (&#x26AB;) and a replacement gets the normal green elected marker. In `docs/data/alumni.json` the values are `elected`, `picked`, `resigned`, and `replacement`. Names match by exact string, as for `ccpPicks`.
   On `docs/alumni.md` an alumnus who ran and was eliminated gets a white circle (&#x26AA;) in that election, taken from `Alumnus.runs`.
   Not to be confused with withdrawals (`BallotFile` `-N` lines), which happen before the election.
+- `docs/alumni.md` opens with two totals: people who ran (`AlumniFactory.countRan`: distinct winners and eliminated candidates, so
+  withdrawn candidates and CCP picks do not count) and people elected (`countElected`: `electedCount() > 0`).
 - `docs/alumni.md` ends with a "Elected five or more times" list, from `AlumniFactory.frequentlyElected`. It counts
   `elected` and `resigned` seats (not CCP picks or replacements), ordered by count descending, then name.
 - Alumni pages (`docs/alumni/<slug>.md`) exist only for people who held a seat (elected, CCP pick, or replacement).

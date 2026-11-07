@@ -170,6 +170,34 @@ public class AlumniFactoryTest {
 				() -> create(csm(9).analysis(analysis(9, "T'Amber", "TAmber")).build()));
 	}
 
+	@Test
+	public void shouldCountEachPersonOnceAcrossElections() {
+		var csms = List.of(
+				csm(8).analysis(mixed(8, List.of("Ali Aras"), "Loser One")).build(),
+				csm(9).analysis(mixed(9, List.of("Ali Aras", "Matias Otero"), "Loser One", "Loser Two"))
+						.build());
+		assertEquals(4, AlumniFactory.countRan(csms));
+	}
+
+	@Test
+	public void shouldNotCountPickOrReplacementAsElected() {
+		var alumni = new AlumniFactory(List.of(csm(9).ccpPicks(List.of("Pick"))
+						.replacements(List.of("Replacement"))
+						.analysis(analysis(9, "Ali Aras"))
+						.build()))
+				.create();
+		assertEquals(1, AlumniFactory.countElected(alumni));
+	}
+
+	private static CsmAnalysis mixed(int csmNumber, List<String> winners, String... eliminated) {
+		var builder = CsmAnalysis.builder().csmNumber(csmNumber);
+		winners.forEach(w -> builder.winner(round(w)));
+		for (String name : eliminated) {
+			builder.elimination(round(name));
+		}
+		return builder.build();
+	}
+
 	private static Map<String, Alumnus> create(CsmData... csms) {
 		return new AlumniFactory(List.of(csms)).create().getAlumni();
 	}
