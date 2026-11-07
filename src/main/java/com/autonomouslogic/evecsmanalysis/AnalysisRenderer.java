@@ -1,6 +1,7 @@
 package com.autonomouslogic.evecsmanalysis;
 
 import com.autonomouslogic.evecsmanalysis.csv.CsmBallotSizesCsv;
+import com.autonomouslogic.evecsmanalysis.csv.CsmBallotsCsv;
 import com.autonomouslogic.evecsmanalysis.csv.CsmCandidatesCsv;
 import com.autonomouslogic.evecsmanalysis.csv.CsmJaccardCsv;
 import com.autonomouslogic.evecsmanalysis.csv.AlumnusRankDistributionCsv;
@@ -8,6 +9,7 @@ import com.autonomouslogic.evecsmanalysis.csv.CsmRankDistributionCsv;
 import com.autonomouslogic.evecsmanalysis.csv.CsmVotesCsv;
 import com.autonomouslogic.evecsmanalysis.models.Alumni;
 import com.autonomouslogic.evecsmanalysis.models.Alumnus;
+import com.autonomouslogic.evecsmanalysis.models.BallotFile;
 import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.autonomouslogic.evecsmanalysis.models.CsmData;
@@ -108,6 +110,25 @@ public class AnalysisRenderer {
 				.write();
 		try (var writer = new FileWriter(csmConfig.getMarkdownFile(), StandardCharsets.UTF_8)) {
 			engine.process("csm.md", createCsmContext(data, data.getAnalysis(), links), writer);
+		}
+		renderBallots(csmConfig, data, engine);
+	}
+
+	/**
+	 * Writes the ballots CSV and the page showing it, at docs/csmNN/ballots.md.
+	 */
+	@SneakyThrows
+	private void renderBallots(CsmConfig csmConfig, CsmData data, TemplateEngine engine) {
+		var ballotFile = objectMapper.readValue(csmConfig.getVotesJson(), BallotFile.class);
+		var number = data.getCsmNumber();
+		new CsmBallotsCsv(ballotFile, new File("docs/data/csm%d-ballots.csv".formatted(number))).write();
+		var dir = new File("docs/csm%d".formatted(number));
+		FileUtils.forceMkdir(dir);
+		var context = new Context(Locale.ENGLISH);
+		context.setVariable("analysis", data.getAnalysis());
+		context.setVariable("ballotRows", ballotFile.getAllVotes().size());
+		try (var writer = new FileWriter(new File(dir, "ballots.md"), StandardCharsets.UTF_8)) {
+			engine.process("csm-ballots.md", context, writer);
 		}
 	}
 

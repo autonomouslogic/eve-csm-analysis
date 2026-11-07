@@ -7,6 +7,7 @@
 * Total votes: 29,416
 * [Ballots without a winner](/glossary#ballots-without-a-winner): 2,795 (9.5%)
 * [Least significant rank](/glossary#least-significant-rank): 3
+* [View all ballots](csm13/ballots.md)
 
 
 ## Posts
@@ -932,6 +933,8 @@ How candidates appeared on ballots together. See [Jaccard index](/glossary#jacca
 [Source data](data/csm13-jaccard.csv)
 
 ## Popular Ballots
+
+See [all ballots](csm13/ballots.md) for every distinct ballot.
 
 <div class="popular-ballots">
         

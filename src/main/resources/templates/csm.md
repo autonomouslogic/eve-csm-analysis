@@ -7,6 +7,7 @@
 * Total votes: [(${#numbers.formatInteger(analysis.totalVotes, 1, 'COMMA')})]
 * [Ballots without a winner](/glossary#ballots-without-a-winner): [(${#numbers.formatInteger(analysis.ballotsWithoutWinner, 1, 'COMMA')})] ([(${#numbers.formatPercent(1.0 * analysis.ballotsWithoutWinner / analysis.totalVotes, 1, 1)})])
 * [Least significant rank](/glossary#least-significant-rank): [(${analysis.leastSignificantRank})]
+* [View all ballots](csm[(${analysis.csmNumber})]/ballots.md)
 
 [# th:if="${data.urls.size()} > 0"]
 ## Posts
@@ -296,6 +297,8 @@ How candidates appeared on ballots together. See [Jaccard index](/glossary#jacca
 [Source data](data/csm[(${analysis.csmNumber})]-jaccard.csv)
 
 ## Popular Ballots
+
+See [all ballots](csm[(${analysis.csmNumber})]/ballots.md) for every distinct ballot.
 
 <div class="popular-ballots">
         [# th:each="ballot : ${analysis.popularBallots}"]

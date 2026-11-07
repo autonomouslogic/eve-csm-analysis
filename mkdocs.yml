@@ -42,8 +42,10 @@ plugins:
   - charts
   - search
 
-# Alumni pages are linked from the election and alumni tables, so they need no nav entries.
-not_in_nav: /alumni/
+# Alumni and ballots pages are linked from the election and alumni tables, so they need no nav entries.
+not_in_nav: |
+  /alumni/
+  /csm*/ballots.md
 
 extra_css:
   - stylesheets/extra.css

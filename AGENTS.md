@@ -31,7 +31,8 @@ src/main/java/com/autonomouslogic/evecsmanalysis/
 src/main/resources/templates/  Thymeleaf TEXT-mode templates: csm.md, csm-fptp.md, index.md, alumni.md, alumnus.md
 src/test/java/...         JUnit 5 parser tests, run against every csm* dir
 docs/                     MkDocs source. Mostly GENERATED, see below.
-docs/stylesheets/extra.css  Hand-written CSS (widens the Material content grid), loaded via `extra_css` in mkdocs.yml
+docs/stylesheets/extra.css  Hand-written CSS (widens the Material content grid, ballots page), loaded via `extra_css` in mkdocs.yml
+docs/javascripts/ballots.js Hand-written JS for the ballots pages, loaded by a `<script>` tag in `templates/csm-ballots.md`
 build/csm/                Intermediate JSON (gitignored)
 ```
 
@@ -47,6 +48,10 @@ build/csm/                Intermediate JSON (gitignored)
      each render, so stale pages go away. Slugs come from `Alumnus.slug()`. Each page with ballot data also gets a
      "Vote Distribution" heatmap (share of ballots per rank, per election) from
      `docs/data/alumni/<slug>-rank-distribution.csv` (`AlumnusRankDistributionCsv`; `docs/data/alumni/` is also rebuilt).
+   - `docs/csmNN/ballots.md` per STV election, with `docs/data/csmNN-ballots.csv` (`CsmBallotsCsv`): every distinct ballot from
+     `build/csm/csmNN-votes.json` as in `votes.blt`, but with candidate names instead of numbers (`Ballots,Rank 1,Rank 2,...`).
+     The page (`templates/csm-ballots.md`) loads the CSV in the browser with `docs/javascripts/ballots.js` (all rows, filterable), because
+     some elections have 20,000 rows. It is excluded from the nav via `not_in_nav` in `mkdocs.yml`.
    - `docs/data/csm-votes.csv`, `docs/data/csm-candidates.csv`, `docs/data/alumni.json`, and per election
      `docs/data/csmNN-rank-distribution.csv` and `docs/data/csmNN-jaccard.csv` (heatmap sources on `docs/csmNN.md`)
 3. `make mkdocs-serve` / `make mkdocs-build` — needs `make init` first (creates `.venv`).

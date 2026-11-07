@@ -23,3 +23,47 @@
 
 .popular-ballot ol {
 }
+
+/* Ballots page (csmNN/ballots.md): filter box, scrollable table, and right-aligned ballot counts. */
+.ballots-filter {
+	width: 100%;
+	padding: 0.4em;
+}
+
+.ballots-scroll {
+	overflow-x: auto;
+}
+
+.ballots-count {
+	text-align: right;
+}
+
+.ballots-filter {
+	border: 0.05rem solid var(--md-typeset-table-color);
+}
+
+.ballots-table {
+	font-size: 0.6rem;
+}
+
+.md-typeset table.ballots-table {
+	border: 0.05rem solid var(--md-typeset-table-color);
+	border-radius: 0.1rem;
+	border-collapse: collapse;
+	display: block;
+	max-width: 100%;
+	overflow: auto;
+}
+
+.md-typeset .ballots-table th,
+.md-typeset .ballots-table td {
+	padding: 0.25em 0.5em;
+	border-bottom: 0.05rem solid var(--md-typeset-table-color);
+	vertical-align: top;
+}
+
+.md-typeset .ballots-table th {
+	font-weight: 700;
+	min-width: 5rem;
+	text-align: left;
+}
