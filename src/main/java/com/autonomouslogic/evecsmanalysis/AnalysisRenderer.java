@@ -3,6 +3,7 @@ package com.autonomouslogic.evecsmanalysis;
 import com.autonomouslogic.evecsmanalysis.csv.CsmBallotSizesCsv;
 import com.autonomouslogic.evecsmanalysis.csv.CsmCandidatesCsv;
 import com.autonomouslogic.evecsmanalysis.csv.CsmJaccardCsv;
+import com.autonomouslogic.evecsmanalysis.csv.AlumnusRankDistributionCsv;
 import com.autonomouslogic.evecsmanalysis.csv.CsmRankDistributionCsv;
 import com.autonomouslogic.evecsmanalysis.csv.CsmVotesCsv;
 import com.autonomouslogic.evecsmanalysis.models.Alumni;
@@ -53,7 +54,7 @@ public class AnalysisRenderer {
 			renderCsm(csmConfigs.get(i), all.get(i), links);
 		}
 		renderAlumni(alumni, all);
-		renderAlumnusPages(alumni);
+		renderAlumnusPages(alumni, all);
 		renderIndex(all);
 	}
 
@@ -146,15 +147,21 @@ public class AnalysisRenderer {
 	 * Rewrites docs/alumni/ from scratch, so pages for renamed or removed alumni do not linger.
 	 */
 	@SneakyThrows
-	private void renderAlumnusPages(Alumni alumni) {
+	private void renderAlumnusPages(Alumni alumni, List<CsmData> csms) {
 		var dir = new File("docs/alumni");
+		var dataDir = new File("docs/data/alumni");
 		FileUtils.deleteDirectory(dir);
+		FileUtils.deleteDirectory(dataDir);
 		FileUtils.forceMkdir(dir);
+		FileUtils.forceMkdir(dataDir);
 		var engine = createEngine();
 		for (var alumnus : alumni.getAlumni().values()) {
 			var file = new File(dir, alumnus.slug() + ".md");
+			var hasDistribution = new AlumnusRankDistributionCsv(
+							alumnus, csms, new File(dataDir, alumnus.slug() + "-rank-distribution.csv"))
+					.write();
 			try (var writer = new FileWriter(file, StandardCharsets.UTF_8)) {
-				engine.process("alumnus.md", createAlumnusContext(alumnus), writer);
+				engine.process("alumnus.md", createAlumnusContext(alumnus, hasDistribution), writer);
 			}
 		}
 		log.info("Rendered {} alumni pages to {}", alumni.getAlumni().size(), dir);
@@ -170,9 +177,10 @@ public class AnalysisRenderer {
 	}
 
 	@SneakyThrows
-	private IContext createAlumnusContext(Alumnus alumnus) {
+	private IContext createAlumnusContext(Alumnus alumnus, boolean hasDistribution) {
 		var context = new Context(Locale.ENGLISH);
 		context.setVariable("alumnus", alumnus);
+		context.setVariable("hasDistribution", hasDistribution);
 		return context;
 	}
 

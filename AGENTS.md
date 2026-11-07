@@ -44,7 +44,9 @@ build/csm/                Intermediate JSON (gitignored)
    - `docs/csmNN.md` (FPTP elections use `templates/csm-fptp.md`: header, posts and the elected table with votes only)
    - `docs/index.md`, `docs/alumni.md`
    - `docs/alumni/<slug>.md`, one per alumnus (every candidate who held a seat). `docs/alumni/` is deleted and rebuilt on
-     each render, so stale pages go away. Slugs come from `Alumnus.slug()`.
+     each render, so stale pages go away. Slugs come from `Alumnus.slug()`. Each page with ballot data also gets a
+     "Vote Distribution" heatmap (share of ballots per rank, per election) from
+     `docs/data/alumni/<slug>-rank-distribution.csv` (`AlumnusRankDistributionCsv`; `docs/data/alumni/` is also rebuilt).
    - `docs/data/csm-votes.csv`, `docs/data/csm-candidates.csv`, `docs/data/alumni.json`, and per election
      `docs/data/csmNN-rank-distribution.csv` and `docs/data/csmNN-jaccard.csv` (heatmap sources on `docs/csmNN.md`)
 3. `make mkdocs-serve` / `make mkdocs-build` — needs `make init` first (creates `.venv`).
