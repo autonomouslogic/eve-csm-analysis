@@ -115,7 +115,7 @@ public class AuditLogParser extends AbstractParser {
 			if (!matcher.matches()) {
 				break;
 			}
-			map.put(matcher.group("candidate"), Double.parseDouble(matcher.group("votes")));
+			map.put(normalizeName(matcher.group("candidate")), Double.parseDouble(matcher.group("votes")));
 			lineIndex++;
 		}
 		return map;
@@ -138,8 +138,8 @@ public class AuditLogParser extends AbstractParser {
 		String line;
 		while ((line = lines.get(lineIndex)).startsWith("  Elected: ")) {
 			var matcher = parseLine(line, ELECTED, "Invalid elected candidate");
-			round.electedCandidate(matcher.group("candidate"));
-			transfersBeforeElection.putIfAbsent(matcher.group("candidate"), transfersInRound);
+			round.electedCandidate(normalizeName(matcher.group("candidate")));
+			transfersBeforeElection.putIfAbsent(normalizeName(matcher.group("candidate")), transfersInRound);
 			lineIndex++;
 		}
 	}
@@ -159,7 +159,7 @@ public class AuditLogParser extends AbstractParser {
 
 	private void parseTransferFrom(VotesTransfer.VotesTransferBuilder transfer) {
 		var matcher = parseLine(TRANSFER_FROM, "Invalid transfer from");
-		transfer.fromCandidate(matcher.group("candidate"));
+		transfer.fromCandidate(normalizeName(matcher.group("candidate")));
 		lineIndex++;
 	}
 
@@ -178,7 +178,7 @@ public class AuditLogParser extends AbstractParser {
 			if (!matcher.matches()) {
 				break;
 			}
-			transfer.toCandidate(matcher.group("candidate"), Double.parseDouble(matcher.group("votes")));
+			transfer.toCandidate(normalizeName(matcher.group("candidate")), Double.parseDouble(matcher.group("votes")));
 			lineIndex++;
 		}
 	}
@@ -196,7 +196,7 @@ public class AuditLogParser extends AbstractParser {
 	private void parseElimination(Round.RoundBuilder round) {
 		var matcher = parseLine(ELIMINATION, "Invalid elimination");
 		round.elimination(Elimination.builder()
-				.candidate(matcher.group("candidate"))
+				.candidate(normalizeName(matcher.group("candidate")))
 				.votes(Double.parseDouble(matcher.group("votes")))
 				.build());
 		lineIndex++;
@@ -213,7 +213,7 @@ public class AuditLogParser extends AbstractParser {
 			if (!line.startsWith("\"") || !line.endsWith("\"")) {
 				break;
 			}
-			auditLog.finalResult(line.substring(1, line.length() - 1));
+			auditLog.finalResult(normalizeName(line.substring(1, line.length() - 1)));
 			lineIndex++;
 		}
 	}

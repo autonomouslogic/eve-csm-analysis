@@ -25,59 +25,59 @@
     <tbody>
         
         <tr>
-            <td>Mynxee</td>
+            <td><a href="/alumni/mynxee/">Mynxee</a></td>
             <td style="text-align: right">4,116</td>
         </tr>
         <tr>
-            <td>Ankhesentapemkah</td>
+            <td><a href="/alumni/ankhesentapemkah/">Ankhesentapemkah</a></td>
             <td style="text-align: right">3,360</td>
         </tr>
         <tr>
-            <td>Dierdra Vaal</td>
+            <td><a href="/alumni/dierdra-vaal/">Dierdra Vaal</a></td>
             <td style="text-align: right">2,521</td>
         </tr>
         <tr>
-            <td>Korvin</td>
+            <td><a href="/alumni/korvin/">Korvin</a></td>
             <td style="text-align: right">2,196</td>
         </tr>
         <tr>
-            <td>Vuk Lau</td>
+            <td><a href="/alumni/vuk-lau/">Vuk Lau</a></td>
             <td style="text-align: right">1,649</td>
         </tr>
         <tr>
-            <td>TeaDaze</td>
+            <td><a href="/alumni/teadaze/">TeaDaze</a></td>
             <td style="text-align: right">1,553</td>
         </tr>
         <tr>
-            <td>Meissa Anunthiel</td>
+            <td><a href="/alumni/meissa-anunthiel/">Meissa Anunthiel</a></td>
             <td style="text-align: right">1,519</td>
         </tr>
         <tr>
-            <td>Trebor Daehdoow</td>
+            <td><a href="/alumni/trebor-daehdoow/">Trebor Daehdoow</a></td>
             <td style="text-align: right">1,463</td>
         </tr>
         <tr>
-            <td>Sokratesz</td>
+            <td><a href="/alumni/sokratesz/">Sokratesz</a></td>
             <td style="text-align: right">1,260</td>
         </tr>
         <tr>
-            <td>mazzilliu</td>
+            <td><a href="/alumni/mazzilliu/">mazzilliu</a></td>
             <td style="text-align: right">1,178</td>
         </tr>
         <tr>
-            <td>T'Amber</td>
+            <td><a href="/alumni/tamber/">T'Amber</a></td>
             <td style="text-align: right">1,173</td>
         </tr>
         <tr>
-            <td>Helen Highwater</td>
+            <td><a href="/alumni/helen-highwater/">Helen Highwater</a></td>
             <td style="text-align: right">1,172</td>
         </tr>
         <tr>
-            <td>ALPHA12125</td>
+            <td><a href="/alumni/alpha12125/">ALPHA12125</a></td>
             <td style="text-align: right">1,104</td>
         </tr>
         <tr>
-            <td>ElvenLord</td>
+            <td><a href="/alumni/elvenlord/">ElvenLord</a></td>
             <td style="text-align: right">1,004</td>
         </tr>
         

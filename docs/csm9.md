@@ -31,72 +31,72 @@
     <tbody>
         
         <tr>
-            <td>Sion Kumitomo</td>
+            <td><a href="/alumni/sion-kumitomo/">Sion Kumitomo</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">4,314.0</td>
         </tr>
         <tr>
-            <td>corebloodbrothers</td>
+            <td><a href="/alumni/corebloodbrothers/">corebloodbrothers</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">2,944.0</td>
         </tr>
         <tr>
-            <td>mynnna</td>
+            <td><a href="/alumni/mynnna/">mynnna</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">2,902.0</td>
         </tr>
         <tr>
-            <td>Ali Aras</td>
+            <td><a href="/alumni/ali-aras/">Ali Aras</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">2,169.7</td>
         </tr>
         <tr>
-            <td>Sugar Kyle</td>
+            <td><a href="/alumni/sugar-kyle/">Sugar Kyle</a></td>
             <td style="text-align: right">14</td>
             <td style="text-align: right">2,077.8</td>
         </tr>
         <tr>
-            <td>Steve Ronuken</td>
+            <td><a href="/alumni/steve-ronuken/">Steve Ronuken</a></td>
             <td style="text-align: right">16</td>
             <td style="text-align: right">2,042.7</td>
         </tr>
         <tr>
-            <td>progodlegend</td>
+            <td><a href="/alumni/progodlegend/">progodlegend</a></td>
             <td style="text-align: right">21</td>
             <td style="text-align: right">2,009.0</td>
         </tr>
         <tr>
-            <td>Matias Otero</td>
+            <td><a href="/alumni/matias-otero/">Matias Otero</a></td>
             <td style="text-align: right">21</td>
             <td style="text-align: right">1,998.1</td>
         </tr>
         <tr>
-            <td>Xander Phoena</td>
+            <td><a href="/alumni/xander-phoena/">Xander Phoena</a></td>
             <td style="text-align: right">21</td>
             <td style="text-align: right">2,009.4</td>
         </tr>
         <tr>
-            <td>Mike Azariah</td>
+            <td><a href="/alumni/mike-azariah/">Mike Azariah</a></td>
             <td style="text-align: right">21</td>
             <td style="text-align: right">2,005.3</td>
         </tr>
         <tr>
-            <td>corbexx</td>
+            <td><a href="/alumni/corbexx/">corbexx</a></td>
             <td style="text-align: right">22</td>
             <td style="text-align: right">1,991.2</td>
         </tr>
         <tr>
-            <td>DJ FunkyBacon</td>
+            <td><a href="/alumni/dj-funkybacon/">DJ FunkyBacon</a></td>
             <td style="text-align: right">22</td>
             <td style="text-align: right">1,997.7</td>
         </tr>
         <tr>
-            <td>Major JSilva</td>
+            <td><a href="/alumni/major-jsilva/">Major JSilva</a></td>
             <td style="text-align: right">22</td>
             <td style="text-align: right"></td>
         </tr>
         <tr>
-            <td>Mangala Solaris</td>
+            <td><a href="/alumni/mangala-solaris/">Mangala Solaris</a></td>
             <td style="text-align: right">22</td>
             <td style="text-align: right"></td>
         </tr>
@@ -120,13 +120,13 @@
     <tbody>
         
         <tr>
-            <td>Matias Otero</td>
+            <td><a href="/alumni/matias-otero/">Matias Otero</a></td>
             <td>resigned</td>
         </tr>
         
         
         <tr>
-            <td>Asayanami Dei</td>
+            <td><a href="/alumni/asayanami-dei/">Asayanami Dei</a></td>
             <td>replacement</td>
         </tr>
         
@@ -147,7 +147,7 @@
     <tbody>
         
         <tr>
-            <td>Asayanami Dei</td>
+            <td><a href="/alumni/asayanami-dei/">Asayanami Dei</a></td>
             <td style="text-align: right">22</td>
             <td style="text-align: right">1,395.1</td>
             <td style="text-align: right">578.9</td>
@@ -165,13 +165,13 @@
             <td style="text-align: right">1,091.6</td>
         </tr>
         <tr>
-            <td>James Arget</td>
+            <td><a href="/alumni/james-arget/">James Arget</a></td>
             <td style="text-align: right">19</td>
             <td style="text-align: right">887.9</td>
             <td style="text-align: right">1,120.1</td>
         </tr>
         <tr>
-            <td>Gorski Car</td>
+            <td><a href="/alumni/gorski-car/">Gorski Car</a></td>
             <td style="text-align: right">18</td>
             <td style="text-align: right">815.7</td>
             <td style="text-align: right">1,202.3</td>
@@ -183,7 +183,7 @@
             <td style="text-align: right">1,271.5</td>
         </tr>
         <tr>
-            <td>Jayne Fillon</td>
+            <td><a href="/alumni/jayne-fillon/">Jayne Fillon</a></td>
             <td style="text-align: right">16</td>
             <td style="text-align: right">667.7</td>
             <td style="text-align: right">1,365.3</td>
@@ -207,7 +207,7 @@
             <td style="text-align: right">1,505.9</td>
         </tr>
         <tr>
-            <td>Angry Mustache</td>
+            <td><a href="/alumni/angry-mustache/">Angry Mustache</a></td>
             <td style="text-align: right">12</td>
             <td style="text-align: right">540.0</td>
             <td style="text-align: right">1,528.0</td>
@@ -261,7 +261,7 @@
             <td style="text-align: right">1,934.0</td>
         </tr>
         <tr>
-            <td>Xenuria</td>
+            <td><a href="/alumni/xenuria/">Xenuria</a></td>
             <td style="text-align: right">3</td>
             <td style="text-align: right">98.6</td>
             <td style="text-align: right">1,986.4</td>
@@ -299,7 +299,7 @@
     <tbody>
         
         <tr class="elected">
-            <td>Sion Kumitomo</td>
+            <td><a href="/alumni/sion-kumitomo/">Sion Kumitomo</a></td>
             <td style="text-align: right">7,370</td>
             <td style="text-align: right">23.6%</td>
             <td style="text-align: right">4,314</td>
@@ -308,7 +308,7 @@
             <td style="text-align: right">1.0</td>
         </tr>
         <tr class="elected">
-            <td>corebloodbrothers</td>
+            <td><a href="/alumni/corebloodbrothers/">corebloodbrothers</a></td>
             <td style="text-align: right">5,889</td>
             <td style="text-align: right">18.8%</td>
             <td style="text-align: right">2,944</td>
@@ -317,7 +317,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr class="elected">
-            <td>mynnna</td>
+            <td><a href="/alumni/mynnna/">mynnna</a></td>
             <td style="text-align: right">11,099</td>
             <td style="text-align: right">35.5%</td>
             <td style="text-align: right">786</td>
@@ -326,7 +326,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr class="elected">
-            <td>Ali Aras</td>
+            <td><a href="/alumni/ali-aras/">Ali Aras</a></td>
             <td style="text-align: right">14,925</td>
             <td style="text-align: right">47.7%</td>
             <td style="text-align: right">1,521</td>
@@ -335,7 +335,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr class="elected">
-            <td>Sugar Kyle</td>
+            <td><a href="/alumni/sugar-kyle/">Sugar Kyle</a></td>
             <td style="text-align: right">8,255</td>
             <td style="text-align: right">26.4%</td>
             <td style="text-align: right">1,915</td>
@@ -344,7 +344,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr class="elected">
-            <td>Steve Ronuken</td>
+            <td><a href="/alumni/steve-ronuken/">Steve Ronuken</a></td>
             <td style="text-align: right">9,020</td>
             <td style="text-align: right">28.8%</td>
             <td style="text-align: right">1,692</td>
@@ -353,7 +353,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr class="elected">
-            <td>progodlegend</td>
+            <td><a href="/alumni/progodlegend/">progodlegend</a></td>
             <td style="text-align: right">11,149</td>
             <td style="text-align: right">35.6%</td>
             <td style="text-align: right">1,655</td>
@@ -362,7 +362,7 @@
             <td style="text-align: right">8.0</td>
         </tr>
         <tr class="elected">
-            <td>Matias Otero</td>
+            <td><a href="/alumni/matias-otero/">Matias Otero</a></td>
             <td style="text-align: right">8,133</td>
             <td style="text-align: right">26.0%</td>
             <td style="text-align: right">1,453</td>
@@ -371,7 +371,7 @@
             <td style="text-align: right">5.0</td>
         </tr>
         <tr class="elected">
-            <td>Xander Phoena</td>
+            <td><a href="/alumni/xander-phoena/">Xander Phoena</a></td>
             <td style="text-align: right">11,174</td>
             <td style="text-align: right">35.7%</td>
             <td style="text-align: right">775</td>
@@ -380,7 +380,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr class="elected">
-            <td>Mike Azariah</td>
+            <td><a href="/alumni/mike-azariah/">Mike Azariah</a></td>
             <td style="text-align: right">12,363</td>
             <td style="text-align: right">39.5%</td>
             <td style="text-align: right">1,418</td>
@@ -389,7 +389,7 @@
             <td style="text-align: right">7.0</td>
         </tr>
         <tr class="elected">
-            <td>corbexx</td>
+            <td><a href="/alumni/corbexx/">corbexx</a></td>
             <td style="text-align: right">10,879</td>
             <td style="text-align: right">34.8%</td>
             <td style="text-align: right">1,171</td>
@@ -398,7 +398,7 @@
             <td style="text-align: right">10.0</td>
         </tr>
         <tr class="elected">
-            <td>DJ FunkyBacon</td>
+            <td><a href="/alumni/dj-funkybacon/">DJ FunkyBacon</a></td>
             <td style="text-align: right">11,498</td>
             <td style="text-align: right">36.7%</td>
             <td style="text-align: right">959</td>
@@ -407,7 +407,7 @@
             <td style="text-align: right">9.0</td>
         </tr>
         <tr class="elected">
-            <td>Major JSilva</td>
+            <td><a href="/alumni/major-jsilva/">Major JSilva</a></td>
             <td style="text-align: right">8,866</td>
             <td style="text-align: right">28.3%</td>
             <td style="text-align: right">970</td>
@@ -416,7 +416,7 @@
             <td style="text-align: right">9.0</td>
         </tr>
         <tr class="elected">
-            <td>Mangala Solaris</td>
+            <td><a href="/alumni/mangala-solaris/">Mangala Solaris</a></td>
             <td style="text-align: right">12,013</td>
             <td style="text-align: right">38.4%</td>
             <td style="text-align: right">857</td>
@@ -425,7 +425,7 @@
             <td style="text-align: right">7.0</td>
         </tr>
         <tr>
-            <td>Asayanami Dei</td>
+            <td><a href="/alumni/asayanami-dei/">Asayanami Dei</a></td>
             <td style="text-align: right">5,200</td>
             <td style="text-align: right">16.6%</td>
             <td style="text-align: right">828</td>
@@ -452,7 +452,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr>
-            <td>James Arget</td>
+            <td><a href="/alumni/james-arget/">James Arget</a></td>
             <td style="text-align: right">12,006</td>
             <td style="text-align: right">38.4%</td>
             <td style="text-align: right">653</td>
@@ -461,7 +461,7 @@
             <td style="text-align: right">10.0</td>
         </tr>
         <tr>
-            <td>Gorski Car</td>
+            <td><a href="/alumni/gorski-car/">Gorski Car</a></td>
             <td style="text-align: right">5,406</td>
             <td style="text-align: right">17.3%</td>
             <td style="text-align: right">645</td>
@@ -479,7 +479,7 @@
             <td style="text-align: right">6.0</td>
         </tr>
         <tr>
-            <td>Jayne Fillon</td>
+            <td><a href="/alumni/jayne-fillon/">Jayne Fillon</a></td>
             <td style="text-align: right">9,840</td>
             <td style="text-align: right">31.4%</td>
             <td style="text-align: right">528</td>
@@ -515,7 +515,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr>
-            <td>Angry Mustache</td>
+            <td><a href="/alumni/angry-mustache/">Angry Mustache</a></td>
             <td style="text-align: right">7,403</td>
             <td style="text-align: right">23.7%</td>
             <td style="text-align: right">324</td>
@@ -596,7 +596,7 @@
             <td style="text-align: right">5.0</td>
         </tr>
         <tr>
-            <td>Xenuria</td>
+            <td><a href="/alumni/xenuria/">Xenuria</a></td>
             <td style="text-align: right">1,385</td>
             <td style="text-align: right">4.4%</td>
             <td style="text-align: right">97</td>

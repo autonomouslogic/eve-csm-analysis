@@ -29,72 +29,72 @@
     <tbody>
         
         <tr>
-            <td>mynnna</td>
+            <td><a href="/alumni/mynnna/">mynnna</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">5,782.0</td>
         </tr>
         <tr>
-            <td>Ripard Teg</td>
+            <td><a href="/alumni/ripard-teg/">Ripard Teg</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">4,181.0</td>
         </tr>
         <tr>
-            <td>Sort Dragon</td>
+            <td><a href="/alumni/sort-dragon/">Sort Dragon</a></td>
             <td style="text-align: right">4</td>
             <td style="text-align: right">3,310.9</td>
         </tr>
         <tr>
-            <td>Kesper North</td>
+            <td><a href="/alumni/kesper-north/">Kesper North</a></td>
             <td style="text-align: right">6</td>
             <td style="text-align: right">3,582.6</td>
         </tr>
         <tr>
-            <td>Mangala Solaris</td>
+            <td><a href="/alumni/mangala-solaris/">Mangala Solaris</a></td>
             <td style="text-align: right">13</td>
             <td style="text-align: right">3,289.7</td>
         </tr>
         <tr>
-            <td>Ali Aras</td>
+            <td><a href="/alumni/ali-aras/">Ali Aras</a></td>
             <td style="text-align: right">15</td>
             <td style="text-align: right">3,226.4</td>
         </tr>
         <tr>
-            <td>progodlegend</td>
+            <td><a href="/alumni/progodlegend/">progodlegend</a></td>
             <td style="text-align: right">15</td>
             <td style="text-align: right">3,211.3</td>
         </tr>
         <tr>
-            <td>Trebor Daehdoow</td>
+            <td><a href="/alumni/trebor-daehdoow/">Trebor Daehdoow</a></td>
             <td style="text-align: right">16</td>
             <td style="text-align: right">3,213.8</td>
         </tr>
         <tr>
-            <td>Sala Cameron</td>
+            <td><a href="/alumni/sala-cameron/">Sala Cameron</a></td>
             <td style="text-align: right">16</td>
             <td style="text-align: right">3,317.5</td>
         </tr>
         <tr>
-            <td>Malcanis</td>
+            <td><a href="/alumni/malcanis/">Malcanis</a></td>
             <td style="text-align: right">17</td>
             <td style="text-align: right">3,463.2</td>
         </tr>
         <tr>
-            <td>Chitsa Jason</td>
+            <td><a href="/alumni/chitsa-jason/">Chitsa Jason</a></td>
             <td style="text-align: right">17</td>
             <td style="text-align: right"></td>
         </tr>
         <tr>
-            <td>Mike Azariah</td>
+            <td><a href="/alumni/mike-azariah/">Mike Azariah</a></td>
             <td style="text-align: right">17</td>
             <td style="text-align: right"></td>
         </tr>
         <tr>
-            <td>Korvin</td>
+            <td><a href="/alumni/korvin/">Korvin</a></td>
             <td style="text-align: right">17</td>
             <td style="text-align: right"></td>
         </tr>
         <tr>
-            <td>James Arget</td>
+            <td><a href="/alumni/james-arget/">James Arget</a></td>
             <td style="text-align: right">17</td>
             <td style="text-align: right"></td>
         </tr>
@@ -132,7 +132,7 @@
             <td style="text-align: right">957.6</td>
         </tr>
         <tr>
-            <td>Greene Lee</td>
+            <td><a href="/alumni/greene-lee/">Greene Lee</a></td>
             <td style="text-align: right">15</td>
             <td style="text-align: right">1,919.5</td>
             <td style="text-align: right">1,256.5</td>
@@ -144,7 +144,7 @@
             <td style="text-align: right">1,354.0</td>
         </tr>
         <tr>
-            <td>Steve Ronuken</td>
+            <td><a href="/alumni/steve-ronuken/">Steve Ronuken</a></td>
             <td style="text-align: right">13</td>
             <td style="text-align: right">1,608.6</td>
             <td style="text-align: right">1,612.4</td>
@@ -242,7 +242,7 @@
     <tbody>
         
         <tr class="elected">
-            <td>mynnna</td>
+            <td><a href="/alumni/mynnna/">mynnna</a></td>
             <td style="text-align: right">14,476</td>
             <td style="text-align: right">29.1%</td>
             <td style="text-align: right">5,782</td>
@@ -251,7 +251,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr class="elected">
-            <td>Ripard Teg</td>
+            <td><a href="/alumni/ripard-teg/">Ripard Teg</a></td>
             <td style="text-align: right">13,862</td>
             <td style="text-align: right">27.9%</td>
             <td style="text-align: right">4,181</td>
@@ -260,7 +260,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr class="elected">
-            <td>Sort Dragon</td>
+            <td><a href="/alumni/sort-dragon/">Sort Dragon</a></td>
             <td style="text-align: right">14,999</td>
             <td style="text-align: right">30.2%</td>
             <td style="text-align: right">3,263</td>
@@ -269,7 +269,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr class="elected">
-            <td>Kesper North</td>
+            <td><a href="/alumni/kesper-north/">Kesper North</a></td>
             <td style="text-align: right">13,186</td>
             <td style="text-align: right">26.5%</td>
             <td style="text-align: right">918</td>
@@ -278,7 +278,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr class="elected">
-            <td>Mangala Solaris</td>
+            <td><a href="/alumni/mangala-solaris/">Mangala Solaris</a></td>
             <td style="text-align: right">23,410</td>
             <td style="text-align: right">47.1%</td>
             <td style="text-align: right">2,681</td>
@@ -287,7 +287,7 @@
             <td style="text-align: right">7.0</td>
         </tr>
         <tr class="elected">
-            <td>Ali Aras</td>
+            <td><a href="/alumni/ali-aras/">Ali Aras</a></td>
             <td style="text-align: right">11,401</td>
             <td style="text-align: right">22.9%</td>
             <td style="text-align: right">2,113</td>
@@ -296,7 +296,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr class="elected">
-            <td>progodlegend</td>
+            <td><a href="/alumni/progodlegend/">progodlegend</a></td>
             <td style="text-align: right">10,800</td>
             <td style="text-align: right">21.7%</td>
             <td style="text-align: right">2,328</td>
@@ -305,7 +305,7 @@
             <td style="text-align: right">6.0</td>
         </tr>
         <tr class="elected">
-            <td>Trebor Daehdoow</td>
+            <td><a href="/alumni/trebor-daehdoow/">Trebor Daehdoow</a></td>
             <td style="text-align: right">13,094</td>
             <td style="text-align: right">26.3%</td>
             <td style="text-align: right">2,034</td>
@@ -314,7 +314,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr class="elected">
-            <td>Sala Cameron</td>
+            <td><a href="/alumni/sala-cameron/">Sala Cameron</a></td>
             <td style="text-align: right">15,299</td>
             <td style="text-align: right">30.8%</td>
             <td style="text-align: right">1,550</td>
@@ -323,7 +323,7 @@
             <td style="text-align: right">5.0</td>
         </tr>
         <tr class="elected">
-            <td>Malcanis</td>
+            <td><a href="/alumni/malcanis/">Malcanis</a></td>
             <td style="text-align: right">19,513</td>
             <td style="text-align: right">39.3%</td>
             <td style="text-align: right">1,497</td>
@@ -332,7 +332,7 @@
             <td style="text-align: right">8.0</td>
         </tr>
         <tr class="elected">
-            <td>Chitsa Jason</td>
+            <td><a href="/alumni/chitsa-jason/">Chitsa Jason</a></td>
             <td style="text-align: right">9,680</td>
             <td style="text-align: right">19.5%</td>
             <td style="text-align: right">1,668</td>
@@ -341,7 +341,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr class="elected">
-            <td>Mike Azariah</td>
+            <td><a href="/alumni/mike-azariah/">Mike Azariah</a></td>
             <td style="text-align: right">10,058</td>
             <td style="text-align: right">20.2%</td>
             <td style="text-align: right">1,707</td>
@@ -350,7 +350,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr class="elected">
-            <td>Korvin</td>
+            <td><a href="/alumni/korvin/">Korvin</a></td>
             <td style="text-align: right">10,485</td>
             <td style="text-align: right">21.1%</td>
             <td style="text-align: right">2,065</td>
@@ -359,7 +359,7 @@
             <td style="text-align: right">6.0</td>
         </tr>
         <tr class="elected">
-            <td>James Arget</td>
+            <td><a href="/alumni/james-arget/">James Arget</a></td>
             <td style="text-align: right">17,148</td>
             <td style="text-align: right">34.5%</td>
             <td style="text-align: right">1,624</td>
@@ -386,7 +386,7 @@
             <td style="text-align: right">6.0</td>
         </tr>
         <tr>
-            <td>Greene Lee</td>
+            <td><a href="/alumni/greene-lee/">Greene Lee</a></td>
             <td style="text-align: right">5,695</td>
             <td style="text-align: right">11.5%</td>
             <td style="text-align: right">1,678</td>
@@ -404,7 +404,7 @@
             <td style="text-align: right">11.0</td>
         </tr>
         <tr>
-            <td>Steve Ronuken</td>
+            <td><a href="/alumni/steve-ronuken/">Steve Ronuken</a></td>
             <td style="text-align: right">7,912</td>
             <td style="text-align: right">15.9%</td>
             <td style="text-align: right">1,286</td>

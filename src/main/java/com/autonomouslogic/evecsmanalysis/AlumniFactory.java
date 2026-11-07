@@ -20,6 +20,8 @@ public class AlumniFactory {
 		var alumni = new Alumni();
 		var csmNumbers = csms.stream().map(CsmData::getCsmNumber).toList();
 		populateElections(alumni);
+		populateRuns(alumni);
+		checkUniqueSlugs(alumni);
 		sortAlumni(alumni);
 		return alumni;
 	}
@@ -36,17 +38,73 @@ public class AlumniFactory {
 				.toList();
 	}
 
+	/**
+	 * Number of distinct people who stood in at least one election and either won a seat or were eliminated. CCP picks,
+	 * replacements, and withdrawn candidates only count if they also stood in another election.
+	 */
+	public static long countRan(List<CsmData> csms) {
+		var names = new HashSet<String>();
+		for (var csm : csms) {
+			Optional.ofNullable(csm.getAnalysis().getWinners())
+					.ifPresent(r -> r.forEach(c -> names.add(c.getCandidate())));
+			Optional.ofNullable(csm.getAnalysis().getEliminations())
+					.ifPresent(r -> r.forEach(c -> names.add(c.getCandidate())));
+		}
+		return names.size();
+	}
+
+	/**
+	 * Number of distinct people who were elected at least once. CCP picks and replacements only count if they were also
+	 * elected in another election.
+	 */
+	public static long countElected(Alumni alumni) {
+		return alumni.getAlumni().values().stream()
+				.filter(a -> a.electedCount() > 0)
+				.count();
+	}
+
 	private void populateElections(Alumni alumni) {
 		for (CsmData csm : csms) {
 			Optional.ofNullable(csm.getCcpPicks())
 					.ifPresent(p -> p.forEach(c -> addCandidate(c, alumni, csm.getCsmNumber(), "picked")));
 			Optional.ofNullable(csm.getAnalysis().getWinners())
 					.ifPresent(r -> r.forEach(c -> addCandidate(
-							c.getCandidate().trim(),
+							c.getCandidate(),
 							alumni,
 							csm.getCsmNumber(),
-							csm.getResigned().contains(c.getCandidate().trim()) ? "resigned" : "elected")));
+							csm.getResigned().contains(c.getCandidate()) ? "resigned" : "elected")));
 			csm.getReplacements().forEach(c -> addCandidate(c, alumni, csm.getCsmNumber(), "replacement"));
+		}
+	}
+
+	/**
+	 * Copies the seat statuses into each alumnus's runs, then adds the losing runs. A seat status is never overwritten.
+	 */
+	private void populateRuns(Alumni alumni) {
+		alumni.getAlumni().values().forEach(a -> a.getRuns().putAll(a.getElections()));
+		for (CsmData csm : csms) {
+			Optional.ofNullable(csm.getAnalysis().getEliminations())
+					.ifPresent(e -> e.forEach(r -> addRun(r.getCandidate(), alumni, csm.getCsmNumber(), "eliminated")));
+			Optional.ofNullable(csm.getAnalysis().getWithdrawnCandidates())
+					.ifPresent(w -> w.forEach(c -> addRun(c, alumni, csm.getCsmNumber(), "withdrawn")));
+		}
+	}
+
+	private void addRun(String name, Alumni alumni, int csmNumber, String status) {
+		var alumnus = alumni.getAlumni().get(name);
+		if (alumnus != null) {
+			alumnus.getRuns().putIfAbsent(csmNumber, status);
+		}
+	}
+
+	private void checkUniqueSlugs(Alumni alumni) {
+		var bySlug = new HashMap<String, String>();
+		for (var alumnus : alumni.getAlumni().values()) {
+			var previous = bySlug.put(alumnus.slug(), alumnus.getName());
+			if (previous != null) {
+				throw new IllegalStateException("\"%s\" and \"%s\" share the page slug \"%s\""
+						.formatted(previous, alumnus.getName(), alumnus.slug()));
+			}
 		}
 	}
 

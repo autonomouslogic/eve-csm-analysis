@@ -93,7 +93,7 @@ public class BallotParser extends AbstractParser {
 			if (!line.startsWith("\"") || !line.endsWith("\"")) {
 				throw new IOException("Invalid candidate on line " + (lineIndex + 1) + ": " + line);
 			}
-			ballotFile.candidateName(i + 1, line.substring(1, line.length() - 1));
+			ballotFile.candidateName(i + 1, normalizeName(line.substring(1, line.length() - 1)));
 			lineIndex++;
 		}
 	}

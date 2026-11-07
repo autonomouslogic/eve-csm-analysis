@@ -28,52 +28,52 @@
     <tbody>
         
         <tr>
-            <td>Aryth</td>
+            <td><a href="/alumni/aryth/">Aryth</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">6,644.0</td>
         </tr>
         <tr>
-            <td>Sort Dragon</td>
+            <td><a href="/alumni/sort-dragon/">Sort Dragon</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">3,767.0</td>
         </tr>
         <tr>
-            <td>Merkelchen</td>
+            <td><a href="/alumni/merkelchen/">Merkelchen</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">3,948.7</td>
         </tr>
         <tr>
-            <td>Jin'taan</td>
+            <td><a href="/alumni/jintaan/">Jin'taan</a></td>
             <td style="text-align: right">23</td>
             <td style="text-align: right">2,633.0</td>
         </tr>
         <tr>
-            <td>Innominate</td>
+            <td><a href="/alumni/innominate/">Innominate</a></td>
             <td style="text-align: right">30</td>
             <td style="text-align: right">2,620.1</td>
         </tr>
         <tr>
-            <td>Killah Bee</td>
+            <td><a href="/alumni/killah-bee/">Killah Bee</a></td>
             <td style="text-align: right">31</td>
             <td style="text-align: right">2,612.9</td>
         </tr>
         <tr>
-            <td>Steve Ronuken</td>
+            <td><a href="/alumni/steve-ronuken/">Steve Ronuken</a></td>
             <td style="text-align: right">34</td>
             <td style="text-align: right">2,547.3</td>
         </tr>
         <tr>
-            <td>Brisc Rubal</td>
+            <td><a href="/alumni/brisc-rubal/">Brisc Rubal</a></td>
             <td style="text-align: right">35</td>
             <td style="text-align: right">2,490.0</td>
         </tr>
         <tr>
-            <td>Suitonia</td>
+            <td><a href="/alumni/suitonia/">Suitonia</a></td>
             <td style="text-align: right">36</td>
             <td style="text-align: right">2,477.2</td>
         </tr>
         <tr>
-            <td>The Judge</td>
+            <td><a href="/alumni/the-judge/">The Judge</a></td>
             <td style="text-align: right">36</td>
             <td style="text-align: right"></td>
         </tr>
@@ -122,7 +122,7 @@
             <td style="text-align: right">784.3</td>
         </tr>
         <tr>
-            <td>ExookiZ</td>
+            <td><a href="/alumni/exookiz/">ExookiZ</a></td>
             <td style="text-align: right">35</td>
             <td style="text-align: right">1,434.6</td>
             <td style="text-align: right">1,048.4</td>
@@ -164,7 +164,7 @@
             <td style="text-align: right">2,073.3</td>
         </tr>
         <tr>
-            <td>Sullen Decimus</td>
+            <td><a href="/alumni/sullen-decimus/">Sullen Decimus</a></td>
             <td style="text-align: right">28</td>
             <td style="text-align: right">463.0</td>
             <td style="text-align: right">2,146.0</td>
@@ -224,7 +224,7 @@
             <td style="text-align: right">2,444.1</td>
         </tr>
         <tr>
-            <td>Xenuria</td>
+            <td><a href="/alumni/xenuria/">Xenuria</a></td>
             <td style="text-align: right">18</td>
             <td style="text-align: right">186.7</td>
             <td style="text-align: right">2,456.3</td>
@@ -352,7 +352,7 @@
     <tbody>
         
         <tr class="elected">
-            <td>Aryth</td>
+            <td><a href="/alumni/aryth/">Aryth</a></td>
             <td style="text-align: right">9,254</td>
             <td style="text-align: right">31.5%</td>
             <td style="text-align: right">6,642</td>
@@ -361,7 +361,7 @@
             <td style="text-align: right">1.0</td>
         </tr>
         <tr class="elected">
-            <td>Sort Dragon</td>
+            <td><a href="/alumni/sort-dragon/">Sort Dragon</a></td>
             <td style="text-align: right">6,548</td>
             <td style="text-align: right">22.3%</td>
             <td style="text-align: right">3,751</td>
@@ -370,7 +370,7 @@
             <td style="text-align: right">1.0</td>
         </tr>
         <tr class="elected">
-            <td>Merkelchen</td>
+            <td><a href="/alumni/merkelchen/">Merkelchen</a></td>
             <td style="text-align: right">8,764</td>
             <td style="text-align: right">29.8%</td>
             <td style="text-align: right">605</td>
@@ -379,7 +379,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr class="elected">
-            <td>Jin'taan</td>
+            <td><a href="/alumni/jintaan/">Jin'taan</a></td>
             <td style="text-align: right">15,476</td>
             <td style="text-align: right">52.6%</td>
             <td style="text-align: right">1,110</td>
@@ -388,7 +388,7 @@
             <td style="text-align: right">6.0</td>
         </tr>
         <tr class="elected">
-            <td>Innominate</td>
+            <td><a href="/alumni/innominate/">Innominate</a></td>
             <td style="text-align: right">10,347</td>
             <td style="text-align: right">35.2%</td>
             <td style="text-align: right">517</td>
@@ -397,7 +397,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr class="elected">
-            <td>Killah Bee</td>
+            <td><a href="/alumni/killah-bee/">Killah Bee</a></td>
             <td style="text-align: right">7,586</td>
             <td style="text-align: right">25.8%</td>
             <td style="text-align: right">1,186</td>
@@ -406,7 +406,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr class="elected">
-            <td>Steve Ronuken</td>
+            <td><a href="/alumni/steve-ronuken/">Steve Ronuken</a></td>
             <td style="text-align: right">14,215</td>
             <td style="text-align: right">48.3%</td>
             <td style="text-align: right">1,449</td>
@@ -415,7 +415,7 @@
             <td style="text-align: right">8.0</td>
         </tr>
         <tr class="elected">
-            <td>Brisc Rubal</td>
+            <td><a href="/alumni/brisc-rubal/">Brisc Rubal</a></td>
             <td style="text-align: right">12,330</td>
             <td style="text-align: right">41.9%</td>
             <td style="text-align: right">1,954</td>
@@ -424,7 +424,7 @@
             <td style="text-align: right">5.0</td>
         </tr>
         <tr class="elected">
-            <td>Suitonia</td>
+            <td><a href="/alumni/suitonia/">Suitonia</a></td>
             <td style="text-align: right">8,070</td>
             <td style="text-align: right">27.4%</td>
             <td style="text-align: right">1,239</td>
@@ -433,7 +433,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr class="elected">
-            <td>The Judge</td>
+            <td><a href="/alumni/the-judge/">The Judge</a></td>
             <td style="text-align: right">10,587</td>
             <td style="text-align: right">36.0%</td>
             <td style="text-align: right">1,058</td>
@@ -451,7 +451,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr>
-            <td>ExookiZ</td>
+            <td><a href="/alumni/exookiz/">ExookiZ</a></td>
             <td style="text-align: right">3,759</td>
             <td style="text-align: right">12.8%</td>
             <td style="text-align: right">1,087</td>
@@ -514,7 +514,7 @@
             <td style="text-align: right">6.0</td>
         </tr>
         <tr>
-            <td>Sullen Decimus</td>
+            <td><a href="/alumni/sullen-decimus/">Sullen Decimus</a></td>
             <td style="text-align: right">8,915</td>
             <td style="text-align: right">30.3%</td>
             <td style="text-align: right">366</td>
@@ -604,7 +604,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr>
-            <td>Xenuria</td>
+            <td><a href="/alumni/xenuria/">Xenuria</a></td>
             <td style="text-align: right">2,354</td>
             <td style="text-align: right">8.0%</td>
             <td style="text-align: right">148</td>

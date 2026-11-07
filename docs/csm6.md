@@ -25,59 +25,59 @@
     <tbody>
         
         <tr>
-            <td>The Mittani</td>
+            <td><a href="/alumni/the-mittani/">The Mittani</a></td>
             <td style="text-align: right">5,365</td>
         </tr>
         <tr>
-            <td>Seleene</td>
+            <td><a href="/alumni/seleene/">Seleene</a></td>
             <td style="text-align: right">3,813</td>
         </tr>
         <tr>
-            <td>UAxDEATH</td>
+            <td><a href="/alumni/uaxdeath/">UAxDEATH</a></td>
             <td style="text-align: right">3,320</td>
         </tr>
         <tr>
-            <td>Trebor Daehdoow</td>
+            <td><a href="/alumni/trebor-daehdoow/">Trebor Daehdoow</a></td>
             <td style="text-align: right">3,306</td>
         </tr>
         <tr>
-            <td>Killer2</td>
+            <td><a href="/alumni/killer2/">Killer2</a></td>
             <td style="text-align: right">2,925</td>
         </tr>
         <tr>
-            <td>White Tree</td>
+            <td><a href="/alumni/white-tree/">White Tree</a></td>
             <td style="text-align: right">2,539</td>
         </tr>
         <tr>
-            <td>Vile Rat</td>
+            <td><a href="/alumni/vile-rat/">Vile Rat</a></td>
             <td style="text-align: right">2,240</td>
         </tr>
         <tr>
-            <td>Meissa Anunthiel</td>
+            <td><a href="/alumni/meissa-anunthiel/">Meissa Anunthiel</a></td>
             <td style="text-align: right">2,086</td>
         </tr>
         <tr>
-            <td>Draco Llasa</td>
+            <td><a href="/alumni/draco-llasa/">Draco Llasa</a></td>
             <td style="text-align: right">1,986</td>
         </tr>
         <tr>
-            <td>Elise Randolph</td>
+            <td><a href="/alumni/elise-randolph/">Elise Randolph</a></td>
             <td style="text-align: right">1,747</td>
         </tr>
         <tr>
-            <td>Prometheus Exenthal</td>
+            <td><a href="/alumni/prometheus-exenthal/">Prometheus Exenthal</a></td>
             <td style="text-align: right">1,341</td>
         </tr>
         <tr>
-            <td>Krutoj</td>
+            <td><a href="/alumni/krutoj/">Krutoj</a></td>
             <td style="text-align: right">1,090</td>
         </tr>
         <tr>
-            <td>Two Step</td>
+            <td><a href="/alumni/two-step/">Two Step</a></td>
             <td style="text-align: right">956</td>
         </tr>
         <tr>
-            <td>Darius III</td>
+            <td><a href="/alumni/darius-iii/">Darius III</a></td>
             <td style="text-align: right">921</td>
         </tr>
         

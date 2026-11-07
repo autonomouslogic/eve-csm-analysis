@@ -29,52 +29,52 @@
     <tbody>
         
         <tr>
-            <td>Merkelchen</td>
+            <td><a href="/alumni/merkelchen/">Merkelchen</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">7,726.0</td>
         </tr>
         <tr>
-            <td>Gobbins</td>
+            <td><a href="/alumni/gobbins/">Gobbins</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">3,770.0</td>
         </tr>
         <tr>
-            <td>Innominate</td>
+            <td><a href="/alumni/innominate/">Innominate</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">4,191.1</td>
         </tr>
         <tr>
-            <td>Brisc Rubal</td>
+            <td><a href="/alumni/brisc-rubal/">Brisc Rubal</a></td>
             <td style="text-align: right">20</td>
             <td style="text-align: right">3,550.5</td>
         </tr>
         <tr>
-            <td>Kenneth Feld</td>
+            <td><a href="/alumni/kenneth-feld/">Kenneth Feld</a></td>
             <td style="text-align: right">26</td>
             <td style="text-align: right">3,430.8</td>
         </tr>
         <tr>
-            <td>I Beast</td>
+            <td><a href="/alumni/i-beast/">I Beast</a></td>
             <td style="text-align: right">33</td>
             <td style="text-align: right">3,349.0</td>
         </tr>
         <tr>
-            <td>Suitonia</td>
+            <td><a href="/alumni/suitonia/">Suitonia</a></td>
             <td style="text-align: right">34</td>
             <td style="text-align: right">3,478.1</td>
         </tr>
         <tr>
-            <td>Vily</td>
+            <td><a href="/alumni/vily/">Vily</a></td>
             <td style="text-align: right">36</td>
             <td style="text-align: right">3,260.3</td>
         </tr>
         <tr>
-            <td>Mike Azariah</td>
+            <td><a href="/alumni/mike-azariah/">Mike Azariah</a></td>
             <td style="text-align: right">36</td>
             <td style="text-align: right"></td>
         </tr>
         <tr>
-            <td>progodlegend</td>
+            <td><a href="/alumni/progodlegend/">progodlegend</a></td>
             <td style="text-align: right">36</td>
             <td style="text-align: right"></td>
         </tr>
@@ -100,13 +100,13 @@
     <tbody>
         
         <tr>
-            <td>Arsia Elkin</td>
+            <td><a href="/alumni/arsia-elkin/">Arsia Elkin</a></td>
             <td style="text-align: right">36</td>
             <td style="text-align: right">2,241.8</td>
             <td style="text-align: right">1,015.2</td>
         </tr>
         <tr>
-            <td>Mark Resurrectus</td>
+            <td><a href="/alumni/mark-resurrectus/">Mark Resurrectus</a></td>
             <td style="text-align: right">35</td>
             <td style="text-align: right">1,736.7</td>
             <td style="text-align: right">1,544.3</td>
@@ -118,13 +118,13 @@
             <td style="text-align: right">1,799.9</td>
         </tr>
         <tr>
-            <td>Seddow</td>
+            <td><a href="/alumni/seddow/">Seddow</a></td>
             <td style="text-align: right">33</td>
             <td style="text-align: right">1,227.7</td>
             <td style="text-align: right">2,104.3</td>
         </tr>
         <tr>
-            <td>Stitch Kaneland</td>
+            <td><a href="/alumni/stitch-kaneland/">Stitch Kaneland</a></td>
             <td style="text-align: right">32</td>
             <td style="text-align: right">1,048.7</td>
             <td style="text-align: right">2,290.3</td>
@@ -154,7 +154,7 @@
             <td style="text-align: right">2,632.9</td>
         </tr>
         <tr>
-            <td>Phantomite</td>
+            <td><a href="/alumni/phantomite/">Phantomite</a></td>
             <td style="text-align: right">27</td>
             <td style="text-align: right">721.0</td>
             <td style="text-align: right">2,670.0</td>
@@ -214,7 +214,7 @@
             <td style="text-align: right">3,161.8</td>
         </tr>
         <tr>
-            <td>Angry Mustache</td>
+            <td><a href="/alumni/angry-mustache/">Angry Mustache</a></td>
             <td style="text-align: right">17</td>
             <td style="text-align: right">251.1</td>
             <td style="text-align: right">3,196.9</td>
@@ -280,7 +280,7 @@
             <td style="text-align: right">3,393.6</td>
         </tr>
         <tr>
-            <td>Xenuria</td>
+            <td><a href="/alumni/xenuria/">Xenuria</a></td>
             <td style="text-align: right">6</td>
             <td style="text-align: right">63.8</td>
             <td style="text-align: right">3,397.2</td>
@@ -336,7 +336,7 @@
     <tbody>
         
         <tr class="elected">
-            <td>Merkelchen</td>
+            <td><a href="/alumni/merkelchen/">Merkelchen</a></td>
             <td style="text-align: right">10,063</td>
             <td style="text-align: right">26.4%</td>
             <td style="text-align: right">7,726</td>
@@ -345,7 +345,7 @@
             <td style="text-align: right">1.0</td>
         </tr>
         <tr class="elected">
-            <td>Gobbins</td>
+            <td><a href="/alumni/gobbins/">Gobbins</a></td>
             <td style="text-align: right">11,784</td>
             <td style="text-align: right">30.9%</td>
             <td style="text-align: right">3,770</td>
@@ -354,7 +354,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr class="elected">
-            <td>Innominate</td>
+            <td><a href="/alumni/innominate/">Innominate</a></td>
             <td style="text-align: right">10,892</td>
             <td style="text-align: right">28.6%</td>
             <td style="text-align: right">204</td>
@@ -363,7 +363,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr class="elected">
-            <td>Brisc Rubal</td>
+            <td><a href="/alumni/brisc-rubal/">Brisc Rubal</a></td>
             <td style="text-align: right">14,254</td>
             <td style="text-align: right">37.4%</td>
             <td style="text-align: right">2,171</td>
@@ -372,7 +372,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr class="elected">
-            <td>Kenneth Feld</td>
+            <td><a href="/alumni/kenneth-feld/">Kenneth Feld</a></td>
             <td style="text-align: right">9,500</td>
             <td style="text-align: right">24.9%</td>
             <td style="text-align: right">3,251</td>
@@ -381,7 +381,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr class="elected">
-            <td>I Beast</td>
+            <td><a href="/alumni/i-beast/">I Beast</a></td>
             <td style="text-align: right">17,015</td>
             <td style="text-align: right">44.7%</td>
             <td style="text-align: right">2,438</td>
@@ -390,7 +390,7 @@
             <td style="text-align: right">8.0</td>
         </tr>
         <tr class="elected">
-            <td>Suitonia</td>
+            <td><a href="/alumni/suitonia/">Suitonia</a></td>
             <td style="text-align: right">16,839</td>
             <td style="text-align: right">44.2%</td>
             <td style="text-align: right">1,050</td>
@@ -399,7 +399,7 @@
             <td style="text-align: right">8.0</td>
         </tr>
         <tr class="elected">
-            <td>Vily</td>
+            <td><a href="/alumni/vily/">Vily</a></td>
             <td style="text-align: right">11,978</td>
             <td style="text-align: right">31.4%</td>
             <td style="text-align: right">2,506</td>
@@ -408,7 +408,7 @@
             <td style="text-align: right">5.0</td>
         </tr>
         <tr class="elected">
-            <td>Mike Azariah</td>
+            <td><a href="/alumni/mike-azariah/">Mike Azariah</a></td>
             <td style="text-align: right">7,176</td>
             <td style="text-align: right">18.8%</td>
             <td style="text-align: right">1,111</td>
@@ -417,7 +417,7 @@
             <td style="text-align: right">6.0</td>
         </tr>
         <tr class="elected">
-            <td>progodlegend</td>
+            <td><a href="/alumni/progodlegend/">progodlegend</a></td>
             <td style="text-align: right">11,799</td>
             <td style="text-align: right">31.0%</td>
             <td style="text-align: right">1,650</td>
@@ -426,7 +426,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr>
-            <td>Arsia Elkin</td>
+            <td><a href="/alumni/arsia-elkin/">Arsia Elkin</a></td>
             <td style="text-align: right">14,036</td>
             <td style="text-align: right">36.9%</td>
             <td style="text-align: right">978</td>
@@ -435,7 +435,7 @@
             <td style="text-align: right">6.0</td>
         </tr>
         <tr>
-            <td>Mark Resurrectus</td>
+            <td><a href="/alumni/mark-resurrectus/">Mark Resurrectus</a></td>
             <td style="text-align: right">4,120</td>
             <td style="text-align: right">10.8%</td>
             <td style="text-align: right">803</td>
@@ -453,7 +453,7 @@
             <td style="text-align: right">6.0</td>
         </tr>
         <tr>
-            <td>Seddow</td>
+            <td><a href="/alumni/seddow/">Seddow</a></td>
             <td style="text-align: right">7,782</td>
             <td style="text-align: right">20.4%</td>
             <td style="text-align: right">1,029</td>
@@ -462,7 +462,7 @@
             <td style="text-align: right">7.0</td>
         </tr>
         <tr>
-            <td>Stitch Kaneland</td>
+            <td><a href="/alumni/stitch-kaneland/">Stitch Kaneland</a></td>
             <td style="text-align: right">4,742</td>
             <td style="text-align: right">12.5%</td>
             <td style="text-align: right">725</td>
@@ -507,7 +507,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr>
-            <td>Phantomite</td>
+            <td><a href="/alumni/phantomite/">Phantomite</a></td>
             <td style="text-align: right">14,020</td>
             <td style="text-align: right">36.8%</td>
             <td style="text-align: right">573</td>
@@ -597,7 +597,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr>
-            <td>Angry Mustache</td>
+            <td><a href="/alumni/angry-mustache/">Angry Mustache</a></td>
             <td style="text-align: right">11,513</td>
             <td style="text-align: right">30.2%</td>
             <td style="text-align: right">193</td>
@@ -696,7 +696,7 @@
             <td style="text-align: right">5.0</td>
         </tr>
         <tr>
-            <td>Xenuria</td>
+            <td><a href="/alumni/xenuria/">Xenuria</a></td>
             <td style="text-align: right">9,198</td>
             <td style="text-align: right">24.2%</td>
             <td style="text-align: right">59</td>
