@@ -1,8 +1,17 @@
 # Alumni
 
+## Most elected
+
+[# th:each="alumnus : ${frequent}"]
+1. [(${links.html(alumnus.name)})]: [(${alumnus.electedCount()})] times
+[/]
+
+## All Alumni
+
 * &#x1F7E2; = Elected
 * &#x1F535; = CCP pick
 * <span style="color: #9e9e9e;">&#x2B24;</span> = Resigned
+* &#x26AA; = Ran
 
 [View JSON](/data/alumni.json)
 
@@ -35,15 +44,12 @@
                            <span style="color: #9e9e9e;">&#x2B24;</span>
                         [/]
                     [/]
+                    [# th:if="${ alumnus.value.runs.get(csm) } == 'eliminated'"]
+                        &#x26AA;
+                    [/]
                 </td>
             [/]
         </tr>
         [/]
     </tbody>
 </table>
-
-## Most elected
-
-[# th:each="alumnus : ${frequent}"]
-1. [(${links.html(alumnus.name)})]: [(${alumnus.electedCount()})] times
-[/]

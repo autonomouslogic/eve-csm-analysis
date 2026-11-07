@@ -1,8 +1,25 @@
 # Alumni
 
+## Most elected
+
+
+1. <a href="/alumni/mike-azariah/">Mike Azariah</a>: 7 times
+1. <a href="/alumni/innominate/">Innominate</a>: 6 times
+1. <a href="/alumni/steve-ronuken/">Steve Ronuken</a>: 6 times
+1. <a href="/alumni/aryth/">Aryth</a>: 4 times
+1. <a href="/alumni/brisc-rubal/">Brisc Rubal</a>: 4 times
+1. <a href="/alumni/kenneth-feld/">Kenneth Feld</a>: 4 times
+1. <a href="/alumni/meissa-anunthiel/">Meissa Anunthiel</a>: 4 times
+1. <a href="/alumni/merkelchen/">Merkelchen</a>: 4 times
+1. <a href="/alumni/trebor-daehdoow/">Trebor Daehdoow</a>: 4 times
+
+
+## All Alumni
+
 * &#x1F7E2; = Elected
 * &#x1F535; = CCP pick
 * <span style="color: #9e9e9e;">&#x2B24;</span> = Resigned
+* &#x26AA; = Ran
 
 [View JSON](/data/alumni.json)
 
@@ -46,56 +63,76 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -112,6 +149,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -122,53 +160,72 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -185,8 +242,12 @@
                         
                         
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
@@ -198,50 +259,68 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -258,6 +337,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -268,53 +348,72 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -331,6 +430,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -341,8 +441,12 @@
                         
                         
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
@@ -354,47 +458,64 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -411,56 +532,76 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -477,24 +618,18 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
+                        &#x26AA;
                     
                 </td>
                 <td>
+                    
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
@@ -506,27 +641,10 @@
                         
                         
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
                     
                 </td>
                 <td>
@@ -538,15 +656,6 @@
                         
                         
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
@@ -558,17 +667,73 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
+                    
+                </td>
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
+                    
+                </td>
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -585,14 +750,20 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
@@ -604,44 +775,58 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -658,56 +843,74 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -724,56 +927,76 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -790,15 +1013,6 @@
                         
                         
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
@@ -810,50 +1024,77 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -870,6 +1111,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -880,53 +1122,72 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -936,18 +1197,6 @@
             
                 <td>
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
-                    
-                </td>
-                <td>
                     
                 </td>
                 <td>
@@ -959,6 +1208,11 @@
                         
                         
                     
+                    
+                </td>
+                <td>
+                    
+                    
                 </td>
                 <td>
                     
@@ -969,44 +1223,73 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -1016,15 +1299,6 @@
             
                 <td>
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
@@ -1036,50 +1310,79 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                        &#x26AA;
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -1089,6 +1392,7 @@
             
                 <td>
                     
+                    
                 </td>
                 <td>
                     
@@ -1099,53 +1403,70 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -1155,6 +1476,7 @@
             
                 <td>
                     
+                    
                 </td>
                 <td>
                     
@@ -1164,6 +1486,7 @@
                            &#x1F535;
                         
                         
+                    
                     
                 </td>
                 <td>
@@ -1175,50 +1498,66 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -1228,15 +1567,6 @@
             
                 <td>
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
@@ -1248,6 +1578,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -1258,47 +1589,75 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -1308,6 +1667,7 @@
             
                 <td>
                     
+                    
                 </td>
                 <td>
                     
@@ -1318,53 +1678,70 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -1374,6 +1751,7 @@
             
                 <td>
                     
+                    
                 </td>
                 <td>
                     
@@ -1383,6 +1761,7 @@
                         
                         
                         
+                    
                     
                 </td>
                 <td>
@@ -1394,50 +1773,66 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -1447,8 +1842,14 @@
             
                 <td>
                     
+                    
+                        &#x26AA;
+                    
                 </td>
                 <td>
+                    
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
@@ -1460,50 +1861,70 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -1513,18 +1934,10 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
@@ -1536,6 +1949,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -1546,44 +1960,69 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -1593,21 +2032,14 @@
             
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
-                </td>
-                <td>
+                        &#x26AA;
                     
                 </td>
                 <td>
@@ -1619,6 +2051,11 @@
                         
                         
                     
+                    
+                </td>
+                <td>
+                    
+                    
                 </td>
                 <td>
                     
@@ -1629,6 +2066,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -1639,38 +2077,61 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -1680,18 +2141,10 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
@@ -1703,6 +2156,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -1713,44 +2167,69 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -1760,8 +2239,10 @@
             
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
                     
                 </td>
                 <td>
@@ -1773,50 +2254,68 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -1826,18 +2325,10 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
@@ -1849,6 +2340,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -1859,44 +2351,71 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -1906,11 +2425,14 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -1922,47 +2444,62 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -1972,11 +2509,14 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -1988,47 +2528,62 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -2038,11 +2593,14 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -2054,47 +2612,62 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -2104,21 +2677,14 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
@@ -2130,44 +2696,71 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -2177,11 +2770,14 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -2193,47 +2789,70 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -2243,14 +2862,18 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -2262,44 +2885,60 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -2309,24 +2948,18 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -2338,18 +2971,6 @@
                         
                         
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
-                    
-                </td>
-                <td>
                     
                 </td>
                 <td>
@@ -2361,32 +2982,68 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -2396,14 +3053,18 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -2415,44 +3076,58 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -2462,27 +3137,22 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -2494,6 +3164,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -2504,35 +3175,57 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -2542,17 +3235,22 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -2564,41 +3262,54 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -2608,27 +3319,22 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -2640,15 +3346,6 @@
                         
                         
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
@@ -2660,15 +3357,6 @@
                         
                         
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
@@ -2680,26 +3368,67 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -2709,27 +3438,22 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -2741,15 +3465,6 @@
                         
                         
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
@@ -2761,32 +3476,64 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -2796,33 +3543,22 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
                     
                 </td>
                 <td>
@@ -2834,6 +3570,15 @@
                         
                         
                     
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
                 </td>
                 <td>
                     
@@ -2844,29 +3589,49 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -2876,27 +3641,22 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -2908,6 +3668,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -2918,35 +3679,57 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -2956,45 +3739,22 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
                     
                 </td>
                 <td>
@@ -3006,6 +3766,31 @@
                         
                         
                     
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
                 </td>
                 <td>
                     
@@ -3016,17 +3801,33 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -3036,20 +3837,26 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -3061,38 +3868,50 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -3102,20 +3921,34 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
+                        &#x26AA;
+                    
                 </td>
                 <td>
+                    
+                    
+                        &#x26AA;
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
@@ -3127,38 +3960,50 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -3168,20 +4013,30 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                        &#x26AA;
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -3193,38 +4048,50 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -3234,43 +4101,30 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -3282,6 +4136,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -3292,26 +4147,56 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -3321,23 +4206,30 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -3349,35 +4241,46 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -3387,23 +4290,32 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
@@ -3415,35 +4327,48 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -3453,23 +4378,30 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -3481,6 +4413,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -3491,32 +4424,44 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -3526,23 +4471,30 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -3554,35 +4506,46 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -3592,43 +4555,32 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
+                    
+                        &#x26AA;
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -3640,15 +4592,6 @@
                         
                         
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
@@ -3660,6 +4603,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -3670,20 +4614,61 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
+                    
                 </td>
                 <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -3693,46 +4678,34 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -3744,26 +4717,56 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -3773,42 +4776,36 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
@@ -3820,8 +4817,16 @@
                         
                         
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                        &#x26AA;
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -3833,17 +4838,37 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -3853,46 +4878,36 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
@@ -3904,26 +4919,56 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -3933,29 +4978,38 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -3967,6 +5021,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -3977,26 +5032,34 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -4006,29 +5069,38 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -4040,29 +5112,38 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -4072,29 +5153,38 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -4106,29 +5196,38 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -4138,29 +5237,38 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -4172,29 +5280,38 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -4204,32 +5321,44 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
@@ -4241,26 +5370,36 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -4270,32 +5409,42 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -4307,26 +5456,34 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -4336,32 +5493,42 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -4373,26 +5540,38 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -4402,32 +5581,42 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -4439,26 +5628,34 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -4468,32 +5665,42 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -4505,26 +5712,34 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -4534,32 +5749,42 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -4571,26 +5796,34 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -4600,32 +5833,46 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
@@ -4637,26 +5884,34 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -4666,32 +5921,52 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                        &#x26AA;
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
@@ -4703,26 +5978,38 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -4732,35 +6019,46 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -4772,23 +6070,30 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -4798,35 +6103,46 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -4838,23 +6154,30 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -4864,35 +6187,46 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -4904,23 +6238,30 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -4930,35 +6271,46 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -4970,23 +6322,30 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -4996,35 +6355,46 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -5036,23 +6406,32 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -5062,35 +6441,46 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -5102,23 +6492,30 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -5128,35 +6525,46 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -5168,6 +6576,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -5178,20 +6587,26 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -5201,35 +6616,46 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -5241,6 +6667,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -5251,20 +6678,26 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -5274,35 +6707,46 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -5314,23 +6758,30 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -5340,35 +6791,46 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -5380,6 +6842,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -5390,20 +6853,26 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -5413,35 +6882,46 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -5453,6 +6933,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -5463,20 +6944,26 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -5486,38 +6973,50 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -5529,6 +7028,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -5539,17 +7039,22 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -5559,38 +7064,50 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -5602,20 +7119,26 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -5625,38 +7148,50 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -5668,20 +7203,26 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -5691,38 +7232,50 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -5734,20 +7287,26 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -5757,38 +7316,50 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -5800,6 +7371,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -5810,17 +7382,22 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -5830,38 +7407,50 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -5873,20 +7462,26 @@
                            <span style="color: #9e9e9e;">&#x2B24;</span>
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -5896,38 +7491,52 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
@@ -5939,20 +7548,26 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -5962,38 +7577,50 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -6005,6 +7632,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -6015,17 +7643,22 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -6035,41 +7668,54 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -6081,17 +7727,22 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -6101,41 +7752,56 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
@@ -6147,17 +7813,22 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -6167,41 +7838,54 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -6213,17 +7897,22 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -6233,41 +7922,73 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -6279,11 +8000,6 @@
                         
                         
                     
-                </td>
-                <td>
-                    
-                </td>
-                <td>
                     
                 </td>
                 <td>
@@ -6295,15 +8011,6 @@
                         
                         
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
             
@@ -6313,41 +8020,54 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -6359,17 +8079,22 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -6379,41 +8104,54 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -6425,17 +8163,22 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -6445,41 +8188,54 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -6491,17 +8247,22 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -6511,61 +8272,54 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
-                    
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -6577,6 +8331,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -6587,8 +8342,32 @@
                         
                         
                     
+                    
                 </td>
                 <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
+                    
+                </td>
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -6598,44 +8377,58 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -6647,11 +8440,14 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -6662,6 +8458,7 @@
                         
                         
                         
+                    
                     
                 </td>
             
@@ -6671,44 +8468,58 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -6720,6 +8531,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -6730,11 +8542,14 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -6744,44 +8559,58 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -6793,14 +8622,18 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -6810,44 +8643,58 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -6859,6 +8706,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -6869,11 +8717,14 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -6883,44 +8734,60 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
                     
                 </td>
                 <td>
@@ -6932,14 +8799,18 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -6949,44 +8820,58 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -6998,14 +8883,18 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -7015,44 +8904,58 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -7064,14 +8967,18 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -7081,44 +8988,58 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -7130,14 +9051,18 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -7147,64 +9072,58 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
                     
                 </td>
                 <td>
                     
-                        
-                            &#x1F7E2;
-                        
-                        
-                        
-                        
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -7216,6 +9135,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -7225,6 +9145,29 @@
                         
                         
                         
+                    
+                    
+                </td>
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
+                    
+                </td>
+                <td>
+                    
+                        
+                            &#x1F7E2;
+                        
+                        
+                        
+                        
+                    
                     
                 </td>
             
@@ -7234,44 +9177,58 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -7283,6 +9240,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -7293,11 +9251,14 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -7307,44 +9268,58 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -7356,6 +9331,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -7366,11 +9342,14 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -7380,44 +9359,58 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -7429,6 +9422,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -7439,11 +9433,14 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -7453,44 +9450,62 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
+                        &#x26AA;
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                        &#x26AA;
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -7502,6 +9517,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -7512,11 +9528,14 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -7526,47 +9545,62 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -7578,11 +9612,14 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -7592,47 +9629,62 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -7644,11 +9696,14 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -7658,47 +9713,62 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -7710,11 +9780,14 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -7724,47 +9797,62 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -7776,11 +9864,14 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -7790,47 +9881,62 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -7842,11 +9948,14 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -7856,47 +9965,62 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -7908,11 +10032,14 @@
                         
                         
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
             
@@ -7922,50 +10049,66 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -7977,8 +10120,10 @@
                         
                         
                     
+                    
                 </td>
                 <td>
+                    
                     
                 </td>
             
@@ -7988,50 +10133,66 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -8043,8 +10204,10 @@
                         
                         
                     
+                    
                 </td>
                 <td>
+                    
                     
                 </td>
             
@@ -8054,50 +10217,66 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -8109,8 +10288,10 @@
                         
                         
                     
+                    
                 </td>
                 <td>
+                    
                     
                 </td>
             
@@ -8120,50 +10301,66 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -8175,6 +10372,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -8184,6 +10382,7 @@
                         
                         
                         
+                    
                     
                 </td>
             
@@ -8193,50 +10392,66 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -8248,6 +10463,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -8257,6 +10473,7 @@
                         
                         
                         
+                    
                     
                 </td>
             
@@ -8266,50 +10483,66 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -8321,8 +10554,10 @@
                         
                         
                     
+                    
                 </td>
                 <td>
+                    
                     
                 </td>
             
@@ -8332,50 +10567,66 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -8387,6 +10638,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -8396,6 +10648,7 @@
                         
                         
                         
+                    
                     
                 </td>
             
@@ -8405,50 +10658,66 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -8460,6 +10729,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -8469,6 +10739,7 @@
                         
                         
                         
+                    
                     
                 </td>
             
@@ -8478,50 +10749,66 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -8533,6 +10820,7 @@
                         
                         
                     
+                    
                 </td>
                 <td>
                     
@@ -8542,6 +10830,7 @@
                         
                         
                         
+                    
                     
                 </td>
             
@@ -8551,50 +10840,66 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -8606,8 +10911,10 @@
                         
                         
                     
+                    
                 </td>
                 <td>
+                    
                     
                 </td>
             
@@ -8617,50 +10924,66 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
+                    
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -8672,8 +10995,10 @@
                         
                         
                     
+                    
                 </td>
                 <td>
+                    
                     
                 </td>
             
@@ -8683,53 +11008,70 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -8740,6 +11082,7 @@
                         
                         
                         
+                    
                     
                 </td>
             
@@ -8749,53 +11092,70 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -8806,6 +11166,7 @@
                         
                         
                         
+                    
                     
                 </td>
             
@@ -8815,53 +11176,70 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -8872,6 +11250,7 @@
                         
                         
                         
+                    
                     
                 </td>
             
@@ -8881,53 +11260,70 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -8938,6 +11334,7 @@
                         
                         
                         
+                    
                     
                 </td>
             
@@ -8947,53 +11344,70 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -9004,6 +11418,7 @@
                         
                         
                         
+                    
                     
                 </td>
             
@@ -9013,53 +11428,70 @@
             
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
                     
-                </td>
-                <td>
                     
                 </td>
                 <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
+                    
+                </td>
+                <td>
+                    
                     
                 </td>
                 <td>
@@ -9071,23 +11503,10 @@
                         
                         
                     
+                    
                 </td>
             
         </tr>
         
     </tbody>
 </table>
-
-## Most elected
-
-
-1. <a href="/alumni/mike-azariah/">Mike Azariah</a>: 7 times
-1. <a href="/alumni/innominate/">Innominate</a>: 6 times
-1. <a href="/alumni/steve-ronuken/">Steve Ronuken</a>: 6 times
-1. <a href="/alumni/aryth/">Aryth</a>: 4 times
-1. <a href="/alumni/brisc-rubal/">Brisc Rubal</a>: 4 times
-1. <a href="/alumni/kenneth-feld/">Kenneth Feld</a>: 4 times
-1. <a href="/alumni/meissa-anunthiel/">Meissa Anunthiel</a>: 4 times
-1. <a href="/alumni/merkelchen/">Merkelchen</a>: 4 times
-1. <a href="/alumni/trebor-daehdoow/">Trebor Daehdoow</a>: 4 times
-

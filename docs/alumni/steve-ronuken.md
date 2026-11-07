@@ -148,3 +148,5 @@ The percentage is number of ballots for them divided by total number of ballots 
 
 [Source data](/data/alumni/steve-ronuken-rank-distribution.csv)
 
+
+_If you would like any personal message or information on this page, contact @Kenn on the [EVE Ref Discord](https://everef.net/discord)._

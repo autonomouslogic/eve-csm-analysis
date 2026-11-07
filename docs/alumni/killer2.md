@@ -25,3 +25,5 @@
 </table>
 
 
+
+_If you would like any personal message or information on this page, contact @Kenn on the [EVE Ref Discord](https://everef.net/discord)._
