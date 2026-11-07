@@ -28,52 +28,52 @@
     <tbody>
         
         <tr>
-            <td>Kazanir</td>
+            <td><a href="/alumni/kazanir/">Kazanir</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">6,741.0</td>
         </tr>
         <tr>
-            <td>Alcoholic Satan</td>
+            <td><a href="/alumni/alcoholic-satan/">Alcoholic Satan</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">6,501.0</td>
         </tr>
         <tr>
-            <td>Luke Anninan</td>
+            <td><a href="/alumni/luke-anninan/">Luke Anninan</a></td>
             <td style="text-align: right">30</td>
             <td style="text-align: right">4,169.0</td>
         </tr>
         <tr>
-            <td>Angry Mustache</td>
+            <td><a href="/alumni/angry-mustache/">Angry Mustache</a></td>
             <td style="text-align: right">32</td>
             <td style="text-align: right">4,136.4</td>
         </tr>
         <tr>
-            <td>Storm Delay</td>
+            <td><a href="/alumni/storm-delay/">Storm Delay</a></td>
             <td style="text-align: right">33</td>
             <td style="text-align: right">4,108.3</td>
         </tr>
         <tr>
-            <td>Dark Shines</td>
+            <td><a href="/alumni/dark-shines/">Dark Shines</a></td>
             <td style="text-align: right">38</td>
             <td style="text-align: right">3,968.0</td>
         </tr>
         <tr>
-            <td>Mike Azariah</td>
+            <td><a href="/alumni/mike-azariah/">Mike Azariah</a></td>
             <td style="text-align: right">38</td>
             <td style="text-align: right">4,237.4</td>
         </tr>
         <tr>
-            <td>The Oz </td>
+            <td><a href="/alumni/the-oz/">The Oz</a></td>
             <td style="text-align: right">38</td>
             <td style="text-align: right">3,973.1</td>
         </tr>
         <tr>
-            <td>Mark Resurrectus</td>
+            <td><a href="/alumni/mark-resurrectus/">Mark Resurrectus</a></td>
             <td style="text-align: right">39</td>
             <td style="text-align: right"></td>
         </tr>
         <tr>
-            <td>Amelia Duskspace</td>
+            <td><a href="/alumni/amelia-duskspace/">Amelia Duskspace</a></td>
             <td style="text-align: right">39</td>
             <td style="text-align: right"></td>
         </tr>
@@ -81,12 +81,12 @@
         
             
             <tr>
-                <td>Kshal Aideron</td>
+                <td><a href="/alumni/kshal-aideron/">Kshal Aideron</a></td>
                 <td style="text-align: right">selected by CCP</td>
                 <td></td>
             </tr>
             <tr>
-                <td>Stitch Kaneland</td>
+                <td><a href="/alumni/stitch-kaneland/">Stitch Kaneland</a></td>
                 <td style="text-align: right">selected by CCP</td>
                 <td></td>
             </tr>
@@ -112,31 +112,31 @@
     <tbody>
         
         <tr>
-            <td>Dujek Oneye</td>
+            <td><a href="/alumni/dujek-oneye/">Dujek Oneye</a></td>
             <td style="text-align: right">39</td>
             <td style="text-align: right">2,916.3</td>
             <td style="text-align: right">955.7</td>
         </tr>
         <tr>
-            <td>Torvald Uruz</td>
+            <td><a href="/alumni/torvald-uruz/">Torvald Uruz</a></td>
             <td style="text-align: right">38</td>
             <td style="text-align: right">2,220.8</td>
             <td style="text-align: right">1,713.2</td>
         </tr>
         <tr>
-            <td>Arhont Sibirskii</td>
+            <td><a href="/alumni/arhont-sibirskii/">Arhont Sibirskii</a></td>
             <td style="text-align: right">37</td>
             <td style="text-align: right">1,941.6</td>
             <td style="text-align: right">2,076.4</td>
         </tr>
         <tr>
-            <td>Phantomite </td>
+            <td><a href="/alumni/phantomite/">Phantomite</a></td>
             <td style="text-align: right">36</td>
             <td style="text-align: right">1,821.8</td>
             <td style="text-align: right">2,234.2</td>
         </tr>
         <tr>
-            <td>Pandoralica </td>
+            <td><a href="/alumni/pandoralica/">Pandoralica</a></td>
             <td style="text-align: right">35</td>
             <td style="text-align: right">1,706.0</td>
             <td style="text-align: right">2,372.0</td>
@@ -148,7 +148,7 @@
             <td style="text-align: right">2,785.2</td>
         </tr>
         <tr>
-            <td>Stitch Kaneland</td>
+            <td><a href="/alumni/stitch-kaneland/">Stitch Kaneland</a></td>
             <td style="text-align: right">33</td>
             <td style="text-align: right">1,080.5</td>
             <td style="text-align: right">3,027.5</td>
@@ -160,7 +160,7 @@
             <td style="text-align: right">3,065.6</td>
         </tr>
         <tr>
-            <td>Kshal Aideron</td>
+            <td><a href="/alumni/kshal-aideron/">Kshal Aideron</a></td>
             <td style="text-align: right">31</td>
             <td style="text-align: right">1,022.7</td>
             <td style="text-align: right">3,112.3</td>
@@ -196,13 +196,13 @@
             <td style="text-align: right">3,564.6</td>
         </tr>
         <tr>
-            <td>RGC Godfather </td>
+            <td>RGC Godfather</td>
             <td style="text-align: right">25</td>
             <td style="text-align: right">570.0</td>
             <td style="text-align: right">3,625.0</td>
         </tr>
         <tr>
-            <td>Drake Iddon</td>
+            <td><a href="/alumni/drake-iddon/">Drake Iddon</a></td>
             <td style="text-align: right">24</td>
             <td style="text-align: right">550.0</td>
             <td style="text-align: right">3,652.0</td>
@@ -304,13 +304,13 @@
             <td style="text-align: right">4,011.1</td>
         </tr>
         <tr>
-            <td>Styxx </td>
+            <td>Styxx</td>
             <td style="text-align: right">7</td>
             <td style="text-align: right">254.3</td>
             <td style="text-align: right">4,025.7</td>
         </tr>
         <tr>
-            <td>Sol Weintroub </td>
+            <td>Sol Weintroub</td>
             <td style="text-align: right">6</td>
             <td style="text-align: right">235.5</td>
             <td style="text-align: right">4,046.5</td>
@@ -328,7 +328,7 @@
             <td style="text-align: right">4,103.3</td>
         </tr>
         <tr>
-            <td>SeriesPro </td>
+            <td>SeriesPro</td>
             <td style="text-align: right">3</td>
             <td style="text-align: right">164.1</td>
             <td style="text-align: right">4,121.9</td>
@@ -366,7 +366,7 @@
     <tbody>
         
         <tr class="elected">
-            <td>Kazanir</td>
+            <td><a href="/alumni/kazanir/">Kazanir</a></td>
             <td style="text-align: right">9,137</td>
             <td style="text-align: right">19.4%</td>
             <td style="text-align: right">6,741</td>
@@ -375,7 +375,7 @@
             <td style="text-align: right">1.0</td>
         </tr>
         <tr class="elected">
-            <td>Alcoholic Satan</td>
+            <td><a href="/alumni/alcoholic-satan/">Alcoholic Satan</a></td>
             <td style="text-align: right">9,902</td>
             <td style="text-align: right">21.0%</td>
             <td style="text-align: right">6,501</td>
@@ -384,7 +384,7 @@
             <td style="text-align: right">1.0</td>
         </tr>
         <tr class="elected">
-            <td>Luke Anninan</td>
+            <td><a href="/alumni/luke-anninan/">Luke Anninan</a></td>
             <td style="text-align: right">22,352</td>
             <td style="text-align: right">47.4%</td>
             <td style="text-align: right">3,524</td>
@@ -393,7 +393,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr class="elected">
-            <td>Angry Mustache</td>
+            <td><a href="/alumni/angry-mustache/">Angry Mustache</a></td>
             <td style="text-align: right">16,850</td>
             <td style="text-align: right">35.7%</td>
             <td style="text-align: right">1,011</td>
@@ -402,7 +402,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr class="elected">
-            <td>Storm Delay</td>
+            <td><a href="/alumni/storm-delay/">Storm Delay</a></td>
             <td style="text-align: right">12,420</td>
             <td style="text-align: right">26.3%</td>
             <td style="text-align: right">666</td>
@@ -411,7 +411,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr class="elected">
-            <td>Dark Shines</td>
+            <td><a href="/alumni/dark-shines/">Dark Shines</a></td>
             <td style="text-align: right">6,811</td>
             <td style="text-align: right">14.4%</td>
             <td style="text-align: right">3,176</td>
@@ -420,7 +420,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr class="elected">
-            <td>Mike Azariah</td>
+            <td><a href="/alumni/mike-azariah/">Mike Azariah</a></td>
             <td style="text-align: right">20,641</td>
             <td style="text-align: right">43.8%</td>
             <td style="text-align: right">2,339</td>
@@ -429,7 +429,7 @@
             <td style="text-align: right">7.0</td>
         </tr>
         <tr class="elected">
-            <td>The Oz </td>
+            <td><a href="/alumni/the-oz/">The Oz</a></td>
             <td style="text-align: right">19,638</td>
             <td style="text-align: right">41.6%</td>
             <td style="text-align: right">2,139</td>
@@ -438,7 +438,7 @@
             <td style="text-align: right">7.0</td>
         </tr>
         <tr class="elected">
-            <td>Mark Resurrectus</td>
+            <td><a href="/alumni/mark-resurrectus/">Mark Resurrectus</a></td>
             <td style="text-align: right">19,043</td>
             <td style="text-align: right">40.4%</td>
             <td style="text-align: right">1,639</td>
@@ -447,7 +447,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr class="elected">
-            <td>Amelia Duskspace</td>
+            <td><a href="/alumni/amelia-duskspace/">Amelia Duskspace</a></td>
             <td style="text-align: right">8,979</td>
             <td style="text-align: right">19.0%</td>
             <td style="text-align: right">1,139</td>
@@ -456,7 +456,7 @@
             <td style="text-align: right">5.0</td>
         </tr>
         <tr>
-            <td>Dujek Oneye</td>
+            <td><a href="/alumni/dujek-oneye/">Dujek Oneye</a></td>
             <td style="text-align: right">16,059</td>
             <td style="text-align: right">34.1%</td>
             <td style="text-align: right">1,484</td>
@@ -465,7 +465,7 @@
             <td style="text-align: right">6.0</td>
         </tr>
         <tr>
-            <td>Torvald Uruz</td>
+            <td><a href="/alumni/torvald-uruz/">Torvald Uruz</a></td>
             <td style="text-align: right">5,655</td>
             <td style="text-align: right">12.0%</td>
             <td style="text-align: right">1,032</td>
@@ -474,7 +474,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr>
-            <td>Arhont Sibirskii</td>
+            <td><a href="/alumni/arhont-sibirskii/">Arhont Sibirskii</a></td>
             <td style="text-align: right">3,104</td>
             <td style="text-align: right">6.6%</td>
             <td style="text-align: right">1,480</td>
@@ -483,7 +483,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr>
-            <td>Phantomite </td>
+            <td><a href="/alumni/phantomite/">Phantomite</a></td>
             <td style="text-align: right">4,961</td>
             <td style="text-align: right">10.5%</td>
             <td style="text-align: right">893</td>
@@ -492,7 +492,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr>
-            <td>Pandoralica </td>
+            <td><a href="/alumni/pandoralica/">Pandoralica</a></td>
             <td style="text-align: right">19,797</td>
             <td style="text-align: right">42.0%</td>
             <td style="text-align: right">974</td>
@@ -510,7 +510,7 @@
             <td style="text-align: right">5.0</td>
         </tr>
         <tr>
-            <td>Stitch Kaneland</td>
+            <td><a href="/alumni/stitch-kaneland/">Stitch Kaneland</a></td>
             <td style="text-align: right">6,110</td>
             <td style="text-align: right">13.0%</td>
             <td style="text-align: right">733</td>
@@ -528,7 +528,7 @@
             <td style="text-align: right">5.0</td>
         </tr>
         <tr>
-            <td>Kshal Aideron</td>
+            <td><a href="/alumni/kshal-aideron/">Kshal Aideron</a></td>
             <td style="text-align: right">10,728</td>
             <td style="text-align: right">22.8%</td>
             <td style="text-align: right">631</td>
@@ -582,7 +582,7 @@
             <td style="text-align: right">6.0</td>
         </tr>
         <tr>
-            <td>RGC Godfather </td>
+            <td>RGC Godfather</td>
             <td style="text-align: right">1,978</td>
             <td style="text-align: right">4.2%</td>
             <td style="text-align: right">442</td>
@@ -591,7 +591,7 @@
             <td style="text-align: right">3.5</td>
         </tr>
         <tr>
-            <td>Drake Iddon</td>
+            <td><a href="/alumni/drake-iddon/">Drake Iddon</a></td>
             <td style="text-align: right">10,633</td>
             <td style="text-align: right">22.5%</td>
             <td style="text-align: right">301</td>
@@ -744,7 +744,7 @@
             <td style="text-align: right">5.0</td>
         </tr>
         <tr>
-            <td>Styxx </td>
+            <td>Styxx</td>
             <td style="text-align: right">2,377</td>
             <td style="text-align: right">5.0%</td>
             <td style="text-align: right">240</td>
@@ -753,7 +753,7 @@
             <td style="text-align: right">5.0</td>
         </tr>
         <tr>
-            <td>Sol Weintroub </td>
+            <td>Sol Weintroub</td>
             <td style="text-align: right">1,718</td>
             <td style="text-align: right">3.6%</td>
             <td style="text-align: right">214</td>
@@ -780,7 +780,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr>
-            <td>SeriesPro </td>
+            <td>SeriesPro</td>
             <td style="text-align: right">1,243</td>
             <td style="text-align: right">2.6%</td>
             <td style="text-align: right">156</td>
@@ -975,11 +975,11 @@ How candidates appeared on ballots together. See [Jaccard index](/glossary#jacca
             <li>Angry Mustache</li>
             <li>Kontan Rekor</li>
             <li>Mark Resurrectus</li>
-            <li>Pandoralica </li>
+            <li>Pandoralica</li>
             <li>Dujek Oneye</li>
             <li>Drake Iddon</li>
             <li>Luke Anninan</li>
-            <li>The Oz </li>
+            <li>The Oz</li>
             <li>Mike Azariah</li>
             
         </ol>
@@ -1007,7 +1007,7 @@ How candidates appeared on ballots together. See [Jaccard index](/glossary#jacca
             
             <li>Luke Anninan</li>
             <li>Velonad Tyldamere</li>
-            <li>Pandoralica </li>
+            <li>Pandoralica</li>
             <li>Storm Delay</li>
             <li>White 0rchid</li>
             <li>Nuke Michael</li>
@@ -1023,12 +1023,12 @@ How candidates appeared on ballots together. See [Jaccard index](/glossary#jacca
         <ol>
             
             <li>Dark Shines</li>
-            <li>Pandoralica </li>
+            <li>Pandoralica</li>
             <li>Luke Anninan</li>
             <li>Dujek Oneye</li>
             <li>Kontan Rekor</li>
             <li>Amelia Duskspace</li>
-            <li>The Oz </li>
+            <li>The Oz</li>
             <li>Mark Resurrectus</li>
             <li>White 0rchid</li>
             <li>Angry Mustache</li>
@@ -1042,12 +1042,12 @@ How candidates appeared on ballots together. See [Jaccard index](/glossary#jacca
             <li>Dujek Oneye</li>
             <li>Yondu Quill</li>
             <li>White 0rchid</li>
-            <li>Pandoralica </li>
+            <li>Pandoralica</li>
             <li>Kontan Rekor</li>
             <li>Kshal Aideron</li>
             <li>Luke Anninan</li>
             <li>DutchGunner</li>
-            <li>The Oz </li>
+            <li>The Oz</li>
             <li>Mark Resurrectus</li>
             
         </ol>

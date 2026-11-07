@@ -24,14 +24,14 @@
     <tbody>
         [# th:each="winner : ${analysis.winners}"]
         <tr>
-            <td>[(${winner.candidate})]</td>
+            <td>[(${links.html(winner.candidate)})]</td>
             <td style="text-align: right">[(${#numbers.formatDecimal(winner.votes, 1, 'COMMA', 0, 'POINT')})]</td>
         </tr>
         [/]
         [# th:if="${data.ccpPicks.size()} > 0"]
             [# th:each="winner : ${data.ccpPicks}"]
             <tr>
-                <td>[(${winner})]</td>
+                <td>[(${links.html(winner)})]</td>
                 <td></td>
             </tr>
             [/]

@@ -36,7 +36,7 @@ public class ResultsCsvParser extends AbstractParser {
 				continue;
 			}
 			var matcher = parseLine(line, ROW, "Invalid row");
-			var name = matcher.group("name").trim();
+			var name = normalizeName(matcher.group("name"));
 			if (votes.put(name, Integer.parseInt(matcher.group("votes"))) != null) {
 				throw new IOException("Duplicate candidate \"" + name + "\" on line " + (lineIndex + 1));
 			}

@@ -6,6 +6,7 @@ import com.autonomouslogic.evecsmanalysis.csv.CsmJaccardCsv;
 import com.autonomouslogic.evecsmanalysis.csv.CsmRankDistributionCsv;
 import com.autonomouslogic.evecsmanalysis.csv.CsmVotesCsv;
 import com.autonomouslogic.evecsmanalysis.models.Alumni;
+import com.autonomouslogic.evecsmanalysis.models.Alumnus;
 import com.autonomouslogic.evecsmanalysis.models.CsmAnalysis;
 import com.autonomouslogic.evecsmanalysis.models.CsmConfig;
 import com.autonomouslogic.evecsmanalysis.models.CsmData;
@@ -22,6 +23,7 @@ import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
 import lombok.extern.log4j.Log4j2;
+import org.apache.commons.io.FileUtils;
 import org.thymeleaf.TemplateEngine;
 import org.thymeleaf.context.Context;
 import org.thymeleaf.context.IContext;
@@ -39,24 +41,33 @@ public class AnalysisRenderer {
 	@NonNull
 	private final ObjectMapper objectMapper;
 
-	@SneakyThrows
 	public void renderAll() {
+		// Every election is loaded first, because the alumni set spans all of them and CSM pages link into it.
 		var all = new ArrayList<CsmData>();
 		for (var csmConfig : csmConfigs) {
-			var data = objectMapper.readValue(csmConfig.getCsmData(), CsmData.class).toBuilder()
-					.csmNumber(csmConfig.getCsmNumber())
-					.build();
-			var analysis = applyVotesOverride(
-					objectMapper.readValue(csmConfig.getAnalysisJson(), CsmAnalysis.class).toBuilder()
-							.csmNumber(csmConfig.getCsmNumber())
-							.build(),
-					data.getVotes());
-			data = data.toBuilder().analysis(analysis).build();
-			all.add(data);
-			renderCsm(csmConfig, data);
+			all.add(loadCsm(csmConfig));
 		}
-		renderAlumni(all);
+		var alumni = new AlumniFactory(all).create();
+		var links = new AlumniLinks(alumni);
+		for (int i = 0; i < csmConfigs.size(); i++) {
+			renderCsm(csmConfigs.get(i), all.get(i), links);
+		}
+		renderAlumni(alumni, all);
+		renderAlumnusPages(alumni);
 		renderIndex(all);
+	}
+
+	@SneakyThrows
+	private CsmData loadCsm(CsmConfig csmConfig) {
+		var data = objectMapper.readValue(csmConfig.getCsmData(), CsmData.class).toBuilder()
+				.csmNumber(csmConfig.getCsmNumber())
+				.build();
+		var analysis = applyVotesOverride(
+				objectMapper.readValue(csmConfig.getAnalysisJson(), CsmAnalysis.class).toBuilder()
+						.csmNumber(csmConfig.getCsmNumber())
+						.build(),
+				data.getVotes());
+		return data.toBuilder().analysis(analysis).build();
 	}
 
 	/**
@@ -77,13 +88,13 @@ public class AnalysisRenderer {
 	}
 
 	@SneakyThrows
-	public void renderCsm(CsmConfig csmConfig, CsmData data) {
+	public void renderCsm(CsmConfig csmConfig, CsmData data, AlumniLinks links) {
 		log.info("Rendering analysis for {} to {}", csmConfig.getCsmNumber(), csmConfig.getMarkdownFile());
 		var engine = createEngine();
 		if (data.getAnalysis().isFirstPastThePost()) {
 			// First-past-the-post elections have no ballots, so there is no ballot data to chart.
 			try (var writer = new FileWriter(csmConfig.getMarkdownFile(), StandardCharsets.UTF_8)) {
-				engine.process("csm-fptp.md", createCsmContext(data, data.getAnalysis()), writer);
+				engine.process("csm-fptp.md", createCsmContext(data, data.getAnalysis(), links), writer);
 			}
 			return;
 		}
@@ -95,7 +106,7 @@ public class AnalysisRenderer {
 		new CsmJaccardCsv(data.getAnalysis(), new File("docs/data/csm%d-jaccard.csv".formatted(data.getCsmNumber())))
 				.write();
 		try (var writer = new FileWriter(csmConfig.getMarkdownFile(), StandardCharsets.UTF_8)) {
-			engine.process("csm.md", createCsmContext(data, data.getAnalysis()), writer);
+			engine.process("csm.md", createCsmContext(data, data.getAnalysis(), links), writer);
 		}
 	}
 
@@ -117,10 +128,9 @@ public class AnalysisRenderer {
 	}
 
 	@SneakyThrows
-	private void renderAlumni(List<CsmData> csms) {
+	private void renderAlumni(Alumni alumni, List<CsmData> csms) {
 		var file = new File("docs/alumni.md");
 		log.info("Rendering alumni to {}", file);
-		var alumni = new AlumniFactory(csms).create();
 		var csmNumbers = csms.stream()
 				.map(CsmData::getCsmNumber)
 				.sorted(Ordering.natural().reversed())
@@ -132,11 +142,37 @@ public class AnalysisRenderer {
 		objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File("docs/data/alumni.json"), alumni);
 	}
 
+	/**
+	 * Rewrites docs/alumni/ from scratch, so pages for renamed or removed alumni do not linger.
+	 */
 	@SneakyThrows
-	private IContext createCsmContext(CsmData data, CsmAnalysis analysis) {
+	private void renderAlumnusPages(Alumni alumni) {
+		var dir = new File("docs/alumni");
+		FileUtils.deleteDirectory(dir);
+		FileUtils.forceMkdir(dir);
+		var engine = createEngine();
+		for (var alumnus : alumni.getAlumni().values()) {
+			var file = new File(dir, alumnus.slug() + ".md");
+			try (var writer = new FileWriter(file, StandardCharsets.UTF_8)) {
+				engine.process("alumnus.md", createAlumnusContext(alumnus), writer);
+			}
+		}
+		log.info("Rendered {} alumni pages to {}", alumni.getAlumni().size(), dir);
+	}
+
+	@SneakyThrows
+	private IContext createCsmContext(CsmData data, CsmAnalysis analysis, AlumniLinks links) {
 		var context = new Context(Locale.ENGLISH);
 		context.setVariable("data", data);
 		context.setVariable("analysis", analysis);
+		context.setVariable("links", links);
+		return context;
+	}
+
+	@SneakyThrows
+	private IContext createAlumnusContext(Alumnus alumnus) {
+		var context = new Context(Locale.ENGLISH);
+		context.setVariable("alumnus", alumnus);
 		return context;
 	}
 
@@ -150,6 +186,7 @@ public class AnalysisRenderer {
 	private IContext createAlukniContext(Alumni alumni, List<Integer> csmNumbers) {
 		var context = new Context(Locale.ENGLISH);
 		context.setVariable("alumni", alumni);
+		context.setVariable("links", new AlumniLinks(alumni));
 		context.setVariable("csmNumbers", csmNumbers);
 		context.setVariable("frequent", AlumniFactory.frequentlyElected(alumni, FREQUENT_ELECTED_MINIMUM));
 		return context;

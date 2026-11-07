@@ -59,7 +59,7 @@ public class AuditLogParserTest {
 
 		assertEquals(
 				List.of(
-						"The Oz ",
+						"The Oz",
 						"Mark Resurrectus",
 						"Storm Delay",
 						"Mike Azariah",

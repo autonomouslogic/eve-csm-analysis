@@ -28,7 +28,7 @@
     <tbody>
         [# th:each="winner : ${analysis.winners}"]
         <tr>
-            <td>[(${winner.candidate})]</td>
+            <td>[(${links.html(winner.candidate)})]</td>
             <td style="text-align: right">[(${winner.round})]</td>
             <td style="text-align: right">[(${winner.votes != null} ? ${#numbers.formatDecimal(winner.votes, 1, 'COMMA', 1, 'POINT')} : '')]</td>
         </tr>
@@ -36,7 +36,7 @@
         [# th:if="${data.ccpPicks.size()} > 0"]
             [# th:each="winner : ${data.ccpPicks}"]
             <tr>
-                <td>[(${winner})]</td>
+                <td>[(${links.html(winner)})]</td>
                 <td style="text-align: right">selected by CCP</td>
                 <td></td>
             </tr>
@@ -57,7 +57,7 @@
     <tbody>
         [# th:each="name : ${analysis.withdrawnCandidates}"]
         <tr>
-            <td>[(${name})]</td>
+            <td>[(${links.html(name)})]</td>
         </tr>
         [/]
     </tbody>
@@ -77,13 +77,13 @@
     <tbody>
         [# th:each="name : ${data.resigned}"]
         <tr>
-            <td>[(${name})]</td>
+            <td>[(${links.html(name)})]</td>
             <td>resigned</td>
         </tr>
         [/]
         [# th:each="name : ${data.replacements}"]
         <tr>
-            <td>[(${name})]</td>
+            <td>[(${links.html(name)})]</td>
             <td>replacement</td>
         </tr>
         [/]
@@ -104,7 +104,7 @@
     <tbody>
         [# th:each="eliminated : ${analysis.eliminations}"]
         <tr>
-            <td>[(${eliminated.candidate})]</td>
+            <td>[(${links.html(eliminated.candidate)})]</td>
             <td style="text-align: right">[(${eliminated.round})]</td>
             <td style="text-align: right">[(${#numbers.formatDecimal(eliminated.votes, 1, 'COMMA', 1, 'POINT')})]</td>
             <td style="text-align: right">[(${#numbers.formatDecimal(eliminated.votesShortOfQuota, 1, 'COMMA', 1, 'POINT')})]</td>
@@ -130,7 +130,7 @@
     <tbody>
         [# th:each="stats : ${analysis.candidateStatistics}"]
         <tr[(${stats.elected} ? ' class="elected"' : '')]>
-            <td>[(${stats.candidate})]</td>
+            <td>[(${links.html(stats.candidate)})]</td>
             <td style="text-align: right">[(${#numbers.formatInteger(stats.ballots, 1, 'COMMA')})]</td>
             <td style="text-align: right">[(${#numbers.formatPercent(1.0 * stats.ballots / analysis.totalVotes, 1, 1)})]</td>
             <td style="text-align: right">[(${#numbers.formatInteger(stats.firstChoiceBallots, 1, 'COMMA')})]</td>

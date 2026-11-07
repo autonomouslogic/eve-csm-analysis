@@ -23,11 +23,12 @@ src/main/java/com/autonomouslogic/evecsmanalysis/
   CsmAnalyser.java        Totals, winners/eliminations per round, least significant rank
   LeastSignificantRankRunner.java  Re-runs WrightTalley.py in Docker on truncated ballots
   AnalysisRenderer.java   `thymeleaf`: render docs/*.md and docs/data/* from build JSON
-  AlumniFactory.java      Builds the cross-election alumni table
+  AlumniFactory.java      Builds the cross-election alumni table and each alumnus's runs
+  AlumniLinks.java        Thymeleaf helper: links a candidate name to its alumni page, if one exists
   parser/                 Hand-written line parsers for .blt, auditLog.txt, and results.csv
   models/                 Lombok @Value/@Builder + Jackson models
   csv/                    CSV writers for docs/data/
-src/main/resources/templates/  Thymeleaf TEXT-mode templates: csm.md, index.md, alumni.md
+src/main/resources/templates/  Thymeleaf TEXT-mode templates: csm.md, csm-fptp.md, index.md, alumni.md, alumnus.md
 src/test/java/...         JUnit 5 parser tests, run against every csm* dir
 docs/                     MkDocs source. Mostly GENERATED, see below.
 docs/stylesheets/extra.css  Hand-written CSS (widens the Material content grid), loaded via `extra_css` in mkdocs.yml
@@ -42,6 +43,8 @@ build/csm/                Intermediate JSON (gitignored)
 2. `make thymeleaf` (`./gradlew csmThymeleaf`) — read the analysis JSON plus `csm.json`, render:
    - `docs/csmNN.md` (FPTP elections use `templates/csm-fptp.md`: header, posts and the elected table with votes only)
    - `docs/index.md`, `docs/alumni.md`
+   - `docs/alumni/<slug>.md`, one per alumnus (every candidate who held a seat). `docs/alumni/` is deleted and rebuilt on
+     each render, so stale pages go away. Slugs come from `Alumnus.slug()`.
    - `docs/data/csm-votes.csv`, `docs/data/csm-candidates.csv`, `docs/data/alumni.json`, and per election
      `docs/data/csmNN-rank-distribution.csv` and `docs/data/csmNN-jaccard.csv` (heatmap sources on `docs/csmNN.md`)
 3. `make mkdocs-serve` / `make mkdocs-build` — needs `make init` first (creates `.venv`).
@@ -93,7 +96,9 @@ per metric, e.g. `/glossary#least-significant-rank`).
 - The spelling "talley" is used throughout (code, logs, file names). Keep it consistent rather than renaming
   piecemeal.
 - Thymeleaf templates use TEXT mode with inline syntax (`[(${...})]`, `[# th:each ...]`), not HTML attributes.
-- Name matching between `csm.json` `ccpPicks` and audit-log winners is by exact string (winners are trimmed).
+- Candidate names are normalized by the parsers (`AbstractParser.normalizeName`: trimmed, inner whitespace collapsed), so
+  every output sees the same clean name. Name matching between `csm.json` and the analysis is by exact string.
+  Names are not case-normalized: `Creatnos` and `creatnos` are different candidates.
 - `csm.json` `votes` is an optional integer total for the election. It overrides `totalVotes` (derived from `votes.blt` or `results.csv`) at render time in `AnalysisRenderer`, so percentages and `docs/data/csm-votes.csv` use it. The derived value is logged when it differs.
 - `csm.json` `years` is optional free text (e.g. `"2025-2026"`), shown as a `Years:` bullet on `docs/csmNN.md` only when set.
 - `csm.json` `resigned` (elected members who left mid-term) and `replacements` (members who joined to replace them) are optional
@@ -101,6 +106,13 @@ per metric, e.g. `/glossary#least-significant-rank`).
   Not to be confused with withdrawals (`BallotFile` `-N` lines), which happen before the election.
 - `docs/alumni.md` ends with a "Elected five or more times" list, from `AlumniFactory.frequentlyElected`. It counts
   `elected` and `resigned` seats (not CCP picks or replacements), ordered by count descending, then name.
+- Alumni pages (`docs/alumni/<slug>.md`) exist only for people who held a seat (elected, CCP pick, or replacement).
+  Candidates who never won get no page and stay plain text. `Alumnus.elections` holds seat statuses only and drives
+  alumni ordering and `electedCount()`. `Alumnus.runs` also holds `eliminated` and `withdrawn`, and is what the alumnus
+  page lists. Do not put losing runs in `elections`, or the alumni table order changes.
+- CSM 4 to 7 (FPTP) and CSM 1 to 3 (not in the repo) have no losing runs, so alumnus pages show only their seats there.
+- `AlumniFactory.create` throws when two alumni share a slug, e.g. `T'Amber` and `TAmber`. Fix the name or the slug rule.
+- `mkdocs.yml` sets `not_in_nav: /alumni/`, so alumni pages need no `nav:` entries.
 
 ## Adding a new election
 

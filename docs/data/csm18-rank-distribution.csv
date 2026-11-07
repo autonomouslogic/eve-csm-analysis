@@ -69,16 +69,16 @@ Candidate,Order,Rank,Votes
 "Mike Azariah",7,8,596
 "Mike Azariah",7,9,586
 "Mike Azariah",7,10,6619
-"The Oz ",8,1,2139
-"The Oz ",8,2,1570
-"The Oz ",8,3,1478
-"The Oz ",8,4,1209
-"The Oz ",8,5,735
-"The Oz ",8,6,1415
-"The Oz ",8,7,2271
-"The Oz ",8,8,794
-"The Oz ",8,9,7483
-"The Oz ",8,10,544
+"The Oz",8,1,2139
+"The Oz",8,2,1570
+"The Oz",8,3,1478
+"The Oz",8,4,1209
+"The Oz",8,5,735
+"The Oz",8,6,1415
+"The Oz",8,7,2271
+"The Oz",8,8,794
+"The Oz",8,9,7483
+"The Oz",8,10,544
 "Mark Resurrectus",9,1,1639
 "Mark Resurrectus",9,2,875
 "Mark Resurrectus",9,3,1104
@@ -129,26 +129,26 @@ Candidate,Order,Rank,Votes
 "Arhont Sibirskii",13,8,114
 "Arhont Sibirskii",13,9,234
 "Arhont Sibirskii",13,10,107
-"Phantomite ",14,1,893
-"Phantomite ",14,2,767
-"Phantomite ",14,3,712
-"Phantomite ",14,4,462
-"Phantomite ",14,5,532
-"Phantomite ",14,6,404
-"Phantomite ",14,7,362
-"Phantomite ",14,8,263
-"Phantomite ",14,9,256
-"Phantomite ",14,10,310
-"Pandoralica ",15,1,974
-"Pandoralica ",15,2,3553
-"Pandoralica ",15,3,3568
-"Pandoralica ",15,4,2256
-"Pandoralica ",15,5,6904
-"Pandoralica ",15,6,761
-"Pandoralica ",15,7,513
-"Pandoralica ",15,8,514
-"Pandoralica ",15,9,403
-"Pandoralica ",15,10,351
+"Phantomite",14,1,893
+"Phantomite",14,2,767
+"Phantomite",14,3,712
+"Phantomite",14,4,462
+"Phantomite",14,5,532
+"Phantomite",14,6,404
+"Phantomite",14,7,362
+"Phantomite",14,8,263
+"Phantomite",14,9,256
+"Phantomite",14,10,310
+"Pandoralica",15,1,974
+"Pandoralica",15,2,3553
+"Pandoralica",15,3,3568
+"Pandoralica",15,4,2256
+"Pandoralica",15,5,6904
+"Pandoralica",15,6,761
+"Pandoralica",15,7,513
+"Pandoralica",15,8,514
+"Pandoralica",15,9,403
+"Pandoralica",15,10,351
 "White 0rchid",16,1,846
 "White 0rchid",16,2,665
 "White 0rchid",16,3,1568
@@ -239,16 +239,16 @@ Candidate,Order,Rank,Votes
 "Lee Adoulin",24,8,251
 "Lee Adoulin",24,9,179
 "Lee Adoulin",24,10,141
-"RGC Godfather ",25,1,442
-"RGC Godfather ",25,2,251
-"RGC Godfather ",25,3,296
-"RGC Godfather ",25,4,147
-"RGC Godfather ",25,5,189
-"RGC Godfather ",25,6,165
-"RGC Godfather ",25,7,109
-"RGC Godfather ",25,8,150
-"RGC Godfather ",25,9,127
-"RGC Godfather ",25,10,102
+"RGC Godfather",25,1,442
+"RGC Godfather",25,2,251
+"RGC Godfather",25,3,296
+"RGC Godfather",25,4,147
+"RGC Godfather",25,5,189
+"RGC Godfather",25,6,165
+"RGC Godfather",25,7,109
+"RGC Godfather",25,8,150
+"RGC Godfather",25,9,127
+"RGC Godfather",25,10,102
 "Drake Iddon",26,1,301
 "Drake Iddon",26,2,437
 "Drake Iddon",26,3,683
@@ -419,26 +419,26 @@ Candidate,Order,Rank,Votes
 "Dario Kaelenter",42,8,126
 "Dario Kaelenter",42,9,122
 "Dario Kaelenter",42,10,121
-"Styxx ",43,1,240
-"Styxx ",43,2,270
-"Styxx ",43,3,291
-"Styxx ",43,4,165
-"Styxx ",43,5,574
-"Styxx ",43,6,260
-"Styxx ",43,7,148
-"Styxx ",43,8,132
-"Styxx ",43,9,142
-"Styxx ",43,10,155
-"Sol Weintroub ",44,1,214
-"Sol Weintroub ",44,2,323
-"Sol Weintroub ",44,3,268
-"Sol Weintroub ",44,4,151
-"Sol Weintroub ",44,5,137
-"Sol Weintroub ",44,6,134
-"Sol Weintroub ",44,7,110
-"Sol Weintroub ",44,8,160
-"Sol Weintroub ",44,9,109
-"Sol Weintroub ",44,10,112
+"Styxx",43,1,240
+"Styxx",43,2,270
+"Styxx",43,3,291
+"Styxx",43,4,165
+"Styxx",43,5,574
+"Styxx",43,6,260
+"Styxx",43,7,148
+"Styxx",43,8,132
+"Styxx",43,9,142
+"Styxx",43,10,155
+"Sol Weintroub",44,1,214
+"Sol Weintroub",44,2,323
+"Sol Weintroub",44,3,268
+"Sol Weintroub",44,4,151
+"Sol Weintroub",44,5,137
+"Sol Weintroub",44,6,134
+"Sol Weintroub",44,7,110
+"Sol Weintroub",44,8,160
+"Sol Weintroub",44,9,109
+"Sol Weintroub",44,10,112
 "Grima The Mad",45,1,178
 "Grima The Mad",45,2,219
 "Grima The Mad",45,3,236
@@ -459,16 +459,16 @@ Candidate,Order,Rank,Votes
 "Dhuras",46,8,90
 "Dhuras",46,9,151
 "Dhuras",46,10,99
-"SeriesPro ",47,1,156
-"SeriesPro ",47,2,248
-"SeriesPro ",47,3,172
-"SeriesPro ",47,4,117
-"SeriesPro ",47,5,116
-"SeriesPro ",47,6,81
-"SeriesPro ",47,7,96
-"SeriesPro ",47,8,89
-"SeriesPro ",47,9,84
-"SeriesPro ",47,10,84
+"SeriesPro",47,1,156
+"SeriesPro",47,2,248
+"SeriesPro",47,3,172
+"SeriesPro",47,4,117
+"SeriesPro",47,5,116
+"SeriesPro",47,6,81
+"SeriesPro",47,7,96
+"SeriesPro",47,8,89
+"SeriesPro",47,9,84
+"SeriesPro",47,10,84
 "Melicien Tetro",48,1,136
 "Melicien Tetro",48,2,175
 "Melicien Tetro",48,3,148

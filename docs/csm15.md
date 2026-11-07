@@ -28,52 +28,52 @@
     <tbody>
         
         <tr>
-            <td>Merkelchen</td>
+            <td><a href="/alumni/merkelchen/">Merkelchen</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">5,325.0</td>
         </tr>
         <tr>
-            <td>Gobbins</td>
+            <td><a href="/alumni/gobbins/">Gobbins</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">3,709.0</td>
         </tr>
         <tr>
-            <td>Vily</td>
+            <td><a href="/alumni/vily/">Vily</a></td>
             <td style="text-align: right">19</td>
             <td style="text-align: right">3,477.0</td>
         </tr>
         <tr>
-            <td>Maria Taylor</td>
+            <td><a href="/alumni/maria-taylor/">Maria Taylor</a></td>
             <td style="text-align: right">21</td>
             <td style="text-align: right">3,570.1</td>
         </tr>
         <tr>
-            <td>Innominate</td>
+            <td><a href="/alumni/innominate/">Innominate</a></td>
             <td style="text-align: right">29</td>
             <td style="text-align: right">3,100.7</td>
         </tr>
         <tr>
-            <td>Kenneth Feld</td>
+            <td><a href="/alumni/kenneth-feld/">Kenneth Feld</a></td>
             <td style="text-align: right">29</td>
             <td style="text-align: right">3,232.0</td>
         </tr>
         <tr>
-            <td>Mike Azariah</td>
+            <td><a href="/alumni/mike-azariah/">Mike Azariah</a></td>
             <td style="text-align: right">30</td>
             <td style="text-align: right">3,463.0</td>
         </tr>
         <tr>
-            <td>Brisc Rubal</td>
+            <td><a href="/alumni/brisc-rubal/">Brisc Rubal</a></td>
             <td style="text-align: right">30</td>
             <td style="text-align: right">2,981.6</td>
         </tr>
         <tr>
-            <td>Phantomite</td>
+            <td><a href="/alumni/phantomite/">Phantomite</a></td>
             <td style="text-align: right">30</td>
             <td style="text-align: right"></td>
         </tr>
         <tr>
-            <td>Torvald Uruz</td>
+            <td><a href="/alumni/torvald-uruz/">Torvald Uruz</a></td>
             <td style="text-align: right">30</td>
             <td style="text-align: right"></td>
         </tr>
@@ -117,7 +117,7 @@
             <td style="text-align: right">1,482.5</td>
         </tr>
         <tr>
-            <td>ExookiZ</td>
+            <td><a href="/alumni/exookiz/">ExookiZ</a></td>
             <td style="text-align: right">27</td>
             <td style="text-align: right">1,527.1</td>
             <td style="text-align: right">1,587.9</td>
@@ -141,7 +141,7 @@
             <td style="text-align: right">2,111.2</td>
         </tr>
         <tr>
-            <td>Stitch Kaneland</td>
+            <td><a href="/alumni/stitch-kaneland/">Stitch Kaneland</a></td>
             <td style="text-align: right">23</td>
             <td style="text-align: right">944.6</td>
             <td style="text-align: right">2,233.4</td>
@@ -165,7 +165,7 @@
             <td style="text-align: right">2,509.4</td>
         </tr>
         <tr>
-            <td>The Oz</td>
+            <td><a href="/alumni/the-oz/">The Oz</a></td>
             <td style="text-align: right">19</td>
             <td style="text-align: right">673.2</td>
             <td style="text-align: right">2,540.8</td>
@@ -207,7 +207,7 @@
             <td style="text-align: right">2,846.2</td>
         </tr>
         <tr>
-            <td>UAxDEATH</td>
+            <td><a href="/alumni/uaxdeath/">UAxDEATH</a></td>
             <td style="text-align: right">12</td>
             <td style="text-align: right">357.7</td>
             <td style="text-align: right">2,912.3</td>
@@ -225,7 +225,7 @@
             <td style="text-align: right">3,060.6</td>
         </tr>
         <tr>
-            <td>Xenuria</td>
+            <td><a href="/alumni/xenuria/">Xenuria</a></td>
             <td style="text-align: right">9</td>
             <td style="text-align: right">198.3</td>
             <td style="text-align: right">3,076.7</td>
@@ -267,7 +267,7 @@
             <td style="text-align: right">3,167.1</td>
         </tr>
         <tr>
-            <td>Storm Delay</td>
+            <td><a href="/alumni/storm-delay/">Storm Delay</a></td>
             <td style="text-align: right">2</td>
             <td style="text-align: right">112.2</td>
             <td style="text-align: right">3,171.8</td>
@@ -299,7 +299,7 @@
     <tbody>
         
         <tr class="elected">
-            <td>Merkelchen</td>
+            <td><a href="/alumni/merkelchen/">Merkelchen</a></td>
             <td style="text-align: right">8,090</td>
             <td style="text-align: right">22.4%</td>
             <td style="text-align: right">5,325</td>
@@ -308,7 +308,7 @@
             <td style="text-align: right">1.0</td>
         </tr>
         <tr class="elected">
-            <td>Gobbins</td>
+            <td><a href="/alumni/gobbins/">Gobbins</a></td>
             <td style="text-align: right">15,011</td>
             <td style="text-align: right">41.6%</td>
             <td style="text-align: right">3,709</td>
@@ -317,7 +317,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr class="elected">
-            <td>Vily</td>
+            <td><a href="/alumni/vily/">Vily</a></td>
             <td style="text-align: right">11,146</td>
             <td style="text-align: right">30.9%</td>
             <td style="text-align: right">2,789</td>
@@ -326,7 +326,7 @@
             <td style="text-align: right">6.0</td>
         </tr>
         <tr class="elected">
-            <td>Maria Taylor</td>
+            <td><a href="/alumni/maria-taylor/">Maria Taylor</a></td>
             <td style="text-align: right">8,182</td>
             <td style="text-align: right">22.7%</td>
             <td style="text-align: right">2,556</td>
@@ -335,7 +335,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr class="elected">
-            <td>Innominate</td>
+            <td><a href="/alumni/innominate/">Innominate</a></td>
             <td style="text-align: right">8,018</td>
             <td style="text-align: right">22.2%</td>
             <td style="text-align: right">493</td>
@@ -344,7 +344,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr class="elected">
-            <td>Kenneth Feld</td>
+            <td><a href="/alumni/kenneth-feld/">Kenneth Feld</a></td>
             <td style="text-align: right">8,495</td>
             <td style="text-align: right">23.5%</td>
             <td style="text-align: right">874</td>
@@ -353,7 +353,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr class="elected">
-            <td>Mike Azariah</td>
+            <td><a href="/alumni/mike-azariah/">Mike Azariah</a></td>
             <td style="text-align: right">7,459</td>
             <td style="text-align: right">20.7%</td>
             <td style="text-align: right">1,242</td>
@@ -362,7 +362,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr class="elected">
-            <td>Brisc Rubal</td>
+            <td><a href="/alumni/brisc-rubal/">Brisc Rubal</a></td>
             <td style="text-align: right">10,757</td>
             <td style="text-align: right">29.8%</td>
             <td style="text-align: right">1,794</td>
@@ -371,7 +371,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr class="elected">
-            <td>Phantomite</td>
+            <td><a href="/alumni/phantomite/">Phantomite</a></td>
             <td style="text-align: right">5,109</td>
             <td style="text-align: right">14.1%</td>
             <td style="text-align: right">1,462</td>
@@ -380,7 +380,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr class="elected">
-            <td>Torvald Uruz</td>
+            <td><a href="/alumni/torvald-uruz/">Torvald Uruz</a></td>
             <td style="text-align: right">10,722</td>
             <td style="text-align: right">29.7%</td>
             <td style="text-align: right">1,297</td>
@@ -416,7 +416,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr>
-            <td>ExookiZ</td>
+            <td><a href="/alumni/exookiz/">ExookiZ</a></td>
             <td style="text-align: right">13,792</td>
             <td style="text-align: right">38.2%</td>
             <td style="text-align: right">961</td>
@@ -452,7 +452,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr>
-            <td>Stitch Kaneland</td>
+            <td><a href="/alumni/stitch-kaneland/">Stitch Kaneland</a></td>
             <td style="text-align: right">4,764</td>
             <td style="text-align: right">13.2%</td>
             <td style="text-align: right">698</td>
@@ -488,7 +488,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr>
-            <td>The Oz</td>
+            <td><a href="/alumni/the-oz/">The Oz</a></td>
             <td style="text-align: right">3,564</td>
             <td style="text-align: right">9.9%</td>
             <td style="text-align: right">407</td>
@@ -551,7 +551,7 @@
             <td style="text-align: right">7.0</td>
         </tr>
         <tr>
-            <td>UAxDEATH</td>
+            <td><a href="/alumni/uaxdeath/">UAxDEATH</a></td>
             <td style="text-align: right">6,789</td>
             <td style="text-align: right">18.8%</td>
             <td style="text-align: right">323</td>
@@ -578,7 +578,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr>
-            <td>Xenuria</td>
+            <td><a href="/alumni/xenuria/">Xenuria</a></td>
             <td style="text-align: right">6,866</td>
             <td style="text-align: right">19.0%</td>
             <td style="text-align: right">179</td>
@@ -641,7 +641,7 @@
             <td style="text-align: right">5.0</td>
         </tr>
         <tr>
-            <td>Storm Delay</td>
+            <td><a href="/alumni/storm-delay/">Storm Delay</a></td>
             <td style="text-align: right">4,021</td>
             <td style="text-align: right">11.1%</td>
             <td style="text-align: right">96</td>

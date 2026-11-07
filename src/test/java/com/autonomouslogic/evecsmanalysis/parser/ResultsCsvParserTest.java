@@ -24,6 +24,13 @@ public class ResultsCsvParserTest {
 	}
 
 	@Test
+	public void shouldNormalizeCandidateNameWhitespace() throws IOException {
+		var expected = new LinkedHashMap<String, Integer>();
+		expected.put("Spaced Name", 5);
+		assertEquals(expected, parse("Character,Votes\n  Spaced   Name ,5\n"));
+	}
+
+	@Test
 	public void shouldRejectMissingHeader() throws IOException {
 		assertThrows(IOException.class, () -> parse("The Mittani,10058\n"));
 	}

@@ -13,6 +13,7 @@ import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
 import org.apache.commons.io.IOUtils;
+import org.apache.commons.lang3.StringUtils;
 
 @RequiredArgsConstructor
 public abstract class AbstractParser {
@@ -43,6 +44,13 @@ public abstract class AbstractParser {
 
 	protected void initParser() {
 		lineIndex = 0;
+	}
+
+	/**
+	 * Trims and collapses inner whitespace, so EVE's stray spaces in candidate names do not split one candidate into two.
+	 */
+	protected static String normalizeName(String name) {
+		return StringUtils.normalizeSpace(name);
 	}
 
 	@SneakyThrows

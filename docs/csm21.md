@@ -29,52 +29,52 @@
     <tbody>
         
         <tr>
-            <td>Zintage Enaka</td>
+            <td><a href="/alumni/zintage-enaka/">Zintage Enaka</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">7,523.0</td>
         </tr>
         <tr>
-            <td>Pandoralica</td>
+            <td><a href="/alumni/pandoralica/">Pandoralica</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">3,982.0</td>
         </tr>
         <tr>
-            <td>hyprviper1</td>
+            <td><a href="/alumni/hyprviper1/">hyprviper1</a></td>
             <td style="text-align: right">1</td>
             <td style="text-align: right">4,540.2</td>
         </tr>
         <tr>
-            <td>Sopleb</td>
+            <td><a href="/alumni/sopleb/">Sopleb</a></td>
             <td style="text-align: right">22</td>
             <td style="text-align: right">2,994.7</td>
         </tr>
         <tr>
-            <td>Itaer</td>
+            <td><a href="/alumni/itaer/">Itaer</a></td>
             <td style="text-align: right">29</td>
             <td style="text-align: right">2,940.0</td>
         </tr>
         <tr>
-            <td>Arrowspeeed Bounty</td>
+            <td><a href="/alumni/arrowspeeed-bounty/">Arrowspeeed Bounty</a></td>
             <td style="text-align: right">41</td>
             <td style="text-align: right">2,825.7</td>
         </tr>
         <tr>
-            <td>Dujek Oneye</td>
+            <td><a href="/alumni/dujek-oneye/">Dujek Oneye</a></td>
             <td style="text-align: right">42</td>
             <td style="text-align: right">2,831.8</td>
         </tr>
         <tr>
-            <td>Arhont Sibirskii</td>
+            <td><a href="/alumni/arhont-sibirskii/">Arhont Sibirskii</a></td>
             <td style="text-align: right">43</td>
             <td style="text-align: right">3,352.4</td>
         </tr>
         <tr>
-            <td>Kshal Aideron</td>
+            <td><a href="/alumni/kshal-aideron/">Kshal Aideron</a></td>
             <td style="text-align: right">43</td>
             <td style="text-align: right"></td>
         </tr>
         <tr>
-            <td>Mike Azariah</td>
+            <td><a href="/alumni/mike-azariah/">Mike Azariah</a></td>
             <td style="text-align: right">43</td>
             <td style="text-align: right"></td>
         </tr>
@@ -82,12 +82,12 @@
         
             
             <tr>
-                <td>Limited Liability</td>
+                <td><a href="/alumni/limited-liability/">Limited Liability</a></td>
                 <td style="text-align: right">selected by CCP</td>
                 <td></td>
             </tr>
             <tr>
-                <td>Switch 4</td>
+                <td><a href="/alumni/switch-4/">Switch 4</a></td>
                 <td style="text-align: right">selected by CCP</td>
                 <td></td>
             </tr>
@@ -119,7 +119,7 @@
             <td style="text-align: right">1,005.9</td>
         </tr>
         <tr>
-            <td>Kenneth Feld</td>
+            <td><a href="/alumni/kenneth-feld/">Kenneth Feld</a></td>
             <td style="text-align: right">42</td>
             <td style="text-align: right">1,619.7</td>
             <td style="text-align: right">1,187.3</td>
@@ -131,19 +131,19 @@
             <td style="text-align: right">1,442.4</td>
         </tr>
         <tr>
-            <td>Limited Liability</td>
+            <td><a href="/alumni/limited-liability/">Limited Liability</a></td>
             <td style="text-align: right">40</td>
             <td style="text-align: right">1,189.8</td>
             <td style="text-align: right">1,639.2</td>
         </tr>
         <tr>
-            <td>Switch 4</td>
+            <td><a href="/alumni/switch-4/">Switch 4</a></td>
             <td style="text-align: right">39</td>
             <td style="text-align: right">1,145.9</td>
             <td style="text-align: right">1,706.1</td>
         </tr>
         <tr>
-            <td>Drake Iddon</td>
+            <td><a href="/alumni/drake-iddon/">Drake Iddon</a></td>
             <td style="text-align: right">38</td>
             <td style="text-align: right">878.1</td>
             <td style="text-align: right">1,985.9</td>
@@ -391,7 +391,7 @@
     <tbody>
         
         <tr class="elected">
-            <td>Zintage Enaka</td>
+            <td><a href="/alumni/zintage-enaka/">Zintage Enaka</a></td>
             <td style="text-align: right">9,665</td>
             <td style="text-align: right">29.6%</td>
             <td style="text-align: right">7,523</td>
@@ -400,7 +400,7 @@
             <td style="text-align: right">1.0</td>
         </tr>
         <tr class="elected">
-            <td>Pandoralica</td>
+            <td><a href="/alumni/pandoralica/">Pandoralica</a></td>
             <td style="text-align: right">7,317</td>
             <td style="text-align: right">22.4%</td>
             <td style="text-align: right">3,982</td>
@@ -409,7 +409,7 @@
             <td style="text-align: right">1.0</td>
         </tr>
         <tr class="elected">
-            <td>hyprviper1</td>
+            <td><a href="/alumni/hyprviper1/">hyprviper1</a></td>
             <td style="text-align: right">10,426</td>
             <td style="text-align: right">31.9%</td>
             <td style="text-align: right">157</td>
@@ -418,7 +418,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr class="elected">
-            <td>Sopleb</td>
+            <td><a href="/alumni/sopleb/">Sopleb</a></td>
             <td style="text-align: right">12,047</td>
             <td style="text-align: right">36.9%</td>
             <td style="text-align: right">1,159</td>
@@ -427,7 +427,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr class="elected">
-            <td>Itaer</td>
+            <td><a href="/alumni/itaer/">Itaer</a></td>
             <td style="text-align: right">11,418</td>
             <td style="text-align: right">34.9%</td>
             <td style="text-align: right">2,488</td>
@@ -436,7 +436,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr class="elected">
-            <td>Arrowspeeed Bounty</td>
+            <td><a href="/alumni/arrowspeeed-bounty/">Arrowspeeed Bounty</a></td>
             <td style="text-align: right">6,229</td>
             <td style="text-align: right">19.1%</td>
             <td style="text-align: right">2,582</td>
@@ -445,7 +445,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr class="elected">
-            <td>Dujek Oneye</td>
+            <td><a href="/alumni/dujek-oneye/">Dujek Oneye</a></td>
             <td style="text-align: right">8,556</td>
             <td style="text-align: right">26.2%</td>
             <td style="text-align: right">1,638</td>
@@ -454,7 +454,7 @@
             <td style="text-align: right">3.0</td>
         </tr>
         <tr class="elected">
-            <td>Arhont Sibirskii</td>
+            <td><a href="/alumni/arhont-sibirskii/">Arhont Sibirskii</a></td>
             <td style="text-align: right">14,060</td>
             <td style="text-align: right">43.0%</td>
             <td style="text-align: right">1,627</td>
@@ -463,7 +463,7 @@
             <td style="text-align: right">6.0</td>
         </tr>
         <tr class="elected">
-            <td>Kshal Aideron</td>
+            <td><a href="/alumni/kshal-aideron/">Kshal Aideron</a></td>
             <td style="text-align: right">18,338</td>
             <td style="text-align: right">56.1%</td>
             <td style="text-align: right">776</td>
@@ -472,7 +472,7 @@
             <td style="text-align: right">7.0</td>
         </tr>
         <tr class="elected">
-            <td>Mike Azariah</td>
+            <td><a href="/alumni/mike-azariah/">Mike Azariah</a></td>
             <td style="text-align: right">6,423</td>
             <td style="text-align: right">19.7%</td>
             <td style="text-align: right">703</td>
@@ -490,7 +490,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr>
-            <td>Kenneth Feld</td>
+            <td><a href="/alumni/kenneth-feld/">Kenneth Feld</a></td>
             <td style="text-align: right">5,887</td>
             <td style="text-align: right">18.0%</td>
             <td style="text-align: right">1,061</td>
@@ -508,7 +508,7 @@
             <td style="text-align: right">5.0</td>
         </tr>
         <tr>
-            <td>Limited Liability</td>
+            <td><a href="/alumni/limited-liability/">Limited Liability</a></td>
             <td style="text-align: right">1,603</td>
             <td style="text-align: right">4.9%</td>
             <td style="text-align: right">693</td>
@@ -517,7 +517,7 @@
             <td style="text-align: right">2.0</td>
         </tr>
         <tr>
-            <td>Switch 4</td>
+            <td><a href="/alumni/switch-4/">Switch 4</a></td>
             <td style="text-align: right">4,498</td>
             <td style="text-align: right">13.8%</td>
             <td style="text-align: right">717</td>
@@ -526,7 +526,7 @@
             <td style="text-align: right">4.0</td>
         </tr>
         <tr>
-            <td>Drake Iddon</td>
+            <td><a href="/alumni/drake-iddon/">Drake Iddon</a></td>
             <td style="text-align: right">5,853</td>
             <td style="text-align: right">17.9%</td>
             <td style="text-align: right">488</td>

@@ -18,7 +18,7 @@
     <tbody>
         [# th:each="alumnus : ${alumni.alumni}"]
         <tr>
-            <td>[(${alumnus.key})]</td>
+            <td>[(${links.html(alumnus.key)})]</td>
             [# th:each="csm : ${csmNumbers}"]
                 <td>
                     [# th:if="${ alumnus.value.elections.containsKey(csm) }"]
@@ -45,5 +45,5 @@
 ## Most elected
 
 [# th:each="alumnus : ${frequent}"]
-1. [(${alumnus.name})]: [(${alumnus.electedCount()})] times
+1. [(${links.html(alumnus.name)})]: [(${alumnus.electedCount()})] times
 [/]

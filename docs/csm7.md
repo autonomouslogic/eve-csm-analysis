@@ -26,59 +26,59 @@
     <tbody>
         
         <tr>
-            <td>The Mittani</td>
+            <td><a href="/alumni/the-mittani/">The Mittani</a></td>
             <td style="text-align: right">10,058</td>
         </tr>
         <tr>
-            <td>Two Step</td>
+            <td><a href="/alumni/two-step/">Two Step</a></td>
             <td style="text-align: right">4,150</td>
         </tr>
         <tr>
-            <td>Elise Randolph</td>
+            <td><a href="/alumni/elise-randolph/">Elise Randolph</a></td>
             <td style="text-align: right">3,714</td>
         </tr>
         <tr>
-            <td>Greene Lee</td>
+            <td><a href="/alumni/greene-lee/">Greene Lee</a></td>
             <td style="text-align: right">3,329</td>
         </tr>
         <tr>
-            <td>Trebor Daehdoow</td>
+            <td><a href="/alumni/trebor-daehdoow/">Trebor Daehdoow</a></td>
             <td style="text-align: right">3,184</td>
         </tr>
         <tr>
-            <td>Kelduum Revaan</td>
+            <td><a href="/alumni/kelduum-revaan/">Kelduum Revaan</a></td>
             <td style="text-align: right">3,163</td>
         </tr>
         <tr>
-            <td>Seleene</td>
+            <td><a href="/alumni/seleene/">Seleene</a></td>
             <td style="text-align: right">2,845</td>
         </tr>
         <tr>
-            <td>UAxDEATH</td>
+            <td><a href="/alumni/uaxdeath/">UAxDEATH</a></td>
             <td style="text-align: right">2,465</td>
         </tr>
         <tr>
-            <td>Hans Jagerblitzen</td>
+            <td><a href="/alumni/hans-jagerblitzen/">Hans Jagerblitzen</a></td>
             <td style="text-align: right">2,439</td>
         </tr>
         <tr>
-            <td>Meissa Anunthiel</td>
+            <td><a href="/alumni/meissa-anunthiel/">Meissa Anunthiel</a></td>
             <td style="text-align: right">2,289</td>
         </tr>
         <tr>
-            <td>Dovinian</td>
+            <td><a href="/alumni/dovinian/">Dovinian</a></td>
             <td style="text-align: right">2,284</td>
         </tr>
         <tr>
-            <td>Issler Dainze</td>
+            <td><a href="/alumni/issler-dainze/">Issler Dainze</a></td>
             <td style="text-align: right">1,561</td>
         </tr>
         <tr>
-            <td>Alekseyev Karrde</td>
+            <td><a href="/alumni/alekseyev-karrde/">Alekseyev Karrde</a></td>
             <td style="text-align: right">1,533</td>
         </tr>
         <tr>
-            <td>Darius III</td>
+            <td><a href="/alumni/darius-iii/">Darius III</a></td>
             <td style="text-align: right">1,282</td>
         </tr>
         

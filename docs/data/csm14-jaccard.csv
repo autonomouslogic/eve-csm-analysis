@@ -28,7 +28,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Aryth",1,"Blood Ruin",27,0.01135593220338983
 "Aryth",1,"Crystalline Entity",28,0.004525740147086555
 "Aryth",1,"Aegaeonos",29,0.0033006166941718057
-"Aryth",1," Nahtor Raschura ",30,0.004061110036743376
+"Aryth",1,"Nahtor Raschura",30,0.004061110036743376
 "Aryth",1,"teddy Gbyc",31,0.005086747206830775
 "Aryth",1,"Zap InSpace",32,0.005135867027733682
 "Aryth",1,"Doris Andedarie",33,0.005617442635437494
@@ -72,7 +72,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Gobbins",2,"Blood Ruin",27,0.022712382616291767
 "Gobbins",2,"Crystalline Entity",28,0.009965989084869098
 "Gobbins",2,"Aegaeonos",29,0.10316435259928963
-"Gobbins",2," Nahtor Raschura ",30,0.00458125703263141
+"Gobbins",2,"Nahtor Raschura",30,0.00458125703263141
 "Gobbins",2,"teddy Gbyc",31,0.020914020139426802
 "Gobbins",2,"Zap InSpace",32,0.009246924222239637
 "Gobbins",2,"Doris Andedarie",33,0.004118811881188119
@@ -116,7 +116,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Olmeca Gold",3,"Blood Ruin",27,0.09244146136831669
 "Olmeca Gold",3,"Crystalline Entity",28,0.02749330392311328
 "Olmeca Gold",3,"Aegaeonos",29,0.09660163624921334
-"Olmeca Gold",3," Nahtor Raschura ",30,0.008925750394944709
+"Olmeca Gold",3,"Nahtor Raschura",30,0.008925750394944709
 "Olmeca Gold",3,"teddy Gbyc",31,0.053068252974326866
 "Olmeca Gold",3,"Zap InSpace",32,0.031526939063602856
 "Olmeca Gold",3,"Doris Andedarie",33,0.023147416653499762
@@ -160,7 +160,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Vily",4,"Blood Ruin",27,0.013434127237123731
 "Vily",4,"Crystalline Entity",28,0.004213348654601168
 "Vily",4,"Aegaeonos",29,0.036147432253174155
-"Vily",4," Nahtor Raschura ",30,0.003684312584836145
+"Vily",4,"Nahtor Raschura",30,0.003684312584836145
 "Vily",4,"teddy Gbyc",31,0.0058322750576172335
 "Vily",4,"Zap InSpace",32,0.00721349066067931
 "Vily",4,"Doris Andedarie",33,0.005973600539551017
@@ -204,7 +204,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Merkelchen",5,"Blood Ruin",27,0.008595988538681949
 "Merkelchen",5,"Crystalline Entity",28,0.0035236081747709656
 "Merkelchen",5,"Aegaeonos",29,0.003183673469387755
-"Merkelchen",5," Nahtor Raschura ",30,0.004878930249367546
+"Merkelchen",5,"Nahtor Raschura",30,0.004878930249367546
 "Merkelchen",5,"teddy Gbyc",31,0.003400493071495367
 "Merkelchen",5,"Zap InSpace",32,0.005419580419580419
 "Merkelchen",5,"Doris Andedarie",33,0.00524864335913175
@@ -248,7 +248,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Killah Bee",6,"Blood Ruin",27,0.018330787390640188
 "Killah Bee",6,"Crystalline Entity",28,0.006509594364828759
 "Killah Bee",6,"Aegaeonos",29,0.05867371926731316
-"Killah Bee",6," Nahtor Raschura ",30,0.0074887914470118735
+"Killah Bee",6,"Nahtor Raschura",30,0.0074887914470118735
 "Killah Bee",6,"teddy Gbyc",31,0.01255510829978915
 "Killah Bee",6,"Zap InSpace",32,0.008717129158797037
 "Killah Bee",6,"Doris Andedarie",33,0.0044312426957537985
@@ -292,7 +292,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Dunk Dinkle",7,"Blood Ruin",27,0.03169133705411308
 "Dunk Dinkle",7,"Crystalline Entity",28,0.007057163020465773
 "Dunk Dinkle",7,"Aegaeonos",29,0.053654350898445384
-"Dunk Dinkle",7," Nahtor Raschura ",30,0.0044340247693797465
+"Dunk Dinkle",7,"Nahtor Raschura",30,0.0044340247693797465
 "Dunk Dinkle",7,"teddy Gbyc",31,0.018126435633676222
 "Dunk Dinkle",7,"Zap InSpace",32,0.011582233860408903
 "Dunk Dinkle",7,"Doris Andedarie",33,0.005257304620361945
@@ -336,7 +336,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "ExookiZ",8,"Blood Ruin",27,0.15030756886868146
 "ExookiZ",8,"Crystalline Entity",28,0.0337427643653819
 "ExookiZ",8,"Aegaeonos",29,0.019727047146401985
-"ExookiZ",8," Nahtor Raschura ",30,0.0072846736180545634
+"ExookiZ",8,"Nahtor Raschura",30,0.0072846736180545634
 "ExookiZ",8,"teddy Gbyc",31,0.09953078344945258
 "ExookiZ",8,"Zap InSpace",32,0.03929520346804643
 "ExookiZ",8,"Doris Andedarie",33,0.03715392339693014
@@ -380,7 +380,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Steve Ronuken",9,"Blood Ruin",27,0.039206368064631104
 "Steve Ronuken",9,"Crystalline Entity",28,0.015596617601002193
 "Steve Ronuken",9,"Aegaeonos",29,0.019543585771316214
-"Steve Ronuken",9," Nahtor Raschura ",30,0.008794685226194242
+"Steve Ronuken",9,"Nahtor Raschura",30,0.008794685226194242
 "Steve Ronuken",9,"teddy Gbyc",31,0.026234567901234566
 "Steve Ronuken",9,"Zap InSpace",32,0.019612742036227357
 "Steve Ronuken",9,"Doris Andedarie",33,0.014026039373545506
@@ -424,7 +424,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Innominate",10,"Blood Ruin",27,0.0066101912463098446
 "Innominate",10,"Crystalline Entity",28,0.0031337047353760445
 "Innominate",10,"Aegaeonos",29,0.0020299914871324733
-"Innominate",10," Nahtor Raschura ",30,0.004405599374689121
+"Innominate",10,"Nahtor Raschura",30,0.004405599374689121
 "Innominate",10,"teddy Gbyc",31,0.0032502708559046588
 "Innominate",10,"Zap InSpace",32,0.003873020264195311
 "Innominate",10,"Doris Andedarie",33,0.00294303132226193
@@ -468,7 +468,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Sort Dragon",11,"Blood Ruin",27,0.00918105031215571
 "Sort Dragon",11,"Crystalline Entity",28,0.006055712555510699
 "Sort Dragon",11,"Aegaeonos",29,0.006025457558183325
-"Sort Dragon",11," Nahtor Raschura ",30,0.0073547640690852
+"Sort Dragon",11,"Nahtor Raschura",30,0.0073547640690852
 "Sort Dragon",11,"teddy Gbyc",31,0.004761904761904762
 "Sort Dragon",11,"Zap InSpace",32,0.005760921747479597
 "Sort Dragon",11,"Doris Andedarie",33,0.005201560468140442
@@ -512,7 +512,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Cornak Firefist",12,"Blood Ruin",27,0.024967148488830485
 "Cornak Firefist",12,"Crystalline Entity",28,0.015157836184119037
 "Cornak Firefist",12,"Aegaeonos",29,0.01135101789019124
-"Cornak Firefist",12," Nahtor Raschura ",30,0.010057471264367816
+"Cornak Firefist",12,"Nahtor Raschura",30,0.010057471264367816
 "Cornak Firefist",12,"teddy Gbyc",31,0.011942257217847769
 "Cornak Firefist",12,"Zap InSpace",32,0.013818579833082502
 "Cornak Firefist",12,"Doris Andedarie",33,0.007689081504263945
@@ -556,7 +556,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Stitch Kaneland",13,"Blood Ruin",27,0.23906162725749394
 "Stitch Kaneland",13,"Crystalline Entity",28,0.052270947533281126
 "Stitch Kaneland",13,"Aegaeonos",29,0.06377204884667571
-"Stitch Kaneland",13," Nahtor Raschura ",30,0.010290916287354047
+"Stitch Kaneland",13,"Nahtor Raschura",30,0.010290916287354047
 "Stitch Kaneland",13,"teddy Gbyc",31,0.11634188693806675
 "Stitch Kaneland",13,"Zap InSpace",32,0.05359200922013062
 "Stitch Kaneland",13,"Doris Andedarie",33,0.030427150380339378
@@ -600,7 +600,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Matterall",14,"Blood Ruin",27,0.03928038337654176
 "Matterall",14,"Crystalline Entity",28,0.010229962800135273
 "Matterall",14,"Aegaeonos",29,0.09039979628214923
-"Matterall",14," Nahtor Raschura ",30,0.00447234884320977
+"Matterall",14,"Nahtor Raschura",30,0.00447234884320977
 "Matterall",14,"teddy Gbyc",31,0.024875621890547265
 "Matterall",14,"Zap InSpace",32,0.014725681588690677
 "Matterall",14,"Doris Andedarie",33,0.007391673746813934
@@ -644,7 +644,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Mike Azariah",15,"Blood Ruin",27,0.06979320531757754
 "Mike Azariah",15,"Crystalline Entity",28,0.03603396832683039
 "Mike Azariah",15,"Aegaeonos",29,0.025004735745406327
-"Mike Azariah",15," Nahtor Raschura ",30,0.016040220253770648
+"Mike Azariah",15,"Nahtor Raschura",30,0.016040220253770648
 "Mike Azariah",15,"teddy Gbyc",31,0.03771597134428993
 "Mike Azariah",15,"Zap InSpace",32,0.04971623155505108
 "Mike Azariah",15,"Doris Andedarie",33,0.043909348441926344
@@ -688,7 +688,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "The Judge",16,"Blood Ruin",27,0.016289592760180997
 "The Judge",16,"Crystalline Entity",28,0.008378107640469902
 "The Judge",16,"Aegaeonos",29,0.00672834314550042
-"The Judge",16," Nahtor Raschura ",30,0.007366654233494965
+"The Judge",16,"Nahtor Raschura",30,0.007366654233494965
 "The Judge",16,"teddy Gbyc",31,0.007898894154818325
 "The Judge",16,"Zap InSpace",32,0.012402679703059931
 "The Judge",16,"Doris Andedarie",33,0.010583471378612186
@@ -732,7 +732,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Arrowspeeed Bounty",17,"Blood Ruin",27,0.008476544356711566
 "Arrowspeeed Bounty",17,"Crystalline Entity",28,0.007894378657955628
 "Arrowspeeed Bounty",17,"Aegaeonos",29,0.14827109266943292
-"Arrowspeeed Bounty",17," Nahtor Raschura ",30,0.0060631697687535254
+"Arrowspeeed Bounty",17,"Nahtor Raschura",30,0.0060631697687535254
 "Arrowspeeed Bounty",17,"teddy Gbyc",31,0.025721784776902887
 "Arrowspeeed Bounty",17,"Zap InSpace",32,0.007642799678197908
 "Arrowspeeed Bounty",17,"Doris Andedarie",33,0.006607019958706125
@@ -776,7 +776,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Lorelei Ierendi",18,"Blood Ruin",27,0.049281314168377825
 "Lorelei Ierendi",18,"Crystalline Entity",28,0.06096997690531178
 "Lorelei Ierendi",18,"Aegaeonos",29,0.039375203384315
-"Lorelei Ierendi",18," Nahtor Raschura ",30,0.09037116729424421
+"Lorelei Ierendi",18,"Nahtor Raschura",30,0.09037116729424421
 "Lorelei Ierendi",18,"teddy Gbyc",31,0.036753445635528334
 "Lorelei Ierendi",18,"Zap InSpace",32,0.11797491871806781
 "Lorelei Ierendi",18,"Doris Andedarie",33,0.08035276825085742
@@ -820,7 +820,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Jurius Doctor",19,"Blood Ruin",27,0.061419472247497726
 "Jurius Doctor",19,"Crystalline Entity",28,0.03294691885295912
 "Jurius Doctor",19,"Aegaeonos",29,0.03529127386995407
-"Jurius Doctor",19," Nahtor Raschura ",30,0.014322916666666666
+"Jurius Doctor",19,"Nahtor Raschura",30,0.014322916666666666
 "Jurius Doctor",19,"teddy Gbyc",31,0.030113944655453067
 "Jurius Doctor",19,"Zap InSpace",32,0.055236945366737095
 "Jurius Doctor",19,"Doris Andedarie",33,0.044057052297939776
@@ -864,7 +864,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Matthew Dust",20,"Blood Ruin",27,0.07603341186549582
 "Matthew Dust",20,"Crystalline Entity",28,0.07216494845360824
 "Matthew Dust",20,"Aegaeonos",29,0.018209741114523913
-"Matthew Dust",20," Nahtor Raschura ",30,0.01936619718309859
+"Matthew Dust",20,"Nahtor Raschura",30,0.01936619718309859
 "Matthew Dust",20,"teddy Gbyc",31,0.04607250755287009
 "Matthew Dust",20,"Zap InSpace",32,0.04642954113494434
 "Matthew Dust",20,"Doris Andedarie",33,0.05184331797235023
@@ -908,7 +908,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Insidious Sainthood",21,"Blood Ruin",27,0.15986180904522612
 "Insidious Sainthood",21,"Crystalline Entity",28,0.06065934065934066
 "Insidious Sainthood",21,"Aegaeonos",29,0.019402525408068985
-"Insidious Sainthood",21," Nahtor Raschura ",30,0.017568850902184234
+"Insidious Sainthood",21,"Nahtor Raschura",30,0.017568850902184234
 "Insidious Sainthood",21,"teddy Gbyc",31,0.07132018209408195
 "Insidious Sainthood",21,"Zap InSpace",32,0.03741776315789474
 "Insidious Sainthood",21,"Doris Andedarie",33,0.050226244343891405
@@ -952,7 +952,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Lucrative Business Opportunity",22,"Blood Ruin",27,0.01743955608402695
 "Lucrative Business Opportunity",22,"Crystalline Entity",28,0.05061224489795919
 "Lucrative Business Opportunity",22,"Aegaeonos",29,0.014398513701811427
-"Lucrative Business Opportunity",22," Nahtor Raschura ",30,0.03248730964467005
+"Lucrative Business Opportunity",22,"Nahtor Raschura",30,0.03248730964467005
 "Lucrative Business Opportunity",22,"teddy Gbyc",31,0.025981873111782478
 "Lucrative Business Opportunity",22,"Zap InSpace",32,0.03635014836795252
 "Lucrative Business Opportunity",22,"Doris Andedarie",33,0.03732638888888889
@@ -996,7 +996,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Compayn",23,"Blood Ruin",27,0.16885496183206106
 "Compayn",23,"Crystalline Entity",28,0.05245766212308963
 "Compayn",23,"Aegaeonos",29,0.02013621557595499
-"Compayn",23," Nahtor Raschura ",30,0.013796172674677348
+"Compayn",23,"Nahtor Raschura",30,0.013796172674677348
 "Compayn",23,"teddy Gbyc",31,0.21121571837904216
 "Compayn",23,"Zap InSpace",32,0.08092720618137454
 "Compayn",23,"Doris Andedarie",33,0.05227077977720651
@@ -1040,7 +1040,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Xenuria",24,"Blood Ruin",27,0.020761245674740483
 "Xenuria",24,"Crystalline Entity",28,0.009293278582234709
 "Xenuria",24,"Aegaeonos",29,0.006291162882138995
-"Xenuria",24," Nahtor Raschura ",30,0.004986149584487534
+"Xenuria",24,"Nahtor Raschura",30,0.004986149584487534
 "Xenuria",24,"teddy Gbyc",31,0.00983844241922121
 "Xenuria",24,"Zap InSpace",32,0.011127755189385833
 "Xenuria",24,"Doris Andedarie",33,0.005545286506469501
@@ -1084,7 +1084,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "BlazingBunny",25,"Blood Ruin",27,0.0419921875
 "BlazingBunny",25,"Crystalline Entity",28,0.032331975560081466
 "BlazingBunny",25,"Aegaeonos",29,0.0520501380922031
-"BlazingBunny",25," Nahtor Raschura ",30,0.008257858284496537
+"BlazingBunny",25,"Nahtor Raschura",30,0.008257858284496537
 "BlazingBunny",25,"teddy Gbyc",31,0.019169329073482427
 "BlazingBunny",25,"Zap InSpace",32,0.030175612169181302
 "BlazingBunny",25,"Doris Andedarie",33,0.010711553175210406
@@ -1128,7 +1128,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Manic Velocity",26,"Blood Ruin",27,0.04310189359783589
 "Manic Velocity",26,"Crystalline Entity",28,0.029721079103795154
 "Manic Velocity",26,"Aegaeonos",29,0.015416431660086483
-"Manic Velocity",26," Nahtor Raschura ",30,0.009778201764846173
+"Manic Velocity",26,"Nahtor Raschura",30,0.009778201764846173
 "Manic Velocity",26,"teddy Gbyc",31,0.02502606882168926
 "Manic Velocity",26,"Zap InSpace",32,0.03732014388489208
 "Manic Velocity",26,"Doris Andedarie",33,0.01776239907727797
@@ -1172,7 +1172,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Blood Ruin",27,"Blood Ruin",27,1.0
 "Blood Ruin",27,"Crystalline Entity",28,0.06067961165048544
 "Blood Ruin",27,"Aegaeonos",29,0.02356020942408377
-"Blood Ruin",27," Nahtor Raschura ",30,0.0199479618386817
+"Blood Ruin",27,"Nahtor Raschura",30,0.0199479618386817
 "Blood Ruin",27,"teddy Gbyc",31,0.0724893917963225
 "Blood Ruin",27,"Zap InSpace",32,0.07389937106918239
 "Blood Ruin",27,"Doris Andedarie",33,0.04416013206768469
@@ -1216,7 +1216,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Crystalline Entity",28,"Blood Ruin",27,0.06067961165048544
 "Crystalline Entity",28,"Crystalline Entity",28,1.0
 "Crystalline Entity",28,"Aegaeonos",29,0.0242451967063129
-"Crystalline Entity",28," Nahtor Raschura ",30,0.03076923076923077
+"Crystalline Entity",28,"Nahtor Raschura",30,0.03076923076923077
 "Crystalline Entity",28,"teddy Gbyc",31,0.03727810650887574
 "Crystalline Entity",28,"Zap InSpace",32,0.07396449704142012
 "Crystalline Entity",28,"Doris Andedarie",33,0.05218855218855219
@@ -1260,7 +1260,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Aegaeonos",29,"Blood Ruin",27,0.02356020942408377
 "Aegaeonos",29,"Crystalline Entity",28,0.0242451967063129
 "Aegaeonos",29,"Aegaeonos",29,1.0
-"Aegaeonos",29," Nahtor Raschura ",30,0.02232606438213915
+"Aegaeonos",29,"Nahtor Raschura",30,0.02232606438213915
 "Aegaeonos",29,"teddy Gbyc",31,0.012223071046600458
 "Aegaeonos",29,"Zap InSpace",32,0.044
 "Aegaeonos",29,"Doris Andedarie",33,0.018984337921214997
@@ -1275,50 +1275,50 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Aegaeonos",29,"Zipp Adoudel",42,0.012293144208037825
 "Aegaeonos",29,"Fiedan",43,0.012741859367626238
 "Aegaeonos",29,"Styxx",44,0.027540360873694207
-" Nahtor Raschura ",30,"Aryth",1,0.004061110036743376
-" Nahtor Raschura ",30,"Gobbins",2,0.00458125703263141
-" Nahtor Raschura ",30,"Olmeca Gold",3,0.008925750394944709
-" Nahtor Raschura ",30,"Vily",4,0.003684312584836145
-" Nahtor Raschura ",30,"Merkelchen",5,0.004878930249367546
-" Nahtor Raschura ",30,"Killah Bee",6,0.0074887914470118735
-" Nahtor Raschura ",30,"Dunk Dinkle",7,0.0044340247693797465
-" Nahtor Raschura ",30,"ExookiZ",8,0.0072846736180545634
-" Nahtor Raschura ",30,"Steve Ronuken",9,0.008794685226194242
-" Nahtor Raschura ",30,"Innominate",10,0.004405599374689121
-" Nahtor Raschura ",30,"Sort Dragon",11,0.0073547640690852
-" Nahtor Raschura ",30,"Cornak Firefist",12,0.010057471264367816
-" Nahtor Raschura ",30,"Stitch Kaneland",13,0.010290916287354047
-" Nahtor Raschura ",30,"Matterall",14,0.00447234884320977
-" Nahtor Raschura ",30,"Mike Azariah",15,0.016040220253770648
-" Nahtor Raschura ",30,"The Judge",16,0.007366654233494965
-" Nahtor Raschura ",30,"Arrowspeeed Bounty",17,0.0060631697687535254
-" Nahtor Raschura ",30,"Lorelei Ierendi",18,0.09037116729424421
-" Nahtor Raschura ",30,"Jurius Doctor",19,0.014322916666666666
-" Nahtor Raschura ",30,"Matthew Dust",20,0.01936619718309859
-" Nahtor Raschura ",30,"Insidious Sainthood",21,0.017568850902184234
-" Nahtor Raschura ",30,"Lucrative Business Opportunity",22,0.03248730964467005
-" Nahtor Raschura ",30,"Compayn",23,0.013796172674677348
-" Nahtor Raschura ",30,"Xenuria",24,0.004986149584487534
-" Nahtor Raschura ",30,"BlazingBunny",25,0.008257858284496537
-" Nahtor Raschura ",30,"Manic Velocity",26,0.009778201764846173
-" Nahtor Raschura ",30,"Blood Ruin",27,0.0199479618386817
-" Nahtor Raschura ",30,"Crystalline Entity",28,0.03076923076923077
-" Nahtor Raschura ",30,"Aegaeonos",29,0.02232606438213915
-" Nahtor Raschura ",30," Nahtor Raschura ",30,1.0
-" Nahtor Raschura ",30,"teddy Gbyc",31,0.018543956043956044
-" Nahtor Raschura ",30,"Zap InSpace",32,0.044169611307420496
-" Nahtor Raschura ",30,"Doris Andedarie",33,0.0425531914893617
-" Nahtor Raschura ",30,"Arqui Nurbs",34,0.014272121788772598
-" Nahtor Raschura ",30,"Mr Deathwhisper",35,0.049484536082474224
-" Nahtor Raschura ",30,"Anveri Vestigo",36,0.024963289280469897
-" Nahtor Raschura ",30,"Carbon Alabel",37,0.03474576271186441
-" Nahtor Raschura ",30,"Liz Lizardbreath",38,0.018031942297784646
-" Nahtor Raschura ",30,"Aeryn-Sun",39,0.01977848101265823
-" Nahtor Raschura ",30,"Darien Avan",40,0.04943502824858757
-" Nahtor Raschura ",30,"Cacique Yuhasz",41,0.01929260450160772
-" Nahtor Raschura ",30,"Zipp Adoudel",42,0.016701461377870562
-" Nahtor Raschura ",30,"Fiedan",43,0.040382571732199786
-" Nahtor Raschura ",30,"Styxx",44,0.029958677685950414
+"Nahtor Raschura",30,"Aryth",1,0.004061110036743376
+"Nahtor Raschura",30,"Gobbins",2,0.00458125703263141
+"Nahtor Raschura",30,"Olmeca Gold",3,0.008925750394944709
+"Nahtor Raschura",30,"Vily",4,0.003684312584836145
+"Nahtor Raschura",30,"Merkelchen",5,0.004878930249367546
+"Nahtor Raschura",30,"Killah Bee",6,0.0074887914470118735
+"Nahtor Raschura",30,"Dunk Dinkle",7,0.0044340247693797465
+"Nahtor Raschura",30,"ExookiZ",8,0.0072846736180545634
+"Nahtor Raschura",30,"Steve Ronuken",9,0.008794685226194242
+"Nahtor Raschura",30,"Innominate",10,0.004405599374689121
+"Nahtor Raschura",30,"Sort Dragon",11,0.0073547640690852
+"Nahtor Raschura",30,"Cornak Firefist",12,0.010057471264367816
+"Nahtor Raschura",30,"Stitch Kaneland",13,0.010290916287354047
+"Nahtor Raschura",30,"Matterall",14,0.00447234884320977
+"Nahtor Raschura",30,"Mike Azariah",15,0.016040220253770648
+"Nahtor Raschura",30,"The Judge",16,0.007366654233494965
+"Nahtor Raschura",30,"Arrowspeeed Bounty",17,0.0060631697687535254
+"Nahtor Raschura",30,"Lorelei Ierendi",18,0.09037116729424421
+"Nahtor Raschura",30,"Jurius Doctor",19,0.014322916666666666
+"Nahtor Raschura",30,"Matthew Dust",20,0.01936619718309859
+"Nahtor Raschura",30,"Insidious Sainthood",21,0.017568850902184234
+"Nahtor Raschura",30,"Lucrative Business Opportunity",22,0.03248730964467005
+"Nahtor Raschura",30,"Compayn",23,0.013796172674677348
+"Nahtor Raschura",30,"Xenuria",24,0.004986149584487534
+"Nahtor Raschura",30,"BlazingBunny",25,0.008257858284496537
+"Nahtor Raschura",30,"Manic Velocity",26,0.009778201764846173
+"Nahtor Raschura",30,"Blood Ruin",27,0.0199479618386817
+"Nahtor Raschura",30,"Crystalline Entity",28,0.03076923076923077
+"Nahtor Raschura",30,"Aegaeonos",29,0.02232606438213915
+"Nahtor Raschura",30,"Nahtor Raschura",30,1.0
+"Nahtor Raschura",30,"teddy Gbyc",31,0.018543956043956044
+"Nahtor Raschura",30,"Zap InSpace",32,0.044169611307420496
+"Nahtor Raschura",30,"Doris Andedarie",33,0.0425531914893617
+"Nahtor Raschura",30,"Arqui Nurbs",34,0.014272121788772598
+"Nahtor Raschura",30,"Mr Deathwhisper",35,0.049484536082474224
+"Nahtor Raschura",30,"Anveri Vestigo",36,0.024963289280469897
+"Nahtor Raschura",30,"Carbon Alabel",37,0.03474576271186441
+"Nahtor Raschura",30,"Liz Lizardbreath",38,0.018031942297784646
+"Nahtor Raschura",30,"Aeryn-Sun",39,0.01977848101265823
+"Nahtor Raschura",30,"Darien Avan",40,0.04943502824858757
+"Nahtor Raschura",30,"Cacique Yuhasz",41,0.01929260450160772
+"Nahtor Raschura",30,"Zipp Adoudel",42,0.016701461377870562
+"Nahtor Raschura",30,"Fiedan",43,0.040382571732199786
+"Nahtor Raschura",30,"Styxx",44,0.029958677685950414
 "teddy Gbyc",31,"Aryth",1,0.005086747206830775
 "teddy Gbyc",31,"Gobbins",2,0.020914020139426802
 "teddy Gbyc",31,"Olmeca Gold",3,0.053068252974326866
@@ -1348,7 +1348,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "teddy Gbyc",31,"Blood Ruin",27,0.0724893917963225
 "teddy Gbyc",31,"Crystalline Entity",28,0.03727810650887574
 "teddy Gbyc",31,"Aegaeonos",29,0.012223071046600458
-"teddy Gbyc",31," Nahtor Raschura ",30,0.018543956043956044
+"teddy Gbyc",31,"Nahtor Raschura",30,0.018543956043956044
 "teddy Gbyc",31,"teddy Gbyc",31,1.0
 "teddy Gbyc",31,"Zap InSpace",32,0.05612244897959184
 "teddy Gbyc",31,"Doris Andedarie",33,0.08279009126466753
@@ -1392,7 +1392,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Zap InSpace",32,"Blood Ruin",27,0.07389937106918239
 "Zap InSpace",32,"Crystalline Entity",28,0.07396449704142012
 "Zap InSpace",32,"Aegaeonos",29,0.044
-"Zap InSpace",32," Nahtor Raschura ",30,0.044169611307420496
+"Zap InSpace",32,"Nahtor Raschura",30,0.044169611307420496
 "Zap InSpace",32,"teddy Gbyc",31,0.05612244897959184
 "Zap InSpace",32,"Zap InSpace",32,1.0
 "Zap InSpace",32,"Doris Andedarie",33,0.0625
@@ -1436,7 +1436,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Doris Andedarie",33,"Blood Ruin",27,0.04416013206768469
 "Doris Andedarie",33,"Crystalline Entity",28,0.05218855218855219
 "Doris Andedarie",33,"Aegaeonos",29,0.018984337921214997
-"Doris Andedarie",33," Nahtor Raschura ",30,0.0425531914893617
+"Doris Andedarie",33,"Nahtor Raschura",30,0.0425531914893617
 "Doris Andedarie",33,"teddy Gbyc",31,0.08279009126466753
 "Doris Andedarie",33,"Zap InSpace",32,0.0625
 "Doris Andedarie",33,"Doris Andedarie",33,1.0
@@ -1480,7 +1480,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Arqui Nurbs",34,"Blood Ruin",27,0.01572413793103448
 "Arqui Nurbs",34,"Crystalline Entity",28,0.014358108108108109
 "Arqui Nurbs",34,"Aegaeonos",29,0.3426943426943427
-"Arqui Nurbs",34," Nahtor Raschura ",30,0.014272121788772598
+"Arqui Nurbs",34,"Nahtor Raschura",30,0.014272121788772598
 "Arqui Nurbs",34,"teddy Gbyc",31,0.07202743902439024
 "Arqui Nurbs",34,"Zap InSpace",32,0.01659247268312424
 "Arqui Nurbs",34,"Doris Andedarie",33,0.012713722051731697
@@ -1524,7 +1524,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Mr Deathwhisper",35,"Blood Ruin",27,0.05160628844839371
 "Mr Deathwhisper",35,"Crystalline Entity",28,0.041135573580533026
 "Mr Deathwhisper",35,"Aegaeonos",29,0.04621359223300971
-"Mr Deathwhisper",35," Nahtor Raschura ",30,0.049484536082474224
+"Mr Deathwhisper",35,"Nahtor Raschura",30,0.049484536082474224
 "Mr Deathwhisper",35,"teddy Gbyc",31,0.05393794749403341
 "Mr Deathwhisper",35,"Zap InSpace",32,0.06121313299944352
 "Mr Deathwhisper",35,"Doris Andedarie",33,0.040268456375838924
@@ -1568,7 +1568,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Anveri Vestigo",36,"Blood Ruin",27,0.09151537606520933
 "Anveri Vestigo",36,"Crystalline Entity",28,0.028395061728395062
 "Anveri Vestigo",36,"Aegaeonos",29,0.11048526863084922
-"Anveri Vestigo",36," Nahtor Raschura ",30,0.024963289280469897
+"Anveri Vestigo",36,"Nahtor Raschura",30,0.024963289280469897
 "Anveri Vestigo",36,"teddy Gbyc",31,0.10596379126730564
 "Anveri Vestigo",36,"Zap InSpace",32,0.059033989266547404
 "Anveri Vestigo",36,"Doris Andedarie",33,0.06279540850776502
@@ -1612,7 +1612,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Carbon Alabel",37,"Blood Ruin",27,0.03164556962025317
 "Carbon Alabel",37,"Crystalline Entity",28,0.03254847645429363
 "Carbon Alabel",37,"Aegaeonos",29,0.017902813299232736
-"Carbon Alabel",37," Nahtor Raschura ",30,0.03474576271186441
+"Carbon Alabel",37,"Nahtor Raschura",30,0.03474576271186441
 "Carbon Alabel",37,"teddy Gbyc",31,0.02644360496492175
 "Carbon Alabel",37,"Zap InSpace",32,0.046405228758169936
 "Carbon Alabel",37,"Doris Andedarie",33,0.030950626381724394
@@ -1656,7 +1656,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Liz Lizardbreath",38,"Blood Ruin",27,0.03432091522440599
 "Liz Lizardbreath",38,"Crystalline Entity",28,0.03741339491916859
 "Liz Lizardbreath",38,"Aegaeonos",29,0.022113821138211382
-"Liz Lizardbreath",38," Nahtor Raschura ",30,0.018031942297784646
+"Liz Lizardbreath",38,"Nahtor Raschura",30,0.018031942297784646
 "Liz Lizardbreath",38,"teddy Gbyc",31,0.03304821150855365
 "Liz Lizardbreath",38,"Zap InSpace",32,0.0650994575045208
 "Liz Lizardbreath",38,"Doris Andedarie",33,0.04563106796116505
@@ -1700,7 +1700,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Aeryn-Sun",39,"Blood Ruin",27,0.019755747126436782
 "Aeryn-Sun",39,"Crystalline Entity",28,0.01962066710268149
 "Aeryn-Sun",39,"Aegaeonos",29,0.01739850869925435
-"Aeryn-Sun",39," Nahtor Raschura ",30,0.01977848101265823
+"Aeryn-Sun",39,"Nahtor Raschura",30,0.01977848101265823
 "Aeryn-Sun",39,"teddy Gbyc",31,0.013374485596707819
 "Aeryn-Sun",39,"Zap InSpace",32,0.043125
 "Aeryn-Sun",39,"Doris Andedarie",33,0.04042553191489362
@@ -1744,7 +1744,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Darien Avan",40,"Blood Ruin",27,0.020926090828138913
 "Darien Avan",40,"Crystalline Entity",28,0.0326197757390418
 "Darien Avan",40,"Aegaeonos",29,0.01703940362087327
-"Darien Avan",40," Nahtor Raschura ",30,0.04943502824858757
+"Darien Avan",40,"Nahtor Raschura",30,0.04943502824858757
 "Darien Avan",40,"teddy Gbyc",31,0.01496792587312901
 "Darien Avan",40,"Zap InSpace",32,0.058435438265786996
 "Darien Avan",40,"Doris Andedarie",33,0.05862068965517241
@@ -1788,7 +1788,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Cacique Yuhasz",41,"Blood Ruin",27,0.018063583815028903
 "Cacique Yuhasz",41,"Crystalline Entity",28,0.011176857330703484
 "Cacique Yuhasz",41,"Aegaeonos",29,0.10230873698506111
-"Cacique Yuhasz",41," Nahtor Raschura ",30,0.01929260450160772
+"Cacique Yuhasz",41,"Nahtor Raschura",30,0.01929260450160772
 "Cacique Yuhasz",41,"teddy Gbyc",31,0.10299943406904358
 "Cacique Yuhasz",41,"Zap InSpace",32,0.02360248447204969
 "Cacique Yuhasz",41,"Doris Andedarie",33,0.04782608695652174
@@ -1832,7 +1832,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Zipp Adoudel",42,"Blood Ruin",27,0.13285457809694792
 "Zipp Adoudel",42,"Crystalline Entity",28,0.029801324503311258
 "Zipp Adoudel",42,"Aegaeonos",29,0.012293144208037825
-"Zipp Adoudel",42," Nahtor Raschura ",30,0.016701461377870562
+"Zipp Adoudel",42,"Nahtor Raschura",30,0.016701461377870562
 "Zipp Adoudel",42,"teddy Gbyc",31,0.01596071209330878
 "Zipp Adoudel",42,"Zap InSpace",32,0.029657794676806085
 "Zipp Adoudel",42,"Doris Andedarie",33,0.01856763925729443
@@ -1876,7 +1876,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Fiedan",43,"Blood Ruin",27,0.10581547879317883
 "Fiedan",43,"Crystalline Entity",28,0.06207482993197279
 "Fiedan",43,"Aegaeonos",29,0.012741859367626238
-"Fiedan",43," Nahtor Raschura ",30,0.040382571732199786
+"Fiedan",43,"Nahtor Raschura",30,0.040382571732199786
 "Fiedan",43,"teddy Gbyc",31,0.09138724523339908
 "Fiedan",43,"Zap InSpace",32,0.07942811755361398
 "Fiedan",43,"Doris Andedarie",33,0.08536585365853659
@@ -1920,7 +1920,7 @@ Candidate,Order,Other,OtherOrder,Jaccard
 "Styxx",44,"Blood Ruin",27,0.04129190515126738
 "Styxx",44,"Crystalline Entity",28,0.04365733113673806
 "Styxx",44,"Aegaeonos",29,0.027540360873694207
-"Styxx",44," Nahtor Raschura ",30,0.029958677685950414
+"Styxx",44,"Nahtor Raschura",30,0.029958677685950414
 "Styxx",44,"teddy Gbyc",31,0.02254722730042657
 "Styxx",44,"Zap InSpace",32,0.0851063829787234
 "Styxx",44,"Doris Andedarie",33,0.0528673835125448
